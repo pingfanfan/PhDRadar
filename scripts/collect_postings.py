@@ -124,7 +124,13 @@ COUNTRY = {"GB": "UK", "UNITED KINGDOM": "UK", "UK": "UK", "ENGLAND": "UK", "SCO
            "AUSTRIA": "AT", "POLAND": "PL", "CZECH REPUBLIC": "CZ", "CZECHIA": "CZ", "LUXEMBOURG": "LU",
            "SINGAPORE": "SG", "JAPAN": "JP", "SOUTH KOREA": "KR", "KOREA": "KR", "AUSTRALIA": "AU",
            "NEW ZEALAND": "NZ", "CANADA": "CA", "UNITED STATES": "US", "USA": "US", "US": "US", "MACAU": "MO",
-           "TAIWAN": "TW", "ISRAEL": "IL", "QATAR": "QA", "SAUDI ARABIA": "SA", "UNITED ARAB EMIRATES": "AE"}
+           "TAIWAN": "TW", "ISRAEL": "IL", "QATAR": "QA", "SAUDI ARABIA": "SA", "UNITED ARAB EMIRATES": "AE",
+           "ÖSTERREICH": "AT", "DEUTSCHLAND": "DE", "SCHWEIZ": "CH", "MOROCCO": "MA"}
+US_STATES = ("Alabama|Alaska|Arizona|Arkansas|California|Colorado|Connecticut|Delaware|Florida|Georgia|Hawaii|Idaho|Illinois|"
+             "Indiana|Iowa|Kansas|Kentucky|Louisiana|Maine|Maryland|Massachusetts|Michigan|Minnesota|Mississippi|Missouri|"
+             "Montana|Nebraska|Nevada|New Hampshire|New Jersey|New Mexico|New York|North Carolina|North Dakota|Ohio|Oklahoma|"
+             "Oregon|Pennsylvania|Rhode Island|South Carolina|South Dakota|Tennessee|Texas|Utah|Vermont|Virginia|Washington|"
+             "West Virginia|Wisconsin|Wyoming|District of Columbia")
 
 
 def country_code(raw: str) -> str:
@@ -133,6 +139,18 @@ def country_code(raw: str) -> str:
     if raw in COUNTRY:
         return COUNTRY[raw]
     return raw if len(raw) == 2 and raw.isalpha() else ""
+
+
+def place_country(place: str) -> str:
+    """Madgex 的地点栏 → 地区代码：'Vienna (AT)' 取括号里的代码，否则找完整国名；认不出留空。"""
+    m = re.search(r"\(([A-Z]{2})\)", place or "")
+    if m:
+        return country_code(m.group(1))
+    up = (place or "").upper()
+    hits = {v for k, v in COUNTRY.items() if len(k) > 2 and re.search(rf"\b{k}\b", up)}
+    if not hits and re.search(rf",\s*(?:{US_STATES})\s*$", place or ""):  # 'Memphis, Tennessee'（Georgia 等州名放在逗号后才算）
+        hits = {"US"}
+    return hits.pop() if len(hits) == 1 else ""
 
 
 def jac_field(text: str, name: str, nxt: str) -> str:
@@ -246,7 +264,7 @@ def at_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, st
     }, "收录"
 
 
-# ───────────────────────── Madgex 系招聘站（Nature Careers、Science Careers、Physics Today） ─────────────────────────
+# ───────────────────────── Madgex 系招聘站（Nature Careers、Science Careers、Physics Today、THE Unijobs） ─────────────────────────
 # 同一套建站系统：站点地图索引 → /job/<编号>/<slug>/；详情页有 Employer / Location / Salary / Closing date（或 Closes）
 
 MADGEX = {  # 适配器名: (站点地图索引, 平台名, 岗位链接前缀)
@@ -254,6 +272,9 @@ MADGEX = {  # 适配器名: (站点地图索引, 平台名, 岗位链接前缀)
                       "https://www.nature.com/naturecareers/job/"),
     "sciencecareers": ("https://jobs.sciencecareers.org/sitemapindex.xml", "Science Careers", "https://jobs.sciencecareers.org/job/"),
     "physicstoday": ("https://jobs.physicstoday.org/sitemapindex.xml", "Physics Today Jobs", "https://jobs.physicstoday.org/job/"),
+    # THE 的索引里前几个是分类列表页，岗位在 sitemap2-*
+    "the-unijobs": ("https://www.timeshighereducation.com/unijobs/sitemapindex.xml", "THE Unijobs",
+                    "https://www.timeshighereducation.com/unijobs/listing/", r"/sitemap2-"),
 }
 NC_SLUG = re.compile(r"phd|doctoral|doctorate|postdoc|post-doc|postdoctoral|studentship", re.I)
 MG_DATE = r"(\d{1,2}\s+[A-Za-z]{3,9}\s+\d{4}|[A-Za-z]{3,9}\.?\s+\d{1,2},\s+\d{4})"
@@ -265,12 +286,13 @@ def mg_day(s: str) -> str | None:
 
 
 def madgex(name: str):
-    index, via, prefix = MADGEX[name]
+    index, via, prefix, *only = MADGEX[name]
     job_re = re.compile(r"<loc>\s*(" + re.escape(prefix) + r"(\d+)/([^<\s]*))\s*</loc>")
 
     def urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
         out: dict[str, str] = {}
-        for sm in re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", f.get(index).text)[:max_pages]:
+        sitemaps = re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", f.get(index).text)
+        for sm in [u for u in sitemaps if not only or re.search(only[0], u)][:max_pages]:
             for url, jid, slug in job_re.findall(f.get(sm).text):
                 if NC_SLUG.search(slug):
                     out.setdefault(jid, url)
@@ -301,7 +323,7 @@ def madgex(name: str):
             "title": re.sub(r"\s+", " ", title)[:200],
             "url": url,
             "org": emp.group(1).strip() if emp else "",
-            "country": "US" if loc and re.search(r"\(US\)|United States", loc.group(1)) else "",
+            "country": place_country(loc.group(1)) if loc else "",
             "place": (loc.group(1).strip() if loc else "")[:80],
             "level": level,
             "deadline": deadline,
@@ -575,11 +597,11 @@ def fap_detail(pid: str, url: str, raw: str, today: str) -> tuple[dict | None, s
 ADAPTERS = {"jobs-ac-uk": (jac_urls, jac_detail), "academictransfer": (at_urls, at_detail),
             "findaphd": (fap_urls, fap_detail), "jobbnorge": (jn_urls, jn_detail), "varbi": (vb_urls, vb_detail),
             **{k: madgex(k) for k in MADGEX}, **{k: institute(k) for k in INSTITUTES}}
-DEFAULT = "jobs-ac-uk,academictransfer,naturecareers,sciencecareers,physicstoday,jobbnorge,varbi,ethz,inria,mpg"  # findaphd 需在本地电脑运行，不放进默认
+DEFAULT = "jobs-ac-uk,academictransfer,naturecareers,sciencecareers,physicstoday,the-unijobs,jobbnorge,varbi,ethz,inria,mpg"  # findaphd 需在本地电脑运行，不放进默认
 
 
 # 同一岗位常在多个平台出现：机构 + 标题 + 截止日期相同视为同一个，只留信息最全的那条
-VIA_RANK = {"jobs.ac.uk": 3, "AcademicTransfer": 3, "Nature Careers": 2, "Science Careers": 2, "Physics Today Jobs": 2, "Jobbnorge": 3, "Varbi": 3,
+VIA_RANK = {"jobs.ac.uk": 3, "AcademicTransfer": 3, "Nature Careers": 2, "Science Careers": 2, "Physics Today Jobs": 2, "THE Unijobs": 2, "Jobbnorge": 3, "Varbi": 3,
             "FindAPhD": 1}
 TITLE_NOISE = re.compile(r"\b(phd|ph\.d|studentship|position|project|fully|funded|scholarship|the|a|an|in|on|of|for|and|with)\b|[^a-z0-9]+")
 

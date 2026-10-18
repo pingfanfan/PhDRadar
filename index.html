@@ -118,6 +118,13 @@ main.in{padding-top:18px;padding-bottom:64px;display:flex;gap:18px;align-items:f
 .tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:2px}
 .tag{font-size:12px;padding:1px 8px;border-radius:4px;background:var(--soft);color:var(--ink-2)}
 .tag.yes{background:var(--brand-soft);color:var(--brand-text);font-weight:700}
+.tag.warn{background:none;box-shadow:inset 0 0 0 1px currentColor;color:var(--urgent);font-weight:700}
+.grp{display:flex;align-items:center;gap:10px;margin:10px 2px 0;font-size:13.5px;font-weight:700;color:var(--ink-2)}
+.grp:first-child{margin-top:0}
+.grp small{font-family:var(--f-mono);font-weight:400;color:var(--faint)}
+.grp::after{content:"";flex:1;height:1px;background:var(--line)}
+.alert{padding:14px 16px;border-radius:12px;box-shadow:inset 0 0 0 1px var(--urgent)}
+.alert h2{color:var(--urgent)}
 .due{margin-top:4px;font-size:12.5px;font-weight:700;color:var(--muted)}
 .due.u{color:var(--urgent)}.due.s{color:var(--soon)}.due.r{color:var(--brand-text)}
 .bm{flex:none;align-self:flex-start;width:44px;height:44px;margin:8px 8px 0 0;border:0;border-radius:10px;background:transparent;display:flex;align-items:center;justify-content:center;cursor:pointer;color:var(--faint)}
@@ -227,7 +234,7 @@ footer .in{padding-top:16px;padding-bottom:28px;display:flex;flex-direction:colu
 
 <main class="in">
   <section class="list" aria-label="机会列表">
-    <div class="lhead"><span><strong id="shown">…</strong> 个机会<span id="sv"></span></span><span>按截止日期</span></div>
+    <div class="lhead"><span><strong id="shown">…</strong> 个机会<span id="sv"></span></span><span>按截止日期分组</span></div>
     <div id="cards" style="display:flex;flex-direction:column;gap:10px"></div>
     <button class="more" id="more" hidden>加载更多</button>
   </section>
@@ -242,7 +249,7 @@ footer .in{padding-top:16px;padding-bottom:28px;display:flex;flex-direction:colu
 </footer>
 
 <script>
-const LABELS = {"region": {"GLOBAL": "全球", "EU": "欧盟/欧洲", "UK": "英国", "US": "美国", "DE": "德国", "CA": "加拿大", "FR": "法国", "AU": "澳大利亚", "NL": "荷兰", "JP": "日本", "HK": "中国香港", "CH": "瑞士", "IT": "意大利", "SG": "新加坡", "ES": "西班牙", "SE": "瑞典", "AT": "奥地利", "DK": "丹麦", "FI": "芬兰", "BE": "比利时", "IL": "以色列", "NO": "挪威", "KR": "韩国", "IN": "印度", "SA": "沙特", "CN": "中国内地", "IE": "爱尔兰", "NZ": "新西兰", "PT": "葡萄牙", "AE": "阿联酋", "TW": "中国台湾", "PL": "波兰", "LU": "卢森堡", "TR": "土耳其", "ZA": "南非", "MO": "中国澳门", "CZ": "捷克", "HU": "匈牙利", "BR": "巴西", "LT": "立陶宛", "EE": "爱沙尼亚", "GR": "希腊", "QA": "卡塔尔", "IS": "冰岛", "LV": "拉脱维亚", "SI": "斯洛文尼亚", "HR": "克罗地亚", "RO": "罗马尼亚", "MY": "马来西亚", "TH": "泰国", "CL": "智利", "MX": "墨西哥", "AR": "阿根廷", "RU": "俄罗斯", "SK": "斯洛伐克", "CY": "塞浦路斯", "MT": "马耳他", "BG": "保加利亚", "RS": "塞尔维亚", "UA": "乌克兰", "EG": "埃及"}, "discipline": {"all": "全学科", "cs": "计算机", "ai": "人工智能", "math": "数学/统计", "physics": "物理/天文", "chem": "化学/材料", "bio": "生物/生命科学", "eco": "生态/进化", "neuro": "神经/认知", "geo": "地球/环境/海洋", "engineering": "工程", "social": "社会科学/心理", "humanities": "人文/语言", "econ": "经济/金融", "business": "商科/管理", "med": "医学/公卫"}, "level": {"phd": "博士", "postdoc": "博后"}, "coverage": {"full": "全奖（学费＋生活费）", "salary": "带薪岗位", "partial": "半奖 / 部分资助", "tuition": "仅免学费", "stipend": "仅生活费", "varies": "视项目而定", "none": "不提供资助", "unknown": "官网未写明"}, "status": {"open": ["开放申请", "p-ok"], "upcoming": ["即将开放", "p-warn"], "closed": ["本轮已截止", "p-mute"], "rolling": ["随时可申", "p-ok"], "ongoing": ["持续更新", "p-ok"]}, "cn": {"yes": ["中国学生可申请", "p-ok"], "partial": ["部分可申请", "p-warn"], "check": ["资格待核实", "p-warn"], "no": ["中国学生不可申请", "p-bad"]}, "deadline": {"rolling": "滚动截止", "varies": "各项目不同", "unknown": "官网未写明"}};
+const LABELS = {"region": {"GLOBAL": "全球", "EU": "欧盟/欧洲", "UK": "英国", "US": "美国", "DE": "德国", "CA": "加拿大", "FR": "法国", "AU": "澳大利亚", "NL": "荷兰", "JP": "日本", "HK": "中国香港", "CH": "瑞士", "IT": "意大利", "SG": "新加坡", "ES": "西班牙", "SE": "瑞典", "AT": "奥地利", "DK": "丹麦", "FI": "芬兰", "BE": "比利时", "IL": "以色列", "NO": "挪威", "KR": "韩国", "IN": "印度", "SA": "沙特", "CN": "中国内地", "IE": "爱尔兰", "NZ": "新西兰", "PT": "葡萄牙", "AE": "阿联酋", "TW": "中国台湾", "PL": "波兰", "LU": "卢森堡", "TR": "土耳其", "ZA": "南非", "MO": "中国澳门", "CZ": "捷克", "HU": "匈牙利", "BR": "巴西", "LT": "立陶宛", "EE": "爱沙尼亚", "GR": "希腊", "QA": "卡塔尔", "IS": "冰岛", "LV": "拉脱维亚", "SI": "斯洛文尼亚", "HR": "克罗地亚", "RO": "罗马尼亚", "MY": "马来西亚", "TH": "泰国", "CL": "智利", "MX": "墨西哥", "AR": "阿根廷", "RU": "俄罗斯", "SK": "斯洛伐克", "CY": "塞浦路斯", "MT": "马耳他", "BG": "保加利亚", "RS": "塞尔维亚", "UA": "乌克兰", "EG": "埃及", "MA": "摩洛哥", "UZ": "乌兹别克斯坦"}, "discipline": {"all": "全学科", "cs": "计算机", "ai": "人工智能", "math": "数学/统计", "physics": "物理/天文", "chem": "化学/材料", "bio": "生物/生命科学", "eco": "生态/进化", "neuro": "神经/认知", "geo": "地球/环境/海洋", "engineering": "工程", "social": "社会科学/心理", "humanities": "人文/语言", "econ": "经济/金融", "business": "商科/管理", "med": "医学/公卫"}, "level": {"phd": "博士", "postdoc": "博后"}, "coverage": {"full": "全奖（学费＋生活费）", "salary": "带薪岗位", "partial": "半奖 / 部分资助", "tuition": "仅免学费", "stipend": "仅生活费", "varies": "视项目而定", "none": "不提供资助", "unknown": "官网未写明"}, "status": {"open": ["开放申请", "p-ok"], "upcoming": ["即将开放", "p-warn"], "closed": ["本轮已截止", "p-mute"], "rolling": ["随时可申", "p-ok"], "ongoing": ["持续更新", "p-ok"]}, "cn": {"yes": ["中国学生可申请", "p-ok"], "partial": ["部分可申请", "p-warn"], "check": ["资格待核实", "p-warn"], "no": ["中国学生不可申请", "p-bad"]}, "deadline": {"rolling": "滚动截止", "varies": "各项目不同", "unknown": "官网未写明"}};
 const PAGE = 40;
 const TODAY = new Date(new Date().toDateString());
 const HUES = ["#0B6E4F","#1F55B0","#0E7490","#B4380A","#6D28D9","#9F1239","#334155","#A16207","#1E3A8A","#047857","#7C2D12","#4338CA"];
@@ -275,6 +282,8 @@ function due(x){
 const levelText = x => (x.l || []).map(l => LABELS.level[l] || l).join(" / ") || "博士";
 const regionText = x => (x.r || []).map(r => LABELS.region[r] || r).join(" · ");
 const cnYes = x => x.e === "yes";
+const discTags = x => (x.d || []).filter(d => d !== "all").slice(0, 2).map(d => `<span class="tag">${esc(LABELS.discipline[d] || d)}</span>`).join("");
+const screened = x => (x.fl || []).includes("security-screening");
 const payText = x => x.s || LABELS.coverage[x.c] || "资助官网未写明";
 const bmSvg = '<svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24"><path d="M6 3h12v18l-6-4-6 4z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>';
 
@@ -309,7 +318,7 @@ function card(x){
         <span class="org">${esc([x.org, regionText(x)].filter(Boolean).join(" · "))}</span>
         <span class="pay">${esc(payText(x))}</span>
         ${x.in ? `<span class="intro">${esc(x.in)}</span>` : ""}
-        <span class="tags"><span class="tag">${esc(levelText(x))}</span><span class="tag ${cnYes(x) ? "yes" : ""}">${esc(cnYes(x) ? "中国学生可申" : (LABELS.cn[x.e] || LABELS.cn.check)[0])}</span></span>
+        <span class="tags"><span class="tag">${esc(levelText(x))}</span><span class="tag ${cnYes(x) ? "yes" : ""}">${esc(cnYes(x) ? "中国学生可申" : (LABELS.cn[x.e] || LABELS.cn.check)[0])}</span>${screened(x) ? '<span class="tag warn">留意安全审查</span>' : ""}${discTags(x)}</span>
         <span class="due ${tone}">${esc(dt)}</span>
       </span>
     </button>
@@ -333,18 +342,20 @@ function detail(x){
     <div class="ph">
       <div class="row">
         <span class="logo big" aria-hidden="true" style="background:${hue(x.org || x.n)}">${esc(mono(x))}</span>
-        <div style="flex:1;min-width:0"><h1>${esc(x.n)}</h1><p>${esc([x.org, regionText(x)].filter(Boolean).join(" · "))}</p></div>
+        <div style="flex:1;min-width:0"><h1>${esc(x.n)}</h1><p>${esc([x.org, regionText(x)].filter(Boolean).join(" · "))}</p>${discTags(x) ? `<span class="tags">${discTags(x)}</span>` : ""}</div>
       </div>
       ${x.in ? `<p class="lead">${esc(x.in)}</p>` : ""}
       <div class="acts">
         <a class="apply" href="${esc(x.u)}" target="_blank" rel="noopener">去官网申请 <svg aria-hidden="true" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
         <button class="keep" data-save="${esc(x.id)}" aria-pressed="${saved}">${bmSvg.replace('width="18" height="18"', 'width="16" height="16"')}${saved ? "已收藏" : "收藏"}</button>
+        ${isDate(d) && days(d) >= 0 ? `<button class="keep" data-ics="${esc(x.id)}" title="下载 .ics，截止前 7 天和 1 天提醒"><svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>加入日历</button>` : ""}
         <span class="due ${tone}">${esc(dt)}</span>
       </div>
     </div>
     <div class="facts">${facts.map(([k, v]) => `<div><span>${k}</span><b>${esc(v)}</b></div>`).join("")}</div>
     <div class="pb">
       ${quote ? `<div><h2>官网原句</h2><div class="proof"><svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5 9-10"/></svg><div><q>${esc(quote)}</q><small>${esc(checked || "")} 打开${x.via ? ` ${esc(x.via)} 公告` : "官网"}${what}</small></div></div></div>` : ""}
+      ${screened(x) ? `<div class="alert"><h2>留意安全审查</h2><p>公告原文提到出口管制、ATAS 或知识安全审查等要求。中国大陆学生可能需要额外审查，部分方向可能受限，投递前请先读原文确认。</p></div>` : ""}
       ${notes.length ? `<div><h2>申请须知</h2>${notes.map(n => `<p>${esc(n)}</p>`).join("")}</div>` : ""}
       ${x.al ? `<p class="fine">同一岗位也发布在：${x.al.map((u, i) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(new URL(u).hostname.replace(/^www\./, ""))}</a>`).join("、")}</p>` : ""}
       <p class="fine">${x.via ? `岗位来自 ${esc(x.via)}，截止日期由程序从公告原文提取。` : ""}信息以官网为准，截止时间注意时区。发现错误？<a href="https://github.com/pingfanfan/PhDRadar/issues">告诉我们</a></p>
@@ -352,6 +363,40 @@ function detail(x){
   </div>`;
 }
 
+function group(x){
+  const d = dlOf(x);
+  if (d === "rolling") return "滚动招生 · 随时可投";
+  if (!isDate(d)) return "截止日期官网未写明";
+  const n = days(d), wkEnd = (7 - TODAY.getDay()) % 7;
+  if (n < 0) return "已截止";
+  if (n <= wkEnd) return "本周截止";
+  if (n <= wkEnd + 7) return "下周截止";
+  return `${+d.slice(0, 4) === TODAY.getFullYear() ? "" : `${d.slice(0, 4)} 年 `}${+d.slice(5, 7)} 月截止`;
+}
+function cardsHtml(list){
+  const counts = {};
+  list.forEach(x => { const g = group(x); counts[g] = (counts[g] || 0) + 1; });
+  let last = "";
+  return list.slice(0, st.shown).map(x => {
+    const g = group(x), head = g === last ? "" : `<h3 class="grp">${esc(g)}<small>${counts[g]}</small></h3>`;
+    last = g;
+    return head + card(x);
+  }).join("");
+}
+const icsText = s => String(s || "").replace(/[\\;,]/g, c => "\\" + c).replace(/\n/g, "\\n");
+function ics(x){
+  const d = dlOf(x).replace(/-/g, ""), end = new Date(dlOf(x) + "T00:00:00"); end.setDate(end.getDate() + 1);
+  const stamp = new Date().toISOString().replace(/[-:]/g, "").replace(/\.\d+/, "");
+  const alarm = (t, m) => ["BEGIN:VALARM", `TRIGGER:${t}`, "ACTION:DISPLAY", `DESCRIPTION:${icsText(m)}`, "END:VALARM"];
+  const lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//PhDRadar//CN", "CALSCALE:GREGORIAN", "BEGIN:VEVENT",
+    `UID:${icsText(x.id)}@phdradar`, `DTSTAMP:${stamp}`, `DTSTART;VALUE=DATE:${d}`, `DTEND;VALUE=DATE:${iso(end).replace(/-/g, "")}`,
+    `SUMMARY:${icsText("截止：" + x.n)}`, `DESCRIPTION:${icsText([x.org, "申请链接：" + x.u, "截止时间以官网为准，注意时区。"].filter(Boolean).join("\n"))}`,
+    `URL:${x.u}`, ...alarm("-P7D", "还有 7 天截止：" + x.n), ...alarm("-P1D", "明天截止：" + x.n), "END:VEVENT", "END:VCALENDAR"];
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([lines.join("\r\n") + "\r\n"], {type: "text/calendar;charset=utf-8"}));
+  a.download = `phdradar-${dlOf(x)}.ics`; document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+}
 const iso = d => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
 const md = d => `${+d.slice(5, 7)}月${+d.slice(8)}日`;
 function heat(){
@@ -381,7 +426,7 @@ function render(keepScroll){
   if (!list.some(x => x.id === st.sel) && innerWidth > 860) st.sel = list[0] ? list[0].id : "";
   $("shown").textContent = list.length.toLocaleString();
   $("sv").textContent = st.saved ? " · 我的收藏" : "";
-  $("cards").innerHTML = list.length ? list.slice(0, st.shown).map(card).join("")
+  $("cards").innerHTML = list.length ? cardsHtml(list)
     : `<div class="empty">${st.saved ? "还没有收藏。点卡片右上角的书签收藏想投的机会。" : "没有符合条件的机会，试试放宽筛选。"}</div>`;
   $("more").hidden = list.length <= st.shown;
   $("aside").innerHTML = detail(DATA.find(x => x.id === st.sel));
@@ -412,6 +457,8 @@ function bind(){
   document.addEventListener("click", e => {
     const dd = e.target.closest("[data-day]");
     if (dd) { st.day = st.day === dd.dataset.day ? "" : dd.dataset.day; st.shown = PAGE; render(); return; }
+    const c = e.target.closest("[data-ics]");
+    if (c) { const x = DATA.find(y => y.id === c.dataset.ics); if (x) ics(x); return; }
     const p = e.target.closest("[data-id]"), s = e.target.closest("[data-save]");
     if (s) { const id = s.dataset.save; if (SAVED[id]) delete SAVED[id]; else SAVED[id] = 1; persist(); render(); return; }
     if (p) openDetail(p.dataset.id);

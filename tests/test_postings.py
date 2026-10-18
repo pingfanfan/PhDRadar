@@ -124,3 +124,19 @@ def test_level_phd_research_fellow():
     assert cp.level_of("PhD Research Fellow in Marine Biology") == "phd"
     assert cp.level_of("Postdoctoral Research Fellow in Optics") == "postdoc"
     assert cp.level_of("Research Fellow in Electrochemistry") == "postdoc"
+
+
+def test_the_unijobs_detail():
+    page = """<html><h1 class="mds-font-s6">University Assistant Postdoctoral 1, Psychology</h1><body>Employer UNIVERSITY OF VIENNA
+Location Vienna (Landbezirke) (AT) Salary The basic salary of EUR 5.079,50 (14 times a year) Closing date 24 Oct 2026 View more</body></html>"""
+    _, detail = cp.madgex("the-unijobs")
+    row, why = detail("416677", "https://www.timeshighereducation.com/unijobs/listing/416677/x/", page, TODAY)
+    assert why == "收录" and row["deadline"] == "2026-10-24" and row["level"] == "postdoc" and row["via"] == "THE Unijobs"
+
+
+def test_place_country():
+    assert cp.place_country("Vienna (Landbezirke) (AT)") == "AT"
+    assert cp.place_country("Canberra, ACT, Australian Capital Territory, Australia") == "AU"
+    assert cp.place_country("21201, Baltimore") == ""
+    assert cp.place_country("Memphis, Tennessee") == "US" and cp.place_country("Wien, Österreich") == "AT"
+    assert cp.place_country("Benguerir, Morocco (MA)") == "MA"

@@ -47,6 +47,32 @@ def row(s: dict) -> dict:
     return {k: v for k, v in r.items() if v not in (None, "", [])}
 
 
+# 招聘平台岗位没有学科字段：只按标题里的明确词归类，归不上就不标（不猜）
+DISC_WORDS = {
+    "ai": r"machine learning|deep learning|artificial intelligence|\bAI\b|neural network|computer vision|natural language|\bLLMs?\b|reinforcement learning",
+    "cs": r"computer science|computing|software|cyber|informatics|data science|algorithm|distributed systems",
+    "math": r"mathemati|statistic|probabilit|\bmaths?\b",
+    "physics": r"physics|quantum|astro|cosmolog|optic|photonic|plasma|particle|laser",
+    "chem": r"chemi|material|catalys|polymer|electrochem|batter(y|ies)",
+    "bio": r"biolog|molecular|genom|genetic|protein|microb|biochem|immun|bioinformatic|(?<!fuel )\bcells?\b|\b[DR]NA\b|mitochond|vir(us|al|olog)|agricult|\bcrops?\b|\bplants?\b(?! engineering)",
+    "eco": r"ecolog|evolution|biodiversit",
+    "neuro": r"neuro|cognitive|brain",
+    "geo": r"climate|geolog|geophys|ocean|marine|\bearth\b|environment|hydrolog|atmospher|glacio|\bsoil",
+    "engineering": r"engineer|mechanical|electrical|civil|robot|aerospace|manufactur|structural",
+    "social": r"sociolog|psycholog|political|politics|education|anthropolog|social",
+    "humanities": r"histor|philosoph|linguist|literature|theolog|music|classics|archaeolog",
+    "econ": r"econom|financ",
+    "business": r"business|management|marketing|accounting",
+    "med": r"medic|clinic|health|cancer|epidemiolog|pharma|surgery|nursing|disease|patholog|cardio|oncolog",
+}
+
+
+def disciplines_of(title: str) -> list[str]:
+    import re
+
+    return [k for k, w in DISC_WORDS.items() if re.search(w, title, re.I)]
+
+
 def posting_rows() -> list[dict]:
     """招聘平台上的具体岗位（_data/postings.yml，由 collect_postings.py 采集）：截止 ≥ 今天、不限本土的才上首页。"""
     path = ROOT / "_data" / "postings.yml"
@@ -67,7 +93,8 @@ def posting_rows() -> list[dict]:
         r = {"id": p["id"], "n": p["title"], "org": p.get("org"), "u": p["url"], "r": [p["country"]] if p.get("country") else [],
              "l": [p["level"]], "c": "salary" if p["level"] == "postdoc" else ("full" if p.get("funding_for") else None),
              "s": p.get("amount"), "dl": p["deadline"], "e": p.get("cn") or "check", "v": True, "via": p.get("via"),
-             "o": {"st": "open", "dl": p["deadline"], "q": p.get("quote"), "ck": p.get("checked")}}
+             "o": {"st": "open", "dl": p["deadline"], "q": p.get("quote"), "ck": p.get("checked")},
+             "d": disciplines_of(p["title"]), "fl": p.get("flags")}
         if p.get("also"):
             r["al"] = p["also"]
         if p.get("funding_for"):
