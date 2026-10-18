@@ -69,6 +69,29 @@ nav{display:flex;flex-wrap:wrap;align-items:center;gap:2px;font-size:14.5px}
 .pills select{min-height:36px;border-radius:999px;border:1px solid var(--line-2);background:var(--surface);color:var(--ink-2);font:inherit;font-size:13.5px;padding:0 12px;max-width:180px}
 .trust{margin-left:auto;font-size:13px;color:var(--muted)}
 
+/* 截止日历热力图（GitHub 贡献图样式）：列 = 周，行 = 周一…周日，颜色越深当天截止越多 */
+.heat{display:flex;flex-wrap:wrap;gap:12px 32px;align-items:flex-start;padding:16px 20px;width:fit-content;max-width:100%;border:1px solid var(--line);border-radius:14px;background:var(--surface)}
+.heat h2{margin:0 0 8px;font-size:14px;font-weight:700}
+.hg{display:grid;grid-template-rows:16px repeat(7,var(--cell));grid-auto-flow:column;grid-auto-columns:var(--cell);gap:5px;--cell:26px}
+.hg .wd{font-size:11px;color:var(--faint);line-height:var(--cell);text-align:right;padding-right:4px;width:auto}
+.hg .mo{font-size:11px;color:var(--muted);white-space:nowrap;overflow:visible}
+.d{width:var(--cell);height:var(--cell);border-radius:5px;border:0;padding:0;cursor:pointer;background:var(--soft);outline-offset:1px}
+.d.past{background:transparent;cursor:default}
+.d.l1{background:color-mix(in srgb,var(--brand) 25%,var(--soft))}
+.d.l2{background:color-mix(in srgb,var(--brand) 45%,var(--soft))}
+.d.l3{background:color-mix(in srgb,var(--brand) 70%,var(--soft))}
+.d.l4{background:var(--brand)}
+.d.today{box-shadow:inset 0 0 0 2px var(--ink)}
+.d[aria-pressed="true"]{outline:2px solid var(--urgent)}
+.hside{display:flex;flex-direction:column;gap:6px;font-size:13px;color:var(--muted);min-width:180px}
+.hside b{color:var(--ink);font-family:var(--f-mono)}
+.peak{display:flex;flex-direction:column;gap:4px}
+.peak button{border:0;background:none;padding:0;text-align:left;color:var(--ink-2);cursor:pointer;font-size:13px}
+.peak button:hover{color:var(--brand-text);text-decoration:underline}
+.legend{display:flex;align-items:center;gap:4px;font-size:11.5px;color:var(--faint)}
+.legend i{width:12px;height:12px;border-radius:3px;display:inline-block}
+.dayf{display:inline-flex;align-items:center;gap:6px;min-height:36px;padding:0 12px;border-radius:999px;background:var(--urgent);color:#fff;border:0;cursor:pointer;font-size:13.5px;font-weight:700}
+
 /* 主体 */
 main.in{padding-top:18px;padding-bottom:64px;display:flex;gap:18px;align-items:flex-start}
 .list{flex:1 1 400px;max-width:460px;min-width:0;display:flex;flex-direction:column;gap:10px}
@@ -145,6 +168,9 @@ footer .in{padding-top:16px;padding-bottom:28px;display:flex;flex-direction:colu
   nav{flex-wrap:nowrap;width:100%;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch}
   nav::-webkit-scrollbar{display:none}
   .tab{padding:12px 10px;white-space:nowrap}
+  .hg{--cell:16px;gap:3px}
+  .heat{width:auto}
+  .heat{padding:12px}
   a.tab{display:none}
   .savebtn{margin-left:auto;min-height:36px;padding:0 10px;white-space:nowrap}
 }
@@ -186,6 +212,7 @@ footer .in{padding-top:16px;padding-bottom:28px;display:flex;flex-direction:colu
       <select id="disc" aria-label="学科"><option value="">全部学科</option></select>
       <span class="trust">每条都打开官网核对过 · 截止后自动下架 · 更新于 2026-10-18</span>
     </div>
+    <div class="heat" id="heat" aria-label="未来 5 周截止日历"></div>
   </div>
 </section>
 
@@ -210,7 +237,7 @@ const LABELS = {"region": {"GLOBAL": "全球", "EU": "欧盟/欧洲", "UK": "英
 const PAGE = 40;
 const TODAY = new Date(new Date().toDateString());
 const HUES = ["#0B6E4F","#1F55B0","#0E7490","#B4380A","#6D28D9","#9F1239","#334155","#A16207","#1E3A8A","#047857","#7C2D12","#4338CA"];
-const st = {view:"now",phd:false,pd:false,cn:false,full:false,soon:false,q:"",region:"",disc:"",shown:PAGE,saved:false,sel:""};
+const st = {view:"now",phd:false,pd:false,cn:false,full:false,soon:false,q:"",region:"",disc:"",shown:PAGE,saved:false,sel:"",day:""};
 let DATA = [], SAVED = {};
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -242,9 +269,10 @@ const cnYes = x => x.e === "yes";
 const payText = x => x.s || LABELS.coverage[x.c] || "资助官网未写明";
 const bmSvg = '<svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24"><path d="M6 3h12v18l-6-4-6 4z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>';
 
-function filtered(){
+function filtered(noDay){
   const q = st.q.trim().toLowerCase();
   const out = DATA.filter(x => {
+    if (!noDay && st.day && dlOf(x) !== st.day) return false;
     if (st.saved) { if (!SAVED[x.id]) return false; }
     else if (st.view === "now" && !isNow(x)) return false;
     else if (st.view === "ver" && !x.v) return false;
@@ -312,7 +340,38 @@ function detail(x){
   </div>`;
 }
 
+const iso = d => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+const md = d => `${+d.slice(5, 7)}月${+d.slice(8)}日`;
+function heat(){
+  const counts = {};
+  filtered(true).forEach(x => { const d = dlOf(x); if (isDate(d) && days(d) >= 0 && days(d) < 35) counts[d] = (counts[d] || 0) + 1; });
+  const vals = Object.values(counts), total = vals.reduce((a, b) => a + b, 0), max = Math.max(1, ...vals);
+  const lvl = n => !n ? "" : n >= max * 0.75 ? "l4" : n >= max * 0.45 ? "l3" : n >= max * 0.2 ? "l2" : "l1";
+  const start = new Date(TODAY); start.setDate(start.getDate() - ((start.getDay() + 6) % 7));  // 本周一
+  const cells = [], weeks = Math.ceil((days(iso(start)) * -1 + 35) / 7);
+  ["", "一", "", "三", "", "五", ""].forEach((w, i) => cells.push(i ? `<span class="wd" style="grid-row:${i + 1}">${w}</span>` : `<span></span>`));
+  cells.push(`<span class="wd" style="grid-row:8">日</span>`);
+  for (let w = 0; w < weeks; w++) {
+    const first = new Date(start); first.setDate(start.getDate() + w * 7);
+    cells.push(`<span class="mo">${w === 0 || first.getDate() <= 7 ? `${first.getMonth() + 1}月` : ""}</span>`);
+    for (let k = 0; k < 7; k++) {
+      const d = new Date(first); d.setDate(first.getDate() + k);
+      const key = iso(d), n = counts[key] || 0, off = days(key);
+      if (off < 0 || off >= 35) { cells.push(`<span class="d past" aria-hidden="true"></span>`); continue; }
+      cells.push(`<button class="d ${lvl(n)}${off === 0 ? " today" : ""}" data-day="${key}" aria-pressed="${st.day === key}" title="${md(key)}${off === 0 ? "（今天）" : ""} · ${n} 个截止" aria-label="${md(key)} ${n} 个截止"></button>`);
+    }
+  }
+  const peaks = Object.entries(counts).sort((a, b) => b[1] - a[1] || (a[0] < b[0] ? -1 : 1)).slice(0, 3);
+  $("heat").innerHTML = `<div><h2>未来 5 周截止日历</h2><div class="hg">${cells.join("")}</div></div>
+    <div class="hside">
+      <span>未来 5 周共 <b>${total}</b> 个机会截止</span>
+      ${peaks.length ? `<span>最集中的日子：</span><div class="peak">${peaks.map(([d, n]) => `<button data-day="${d}">${md(d)} · <b>${n}</b> 个</button>`).join("")}</div>` : ""}
+      ${st.day ? `<button class="dayf" data-day="${st.day}">只看 ${md(st.day)} 截止 ✕</button>` : `<span>点日期只看当天截止的机会</span>`}
+      <span class="legend">少 <i style="background:var(--soft)"></i><i class="d l1" style="width:12px;height:12px"></i><i class="d l2" style="width:12px;height:12px"></i><i class="d l3" style="width:12px;height:12px"></i><i class="d l4" style="width:12px;height:12px"></i> 多</span>
+    </div>`;
+}
 function render(keepScroll){
+  heat();
   const list = filtered();
   if (!list.some(x => x.id === st.sel) && innerWidth > 860) st.sel = list[0] ? list[0].id : "";
   $("shown").textContent = list.length.toLocaleString();
@@ -346,6 +405,8 @@ function bind(){
   ["region", "disc"].forEach(id => $(id).addEventListener("change", e => { st[id] = e.target.value; st.shown = PAGE; render(); }));
   $("more").addEventListener("click", () => { st.shown += PAGE; render(); });
   document.addEventListener("click", e => {
+    const dd = e.target.closest("[data-day]");
+    if (dd) { st.day = st.day === dd.dataset.day ? "" : dd.dataset.day; st.shown = PAGE; render(); return; }
     const p = e.target.closest("[data-id]"), s = e.target.closest("[data-save]");
     if (s) { const id = s.dataset.save; if (SAVED[id]) delete SAVED[id]; else SAVED[id] = 1; persist(); render(); return; }
     if (p) openDetail(p.dataset.id);
