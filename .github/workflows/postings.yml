@@ -11,7 +11,10 @@ on:
         description: "每个平台最多读多少个详情页"
         default: "3000"
       dry_run:
-        description: "只打印统计、不提交（true/false）"
+        description: "只打印统计、不写结果（true/false）"
+        default: "false"
+      commit:
+        description: "把结果提交到仓库（true/false）；默认只作为附件上传，审核后再合并"
         default: "false"
 
 permissions:
@@ -46,8 +49,14 @@ jobs:
           name: samples
           path: research/inbox/samples/
           if-no-files-found: ignore
-      - name: 提交
+      - uses: actions/upload-artifact@v4
         if: inputs.dry_run != 'true'
+        with:
+          name: postings
+          path: _data/postings.yml
+          if-no-files-found: ignore
+      - name: 提交
+        if: inputs.dry_run != 'true' && inputs.commit == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

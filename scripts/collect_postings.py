@@ -240,6 +240,7 @@ FAP_SITEMAP = FAP + "/sitemap.ashx?sitemap-projects-{n}.xml.gz"
 FAP_LOC = re.compile(r"<loc>\s*(https://www\.findaphd\.com/phds/project/[^<\s]+?\?p(\d+))\s*</loc>")
 FAP_DEADLINE = re.compile(r"(?:Application\s+)?Deadline:?\s*((?:\w+day,?\s+)?\d{1,2}(?:st|nd|rd|th)?\s+[A-Za-z]+\s+\d{4}"
                           r"|[A-Za-z]+\s+\d{1,2}(?:st|nd|rd|th)?,?\s+\d{4})", re.I)
+FAP_DAY = re.compile(r"(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s+([A-Za-z]+\s+\d{1,2},\s+\d{4})")
 FAP_FUNDING = re.compile(r"(Funded PhD Project|Competition Funded PhD Project|Self-Funded PhD Students Only|"
                          r"Funded PhD Programme|PhD Research Project)\s*\(([^)]{3,60})\)", re.I)
 
@@ -279,6 +280,8 @@ def fap_detail(pid: str, url: str, raw: str, today: str) -> tuple[dict | None, s
     ld = job_posting(raw)
     text = page_text(raw)
     title = page_text(ld.get("title") or "") or page_text((re.search(r"<h1[^>]*>(.*?)</h1>", raw, re.S) or [None, ""])[1])
+    if re.search(r"Self-Funded PhD Students Only", text[:20000]):
+        return None, "自费或竞争性资助"
     fund = FAP_FUNDING.search(text)
     if not fund:
         return None, "未写资助类型"
@@ -287,7 +290,8 @@ def fap_detail(pid: str, url: str, raw: str, today: str) -> tuple[dict | None, s
         return None, "自费或竞争性资助"
     # 截止信息紧挨在资助标签前面：具体日期，或 “Applications accepted all year round”
     head = text[max(0, fund.start() - 200):fund.start()]
-    dl = FAP_DEADLINE.search(head)
+    # 项目页在导师名后直接写截止日期，如 “Tuesday, February 02, 2027”
+    dl = FAP_DAY.search(head) or FAP_DEADLINE.search(head)
     if dl:
         deadline, quote = parse_day(dl.group(1)), dl.group(0)
         if not deadline or deadline < today:

@@ -53,3 +53,9 @@ def test_findaphd_rolling_needs_recent_post():
     assert why == "收录" and row["deadline"] == "rolling" and row["country"] == "UK" and "international fees" in row["amount"]
     old = FAP_ROLLING.replace("01/10/2026", "19/10/2025")
     assert cp.fap_detail("9", "u", old, TODAY) == (None, "全年招生但发布超过 90 天")
+
+
+def test_findaphd_weekday_deadline():
+    page = FAP_PAGE.replace("Application Deadline: 15 January 2027", "Tuesday, February 02, 2027")
+    row, why = cp.fap_detail("7", "u", page, TODAY)
+    assert why == "收录" and row["deadline"] == "2027-02-02" and row["quote"] == "Tuesday, February 02, 2027"
