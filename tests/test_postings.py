@@ -15,7 +15,11 @@ Placed On: 16th October 2026 Closes: 20th December 2026 Reference: 6024 Both UK 
 </body></html>"""
 
 FAP_PAGE = """<html><h1>Machine learning for climate PhD</h1><body>
-Funded PhD Project (Students Worldwide) Application Deadline: 15 January 2027 Supervisor: Dr X</body></html>"""
+University of X Dr Y Application Deadline: 15 January 2027 Funded PhD Project (Students Worldwide) Visit institution website
+</body></html>"""
+FAP_ROLLING = """<html><script type="application/ld+json">{"@type":"JobPosting","title":"Quantum PhD","datePosted":"01/10/2026 10:00:00",
+"jobLocation":{"@type":"Place","address":{"addressCountry":"GB"}}}</script><body>Heriot-Watt Dr Z Applications accepted all year round
+Funded PhD Project (Students Worldwide) Visit institution website Funding Notes Full stipend and international fees are covered. References</body></html>"""
 
 
 def test_parse_day():
@@ -42,3 +46,10 @@ def test_findaphd_detail():
     assert cp.fap_detail("1", "u", self_funded, TODAY)[0] is None
     uk_only = FAP_PAGE.replace("Students Worldwide", "UK Students Only")
     assert cp.fap_detail("2", "u", uk_only, TODAY)[0]["cn"] == "no"
+
+
+def test_findaphd_rolling_needs_recent_post():
+    row, why = cp.fap_detail("9", "u", FAP_ROLLING, TODAY)
+    assert why == "收录" and row["deadline"] == "rolling" and row["country"] == "UK" and "international fees" in row["amount"]
+    old = FAP_ROLLING.replace("01/10/2026", "19/10/2025")
+    assert cp.fap_detail("9", "u", old, TODAY) == (None, "全年招生但发布超过 90 天")

@@ -152,6 +152,10 @@ def jac_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, s
         cn = "no" if _any(_RESTRICTED, body[:6000]) else "check"
     if cn == "check" and _any(_RESTRICTED, body[:6000]):
         cn = "no"
+    # 只付“英国本土（Home）学费”而没提国际生：国际生要自付学费差额，按限本土处理
+    if cn == "check" and level == "phd" and re.search(r"\bhome\b[^.]{0,40}fee|fee[^.]{0,40}\bhome\b", amount, re.I) \
+            and not re.search(r"international|overseas", amount + funding_for, re.I):
+        cn = "no"
     org = ld.get("hiringOrganization") or {}
     loc = ld.get("jobLocation") or {}
     loc = loc[0] if isinstance(loc, list) and loc else loc
@@ -274,33 +278,46 @@ def fap_detail(pid: str, url: str, raw: str, today: str) -> tuple[dict | None, s
         raise RuntimeError("被 Cloudflare 人机验证拦截")
     ld = job_posting(raw)
     text = page_text(raw)
-    title = (ld.get("title") or "").strip() or (re.search(r"<h1[^>]*>(.*?)</h1>", raw, re.S) or [None, ""])[1]
-    title = page_text(title)
+    title = page_text(ld.get("title") or "") or page_text((re.search(r"<h1[^>]*>(.*?)</h1>", raw, re.S) or [None, ""])[1])
     fund = FAP_FUNDING.search(text)
     if not fund:
         return None, "未写资助类型"
     kind, who = fund.group(1).lower(), fund.group(2)
     if kind.startswith(("self", "competition", "phd research")):
         return None, "自费或竞争性资助"
-    dl = FAP_DEADLINE.search(text)
-    if not dl:
+    # 截止信息紧挨在资助标签前面：具体日期，或 “Applications accepted all year round”
+    head = text[max(0, fund.start() - 200):fund.start()]
+    dl = FAP_DEADLINE.search(head)
+    if dl:
+        deadline, quote = parse_day(dl.group(1)), dl.group(0)
+        if not deadline or deadline < today:
+            return None, "已截止"
+    elif "Applications accepted all year round" in head:
+        posted = re.match(r"(\d{2})/(\d{2})/(\d{4})", str(ld.get("datePosted") or ""))
+        posted = f"{posted.group(3)}-{posted.group(2)}-{posted.group(1)}" if posted else ""
+        if not posted or (date.fromisoformat(today) - date.fromisoformat(posted)).days > 90:
+            return None, "全年招生但发布超过 90 天"
+        deadline, quote = "rolling", "Applications accepted all year round"
+    else:
         return None, "页面无截止日期"
-    deadline = parse_day(dl.group(1))
-    if not deadline or deadline < today:
-        return None, "已截止"
     cn = "yes" if re.search(r"worldwide|international", who, re.I) else "no" if re.search(r"only", who, re.I) else "check"
     org = ld.get("hiringOrganization") or {}
+    loc = ld.get("jobLocation") or {}
+    loc = loc[0] if isinstance(loc, list) and loc else loc
+    country = ((loc.get("address") or {}).get("addressCountry") or "") if isinstance(loc, dict) else ""
+    notes = re.search(r"Funding Notes?\s+(.{20,400}?)(?:\s+References|\s+How good is research|$)", text)
     return {
         "id": f"findaphd:{pid}",
         "title": re.sub(r"\s+", " ", title)[:200],
         "url": url,
         "org": (org.get("name") if isinstance(org, dict) else "") or "",
-        "country": "",
+        "country": COUNTRY.get(str(country).upper(), str(country).upper()[:2]),
+        "place": "",
         "level": "phd",
         "deadline": deadline,
-        "quote": dl.group(0),
+        "quote": quote,
         "funding_for": fund.group(0)[:120],
-        "amount": "",
+        "amount": (notes.group(1).strip() if notes else "")[:300],
         "cn": cn,
         "flags": ["security-screening"] if _any(_SCREENING, text) else [],
         "via": "FindAPhD",
@@ -323,7 +340,7 @@ def main() -> int:
     args = ap.parse_args()
     f = Fetcher(delay=1.0)
     old = {r["id"]: r for r in (yaml.safe_load(OUT.read_text(encoding="utf-8")) or [])} if OUT.exists() else {}
-    rows: dict[str, dict] = {k: v for k, v in old.items() if v["deadline"] >= args.today}
+    rows: dict[str, dict] = {k: v for k, v in old.items() if v["deadline"] == "rolling" or v["deadline"] >= args.today}
     for name in args.sources.split(","):
         list_fn, detail_fn = ADAPTERS[name]
         try:

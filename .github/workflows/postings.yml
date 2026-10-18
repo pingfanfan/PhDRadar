@@ -39,7 +39,7 @@ jobs:
       - name: 采集
         run: |
           python scripts/collect_postings.py -s "${{ inputs.sources }}" --max-details "${{ inputs.max_details }}" \
-            --save-samples 5 $([ "${{ inputs.dry_run }}" = "true" ] && echo --dry-run) | tee -a "$GITHUB_STEP_SUMMARY"
+            --save-samples 40 $([ "${{ inputs.dry_run }}" = "true" ] && echo --dry-run) | tee -a "$GITHUB_STEP_SUMMARY"
       - uses: actions/upload-artifact@v4
         if: always()
         with:

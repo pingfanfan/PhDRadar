@@ -57,7 +57,12 @@ def posting_rows() -> list[dict]:
     today = datetime.now(timezone.utc).date().isoformat()
     out = []
     for p in yaml.safe_load(path.read_text(encoding="utf-8")) or []:
-        if p["deadline"] < today or p.get("cn") == "no":
+        if p.get("cn") == "no":
+            continue
+        if p["deadline"] == "rolling":  # 全年招生：两周内复查过才展示
+            if (datetime.fromisoformat(today) - datetime.fromisoformat(p["checked"])).days > 14:
+                continue
+        elif p["deadline"] < today:
             continue
         r = {"id": p["id"], "n": p["title"], "org": p.get("org"), "u": p["url"], "r": [p["country"]] if p.get("country") else [],
              "l": [p["level"]], "c": "salary" if p["level"] == "postdoc" else ("full" if p.get("funding_for") else None),
