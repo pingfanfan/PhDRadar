@@ -112,6 +112,12 @@ def jac_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
     return list(seen.items())
 
 
+# JSON-LD 里的国家写法（ISO 代码或英文名）→ 本库地区代码
+COUNTRY = {"GB": "UK", "UNITED KINGDOM": "UK", "UK": "UK", "ENGLAND": "UK", "SCOTLAND": "UK", "WALES": "UK",
+           "NORTHERN IRELAND": "UK", "HONG KONG": "HK", "HK": "HK", "CHINA": "CN", "IRELAND": "IE", "IE": "IE",
+           "NETHERLANDS": "NL", "GERMANY": "DE", "SINGAPORE": "SG", "UNITED STATES": "US", "USA": "US", "US": "US"}
+
+
 def jac_field(text: str, name: str, nxt: str) -> str:
     m = re.search(rf"{name}:\s*(.*?)\s+(?:{nxt}):", text)
     return m.group(1).strip() if m else ""
@@ -147,12 +153,20 @@ def jac_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, s
     if cn == "check" and _any(_RESTRICTED, body[:6000]):
         cn = "no"
     org = ld.get("hiringOrganization") or {}
+    loc = ld.get("jobLocation") or {}
+    loc = loc[0] if isinstance(loc, list) and loc else loc
+    addr = (loc.get("address") or {}) if isinstance(loc, dict) else {}
+    country = addr.get("addressCountry") if isinstance(addr, dict) else ""
+    country = (country.get("name") if isinstance(country, dict) else country) or ""
+    place = jac_field(text, "Location", "Funding for|Salary|Hours|Placed On|Funding amount")
+    amount, salary = [v if not re.match(r"not specified", v, re.I) else "" for v in (amount, salary)]
     return {
         "id": f"jobs-ac-uk:{jid}",
         "title": re.sub(r"\s+", " ", title)[:200],
         "url": url,
         "org": (org.get("name") if isinstance(org, dict) else "") or "",
-        "country": "GB",
+        "country": COUNTRY.get(country.strip().upper(), country.strip().upper()[:2]) if country else "",
+        "place": place[:80],
         "level": level,
         "deadline": deadline,
         "quote": closes.group(0),
@@ -200,7 +214,7 @@ def at_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, st
         "title": re.sub(r"\s+", " ", title)[:200],
         "url": url,
         "org": (org.get("name") if isinstance(org, dict) else "") or "",
-        "country": "NL",
+        "country": "NL", "place": "",
         "level": level,
         "deadline": deadline,
         "quote": m.group(0),

@@ -38,13 +38,35 @@ LABELS = {
 def row(s: dict) -> dict:
     """首页用的精简字段；未核对条目不带要求和原句，避免把未经核对的细节当成事实展示。"""
     verified = s.get("verify_method") == "page"
-    r = {"n": s["name"], "u": s["url"], "r": s.get("regions") or [], "d": s.get("disciplines") or [],
+    r = {"id": s["id"], "n": s["name"], "u": s["url"], "r": s.get("regions") or [], "d": s.get("disciplines") or [],
          "l": s.get("levels") or ["phd"], "c": s.get("coverage"), "s": s.get("stipend"), "dl": s.get("deadline"),
          "st": s.get("status"), "e": s.get("cn_eligible"), "v": verified}
     if verified:
         r.update({"dn": s.get("deadline_note"), "rq": s.get("requirements"), "pq": s.get("page_evidence"),
                   "vd": s.get("verified")})
     return {k: v for k, v in r.items() if v not in (None, "", [])}
+
+
+def posting_rows() -> list[dict]:
+    """招聘平台上的具体岗位（_data/postings.yml，由 collect_postings.py 采集）：截止 ≥ 今天、不限本土的才上首页。"""
+    path = ROOT / "_data" / "postings.yml"
+    if not path.exists():
+        return []
+    import yaml
+
+    today = datetime.now(timezone.utc).date().isoformat()
+    out = []
+    for p in yaml.safe_load(path.read_text(encoding="utf-8")) or []:
+        if p["deadline"] < today or p.get("cn") == "no":
+            continue
+        r = {"id": p["id"], "n": p["title"], "org": p.get("org"), "u": p["url"], "r": [p["country"]] if p.get("country") else [],
+             "l": [p["level"]], "c": "salary" if p["level"] == "postdoc" else ("full" if p.get("funding_for") else None),
+             "s": p.get("amount"), "dl": p["deadline"], "e": p.get("cn") or "check", "v": True, "via": p.get("via"),
+             "o": {"st": "open", "dl": p["deadline"], "q": p.get("quote"), "ck": p.get("checked")}}
+        if p.get("funding_for"):
+            r["rq"] = f"资助对象（公告原文）：{p['funding_for']}"
+        out.append({k: v for k, v in r.items() if v not in (None, "", [])})
+    return out
 
 
 def main() -> int:
@@ -59,6 +81,7 @@ def main() -> int:
             r["o"] = {k: v for k, v in {"st": o["state"], "dl": o.get("deadline"), "op": o.get("opens"),
                                         "q": o.get("quote"), "ck": o.get("checked")}.items() if v}
         rows.append(r)
+    rows += posting_rows()
     (ROOT / "assets").mkdir(exist_ok=True)
     (ROOT / "assets" / "catalog.json").write_text(json.dumps(rows, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     verified = [r for r in rows if r.get("v")]
