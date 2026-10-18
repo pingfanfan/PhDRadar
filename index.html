@@ -69,28 +69,34 @@ nav{display:flex;flex-wrap:wrap;align-items:center;gap:2px;font-size:14.5px}
 .pills select{min-height:36px;border-radius:999px;border:1px solid var(--line-2);background:var(--surface);color:var(--ink-2);font:inherit;font-size:13.5px;padding:0 12px;max-width:180px}
 .trust{margin-left:auto;font-size:13px;color:var(--muted)}
 
-/* 截止日历热力图（GitHub 贡献图样式）：列 = 周，行 = 周一…周日，颜色越深当天截止越多 */
-.heat{display:flex;flex-wrap:wrap;gap:12px 32px;align-items:flex-start;padding:16px 20px;width:fit-content;max-width:100%;border:1px solid var(--line);border-radius:14px;background:var(--surface)}
-.heat h2{margin:0 0 8px;font-size:14px;font-weight:700}
-.hg{display:grid;grid-template-rows:16px repeat(7,var(--cell));grid-auto-flow:column;grid-auto-columns:var(--cell);gap:5px;--cell:26px}
-.hg .wd{font-size:11px;color:var(--faint);line-height:var(--cell);text-align:right;padding-right:4px;width:auto}
-.hg .mo{font-size:11px;color:var(--muted);white-space:nowrap;overflow:visible}
-.d{width:var(--cell);height:var(--cell);border-radius:5px;border:0;padding:0;cursor:pointer;background:var(--soft);outline-offset:1px}
-.d.past{background:transparent;cursor:default}
-.d.l1{background:color-mix(in srgb,var(--brand) 25%,var(--soft))}
-.d.l2{background:color-mix(in srgb,var(--brand) 45%,var(--soft))}
-.d.l3{background:color-mix(in srgb,var(--brand) 70%,var(--soft))}
-.d.l4{background:var(--brand)}
-.d.today{box-shadow:inset 0 0 0 2px var(--ink)}
-.d[aria-pressed="true"]{outline:2px solid var(--urgent)}
-.hside{display:flex;flex-direction:column;gap:6px;font-size:13px;color:var(--muted);min-width:180px}
-.hside b{color:var(--ink);font-family:var(--f-mono)}
-.peak{display:flex;flex-direction:column;gap:4px}
-.peak button{border:0;background:none;padding:0;text-align:left;color:var(--ink-2);cursor:pointer;font-size:13px}
-.peak button:hover{color:var(--brand-text);text-decoration:underline}
-.legend{display:flex;align-items:center;gap:4px;font-size:11.5px;color:var(--faint)}
+/* 截止时间条：未来 35 天一格一天，颜色越深当天截止越多（GitHub 贡献图配色） */
+.heat{padding:16px 18px 14px;border:1px solid var(--line);border-radius:14px;background:var(--surface);display:flex;flex-direction:column;gap:12px}
+.hh{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 18px}
+.hh h2{margin:0;font-size:15px;font-weight:900}
+.hh .sum{font-size:13px;color:var(--muted)}
+.hh .sum b{color:var(--ink);font-family:var(--f-mono)}
+.peak{display:inline-flex;flex-wrap:wrap;gap:6px}
+.peak button{border:1px solid var(--line-2);background:var(--surface);border-radius:999px;padding:2px 10px;cursor:pointer;font-size:12.5px;color:var(--ink-2)}
+.peak button:hover{border-color:var(--brand);color:var(--brand-text)}
+.legend{margin-left:auto;display:flex;align-items:center;gap:4px;font-size:11.5px;color:var(--faint)}
 .legend i{width:12px;height:12px;border-radius:3px;display:inline-block}
-.dayf{display:inline-flex;align-items:center;gap:6px;min-height:36px;padding:0 12px;border-radius:999px;background:var(--urgent);color:#fff;border:0;cursor:pointer;font-size:13.5px;font-weight:700}
+.strip{overflow-x:auto;scrollbar-width:thin;padding-bottom:2px}
+.sg{display:grid;grid-template-columns:repeat(35,minmax(28px,1fr));gap:4px;min-width:min-content}
+.sg .mo{font-size:11.5px;color:var(--muted);font-weight:700;height:16px;white-space:nowrap}
+.sg .wk{font-size:10.5px;color:var(--faint);text-align:center;height:14px}
+.sg .wk.we{color:var(--urgent);opacity:.7}
+.d{position:relative;height:52px;border-radius:7px;border:0;padding:4px 0 0;cursor:pointer;background:var(--soft);color:var(--muted);display:flex;flex-direction:column;align-items:center;justify-content:space-between;font-family:var(--f-mono);transition:transform .12s}
+.d:hover{transform:translateY(-2px)}
+.d small{font-size:10.5px;line-height:1}
+.d b{font-size:12.5px;line-height:1;padding-bottom:7px}
+.d.l0 b{visibility:hidden}
+.d.l1{background:color-mix(in srgb,var(--brand) 22%,var(--soft));color:var(--ink-2)}
+.d.l2{background:color-mix(in srgb,var(--brand) 45%,var(--soft));color:var(--ink)}
+.d.l3{background:color-mix(in srgb,var(--brand) 72%,var(--soft));color:#fff}
+.d.l4{background:var(--brand);color:#fff}
+.d.today{box-shadow:inset 0 0 0 2px var(--ink)}
+.d[aria-pressed="true"]{outline:2px solid var(--urgent);outline-offset:1px}
+.dayf{display:inline-flex;align-items:center;gap:6px;min-height:30px;padding:0 12px;border-radius:999px;background:var(--urgent);color:#fff;border:0;cursor:pointer;font-size:13px;font-weight:700}
 
 /* 主体 */
 main.in{padding-top:18px;padding-bottom:64px;display:flex;gap:18px;align-items:flex-start}
@@ -107,6 +113,8 @@ main.in{padding-top:18px;padding-bottom:64px;display:flex;gap:18px;align-items:f
 .t{font-size:15.5px;font-weight:700;line-height:1.4;overflow-wrap:anywhere}
 .org{font-size:13px;color:var(--muted);overflow-wrap:anywhere}
 .pay{font-size:14px;font-weight:700;color:var(--brand-text)}
+.intro{font-size:13px;color:var(--ink-2);line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.lead{margin:0;font-size:15px;line-height:1.7;color:var(--ink-2)}
 .tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:2px}
 .tag{font-size:12px;padding:1px 8px;border-radius:4px;background:var(--soft);color:var(--ink-2)}
 .tag.yes{background:var(--brand-soft);color:var(--brand-text);font-weight:700}
@@ -168,8 +176,9 @@ footer .in{padding-top:16px;padding-bottom:28px;display:flex;flex-direction:colu
   nav{flex-wrap:nowrap;width:100%;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch}
   nav::-webkit-scrollbar{display:none}
   .tab{padding:12px 10px;white-space:nowrap}
-  .hg{--cell:16px;gap:3px}
-  .heat{width:auto}
+  .sg{grid-template-columns:repeat(35,34px)}
+  .heat{padding:14px 12px 10px}
+  .legend{margin-left:0}
   .heat{padding:12px}
   a.tab{display:none}
   .savebtn{margin-left:auto;min-height:36px;padding:0 10px;white-space:nowrap}
@@ -299,6 +308,7 @@ function card(x){
         <span class="t">${esc(x.n)}</span>
         <span class="org">${esc([x.org, regionText(x)].filter(Boolean).join(" · "))}</span>
         <span class="pay">${esc(payText(x))}</span>
+        ${x.in ? `<span class="intro">${esc(x.in)}</span>` : ""}
         <span class="tags"><span class="tag">${esc(levelText(x))}</span><span class="tag ${cnYes(x) ? "yes" : ""}">${esc(cnYes(x) ? "中国学生可申" : (LABELS.cn[x.e] || LABELS.cn.check)[0])}</span></span>
         <span class="due ${tone}">${esc(dt)}</span>
       </span>
@@ -325,6 +335,7 @@ function detail(x){
         <span class="logo big" aria-hidden="true" style="background:${hue(x.org || x.n)}">${esc(mono(x))}</span>
         <div style="flex:1;min-width:0"><h1>${esc(x.n)}</h1><p>${esc([x.org, regionText(x)].filter(Boolean).join(" · "))}</p></div>
       </div>
+      ${x.in ? `<p class="lead">${esc(x.in)}</p>` : ""}
       <div class="acts">
         <a class="apply" href="${esc(x.u)}" target="_blank" rel="noopener">去官网申请 <svg aria-hidden="true" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
         <button class="keep" data-save="${esc(x.id)}" aria-pressed="${saved}">${bmSvg.replace('width="18" height="18"', 'width="16" height="16"')}${saved ? "已收藏" : "收藏"}</button>
@@ -346,29 +357,22 @@ function heat(){
   const counts = {};
   filtered(true).forEach(x => { const d = dlOf(x); if (isDate(d) && days(d) >= 0 && days(d) < 35) counts[d] = (counts[d] || 0) + 1; });
   const vals = Object.values(counts), total = vals.reduce((a, b) => a + b, 0), max = Math.max(1, ...vals);
-  const lvl = n => !n ? "" : n >= max * 0.75 ? "l4" : n >= max * 0.45 ? "l3" : n >= max * 0.2 ? "l2" : "l1";
-  const start = new Date(TODAY); start.setDate(start.getDate() - ((start.getDay() + 6) % 7));  // 本周一
-  const cells = [], weeks = Math.ceil((days(iso(start)) * -1 + 35) / 7);
-  ["", "一", "", "三", "", "五", ""].forEach((w, i) => cells.push(i ? `<span class="wd" style="grid-row:${i + 1}">${w}</span>` : `<span></span>`));
-  cells.push(`<span class="wd" style="grid-row:8">日</span>`);
-  for (let w = 0; w < weeks; w++) {
-    const first = new Date(start); first.setDate(start.getDate() + w * 7);
-    cells.push(`<span class="mo">${w === 0 || first.getDate() <= 7 ? `${first.getMonth() + 1}月` : ""}</span>`);
-    for (let k = 0; k < 7; k++) {
-      const d = new Date(first); d.setDate(first.getDate() + k);
-      const key = iso(d), n = counts[key] || 0, off = days(key);
-      if (off < 0 || off >= 35) { cells.push(`<span class="d past" aria-hidden="true"></span>`); continue; }
-      cells.push(`<button class="d ${lvl(n)}${off === 0 ? " today" : ""}" data-day="${key}" aria-pressed="${st.day === key}" title="${md(key)}${off === 0 ? "（今天）" : ""} · ${n} 个截止" aria-label="${md(key)} ${n} 个截止"></button>`);
-    }
+  const lvl = n => !n ? "l0" : n >= max * 0.7 ? "l4" : n >= max * 0.4 ? "l3" : n >= max * 0.15 ? "l2" : "l1";
+  const WK = "日一二三四五六", mo = [], wk = [], cells = [];
+  for (let k = 0; k < 35; k++) {
+    const d = new Date(TODAY); d.setDate(TODAY.getDate() + k);
+    const key = iso(d), n = counts[key] || 0;
+    mo.push(`<span class="mo">${k === 0 || d.getDate() === 1 ? `${d.getMonth() + 1}月` : ""}</span>`);
+    wk.push(`<span class="wk${d.getDay() % 6 === 0 ? " we" : ""}">${WK[d.getDay()]}</span>`);
+    cells.push(`<button class="d ${lvl(n)}${k === 0 ? " today" : ""}" data-day="${key}" aria-pressed="${st.day === key}" title="${md(key)}（周${WK[d.getDay()]}）· ${n} 个截止" aria-label="${md(key)} ${n} 个截止"><small>${k === 0 ? "今天" : d.getDate()}</small><b>${n || ""}</b></button>`);
   }
   const peaks = Object.entries(counts).sort((a, b) => b[1] - a[1] || (a[0] < b[0] ? -1 : 1)).slice(0, 3);
-  $("heat").innerHTML = `<div><h2>未来 5 周截止日历</h2><div class="hg">${cells.join("")}</div></div>
-    <div class="hside">
-      <span>未来 5 周共 <b>${total}</b> 个机会截止</span>
-      ${peaks.length ? `<span>最集中的日子：</span><div class="peak">${peaks.map(([d, n]) => `<button data-day="${d}">${md(d)} · <b>${n}</b> 个</button>`).join("")}</div>` : ""}
-      ${st.day ? `<button class="dayf" data-day="${st.day}">只看 ${md(st.day)} 截止 ✕</button>` : `<span>点日期只看当天截止的机会</span>`}
-      <span class="legend">少 <i style="background:var(--soft)"></i><i class="d l1" style="width:12px;height:12px"></i><i class="d l2" style="width:12px;height:12px"></i><i class="d l3" style="width:12px;height:12px"></i><i class="d l4" style="width:12px;height:12px"></i> 多</span>
-    </div>`;
+  $("heat").innerHTML = `<div class="hh"><h2>未来 5 周截止日历</h2>
+      <span class="sum">共 <b>${total}</b> 个机会截止${peaks.length ? " · 最集中：" : ""}</span>
+      ${peaks.length ? `<span class="peak">${peaks.map(([d, n]) => `<button data-day="${d}">${md(d)} ${n} 个</button>`).join("")}</span>` : ""}
+      ${st.day ? `<button class="dayf" data-day="${st.day}">只看 ${md(st.day)} 截止 ✕</button>` : ""}
+      <span class="legend">少 <i style="background:var(--soft)"></i><i class="d l1" style="height:12px"></i><i class="d l2" style="height:12px"></i><i class="d l3" style="height:12px"></i><i class="d l4" style="height:12px"></i> 多</span></div>
+    <div class="strip"><div class="sg">${mo.join("")}${cells.join("")}${wk.join("")}</div></div>`;
 }
 function render(keepScroll){
   heat();
@@ -421,7 +425,7 @@ function fill(id, counts, names){
 }
 bind();
 fetch("assets/catalog.json").then(r => r.json()).then(rows => {
-  DATA = rows.map(x => ({...x, _hay: [x.n, x.org, regionText(x), (x.d || []).map(d => LABELS.discipline[d] || d).join(" "), x.s, x.rq].join(" ").toLowerCase()}));
+  DATA = rows.map(x => ({...x, _hay: [x.n, x.org, x.in, regionText(x), (x.d || []).map(d => LABELS.discipline[d] || d).join(" "), x.s, x.rq].join(" ").toLowerCase()}));
   const nNow = DATA.filter(isNow).length, nVer = DATA.filter(x => x.v).length;
   $("n-now").textContent = nNow.toLocaleString(); $("n-ver").textContent = nVer.toLocaleString();
   if (DATA.length > nVer) { $("t-all").hidden = false; $("n-all").textContent = DATA.length.toLocaleString(); }

@@ -87,6 +87,14 @@ def main() -> int:
                                         "q": o.get("quote"), "ck": o.get("checked")}.items() if v}
         rows.append(r)
     rows += posting_rows()
+    intros_file = ROOT / "_data" / "intros.yml"  # 申请者简介（apply_intros.py 校验后写入）
+    if intros_file.exists():
+        import yaml
+
+        intros = yaml.safe_load(intros_file.read_text(encoding="utf-8")) or {}
+        for r in rows:
+            if r["id"] in intros:
+                r["in"] = intros[r["id"]]
     (ROOT / "assets").mkdir(exist_ok=True)
     (ROOT / "assets" / "catalog.json").write_text(json.dumps(rows, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     verified = [r for r in rows if r.get("v")]

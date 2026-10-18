@@ -115,7 +115,20 @@ def jac_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
 # JSON-LD 里的国家写法（ISO 代码或英文名）→ 本库地区代码
 COUNTRY = {"GB": "UK", "UNITED KINGDOM": "UK", "UK": "UK", "ENGLAND": "UK", "SCOTLAND": "UK", "WALES": "UK",
            "NORTHERN IRELAND": "UK", "HONG KONG": "HK", "HK": "HK", "CHINA": "CN", "IRELAND": "IE", "IE": "IE",
-           "NETHERLANDS": "NL", "GERMANY": "DE", "SINGAPORE": "SG", "UNITED STATES": "US", "USA": "US", "US": "US"}
+           "NETHERLANDS": "NL", "GERMANY": "DE", "DENMARK": "DK", "SWEDEN": "SE", "NORWAY": "NO", "FINLAND": "FI",
+           "BELGIUM": "BE", "FRANCE": "FR", "SPAIN": "ES", "ITALY": "IT", "PORTUGAL": "PT", "SWITZERLAND": "CH",
+           "AUSTRIA": "AT", "POLAND": "PL", "CZECH REPUBLIC": "CZ", "CZECHIA": "CZ", "LUXEMBOURG": "LU",
+           "SINGAPORE": "SG", "JAPAN": "JP", "SOUTH KOREA": "KR", "KOREA": "KR", "AUSTRALIA": "AU",
+           "NEW ZEALAND": "NZ", "CANADA": "CA", "UNITED STATES": "US", "USA": "US", "US": "US", "MACAU": "MO",
+           "TAIWAN": "TW", "ISRAEL": "IL", "QATAR": "QA", "SAUDI ARABIA": "SA", "UNITED ARAB EMIRATES": "AE"}
+
+
+def country_code(raw: str) -> str:
+    """JSON-LD 国家（ISO 代码或英文名）→ 本库地区代码；认不出就留空，不猜。"""
+    raw = str(raw or "").strip().upper()
+    if raw in COUNTRY:
+        return COUNTRY[raw]
+    return raw if len(raw) == 2 and raw.isalpha() else ""
 
 
 def jac_field(text: str, name: str, nxt: str) -> str:
@@ -169,7 +182,7 @@ def jac_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, s
         "title": re.sub(r"\s+", " ", title)[:200],
         "url": url,
         "org": (org.get("name") if isinstance(org, dict) else "") or "",
-        "country": COUNTRY.get(country.strip().upper(), country.strip().upper()[:2]) if country else "",
+        "country": country_code(country),
         "place": place[:80],
         "level": level,
         "deadline": deadline,
@@ -315,7 +328,7 @@ def fap_detail(pid: str, url: str, raw: str, today: str) -> tuple[dict | None, s
         "title": re.sub(r"\s+", " ", title)[:200],
         "url": url,
         "org": (org.get("name") if isinstance(org, dict) else "") or "",
-        "country": COUNTRY.get(str(country).upper(), str(country).upper()[:2]),
+        "country": country_code(country),
         "place": "",
         "level": "phd",
         "deadline": deadline,
