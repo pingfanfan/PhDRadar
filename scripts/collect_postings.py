@@ -244,56 +244,232 @@ def at_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, st
     }, "收录"
 
 
-# ───────────────────────── Nature Careers ─────────────────────────
+# ───────────────────────── Madgex 系招聘站（Nature Careers、Science Careers、Physics Today） ─────────────────────────
+# 同一套建站系统：站点地图索引 → /job/<编号>/<slug>/；详情页有 Employer / Location / Salary / Closing date（或 Closes）
 
-NC_INDEX = "https://www.nature.com/naturecareers/sitemapindex.xml"
-NC_JOB = re.compile(r"<loc>\s*(https://www\.nature\.com/naturecareers/job/(\d+)/([^<\s]*))\s*</loc>")
+MADGEX = {  # 适配器名: (站点地图索引, 平台名, 岗位链接前缀)
+    "naturecareers": ("https://www.nature.com/naturecareers/sitemapindex.xml", "Nature Careers",
+                      "https://www.nature.com/naturecareers/job/"),
+    "sciencecareers": ("https://jobs.sciencecareers.org/sitemapindex.xml", "Science Careers", "https://jobs.sciencecareers.org/job/"),
+    "physicstoday": ("https://jobs.physicstoday.org/sitemapindex.xml", "Physics Today Jobs", "https://jobs.physicstoday.org/job/"),
+}
 NC_SLUG = re.compile(r"phd|doctoral|doctorate|postdoc|post-doc|postdoctoral|studentship", re.I)
+MG_DATE = r"(\d{1,2}\s+[A-Za-z]{3,9}\s+\d{4}|[A-Za-z]{3,9}\.?\s+\d{1,2},\s+\d{4})"
 
 
-def nc_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+def mg_day(s: str) -> str | None:
+    """'15 Jan 2027' / 'Nov 15, 2026' → ISO（月份缩写补全后交给 parse_day）。"""
+    return parse_day(re.sub(r"[A-Za-z]{3,9}\.?", lambda m: MONTH3.get(m.group(0).rstrip(".").lower()[:3], m.group(0)), s, count=1))
+
+
+def madgex(name: str):
+    index, via, prefix = MADGEX[name]
+    job_re = re.compile(r"<loc>\s*(" + re.escape(prefix) + r"(\d+)/([^<\s]*))\s*</loc>")
+
+    def urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+        out: dict[str, str] = {}
+        for sm in re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", f.get(index).text)[:max_pages]:
+            for url, jid, slug in job_re.findall(f.get(sm).text):
+                if NC_SLUG.search(slug):
+                    out.setdefault(jid, url)
+        return sorted(out.items(), key=lambda kv: -int(kv[0]))
+
+    def detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
+        text = page_text(raw)
+        h1 = re.search(r"<h1[^>]*>(.*?)</h1>", raw, re.S)
+        title = page_text(h1.group(1)) if h1 else ""
+        level = level_of(title)
+        if not level:
+            return None, "非博士/博后岗位"
+        m = re.search(r"(?:Closing date|Closes)\s+" + MG_DATE, text)
+        if not m:
+            return None, "页面无截止日期"
+        deadline = mg_day(m.group(1))
+        if not deadline or deadline < today:
+            return None, "已截止"
+        emp = re.search(r"Employer\s+(.{2,120}?)\s+Location\s", text)
+        loc = re.search(r"Location\s+(.{2,120}?)\s+(?:Salary|Posted|Closing date|Closes)\s", text)
+        sal = re.search(r"Salary\s+(.{1,120}?)\s+(?:Posted|Closing date|Closes)\s", text)
+        salary = sal.group(1).strip() if sal and sal.group(1).strip() not in ("0", "-") else ""
+        body = text[m.end():m.end() + 8000]
+        if _any(_SELF_FUNDED, title + " " + body) or (level == "phd" and not (salary or _any(_FUNDED, body))):
+            return None, "未写资助或自费"
+        return {
+            "id": f"{name}:{jid}",
+            "title": re.sub(r"\s+", " ", title)[:200],
+            "url": url,
+            "org": emp.group(1).strip() if emp else "",
+            "country": "US" if loc and re.search(r"\(US\)|United States", loc.group(1)) else "",
+            "place": (loc.group(1).strip() if loc else "")[:80],
+            "level": level,
+            "deadline": deadline,
+            "quote": m.group(0),
+            "funding_for": "",
+            "amount": salary[:200],
+            "cn": "no" if _any(_RESTRICTED, body) else "check",
+            "flags": ["security-screening"] if _any(_SCREENING, body) else [],
+            "via": via,
+        }, "收录"
+
+    return urls, detail
+
+
+nc_urls, nc_detail = madgex("naturecareers")
+
+
+# ───────────────────────── Jobbnorge（挪威高校，官方公开接口） ─────────────────────────
+
+JN_API = "https://publicapi.jobbnorge.no/v1/jobs?lang=2"
+JN_TITLE = re.compile(r"stipendiat|ph\.?d|doktorgrad|doctoral|postdoktor|post-?doc", re.I)
+_JN: dict[str, dict] = {}  # 接口数据缓存：详情页是脚本渲染的，截止日期以接口字段为准
+
+
+def jn_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+    out = []
+    for it in f.get(JN_API).json():
+        if JN_TITLE.search(it.get("title") or ""):
+            _JN[str(it["id"])] = it
+            out.append((str(it["id"]), it.get("link") or f"https://www.jobbnorge.no/ledige-stillinger/stilling/{it['id']}"))
+    return out
+
+
+def jn_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
+    it = _JN.get(jid) or {}
+    title = (it.get("title") or "").strip()
+    level = level_of(title) or ("phd" if re.search(r"stipendiat|doktorgrad", title, re.I) else
+                                "postdoc" if re.search(r"postdoktor", title, re.I) else None)
+    if not level:
+        return None, "非博士/博后岗位"
+    m = re.match(r"(\d{2})\.(\d{2})\.(\d{4})", it.get("deadline") or "")
+    if not m:
+        return None, "页面无截止日期"
+    deadline = f"{m.group(3)}-{m.group(2)}-{m.group(1)}"
+    if deadline < today:
+        return None, "已截止"
+    return {
+        "id": f"jobbnorge:{jid}", "title": title[:200], "url": url, "org": it.get("employer") or "",
+        "country": "NO", "place": (it.get("location") or "")[:80], "level": level, "deadline": deadline,
+        "quote": f"Søknadsfrist {it['deadline']}", "funding_for": "", "amount": "",
+        "cn": "check", "flags": [], "via": "Jobbnorge",
+    }, "收录"
+
+
+# ───────────────────────── Varbi（瑞典高校共用招聘系统） ─────────────────────────
+
+VARBI = ["lu", "kth", "uu", "su", "ki", "liu", "umu", "gu", "slu", "ltu", "mau", "oru", "kau", "miun", "hh", "his", "mdu",
+         "du", "bth", "lnu", "sh", "hb", "hig", "hv"]
+VB_LINK = re.compile(r'href="(?:https://(\w+)\.varbi\.com)?(/en/what:job/jobID:(\d+)/[^"]*)"[^>]*>(.*?)</a>', re.S)
+VB_TITLE = re.compile(r"ph\.?d|doctoral|doktorand|postdoc|post-doc|postdoktor", re.I)
+
+
+def vb_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
     out: dict[str, str] = {}
-    for sm in re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", f.get(NC_INDEX).text)[:max_pages]:
-        for url, jid, slug in NC_JOB.findall(f.get(sm).text):
-            if NC_SLUG.search(slug):
-                out.setdefault(jid, url)
-    return sorted(out.items(), key=lambda kv: -int(kv[0]))
+    for sub in VARBI:
+        try:
+            html = f.get(f"https://{sub}.varbi.com/en/").text
+        except Exception:  # noqa: BLE001 个别学校没有 Varbi 站点
+            continue
+        for _, path, jid, label in VB_LINK.findall(html):
+            if VB_TITLE.search(page_text(label)):
+                out.setdefault(jid, f"https://{sub}.varbi.com{path}")
+    return list(out.items())
 
 
-def nc_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
+def vb_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
     text = page_text(raw)
     h1 = re.search(r"<h1[^>]*>(.*?)</h1>", raw, re.S)
     title = page_text(h1.group(1)) if h1 else ""
-    level = level_of(title)
+    level = level_of(title) or ("phd" if re.search(r"doktorand", title, re.I) else
+                                "postdoc" if re.search(r"postdoktor", title, re.I) else None)
     if not level:
         return None, "非博士/博后岗位"
-    m = re.search(r"Closing date\s+(\d{1,2}\s+[A-Za-z]{3,9}\s+\d{4})", text)
+    m = re.search(r"(?:Last application date|Last day (?:of|for) application|Sista ansökningsdag)\s*:?\s*"
+                  r"(\d{4}-\d{2}-\d{2}|\d{1,2}\.[A-Za-z]{3}\.\d{4})", text, re.I)
     if not m:
         return None, "页面无截止日期"
-    deadline = parse_day(m.group(1).replace(m.group(1).split()[1], MONTH3.get(m.group(1).split()[1].lower()[:3], m.group(1).split()[1])))
+    raw_day = m.group(1)
+    deadline = raw_day if "-" in raw_day else mg_day(raw_day.replace(".", " "))  # “08.Nov.2026”
     if not deadline or deadline < today:
         return None, "已截止"
-    emp = re.search(r"Employer\s+(.{2,120}?)\s+Location\s", text)
-    loc = re.search(r"Location\s+(.{2,120}?)\s+(?:Salary|Closing date)\s", text)
-    sal = re.search(r"Salary\s+(.{1,120}?)\s+Closing date\s", text)
-    body = text[m.end():m.end() + 8000]
-    if _any(_SELF_FUNDED, title + " " + body) or (level == "phd" and not (sal or _any(_FUNDED, body))):
-        return None, "未写资助或自费"
+    org = re.search(r"<title>.*?(?:at|vid)\s+([^<|]+)</title>", raw, re.S | re.I)
     return {
-        "id": f"naturecareers:{jid}",
-        "title": re.sub(r"\s+", " ", title)[:200],
-        "url": url,
-        "org": emp.group(1).strip() if emp else "",
-        "country": "", "place": (loc.group(1).strip() if loc else "")[:80],
-        "level": level,
-        "deadline": deadline,
-        "quote": m.group(0),
-        "funding_for": "",
-        "amount": (sal.group(1).strip() if sal else "")[:200],
-        "cn": "no" if _any(_RESTRICTED, body) else "check",
-        "flags": ["security-screening"] if _any(_SCREENING, body) else [],
-        "via": "Nature Careers",
+        "id": f"varbi:{jid}", "title": re.sub(r"\s+", " ", title)[:200], "url": url,
+        "org": (org.group(1).strip() if org else url.split("//")[1].split(".")[0].upper()),
+        "country": "SE", "place": "", "level": level, "deadline": deadline, "quote": m.group(0),
+        "funding_for": "", "amount": "", "cn": "no" if _any(_RESTRICTED, text) else "check",
+        "flags": ["security-screening"] if _any(_SCREENING, text) else [], "via": "Varbi",
     }, "收录"
+
+
+# ───────────────────────── 机构自己的招聘页（列表页 + 通用截止日期识别） ─────────────────────────
+
+DEADLINE_KW = r"(?:application deadline|deadline for applications?|deadline to apply|closing date|apply by|applications? (?:close|due)|" \
+              r"bewerbungsfrist|bewerbungsschluss|date limite de candidature|deadline)"
+ANY_DATE = r"(\d{4}-\d{2}-\d{2}|\d{1,2}(?:st|nd|rd|th)?\.?\s+[A-Za-zäé]{3,9}\.?\s+\d{4}|[A-Za-z]{3,9}\.?\s+\d{1,2}(?:st|nd|rd|th)?,?\s+\d{4}|\d{1,2}\.\d{1,2}\.\d{4})"
+DE_MONTHS = {"januar": "January", "februar": "February", "märz": "March", "april": "April", "mai": "May", "juni": "June",
+             "juli": "July", "august": "August", "september": "September", "oktober": "October", "november": "November",
+             "dezember": "December"}
+
+
+def find_deadline(text: str) -> tuple[str | None, str]:
+    """在正文里找“截止关键词 + 60 字内的日期”，返回 (ISO 日期, 原文片段)；没有年份或认不出就返回 None。"""
+    for m in re.finditer(DEADLINE_KW + r"[^.\d]{0,60}?" + ANY_DATE, text, re.I):
+        raw = m.group(1)
+        if re.fullmatch(r"\d{1,2}\.\d{1,2}\.\d{4}", raw):
+            d, mo, y = raw.split(".")
+            iso = f"{y}-{int(mo):02d}-{int(d):02d}"
+        else:
+            words = raw.replace(".", " ")
+            for de, en in DE_MONTHS.items():
+                words = re.sub(de, en, words, flags=re.I)
+            iso = parse_day(re.sub(r"\b([A-Za-z]{3})[a-z]*\b", lambda x: MONTH3.get(x.group(1).lower(), x.group(0)), words))
+        if iso:
+            return iso, m.group(0).strip()
+    return None, ""
+
+
+INSTITUTES = {  # 适配器名: (列表页, 岗位链接正则（相对或绝对）, 链接前缀, 平台名, 机构, 国家)
+    "ethz": (["https://jobs.ethz.ch/"], r'href="(/job/view/(\d+))"', "https://jobs.ethz.ch", "ETH Zurich Jobs", "ETH Zurich", "CH"),
+    "inria": (["https://jobs.inria.fr/public/classic/en/offres"], r'href="(/public/classic/en/offres/(\d{4}-\d{5}))"',
+              "https://jobs.inria.fr", "Inria Jobs", "Inria", "FR"),
+    "mpg": (["https://www.mpg.de/feeds/stellenangebote.rss"], r"<link>(https://www\.mpg\.de/job-([0-9a-f]{32}))</link>", "",
+            "Max-Planck-Gesellschaft", "Max-Planck-Gesellschaft", "DE"),
+}
+INST_TITLE = re.compile(r"ph\.?d|doctoral|doktorand|promotion|post-?doc|postdoktorand|post-doctoral", re.I)
+
+
+def institute(name: str):
+    pages, link_re, prefix, via, org, country = INSTITUTES[name]
+
+    def urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+        out: dict[str, str] = {}
+        for page in pages:
+            for path, jid in re.findall(link_re, f.get(page).text):
+                out.setdefault(jid, prefix + path)
+        return list(out.items())
+
+    def detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
+        h1 = re.search(r"<h1[^>]*>(.*?)</h1>", raw, re.S)
+        title = page_text(h1.group(1)) if h1 else ""
+        if not INST_TITLE.search(title):
+            return None, "非博士/博后岗位"
+        level = "postdoc" if re.search(r"post-?doc|postdoktorand|post-doctoral", title, re.I) else "phd"
+        text = page_text(raw)
+        deadline, quote = find_deadline(text)
+        if not deadline:
+            return None, "页面无截止日期"
+        if deadline < today:
+            return None, "已截止"
+        sal = re.search(r"(?:monthly gross salary|salary)[^.]{0,80}?(?:€|EUR|CHF)\s?[\d.,]+[^.]{0,30}", text, re.I)
+        return {
+            "id": f"{name}:{jid}", "title": re.sub(r"\s+", " ", title)[:200], "url": url, "org": org,
+            "country": country, "place": "", "level": level, "deadline": deadline, "quote": quote[:160],
+            "funding_for": "", "amount": (sal.group(0).strip() if sal else "")[:200],
+            "cn": "no" if _any(_RESTRICTED, text) else "check",
+            "flags": ["security-screening"] if _any(_SCREENING, text) else [], "via": via,
+        }, "收录"
+
+    return urls, detail
 
 
 # ───────────────────────── FindAPhD ─────────────────────────
@@ -395,12 +571,14 @@ def fap_detail(pid: str, url: str, raw: str, today: str) -> tuple[dict | None, s
 
 
 ADAPTERS = {"jobs-ac-uk": (jac_urls, jac_detail), "academictransfer": (at_urls, at_detail),
-            "findaphd": (fap_urls, fap_detail), "naturecareers": (nc_urls, nc_detail)}
-DEFAULT = "jobs-ac-uk,academictransfer,naturecareers"  # findaphd 需在本地电脑运行，不放进默认
+            "findaphd": (fap_urls, fap_detail), "jobbnorge": (jn_urls, jn_detail), "varbi": (vb_urls, vb_detail),
+            **{k: madgex(k) for k in MADGEX}, **{k: institute(k) for k in INSTITUTES}}
+DEFAULT = "jobs-ac-uk,academictransfer,naturecareers,sciencecareers,physicstoday,jobbnorge,varbi,ethz,inria,mpg"  # findaphd 需在本地电脑运行，不放进默认
 
 
 # 同一岗位常在多个平台出现：机构 + 标题 + 截止日期相同视为同一个，只留信息最全的那条
-VIA_RANK = {"jobs.ac.uk": 3, "AcademicTransfer": 3, "Nature Careers": 2, "FindAPhD": 1}
+VIA_RANK = {"jobs.ac.uk": 3, "AcademicTransfer": 3, "Nature Careers": 2, "Science Careers": 2, "Physics Today Jobs": 2, "Jobbnorge": 3, "Varbi": 3,
+            "FindAPhD": 1}
 TITLE_NOISE = re.compile(r"\b(phd|ph\.d|studentship|position|project|fully|funded|scholarship|the|a|an|in|on|of|for|and|with)\b|[^a-z0-9]+")
 
 

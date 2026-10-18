@@ -95,3 +95,26 @@ def test_dedupe_keeps_same_platform_namesakes():
     b = dict(a, id="jobs-ac-uk:2", url="u2")
     out, dropped = cp.dedupe([a, b])
     assert dropped == 0 and len(out) == 2
+
+
+def test_madgex_us_date_format():
+    page = """<html><h1>Michelson Postdoctoral Prize Lectureship</h1><body>Employer Case Western Reserve University Location Ohio
+Salary 0 Posted Oct 16, 2026 Closes Dec 15, 2026 Discipline Physics</body></html>"""
+    urls, detail = cp.madgex("physicstoday")
+    row, why = detail("42020982", "u", page, TODAY)
+    assert why == "收录" and row["deadline"] == "2026-12-15" and row["amount"] == "" and row["via"] == "Physics Today Jobs"
+
+
+def test_varbi_detail_english_date():
+    page = """<html><title>PhD student in physics at Lund University</title><h1>PhD student in physics</h1><body>
+Published 16.Oct.2026 Last application date 08.Nov.2026 Login and apply</body></html>"""
+    row, why = cp.vb_detail("977396", "https://lu.varbi.com/en/what:job/jobID:977396/", page, TODAY)
+    assert why == "收录" and row["deadline"] == "2026-11-08" and row["org"] == "Lund University"
+
+
+def test_find_deadline_formats():
+    assert cp.find_deadline("The deadline for applications is October 27, 2026 (16:00 CET).")[0] == "2026-10-27"
+    assert cp.find_deadline("Duration of contract : 12 months Deadline to apply : 2026-10-31 Warning")[0] == "2026-10-31"
+    assert cp.find_deadline("Bewerbungsfrist: 15.11.2026")[0] == "2026-11-15"
+    assert cp.find_deadline("Bewerbungsschluss ist der 3. Dezember 2026.")[0] == "2026-12-03"
+    assert cp.find_deadline("Application deadline: 15 January")[0] is None  # 没有年份不猜
