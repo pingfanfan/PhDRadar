@@ -346,6 +346,7 @@ function detail(x){
     <div class="pb">
       ${quote ? `<div><h2>官网原句</h2><div class="proof"><svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5 9-10"/></svg><div><q>${esc(quote)}</q><small>${esc(checked || "")} 打开${x.via ? ` ${esc(x.via)} 公告` : "官网"}${what}</small></div></div></div>` : ""}
       ${notes.length ? `<div><h2>申请须知</h2>${notes.map(n => `<p>${esc(n)}</p>`).join("")}</div>` : ""}
+      ${x.al ? `<p class="fine">同一岗位也发布在：${x.al.map((u, i) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(new URL(u).hostname.replace(/^www\./, ""))}</a>`).join("、")}</p>` : ""}
       <p class="fine">${x.via ? `岗位来自 ${esc(x.via)}，截止日期由程序从公告原文提取。` : ""}信息以官网为准，截止时间注意时区。发现错误？<a href="__REPO__/issues">告诉我们</a></p>
     </div>
   </div>`;

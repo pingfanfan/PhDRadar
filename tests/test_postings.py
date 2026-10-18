@@ -75,3 +75,23 @@ Location 21201, Baltimore Salary 65,000 Closing date 15 Jan 2027 Website https:/
     row, why = cp.nc_detail("12865818", "u", page, TODAY)
     assert why == "收录" and row["deadline"] == "2027-01-15" and row["level"] == "postdoc"
     assert row["org"] == "University of Maryland School of Medicine" and row["amount"] == "65,000"
+
+
+def test_dedupe_across_platforms():
+    a = {"id": "jobs-ac-uk:1", "title": "PhD Studentship: Tandem Catalysts for CO2 Electrolysis", "org": "University of Exeter",
+         "deadline": "2026-12-20", "url": "u1", "via": "jobs.ac.uk", "cn": "check", "amount": "£21,805"}
+    b = {"id": "findaphd:2", "title": "Tandem catalysts for CO2 electrolysis (Fully Funded)", "org": "University of Exeter",
+         "deadline": "2026-12-20", "url": "u2", "via": "FindAPhD", "cn": "yes", "amount": ""}
+    c = dict(a, id="jobs-ac-uk:3", title="Postdoc in Optics", url="u3")
+    out, dropped = cp.dedupe([a, b, c])
+    assert dropped == 1 and len(out) == 2
+    merged = next(r for r in out if r["id"] == "jobs-ac-uk:1")
+    assert merged["cn"] == "yes" and merged["also"] == ["u2"]
+
+
+def test_dedupe_keeps_same_platform_namesakes():
+    a = {"id": "jobs-ac-uk:1", "title": "Postdoctoral Research Associate", "org": "University of Edinburgh",
+         "deadline": "2026-10-19", "url": "u1", "via": "jobs.ac.uk", "cn": "check"}
+    b = dict(a, id="jobs-ac-uk:2", url="u2")
+    out, dropped = cp.dedupe([a, b])
+    assert dropped == 0 and len(out) == 2

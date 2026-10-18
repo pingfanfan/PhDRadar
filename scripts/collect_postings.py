@@ -399,6 +399,46 @@ ADAPTERS = {"jobs-ac-uk": (jac_urls, jac_detail), "academictransfer": (at_urls, 
 DEFAULT = "jobs-ac-uk,academictransfer,naturecareers"  # findaphd 需在本地电脑运行，不放进默认
 
 
+# 同一岗位常在多个平台出现：机构 + 标题 + 截止日期相同视为同一个，只留信息最全的那条
+VIA_RANK = {"jobs.ac.uk": 3, "AcademicTransfer": 3, "Nature Careers": 2, "FindAPhD": 1}
+TITLE_NOISE = re.compile(r"\b(phd|ph\.d|studentship|position|project|fully|funded|scholarship|the|a|an|in|on|of|for|and|with)\b|[^a-z0-9]+")
+
+
+def dup_key(r: dict) -> tuple[str, str, str]:
+    title = TITLE_NOISE.sub(" ", r["title"].lower())
+    org = re.sub(r"\b(the|university|of|universit[yé]|college)\b|[^a-z]+", " ", r.get("org", "").lower())
+    return (" ".join(title.split())[:80], " ".join(org.split())[:30], r["deadline"])
+
+
+def dedupe(rows: list[dict]) -> tuple[list[dict], int]:
+    best: dict[tuple, dict] = {}
+    groups: dict[tuple, list[dict]] = {}
+    for r in rows:
+        k = dup_key(r)
+        groups.setdefault(k, []).append(r)
+    out = []
+    for k, g in list(groups.items()):
+        # 同一平台不会重复发同一岗位：同平台的同名岗位（如两个 “Postdoctoral Research Associate”）各自保留
+        vias = [r.get("via") for r in g]
+        if len(set(vias)) < len(vias):
+            seen_via: set = set()
+            first = []
+            for r in g:
+                if r.get("via") in seen_via:
+                    out.append(r)
+                else:
+                    seen_via.add(r.get("via"))
+                    first.append(r)
+            g = first
+        keep = max(g, key=lambda r: (VIA_RANK.get(r.get("via"), 0), sum(1 for v in r.values() if v)))
+        cns = {r.get("cn") for r in g}
+        keep = dict(keep, cn="no" if "no" in cns else "yes" if "yes" in cns else "check")  # 任一平台写明限本土就按限本土
+        if len(g) > 1:
+            keep["also"] = sorted({r["url"] for r in g if r is not keep and r["url"] != keep["url"]})
+        out.append(keep)
+    return out, len(rows) - len(out)
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("-s", "--sources", default=DEFAULT)
@@ -407,7 +447,14 @@ def main() -> int:
     ap.add_argument("--max-pages", type=int, default=80)
     ap.add_argument("--max-details", type=int, default=3000)
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--dedupe-only", action="store_true", help="不采集，只对现有 _data/postings.yml 去重")
     args = ap.parse_args()
+    if args.dedupe_only:
+        rows, dropped = dedupe(yaml.safe_load(OUT.read_text(encoding="utf-8")) or [])
+        OUT.write_text(yaml.safe_dump(sorted(rows, key=lambda r: (r["deadline"], r["id"])), allow_unicode=True,
+                                      sort_keys=False, width=200), encoding="utf-8")
+        print(f"去重：合并 {dropped} 条，剩 {len(rows)} 条")
+        return 0
     f = Fetcher(delay=1.0)
     old = {r["id"]: r for r in (yaml.safe_load(OUT.read_text(encoding="utf-8")) or [])} if OUT.exists() else {}
     rows: dict[str, dict] = {k: v for k, v in old.items() if v["deadline"] == "rolling" or v["deadline"] >= args.today}
@@ -439,7 +486,9 @@ def main() -> int:
                 row["checked"] = args.today
                 rows[row["id"]] = row
         print(f"[{name}] 列表 {len(urls)} 个：{stats}")
-    out = sorted(rows.values(), key=lambda r: (r["deadline"], r["id"]))
+    deduped, dropped = dedupe(list(rows.values()))
+    print(f"去重：合并 {dropped} 条跨平台重复岗位")
+    out = sorted(deduped, key=lambda r: (r["deadline"], r["id"]))
     print(f"岗位清单共 {len(out)} 条（中国学生可申 {sum(r['cn'] == 'yes' for r in out)} · 待确认 "
           f"{sum(r['cn'] == 'check' for r in out)} · 限本土 {sum(r['cn'] == 'no' for r in out)}）")
     if not args.dry_run:

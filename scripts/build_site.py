@@ -68,6 +68,8 @@ def posting_rows() -> list[dict]:
              "l": [p["level"]], "c": "salary" if p["level"] == "postdoc" else ("full" if p.get("funding_for") else None),
              "s": p.get("amount"), "dl": p["deadline"], "e": p.get("cn") or "check", "v": True, "via": p.get("via"),
              "o": {"st": "open", "dl": p["deadline"], "q": p.get("quote"), "ck": p.get("checked")}}
+        if p.get("also"):
+            r["al"] = p["also"]
         if p.get("funding_for"):
             r["rq"] = f"资助对象（公告原文）：{p['funding_for']}"
         out.append({k: v for k, v in r.items() if v not in (None, "", [])})
