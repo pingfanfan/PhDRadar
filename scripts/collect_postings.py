@@ -270,7 +270,7 @@ def fap_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
             print(f"[findaphd] 站点地图里没有项目链接：{xml[:800]!r}")
         for u, pid in found:
             out.setdefault(pid, u)
-    return list(out.items())
+    return sorted(out.items(), key=lambda kv: -int(kv[0]))  # 新发布的项目（编号大）优先
 
 
 def fap_detail(pid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
