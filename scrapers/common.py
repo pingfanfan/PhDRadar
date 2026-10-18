@@ -84,13 +84,22 @@ class Fetcher:
     def get(self, url: str, **kwargs) -> requests.Response:
         if not self.allowed(url):
             raise Disallowed(url)
-        host = urlparse(url).netloc
-        wait = self.delay - (time.monotonic() - self._last_hit.get(host, 0))
+        parts = urlparse(url)
+        host = parts.netloc
+        rp = self._robots.get(f"{parts.scheme}://{host}")
+        crawl_delay = (rp.crawl_delay(USER_AGENT) if rp else None) or 0  # robots.txt 的 Crawl-delay 优先
+        wait = max(self.delay, float(crawl_delay)) - (time.monotonic() - self._last_hit.get(host, 0))
         if wait > 0:
             time.sleep(wait)
         for attempt in range(3):
             self._last_hit[host] = time.monotonic()
-            r = self.session.get(url, **{"timeout": self.timeout, **kwargs})
+            try:
+                r = self.session.get(url, **{"timeout": self.timeout, **kwargs})
+            except requests.ConnectionError:  # 对方断开连接：稍等后重试
+                if attempt == 2:
+                    raise
+                time.sleep(5 * (attempt + 1))
+                continue
             if r.status_code in (429, 502, 503, 504) and attempt < 2:
                 retry_after = r.headers.get("Retry-After", "")
                 time.sleep(min(int(retry_after), 60) if retry_after.isdigit() else 5 * (attempt + 1))

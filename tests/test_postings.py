@@ -140,3 +140,28 @@ def test_place_country():
     assert cp.place_country("21201, Baltimore") == ""
     assert cp.place_country("Memphis, Tennessee") == "US" and cp.place_country("Wien, Österreich") == "AT"
     assert cp.place_country("Benguerir, Morocco (MA)") == "MA"
+
+
+def test_inspire_detail():
+    rec = {"metadata": {"position": "Postdoctoral Fellowship in Theoretical Physics", "ranks": ["POSTDOC"], "status": "open",
+                        "deadline_date": "2026-11-12", "regions": ["Europe"], "description": "<div>two-year fellowship</div>",
+                        "institutions": [{"value": "INFN, Genoa", "record": {"$ref": "https://inspirehep.net/api/institutions/902881"}}]}}
+    cp._INSPIRE_COUNTRY["https://inspirehep.net/api/institutions/902881"] = "IT"
+    import json
+    row, why = cp.inspire_detail("3070001", "u", json.dumps(rec), TODAY)
+    assert why == "收录" and row["deadline"] == "2026-11-12" and row["country"] == "IT" and row["url"].endswith("/jobs/3070001")
+    rec["metadata"]["ranks"] = ["SENIOR"]
+    assert cp.inspire_detail("1", "u", json.dumps(rec), TODAY)[0] is None
+
+
+def test_ajo_detail():
+    cp._AJO["33125"] = {"univ": "Ghent University", "dept": "Mechanics of Materials and Structures", "country": "BE", "city": "Gent",
+                        "desc": "[Net salary (after taxes) starting from 2900 EUR/month] Belgium has been"}
+    page = """<html><body>Position Title: Postdoc (3 years) on numerical simulation of composite hydrogen tanks (Belgium)
+Position Type: Postdoctoral Position Appl Deadline: 2027/01/31 12:00:00 (posted 2026/10/17 , listed until 2027/04/17)
+Position Description: Apply Position Description research</body></html>"""
+    row, why = cp.ajo_detail("33125", "https://academicjobsonline.org/ajo/jobs/33125", page, TODAY)
+    assert why == "收录" and row["deadline"] == "2027-01-31" and row["country"] == "BE"
+    assert row["amount"] == "Net salary (after taxes) starting from 2900 EUR/month"
+    no_dl = page.replace("2027/01/31 12:00:00 ", "")
+    assert cp.ajo_detail("33125", "u", no_dl, TODAY) == (None, "页面无截止日期")

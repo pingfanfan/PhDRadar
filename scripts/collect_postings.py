@@ -378,6 +378,112 @@ def jn_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, st
     }, "收录"
 
 
+# ───────────────────────── INSPIRE-HEP Jobs（高能物理 / 天体物理岗位库，公开 REST 接口） ─────────────────────────
+
+INSPIRE_API = "https://inspirehep.net/api/jobs?size=100&page={page}&sort=mostrecent&q=status:open"
+_INSPIRE_COUNTRY: dict[str, str] = {}  # 机构记录 → 国家代码（每个机构只查一次）
+
+
+def inspire_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+    """列出在招的博士 / 博后岗位；详情直接取该岗位的接口记录（JSON），截止日期是机构填写的结构化字段。"""
+    out = []
+    for page in range(1, max_pages + 1):
+        hits = f.get(INSPIRE_API.format(page=page)).json()["hits"]["hits"]
+        for h in hits:
+            m = h["metadata"]
+            if not {"PHD", "POSTDOC"} & set(m.get("ranks") or []):
+                continue
+            for inst in m.get("institutions") or []:
+                ref = (inst.get("record") or {}).get("$ref", "")
+                if ref and ref not in _INSPIRE_COUNTRY:
+                    try:
+                        addr = (f.get(ref).json()["metadata"].get("addresses") or [{}])[0]
+                        _INSPIRE_COUNTRY[ref] = country_code(addr.get("country_code"))
+                    except Exception:  # noqa: BLE001 机构记录取不到就不写国家
+                        _INSPIRE_COUNTRY[ref] = ""
+            out.append((str(m["control_number"]), f"https://inspirehep.net/api/jobs/{m['control_number']}"))
+        if len(hits) < 100:
+            break
+    return out
+
+
+def inspire_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
+    m = json.loads(raw)["metadata"]
+    ranks = set(m.get("ranks") or [])
+    level = "postdoc" if "POSTDOC" in ranks else "phd" if "PHD" in ranks else None
+    if not level or m.get("status") != "open":
+        return None, "非博士/博后岗位"
+    deadline = m.get("deadline_date") or ""
+    if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", deadline):
+        return None, "页面无截止日期"
+    if deadline < today:
+        return None, "已截止"
+    body = page_text(m.get("description") or "")
+    if _any(_SELF_FUNDED, body) or (level == "phd" and not _any(_FUNDED, body)):
+        return None, "未写资助或自费"
+    insts = m.get("institutions") or []
+    countries = {_INSPIRE_COUNTRY.get((i.get("record") or {}).get("$ref", ""), "") for i in insts} - {""}
+    return {
+        "id": f"inspire:{jid}", "title": re.sub(r"\s+", " ", m.get("position") or "")[:200],
+        "url": f"https://inspirehep.net/jobs/{jid}", "org": " / ".join(i.get("value", "") for i in insts)[:120],
+        "country": countries.pop() if len(countries) == 1 else "", "place": ", ".join(m.get("regions") or [])[:80],
+        "level": level, "deadline": deadline, "quote": f"Deadline: {deadline}", "funding_for": "", "amount": "",
+        "cn": "no" if _any(_RESTRICTED, body) else "check",
+        "flags": ["security-screening"] if _any(_SCREENING, body) else [], "via": "INSPIRE-HEP Jobs",
+    }, "收录"
+
+
+# ───────────────────────── Academic Jobs Online（RSS 列表 + 岗位页上的 Appl Deadline） ─────────────────────────
+
+AJO_RSS = "https://academicjobsonline.org/ajo?joblist-0-0-0-----rss--"
+_AJO: dict[str, dict] = {}  # RSS 字段缓存：机构、国家、薪资括注
+
+
+def ajo_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+    out = []
+    for item in re.findall(r"<item\b(.*?)</item>", f.get(AJO_RSS).text, re.S):
+        def tag(name: str) -> str:
+            m = re.search(rf"<{name}>(.*?)</{name}>", item, re.S)
+            return htmllib.unescape(m.group(1).strip()) if m else ""
+        jid, title = tag("ads:ID"), tag("title")
+        if not jid or not level_of(title):
+            continue
+        _AJO[jid] = {"univ": tag("ads:Univ"), "dept": tag("ads:Dept"), "country": tag("ads:Country"),
+                     "city": tag("ads:City"), "desc": tag("description")}
+        out.append((jid, f"https://academicjobsonline.org/ajo/jobs/{jid}"))
+    return out
+
+
+def ajo_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
+    text = page_text(raw)
+    it = _AJO.get(jid) or {}
+    t = re.search(r"Position Title:\s*(.{3,200}?)\s+Position Type:", text)
+    title = t.group(1) if t else ""
+    level = level_of(title)
+    if not level:
+        return None, "非博士/博后岗位"
+    m = re.search(r"Appl Deadline:\s*(\d{4})/(\d{2})/(\d{2})", text)  # 只写 listed until 的不算截止日期
+    if not m:
+        return None, "页面无截止日期"
+    deadline = f"{m.group(1)}-{m.group(2)}-{m.group(3)}"
+    if deadline < today:
+        return None, "已截止"
+    d = text.find("Position Description:")
+    body = text[d:d + 8000] if d >= 0 else it.get("desc", "")
+    if _any(_SELF_FUNDED, body) or (level == "phd" and not _any(_FUNDED, body)):
+        return None, "未写资助或自费"
+    pay = re.match(r"\[([^\]]{3,150})\]", it.get("desc", ""))  # 雇主在简介开头括注的薪资
+    return {
+        "id": f"ajo:{jid}", "title": title[:200], "url": url,
+        "org": ", ".join(x for x in (it.get("univ"), it.get("dept")) if x)[:120],
+        "country": country_code(it.get("country")), "place": it.get("city", "")[:80], "level": level,
+        "deadline": deadline, "quote": m.group(0), "funding_for": "",
+        "amount": pay.group(1) if pay and re.search(r"\d", pay.group(1)) else "",
+        "cn": "no" if _any(_RESTRICTED, body) else "check",
+        "flags": ["security-screening"] if _any(_SCREENING, body) else [], "via": "Academic Jobs Online",
+    }, "收录"
+
+
 # ───────────────────────── Varbi（瑞典高校共用招聘系统） ─────────────────────────
 
 VARBI = ["lu", "kth", "uu", "su", "ki", "liu", "umu", "gu", "slu", "ltu", "mau", "oru", "kau", "miun", "hh", "his", "mdu",
@@ -596,12 +702,13 @@ def fap_detail(pid: str, url: str, raw: str, today: str) -> tuple[dict | None, s
 
 ADAPTERS = {"jobs-ac-uk": (jac_urls, jac_detail), "academictransfer": (at_urls, at_detail),
             "findaphd": (fap_urls, fap_detail), "jobbnorge": (jn_urls, jn_detail), "varbi": (vb_urls, vb_detail),
+            "inspire": (inspire_urls, inspire_detail), "ajo": (ajo_urls, ajo_detail),
             **{k: madgex(k) for k in MADGEX}, **{k: institute(k) for k in INSTITUTES}}
-DEFAULT = "jobs-ac-uk,academictransfer,naturecareers,sciencecareers,physicstoday,the-unijobs,jobbnorge,varbi,ethz,inria,mpg"  # findaphd 需在本地电脑运行，不放进默认
+DEFAULT = "jobs-ac-uk,academictransfer,naturecareers,sciencecareers,physicstoday,the-unijobs,jobbnorge,inspire,ajo,varbi,ethz,inria,mpg"  # findaphd 需在本地电脑运行，不放进默认
 
 
 # 同一岗位常在多个平台出现：机构 + 标题 + 截止日期相同视为同一个，只留信息最全的那条
-VIA_RANK = {"jobs.ac.uk": 3, "AcademicTransfer": 3, "Nature Careers": 2, "Science Careers": 2, "Physics Today Jobs": 2, "THE Unijobs": 2, "Jobbnorge": 3, "Varbi": 3,
+VIA_RANK = {"jobs.ac.uk": 3, "AcademicTransfer": 3, "Nature Careers": 2, "Science Careers": 2, "Physics Today Jobs": 2, "THE Unijobs": 2, "Jobbnorge": 3, "INSPIRE-HEP Jobs": 2, "Academic Jobs Online": 2, "Varbi": 3,
             "FindAPhD": 1}
 TITLE_NOISE = re.compile(r"\b(phd|ph\.d|studentship|position|project|fully|funded|scholarship|the|a|an|in|on|of|for|and|with)\b|[^a-z0-9]+")
 
