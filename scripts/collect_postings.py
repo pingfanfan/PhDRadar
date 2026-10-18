@@ -83,10 +83,12 @@ def parse_day(s: str) -> str | None:
 def level_of(title: str) -> str | None:
     if NOT_TARGET.search(title):
         return None
+    if re.search(r"post[\s-]?doc|postdoctoral", title, re.I):
+        return "postdoc"
+    if PHD.search(title):  # “PhD Research Fellow”（挪威 stipendiat）是博士岗位，先于 research fellow 判断
+        return "phd"
     if POSTDOC.search(title):
         return "postdoc"
-    if PHD.search(title):
-        return "phd"
     return None
 
 

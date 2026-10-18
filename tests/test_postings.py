@@ -118,3 +118,9 @@ def test_find_deadline_formats():
     assert cp.find_deadline("Bewerbungsfrist: 15.11.2026")[0] == "2026-11-15"
     assert cp.find_deadline("Bewerbungsschluss ist der 3. Dezember 2026.")[0] == "2026-12-03"
     assert cp.find_deadline("Application deadline: 15 January")[0] is None  # 没有年份不猜
+
+
+def test_level_phd_research_fellow():
+    assert cp.level_of("PhD Research Fellow in Marine Biology") == "phd"
+    assert cp.level_of("Postdoctoral Research Fellow in Optics") == "postdoc"
+    assert cp.level_of("Research Fellow in Electrochemistry") == "postdoc"
