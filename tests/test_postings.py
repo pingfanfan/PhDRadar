@@ -59,3 +59,19 @@ def test_findaphd_weekday_deadline():
     page = FAP_PAGE.replace("Application Deadline: 15 January 2027", "Tuesday, February 02, 2027")
     row, why = cp.fap_detail("7", "u", page, TODAY)
     assert why == "收录" and row["deadline"] == "2027-02-02" and row["quote"] == "Tuesday, February 02, 2027"
+
+
+def test_academictransfer_detail():
+    page = """<html><script type="application/ld+json">{"@type":"JobPosting","title":"PhD: Lensless 3D optical imaging",
+"hiringOrganization":{"name":"ARCNL"}}</script><body>PhD: Lensless 3D optical imaging Deadline 17 Nov ’26 Published 21 May ’26
+Salary indication max. €3115 per month Location Amsterdam</body></html>"""
+    row, why = cp.at_detail("361214", "https://www.academictransfer.com/en/jobs/361214/phd-x/", page, TODAY)
+    assert why == "收录" and row["deadline"] == "2026-11-17" and row["amount"] == "max. €3115 per month"
+
+
+def test_naturecareers_detail():
+    page = """<html><h1>Postdoctoral Fellow Position – Cancer Immunotherapies</h1><body>Employer University of Maryland School of Medicine
+Location 21201, Baltimore Salary 65,000 Closing date 15 Jan 2027 Website https://x</body></html>"""
+    row, why = cp.nc_detail("12865818", "u", page, TODAY)
+    assert why == "收录" and row["deadline"] == "2027-01-15" and row["level"] == "postdoc"
+    assert row["org"] == "University of Maryland School of Medicine" and row["amount"] == "65,000"

@@ -1,0 +1,40 @@
+name: probe-portal
+
+# 探测招聘平台的站点地图与岗位页结构（scripts/probe_portal.py），样例页作为附件上传。只手动触发。
+on:
+  workflow_dispatch:
+    inputs:
+      sitemaps:
+        description: "站点地图网址，空格分隔"
+        required: true
+      pattern:
+        description: "岗位链接需匹配的正则"
+        required: true
+      n:
+        description: "保存几个样例页"
+        default: "8"
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: 探测
+        env:
+          SITEMAPS: ${{ inputs.sitemaps }}
+          PATTERN: ${{ inputs.pattern }}
+          N: ${{ inputs.n }}
+        run: |
+          args=(); for s in $SITEMAPS; do args+=(--sitemap "$s"); done
+          python scripts/probe_portal.py "${args[@]}" --pattern "$PATTERN" -n "$N" | tee -a "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: probe-samples
+          path: research/inbox/samples/
+          if-no-files-found: ignore

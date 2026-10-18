@@ -22,10 +22,12 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
-from scrapers.common import Disallowed, Fetcher, _RESTRICTED, _SCREENING, _SELF_FUNDED, _any  # noqa: E402
+from scrapers.common import Disallowed, Fetcher, _FUNDED, _RESTRICTED, _SCREENING, _SELF_FUNDED, _any  # noqa: E402
 
 OUT = ROOT / "_data" / "postings.yml"
 LD_RE = re.compile(r'<script[^>]+type="application/ld\+json"[^>]*>(.*?)</script>', re.S)
+MONTH3 = {"jan": "January", "feb": "February", "mar": "March", "apr": "April", "may": "May", "jun": "June", "jul": "July",
+          "aug": "August", "sep": "September", "sept": "September", "oct": "October", "nov": "November", "dec": "December"}
 MONTHS = {m: i + 1 for i, m in enumerate(
     ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"])}
 POSTDOC = re.compile(r"post[\s-]?doc|postdoctoral|research (associate|fellow)", re.I)
@@ -203,28 +205,27 @@ AT_SLUG = re.compile(r"phd|doctoral|promovend|doctorate|postdoc|post-doc|postdoc
 
 
 def at_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
-    return [(jid, u) for u, jid in AT_LOC.findall(f.get(AT_SITEMAP).text) if AT_SLUG.search(u.rsplit("/", 1)[-1])]
+    return [(jid, u) for u, jid in AT_LOC.findall(f.get(AT_SITEMAP).text)
+            if "/en/jobs/" in u and AT_SLUG.search(u.rstrip("/").rsplit("/", 1)[-1])]
 
 
 def at_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
     ld = job_posting(raw)
     title = (ld.get("title") or "").strip()
-    level = level_of(title) or ("phd" if re.search(r"phd|promovend", url, re.I) else None)
+    level = level_of(title)
     if not level:
         return None, "非博士/博后岗位"
     text = page_text(raw)
-    m = None
-    for pat in (r"(?:Closing date|Apply before|Deadline)[:\s]+(\d{1,2}\s+[A-Za-z]+\s+\d{4}|[A-Za-z]+\s+\d{1,2},?\s+\d{4})",):
-        m = re.search(pat, text, re.I)
+    m = re.search(r"Deadline\s+(\d{1,2})\s+([A-Za-z]{3})[a-z]*\s+[’']?(\d{2,4})", text)
     if not m:
         return None, "页面无截止日期"
-    deadline = parse_day(m.group(1))
+    year = m.group(3) if len(m.group(3)) == 4 else "20" + m.group(3)
+    deadline = parse_day(f"{m.group(1)} {MONTH3.get(m.group(2).lower(), m.group(2))} {year}")
     if not deadline or deadline < today:
         return None, "已截止"
-    salary = ""
-    sm = re.search(r"(?:Salary|Max\. salary|Salary indication)[:\s]+([^.]{0,90}(?:€|EUR)[^.]{0,60})", text, re.I)
-    if sm:
-        salary = sm.group(1).strip()
+    sm = re.search(r"Salary indication\s+(.{3,80}?per (?:month|year))", text, re.I)
+    if not sm:
+        return None, "未写薪资"
     org = ld.get("hiringOrganization") or {}
     return {
         "id": f"academictransfer:{jid}",
@@ -236,10 +237,62 @@ def at_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, st
         "deadline": deadline,
         "quote": m.group(0),
         "funding_for": "",
-        "amount": salary[:200],
+        "amount": sm.group(1).strip()[:200],
         "cn": "no" if _any(_RESTRICTED, text) else "check",
         "flags": ["security-screening"] if _any(_SCREENING, text) else [],
         "via": "AcademicTransfer",
+    }, "收录"
+
+
+# ───────────────────────── Nature Careers ─────────────────────────
+
+NC_INDEX = "https://www.nature.com/naturecareers/sitemapindex.xml"
+NC_JOB = re.compile(r"<loc>\s*(https://www\.nature\.com/naturecareers/job/(\d+)/([^<\s]*))\s*</loc>")
+NC_SLUG = re.compile(r"phd|doctoral|doctorate|postdoc|post-doc|postdoctoral|studentship", re.I)
+
+
+def nc_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+    out: dict[str, str] = {}
+    for sm in re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", f.get(NC_INDEX).text)[:max_pages]:
+        for url, jid, slug in NC_JOB.findall(f.get(sm).text):
+            if NC_SLUG.search(slug):
+                out.setdefault(jid, url)
+    return sorted(out.items(), key=lambda kv: -int(kv[0]))
+
+
+def nc_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
+    text = page_text(raw)
+    h1 = re.search(r"<h1[^>]*>(.*?)</h1>", raw, re.S)
+    title = page_text(h1.group(1)) if h1 else ""
+    level = level_of(title)
+    if not level:
+        return None, "非博士/博后岗位"
+    m = re.search(r"Closing date\s+(\d{1,2}\s+[A-Za-z]{3,9}\s+\d{4})", text)
+    if not m:
+        return None, "页面无截止日期"
+    deadline = parse_day(m.group(1).replace(m.group(1).split()[1], MONTH3.get(m.group(1).split()[1].lower()[:3], m.group(1).split()[1])))
+    if not deadline or deadline < today:
+        return None, "已截止"
+    emp = re.search(r"Employer\s+(.{2,120}?)\s+Location\s", text)
+    loc = re.search(r"Location\s+(.{2,120}?)\s+(?:Salary|Closing date)\s", text)
+    sal = re.search(r"Salary\s+(.{1,120}?)\s+Closing date\s", text)
+    body = text[m.end():m.end() + 8000]
+    if _any(_SELF_FUNDED, title + " " + body) or (level == "phd" and not (sal or _any(_FUNDED, body))):
+        return None, "未写资助或自费"
+    return {
+        "id": f"naturecareers:{jid}",
+        "title": re.sub(r"\s+", " ", title)[:200],
+        "url": url,
+        "org": emp.group(1).strip() if emp else "",
+        "country": "", "place": (loc.group(1).strip() if loc else "")[:80],
+        "level": level,
+        "deadline": deadline,
+        "quote": m.group(0),
+        "funding_for": "",
+        "amount": (sal.group(1).strip() if sal else "")[:200],
+        "cn": "no" if _any(_RESTRICTED, body) else "check",
+        "flags": ["security-screening"] if _any(_SCREENING, body) else [],
+        "via": "Nature Careers",
     }, "收录"
 
 
@@ -342,8 +395,8 @@ def fap_detail(pid: str, url: str, raw: str, today: str) -> tuple[dict | None, s
 
 
 ADAPTERS = {"jobs-ac-uk": (jac_urls, jac_detail), "academictransfer": (at_urls, at_detail),
-            "findaphd": (fap_urls, fap_detail)}
-DEFAULT = "jobs-ac-uk,academictransfer"  # findaphd 需在本地电脑运行，不放进默认
+            "findaphd": (fap_urls, fap_detail), "naturecareers": (nc_urls, nc_detail)}
+DEFAULT = "jobs-ac-uk,academictransfer,naturecareers"  # findaphd 需在本地电脑运行，不放进默认
 
 
 def main() -> int:
