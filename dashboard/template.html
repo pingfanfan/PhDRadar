@@ -1,0 +1,325 @@
+<title>带奖博士信源中台</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@600;900&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: 账簿式单栏——顶部名称与四个汇总数字，下方标签页切换“信源 / 导师 / 岗位 / 统计”，每页先筛选后列表 */
+:root {
+  --paper: #f4f6f4;
+  --sheet: #ffffff;
+  --ink: #17242a;
+  --muted: #5b6b70;
+  --rule: #d9e1df;
+  --accent: #0d6b66;
+  --accent-soft: #dcefec;
+  --postdoc: #9a5b12;
+  --postdoc-soft: #f6ead8;
+  --good: #1f7a3a;
+  --good-soft: #dff1e4;
+  --warn: #8a6a00;
+  --warn-soft: #f6efcf;
+  --bad: #a3322b;
+  --bad-soft: #f7e0de;
+  --display: "Noto Serif SC", "Songti SC", "SimSun", serif;
+  --body: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #0f1719; --sheet: #162124; --ink: #e3ebe9; --muted: #93a6a6; --rule: #2a3a3d;
+    --accent: #4fc1b6; --accent-soft: #163a38; --postdoc: #e0a75c; --postdoc-soft: #3a2a16;
+    --good: #6fcf8a; --good-soft: #17331f; --warn: #e3c35a; --warn-soft: #352d10; --bad: #f08a80; --bad-soft: #3b1d1a;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #0f1719; --sheet: #162124; --ink: #e3ebe9; --muted: #93a6a6; --rule: #2a3a3d;
+  --accent: #4fc1b6; --accent-soft: #163a38; --postdoc: #e0a75c; --postdoc-soft: #3a2a16;
+  --good: #6fcf8a; --good-soft: #17331f; --warn: #e3c35a; --warn-soft: #352d10; --bad: #f08a80; --bad-soft: #3b1d1a;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--paper); color: var(--ink); font-family: var(--body); font-size: 15px; line-height: 1.55; }
+.wrap { max-width: 1120px; margin: 0 auto; padding-inline: 16px; padding-block: 24px 64px; display: grid; gap: 20px; }
+a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+header.top { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px 24px; border-bottom: 2px solid var(--ink); padding-bottom: 12px; }
+header.top h1 { font-family: var(--display); font-weight: 900; font-size: clamp(24px, 4vw, 34px); margin: 0; letter-spacing: 0.02em; text-wrap: balance; }
+header.top .sub { color: var(--muted); font-size: 13px; }
+header.top .sub b { font-family: var(--mono); font-weight: 500; color: var(--ink); }
+
+.kpis { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); border: 1px solid var(--rule); background: var(--sheet); }
+.kpi { padding: 14px 16px; display: grid; gap: 2px; border-right: 1px solid var(--rule); min-width: 0; }
+.kpi:last-child { border-right: 0; }
+.kpi .n { font-family: var(--mono); font-size: clamp(22px, 3.4vw, 30px); font-weight: 500; font-variant-numeric: tabular-nums; line-height: 1.2; }
+.kpi .l { color: var(--muted); font-size: 12px; letter-spacing: 0.04em; }
+.kpi .d { font-size: 12px; color: var(--good); font-family: var(--mono); }
+@media (max-width: 620px) { .kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); } .kpi:nth-child(2) { border-right: 0; } .kpi:nth-child(-n+2) { border-bottom: 1px solid var(--rule); } }
+
+nav.tabs { display: flex; gap: 4px; flex-wrap: wrap; border-bottom: 1px solid var(--rule); }
+nav.tabs button { font: inherit; font-weight: 500; background: none; border: 0; border-bottom: 3px solid transparent; color: var(--muted); padding: 8px 14px; cursor: pointer; margin-bottom: -1px; }
+nav.tabs button[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); }
+nav.tabs .count { font-family: var(--mono); font-size: 12px; color: var(--muted); margin-left: 4px; }
+
+.filters { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.filters input[type="search"] { flex: 1 1 240px; min-width: 0; font: inherit; padding: 8px 12px; border: 1px solid var(--rule); background: var(--sheet); color: var(--ink); border-radius: 6px; }
+.filters select { font: inherit; font-size: 14px; padding: 7px 8px; border: 1px solid var(--rule); background: var(--sheet); color: var(--ink); border-radius: 6px; max-width: 100%; }
+.resultline { color: var(--muted); font-size: 13px; display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.resultline b { font-family: var(--mono); color: var(--ink); font-weight: 500; }
+
+.list { display: grid; background: var(--sheet); border: 1px solid var(--rule); }
+.row { padding: 12px 16px; border-bottom: 1px solid var(--rule); display: grid; gap: 4px; min-width: 0; }
+.row:last-child { border-bottom: 0; }
+.row .title { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: baseline; }
+.row .title a { font-weight: 500; overflow-wrap: anywhere; }
+.row .meta { color: var(--muted); font-size: 13px; overflow-wrap: anywhere; }
+.row .note { font-size: 14px; overflow-wrap: anywhere; }
+.row .quote { font-size: 13px; color: var(--muted); border-left: 2px solid var(--rule); padding-left: 10px; overflow-wrap: anywhere; }
+.chip { display: inline-block; font-size: 12px; line-height: 1.6; padding: 0 7px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); white-space: nowrap; }
+.chip.postdoc { background: var(--postdoc-soft); color: var(--postdoc); }
+.chip.yes { background: var(--good-soft); color: var(--good); }
+.chip.partial, .chip.unknown, .chip.check { background: var(--warn-soft); color: var(--warn); }
+.chip.no, .chip.restricted { background: var(--bad-soft); color: var(--bad); }
+.chip.plain { background: transparent; color: var(--muted); border: 1px solid var(--rule); }
+.score { font-family: var(--mono); font-size: 12px; color: var(--muted); }
+.more { justify-self: center; font: inherit; padding: 8px 18px; border: 1px solid var(--accent); color: var(--accent); background: var(--sheet); border-radius: 6px; cursor: pointer; }
+.empty { padding: 24px 16px; color: var(--muted); }
+
+.stats { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+@media (max-width: 760px) { .stats { grid-template-columns: minmax(0, 1fr); } }
+.panel { background: var(--sheet); border: 1px solid var(--rule); padding: 14px 16px; display: grid; gap: 10px; min-width: 0; }
+.panel h2 { font-family: var(--display); font-weight: 600; font-size: 17px; margin: 0; }
+.bars { display: grid; gap: 6px; }
+.bar { display: grid; grid-template-columns: minmax(0, 9em) minmax(0, 1fr) 3.5em; gap: 8px; align-items: center; font-size: 13px; }
+.bar .lab { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.bar .track { height: 10px; background: var(--paper); border-radius: 2px; overflow: hidden; }
+.bar .fill { height: 100%; background: var(--accent); }
+.bar .val { font-family: var(--mono); font-variant-numeric: tabular-nums; text-align: right; color: var(--muted); }
+.panel.wide { grid-column: 1 / -1; }
+svg.trend text { fill: var(--muted); font-family: var(--mono); font-size: 11px; }
+footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--rule); padding-top: 12px; }
+@media (prefers-reduced-motion: no-preference) { .bar .fill { transition: width .3s ease; } }
+</style>
+
+<script id="data" type="application/json">__DATA__</script>
+
+<div class="wrap">
+  <header class="top">
+    <h1>带奖博士信源中台</h1>
+    <div class="sub">海外博士 / 博士后资助渠道 · 数据更新于 <b id="gen"></b></div>
+  </header>
+
+  <section class="kpis" aria-label="汇总">
+    <div class="kpi"><span class="l">信源总数</span><span class="n" id="k-sources"></span><span class="d" id="k-sources-d"></span></div>
+    <div class="kpi"><span class="l">在招导师线索</span><span class="n" id="k-faculty"></span><span class="d" id="k-faculty-d"></span></div>
+    <div class="kpi"><span class="l">最近抓取岗位</span><span class="n" id="k-jobs"></span><span class="d" id="k-jobs-d"></span></div>
+    <div class="kpi"><span class="l">覆盖国家/地区</span><span class="n" id="k-regions"></span><span class="d"></span></div>
+  </section>
+
+  <nav class="tabs" role="tablist">
+    <button role="tab" data-tab="sources" id="tab-sources">信源<span class="count" id="c-sources"></span></button>
+    <button role="tab" data-tab="faculty" id="tab-faculty">在招导师<span class="count" id="c-faculty"></span></button>
+    <button role="tab" data-tab="jobs" id="tab-jobs">新岗位<span class="count" id="c-jobs"></span></button>
+    <button role="tab" data-tab="stats" id="tab-stats">统计</button>
+  </nav>
+
+  <section id="p-sources" class="pane" style="display:grid;gap:12px">
+    <div class="filters">
+      <input type="search" id="s-q" placeholder="搜索名称、学校、说明，如 machine learning、CSC、香港">
+      <select id="s-cat"><option value="">全部分类</option></select>
+      <select id="s-region"><option value="">全部地区</option></select>
+      <select id="s-disc"><option value="">全部学科</option></select>
+      <select id="s-level"><option value="">博士和博后</option><option value="phd">博士</option><option value="postdoc">博后</option></select>
+      <select id="s-elig"><option value="">可申情况不限</option><option value="yes">✅ 大陆生可申</option><option value="partial">🟡 部分可申</option><option value="check">❔ 需核实</option><option value="no">⛔ 不可申</option></select>
+      <select id="s-cov"><option value="">资助力度不限</option><option value="fullish">全奖或带薪</option><option value="full">全奖</option><option value="salary">带薪岗位</option><option value="partial">半奖/部分</option><option value="tuition">仅免学费</option><option value="stipend">仅生活费</option><option value="varies">视项目而定</option><option value="none-set">力度待核实</option></select>
+      <select id="s-status"><option value="">状态不限</option><option value="now">现在可申（开放/随时）</option><option value="open">🟢 开放申请</option><option value="upcoming">🔜 即将开放</option><option value="closed">⏸ 本轮已截止</option><option value="rolling">🔄 随时可申</option><option value="ongoing">📋 持续更新</option></select>
+      <select id="s-sort"><option value="name">按名称排序</option><option value="deadline">按截止日期排序</option></select>
+    </div>
+    <div class="resultline"><span>共 <b id="s-n"></b> 条</span><span> · 点击名称打开官方页面</span></div>
+    <div class="list" id="s-list"></div>
+    <button class="more" id="s-more" type="button">显示更多</button>
+  </section>
+
+  <section id="p-faculty" class="pane" hidden style="display:grid;gap:12px">
+    <div class="filters">
+      <input type="search" id="f-q" placeholder="搜索姓名、学校、方向、招生原话">
+      <select id="f-ch"><option value="">全部来源</option><option value="aiopenings">教授自填招生表</option><option value="bluesky">Bluesky 招生帖</option><option value="csrankings">导师主页扫描</option></select>
+      <select id="f-level"><option value="">博士和博后</option><option value="phd">提到博士</option><option value="postdoc">提到博后</option></select>
+      <select id="f-sort"><option value="score">按招生信号强度</option><option value="new">按发现时间</option></select>
+    </div>
+    <div class="resultline"><span>共 <b id="f-n"></b> 位</span><span>自动发现、尚未人工核实，联系前请先读导师主页</span></div>
+    <div class="list" id="f-list"></div>
+    <button class="more" id="f-more" type="button">显示更多</button>
+  </section>
+
+  <section id="p-jobs" class="pane" hidden style="display:grid;gap:12px">
+    <div class="filters">
+      <input type="search" id="j-q" placeholder="搜索岗位、机构、国家">
+      <select id="j-level"><option value="">博士和博后</option><option value="phd">博士</option><option value="postdoc">博后</option></select>
+      <select id="j-elig"><option value="">国际生资格不限</option><option value="international">✅ 明确对国际生开放</option><option value="unknown">❔ 未注明</option><option value="restricted">⛔ 有国籍/学费限制</option></select>
+      <select id="j-sort"><option value="deadline">按截止日期</option><option value="posted">按发布日期</option></select>
+    </div>
+    <div class="resultline"><span>共 <b id="j-n"></b> 个</span><span>资格为文字自动判断，投递前请读原文</span></div>
+    <div class="list" id="j-list"></div>
+    <button class="more" id="j-more" type="button">显示更多</button>
+  </section>
+
+  <section id="p-stats" class="pane" hidden>
+    <div class="stats">
+      <div class="panel wide"><h2>信源总量增长</h2><div id="st-trend"></div></div>
+      <div class="panel"><h2>按分类</h2><div class="bars" id="st-cat"></div></div>
+      <div class="panel"><h2>按国家/地区（前 20）</h2><div class="bars" id="st-region"></div></div>
+      <div class="panel"><h2>按学科</h2><div class="bars" id="st-disc"></div></div>
+      <div class="panel"><h2>大陆学生可申情况</h2><div class="bars" id="st-elig"></div></div>
+    </div>
+  </section>
+
+  <footer>数据来自私密仓库 pingfanfan/PhDRadar，由自动研究与抓取流程每天更新。政策与截止日期以官方页面为准。</footer>
+</div>
+
+<script>
+(function () {
+  const D = JSON.parse(document.getElementById("data").textContent);
+  const PAGE = 60;
+  const REGION = {GLOBAL:"全球",EU:"欧洲",UK:"英国",US:"美国",DE:"德国",CA:"加拿大",FR:"法国",AU:"澳大利亚",NL:"荷兰",JP:"日本",HK:"中国香港",CH:"瑞士",IT:"意大利",SG:"新加坡",ES:"西班牙",SE:"瑞典",AT:"奥地利",DK:"丹麦",FI:"芬兰",BE:"比利时",IL:"以色列",NO:"挪威",KR:"韩国",IN:"印度",SA:"沙特",CN:"中国内地",IE:"爱尔兰",NZ:"新西兰",PT:"葡萄牙",AE:"阿联酋",TW:"中国台湾",PL:"波兰",LU:"卢森堡",TR:"土耳其",ZA:"南非",MO:"中国澳门",CZ:"捷克",HU:"匈牙利",BR:"巴西",EE:"爱沙尼亚",GR:"希腊",QA:"卡塔尔"};
+  const DISC = {all:"全学科",cs:"计算机",ai:"人工智能",math:"数学/统计",physics:"物理/天文",chem:"化学/材料",bio:"生物",eco:"生态/进化",neuro:"神经/认知",geo:"地球/环境",engineering:"工程",social:"社科/心理",humanities:"人文/语言",econ:"经济/金融",business:"商科/管理",med:"医学/公卫"};
+  const COV = {full:"全奖",salary:"带薪岗位",partial:"半奖/部分",tuition:"仅免学费",stipend:"仅生活费",varies:"视项目而定",none:"不提供资助",unknown:"力度未注明"};
+  const STATUS = {open:"🟢 开放申请",upcoming:"🔜 即将开放",closed:"⏸ 本轮已截止",rolling:"🔄 随时可申",ongoing:"📋 持续更新"};
+  const DLW = {rolling:"滚动截止",varies:"各项目不同",unknown:"截止未公布"};
+  const ELIG = {yes:["yes","✅ 可申"],partial:["partial","🟡 部分可申"],check:["check","❔ 需核实"],no:["no","⛔ 不可申"]};
+  const JELIG = {international:["yes","✅ 对国际生开放"],unknown:["unknown","❔ 未注明"],restricted:["restricted","⛔ 有限制"]};
+  const $ = (id) => document.getElementById(id);
+  const esc = (s) => String(s == null ? "" : s).replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  const safeUrl = (u) => /^https?:\/\//i.test(u || "") ? esc(u) : "#";
+  const rname = (c) => REGION[c] || c;
+  const levelChips = (lv) => (Array.isArray(lv) ? lv : String(lv || "").split(/;\s*/)).filter(Boolean)
+    .map((l) => l === "postdoc" ? '<span class="chip postdoc">博后</span>' : '<span class="chip">博士</span>').join(" ");
+
+  // ── 汇总 ──
+  const hist = Object.entries(D.history || {});
+  const prev = hist.length > 1 ? hist[hist.length - 2][1] : null;
+  const fmt = (n) => Number(n).toLocaleString("zh-CN");
+  const delta = (cur, key) => prev && cur - prev[key] > 0 ? "较前一日 +" + fmt(cur - prev[key]) : "";
+  $("gen").textContent = D.generated;
+  $("k-sources").textContent = fmt(D.sources.length); $("k-sources-d").textContent = delta(D.sources.length, "sources");
+  $("k-faculty").textContent = fmt(D.faculty.length); $("k-faculty-d").textContent = delta(D.faculty.length, "faculty_leads");
+  $("k-jobs").textContent = fmt(D.jobs.length); $("k-jobs-d").textContent = "";
+  $("k-regions").textContent = D.stats.regions;
+  $("c-sources").textContent = fmt(D.sources.length); $("c-faculty").textContent = fmt(D.faculty.length); $("c-jobs").textContent = fmt(D.jobs.length);
+
+  // ── 筛选项 ──
+  const count = (arrs) => { const m = new Map(); arrs.forEach((a) => a.forEach((x) => m.set(x, (m.get(x) || 0) + 1))); return [...m].sort((a, b) => b[1] - a[1]); };
+  const catCounts = new Map(); D.sources.forEach((s) => catCounts.set(s[2], (catCounts.get(s[2]) || 0) + 1));
+  D.cats.forEach((c, i) => { if (catCounts.get(i)) $("s-cat").insertAdjacentHTML("beforeend", `<option value="${i}">${esc(c.t)}（${catCounts.get(i)}）</option>`); });
+  const regionCounts = count(D.sources.map((s) => s[4]));
+  regionCounts.forEach(([r, n]) => $("s-region").insertAdjacentHTML("beforeend", `<option value="${esc(r)}">${esc(rname(r))}（${n}）</option>`));
+  const discCounts = count(D.sources.map((s) => s[5]));
+  discCounts.forEach(([d, n]) => $("s-disc").insertAdjacentHTML("beforeend", `<option value="${esc(d)}">${esc(DISC[d] || d)}（${n}）</option>`));
+
+  // ── 通用分页列表 ──
+  function pager(listId, moreId, nId, getRows, renderRow) {
+    let shown = PAGE, rows = [];
+    function draw() {
+      $(nId).textContent = fmt(rows.length);
+      $(listId).innerHTML = rows.length ? rows.slice(0, shown).map(renderRow).join("") : '<div class="empty">没有符合条件的结果，试试减少筛选条件或换个关键词。</div>';
+      $(moreId).hidden = shown >= rows.length;
+      $(moreId).textContent = `显示更多（还有 ${fmt(rows.length - shown)} 条）`;
+    }
+    $(moreId).addEventListener("click", () => { shown += PAGE * 2; draw(); });
+    return () => { rows = getRows(); shown = PAGE; draw(); };
+  }
+  const q = (id) => $(id).value.trim().toLowerCase();
+
+  // 信源行：0 名称 1 链接 2 分类 3 层级 4 地区 5 学科 6 大陆生 7 说明 8 资助力度 9 金额 10 截止 11 截止说明 12 状态 13 申请要求
+  const byName = D.sources.slice().sort((a, b) => a[0].localeCompare(b[0], "zh-CN"));
+  const isDate = (d) => /^\d{4}-\d{2}-\d{2}$/.test(d || "");
+  const byDeadline = byName.slice().sort((a, b) => (isDate(a[10]) ? 0 : 1) - (isDate(b[10]) ? 0 : 1) || String(a[10]).localeCompare(String(b[10])));
+  const refreshSources = pager("s-list", "s-more", "s-n", () => {
+    const text = q("s-q"), cat = $("s-cat").value, reg = $("s-region").value, disc = $("s-disc").value, lv = $("s-level").value, el = $("s-elig").value;
+    const cov = $("s-cov").value, st = $("s-status").value;
+    const covOk = (s) => !cov || (cov === "fullish" ? ["full", "salary"].includes(s[8]) : cov === "none-set" ? !s[8] || s[8] === "unknown" : s[8] === cov);
+    const stOk = (s) => !st || (st === "now" ? ["open", "rolling"].includes(s[12]) : s[12] === st);
+    return ($("s-sort").value === "deadline" ? byDeadline : byName).filter((s) => (!cat || s[2] == cat) && (!reg || s[4].includes(reg)) && (!disc || s[5].includes(disc))
+      && (!lv || s[3].includes(lv)) && (!el || s[6] === el) && covOk(s) && stOk(s)
+      && (!text || (s[0] + " " + s[7] + " " + s[1] + " " + s[13]).toLowerCase().includes(text)));
+  }, (s) => {
+    const e = ELIG[s[6]] || ELIG.check;
+    const fund = (COV[s[8]] || "资助力度待核实") + (s[9] ? "（" + s[9] + "）" : "");
+    const dl = s[10] ? (DLW[s[10]] || "截止 " + s[10]) : "";
+    const facts = [fund, dl, STATUS[s[12]] || "", s[11]].filter(Boolean).map(esc).join(" · ");
+    return `<div class="row"><div class="title"><a href="${safeUrl(s[1])}" target="_blank" rel="noopener">${esc(s[0])}</a>${levelChips(s[3])}<span class="chip ${e[0]}">${e[1]}</span></div>`
+      + `<div class="meta">${esc((D.cats[s[2]] || {}).t || "")} · ${esc(s[4].map(rname).join("、"))} · ${esc(s[5].map((d) => DISC[d] || d).join("、"))}</div>`
+      + `<div class="meta"><b>${facts}</b></div>`
+      + (s[13] ? `<div class="note">要求：${esc(s[13])}</div>` : "")
+      + `<div class="note">${esc(s[7])}</div></div>`;
+  });
+
+  const refreshFaculty = pager("f-list", "f-more", "f-n", () => {
+    const text = q("f-q"), ch = $("f-ch").value, lv = $("f-level").value, sort = $("f-sort").value;
+    const rows = D.faculty.filter((f) => (!ch || String(f[4]).includes(ch)) && (!lv || String(f[5]).includes(lv))
+      && (!text || (f[0] + " " + f[2] + " " + f[3] + " " + f[7] + " " + f[8]).toLowerCase().includes(text)));
+    return sort === "new" ? rows.sort((a, b) => String(b[9]).localeCompare(String(a[9]))) : rows.sort((a, b) => b[6] - a[6]);
+  }, (f) => {
+    const src = String(f[4]).split(/;\s*/).filter(Boolean).map((c) => ({aiopenings:"自填招生表",bluesky:"Bluesky",csrankings:"主页扫描"}[c] || c));
+    return `<div class="row"><div class="title"><a href="${safeUrl(f[1])}" target="_blank" rel="noopener">${esc(f[0])}</a>${levelChips(f[5])}`
+      + src.map((c) => `<span class="chip plain">${esc(c)}</span>`).join("") + `<span class="score">信号 ${esc(f[6])}</span></div>`
+      + `<div class="meta">${esc([f[2], f[3], f[8], f[9] ? "发现于 " + f[9] : ""].filter(Boolean).join(" · "))}</div>`
+      + (f[7] ? `<div class="quote">${esc(f[7])}</div>` : "") + `</div>`;
+  });
+
+  const refreshJobs = pager("j-list", "j-more", "j-n", () => {
+    const text = q("j-q"), lv = $("j-level").value, el = $("j-elig").value, sort = $("j-sort").value;
+    const rows = D.jobs.filter((j) => (!lv || j[4] === lv) && (!el || j[5] === el) && (!text || (j[0] + " " + j[2] + " " + j[3]).toLowerCase().includes(text)));
+    const key = sort === "posted" ? 8 : 7;
+    return rows.sort((a, b) => sort === "posted" ? String(b[key] || "").localeCompare(String(a[key] || "")) : String(a[key] || "9999").localeCompare(String(b[key] || "9999")));
+  }, (j) => {
+    const e = JELIG[j[5]] || JELIG.unknown;
+    return `<div class="row"><div class="title"><a href="${safeUrl(j[1])}" target="_blank" rel="noopener">${esc(j[0])}</a>${levelChips(j[4] || "phd")}<span class="chip ${e[0]}">${e[1]}</span>`
+      + (j[6] === "funded" ? '<span class="chip plain">提到资助</span>' : "") + `</div>`
+      + `<div class="meta">${esc([j[2], j[3], j[7] ? "截止 " + j[7] : "", j[8] ? "发布 " + j[8] : "", j[9]].filter(Boolean).join(" · "))}</div></div>`;
+  });
+
+  [["s-q","input"],["s-cat","change"],["s-region","change"],["s-disc","change"],["s-level","change"],["s-elig","change"],["s-cov","change"],["s-status","change"],["s-sort","change"]].forEach(([id, ev]) => $(id).addEventListener(ev, refreshSources));
+  [["f-q","input"],["f-ch","change"],["f-level","change"],["f-sort","change"]].forEach(([id, ev]) => $(id).addEventListener(ev, refreshFaculty));
+  [["j-q","input"],["j-level","change"],["j-elig","change"],["j-sort","change"]].forEach(([id, ev]) => $(id).addEventListener(ev, refreshJobs));
+
+  // ── 统计 ──
+  function bars(id, entries) {
+    const max = Math.max(1, ...entries.map((e) => e[1]));
+    $(id).innerHTML = entries.map(([lab, n]) => `<div class="bar"><span class="lab" title="${esc(lab)}">${esc(lab)}</span>`
+      + `<span class="track"><span class="fill" style="width:${(n / max * 100).toFixed(1)}%;display:block"></span></span><span class="val">${fmt(n)}</span></div>`).join("");
+  }
+  bars("st-cat", D.cats.map((c, i) => [c.t, catCounts.get(i) || 0]).filter((e) => e[1]).sort((a, b) => b[1] - a[1]));
+  bars("st-region", regionCounts.slice(0, 20).map(([r, n]) => [rname(r), n]));
+  bars("st-disc", discCounts.map(([d, n]) => [DISC[d] || d, n]));
+  bars("st-elig", ["yes", "partial", "check", "no"].map((k) => [ELIG[k][1], D.sources.filter((s) => s[6] === k).length]));
+  (function trend() {
+    const pts = hist.map(([d, v]) => [d, v.sources]);
+    if (pts.length < 2) { $("st-trend").innerHTML = `<div class="empty">目前只有 ${pts.length} 天的数据（${fmt(D.sources.length)} 条），随每日更新会形成增长曲线。</div>`; return; }
+    const W = 640, H = 180, L = 52, R = 16, T = 12, B = 26;
+    const max = Math.max(...pts.map((p) => p[1])), min = 0;
+    const x = (i) => L + (W - L - R) * i / (pts.length - 1), y = (v) => T + (H - T - B) * (1 - (v - min) / (max - min || 1));
+    const line = pts.map((p, i) => `${x(i).toFixed(1)},${y(p[1]).toFixed(1)}`).join(" ");
+    const area = `${L},${y(0)} ${line} ${x(pts.length - 1)},${y(0)}`;
+    const ticks = [0, max / 2, max].map((v) => `<text x="${L - 6}" y="${y(v) + 4}" text-anchor="end">${fmt(Math.round(v))}</text><line x1="${L}" x2="${W - R}" y1="${y(v)}" y2="${y(v)}" stroke="var(--rule)"/>`).join("");
+    const last = pts[pts.length - 1];
+    $("st-trend").innerHTML = `<div style="overflow-x:auto"><svg class="trend" viewBox="0 0 ${W} ${H}" width="100%" role="img" aria-label="信源总量随日期变化">${ticks}`
+      + `<polygon points="${area}" fill="var(--accent-soft)"/><polyline points="${line}" fill="none" stroke="var(--accent)" stroke-width="2"/>`
+      + `<circle cx="${x(pts.length - 1)}" cy="${y(last[1])}" r="4" fill="var(--accent)"/>`
+      + `<text x="${L}" y="${H - 6}">${esc(pts[0][0])}</text><text x="${W - R}" y="${H - 6}" text-anchor="end">${esc(last[0])}</text></svg></div>`;
+  })();
+
+  // ── 标签页 ──
+  const tabs = ["sources", "faculty", "jobs", "stats"];
+  function show(tab) {
+    if (!tabs.includes(tab)) tab = "sources";
+    tabs.forEach((t) => { $("p-" + t).hidden = t !== tab; $("tab-" + t).setAttribute("aria-selected", String(t === tab)); });
+    try { localStorage.setItem("tab", tab); } catch (e) {}
+  }
+  document.querySelectorAll("nav.tabs button").forEach((b) => b.addEventListener("click", () => show(b.dataset.tab)));
+  let initial = (location.hash || "").slice(1);
+  if (!initial) { try { initial = localStorage.getItem("tab") || ""; } catch (e) {} }
+  refreshSources(); refreshFaculty(); refreshJobs(); show(initial);
+})();
+</script>

@@ -1,0 +1,50 @@
+name: scrape
+
+# 每天抓取一次新岗位，结果写入 data/jobs.json 与 data/jobs.md
+on:
+  schedule:
+    - cron: "41 1 * * *"
+  workflow_dispatch:
+    inputs:
+      sources:
+        description: "逗号分隔的信源 id（留空 = 全部）"
+        required: false
+      keywords:
+        description: "关键词，用逗号分隔（留空 = 不过滤）"
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: 抓取
+        env:
+          BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
+          INPUT_SOURCES: ${{ inputs.sources }}
+          INPUT_KEYWORDS: ${{ inputs.keywords }}
+        run: |
+          args=(--new-only)
+          [ -n "$INPUT_SOURCES" ] && args+=(--sources "$INPUT_SOURCES")
+          IFS=',' read -ra kws <<< "$INPUT_KEYWORDS"
+          for k in "${kws[@]}"; do k="$(echo "$k" | xargs)"; [ -n "$k" ] && args+=(-k "$k"); done
+          python scripts/scrape.py "${args[@]}"
+          cat data/jobs.md >> "$GITHUB_STEP_SUMMARY"
+      - name: 提交结果
+        if: github.ref == 'refs/heads/main'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && exit 0
+          git commit -m "Update scraped PhD positions"
+          for i in 1 2 3; do git pull --rebase --autostash && git push && break; sleep 5; done

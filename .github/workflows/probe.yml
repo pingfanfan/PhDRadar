@@ -1,0 +1,47 @@
+name: probe-sources
+
+# 真实访问每个信源链接、试跑每个抓取器，生成 reports/source-health.md
+# 省 Actions 分钟数：不再随每次推送触发（每次要访问约 5000 个链接），改为每周一、周四各一次；需要时可手动运行。
+on:
+  schedule:
+    - cron: "17 3 * * 1,4"
+  workflow_dispatch:
+
+concurrency:
+  group: probe-sources
+  cancel-in-progress: true  # 研究员推送频繁时只保留最新一次核查
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: 核查信源
+        env:
+          BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
+        run: python scripts/probe_sources.py
+      - name: 写入运行摘要
+        if: always()
+        run: cat reports/source-health.md >> "$GITHUB_STEP_SUMMARY" || true
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: source-health
+          path: reports/
+      - name: 提交报告
+        if: github.event_name != 'pull_request'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/
+          git diff --cached --quiet || git commit -m "Update source health report"
+          for i in 1 2 3; do git pull --rebase --autostash && git push && break; sleep 5; done

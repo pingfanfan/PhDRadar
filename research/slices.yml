@@ -1,0 +1,349 @@
+# 持续研究的“切片”清单。定时研究任务（/research-sources）每次挑 last_run 最早的几个切片，
+# 派子代理搜索新的带奖 PhD 信源，结果经 scripts/merge_sources.py 去重后并入 _data/sources.yml。
+# 每次运行后更新 last_run 和 added（本次新增条数）。可以随时增删切片。
+slices:
+  - id: uk
+    focus: 英国：各研究理事会 DTP/CDT 目录（NERC/BBSRC/ESRC/AHRC/MRC/STFC/EPSRC）、具名 DTP/CDT、罗素集团高校 studentship 列表、Wellcome/Leverhulme 博士项目、CSC 联合奖学金、苏格兰/威尔士博士计划
+    last_run: 2026-10-18
+    added: 0
+  - id: dach
+    focus: 德国/奥地利/瑞士：Max Planck Schools 与各 IMPRS 官网、Helmholtz/Leibniz 研究生院、精英集群研究生院、TUM/LMU/海德堡/KIT/RWTH 研究生中心、CISPA、Cyber Valley、ELLIS 单元、奥地利博士学院、ETH/EPFL/UZH/巴塞尔/日内瓦博士项目、SNSF、NCCR
+    last_run: 2026-10-18
+    added: 2
+  - id: benelux-france
+    focus: 荷兰各大学职位页、NWO；比利时 VUB/UAntwerp/UCLouvain/ULB/ULiège、FNRS/FRIA、VIB、imec；卢森堡 FNR PRIDE/Uni.lu；法国博士生院、INRAE/Inserm/CEA/巴斯德/居里研究所、PSL/Paris-Saclay/Sorbonne/IP Paris、CIFRE、法国政府对华奖学金
+    last_run: 2026-10-18
+    added: 0
+  - id: nordic-baltic
+    focus: 瑞典各大学职位页、WASP、SciLifeLab；丹麦 Aarhus/AAU/SDU/CBS、Pioneer Centre for AI、诺和诺德基金会博士项目；挪威 NTNU/UiO/UiB/UiT；芬兰各大学、FCAI；爱沙尼亚/拉脱维亚/立陶宛
+    last_run: 2026-10-13
+    added: 11
+  - id: south-east-europe
+    focus: 意大利各校博士招生公告（bando dottorato）、国家 AI 博士项目；西班牙 FPI 与 Severo Ochoa 中心（CRG/IRB/ICFO/BSC/IMDEA/CNIO）；葡萄牙 FCT、Gulbenkian、Champalimaud；波兰 NAWA；捷克/匈牙利；爱尔兰 CRT；以色列各校
+    last_run: 2026-10-18
+    added: 0
+  - id: north-america
+    focus: 美国名校研究生院“博士全额资助保障”页面、对国际生开放的大学/基金会 fellowship、TTIC/Rockefeller/CSHL/Scripps/Janelia 等研究所博士项目；加拿大各校研究生资助页、OGS 国际生名额、Vector/Amii、Mitacs
+    last_run: 2026-10-13
+    added: 24
+  - id: asia-pacific
+    focus: 香港各校研究型研究生（RPg）招生与奖学金页、澳门大学、新加坡 SMU/SUTD/A*STAR AGS、日本大学推荐型 MEXT 项目与国际研究生项目、韩国 POSTECH/SNU/UNIST/GIST、澳洲各校 HDR 奖学金与 ARC 项目博士、新西兰、中东 KFUPM/Khalifa/NYUAD/HBKU
+    last_run: 2026-10-18
+    added: 0
+  - id: cs-ai-faculty
+    focus: CS/AI/机器人/视觉/NLP/HCI/系统/安全/理论：导师个人发布招生的渠道——带公开存档的邮件列表（robotics-worldwide、Vision-List、ML-news、SIGIR、ACL、SIGCHI）、按申请季整理的“在招导师”表格、新晋助理教授名单、Bluesky/X 招生聚合账号、按方向汇总导师招生的 GitHub 仓库
+    last_run: 2026-10-18
+    added: 2
+  - id: life-sciences
+    focus: 生命科学/医学/神经/生态/生信：Crick、Sanger、LMB、Vienna BioCenter、IGC、CRG、VIB、Karolinska、巴斯德、MDC、DKFZ、Hubrecht、NKI、FMI、Biozentrum、Janelia、Rockefeller 的国际博士项目；Gatsby、SWC、Bernstein 等神经科学研究生院；comp-neuro 等邮件列表与生信/生态职位板
+    last_run: 2026-10-18
+    added: 4
+  - id: physical-sciences
+    focus: 物理/天文/化学/材料/数学/统计/地球与气候/海洋/工程：Cryolist、Met-jobs 等邮件列表；MathJobs、EMS、SIAM、IMS/ISBA、IOP、量子职位板、IEEE；ESO、ESA、ILL/ESRF、ICTP、Niels Bohr、Flatiron 等机构的博士项目
+    last_run: 2026-10-13
+    added: 5
+  - id: social-humanities
+    focus: 经济/商科/政治/社会/心理与认知/教育/语言/哲学/历史/法律/艺术：EUI、日内瓦国际关系高等学院、Hertie、BIGSSS、Tinbergen、巴塞罗那经济学院、TSE、SSE、CBS 等全奖博士项目；商学院博士资助；EconJobMarket、PolMeth、认知科学、Corpora 等邮件列表与职位板
+    last_run: 2026-10-18
+    added: 0
+  - id: chinese-social
+    focus: 中文与社交渠道：可核实的微信公众号名称、知乎专栏、小红书/B站/微博账号、小木虫“海外博士招生”版块的具体地址、一亩三分地/寄托博士版块、持续更新的中文汇总帖与 GitHub 仓库；X/Bluesky/Telegram/LinkedIn 上每天转发 PhD 岗位的聚合账号
+    last_run: 2026-10-13
+    added: 10
+  - id: fellowships-industry
+    focus: 企业与基金会资助：面向博士申请者或在读博士、对中国学生开放的 fellowship（各大科技公司、基金会、国际组织），企业联合培养博士（industrial PhD、CIFRE 类项目）
+    last_run: 2026-10-18
+    added: 0
+  - id: new-programs-2027
+    focus: 2026–2027 年新设立或新一轮的博士项目与招生公告：新的 MSCA 博士网络（Doctoral Networks）、新成立的研究生院或 AI 研究所、各国新推出的国际博士奖学金
+    last_run: 2026-10-18
+    added: 0
+  # ── 按学科细分（覆盖全部学科；每个切片都要同时找：项目/研究生院、职位板、邮件列表、导师招生聚合、学会/基金会奖学金）──
+  - {id: math, focus: 数学（纯数学、应用数学、数学物理）, last_run: 2026-10-18, added: 0}
+  - {id: statistics-datasci, focus: 统计学、生物统计、数据科学、运筹优化, last_run: 2026-10-13, added: 11}
+  - {id: physics-condensed-quantum, focus: 凝聚态物理、量子信息与量子计算、光学与光子学, last_run: 2026-10-18, added: 1}
+  - {id: physics-particle-astro, focus: 粒子与核物理、天体物理与宇宙学、引力波、空间科学, last_run: 2026-10-13, added: 18}
+  - {id: chemistry, focus: 化学（有机、无机、物理化学、分析、理论计算化学）, last_run: 2026-10-18, added: 0}
+  - {id: materials-nano, focus: 材料科学、纳米科技、高分子、电池与储能材料, last_run: 2026-10-18, added: 1}
+  - {id: earth-climate, focus: 地球科学、地质、地球物理、气候与大气科学、冰川学（Cryolist）、气象（Met-jobs）, last_run: 2026-10-18, added: 1}
+  - {id: ocean-marine, focus: 海洋科学、海洋生物、渔业、海岸与极地研究, last_run: 2026-10-13, added: 15}
+  - {id: ecology-evolution, focus: 生态学、进化生物学、保护生物学、动物行为, last_run: 2026-10-18, added: 0}
+  - {id: molecular-cell-bio, focus: 分子与细胞生物学、生物化学、结构生物学、遗传与基因组学, last_run: 2026-10-13, added: 9}
+  - {id: neuroscience-cogsci, focus: 神经科学、计算神经科学、认知科学, last_run: 2026-10-18, added: 0}
+  - {id: bioinformatics-compbio, focus: 生物信息学、计算生物学、系统生物学、合成生物学, last_run: 2026-10-18, added: 1}
+  - {id: medicine-public-health, focus: 医学、临床研究、公共卫生、流行病学、全球健康、护理学, last_run: 2026-10-18, added: 0}
+  - {id: pharmacy-biomedical-eng, focus: 药学、药物研发、生物医学工程、医学影像, last_run: 2026-10-13, added: 10}
+  - {id: agri-food-vet, focus: 农学、植物科学、食品科学、兽医学、动物科学, last_run: 2026-10-18, added: 0}
+  - {id: cs-ml-ai, focus: 机器学习、深度学习、AI 安全与对齐、强化学习, last_run: 2026-10-13, added: 22}
+  - {id: cs-nlp-vision-robotics, focus: 自然语言处理、计算机视觉、机器人、自动驾驶, last_run: 2026-10-18, added: 1}
+  - {id: cs-systems-security-theory, focus: 计算机系统、网络、数据库、安全与隐私、理论计算机科学、编程语言, last_run: 2026-10-18, added: 1}
+  - {id: cs-hci-infosci, focus: 人机交互、信息科学、图书情报、数字人文、计算社会科学, last_run: 2026-10-18, added: 2}
+  - {id: ee-electronics, focus: 电子电气工程、通信、信号处理、集成电路与芯片设计, last_run: 2026-10-13, added: 0}
+  - {id: mech-aero-civil, focus: 机械工程、航空航天、土木与结构、交通运输, last_run: 2026-10-18, added: 4}
+  - {id: chem-env-energy-eng, focus: 化学工程、环境工程、能源与可再生能源、核工程, last_run: 2026-10-13, added: 24}
+  - {id: architecture-urban, focus: 建筑学、城市规划、景观、地理学与地理信息, last_run: 2026-10-18, added: 0}
+  - {id: economics-finance, focus: 经济学、金融学、计量经济, last_run: 2026-10-18, added: 4}
+  - {id: business-management, focus: 管理学、市场营销、会计、运营管理、信息系统（商学院全奖博士）, last_run: 2026-10-18, added: 5}
+  - {id: politics-ir-law, focus: 政治学、国际关系、公共政策、法学, last_run: 2026-10-13, added: 4}
+  - {id: sociology-anthro, focus: 社会学、人类学、人口学、性别研究、社会工作, last_run: 2026-10-18, added: 1}
+  - {id: psychology-education, focus: 心理学（含临床/发展/社会心理）、教育学、语言习得, last_run: 2026-10-13, added: 8}
+  - {id: linguistics-literature, focus: 语言学、比较文学、翻译研究、东亚研究/汉学, last_run: 2026-10-18, added: 0}
+  - {id: history-philosophy-religion, focus: 历史、哲学、宗教研究、考古学、古典学, last_run: 2026-10-18, added: 0}
+  - {id: arts-media-design, focus: 艺术史、音乐、设计、电影与媒体研究、传播学、新闻学, last_run: 2026-10-18, added: 1}
+  - {id: sport-health-sci, focus: 运动科学、康复、营养学, last_run: 2026-10-13, added: 15}
+  # ── 按国家补充（各国全部大学的博士招生/奖学金页面）──
+  - {id: country-germany-unis, focus: 德国各大学（不止精英大学）的博士岗位页和研究生院、DAAD 合作项目, last_run: 2026-10-18, added: 2}
+  - {id: country-netherlands-belgium-unis, focus: 荷兰与比利时每一所研究型大学的 PhD vacancy 页面, last_run: 2026-10-13, added: 7}
+  - {id: country-uk-unis, focus: 英国各大学（罗素集团之外也要）的 funded PhD / studentship 列表页, last_run: 2026-10-18, added: 1}
+  - {id: country-australia-nz-unis, focus: 澳大利亚与新西兰每一所大学的 HDR 奖学金页面与轮次截止日期, last_run: 2026-10-18, added: 0}
+  - {id: country-canada-unis, focus: 加拿大各大学研究生资助、国际博士学费减免与入学奖学金, last_run: 2026-10-18, added: 1}
+  - {id: country-us-unis, focus: 美国各研究型大学研究生院的博士资助保障与国际生奖学金页面, last_run: 2026-10-13, added: 21}
+  - {id: country-japan-korea-unis, focus: 日本与韩国各大学的英文博士项目与奖学金（含大学推荐 MEXT、GKS 大学通道）, last_run: 2026-10-18, added: 2}
+  - {id: country-singapore-hk-macau, focus: 新加坡、香港、澳门各大学的研究型博士奖学金（含岭南、澳大、科大、SMU、SUTD）, last_run: 2026-10-13, added: 8}
+  - {id: country-france-italy-spain-unis, focus: 法国、意大利、西班牙各大学博士招生公告与奖学金, last_run: 2026-10-18, added: 0}
+  - {id: country-other-europe, focus: 瑞士、奥地利、北欧、爱尔兰、葡萄牙、波兰、捷克、希腊等国大学的博士岗位页, last_run: 2026-10-18, added: 1}
+  - {id: country-middle-east-other, focus: 沙特、阿联酋、卡塔尔、以色列、土耳其、俄罗斯以外的其他对国际生提供全奖博士的地区, last_run: 2026-10-18, added: 0}
+  # ── 博士后（2026-10-10 起纳入范围）──
+  - {id: postdoc-fellowships-global, focus: 博士后个人奖学金（不限国籍或对中国籍开放）：欧洲各国政府/基金会、北美、亚太、国际组织的 postdoctoral fellowship, last_run: 2026-10-13, added: 2}
+  - {id: postdoc-europe-national, focus: 欧洲各国国家级博士后项目与资助机构（德国 DFG/Humboldt/马普、法国 ANR/CNRS、荷兰 NWO Veni、瑞士 SNSF、北欧各国研究理事会、意大利/西班牙博士后计划）, last_run: 2026-10-18, added: 1}
+  - {id: postdoc-asia-pacific, focus: 亚太与中东博士后项目（日本 JSPS/RIKEN、新加坡、香港各校、韩国、澳洲 ARC DECRA 等、KAUST/以色列）, last_run: 2026-10-13, added: 10}
+  - {id: postdoc-americas, focus: 北美博士后项目（对国际生开放的大学 presidential/named postdoc fellowship、研究所博后项目、加拿大省级与大学博后奖学金）, last_run: 2026-10-18, added: 2}
+  - {id: postdoc-stem-boards, focus: 理工科博士后岗位板与邮件列表（各学科学会职位板、按学科的博后招聘渠道）, last_run: 2026-10-18, added: 1}
+  - {id: postdoc-life-med, focus: 生命科学与医学博士后：研究所博后项目（Crick、EMBL、Pasteur、Wellcome 等）、医学/公共卫生博后奖学金, last_run: 2026-10-18, added: 3}
+  - {id: postdoc-social-humanities, focus: 人文社科博士后：Max Weber 项目、EUI、各大学人文学院 postdoc fellowship、经济学 postdoc, last_run: 2026-10-13, added: 3}
+  - {id: postdoc-ai-cs, focus: AI/CS 博士后：大学与研究所的 AI postdoc 项目、ELLIS/Vector/Mila 博后、企业研究院博后, last_run: 2026-10-18, added: 2}
+  - {id: cn-mainland-hk-macau-unis, focus: 香港、澳门各大学（港大/中大/科大/理大/城大/浸大/岭南/澳大）博士奖学金、HKPFS 校内提名、研究助理与博后岗位页, last_run: 2026-10-13, added: 15}
+  - {id: singapore-taiwan-unis, focus: 新加坡（NUS/NTU/SMU/SUTD/A*STAR）与台湾（台大/清华/交大/中研院）的博士奖学金、国际生专案与博后岗位, last_run: 2026-10-16, added: 1}
+  - {id: canada-unis-phd, focus: 加拿大各大学博士资助页（UBC/McGill/Toronto/Waterloo/Alberta/SFU 等）、NSERC/Vanier/省级奖学金、国际生资助政策, last_run: 2026-10-18, added: 4}
+  - {id: us-grad-school-funding-pages, focus: 美国大学研究生院按学科的‘全额资助承诺’页面与院系 PhD 招生页（工程/理科/社科），含国际生资助政策, last_run: 2026-10-18, added: 3}
+  - {id: uk-cdt-dtp-2027, focus: 英国 UKRI 各学科 DTP/CDT 2027 入学项目页与国际生名额政策（EPSRC/BBSRC/NERC/MRC/STFC/ESRC/AHRC）, last_run: 2026-10-13, added: 5}
+  - {id: nordics-phd-vacancies, focus: 北欧（瑞典/丹麦/挪威/芬兰/冰岛）各大学博士岗位入口与国家级招聘门户（Varbi/Jobbnorge/Jobindex/Academic Positions 国别页）, last_run: 2026-10-18, added: 0}
+  - {id: france-benelux-phd, focus: 法国（ED 博士学院、Campus France、CNRS/INRIA/CEA 博士岗）与比利时、荷兰、卢森堡各校博士岗位页, last_run: 2026-10-13, added: 4}
+  - {id: italy-spain-phd-bandi, focus: 意大利各校 bando di dottorato 汇总与西班牙 FPI/FPU/大学博士合同入口, last_run: 2026-10-18, added: 1}
+  - {id: china-origin-funded-programs, focus: 面向中国学生的联合项目：CSC 联合奖学金（各国高校与 CSC 协议清单）、海外高校中国办公室博士通道, last_run: 2026-10-18, added: 0}
+  - {id: us-cs-ai-phd-funding-lists, focus: 美国 CS/AI/ECE 各校博士招生页与资助承诺（按学校逐一：CMU/MIT/Stanford/Berkeley/UIUC/UW/UT/Georgia Tech 等）及导师 recruiting 页汇总, last_run: 2026-10-18, added: 7}
+  - {id: japan-korea-labs-direct, focus: 日本与韩国研究所/实验室直招博士与博后（RIKEN/AIST/NIMS/KAIST/POSTECH/KIST）及英文招聘门户, last_run: 2026-10-13, added: 12}
+  - {id: australia-research-institutes, focus: 澳大利亚研究机构与卓越中心（CSIRO/Data61/ARC Centres of Excellence/Walter and Eliza Hall/Garvan）博士奖学金与博后岗位, last_run: 2026-10-18, added: 0}
+  - {id: middle-east-india-unis, focus: 中东与印度（KAUST/KAU/Khalifa/NYU Abu Dhabi/MBZUAI/IISc/IIT/TIFR）英文博士与博后全额资助项目, last_run: 2026-10-13, added: 12}
+  - {id: latin-america-africa-global-south, focus: 拉美与非洲有国际生资助的博士项目与研究所（巴西 FAPESP、智利 ANID、南非 NRF/AIMS 等）, last_run: 2026-10-16, added: 0}
+  - {id: eu-msca-doctoral-networks-2026, focus: MSCA 博士网络（Doctoral Networks）2026–27 各网络具体岗位页与 EURAXESS 筛选入口，按学科列出, last_run: 2026-10-18, added: 0}
+  - {id: erc-grants-hiring-phds, focus: ERC Starting/Consolidator/Advanced Grant 项目官网上的博士与博后招聘页（按学科）, last_run: 2026-10-18, added: 0}
+  - {id: biomed-institutes-phd-programmes, focus: 生物医学研究所博士项目（EMBL/Crick/Karolinska/Max Planck 生命科学所/Institut Pasteur/Wellcome Sanger）与全额国际博士项目, last_run: 2026-10-13, added: 2}
+  - {id: energy-climate-environment-phd, focus: 能源、气候与环境科学博士项目与机构（PIK/ETH/Imperial Grantham/DTU Energy/Utrecht 等）及相关邮件列表, last_run: 2026-10-18, added: 2}
+  - {id: uk-universities-funded-phd-pages, focus: 英国各大学（罗素集团之外的中型高校：Bath/Bristol/Exeter/Sussex/Lancaster/York/Leicester/Strathclyde 等）面向国际生的全额博士奖学金与 studentship 列表页, last_run: 2026-10-13, added: 21}
+  - {id: us-medical-bio-phd-programs, focus: 美国医学院与生命科学博士项目（BBS/IBS 综合项目、NIH T32 培训项目）全员资助与国际生政策, last_run: 2026-10-16, added: 0}
+  - {id: physical-science-phd-programs-us, focus: 美国物理/化学/材料/地球科学博士项目的全员资助承诺与国际生政策、招生页, last_run: 2026-10-18, added: 4}
+  - {id: netherlands-belgium-phd-vacancies, focus: 荷兰与比利时各大学博士岗位入口（Academic Transfer 各校、VUB/KU Leuven/UGent/UCLouvain 的 PhD 岗位页与 FWO/FNRS 博士资助）, last_run: 2026-10-18, added: 0}
+  - {id: france-phd-contracts-eds, focus: 法国博士合同入口：各大学博士学院（ED）招生页、CNRS/INRIA/CEA/INSERM 博士岗、ANR 与 Campus France 渠道, last_run: 2026-10-13, added: 6}
+  - {id: switzerland-austria-institutes, focus: 瑞士与奥地利研究所与高校（ETH 各系、EPFL 各学院、PSI/Empa/Eawag、IST Austria、各奥地利博士学院）具体博士招聘页, last_run: 2026-10-18, added: 0}
+  - {id: hongkong-singapore-institutes, focus: 香港与新加坡高校及研究所的博士奖学金（HKPFS 各校页、PGS、新加坡 SINGA/AGS）与具体系所招生页, last_run: 2026-10-13, added: 15}
+  - {id: fellowship-foundations-global, focus: 全球基金会与学会的博士/博后个人奖学金：Humboldt、Marie Curie 个人、EMBO、HFSP、Schmidt、Gates、Rhodes 等项目页, last_run: 2026-10-16, added: 0}
+  - {id: open-lists-github-bluesky, focus: GitHub 汇总仓库与 Bluesky/Mastodon/X 招生聚合账号、博士招生 Google 表格与社区整理的在招导师清单, last_run: 2026-10-18, added: 0}
+  - {id: germany-research-institutes-phd, focus: "德国非高校研究机构的博士与博后招聘入口：各 Max Planck 研究所（按所逐一）、Fraunhofer、Helmholtz 各中心（DESY/DLR/FZJ/KIT/AWI/GEOMAR/UFZ 等）、Leibniz 各所、Max Delbrück/DKFZ/EMBL 德国站点", last_run: 2026-10-17, added: 2}
+  - {id: switzerland-austria-nordic-unis, focus: "瑞士（ETH/EPFL 各系、巴塞尔/伯尔尼/苏黎世/日内瓦/圣加仑）、奥地利（维也纳/格拉茨/因斯布鲁克/IST Austria/TU Wien）与北欧（Aalto/Helsinki/Oulu/Chalmers/KTH/Lund/Uppsala/DTU/Copenhagen/Aarhus/Oslo/Bergen/NTNU）各校院系博士职位页", last_run: 2026-10-13, added: 28}
+  - {id: japan-korea-taiwan-programs, focus: "日本（MEXT 大学推荐/国别、JST SPRING、各国立大学英文博士项目、RIKEN/AIST/NIMS/NII）、韩国（GKS、KAIST/SNU/POSTECH/UNIST/DGIST/GIST、KIST）、台湾（TIGP、NTU/NTHU/NYCU/Academia Sinica 国际博士奖学金）", last_run: 2026-10-18, added: 0}
+  - {id: australia-nz-hdr-pages, focus: "澳大利亚八校联盟及其他大学的 HDR 奖学金与项目博士页、ARC 训练中心/ITRP 博士岗位、CSIRO Data61 与 Industry PhD；新西兰 8 所大学的博士奖学金与 MBIE 项目博士岗位", last_run: 2026-10-13, added: 20}
+  - {id: student-fellowships-societies-industry, focus: 学会与企业面向博士生的个人奖学金与实习（APS/ACS/IEEE/ACM/SIAM/Optica 学生奖项；Google/Microsoft/Meta/Apple/NVIDIA/IBM/Amazon/Qualcomm PhD Fellowship，注明国际生是否可申请）, last_run: 2026-10-16, added: 0}
+  - {id: canada-ai-quantum-institutes, focus: 加拿大研究所博士/博后：Mila、Vector、Amii、CIFAR、Perimeter、IQC、SickKids、Fields、CRM，含联合培养与访问生项目, last_run: 2026-10-18, added: 0}
+  - {id: cee-baltic-balkans-turkey-unis, focus: 中东欧、波罗的海、巴尔干与土耳其（爱沙尼亚/拉脱维亚/立陶宛/斯洛文尼亚/克罗地亚/塞尔维亚/罗马尼亚/保加利亚/土耳其）各大学英文博士奖学金与研究所岗位, last_run: 2026-10-17, added: 0}
+  - {id: gulf-israel-research-universities, focus: 海湾与以色列研究型大学（KAUST/KFUPM/Khalifa/NYUAD/MBZUAI/QF-HBKU/Weizmann/Technion/Hebrew U/Tel Aviv）博士全奖与博后项目页, last_run: 2026-10-13, added: 17}
+  - {id: global-health-development-phd, focus: 全球健康与发展方向博士/博后：LSHTM、Karolinska、Swiss TPH、Oxford/Wellcome 博士项目、IDRC、Gates 相关奖学金、联合国与国际组织研究岗, last_run: 2026-10-18, added: 0}
+  - {id: arts-design-music-phd, focus: 艺术、设计、音乐、建筑与媒体博士：研究型博士全奖项目、艺术学院资助（RCA、RISD、Aalto 艺术、荷兰/北欧艺术研究生院）与国际生资格, last_run: 2026-10-13, added: 19}
+  - {id: law-policy-governance-phd, focus: 法学、公共政策与治理博士：EUI Law、Hertie、Blavatnik、LSE Law、国际法研究生院（Geneva Graduate Institute、Utrecht、Leiden）与带薪岗位, last_run: 2026-10-16, added: 0}
+  - {id: education-psychology-linguistics-phd, focus: 教育学、心理学、语言学、认知科学博士资助：北欧/荷兰/德国带薪岗位、MPI 心理语言学与人类发展所、英国 ESRC DTP 对应路径, last_run: 2026-10-18, added: 0}
+  - {id: national-job-portals-by-country, focus: 各国学术招聘国家门户与博士库：德国 academics.de/Jobs in Wissenschaft/DAAD PhDGermany，法国 ABG/Campus France，荷兰/比利时/北欧/意大利/西班牙/葡萄牙/波兰的国家级博士岗位站，含 RSS/订阅方式, last_run: 2026-10-17, added: 0}
+  - {id: cotutelle-joint-phd-with-china, focus: 联合培养与双学位博士：国家公派联合培养、Cotutelle 协议、中外合作博士（与中国高校有协议的海外高校列表），含各校 International Joint PhD 页面, last_run: 2026-10-13, added: 0}
+  - {id: integrated-msc-phd-and-research-master-pathways, focus: 硕博连读与研究型硕士跳板：欧洲 Research Master（Tinbergen/TI、LOT、Utrecht/Leiden RMA、KU Leuven、Pompeu）、4 年制综合博士、英国 MRes+PhD、北美 Master-to-PhD 通道，含资助, last_run: 2026-10-17, added: 1}
+  - {id: summer-research-predoc-ra-pathways, focus: 进博士前的跳板：暑期研究（DAAD RISE、Caltech SURF、MITACS、EPFL Summer）、Pre-doc/RA 岗位、访问学生与研究助理项目，含对中国学生开放情况, last_run: 2026-10-13, added: 16}
+  - {id: industrial-phd-cifre-dk-eu, focus: 产业博士：法国 CIFRE、丹麦 Industrial PhD、瑞典/芬兰/荷兰企业合作博士、MSCA 产业博士、企业研究院博士岗, last_run: 2026-10-16, added: 1}
+  - {id: chinese-language-communities-and-embassies, focus: 中文社区与官方渠道：使领馆教育处、CSC 出国项目通知、小木虫/知乎/一亩三分地/海外博士招生公众号与论坛的汇总帖、各国中国学生学者联谊会（CSSA）资源, last_run: 2026-10-18, added: 0}
+  - {id: discipline-mailing-lists-life-earth-neuro, focus: 生命、地球与神经科学邮件列表与职位板：ECOLOG-L、EvolDir、MARMAM、Neuronline、Earthjobs、Meteorology/AGU 列表、微生物与植物学会职位板, last_run: 2026-10-17, added: 0}
+  - {id: math-stats-theory-lists-and-programs, focus: 数学与统计：MathJobs、EMS/AMS 职位板、INFORMS/ISBA/IMS 招聘、欧洲数学博士学院（Bonn/ETH/IHES/IAS）与统计博士项目资助, last_run: 2026-10-13, added: 20}
+  - {id: europe-doctoral-colleges-by-field, focus: 欧洲按学科划分的博士学院网络：IMPRS 全名单、Helmholtz Research Schools、Marie Curie 学院、EMBL/EMBO 博士项目、欧洲各国国家博士学院（数学/物理/化学/生物）, last_run: 2026-10-17, added: 0}
+  - {id: named-flagship-scholarships-uk-us, focus: 英美旗舰命名奖学金（面向全球含中国学生）：Gates Cambridge、Clarendon、Rhodes、Knight-Hennessy、Swire、Cambridge Trust、Oxford 学院奖学金、Edinburgh Global Research Scholarship 等的官方申请页与截止, last_run: 2026-10-13, added: 6}
+  - {id: named-flagship-scholarships-europe-asia-au, focus: 欧洲与亚澳旗舰奖学金：ETH Excellence、EPFL Excellence Fellowship、Eiffel（法）、Erasmus Mundus 博士、Singapore SINGA/A*STAR AGS、HKPFS、Australia Endeavour 替代项目等官方页, last_run: 2026-10-16, added: 1}
+  - {id: us-private-foundations-phd-fellowships, focus: 美国私人基金会与企业博士奖学金（Hertz、NDSEG 除外限制、Simons、Sloan、Packard、Schmidt、Open Philanthropy、Paul & Daisy Soros 等），逐项注明国际生是否可申, last_run: 2026-10-17, added: 1}
+  - {id: eu-private-foundations-phd-fellowships, focus: 欧洲私人基金会博士奖学金：Volkswagen、Thyssen、Boehringer Ingelheim Fonds、Wellcome、Leverhulme、Novo Nordisk、Carlsberg、Villum、Knut & Alice Wallenberg、Studienstiftung 等, last_run: 2026-10-17, added: 0}
+  - {id: uk-university-international-excellence-awards, focus: 英国各大学面向国际生的校级博士全额/半额奖学金（Vice-Chancellor、Global Excellence、President's 等），按学校逐一列出页面与截止, last_run: 2026-10-13, added: 21}
+  - {id: us-private-research-universities-phd, focus: 美国私立研究型大学博士项目全员资助政策与国际生规则（Ivy+、Stanford、MIT、Caltech、Duke、Chicago、Northwestern、Rice、WashU、Vanderbilt、Emory 等）, last_run: 2026-10-17, added: 2}
+  - {id: us-public-flagship-universities-phd, focus: 美国公立旗舰大学博士项目资助与国际生政策（UC 各校、Michigan、UIUC、UT Austin、Georgia Tech、Purdue、Wisconsin、Minnesota、Washington、Maryland 等）, last_run: 2026-10-13, added: 29}
+  - {id: europe-english-taught-phd-programmes-lists, focus: 欧洲英文博士项目名录与官方比较页：各国教育部/大学联盟的英文博士项目清单、Erasmus Mundus 联合博士、欧洲大学联盟（EUTOPIA/CIVIS 等）联合博士, last_run: 2026-10-16, added: 0}
+  - {id: postdoc-individual-fellowships-uk-commonwealth, focus: 英联邦与英国个人博后奖学金：Royal Society Newton International、Leverhulme ECF、British Academy、1851 Research Fellowship、Wellcome、UKRI Future Leaders、Canada Banting/Killam、Australia ARC DECRA/Discovery, last_run: 2026-10-17, added: 1}
+  # ── 社交平台上的导师个人招生帖（2026-10-11 起重点方向；每条帖子收录为 recruiting-posts，notes 写明发布日期、导师、学校、方向、资助）──
+  - {id: xhs-cs-ai-eng, focus: 小红书上海外导师/课题组发布的全奖博士、博后招生笔记——计算机、AI、电子、机械等工科方向（搜索如“全奖博士 招生 导师”“PhD 招生 小红书”“博后 招聘 海外”）, last_run: 2026-10-17, added: 0}
+  - {id: xhs-science-bio-med, focus: 小红书上海外导师发布的全奖博士/博后招生笔记——物理、化学、材料、生物、医学、环境方向, last_run: 2026-10-13, added: 2}
+  - {id: xhs-social-humanities, focus: 小红书上海外导师发布的全奖博士/博后招生笔记——经济、管理、心理、教育、社科人文方向, last_run: 2026-10-17, added: 0}
+  - {id: zhihu-recruiting, focus: 知乎上海外华人教授/AP 发布的博士、博后招生帖与专栏（“招收全奖博士”“课题组招生”“PhD position”）, last_run: 2026-10-13, added: 14}
+  - {id: wechat-mp-recruiting, focus: 微信公众号文章中的海外导师博士/博后招生公告（可被搜索引擎收录的 mp.weixin.qq.com 文章，含常发此类信息的公众号名称）, last_run: 2026-10-16, added: 0}
+  - {id: weibo-bilibili-douyin, focus: 微博、B站、抖音上海外导师或研究组发布的博士/博后招生信息, last_run: 2026-10-17, added: 0}
+  - {id: x-linkedin-recruiting, focus: X(Twitter) 与 LinkedIn 上导师亲自发布的 “I'm hiring PhD students / postdocs” 招生帖（2026–2027 申请季）, last_run: 2026-10-18, added: 1}
+  - {id: bluesky-mastodon-recruiting, focus: Bluesky、Mastodon 上导师发布的博士/博后招生帖与招聘聚合账号, last_run: 2026-10-13, added: 9}
+  - {id: chinese-forums-recruiting, focus: 小木虫、一亩三分地、寄托、豆瓣、知乎等中文论坛中 2026 年以来的海外导师直招帖, last_run: 2026-10-17, added: 1}
+  - {id: forum-1p3a-professor-self-posts, focus: 一亩三分地「教授本人」「招生广告」帖与各学校标签页（按学校、按方向）中 2026 年以来的全奖博士/博后直招帖, last_run: 2026-10-13, added: 1}
+  - {id: hk-sg-faculty-recruiting-pages-zh, focus: 港科大(广州)/港中深/港大/港理工/新加坡国大南大 教授个人主页与实验室官网的中文或英文博士博后招生页（2026 年更新）, last_run: 2026-10-16, added: 0}
+  # ── 2026-10-13 巡检补充：覆盖薄弱的国家与学科 ──
+  - {id: southern-eastern-europe-funded-phd, focus: 希腊、斯洛文尼亚、克罗地亚、罗马尼亚、保加利亚、塞尔维亚、波罗的海三国、匈牙利、捷克的带薪博士岗/国家博士奖学金/大学博士学院（含英文授课、接受国际生的项目）, last_run: 2026-10-17, added: 0}
+  - {id: latin-america-funded-phd, focus: 巴西(CAPES/CNPq/FAPESP 奖学金)、墨西哥(CONAHCYT)、智利(ANID)、阿根廷(CONICET)、哥伦比亚、乌拉圭面向国际生的带奖博士/博后项目与招生页, last_run: 2026-10-17, added: 1}
+  - {id: southeast-asia-turkey-funded-phd, focus: 马来西亚、泰国、越南、印尼、菲律宾、土耳其(TÜBİTAK、Türkiye Burslari)的国际生带奖博士/博后项目、大学研究生奖学金页, last_run: 2026-10-13, added: 13}
+  - {id: gulf-mena-africa-funded-phd, focus: 卡塔尔(HBKU/Qatar Univ)、科威特、阿曼、埃及、摩洛哥、南非(NRF)、肯尼亚、卢旺达等地的全奖博士/博后项目与研究所招生页, last_run: 2026-10-17, added: 0}
+  - {id: business-management-phd-funding, focus: 欧美亚商学院全奖博士项目（管理、营销、金融、会计、运营、信息系统），含学费减免+津贴的 PhD in Business 列表与各校招生页, last_run: 2026-10-13, added: 27}
+  - {id: ecology-evolution-neuro-phd, focus: 生态学、进化生物学、神经科学方向的带奖博士项目、研究所研究生院（如马普、HHMI Janelia、EMBL、各国神经科学博士项目）与博后 fellowship, last_run: 2026-10-16, added: 0}
+  - {id: economics-phd-funding-europe-asia, focus: 欧洲与亚洲经济学全奖博士项目（如 TSE、BSE、EUI、CEMFI、Bonn BGSE、Tinbergen、NUS/HKUST 经济系）及博后/博后研究员项目, last_run: 2026-10-17, added: 1}
+  - {id: postdoc-national-schemes-small-countries, focus: 中小国家的国家级博后资助计划（如 Luxembourg FNR、Iceland Rannís、Estonia ETAg、Portugal FCT、Czech MSCA-CZ、Slovenia ARIS、Croatia HRZZ），注明国际申请人资格, last_run: 2026-10-17, added: 0}
+  - {id: phd-levels-backfill-taiwan-macau-korea, focus: 台湾(教育部台湾奖学金、各校国际生博士奖学金)、澳门(澳大/澳科大博士奖学金)、韩国(GKS、KAIST/POSTECH/SNU 国际生全奖)的带奖博士/博后页面, last_run: 2026-10-13, added: 3}
+  - {id: dfg-grk-fwf-doctoral-colleges, focus: "德国 DFG 研究训练小组（Graduiertenkolleg/GRK）与 Collaborative Research Centres 的博士岗位页、奥地利 FWF 博士学院（Doctoral Programmes）、瑞士 SNSF 博士项目，按学科逐个列出带公开招聘页的项目", last_run: 2026-10-17, added: 0}
+  - {id: theory-institutes-postdoc-programmes, focus: "理论与基础科学研究所的博后/访问学者项目：IAS Princeton、Simons Institute/Foundation、IHES、Perimeter、ICTP、KITP、Aspen、Flatiron、MPI 理论所、Kavli 研究所、Niels Bohr Institute、NORDITA 等，注明国际申请与资助", last_run: 2026-10-13, added: 16}
+  - {id: fellowships-industry-medical-bio-foundations, focus: 医学与生命科学类基金会/学会的博士与博后 fellowship（如各国心脏病/癌症/糖尿病/神经科学基金会、疾病基金会、HHMI/Wellcome 类之外的中小基金会）中对国际生开放者, last_run: 2026-10-16, added: 4}
+  - {id: fellowships-industry-tech-company-phd, focus: 科技与工业公司 PhD fellowship 与联合培养博士项目页（Google/Microsoft/Apple/Meta/NVIDIA/Qualcomm/华为/三星等官方项目页）、欧洲公司工业博士官方入口, last_run: 2026-10-17, added: 1}
+  - {id: fellowships-industry-intl-orgs-scholar-societies, focus: 国际组织与学术学会的博士/博后资助（IAEA/WHO/UNESCO/CERN/ESA/EMBL/各学科学会奖学金）, last_run: 2026-10-17, added: 0}
+  # ── 2026-10-13 巡检补充（第二批）：导师/课题组个人招生页、按领域的博后岗位、冷门国家、基金会博士项目 ──
+  - {id: lab-pages-us-cs-ai-recruiting, focus: 美国计算机/AI 教授或课题组网页上明确写“招收 2027 秋季博士生/正在招博士生”的页面（prospective students、openings、join us、We are recruiting PhD students），按学校分批：MIT/Stanford/CMU/Berkeley/UIUC/UW/UCSD/Cornell/Princeton/Harvard 等, last_run: 2000-01-01, added: 0}
+  - {id: lab-pages-us-science-bio-recruiting, focus: 美国物理、化学、材料、生物、神经、医学方向课题组网页上写明招博士生/博后的页面（lab openings、join the lab、positions），含 HHMI Janelia、NIH 校内课题组、各大学系的 faculty-recruiting 汇总, last_run: 2026-10-17, added: 2}
+  - {id: lab-pages-uk-ie-recruiting, focus: 英国与爱尔兰教授/课题组个人页面中的博士与博后招聘（Oxford、Cambridge、Imperial、UCL、Edinburgh、Manchester、Trinity、UCD 等，含已获资助的具体 studentship 项目页）, last_run: 2026-10-17, added: 0}
+  - {id: lab-pages-ch-de-at-recruiting, focus: 瑞士、德国、奥地利课题组主页与研究所（ETH、EPFL、PSI、各 Max Planck/Helmholtz/Fraunhofer/Leibniz 研究所的具体课题组）的博士/博后开放职位页, last_run: 2026-10-16, added: 0}
+  - {id: lab-pages-ca-au-nz-recruiting, focus: 加拿大、澳大利亚、新西兰教授个人页面中的博士/博后招聘与带奖项目（UofT、UBC、McGill、Waterloo、Mila、ANU、Melbourne、Sydney、UNSW、Monash、Auckland 等）, last_run: 2026-10-17, added: 3}
+  - {id: lab-pages-asia-recruiting, focus: 日本、韩国、新加坡、香港教授与课题组主页的博士/博后招聘（东大、京大、理研、KAIST、SNU、NUS、NTU、HKU、HKUST、CUHK），含中文招生页, last_run: 2026-10-17, added: 0}
+  - {id: chinese-pi-homepages-zh-recruiting, focus: 海外华人教授个人主页或课题组主页上的中文“招生/招聘”页面（“欢迎有志于……的同学申请博士”“课题组招收全奖博士/博士后”），按国家与学科分批, last_run: 2000-01-01, added: 0}
+  - {id: postdoc-openings-cs-ai-labs, focus: 计算机、AI、机器学习、机器人课题组与研究院（Google DeepMind 学术合作、各大学 AI 研究所、Mila、Vector、ELLIS 单位）的博后岗位与 fellowship 页面, last_run: 2026-10-17, added: 1}
+  - {id: postdoc-openings-physical-sciences, focus: 物理、天文、化学、材料、地球科学研究所与课题组的博后岗位页（含 CERN、ESO、各国家实验室、光源与同步辐射装置）, last_run: 2000-01-01, added: 0}
+  - {id: postdoc-openings-life-sciences-med, focus: 生命科学、神经科学、医学、公共卫生研究所与课题组的博后岗位页（EMBL、Wellcome Sanger、Crick、Broad、各医学院 postdoc office 职位板）, last_run: 2026-10-16, added: 0}
+  - {id: research-funders-phd-programmes, focus: 科研基金会与慈善机构资助的博士项目与 studentship 列表（Wellcome、Novo Nordisk Foundation、Carlsberg、Volkswagen、Boehringer Ingelheim Fonds、Marie Curie 以外的私人基金会），注明是否对国际生开放, last_run: 2026-10-17, added: 0}
+  - {id: central-asia-caucasus-caribbean-phd, focus: 中亚、高加索、加勒比与中美洲、塞浦路斯、马耳他、斯洛伐克、卢森堡、冰岛的博士奖学金与带薪岗位（官方页面与国家奖学金门户）, last_run: 2026-10-17, added: 1}
+  - {id: private-foundation-individual-fellowships, focus: 私人基金会与学会的个人博士/博后 fellowship（北欧 Carlsberg/Novo Nordisk/Villum/Wallenberg/Wenner-Gren、德国 Volkswagen/Boehringer Ingelheim/Humboldt 以外的基金会、瑞士/荷兰/比利时基金会、美国小型基金会），只收有官方 call 页面的, last_run: 2026-10-14, added: 1}
+  - {id: department-phd-admissions-funded-guarantee-pages, focus: 院系官方博士招生页中明确写出“全员资助/funding guarantee/stipend 金额”的页面，按国家：加拿大、澳大利亚、新加坡、香港、日韩、北欧、德语区大学的系/学院级页面, last_run: 2026-10-17, added: 0}
+  - {id: wellcome-4yr-phd-programmes-by-institution, focus: Wellcome 资助的四年制博士项目（Wellcome Discovery/Leap 以外的 PhD programmes）按院校逐个核对官方招生页：Oxford、Cambridge、UCL、KCL、Edinburgh、Dundee、Manchester、Glasgow 等；注明国际生是否收取英国标准学费, last_run: 2026-10-17, added: 0}
+  - {id: uk-medical-charity-studentships, focus: 英国医学慈善机构博士 studentship（CRUK、British Heart Foundation、MRC DTP 以外的 Versus Arthritis、Alzheimer's Research UK、MND Association、Parkinson's UK）官方 call 页与各校分配页；注明国际生资格, last_run: 2026-10-16, added: 1}
+  - {id: chemistry-eu-doctoral-networks, focus: 化学方向欧洲 MSCA 博士网络与各国化学博士院（德国 Graduiertenkolleg、荷兰、瑞士、北欧）, last_run: 2026-10-17, added: 2}
+  - {id: neuro-graduate-programs-us-ca-asia, focus: 神经科学研究生项目与奖学金（北美 PhD 项目页、日韩新港神经科学项目、Wellcome/HHMI 类博后）, last_run: 2026-10-17, added: 2}
+  # ── 2026-10-16 worker-5 拆分（south-east-europe、ecology-evolution 连续两轮新增<3）──
+  - {id: italy-phd-bando-by-university, focus: 意大利各大学/高等院校（SISSA、Scuola Normale、IMT、GSSI、Sant'Anna、Politecnico）博士 bando 页与国际生奖学金, last_run: 2026-10-17, added: 0}
+  - {id: iberia-research-center-predoc, focus: 西班牙与葡萄牙研究中心（CRG/IRB/ICFO/BSC/IMDEA/CNIC/IGC/i3S/IMM）预博士岗位页与“la Caixa”“FCT”“Severo Ochoa”年度招生页, last_run: 2026-10-17, added: 0}
+  - {id: israel-ee-central-phd-fellowships, focus: 以色列（Weizmann/Technion/HUJI/TAU/BGU）国际生博士奖学金与中东欧（波兰、捷克、匈牙利、斯洛伐克）国家奖学金和研究所博士岗, last_run: 2026-10-17, added: 1}
+  - {id: marine-conservation-phd-funding, focus: 海洋生物学、渔业、保护生物学博士资助（海洋研究所、保护组织、MSCA 博士网络）, last_run: 2026-10-16, added: 0}
+  - {id: ornithology-behavior-ecology-groups, focus: 鸟类学、行为生态学、野外站（如 Max Planck、Edward Grey、Sapienza 野外项目）课题组与博士网络招生页, last_run: 2026-10-17, added: 4}
+  - {id: math-uk-eu-dtp-cdt, focus: 数学博士培训项目：英国 EPSRC DTP/CDT（数学方向）、MSCA 数学博士网络、欧洲数学研究所博士项目官方招生页, last_run: 2026-10-17, added: 1}
+  - {id: math-postdoc-institutes, focus: 数学博后：数学研究所（IAS、MSRI/SLMath、Max Planck 数学所、IHES、Fields、BIRS 等）与大学数学系博后官方招聘页，带薪资信息, last_run: 2026-10-17, added: 1}
+  - {id: earth-climate-phd-networks, focus: 地球与气候博士培训网络（NERC DTP/CDT、MSCA 地球科学网络、IMPRS 地球系统类项目）官方招生页, last_run: 2026-10-17, added: 0}
+  # ── 2026-10-16e worker-5 拆分（sociology-anthro、country-germany-unis 连续两轮新增<3）──
+  - {id: demography-population-institutes, focus: 人口学研究所与中心（MPIDR、INED、Population Council、各大学 CPC/人口中心）博士与博后岗位及奖学金页, last_run: 2000-01-01, added: 0}
+  - {id: anthropology-gender-dtp-programs, focus: 人类学、性别研究的欧洲 DTP/研究生院与基金会博士资助（Wenner-Gren、MPI 社会人类学、ESRC DTP 子路径）官方页, last_run: 2026-10-16, added: 0}
+  - {id: germany-dfg-rtg-grk-positions, focus: 德国 DFG 研究训练组（GRK/RTG）与 Excellence Cluster 的博士岗位公告页（各大学 GRK 官网 call for applications）, last_run: 2026-10-17, added: 0}
+  - {id: germany-max-planck-helmholtz-leibniz-phd, focus: 德国马普/亥姆霍兹/莱布尼茨/弗劳恩霍夫研究所的博士与博后岗位页和 IMPRS 项目, last_run: 2026-10-17, added: 0}
+  # ── 2026-10-16f worker-5 拆分（country-japan-korea-unis 连续两轮新增 0）──
+  - {id: japan-univ-english-doctoral-programs, focus: 日本各大学（东大、京大、阪大、东北、名古屋、九州、筑波、早稻田、庆应、OIST）英文博士项目官网及其校内奖学金页（含 SPRING、JST、大学独立奖学金）, last_run: 2000-01-01, added: 0}
+  - {id: korea-univ-english-doctoral-programs, focus: 韩国各大学与科研院校（KAIST、POSTECH、DGIST、GIST、UNIST、SNU、延世、高丽）英文博士项目与奖学金官方页, last_run: 2026-10-17, added: 0}
+  - {id: japan-korea-research-institutes-postdoc, focus: 日本理研/AIST/NIMS/OIST 与韩国 IBS/KIST/KBSI 的博士后与特别研究员岗位官方页, last_run: 2000-01-01, added: 0}
+  # ── 2026-10-16h worker-5 拆分（nordics-phd-vacancies 连续两轮新增 1）──
+  - {id: sweden-univ-phd-programs, focus: 瑞典各大学（KTH、Chalmers、Lund、Uppsala、Stockholm、Gothenburg、LiU）博士岗位与 WASP/SciLifeLab/Wallenberg 项目的官方招聘页, last_run: 2026-10-16, added: 3}
+  - {id: denmark-norway-univ-phd-programs, focus: 丹麦与挪威各大学及国家级基金会（Novo Nordisk Foundation、Carlsberg、Independent Research Fund Denmark、RCN）博士与博后资助的官方页, last_run: 2026-10-17, added: 2}
+  - {id: finland-iceland-univ-phd-programs, focus: 芬兰与冰岛各大学及研究所（Aalto、Helsinki、Turku、Oulu、VTT、Univ. Iceland）博士项目、博士学院和 Academy of Finland 博士后资助官方页, last_run: 2026-10-17, added: 2}
+  # ── 2026-10-16h worker-5 拆分（australia-research-institutes 连续两轮新增<3）──
+  - {id: australia-go8-hdr-scholarships, focus: 澳大利亚八校联盟（Go8）及 UTS/Macquarie/Monash 等大学的 HDR 奖学金官方页（含 RTP、国际生 stipend 与学费免除、中国学生专属项目）, last_run: 2000-01-01, added: 0}
+  - {id: australia-medical-research-institutes-phd, focus: 澳大利亚医学研究所（WEHI、Garvan、Kirby、Peter Mac、Florey、QIMR、Doherty）博士奖学金与博后岗位官方页, last_run: 2026-10-17, added: 0}
+  # ── 2026-10-16i worker-5 拆分（energy-climate-environment-phd 连续两轮新增 1）──
+  - {id: energy-economics-policy-phd, focus: 能源经济学与气候政策博士资助（EWI、Oxford Institute for Energy Studies、RFF、各大学能源政策研究生院与基金会）官方页, last_run: 2000-01-01, added: 0}
+  - {id: climate-science-graduate-schools, focus: 气候科学研究生院与博士学院（Bjerknes、MPI-M IMPRS-ESM、PIK、Potsdam、各 Helmholtz 气候研究生院）招生与资助官方页, last_run: 2026-10-16, added: 0}
+  # ── 2026-10-16j worker-5 拆分（japan-korea-taiwan-programs 连续两轮新增<3）──
+  - {id: taiwan-univ-intl-phd-scholarships, focus: 台湾各大学（台大、清华、阳明交大、成大、政大、台科大、中山）与中研院的国际生博士奖学金、教育部台湾奖学金、NSTC 博士生计划官方页, last_run: 2026-10-17, added: 0}
+  - {id: japan-mext-spring-institutes, focus: 日本 MEXT 大学推荐名额、JST SPRING、各大学校内博士奖学金与 RIKEN/AIST/NIMS 的 JRA、特别研究员官方页, last_run: 2026-10-17, added: 2}
+  # ── 2026-10-16k worker-5 拆分（global-health-development-phd、integrated-msc-phd-and-research-master-pathways 连续两轮新增<3）──
+  - {id: global-health-epidemiology-phd-uk-eu, focus: 全球健康/流行病学/公共卫生博士：LSHTM、Oxford NDPH、Imperial SPH、Karolinska、Heidelberg、Bergen 的国际生资助页与博士项目官方页, last_run: 2000-01-01, added: 0}
+  - {id: international-organisation-research-fellowships, focus: 国际组织与基金会的研究员/博士生资助（WHO、UNU、World Bank、IDRC、IIASA YSSP、OECD、IAEA）官方页, last_run: 2026-10-17, added: 0}
+  - {id: economics-research-master-to-phd-europe, focus: 经济学研究型硕士直通博士与资助（Tinbergen、TSE、BSE、Bocconi、Mannheim MSE、CEMFI、Bonn BGSE、EUI）官方页, last_run: 2000-01-01, added: 0}
+  - {id: northamerica-masters-to-phd-bridge, focus: 北美硕博过渡与桥接项目（Post-baccalaureate、MS-to-PhD 直通、加拿大 Master-to-PhD fast-track）官方页和资助说明, last_run: 2026-10-16, added: 0}
+  # ── 2026-10-16 worker-2 拆分（chinese-language-communities-and-embassies、postdoc-individual-fellowships-uk-commonwealth 连续两轮新增<3）──
+  - {id: csc-joint-programs-europe-universities, focus: 欧洲高校与 CSC 的联合博士协议官方页（德国、荷兰、比利时、法国、瑞士、北欧、意大利、西班牙各校 CSC 合作项目页与名额），只收页面写明当前轮次的, last_run: 2026-10-17, added: 0}
+  - {id: postdoc-individual-fellowships-eu-asia-national, focus: 欧洲与亚洲国家级个人博后奖学金（Humboldt、FWO Pegasus、NWO Veni 国际条款、DFF、Swiss SNSF Postdoc.Mobility、JSPS 外国人特别研究员、NRF Korea、A*STAR）官方页与国际生条款, last_run: 2026-10-17, added: 0}
+  # ── 2026-10-16l worker-5 拆分（europe-doctoral-colleges-by-field 连续两轮新增<3）──
+  - {id: imprs-full-list-by-institute, focus: 马普学会 IMPRS 全名单（按研究所逐个核对申请页、截止日与薪酬说明）, last_run: 2000-01-01, added: 0}
+  - {id: helmholtz-leibniz-graduate-schools, focus: 亥姆霍兹研究生院与莱布尼茨研究所博士学院（HIDSS、HGS、Leibniz Graduate Schools）官方招生页, last_run: 2026-10-17, added: 2}
+  - {id: ecology-evolution-job-boards, focus: 生态与进化领域官方职位板与学会列表（ESA、BES、SSE、ASN、Evolution 学会、SMBE 的 jobs 页）及各国博士岗位聚合页, last_run: 2000-01-01, added: 0}
+  - {id: neuro-earth-society-job-boards, focus: 神经科学与地球科学学会官方职位板（SfN Neuronline、FENS、AGU Career Center、EGU 职位页、GSA、Seismological Society）中博士/博后专栏, last_run: 2026-10-16, added: 0}
+  # ── 2026-10-16m worker-5 拆分（gulf-mena-africa-funded-phd 连续两轮新增 0）──
+  - {id: gulf-universities-intl-phd, focus: 海湾国家高校（KAUST、KFUPM、Khalifa、MBZUAI、NYUAD、HBKU、Masdar、QU、SQU）面向国际生的博士奖学金与研究岗官方页, last_run: 2026-10-17, added: 0}
+  - {id: africa-research-centres-phd-postdoc, focus: 非洲研究机构与大学（AIMS、icipe、UM6P、Wits、Stellenbosch、UCT、Makerere、ILRI）的博士与博后官方招生页, last_run: 2026-10-17, added: 0}
+  - {id: brazil-universities-intl-phd, focus: 巴西大学（USP、Unicamp、UFRJ、UFMG）与研究所（Fiocruz、INPE、LNLS/CNPEM）面向国际生的博士/博后官方招生与奖学金页, last_run: 2000-01-01, added: 0}
+  - {id: chile-mexico-institutes-postdoc, focus: 智利、墨西哥研究机构（CINVESTAV、UNAM、ANID 博后、Millennium Institutes）的博士后与国际博士官方招聘页, last_run: 2026-10-17, added: 2}
+  # ── 2026-10-16n worker-5 拆分（dfg-grk-fwf-doctoral-colleges 连续两轮新增<3）──
+  - {id: germany-sfb-collaborative-research-centres-phd, focus: 德国 DFG Collaborative Research Centres（SFB/TRR）与 Excellence Clusters 官网 Jobs 页的博士岗位（按学科）, last_run: 2000-01-01, added: 0}
+  - {id: austria-switzerland-doctoral-schools, focus: 奥地利 FWF doc.funds 博士学院与各大学博士学院、瑞士各州大学博士学院及 NCCR 的博士招聘官方页, last_run: 2026-10-16, added: 0}
+  # ── 2026-10-16p worker-5 拆分（department-phd-admissions-funded-guarantee-pages 连续两轮新增<3）──
+  - {id: new-zealand-univ-doctoral-scholarships, focus: 新西兰各大学（Auckland、Otago、Victoria、Canterbury、Massey、Waikato、AUT）博士奖学金与国际生资助官方页, last_run: 2026-10-17, added: 0}
+  - {id: canada-department-phd-funding-guarantee, focus: 加拿大各大学系/学院博士最低资助保障页（UBC、McGill、Toronto、Waterloo、Alberta、McMaster、Simon Fraser）含国际生学费豁免, last_run: 2026-10-17, added: 1}
+  # ── 2026-10-16p worker-5 拆分（postdoc-openings-cs-ai-labs 连续两轮新增 0）──
+  - {id: ai-institute-postdoc-fellowships-europe-asia, focus: 欧亚 AI 研究所博后 fellowship（ELLIS Institute、MPI-IS、Inria、DFKI、NUS/NTU AI 研究所、KAIST AI）官网招聘页, last_run: 2000-01-01, added: 0}
+  - {id: robotics-systems-security-postdoc-labs, focus: 机器人、系统与安全方向课题组与研究院（CMU RI、ETH RSL、TU Munich、CISPA、MPI-SP）官网的博后与博士招聘页, last_run: 2026-10-18, added: 0}
+  - {id: netherlands-universities-phd-vacancies, focus: 荷兰各大学（UvA、VU、Utrecht、Leiden、Delft、Eindhoven、Groningen、Wageningen、Radboud）博士职位门户与研究所/graduate school 页面, last_run: 2000-01-01, added: 0}
+  - {id: france-grandes-ecoles-doctoral-contracts, focus: 法国博士院（Écoles doctorales）、Paris-Saclay/Sorbonne/PSL 的国际博士合同与 CSC 联合培养项目官方页, last_run: 2026-10-18, added: 0}
+  - {id: neuroscience-grad-schools-intl, focus: 国际神经科学研究生院（Gatsby、SWC、Bernstein、IMPRS neuroscience、Champalimaud、EPFL Neuro）官方招生与资助页, last_run: 2026-10-17, added: 0}
+  - {id: bioinformatics-genomics-phd-programs, focus: 生信/基因组学博士项目（EMBL-EBI、Sanger、Broad、Wellcome Genome Campus、SciLifeLab）官方招生页, last_run: 2026-10-17, added: 1}
+  - {id: italy-scuola-superiore-phd-calls, focus: 意大利高等师范/高等研究院（SNS Pisa、Sant'Anna、IUSS Pavia、GSSI、SISSA、IMT Lucca、Scuola Normale）的博士招生页与国际生奖学金、下一周期时间, last_run: 2000-01-01, added: 0}
+  - {id: spain-portugal-institute-phd-calls, focus: 西班牙/葡萄牙研究所与大学的博士项目页（La Caixa INPhINIT、Severo Ochoa 中心各自 PhD 页、Marie Curie COFUND 项目、FCT 博士项目 PhD programmes）, last_run: 2026-10-17, added: 1}
+  - {id: czech-hungary-poland-institute-phd, focus: 捷克/匈牙利/波兰/斯洛伐克研究所与大学博士项目页（CEITEC、IST Austria 以外的中东欧机构：Masaryk、Charles、ELTE、Warsaw、Jagiellonian、Wroclaw 的国际博士学院与英文招生页）, last_run: 2000-01-01, added: 0}
+  - {id: renewable-energy-engineering-phd-labs, focus: 可再生能源、储能、电池与氢能工程方向的博士/博后（Helmholtz Institute Ulm、Fraunhofer、DTU、KTH、NTNU、Imperial、NUS SERIS、EPFL 能源中心）官方招聘页, last_run: 2026-10-18, added: 0}
+  - {id: environmental-engineering-water-phd, focus: 环境工程、水资源与城市环境方向博士项目（Eawag、IHE Delft、TU Delft CiTG、DTU Environment、UNESCO-IHE、KAUST 水资源）的资助与招聘页, last_run: 2026-10-17, added: 3}
+  - {id: atmos-ocean-earth-system-postdoc, focus: 大气、海洋与地球系统科学博士后（MPI-M、NCAR、GFDL、Scripps、AWI、GEOMAR、NOC、Bjerknes Centre）官方招聘与 fellowship 页, last_run: 2026-10-17, added: 2}
+  - {id: south-africa-universities-postgrad-funding, focus: 南非各大学（Wits、UCT、Stellenbosch、Pretoria、UKZN、Rhodes）及国家研究机构（NRF、SANSA、HSRC、CSIR）面向国际生的博士/博后资助与招聘页, last_run: 2000-01-01, added: 0}
+  - {id: egypt-morocco-nigeria-kenya-research-institutes, focus: 埃及（Zewail City、AUC、Cairo）、摩洛哥（UM6P）、尼日利亚、肯尼亚（icipe、ILRI、KEMRI）、埃塞俄比亚、加纳研究所与大学的国际博士/博后项目官方页, last_run: 2026-10-17, added: 1}
+  - {id: us-national-labs-postdoc-programs, focus: 美国国家实验室博后与研究生项目（ORNL、Argonne、LBNL、PNNL、Sandia、Los Alamos、NREL、Fermilab、BNL）官方招聘页及对外国公民的限制说明, last_run: 2026-10-17, added: 9}
+  - {id: australia-nz-hdr-scholarship-pages, focus: 澳新大学 HDR 全额奖学金官方页（ANU、Melbourne、Sydney、UNSW、Monash、UQ、Adelaide、Auckland、Otago）含国际生学费与津贴, last_run: 2026-10-17, added: 3}
+  - {id: swiss-eth-epfl-institutes-phd-postdoc, focus: 瑞士 ETH/EPFL 及研究所（PSI、Empa、Eawag、WSL、SIB、FMI、IDSIA）博士与博后官方招聘页, last_run: 2026-10-17, added: 0}
+  - {id: japan-korea-univ-intl-phd-scholarships, focus: 日韩各大学面向国际生的博士全额奖学金（东大、京大、阪大、东北大、KAIST、SNU、POSTECH、UNIST、GIST）官方招生与奖学金页, last_run: 2026-10-17, added: 0}
+  - {id: dfg-grk-life-sciences-medicine, focus: 德国 DFG GRK/RTG 与 Research Unit 中生命科学、医学、神经科学方向且当前开放的博士岗位页（含 IRTG 国际合作项目、Cluster of Excellence 的 PhD 招聘页）, last_run: 2000-01-01, added: 0}
+  - {id: dfg-grk-physics-engineering-math, focus: 德国 DFG GRK/RTG/SFB 与卓越集群中物理、化学、工程、数学、计算机方向当前开放的博士岗位（按研究训练小组官网的 positions 页）, last_run: 2026-10-17, added: 0}
+  - {id: dfg-grk-humanities-social-sciences, focus: 德国 DFG GRK/RTG 与卓越集群中人文、社会科学、经济方向当前开放的博士岗位（含历史、文学、哲学、社会学、政治学 GRK 的 positions 页）, last_run: 2000-01-01, added: 0}
+  - {id: canada-health-science-departments-phd-funding, focus: 加拿大医学/健康科学/生命科学系的博士最低资助政策页（McGill FMHS、Toronto、UBC、Alberta、Calgary、Dalhousie、Ottawa），含国际生学费减免规则, last_run: 2026-10-18, added: 2}
+  - {id: hong-kong-singapore-department-phd-stipends, focus: 香港（HKU/CUHK/HKUST/PolyU/CityU/HKBU 各系）与新加坡（NUS/NTU/SMU/SUTD）院系官方页写明的博士奖学金金额与国际生适用范围, last_run: 2026-10-17, added: 1}
+  - {id: australia-nz-department-hdr-stipends, focus: 澳大利亚/新西兰各校 HDR 奖学金官方页中明确国际生适用的学费减免与生活费金额（RTP International、UQ、Monash、UNSW、ANU、Otago、Canterbury）, last_run: 2026-10-18, added: 4}
+  - {id: spain-severo-ochoa-centres-phd-individual, focus: 西班牙 Severo Ochoa / María de Maeztu 卓越中心各自官网的 PhD 招聘页与年度国际博士项目（BSC、IAC、ICMAT、ICFO、IFAE、IRB、CRG、IBEC、CIC nanoGUNE、BCBL），逐中心查当前轮次, last_run: 2026-10-17, added: 1}
+  - {id: portugal-research-institutes-phd-individual, focus: 葡萄牙研究所与大学（Gulbenkian/GIMM、Champalimaud、i3S、IGC、ITQB、IST Lisboa、U Porto、Minho、Coimbra、Aveiro）官方博士项目页与 FCT 配套项目, last_run: 2026-10-17, added: 0}
+  - {id: geoscience-institute-phd-individual, focus: 地球科学研究所博士岗位（GFZ、AWI、GEOMAR、MARUM、BGS、Scripps、Lamont-Doherty、WHOI Joint Program、Caltech GPS）官方招聘页, last_run: 2026-10-17, added: 0}
+  - {id: uk-russell-group-intl-phd-scholarships, focus: 英国罗素集团及其他研究型大学面向国际生的博士奖学金官方页（Oxford Clarendon、Cambridge Trust、Imperial President's、UCL GRS、Edinburgh、Manchester、Warwick、Bristol、Glasgow、KCL），含金额与资格, last_run: 2026-10-17, added: 1}
+  - {id: us-private-univ-humanities-social-phd-funding, focus: 美国私立名校人文社科博士资助承诺官方页（Harvard GSAS、Yale GSAS、Princeton、Columbia GSAS、Chicago、Duke、Penn、Cornell、Stanford H&S、Brown），含国际生说明, last_run: 2026-10-17, added: 0}
+  - {id: sg-hk-macau-univ-phd-fellowships, focus: 新加坡、香港、澳门各大学博士奖学金官方页（NUS Research Scholarship、NTU RS、SMU、SUTD、HKUST、HKU、CUHK、PolyU、CityU、HKBU、澳门大学、澳门科技大学）, last_run: 2026-10-17, added: 0}
+  - {id: germany-universities-graduate-schools-structured-phd, focus: 德国高校结构化博士项目与研究生院官方页（LMU GSN、TUM Graduate School、Heidelberg HGS、Freiburg、Göttingen GGNB、Bonn BIGS、Konstanz、Mannheim CDSS），含资助与国际生申请, last_run: 2026-10-17, added: 2}
+  - {id: korea-government-research-institutes-ust-kist, focus: 韩国政府出资研究院与联合大学院（UST、KIST School、KRISS School、ETRI、KAERI、KIGAM）面向国际生的博士奖学金与招生页, last_run: 2026-10-17, added: 1}
+  - {id: korea-hanyang-skku-yonsei-intl-phd, focus: 汉阳、成均馆、延世、庆熙、中央大学等私立大学英文博士项目的国际生奖学金与研究生院招生页（金额与学期）, last_run: 2026-10-17, added: 0}
+  - {id: australia-wehi-garvan-peter-mac-individual, focus: WEHI、Garvan、Peter MacCallum 各自官网的 PhD 招生与国际生奖学金页（含 WEHI 国际博士奖学金、Garvan PhD program、Peter Mac 博士项目的当前轮次）, last_run: 2026-10-18, added: 0}
+  - {id: australia-uni-affiliated-institutes-postdoc, focus: 澳大利亚医学研究所博后岗位与 fellowship（NHMRC Investigator 以外的机构自有博后：WEHI、Doherty、Baker、Florey、QIMR 的 postdoc 招聘页）, last_run: 2026-10-17, added: 0}
+  - {id: big-science-facilities-phd-postdoc, focus: 大科学装置与国际研究机构（CERN、ESO、ESRF、ILL、DESY、PSI、ESS、FAIR/GSI、SKA、ALMA 相关）的博士生/博后项目与 fellowship 官方页，要当前开放或下一轮明确, last_run: 2026-10-17, added: 1}
+  - {id: private-foundations-postdoc-fellowships, focus: 私人基金会博后与博士生资助（Simons、Sloan、Packard、Burroughs Wellcome、Schmidt、Moore、Gates、HFSP、EMBO、Human Frontier）官方页，国际生资格与金额, last_run: 2026-10-17, added: 1}
+  - {id: eastern-europe-baltic-turkey-phd, focus: 波罗的海、巴尔干、东欧与土耳其的大学与研究所面向国际生的资助博士项目与招聘页, last_run: 2026-10-17, added: 1}
+  - {id: agri-plant-science-europe-asia-individual, focus: 欧洲与亚洲农业/植物科学研究所的资助博士项目（Hohenheim、Wageningen 以外：IPK、Rothamsted、John Innes、INRAE、CAAS 合作、IRRI、ICRISAT）逐个官方课题页, last_run: 2026-10-17, added: 0}
+  - {id: veterinary-animal-science-phd-funded, focus: 兽医学与动物科学博士资助项目（RVC、Edinburgh Roslin、Utrecht、Copenhagen、UC Davis、Cornell Vet、Sydney、Massey）的资助页与奖学金, last_run: 2026-10-17, added: 3}
+  - {id: 1point3acres-recruiting-cs-ai-2027, focus: 一亩三分地招生广告版中 2027 秋入学 CS/AI 方向导师直招帖：只收能在导师官方主页或课题组页确认全奖的, last_run: 2026-10-18, added: 0}
+  - {id: 1point3acres-recruiting-engineering-science-2027, focus: 一亩三分地招生广告版中工程、材料、化学、生物、物理方向 2027 秋入学导师直招帖：以课题组官网 positions 页为依据, last_run: 2026-10-18, added: 0}
+  - {id: pi-lab-positions-pages-social-science, focus: 社科、心理、经济、教育方向导师个人/课题组官网的 positions 或 prospective students 页（美英加澳），页面明确写明全奖, last_run: 2000-01-01, added: 0}
+  - {id: zhihu-wechat-pi-recruiting-asia-middle-east, focus: 知乎专栏与公众号中香港、新加坡、中东（MBZUAI、KAUST、NYUAD）导师 2027 招生文章，需对照官方招聘页确认资助, last_run: 2026-10-18, added: 0}
+  - id: italy-bandi-dottorato
+    focus: 意大利各校/高等学院（SNS、SISSA、IMT、IUSS、Sant'Anna、GSSI、Politecnico、Bologna、Padova 等）bando dottorato 带奖博士公告、PNRR 博士项目与国家 AI 博士
+    last_run: 2000-01-01
+    added: 0
+  - id: iberia-severo-ochoa-fct
+    focus: 西班牙 Severo Ochoa/María de Maeztu 中心与 FPI/FPU、la Caixa；葡萄牙 FCT、Gulbenkian、Champalimaud、各校博士项目与 CEEC 博后
+    last_run: 2026-10-18
+    added: 1
+  - id: central-europe-israel
+    focus: 波兰 NAWA/NCN、捷克（Charles、CTU、IOCB、IST Austria 邻近）、匈牙利（Stipendium Hungaricum、ELTE）、爱尔兰 CRT/Research Ireland、以色列各校（Weizmann、Technion、TAU、HUJI、BGU）国际生博士/博后
+    last_run: 2026-10-18
+    added: 1
+  - {id: plant-science-crop, focus: 植物科学、作物遗传育种、植物病理、园艺：JIC、IPK、Wageningen Plant、CIMMYT/IRRI、MSCA 博士网络官方招聘页（需有岗位页而非仅项目页）, last_run: 2026-10-18, added: 3}
+  - {id: vet-animal-food-science, focus: 兽医学、动物科学、食品科学与营养：各兽医学院研究型博士资助（Cornell/UC Davis/Utrecht/RVC/Copenhagen）、食品科学系博士奖学金, last_run: 2000-01-01, added: 0}
+  - {id: anthropology-demography-phd, focus: 人类学与人口学博士：各大学人类学系/人口学中心（MPIDR、Princeton OPR、Penn PSC、NIDI、SUDA、LSE）带资助博士项目与招生页, last_run: 2026-10-18, added: 0}
+  - {id: gender-social-work-phd, focus: 性别研究、社会工作、社会政策博士：欧洲与港新英美各校带资助博士项目与研究生院招生页, last_run: 2000-01-01, added: 0}
+  - {id: csc-joint-phd-netherlands-nordics-status, focus: 荷兰、北欧高校与 CSC 联合培养项目的当前合作状态（Leiden、Groningen、Utrecht、Delft、Maastricht、TU/e、Copenhagen、Lund、Uppsala）官方页，确认哪些仍接收中国学生及资助内容, last_run: 2026-10-18, added: 0}
+  - {id: msca-dn-open-positions-euraxess-by-field, focus: 已入选 MSCA Doctoral Network（2024/2025 轮）仍在招人的各网络官网岗位页，按物理、化学、工程、社科分别查找，要求页面写明截止日与薪资, last_run: 2026-10-18, added: 0}
+  - {id: china-mainland-pi-overseas-recruiting-wechat, focus: 海外华人 PI 在微信公众号、知乎发布的 2027 秋入学博士招生帖（需发帖日期在 2026 年内，并对照其课题组官网确认资助）, last_run: 2026-10-18, added: 0}
+  - {id: au-go8-phd-scholarships, focus: 澳洲八大（Melbourne/Sydney/ANU/UNSW/Monash/Queensland/Adelaide/UWA）官方 RTP 与校内博士奖学金页、国际生资格与津贴, last_run: 2000-01-01, added: 0}
+  - {id: au-nz-institutes-postdoc, focus: 澳新研究所（WEHI/Garvan/CSIRO/QIMR/Peter Mac、新西兰 Marsden/Rutherford）博后与博士岗位官方招聘页, last_run: 2026-10-18, added: 1}
+  - {id: climate-earth-system-phd, focus: 气候与地球系统科学博士：PIK、MPI-M、AWI、GFZ、Helmholtz 气候研究院、BAS/Met Office 合作博士项目的官方招聘页, last_run: 2000-01-01, added: 0}
+  - {id: energy-materials-sustainability-phd, focus: 能源转型、电池/光伏/氢能、可持续工程博士：DTU Energy、Fraunhofer、KTH、NTNU、Empa 与各国能源博士学院官方招聘页, last_run: 2026-10-18, added: 0}
+  - {id: switzerland-eth-epfl-labs, focus: 瑞士 ETH 各系与 EPFL 各博士学院/ETH Domain 研究所（PSI/Empa/Eawag/WSL）官方博士招生与岗位页, last_run: 2026-10-18, added: 1}
+  - {id: austria-doctoral-schools, focus: 奥地利博士学院与研究所（ISTA、OeAW、维也纳大学/TU Wien/Graz/Innsbruck 博士学院、FWF doc.funds）官方招生页, last_run: 2026-10-18, added: 0}
+  - {id: japan-national-univ-english-doctoral, focus: 日本国立大学英文博士项目官方页（东京/京都/大阪/东北/名古屋/九州/北海道/筑波等）及 MEXT 大学推荐名额, last_run: 2000-01-01, added: 0}
+  - {id: korea-taiwan-intl-phd-scholarships, focus: 韩国（KAIST/SNU/POSTECH/UNIST/DGIST/GIST）与台湾（TIGP/NTU/NTHU/NYCU/Academia Sinica）国际博士奖学金官方页, last_run: 2026-10-18, added: 1}
+  - {id: canada-quebec-francophone-phd-funding, focus: 魁北克法语高校（Montréal、Laval、Sherbrooke、UQAM、INRS）与 FRQ 的国际博士资助与豁免国际学费政策官方页, last_run: 2000-01-01, added: 0}
+  - {id: github-curated-phd-position-lists-2026, focus: GitHub 上 2026 年仍在更新的博士/博后岗位汇总仓库与 awesome 列表（需仓库最近有提交，且每条链接指向官方页面）, last_run: 2026-10-18, added: 0}
+  - {id: erc-sh-social-humanities-project-sites, focus: ERC 社科与人文方向（SH1–SH6）项目官网与承担高校的博士/博后岗位页（需 2026–27 在招，且有资助信息）, last_run: 2026-10-18, added: 2}
+  - {id: erc-pe-physical-engineering-project-sites, focus: ERC 物理与工程方向（PE1–PE11）项目官网与承担高校的博士/博后岗位页（需 2026–27 在招，且有资助信息）, last_run: 2026-10-18, added: 1}
+  - {id: erc-le-life-sciences-project-sites, focus: ERC 生命科学方向（LS1–LS9）项目官网与承担高校的博士/博后岗位页（需 2026–27 在招，且有资助信息）, last_run: 2000-01-01, added: 0}

@@ -1,0 +1,27 @@
+# Jekyll 配置：把 _data/sources.yml 渲染成 GitHub Pages 网页版信源表
+title: 海外带奖 PhD 信源库
+description: >-
+  为中国学生整理的国外带奖学金 / 带薪 PhD 信源：聚合平台、各国招聘门户、
+  政府与高校奖学金、结构化博士项目、导师招生汇总与个人渠道。
+baseurl: "/PhDRadar"  # 与仓库名一致；若改名请同步修改
+url: "https://pingfanfan.github.io"
+github_username: pingfanfan
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+exclude:
+  - CLAUDE.md
+  - CONTRIBUTING.md
+  - scripts/
+  - scrapers/
+  - tests/
+  - data/
+  - reports/source-health.json
+  - requirements.txt
+  - .claude/
+  - .github/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/

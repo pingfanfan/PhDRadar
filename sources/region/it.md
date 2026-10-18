@@ -1,0 +1,93 @@
+<!-- 本文件由 scripts/build_sources.py 自动生成，请勿手动编辑；数据见 _data/sources.yml 与 _data/sources_extra/ -->
+
+[← 总目录](../../SOURCES.md)
+
+# 意大利（IT） 信源（39）
+
+所有标注了地区 IT 的信源，共 39 条。
+
+图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
+
+**按分类跳转：** [政府与国家级奖学金 1](it.md#gov-scholarships) · [高校旗舰奖学金与资助检索 7](it.md#university-schemes) · [结构化博士项目与研究机构 20](it.md#doctoral-programs) · [博士后奖学金与项目 7](it.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](it.md#fellowships) · [个人信源与社交渠道 3](it.md#people-channels)
+
+<a id="gov-scholarships"></a>
+
+## 政府与国家级奖学金（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [米兰理工大学 CSC 博士奖学金](https://www.polimi.it/en/phd/prospective-phd-candidates/international-agreements/china-scholarship-council-1)<br><sub>意大利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | **2027-02-01**<br><sub>🔜 即将开放</sub><br><sub>官网称 2026 轮申请窗口为 2026 年 11 月 1 日至 2027 年 2 月 1 日，仅此窗口内提交的申请有效。</sub> | ✅ | **要求：** 仅限新申请全日制博士的候选人（不含在读博士与访问学者）；需提交成绩单、学位证（附意大利语或英语译本）与推荐信；录取以 CSC 资助获批为前提<br>仅限中国国籍的新申请全日制博士；须先获博士学院预录取函，获邀后再经 CSC 渠道申请资助。页面称预录取含学费减免，并为合作渠道受资助者提供 5000 欧研究经费。 |
+
+<a id="university-schemes"></a>
+
+## 高校旗舰奖学金与资助检索（7）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [ICTP 研究生文凭项目（Postgraduate Diploma，为博士过渡）](https://2022.ictp.it/sites/default/files/attachments/Poster_DP_Academic_years_2026_2027_0.pdf)<br><sub>意大利 ｜ 物理/天文·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-02-28**<br><sub>⏸ 本轮已截止</sub><br><sub>官方 2026–27 学年征集海报标注截止为 2026 年 2 月 28 日，已过；该海报中未出现原记录的延长至 3 月 15 日。</sub> | ❔ | **要求：** 约等于理学硕士的物理、数学或相关学位，英语流利；面向发展中国家学生（以官网为准）<br>ICTP 研究生文凭项目（Postgraduate Diploma），面向发展中国家学生，为攻读博士做准备，设高能与宇宙、凝聚态、地球系统、数学、定量生命科学五个方向。2026–27 学年征集已截止。 |
+| [博洛尼亚大学 CSC 联合博士选拔页](https://www.unibo.it/en/teaching/phd/information-enrolling-phd-programme/phd-programmes-in-collaboration-with-china-scholarship-council)<br><sub>意大利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 轮截止 2026-01-12（已过）；2027/28 轮未见公告，关注博洛尼亚大学博士项目门户</sub> | ✅ | **要求：** 中国公民；硕士学位；先经博洛尼亚大学线上预选，通过后再向 CSC 申请生活费<br>两阶段：先在博洛尼亚大学线上预选，再向 CSC 申请生活费；各项目截止不同，适合先找导师再申请. |
+| [米兰理工博士院招生公告](https://www.dottorato.polimi.it/)<br><sub>意大利 ｜ 工程·计算机·人工智能·数学/统计·物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | —<br><sub>2027 轮公告未找到；最近可见为第 41 期（2025）竞赛公告，请以官网当年公告为准</sub> | ✅ | 官网称博士招生公告全年陆续发布，平均每年约五个；博士奖学金以月均金额计，页面未给出具体金额。 |
+| [米兰理工大学 CSC 博士申请通道](https://www.polimi.it/dottorato/futuri-dottorandi/accordi-internazionali/china-scholarship-council)<br><sub>意大利 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | **2027-02-01**<br><sub>🔜 即将开放</sub><br><sub>官网称申请自 2026 年 11 月 1 日开放，至 2027 年 2 月 1 日截止。</sub> | ✅ | **要求：** 仅限中国公民申请全日制博士；需成绩单、学位证及推荐信；录取以获得 CSC 奖学金为条件<br>米兰理工与 CSC 有协议，中国国籍的新申请全日制博士可经此通道申请；预录取以 CSC 资助获批为条件，页面称学费减免并为合作渠道受资助者提供 5000 欧研究经费。 |
+| [贝加莫大学 CSC 博士项目](https://www.unibg.it/node/18193)<br><sub>意大利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-01-31**<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 学年预选截止 2026-01-31；页面未见 2027/28 轮次公告。</sub> | ✅ | **要求：** 中国大陆国籍；须通过贝加莫博士录取并获 CSC 资助<br>贝加莫大学接收 CSC 资助博士生，仅录取获 CSC 奖学金的候选人；流程为校内网上预选（2026/27 学年申请期 2025-11-01 至 2026-01-31），通过后再由 CSC 评审。 |
+| [那不勒斯费德里科二世大学人文系 CSC 博士预选](https://www.dottoratostoria.unina.it/?p=1508)<br><sub>意大利 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2025-04-01**<br><sub>⏸ 本轮已截止</sub><br><sub>2025-2026 学年 CSC 预选：提交截止 2025-03-10，CSC 申请截止 2025-04-01（已过）；页面未见 2027 轮公告</sub> | ✅ | 页面为 2025-2026 学年 CSC 博士预选公告（人文系：历史、哲学、语文学、数字人文），申请人需发送材料至两位教授邮箱，经指导委员会面试选拔。 |
+| [都灵理工大学 CSC 博士预选](https://www.polito.it/en/education/phd-programmes-and-postgraduate-school/admissions-to-phd-programmes/admissions/call-for-applications-csc)<br><sub>意大利 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2025-12-10**<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 轮于 2025-12-10 截止（已过）；下一轮未公布，关注官网 Call for Applications</sub> | ✅ | **要求：** 中国大陆公民；工程、建筑、设计、城规方向；先通过 PoliTO 线上预选并获邀请函，再向 CSC 申请<br>页面称 PoliTO 与 CSC 的合作协议有效期为 2026-2027 学年，博士课程 2026 年 11 月 1 日开始；选拔分两步，先在 PoliTO 线上预选，再向 CSC 申请。页面未载明申请截止日期。 |
+
+<a id="doctoral-programs"></a>
+
+## 结构化博士项目与研究机构（20）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Human Technopole SEMM 系统医学 PhD 奖学金（含计算生物）](https://humantechnopole.it/en/news/4-fully-funded-phd-scholarships-in-systems-medicine/)<br><sub>意大利 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-06-10**<br><sub>⏸ 本轮已截止</sub><br><sub>页面写明申请截止为 2026 年 6 月 10 日，本轮已过；页面未列出下一轮日期。</sub> | ✅ | **要求：** 相关领域硕士学位；方向包括计算生物、功能基因组学、群体与医学基因组学<br>页面称 SEMM 系统医学博士项目提供至多 4 个全额奖学金（含计算生物方向），向意大利及国外毕业生开放，并写明不因国籍筛选。 |
+| [ICTP 博士与 sandwich 项目（发展中国家博士生）](https://ictp.it/sti/phd-and-sandwich-programmes)<br><sub>意大利·全球 ｜ 物理/天文·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>页面写明征集时间为 To be announced，未见 2026 轮截止信息；以 ICTP 官网公告为准。</sub> | ❔ | **要求：** 面向发展中国家攻读博士学位的学生，需在本国大学注册；中国大陆是否属于资格国家需向 ICTP 核实。<br>STEP 访问研究项目：博士在本国大学注册，每年赴 ICTP 或合作机构访问 3–6 个月，最多 3 年；限物理与数学相关方向。 |
+| [IEO / SEMM 欧洲分子医学研究生院 PhD 招生](https://www.research.ieo.it/highlights/phd-applications-are-now-open/)<br><sub>意大利 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年春季（6 月 10 日）、夏季（9 月 7 日）及医师科学家（9 月 16 日）轮次均已截止；2027 轮待公告</sub> | ❔ | 页面为 2025 年招生公告，称 SEMM 提供 10 个博士名额，截止日期为 2025 年 6 月 9 日；页面未列出 2026 年各轮信息。 |
+| [IFOM 癌症生物学博士项目（米兰）](https://ifom.eu/en/training/phd-cancer-biology.php)<br><sub>意大利 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 滚动<br><sub>🔄 随时可申</sub><br><sub>官网称全年接受申请，按开设职位评审，无统一截止；以 IFOM 官网申请页为准。</sub> | ✅ | **要求：** 官网称项目向来自各国的学生开放；由 IFOM 直接遴选，按在招职位申请<br>英文授课 4 年全额资助，学位由英国开放大学授予。 |
+| [IUSS Pavia 博士第 XLII 期（2026/27）招生公告](https://www.iusspavia.it/sites/default/files/2026-05/Bando%20PhD%20XLII_sito.pdf)<br><sub>意大利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>XLII（2026/27）共 23 个名额，截止日以各课程 scheda 为准；搜索未能证实原记录的具体截止时间。下一期预计 2027 年春，以官网为准。</sub> | ❔ | **要求：** 硕士或同等学历；国际生需学历认证，具体以公告正文为准。<br>页面列出 23 个博士名额（第 XLII 期，2026/27），报名自 2026 年 5 月 11 日起，截止日以各课程 scheda 为准；选拔向“不限国籍”的申请者开放（senza limitazioni di cittadinanza）。 |
+| [SISSA 的里雅斯特国际高等研究院博士招生](https://www.sissa.it/bandi/ammissione-ai-corsi-di-phd-della-sissa-lanno-accademico-202627-admission-sissa-phd-courses)<br><sub>意大利 ｜ 数学/统计·物理/天文·神经/认知·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 各方向截止不同，最晚为 2026-08-27（已过）；下一轮以官网公告为准。</sub> | ❔ | **要求：** 官网写明欢迎欧盟外学生申请；具体资格以各方向公告为准。<br>页面标注 Status: Open，发布期至 2026-12-31，并写明欢迎欧盟外学生申请；但正文列出的各方向截止最晚为 2026-08-27（第二轮），已过。 |
+| [SISSA（特里雅斯特）博士 2026/27 意大利语招生公告](https://www2.sissa.it/sites/default/files/2025-12/Bando_Italiano_2026_27.pdf)<br><sub>意大利 ｜ 物理/天文·数学/统计·神经/认知·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€16,242.96 / 年（lordo，税前）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>公告发布于2025年12月；SISSA 通常每年冬季发布、次年春季截止。截止日期请以正文为准。</sub> | ✅ | **要求：** 硕士或同等学历；国际生可申请英文版（同一项目），需确认学历认证要求。<br>页面为 SISSA 2026/27 Philosophiae Doctor 招生公告，列出多个方向及名额；称candidati无年龄与国籍限制。正文未列出截止日期，以 sissa.it 为准。 |
+| [南方高等研究院（SSM）博士招生](https://www.ssmeridionale.it/wp-content/uploads/2026/03/Pre-Announcement-PhD_XLII-cycle.pdf)<br><sub>意大利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>毛额年 €19,000（含应由受助人承担的社保；预公告注明该金额指第 41 轮，可能调整）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>XLII 轮在线申请截止为 2026-08-27 14:00（CET，已过）；下一轮（XLIII）官网通常 5–6 月公告，截止时间待公布。</sub> | ✅ | 页面（XLII 轮预公告）称共 10 个四年制博士项目，每个项目至少 3 个带奖学金名额；入学不收学费（地区学生权利费除外）；正式公告页面注明将于 2026 年 5–6 月发布，以官网为准。 |
+| [博洛尼亚大学 FishMed 地中海渔业与海洋生物资源博士（2026–27）](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/innovative-technologies-and-sustainable-use-of-mediterranean-sea-fishery-and-biological-resources-fishmed-phd)<br><sub>意大利 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€1,350/月（税后净额）</sub> | **2026-06-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2026–27 轮两批截止（3 月 30 日、6 月 15 日）均已过；下一轮以官网公告为准</sub> | ❔ | 博洛尼亚大学 FishMed 博士项目（Fano 中心，学制 3 年，含 3 个月境外交流），授课语言为英语和意大利语。2026–27 轮两批截止（3 月 30 日、6 月 15 日）均已过；奖学金为每月 €1,350 税后净额，以官网为准。 |
+| [博洛尼亚大学公共治理、管理与政策博士（Public-GoMaP）](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/public-governance-management-e-policy-public-gomap-1)<br><sub>意大利 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>最低净津贴约 €1,250/月（2026–27 轮；部分岗位无奖学金，以官网岗位表为准）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026–27 轮第二批截止 2026-06-15（已结束）；第 43 轮以官网公告为准</sub> | ❔ | **要求：** 三年制博士，英文与意大利文授课；部分岗位无奖学金<br>三年制博士，2026–27 轮两批次申请均已截止（第二批 6 月 15 日）。仅部分岗位有奖学金，最低净津贴约 €1,250/月，是否全额资助以具体岗位为准。下一周期以官网公告为准。 |
+| [尼斯蔚蓝海岸大学与圣安娜大学国际经济学博士（ELMI）全额奖学金](https://www.santannapisa.it/en/formazione/international-doctoral-programme-economics)<br><sub>法国·意大利 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>€2,836/月（税前）</sub> | **2026-04-15**<br><sub>⏸ 本轮已截止</sub><br><sub>Sant'Anna 2026/27 批次截止 2026 年 4 月 15 日已过；下一轮预计 2027 年初发布，以官网为准</sub> | ❔ | **要求：** 需硕士学位（或 2026 年 9 月 30 日前可取得）；国籍限制未核实<br>Sant'Anna 与 UniCA 合办的 4 年制国际经济学博士，页面为 2026/2027 批次，申请截止 2026 年 4 月 15 日中午 12 点（CEST），已过。页面未载明奖学金金额、名额与国籍要求。 |
+| [布鲁诺·凯斯勒基金会（FBK）国际博士项目](https://phd.fbk.eu/calls/)<br><sub>意大利 ｜ 计算机·人工智能·物理/天文·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面显示当前无开放征集（STAY TUNED!），下一轮截止时间未公布</sub> | ❔ | **要求：** 此页面未列出申请条件，以具体征集公告为准。<br>FBK 国际博士项目（International PhD Program）征集页面：目前无开放征集，页面提供过往征集档案。页面称征集公告涵盖博士项目、岗位与奖学金，下一轮时间未在页面公布。 |
+| [意大利国家 AI 博士项目（比萨 Society 方向）](https://phd-ai-society.di.unipi.it/)<br><sub>意大利 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>公开的 PhD-AI.it 招生公告显示部分奖学金由 PNRR 资助，截止日以当年公告为准</sub> | ✅ | 由比萨大学牵头的意大利国家人工智能博士项目（PhD-AI.it）「AI for Society」方向，3 年制、英语授课，所属联盟汇集 60 多所大学与研究机构。 |
+| [意大利理工学院（IIT）CCHT 博士项目](https://ccht.iit.it/doctoral-programme)<br><sub>意大利 ｜ 工程·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-05-06**<br><sub>⏸ 本轮已截止</sub><br><sub>页面列出的 CCHT 博士奖学金申请截止 2026 年 5 月 6 日（已过）；未见下一轮公告。</sub> | ❔ | 页面列出 CCHT 资助的博士奖学金，学籍在威尼斯 Ca' Foscari 大学（2027–2030 学年，3 年），含多个研究方向；申请前需先联系 ccht@iit.it 确定研究方案。 |
+| [比萨高等师范学院 SNS 博士招生](https://www.sns.it/en/phd-admission-competition)<br><sub>意大利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>第 42 期（2026–27）首轮申请截止 2026-02-19（已过）；下一期（2027–28）待公告</sub> | ✅ | **要求：** 非意大利籍可申请；需外国硕士学位（5 年内获得，或 2026-10-31 前获得）；不得持有博士学位或已获意大利博士奖学金<br>页面称所有博士课程对意大利籍和非意大利籍学生开放，录取者均获奖学金并含住宿相关支持，免注册费。第 42 期（2026–27）各轮截止最晚为 2026-08-03，均已过。 |
+| [比萨高等师范学院（SNS）博士招生公告](https://www.sns.it/sites/default/files/2026-02/bando_phd_2026-27_let-rettificato_0.pdf)<br><sub>意大利 ｜ 人文/语言·全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>第 42 期（2026–27）Lettere 轮申请截止为 2026-04-10（周五，页面称“data di scadenza del concorso”），已过。</sub> | ✅ | **要求：** 需持意大利硕士（Laurea Magistrale）或同等外国学位，且学位在截止前 5 年内获得（或预计 2026-10-31 前获得）；国籍不限。<br>第 42 期（2026–27）Lettere 轮共 28 个博士名额，课程四年制，2026-11-01 开学；学费免除并提供奖学金，外国大学学位持有者另有保留名额。截止 2026-04-10 已过。 |
+| [特伦托大学 · FEM 研究所联合博士项目（第 42 届，农业食品与环境科学）](https://www.unitn.it/sites/default/files/2026-04/SAA_bando_42_ITA_0.pdf)<br><sub>意大利 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-05-28**<br><sub>⏸ 本轮已截止</sub><br><sub>第 42 届截止 2026-05-28 已过；第 43 届预计春季发布，尚未公告</sub> | ❔ | 9 个奖学金名额，其中 7 个对应特定课题；需核实当期 bando 是否接受外国申请人。 |
+| [特伦托大学国际研究博士（第 42 周期，5 个奖学金）](https://www.unitn.it/sites/default/files/2026-03/Call_International_Studies_cycle42.pdf)<br><sub>意大利 ｜ 社会科学/心理·人文/语言·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>年税前 18,345 欧元（Tier I），3 年</sub> | **2026-05-14**<br><sub>⏸ 本轮已截止</sub><br><sub>第 42 周期截止 2026 年 5 月 14 日；页面未提供第 43 周期信息</sub> | ✅ | 第 42 周期（2026/27 学年）提供 5 个奖学金与 6 个名额，年税前奖学金 18,345 欧元（Tier I），期限 3 年；官方语言为英语。截止 2026 年 5 月 14 日已过。 |
+| [米兰理工大学博士招生公告（Calls and open positions）](https://www.polimi.it/en/phd/prospective-phd-candidates/admission/calls-and-open-positions)<br><sub>意大利 ｜ 工程·化学/材料</sub> | 博士 | 力度未注明 | **2027-01-14**<br><sub>🔜 即将开放</sub><br><sub>第 42 届第 2 轮 2026-09-18 已截止；第 3 轮截止 2027-01-14（约 12-14 公告）；第 4 轮截止 2027-04-15</sub> | ❔ | **要求：** 申请前需在 Online Services 注册；学历与语言要求以各项目公告为准<br>米兰理工博士按轮次（call）招生，各项目名额列在公告正文中。第 2 轮已于 2026-09-18 截止，下一截止为第 3 轮 2027-01-14。 |
+| [都灵理工大学第 42 周期博士招生第二批次](https://www.polito.it/didattica/dottorato-di-ricerca-e-scuola-di-specializzazione/ammissione-al-dottorato/ammissione/bando-di-concorso)<br><sub>意大利 ｜ 工程·人工智能·计算机</sub> | 博士 | 视项目而定 | **2026-11-16**<br><sub>🟢 开放申请</sub><br><sub>第二批 2026-10-15 开放，2026-11-16 14:00（CET）截止，2027-03-01 开课；有奖学金与无奖学金岗位分列，需逐项确认</sub> | ❔ | **要求：** 需 Laurea Magistrale 或同等学位，并提交 B2 级英语证明（据官方 bando 摘要）<br>第 42 周期分三批录取，第二批 2026-10-15 开放、2026-11-16 截止、课程 2027-03-01 开始；有奖学金与无奖学金岗位分列，需在分表中逐项确认，并提交学位认证材料。 |
+
+<a id="postdoc-fellowships"></a>
+
+## 博士后奖学金与项目（7）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [AIRC 癌症研究短期海外访学（Short-term Fellowships）](https://www.direzionescientifica.airc.it/other-funding-opportunities/)<br><sub>意大利 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 半奖/部分 | **2026-09-30**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 年 1–4 月出发的一轮截止于 2026-09-30 已过；下一轮预计 2027 年初发布</sub> | ❔ | **要求：** 页面称向所有国籍开放，通常需在意大利实验室工作；资助 1–3 个月海外访学<br>短期海外访学，不是全职博后；同一年度只能申请一项 AIRC 资助。 |
+| [I Tatti 2027-28 艺术史研究员资助](https://itatti.harvard.edu/node/12544)<br><sub>意大利 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明<br><sub>Berenson 研究员 USD 5,200/月（据公告摘要，需核实）</sub> | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>2027/28 学年：年度研究员 10 月 15 日已截止；学期类研究员 11 月 16 日、I Tatti/Dumbarton Oaks 联合研究员 11 月 1 日截止（2026 年 9 月 3 日官网公告）。</sub> | ❔ | **要求：** 需已获博士学位；研究方向为意大利文艺复兴（约 14–17 世纪）；每学年每人仅可申请一类研究员<br>2027/28 学年申请已开放。年度研究员 10 月 15 日截止（已过），联合研究员 11 月 1 日，学期类研究员 11 月 16 日（均据官网公告）。国籍条件未见官方说明，仍标 check。 |
+| [ICTP 博士后职位（的里雅斯特）](https://www.ictp.it/home/postdoctoral-opportunities)<br><sub>意大利 ｜ 物理/天文·数学/统计·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>页面列出 2027 数学博后截止 2026 年 12 月 13 日；多数其他岗位标注 Call To be announced，以官网为准。</sub> | ❔ | **要求：** 需已获相应博士学位；需三封推荐信，通过 ICTP 在线系统申请<br>ICTP 博士后机会索引页，列出凝聚态、数学、地球系统、定量生命科学等方向的博后，页面写明通常为两年期（可延 12 个月）。页面显示 2027 数学博后仍在征集。 |
+| [ICTP 数学博士后（的里雅斯特，2026 轮）](https://2022.ictp.it/opportunity/mathematics-postdoctoral-positions-2026)<br><sub>意大利 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>免税月津贴 EUR 2100–2300（依资历）</sub> | **2026-12-13**<br><sub>🟢 开放申请</sub><br><sub>页面显示 2027 年起始的数学博后正在接受申请，申请截止 2026 年 12 月 13 日；原记录的 2026 轮（1 月 6 日截止）已过。</sub> | ❔ | **要求：** 入职前取得数学博士学位；需 3 封推荐信，通过 ICTP 在线系统申请；页面写明优先考虑来自或在发展中国家工作的候选人<br>页面为 2027 年起始的数学博后，两年期（可延 12 个月），需入职前已取得数学博士学位，经 ICTP 在线系统申请。页面写明优先考虑来自并在发展中国家工作的候选人，中国大陆是否符合以官网为准。条目 URL 指向的 2026 页面已跳转至 2027 页面。 |
+| [威尼斯 Ca' Foscari 大学 MSCA 博士后奖学金宿主页](https://www.unive.it/pag/47818/)<br><sub>意大利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | **2027-09-08**<br><sub>🔜 即将开放</sub><br><sub>2026 轮 9 月 9 日截止（已过）；2027 轮 4 月 7 日开放、9 月 8 日截止（据 Ca' Foscari 页面）。宿主需先与校内学者达成合作，再联系 mariecurie@unive.it。</sub> | ✅ | **要求：** 2027 轮：申请人不得在 2024 年 9 月 8 日至 2027 年 9 月 8 日期间在意大利居住或开展主要活动（欧洲奖学金）；全球奖学金另需为欧盟成员国或 Horizon Europe 准成员国的国民或长期居民。<br>Ca' Foscari 作为 MSCA PF 宿主的说明页：2027 轮 4 月 7 日开放、9 月 8 日截止；需先与校内学者达成合作，再联系 mariecurie@unive.it。 |
+| [意大利 Rita Levi Montalcini 项目](https://www.unifi.it/en/news/rita-levi-montalcini-programme-call-applications-online)<br><sub>意大利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面为 2022–2024 轮公告（截止 1 月 15 日，发布于 2024 年 12 月 19 日）；页面未显示之后各轮。</sub> | ❔ | **要求：** 2022–2024 轮：博士学位须于 2016 年 10 月 31 日后、2021 年 10 月 31 日前获得，且在海外从事教学或博后研究至少 3 年（每轮以公告为准）。<br>面向海外工作的研究者，由意大利公立大学聘为固定期限研究员（按合同领取薪酬）。MUR 页面可见 2022–2024 轮，未见 2026 年新轮公告，需到 MUR 页面核实当期情况。 |
+| [欧洲大学研究院（EUI）马克斯·韦伯博士后项目](https://www.eui.eu/documents/mwp/publications/mwpleafleta4web.pdf)<br><sub>意大利 ｜ 经济/金融·社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | —<br><sub>页面（传单）称每年 10 月 25 日为申请截止日；具体年份以官网 How to Apply 页面为准。</sub> | ❔ | **要求：** 在项目开始时（9 月 1 日）博士论文已正式提交并被接受答辩；获博士学位后五年内均有资格申请。<br>面向经济、历史、法律、政治与社会科学领域近期获博士学位者的 1–2 年博士后项目，英语为工作语言，设在 Villa La Fonte（Fiesole）。页面称每年 10 月 25 日为申请截止日。 |
+
+<a id="fellowships"></a>
+
+## 企业与基金会 Fellowship（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Census Fellowship in the Reception of Antiquity（洪堡大学 / 沃伯格 / Hertziana）](https://www.biblhertz.it/3807501/Census-of-the-Reception-of-Antique-Art-and-Architecture)<br><sub>意大利·德国·英国 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 仅生活费<br><sub>约 €1,500/月（博士阶段，6 个月）+ €500 差旅补助</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026-01-31 轮已截止；2027 轮未见公告</sub> | ❔ | 页面（2026 年）称该项目已更名为 Census of the Reception of Antique Art and Architecture，由洪堡大学、Bibliotheca Hertziana 与 Warburg Institute 共同资助。页面未列出金额与申请截止。 |
+
+<a id="people-channels"></a>
+
+## 个人信源与社交渠道（3）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [CNR 意大利科学技术研究所（ISTC）招聘页](https://istc.cnr.it/en/opportunities/vacancies)<br><sub>意大利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** MSCA 博士岗需未持博士学位并满足流动性规则<br>页面为 CNR-ISTC 招聘列表（Bandi di concorso），列出博后合同与研究奖学金，最晚截止日为 2026 年 5 月 29 日；页面上未见博士岗位。是否对中国大陆申请者开放需逐条确认。 |
+| [HCItaly 邮件列表（意大利 HCI 社区公告归档）](https://mailman.isti.cnr.it/hyperkitty/list/hcitaly@isti.cnr.it/2024/4)<br><sub>意大利 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 无统一申请条件；以转发岗位的具体邮件为准。<br>官方邮件归档页（2024 年 4 月）可见转发的博士岗位信息（申请截止 2024 年 5 月 3 日）；本页为 2024 年 4 月归档，正文未显示 2025 年或之后的邮件内容，持续性需订阅后确认。 |
+| [IIT 协作技术认知架构实验室招聘页](https://www.iit.it/en/web/cognitive-architecture-for-collaborative-technologies/openings)<br><sub>意大利 ｜ 计算机·人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面称本年度博士申请已关闭，博士后目前无开放岗位；请关注后续公告。</sub> | ❔ | IIT 下属实验室招聘页（人机协作与认知机器人方向）。页面称博士通过热那亚大学 Bioengineering and Robotics 博士学校招收，本年度博士申请已关闭。 |
+

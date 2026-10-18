@@ -1,0 +1,58 @@
+name: sources
+
+# 省 Actions 分钟数：研究员/核实员每小时推送几十次，逐次推送触发会耗尽免费额度（私有仓库每月 2000 分钟）。
+# 他们提交前已在本地跑过测试与校验；这里改为每 6 小时统一生成一次阅读页面与导出数据。
+on:
+  schedule:
+    - cron: "37 */6 * * *"
+  workflow_dispatch:
+  pull_request:
+
+permissions:
+  contents: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt pytest
+      - name: 校验数据
+        run: python scripts/build_sources.py --validate-only
+      - name: 离线测试
+        run: python -m pytest -q tests
+
+  render:
+    # SOURCES.md、sources/ 分页、README 统计、首页 SVG（docs/assets）与 data/export 由这里统一生成并提交（研究员会话不提交这些文件，避免并行冲突）
+    needs: validate
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    concurrency:
+      group: render-sources
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: 生成阅读页面与导出数据并提交
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for i in 1 2 3; do
+            git pull --rebase -q || git rebase --abort
+            python scripts/build_sources.py
+            python scripts/export_data.py
+            python scripts/build_open.py   # 截止日已过的“现在可申请”条目自动移出
+            python scripts/build_site.py
+            git add SOURCES.md sources README.md docs/assets data/export OPEN.md index.html assets/catalog.json
+            git diff --cached --quiet && exit 0
+            git commit -q -m "Regenerate reading pages and data exports"
+            git push && exit 0
+            git reset -q --hard HEAD~1
+            sleep 5
+          done

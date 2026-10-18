@@ -1,0 +1,57 @@
+name: postings
+
+# 采集招聘平台上的具体岗位（scripts/collect_postings.py）。只手动触发，不随推送运行，省 Actions 分钟数。
+on:
+  workflow_dispatch:
+    inputs:
+      sources:
+        description: "平台，逗号分隔（findaphd / jobs-ac-uk / academictransfer）"
+        default: "findaphd"
+      max_details:
+        description: "每个平台最多读多少个详情页"
+        default: "3000"
+      dry_run:
+        description: "只打印统计、不提交（true/false）"
+        default: "false"
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    concurrency:
+      group: postings
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: 连通性检查
+        run: |
+          for u in "https://www.findaphd.com/robots.txt" "https://www.findaphd.com/sitemap.ashx?sitemap-projects-0.xml.gz"; do
+            echo "$u -> $(curl -s -o /tmp/probe.out -m 30 -w '%{http_code} %{content_type} %{size_download}' "$u")"
+            head -c 600 /tmp/probe.out | (zcat 2>/dev/null || cat) | head -c 600; echo
+          done
+      - name: 采集
+        run: |
+          python scripts/collect_postings.py -s "${{ inputs.sources }}" --max-details "${{ inputs.max_details }}" \
+            --save-samples 5 $([ "${{ inputs.dry_run }}" = "true" ] && echo --dry-run) | tee -a "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: samples
+          path: research/inbox/samples/
+          if-no-files-found: ignore
+      - name: 提交
+        if: inputs.dry_run != 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _data/postings.yml 2>/dev/null || exit 0
+          git diff --cached --quiet && exit 0
+          git commit -m "岗位采集：${{ inputs.sources }}"
+          git pull --rebase && git push

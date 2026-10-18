@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<!-- 本文件由 scripts/build_site.py 自动生成，请勿手动编辑 -->
+<title>海外带奖 PhD / 博后信源库</title>
+<meta name="description" content="为中国学生整理的海外带奖博士与博士后机会。每条附官网原句，默认只展示已按官网核对的条目。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@700&family=Noto+Sans+SC:wght@400;500;700&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* 布局：顶部说明 + 筛选条 + 卡片网格；窄屏单列 */
+:root{
+  --bg:#f3f4f6; --surface:#ffffff; --ink:#18212b; --muted:#5c6774; --line:#d8dce2;
+  --accent:#2b4c9b; --accent-ink:#ffffff;
+  --ok:#1c7650; --ok-soft:#e3f2ea; --warn:#9a6300; --warn-soft:#f8eed9; --bad:#ad3636; --bad-soft:#f7e3e3;
+  --f-display:"Noto Serif SC","Songti SC","SimSun",serif;
+  --f-body:"Noto Sans SC","PingFang SC","Microsoft YaHei",system-ui,sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){:root{
+  --bg:#10151b; --surface:#171e27; --ink:#e6eaef; --muted:#9ba6b2; --line:#2a3440;
+  --accent:#8ea8ff; --accent-ink:#10151b;
+  --ok:#62c793; --ok-soft:#163327; --warn:#e2b45d; --warn-soft:#352a14; --bad:#f08c8c; --bad-soft:#3a1d1d;
+  color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.65}
+.wrap{max-width:1180px;margin:0 auto;padding-block:32px 64px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:18px}
+h1{font-family:var(--f-display);font-size:clamp(24px,3.6vw,32px);line-height:1.3;margin:0;text-wrap:balance}
+p{margin:0}
+.meta{font-size:13px;color:var(--muted)}
+.num{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
+.head{display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px 24px;align-items:flex-end}
+.head nav{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:13.5px}
+a{color:var(--accent)}
+.notice{border:1px solid var(--warn);background:var(--warn-soft);border-radius:8px;padding:10px 14px;font-size:13.5px}
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;position:sticky;top:env(safe-area-inset-top,0px);background:var(--bg);padding-block:10px;z-index:5}
+.search{flex:1 1 260px;min-width:0;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:8px;padding:9px 12px;font:inherit;font-size:14px}
+select{border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:8px;padding:8px 10px;font:inherit;font-size:13.5px;max-width:100%}
+.chip{border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;padding:6px 12px;font:inherit;font-size:13px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.chip:focus-visible,.search:focus-visible,select:focus-visible,a:focus-visible,.more:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.count{font-size:13px;color:var(--muted)}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:12px}
+.card{border:1px solid var(--line);border-radius:10px;padding:14px 16px;display:flex;flex-direction:column;gap:10px;min-width:0;background:var(--surface)}
+.card.unv{background:transparent;border-style:dashed}
+.top{display:flex;justify-content:space-between;gap:10px;align-items:flex-start}
+.card h2{margin:0;font-size:15px;line-height:1.45;font-weight:700}
+.tags{display:flex;flex-wrap:wrap;gap:6px}
+.tag{font-size:12px;border-radius:5px;padding:1px 7px;border:1px solid var(--line);color:var(--muted);white-space:nowrap}
+.pill{font-size:12px;border-radius:999px;padding:2px 9px;font-weight:600;white-space:nowrap}
+.p-ok{background:var(--ok-soft);color:var(--ok)} .p-warn{background:var(--warn-soft);color:var(--warn)}
+.p-bad{background:var(--bad-soft);color:var(--bad)} .p-mute{color:var(--muted);border:1px solid var(--line)}
+dl{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;font-size:13.5px;margin:0}
+dt{color:var(--muted)} dd{margin:0;min-width:0;overflow-wrap:anywhere}
+.due{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
+.due small{color:var(--muted);font-family:var(--f-body)}
+.proof{border-top:1px solid var(--line);padding-top:9px;font-size:12.5px;color:var(--muted);display:flex;flex-direction:column;gap:5px}
+.proof q{color:var(--ink);font-style:normal}
+.ok{color:var(--ok);font-weight:700} .no{color:var(--warn);font-weight:700}
+.go{font-size:13px;font-weight:600;text-decoration:none} .go:hover{text-decoration:underline}
+.more{align-self:center;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:8px;padding:9px 20px;font:inherit;cursor:pointer}
+.empty{color:var(--muted);padding:24px 0}
+footer{border-top:1px solid var(--line);padding-top:14px;font-size:12.5px;color:var(--muted);display:flex;flex-direction:column;gap:6px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="head">
+    <div style="display:flex;flex-direction:column;gap:6px">
+      <h1>海外带奖 PhD / 博后信源库</h1>
+      <p class="meta">现在可申请 <span class="num">__OPEN__</span> 条 · 已按官网核对 <span class="num">__VERIFIED__</span> 条 · 其中中国学生明确可申请 <span class="num">__VERIFIED_YES__</span> 条 · 全库 <span class="num">__TOTAL__</span> 条 · 更新于 __DATE__</p>
+    </div>
+    <nav>
+      <a href="docs/guide-cn.html">申请指南</a>
+      <a href="__REPO__/blob/main/SOURCES.md">分类目录</a>
+      <a href="__REPO__/tree/main/data/export">下载数据（CSV / JSON）</a>
+      <a href="__REPO__/issues">报告错误</a>
+    </nav>
+  </div>
+  <p class="notice">信息以各机构官网为准。已核对的条目都附有官网原句，申请前请打开官网确认最新要求。“资格待核实”表示官网没有明确写国际生能否获得资助，不代表可以申请。</p>
+
+  <div class="controls" role="search">
+    <input id="q" class="search" type="search" placeholder="搜索学校、项目、国家或学科，例如：香港、神经、博后" aria-label="搜索">
+    <button class="chip" id="f-now" aria-pressed="true">现在可申请</button>
+    <button class="chip" id="f-ver" aria-pressed="true">只看已核对</button>
+    <button class="chip" id="f-cn" aria-pressed="false">中国学生可申请</button>
+    <button class="chip" id="f-phd" aria-pressed="false">博士</button>
+    <button class="chip" id="f-pd" aria-pressed="false">博后</button>
+    <select id="region" aria-label="国家或地区"><option value="">全部地区</option></select>
+    <select id="disc" aria-label="学科"><option value="">全部学科</option></select>
+    <select id="sort" aria-label="排序"><option value="due">按截止日期</option><option value="name">按名称</option></select>
+  </div>
+  <div class="count" id="count">正在加载数据…</div>
+  <div class="cards" id="cards"></div>
+  <button class="more" id="more" hidden>显示更多</button>
+
+  <footer>
+    <p>本站由程序抓取官网正文并逐条核对，仍可能有遗漏或过期；发现错误请在 GitHub 提 Issue。本站与所列机构无关，不代表任何机构发布信息。</p>
+    <p>数据采用 CC BY 4.0（署名后可自由使用），代码按 MIT 许可，详见 <a href="__REPO__/blob/main/DATA-LICENSE.md">数据许可与免责声明</a>。源码：<a href="__REPO__">__REPO__</a></p>
+  </footer>
+</div>
+<script>
+const LABELS = __LABELS__;
+const PAGE = 60;
+const TODAY = new Date(new Date().toDateString());
+const state = {now:true,ver:true,cn:false,phd:false,pd:false,q:"",region:"",disc:"",sort:"due",shown:PAGE};
+let DATA = [];
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const isDate = d => /^\d{4}-\d{2}-\d{2}$/.test(d || "");
+function due(d){
+  if(!d) return '<small>官网未写明</small>';
+  if(!isDate(d)) return `<small>${esc(LABELS.deadline[d] || d)}</small>`;
+  const n = Math.round((new Date(d + "T00:00:00") - TODAY) / 864e5);
+  return `<span class="due">${d} <small>${n >= 0 ? `还有 ${n} 天` : "已过"}</small></span>`;
+}
+function isNow(x){
+  if(!x.o) return false;
+  return isDate(x.o.dl) ? new Date(x.o.dl + "T00:00:00") >= TODAY : true;
+}
+const dlOf = x => isNow(x) && x.o.dl ? x.o.dl : x.dl;
+function card(x){
+  const now = isNow(x);
+  const st = now ? (x.o.st === "upcoming" ? ["即将开放","p-warn"] : ["现在可申请","p-ok"]) : (LABELS.status[x.st] || ["状态未知","p-mute"]);
+  const d = dlOf(x);
+  const cn = LABELS.cn[x.e] || LABELS.cn.check;
+  const tags = [...(x.r || []).map(r => LABELS.region[r] || r), ...(x.l || []).map(l => LABELS.level[l] || l)]
+    .map(t => `<span class="tag">${esc(t)}</span>`).join("");
+  const rows = [`<dt>资助</dt><dd>${esc(LABELS.coverage[x.c] || "官网未写明")}</dd>`];
+  if(x.s) rows.push(`<dt>金额</dt><dd>${esc(x.s)}</dd>`);
+  if(now && x.o.op) rows.push(`<dt>开放</dt><dd>${esc(x.o.op)}</dd>`);
+  rows.push(`<dt>截止</dt><dd>${d === "rolling" ? "<small>滚动招生 / 招满为止</small>" : due(d)}${x.dn ? `<br><small style="color:var(--muted)">${esc(x.dn)}</small>` : ""}</dd>`);
+  if(x.rq) rows.push(`<dt>要求</dt><dd>${esc(x.rq)}</dd>`);
+  const proof = now
+    ? `<span class="ok">✓ ${esc(x.o.ck || "")} 打开官网确认${x.o.st === "upcoming" ? "即将开放" : "现在可申请"}</span>${x.o.q ? `<span>官网原句：<q>${esc(x.o.q)}</q></span>` : ""}`
+    : x.v
+    ? `<span class="ok">✓ 已按官网正文核对 · ${esc(x.vd || "")}</span>${x.pq ? `<span>官网原句：<q>${esc(x.pq)}</q></span>` : ""}`
+    : `<span class="no">未核对</span><span>以下信息未经官网正文核对，可能有误。</span>`;
+  return `<article class="card${x.v ? "" : " unv"}">
+    <div class="top"><h2>${esc(x.n)}</h2><span class="pill ${st[1]}">${esc(st[0])}</span></div>
+    <div class="tags">${tags}<span class="pill ${cn[1]}">${esc(cn[0])}</span></div>
+    <dl>${rows.join("")}</dl>
+    <div class="proof">${proof}<a class="go" href="${esc(x.u)}" target="_blank" rel="noopener">打开官网 ↗</a></div>
+  </article>`;
+}
+function filtered(){
+  const q = state.q.trim().toLowerCase();
+  const out = DATA.filter(x => {
+    if(state.now && !isNow(x)) return false;
+    if(state.ver && !x.v) return false;
+    if(state.cn && x.e !== "yes") return false;
+    const lv = x.l || [];
+    if(state.phd && !state.pd && !lv.includes("phd")) return false;
+    if(state.pd && !state.phd && !lv.includes("postdoc")) return false;
+    if(state.region && !(x.r || []).includes(state.region)) return false;
+    if(state.disc && !(x.d || []).includes(state.disc)) return false;
+    if(q && !x._hay.includes(q)) return false;
+    return true;
+  });
+  if(state.sort === "name") out.sort((a,b) => a.n.localeCompare(b.n, "zh"));
+  else out.sort((a,b) => {
+    const da = dlOf(a), db = dlOf(b);
+    const ka = isDate(da) && new Date(da) >= TODAY ? da : "9999";
+    const kb = isDate(db) && new Date(db) >= TODAY ? db : "9999";
+    return ka < kb ? -1 : ka > kb ? 1 : a.n.localeCompare(b.n, "zh");
+  });
+  return out;
+}
+function render(){
+  const list = filtered();
+  $("cards").innerHTML = list.length ? list.slice(0, state.shown).map(card).join("")
+    : '<div class="empty">没有符合条件的条目。可以放宽筛选，或关掉“现在可申请”“只看已核对”查看更多条目。</div>';
+  $("count").textContent = `共 ${list.length} 条符合条件` + (state.now ? "（只显示核实员确认现在可申请的；关掉“现在可申请”可查看全部已核对信源）" : state.ver ? "（只显示已核对；关掉“只看已核对”可查看全部）" : "");
+  $("more").hidden = list.length <= state.shown;
+}
+function bind(){
+  [["f-now","now"],["f-ver","ver"],["f-cn","cn"],["f-phd","phd"],["f-pd","pd"]].forEach(([id,k]) =>
+    $(id).addEventListener("click", () => { state[k] = !state[k]; $(id).setAttribute("aria-pressed", state[k]); state.shown = PAGE; render(); }));
+  $("q").addEventListener("input", e => { state.q = e.target.value; state.shown = PAGE; render(); });
+  ["region","disc","sort"].forEach(id => $(id).addEventListener("change", e => { state[id] = e.target.value; state.shown = PAGE; render(); }));
+  $("more").addEventListener("click", () => { state.shown += PAGE; render(); });
+}
+function fillSelect(id, counts, names){
+  const sel = $(id);
+  Object.entries(counts).sort((a,b) => b[1] - a[1]).forEach(([k,n]) => {
+    const o = document.createElement("option"); o.value = k; o.textContent = `${names[k] || k}（${n}）`; sel.appendChild(o);
+  });
+}
+bind();
+fetch("assets/catalog.json").then(r => r.json()).then(rows => {
+  DATA = rows.map(x => ({...x, _hay: [x.n, (x.r || []).map(r => LABELS.region[r] || r).join(" "),
+    (x.d || []).map(d => LABELS.discipline[d] || d).join(" "), x.s || ""].join(" ").toLowerCase()}));
+  const rc = {}, dc = {};
+  DATA.filter(x => x.v).forEach(x => { (x.r || []).forEach(r => rc[r] = (rc[r] || 0) + 1); (x.d || []).forEach(d => dc[d] = (dc[d] || 0) + 1); });
+  fillSelect("region", rc, LABELS.region); fillSelect("disc", dc, LABELS.discipline);
+  render();
+}).catch(() => { $("count").textContent = "数据加载失败，请刷新页面，或直接下载 CSV / JSON 数据。"; });
+</script>
+</body>
+</html>
