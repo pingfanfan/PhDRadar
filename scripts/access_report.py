@@ -31,6 +31,9 @@ from check_links import check_url  # noqa: E402
 from scrapers.common import USER_AGENT  # noqa: E402
 
 DOC = ROOT / "docs" / "access.md"
+# 公开仓库的 GitHub Actions 每天从另一个网络位置跑同样的检查（access.yml 工作流，--raw），结果在这里
+REMOTE = "https://raw.githubusercontent.com/pingfanfan/PhDRadar/main/reports/access-actions.json"
+RANK = {"ok": 0, "warn": 1, "dead": 2}
 JSON_OUT = ROOT / "reports" / "access.json"
 
 # 权威招聘平台：(名称, 页面, 程序要读的岗位页样例, 接入方式, 岗位清单里的 via 名, 未接入时的原因)
@@ -65,8 +68,11 @@ PLATFORMS = [
     ("FindAPostdoc", "https://www.findapostdoc.com/", "https://www.findapostdoc.com/", "", "", "所有程序访问返回 403"),
     ("Academic Positions", "https://academicpositions.com/", "https://academicpositions.com/jobs", "", "", "所有程序访问返回 403"),
     ("DAAD PhDGermany", "https://www.daad.de/en/studying-in-germany/phd-studies-research/phd-germany/",
-     "https://www.daad.de/en/studying-in-germany/phd-studies-research/phd-germany/detail/x-1/", "", "",
-     "允许访问，但资助说明是浏览器里动态加载的，程序读到的页面没有资助信息，无法核对"),
+     "https://www.daad.de/en/studying-in-germany/phd-studies-research/phd-germany/detail/x-1/?phd-id=1",
+     "列表页 + 岗位页（链接需带 phd-id）", "DAAD PhDGermany", ""),
+    ("德国联邦劳动局职位搜索接口", "https://jobsuche.api.bund.dev/",
+     "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobs?was=Doktorand&size=1", "", "",
+     "官方开放数据接口（bund.dev 公开文档）；本服务器访问被拒，看 GitHub Actions 上能否访问", {"X-API-Key": "jobboerse-jobsuche"}),
     ("Chronicle Jobs（美国）", "https://jobs.chronicle.com/", "https://jobs.chronicle.com/job/1/x/", "", "",
      "允许访问，但抽查 40 个岗位页都不写截止日期"),
     ("Inside Higher Ed Careers", "https://careers.insidehighered.com/", "https://careers.insidehighered.com/job/1/x/", "", "",
@@ -89,9 +95,9 @@ def robots_allows(url: str) -> tuple[bool | None, str]:
     return ok, ("允许" if ok else "禁止") + (f"，要求每 {delay} 秒一次" if delay else "")
 
 
-def page_status(url: str) -> str:
+def page_status(url: str, headers: dict | None = None) -> str:
     try:
-        r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=25, stream=True)
+        r = requests.get(url, headers={"User-Agent": USER_AGENT, **(headers or {})}, timeout=25, stream=True)
         r.close()
         return f"HTTP {r.status_code}"
     except requests.RequestException as e:
@@ -104,35 +110,54 @@ def check_platforms() -> list[dict]:
     live = Counter(p["via"] for p in postings if p.get("cn") != "no" and (p["deadline"] == "rolling" or p["deadline"] >= today))
 
     def one(row):
-        name, home, sample, method, via, why = row
+        name, home, sample, method, via, why, *extra = row
+        headers = extra[0] if extra else None
         ok, robots = robots_allows(sample)
         return {"name": name, "url": home, "method": method, "connected": bool(via), "postings": live.get(via, 0) if via else 0,
-                "robots": robots, "robots_ok": ok, "page": page_status(home), "why": why}
+                "robots": robots, "robots_ok": ok, "page": page_status(sample if headers else home, headers), "why": why}
 
     with ThreadPoolExecutor(max_workers=8) as pool:
         return list(pool.map(one, PLATFORMS))
+
+
+def own_ua(url: str) -> tuple[str, str]:
+    try:
+        r = requests.get(url, headers={"User-Agent": USER_AGENT, "Accept-Language": "en-US,en;q=0.9"}, timeout=25, stream=True)
+        r.close()
+    except requests.RequestException as e:
+        return "warn", type(e).__name__
+    if r.status_code < 400:
+        return "ok", f"HTTP {r.status_code}"
+    return ("dead" if r.status_code in (404, 410) else "warn"), f"HTTP {r.status_code}"
 
 
 def check_sources() -> dict[str, dict]:
     sources = [s for s in load_catalog()["sources"] if s.get("verify_method") == "page"]
 
     def one(s):
-        status, detail = check_url(s["url"])
+        status, detail = own_ua(s["url"])  # 先用本站的真实标识访问；打不开再按浏览器请求头试一次（check_links 的做法）
+        if status != "ok":
+            status2, detail2 = check_url(s["url"])
+            if RANK[status2] < RANK[status]:
+                status, detail = status2, detail2
         return s["id"], {"name": s["name"], "url": s["url"], "status": status, "detail": detail}
 
     with ThreadPoolExecutor(max_workers=16) as pool:
         return dict(pool.map(one, sources))
 
 
-def write_doc(platforms: list[dict], sources: dict[str, dict] | None, when: str) -> None:
-    lines = ["# 信源可访问性报告", "", f"更新于 {when[:16].replace('T', ' ')} UTC，由 `scripts/access_report.py` 从服务器实际访问生成。", "",
+def write_doc(platforms: list[dict], sources: dict[str, dict] | None, when: str, remote_when: str = "") -> None:
+    lines = ["# 信源可访问性报告", "", f"更新于 {when[:16].replace('T', ' ')} UTC，由 `scripts/access_report.py` 实际访问生成："
+             "从两个网络位置各访问一次（我们的服务器" + (f"，以及 GitHub Actions，{remote_when[:16].replace('T', ' ')} UTC" if remote_when else "")
+             + "），任一处能打开即算能打开。", "",
              "## 招聘平台：能否被程序接入", "",
              "我们只用平台允许的方式读取（遵守 robots.txt 与访问频率要求），不绕过拦截。", "",
-             "| 平台 | 状态 | 接入方式 | 当前收录岗位 | robots.txt | 首页访问 | 说明 |", "|---|---|---|---:|---|---|---|"]
+             "| 平台 | 状态 | 接入方式 | 当前收录岗位 | robots.txt | 访问（本服务器 / Actions） | 说明 |", "|---|---|---|---:|---|---|---|"]
     for p in sorted(platforms, key=lambda p: (not p["connected"], -p["postings"])):
-        state = "✅ 已接入" if p["connected"] else ("⛔ 不允许" if p["robots_ok"] is False or "403" in p["why"] else "⏸ 未接入")
+        refused = p["page"].startswith("HTTP 403") and (p.get("page_actions") or "HTTP 403").startswith("HTTP 403")
+        state = "✅ 已接入" if p["connected"] else ("⛔ 不允许" if p["robots_ok"] is False or refused else "⏸ 未接入")
         lines.append(f"| [{p['name']}]({p['url']}) | {state} | {p['method'] or '—'} | {p['postings'] or '—'} | {p['robots']} | "
-                     f"{p['page']} | {p['why'] or '—'} |")
+                     f"{p['page']} / {p.get('page_actions') or '—'} | {p['why'] or '—'} |")
     if sources is not None:
         c = Counter(v["status"] for v in sources.values())
         n = len(sources)
@@ -151,21 +176,49 @@ def write_doc(platforms: list[dict], sources: dict[str, dict] | None, when: str)
     DOC.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
+def remote_results() -> dict:
+    try:
+        r = requests.get(REMOTE, timeout=30)
+        return r.json() if r.status_code == 200 else {}
+    except (requests.RequestException, ValueError):
+        return {}
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--platforms", action="store_true", help="只检查招聘平台")
+    ap.add_argument("--raw", help="只把检查结果写到这个 JSON 文件（GitHub Actions 上用），不生成报告")
     args = ap.parse_args()
     when = datetime.now(timezone.utc).isoformat(timespec="seconds")
     platforms = check_platforms()
-    old = json.loads(JSON_OUT.read_text(encoding="utf-8")) if JSON_OUT.exists() else {}
     sources = None if args.platforms else check_sources()
+    if args.raw:
+        Path(args.raw).write_text(json.dumps({"generated_at": when, "platforms": platforms, "sources": sources or {}},
+                                             ensure_ascii=False, indent=1), encoding="utf-8")
+        print(f"原始结果 → {args.raw}")
+        return 0
+    old = json.loads(JSON_OUT.read_text(encoding="utf-8")) if JSON_OUT.exists() else {}
     if sources is None and old.get("sources"):
         sources = old["sources"]  # 只查平台时沿用上次的信源结果
-    JSON_OUT.write_text(json.dumps({"generated_at": when, "platforms": platforms, "sources": sources or {}},
-                                   ensure_ascii=False, indent=1), encoding="utf-8")
-    write_doc(platforms, sources, when)
+    remote = remote_results()
+    if remote:  # 存一份进主库：同步公开仓库（make_public.py）会整体覆盖，不存就会被冲掉
+        (ROOT / "reports" / "access-actions.json").write_text(json.dumps(remote, ensure_ascii=False, indent=1), encoding="utf-8")
+    for p in platforms:
+        rp = next((x for x in remote.get("platforms", []) if x["name"] == p["name"]), None)
+        p["page_actions"] = rp["page"] if rp else ""
+    for sid, v in (sources or {}).items():
+        rv = (remote.get("sources") or {}).get(sid)
+        v["here"] = v.get("here") or v["status"]
+        if rv:
+            v["actions"] = rv["status"]
+            if RANK[rv["status"]] < RANK[v["here"]]:  # 任一网络位置能打开就算能打开
+                v["status"], v["detail"] = rv["status"], f"{rv['detail']}（GitHub Actions 上可访问；本服务器：{v['detail']}）"
+    JSON_OUT.write_text(json.dumps({"generated_at": when, "remote_generated_at": remote.get("generated_at", ""),
+                                    "platforms": platforms, "sources": sources or {}}, ensure_ascii=False, indent=1), encoding="utf-8")
+    write_doc(platforms, sources, when, remote.get("generated_at", ""))
     print(f"平台 {len(platforms)} 个（已接入 {sum(p['connected'] for p in platforms)}）"
-          + (f"；信源 {len(sources)} 条：{dict(Counter(v['status'] for v in sources.values()))}" if sources else "") + f" → {DOC}")
+          + (f"；信源 {len(sources)} 条：{dict(Counter(v['status'] for v in sources.values()))}" if sources else "")
+          + f"；Actions 结果 {remote.get('generated_at') or '无'} → {DOC}")
     return 0
 
 

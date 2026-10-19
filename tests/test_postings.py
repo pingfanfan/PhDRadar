@@ -165,3 +165,16 @@ Position Description: Apply Position Description research</body></html>"""
     assert row["amount"] == "Net salary (after taxes) starting from 2900 EUR/month"
     no_dl = page.replace("2027/01/31 12:00:00 ", "")
     assert cp.ajo_detail("33125", "u", no_dl, TODAY) == (None, "页面无截止日期")
+
+
+def test_daad_detail():
+    page = """<html><head><title>&quot;PhD position on Digital Twins of Magnesium Alloys&quot; -  Helmholtz-Zentrum Hereon - DAAD</title></head>
+<body>Location Geesthacht Application Deadline 12. Nov 2026 Starting Date as soon as possible Overview Financing yes
+Type of Position Full PhD Working Language English Required Degree Master Areas of study Physics Description x</body></html>"""
+    url = "https://www.daad.de/en/studying-in-germany/phd-studies-research/phd-germany/detail/x-10489/?phd-id=10489"
+    row, why = cp.daad_detail("10489", url, page, TODAY)
+    assert why == "收录" and row["deadline"] == "2026-11-12" and row["org"] == "Helmholtz-Zentrum Hereon"
+    assert "Master" in row["requirements"]
+    stay = page.replace("Full PhD", "1-2 Year Research Stay")
+    assert cp.daad_detail("1", url, stay, TODAY) == (None, "非博士/博后岗位")
+    assert cp.daad_detail("1", url, page.replace("Financing yes", "Financing no"), TODAY)[0] is None

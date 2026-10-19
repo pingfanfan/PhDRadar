@@ -484,6 +484,65 @@ def ajo_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, s
     }, "收录"
 
 
+# ───────────────────────── DAAD PhDGermany（德国博士岗位库；详情链接必须带 phd-id，否则服务器返回别的岗位） ─────────────────────────
+
+DAAD = "https://www.daad.de"
+DAAD_LIST = DAAD + "/en/studying-in-germany/phd-studies-research/phd-germany/?phd-p={page}"
+DAAD_LINK = re.compile(r'href="(/en/studying-in-germany/phd-studies-research/phd-germany/detail/[^"?#]*-(\d{3,6})/)')
+DAAD_PHD = re.compile(r"Type of Position\s+(?:Full PhD|PhD|Structured PhD|Individual PhD|Cotutelle)", re.I)
+
+
+def daad_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+    out: dict[str, str] = {}
+    for page in range(1, max_pages + 1):
+        found = DAAD_LINK.findall(f.get(DAAD_LIST.format(page=page)).text)
+        if not found:
+            break
+        for path, jid in found:
+            out.setdefault(jid, f"{DAAD}{path}?phd-id={jid}")
+    return list(out.items())
+
+
+def daad_field(text: str, name: str, nxt: str) -> str:
+    m = re.search(rf"{name}\s+(.{{1,200}}?)\s+(?:{nxt})\b", text)
+    return m.group(1).strip() if m else ""
+
+
+def daad_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
+    text = page_text(raw)
+    t = re.search(r"<title>\s*\"(.+?)\"\s*-\s*(.*?)\s*-\s*DAAD\s*</title>", htmllib.unescape(re.search(
+        r"<title>.*?</title>", raw, re.S).group(0)) if "<title>" in raw else "", re.S)  # "岗位名" - 机构 - DAAD
+    if not t:
+        return None, "页面无标题"
+    title, org = page_text(t.group(1)), page_text(t.group(2))
+    if not DAAD_PHD.search(text):  # 短期访学（Research Stay）等不是博士岗位
+        return None, "非博士/博后岗位"
+    level = "phd"
+    m = re.search(r"Application Deadline\s+(\d{1,2})\.\s*([A-Za-z]{3})[a-z]*\.?\s+(\d{4})", text)
+    if not m:
+        return None, "页面无截止日期"
+    deadline = mg_day(f"{m.group(1)} {m.group(2)} {m.group(3)}")
+    if not deadline:
+        return None, "页面无截止日期"
+    if deadline < today:
+        return None, "已截止"
+    fin = re.search(r"Financing\s+(yes|no)\b", text, re.I)
+    if not fin or fin.group(1).lower() != "yes" or _any(_SELF_FUNDED, text):
+        return None, "未写资助或自费"
+    start = daad_field(text, "Starting Date", "Overview|Description")
+    lang = daad_field(text, "Working Language", "Location|Required|Application|Overview")
+    degree = daad_field(text, "Required Degree", "Areas of study|Description|Overview")
+    req = "；".join(x for x in (f"学位要求：{degree}" if degree else "", f"工作语言：{lang}" if lang else "",
+                                f"开始时间：{start}" if start else "") if x)
+    return {
+        "id": f"daad:{jid}", "title": title[:200], "url": url, "org": org[:120], "country": "DE",
+        "place": daad_field(text, "Location", "Application|Starting|Overview")[:80], "level": level, "deadline": deadline,
+        "quote": m.group(0), "funding_for": "", "amount": "", "requirements": req,
+        "cn": "no" if _any(_RESTRICTED, text) else "check",
+        "flags": ["security-screening"] if _any(_SCREENING, text) else [], "via": "DAAD PhDGermany",
+    }, "收录"
+
+
 # ───────────────────────── Varbi（瑞典高校共用招聘系统） ─────────────────────────
 
 VARBI = ["lu", "kth", "uu", "su", "ki", "liu", "umu", "gu", "slu", "ltu", "mau", "oru", "kau", "miun", "hh", "his", "mdu",
@@ -702,13 +761,13 @@ def fap_detail(pid: str, url: str, raw: str, today: str) -> tuple[dict | None, s
 
 ADAPTERS = {"jobs-ac-uk": (jac_urls, jac_detail), "academictransfer": (at_urls, at_detail),
             "findaphd": (fap_urls, fap_detail), "jobbnorge": (jn_urls, jn_detail), "varbi": (vb_urls, vb_detail),
-            "inspire": (inspire_urls, inspire_detail), "ajo": (ajo_urls, ajo_detail),
+            "inspire": (inspire_urls, inspire_detail), "ajo": (ajo_urls, ajo_detail), "daad": (daad_urls, daad_detail),
             **{k: madgex(k) for k in MADGEX}, **{k: institute(k) for k in INSTITUTES}}
-DEFAULT = "jobs-ac-uk,academictransfer,naturecareers,sciencecareers,physicstoday,the-unijobs,jobbnorge,inspire,ajo,varbi,ethz,inria,mpg"  # findaphd 需在本地电脑运行，不放进默认
+DEFAULT = "jobs-ac-uk,academictransfer,naturecareers,sciencecareers,physicstoday,the-unijobs,jobbnorge,inspire,ajo,daad,varbi,ethz,inria,mpg"  # findaphd 需在本地电脑运行，不放进默认
 
 
 # 同一岗位常在多个平台出现：机构 + 标题 + 截止日期相同视为同一个，只留信息最全的那条
-VIA_RANK = {"jobs.ac.uk": 3, "AcademicTransfer": 3, "Nature Careers": 2, "Science Careers": 2, "Physics Today Jobs": 2, "THE Unijobs": 2, "Jobbnorge": 3, "INSPIRE-HEP Jobs": 2, "Academic Jobs Online": 2, "Varbi": 3,
+VIA_RANK = {"jobs.ac.uk": 3, "AcademicTransfer": 3, "Nature Careers": 2, "Science Careers": 2, "Physics Today Jobs": 2, "THE Unijobs": 2, "Jobbnorge": 3, "INSPIRE-HEP Jobs": 2, "Academic Jobs Online": 2, "DAAD PhDGermany": 2, "Varbi": 3,
             "FindAPhD": 1}
 TITLE_NOISE = re.compile(r"\b(phd|ph\.d|studentship|position|project|fully|funded|scholarship|the|a|an|in|on|of|for|and|with)\b|[^a-z0-9]+")
 

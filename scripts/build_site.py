@@ -97,8 +97,10 @@ def posting_rows() -> list[dict]:
              "d": disciplines_of(p["title"]), "fl": p.get("flags")}
         if p.get("also"):
             r["al"] = p["also"]
-        if p.get("funding_for"):
-            r["rq"] = f"资助对象（公告原文）：{p['funding_for']}"
+        notes = ([f"资助对象（公告原文）：{p['funding_for']}"] if p.get("funding_for") else []) + \
+            ([p["requirements"]] if p.get("requirements") else [])
+        if notes:
+            r["rq"] = "；".join(notes)
         out.append({k: v for k, v in r.items() if v not in (None, "", [])})
     return out
 

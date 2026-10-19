@@ -1,0 +1,36 @@
+name: access
+
+# 每天从 GitHub Actions 的网络位置检查一遍招聘平台与核对过的信源能否打开（scripts/access_report.py --raw）。
+# 只在公开仓库运行（公开仓库的 Actions 不计分钟数）；结果 reports/access-actions.json 由每日任务合并进 docs/access.md：
+# 任一网络位置能打开就算能打开，只有 Actions 能打开的信源改在 Actions 上采集。
+on:
+  schedule:
+    - cron: "41 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    if: github.repository == 'pingfanfan/PhDRadar'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    concurrency:
+      group: access
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python scripts/access_report.py --raw reports/access-actions.json | tee -a "$GITHUB_STEP_SUMMARY"
+      - name: 提交
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/access-actions.json
+          git diff --cached --quiet && exit 0
+          git commit -m "可访问性检查（GitHub Actions）"
+          git pull --rebase && git push
