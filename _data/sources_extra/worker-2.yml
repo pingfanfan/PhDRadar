@@ -316,11 +316,11 @@
   access:
   - web
   language: en
-  coverage: unknown
-  notes: 页面设有 PhD offers 栏目（Join us as PhD student），但本次抓取未见具体博士题目或截止日期；当前列出的开放职位为实验室技术员、研究助理（一年期，80% 工时）与学徒岗位。
+  coverage: salary
+  notes: 官网招聘页列有博士候选人（PhD candidate）岗位，如可持续纳米材料、微型热电器件，另有欧盟玛丽居里博士网络岗位；岗位一般按德国 TV-L 公务员工资表支付（雇员身份，非奖学金）。截止日见各岗位公告，国际生资格以岗位要求为准。
   verify_method: page
   page_evidence: Join us as PhD student
-  verified: 2026-10-18
+  verified: 2026-10-19
 - id: imperial-materials-scholarship-hub
   name: 帝国理工材料系 PhD 奖学金入口
   url: https://www.imperial.ac.uk/engineering/departments/materials/study/materialsphd/phd-application-process--scholarship-hub/
@@ -1745,10 +1745,10 @@
   deadline_note: 各结构化项目单独截止；DAAD-GSSP 最新轮次未核实
   status: ongoing
   requirements: LGF 奖学金需先被海德堡大学录取为博士生；DAAD-GSSP 要求硕士或同等学历、成绩优秀
-  notes: 含州研究生奖学金（需先被院系录取）和国际访问资助咨询；结构化项目各自设截止。
+  notes: 海德堡大学博士生总入口。州研究生奖学金（LGF）个人资助 2026 年因州预算削减不设征集，2027 年未公布；结构化项目各自设截止，DAAD-GSSP 最新轮次未核实，请以官网为准。
   verify_method: page
   page_evidence: Die Graduiertenakademie unterstützt Doktorand:innen bei der Finanzierung ihres Promotionsprojektes durch gezielte und persönliche Beratung.
-  verified: 2026-10-18
+  verified: 2026-10-19
 - id: bonn-hcm-opportunities
   name: 波恩 Hausdorff 数学中心岗位与机会页
   url: https://www.mathematics.uni-bonn.de/hcm/opportunities/home
@@ -2762,12 +2762,12 @@
   - web
   language: en
   coverage: full
-  deadline_note: 以 DKFZ 官方申请页为准；DAAD 页称每年 5 月 15 日与 12 月 15 日截止，不同来源日期互相矛盾。
+  deadline_note: 各来源给出的截止日期互相矛盾，本次未能在 dkfz.de 官网核实；申请前以 DKFZ 官网为准。
   requirements: 持硕士学位或预计获得；成绩优秀，英语能力强；需两封推荐信
   notes: 官网联合培养项目页提到 DKFZ International PhD Program，与 HIDSS4Health 相关的博士生同属该项目；本页未给出资助全额或年限等细节，以官网国际博士项目页为准。
   verify_method: page
   page_evidence: All HIDSS4Health PhD students whose primary affiliation is the DKFZ are also members of the DKFZ International PhD Program.
-  verified: 2026-10-18
+  verified: 2026-10-19
 - id: helmholtz-investigator-groups
   name: Helmholtz Investigator Groups
   url: https://www.helmholtz.de/en/career/careers-at-helmholtz/helmholtz-investigator-groups/
@@ -4917,11 +4917,11 @@
   - web
   language: en
   coverage: varies
-  stipend: 博士研究路径（全时、须承诺毕业后服务）：Tier I 与 Tier II 均含全额学费，基本月津贴 20,000 AED；学习路径（无服务承诺）Tier I 含全额学费，月津贴 4,000 AED。
-  notes: 页面标注发布日期为 2023 年 6 月 13 日，说明博士奖学金面向全时国际生，按录取时的 Tier 评定，无需单独申请；具体金额以官网当前页面为准。
+  stipend: 研究路径（全时、须承诺毕业后服务）：Tier I 与 Tier II 基本月津贴 AED 20,000；Tier I 另有月补贴 AED 20,000（Tier II 为 AED 10,000），以 KU 官网当前页面为准
+  notes: 哈利法大学国际生博士奖学金。研究路径（全时、须承诺毕业后为大学或指定机构服务）的 Tier I/II 含学费全额覆盖与基本月津贴；学习路径的津贴未经核实。Tier 每年复核，满足条件不保证获得。
   verify_method: page
   page_evidence: The scholarship supports international students pursuing a Doctoral degree at Khalifa University.
-  verified: 2026-10-18
+  verified: 2026-10-19
 - id: hbku-graduate-scholarship
   name: 哈马德·本·哈利法大学（HBKU）研究生奖学金
   url: https://www.hbku.edu.qa/en/scholarship

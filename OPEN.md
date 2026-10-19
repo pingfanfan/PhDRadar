@@ -1,9 +1,9 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-10-18。共 **473** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-10-19。共 **471** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
-- [30 天内截止](#30-天内截止)（129）
+- [30 天内截止](#30-天内截止)（127）
 - [之后截止](#之后截止)（227）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（65）
 - [即将开放](#即将开放)（52）
@@ -12,8 +12,6 @@
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-18 | [NIOO-KNAW 与乌得勒支大学 · 卫星高光谱读取生态系统 博士](https://magnet.me/en/opportunity/1085216/phd-candidate--reading-ecosystems-from-space) | 荷兰 | 博士 | 带薪岗位 | ❔ 官网未写明 | 岗位页写明截止日为 2026 年 10 月 18 日（即今天），需通过门户提交 CV、求职信与两名推荐人。<br>官网原句：“18 October 2026” |
-| 2026-10-18 | [塔林大学数字技术学院 2026/27 补充招生（Junior Research Fellow）](https://www.tlu.ee/en/dt/applying-phd-school-digital-technologies) | 欧盟/欧洲 | 博士 | 带薪岗位 | ❔ 官网未写明 | 补充招生今天截止（13:00，EEST），面试 2026-11-04；需先有研究课题和导师，并通过 SAIS 系统提交。<br>官网原句：“18 October at 13:00 pm” |
 | 2026-10-19 | [剑桥英语系 Leverhulme 早期职业奖学金](https://www.english.cam.ac.uk/leverhulme-early-career-fellowships-2027) | 英国 | 博后 | 带薪岗位 | ✅ 可申 | 剑桥英语系校内遴选材料须于 2026 年 10 月 19 日前提交至系协调员，之后 Leverhulme 全国竞赛申请于 2027 年 2 月 18 日 16:00 提交。<br>官网原句：“by 19 October 2026” |
 | 2026-10-19 | [DKFZ International PhD Program（德国癌症研究中心国际博士项目）](https://www.dkfz.de/en/career/international-phd-program) | 德国 | 博士 | 全奖（学费＋生活费） | ❔ 官网未写明 | 在线申请当前开放，正文写截止 2026 年 10 月 19 日，距今日仅剩一天。<br>官网原句：“is currently open for applications - the application deadline is” |
 | 2026-10-19 | [昆士兰大学 Graduate School Scholarship](https://scholarships.uq.edu.au/scholarship/graduate-school-scholarships-uqgss-%E2%80%93-includes-rtp) | 澳大利亚 | 博士 | 半奖 / 部分资助 | 🟡 部分可申 | 国际生轮次（2027 年第四季度或 2028 年初入学）完整申请截止 2026-10-19，需先提交 EOI 并由学院提名，截止在一天之后。<br>官网原句：“Monday 19 October 2026” |

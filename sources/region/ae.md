@@ -17,7 +17,7 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [UAEU 阿联酋大学博士奖学金（全国籍开放）](https://www.uaeu.ac.ae/en/cgs/phd_scholarship_all.shtml)<br><sub>阿联酋 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>与研究生院普通入学截止日相同；以官网当前轮次为准。</sub> | ✅ | **要求：** 面向所有国籍；硕士 GPA 要求以官网为准；无其他雇佣或资助；论文须属阿联酋优先领域（如可再生能源、健康、水、航天）。<br>面向所有国籍，含全额学费减免、月津贴与医保，4 年；要求硕士 GPA 3.5/4.0，论文属阿联酋优先领域。 |
-| [哈利法大学国际生研究生奖学金](https://www.ku.ac.ae/scholarship/graduate-research-teaching-scholarship-for-international-students)<br><sub>阿联酋 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>博士研究路径（全时、须承诺毕业后服务）：Tier I 与 Tier II 均含全额学费，基本月津贴 20,000 AED；学习路径（无服务承诺）Tier I 含全额学费，月津贴 4,000 AED。</sub> | — | ✅ | 页面标注发布日期为 2023 年 6 月 13 日，说明博士奖学金面向全时国际生，按录取时的 Tier 评定，无需单独申请；具体金额以官网当前页面为准。 |
+| [哈利法大学国际生研究生奖学金](https://www.ku.ac.ae/scholarship/graduate-research-teaching-scholarship-for-international-students)<br><sub>阿联酋 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>研究路径（全时、须承诺毕业后服务）：Tier I 与 Tier II 基本月津贴 AED 20,000；Tier I 另有月补贴 AED 20,000（Tier II 为 AED 10,000），以 KU 官网当前页面为准</sub> | — | ✅ | 哈利法大学国际生博士奖学金。研究路径（全时、须承诺毕业后为大学或指定机构服务）的 Tier I/II 含学费全额覆盖与基本月津贴；学习路径的津贴未经核实。Tier 每年复核，满足条件不保证获得。 |
 | [哈利法大学（Khalifa University）研究生奖学金总页](https://www.ku.ac.ae/scholarships-graduate)<br><sub>阿联酋 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>Tier I 基本月津贴 AED 20,000（其他档位不同）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>无需单独申请，录取时按学术表现评定档位，每年重新评估</sub> | ✅ | **要求：** 需满足当年录取条件；博士奖学金按学术表现分档（Tier）；研究路径需毕业后服务承诺，学习路径无此要求<br>页面写明面向阿联酋国籍和国际学生的奖学金，博士奖学金可含全额或部分学费及月津贴。另有哈利法大学与中国国家留学基金委（CSC）的联合博士奖学金，仅限中国籍、工程或理科博士，只在秋季学期申请，截止为同一学年的 2 月 10 日。 |
 
 <a id="doctoral-programs"></a>
