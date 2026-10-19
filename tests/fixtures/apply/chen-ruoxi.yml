@@ -1,0 +1,35 @@
+# 虚构申请者（演示与测试用，人物与学校均为虚构）。格式同 docs/profile-schema.md 的 cv-facts.yml（facts 列表），
+# 顶层 name / email 供落款使用。
+name: Chen Ruoxi
+email: chen.rx@example.com
+source: cv.pdf
+extracted: 2026-10-19
+facts:
+  - id: edu-1
+    type: education
+    text: 2022-09 至 2026-06 Southbay Ocean University 海洋生物学学士，GPA 3.65/4.0；毕业论文导师 Dr. Huang Yi
+    quote: "BSc in Marine Biology, Southbay Ocean University, 2022–2026, GPA 3.65/4.0. Thesis: Thermal tolerance of two reef-building coral species under simulated marine heatwaves"
+  - id: proj-1
+    type: project
+    text: 2025-04 至 2026-03 珊瑚热胁迫水族实验：在 12 缸循环水系统中对 Acropora 与 Pocillopora 断枝做 6 周热胁迫实验，每周两次用 PAM 荧光测光合效率
+    quote: "Ran a 6-week heat-stress experiment on Acropora and Pocillopora fragments in a 12-tank recirculating aquarium system; measured photosynthetic efficiency with pulse-amplitude-modulated (PAM) fluorometry twice a week."
+  - id: proj-2
+    type: project
+    text: 2024-07 珊瑚礁野外实习：完成 10 天 SCUBA 样带调查
+    quote: "Completed 10 days of SCUBA reef transect surveys as part of a field course (July 2024)."
+  - id: work-1
+    type: work
+    text: 2023-09 至 2024-06 Southbay Public Aquarium 志愿者，协助日常水质检测与珊瑚断枝养护
+    quote: "Aquarium volunteer, Southbay Public Aquarium (2023–2024): assisted with daily water-quality checks and coral fragment husbandry."
+  - id: cert-1
+    type: other
+    text: 2024 年 PADI Advanced Open Water Diver 证书
+    quote: "PADI Advanced Open Water Diver (2024)"
+  - id: skill-1
+    type: skill
+    text: R（lme4、ggplot2）、共聚焦显微镜基础、PAM 荧光、珊瑚断枝
+    quote: "R (lme4, ggplot2), confocal microscopy basics, PAM fluorometry, coral fragmentation"
+  - id: lang-1
+    type: language
+    text: 雅思 7.0，2026-01
+    quote: "IELTS 7.0 (January 2026)"

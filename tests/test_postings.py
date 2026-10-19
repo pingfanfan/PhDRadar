@@ -178,3 +178,222 @@ Type of Position Full PhD Working Language English Required Degree Master Areas 
     stay = page.replace("Full PhD", "1-2 Year Research Stay")
     assert cp.daad_detail("1", url, stay, TODAY) == (None, "非博士/博后岗位")
     assert cp.daad_detail("1", url, page.replace("Financing yes", "Financing no"), TODAY)[0] is None
+
+
+def test_expand_sources():
+    assert cp.expand("actions") == list(cp.ACTIONS)
+    assert "findaphd" not in cp.expand("default")
+    assert cp.expand("default,findaphd")[-1] == "findaphd"
+    try:
+        cp.expand("nope")
+    except SystemExit:
+        pass
+    else:
+        raise AssertionError("未知平台应报错")
+
+
+def test_import_merges_several_platforms():
+    import import_postings as ip
+
+    def row(i, via, checked, deadline="2026-12-01"):
+        return {"id": f"{via}:{i}", "title": f"PhD {i}", "org": via, "deadline": deadline, "url": f"u{via}{i}", "via": via,
+                "checked": checked}
+
+    local = [row(1, "FindAPhD", "2026-10-17"), row(2, "Varbi", "2026-10-18"), row(3, "KU Leuven", "2026-10-19")]
+    remote = [row(4, "FindAPhD", "2026-10-18"), row(5, "FindAPhD", "2026-10-18", "2026-10-01"),
+              row(6, "KU Leuven", "2026-10-18"), row(7, "Varbi", "2026-10-19")]
+    rows, notes = ip.merge(local, remote, ["FindAPhD", "KU Leuven", "Inria Jobs"], TODAY)
+    ids = {r["id"] for r in rows}
+    assert ids == {"FindAPhD:4", "Varbi:2", "KU Leuven:3"}  # FindAPhD 替换并去掉已截止；KU Leuven 远端更旧不替换；Varbi 不在清单不动
+    assert len(notes) == 4
+
+
+def test_arbeitsagentur_detail():
+    import json
+    import platforms_de as de
+    job = {"stellenangebotsTitel": "Doktorand\\*in (w/m/d)", "firma": "Universität Duisburg-Essen",
+           "verguetungsangabe": "JAHRESGEHALT", "gehaltsspanneVon": 38560.0, "gehaltsspanneBis": 54807.0,
+           "stellenlokationen": [{"adresse": {"ort": "Essen, Ruhr"}}],
+           "stellenangebotsBeschreibung": "## Doktorand\\*in\n\n**(TV-L 13, 65 %)** Die Stelle ist bis zum 31.12.2029 befristet.\n\n"
+                                          "**Bewerbungsfrist:** 05.11.2026 [Hier bewerben](https://example.org)"}
+    row, why = de.ba_detail("10000-1-S", "u", json.dumps(job), TODAY)
+    assert why == "收录" and row["deadline"] == "2026-11-05" and row["quote"] == "Bewerbungsfrist: 05.11.2026"
+    assert row["url"].endswith("/jobdetail/10000-1-S") and row["amount"] == "38,560–54,807 € / Jahr" and row["country"] == "DE"
+    assert row["title"] == "Doktorand*in (w/m/d)"
+    # 合同期限“bis zum 31.12.2029”不是截止日期；“bis zum”要有申请语境
+    job["stellenangebotsBeschreibung"] = "TV-L 13. Die Stelle ist bis zum 31.12.2029 befristet."
+    assert de.ba_detail("1", "u", json.dumps(job), TODAY) == (None, "页面无截止日期")
+    job["stellenangebotsBeschreibung"] = "TV-L 13. Bitte bewerben Sie sich bis zum 9. November 2026 unter der Kennziffer 26-1."
+    assert de.ba_detail("1", "u", json.dumps(job), TODAY)[0]["deadline"] == "2026-11-09"
+    job["stellenangebotsTitel"] = "Expert Promotion Category Management (m/w/d)"
+    assert de.ba_detail("1", "u", json.dumps(job), TODAY) == (None, "非博士/博后岗位")
+    assert cp.ADAPTERS["arbeitsagentur"] and cp.HEADERS["arbeitsagentur"] == {"X-API-Key": "jobboerse-jobsuche"}
+
+
+# ───── 2026-10 抽检 300 条后补的规则 ─────
+
+def test_madgex_body_deadline_overrides_listing_date():
+    page = """<html><h1>Postdoctoral Fellowship in Climate Dynamics</h1><body>Employer Harvard University Location Cambridge, MA
+Salary $92,000 Closing date 23 Oct 2026 Applications and letters are due November 1, 2026, and should be submitted online.</body></html>"""
+    row, why = cp.nc_detail("1", "u", page, TODAY)
+    assert why == "收录" and row["deadline"] == "2026-11-01" and "November 1, 2026" in row["quote"] and row["country"] == "US"
+
+
+def test_madgex_until_filled_is_rolling():
+    page = """<html><h1>Postdoctoral Researcher in Bioengineering</h1><body>Employer Rice University Location Houston, TX
+Salary 65,000 Closing date 14 Nov 2026 Applications will be reviewed immediately and until the position is filled.</body></html>"""
+    row, _ = cp.nc_detail("2", "u", page, TODAY)
+    assert row["deadline"] == "rolling" and "until the position is filled" in row["quote"]
+
+
+def test_madgex_rejects_contract_gigs_and_reads_eligibility():
+    gig = """<html><h1>Remote Chemistry Expert (PhD)</h1><body>Employer Turing Location Remote Salary $100 Closes Oct 23, 2026
+Remote contract for PhDs in Chemistry. Pay rate: $100+/hour</body></html>"""
+    _, detail = cp.madgex("physicstoday")
+    assert detail("3", "u", gig, TODAY)[0] is None
+    q = """<html><h1>Postdoctoral Fellow in Nuclear Nonproliferation</h1><body>Employer LBNL Location Berkeley, CA Salary 90,000
+Closes Nov 26, 2026 Eligibility to obtain and maintain a DOE Q-level security clearance, which requires U.S. citizenship.</body></html>"""
+    row, _ = detail("4", "u", q, TODAY)
+    assert row["cn"] == "no" and row["flags"] == ["security-screening"]
+    ok = q.replace("Eligibility to obtain and maintain a DOE Q-level security clearance, which requires U.S. citizenship.",
+                   "We welcome applications from any nationality.")
+    assert detail("5", "u", ok, TODAY)[0]["cn"] == "yes"
+
+
+def test_jobs_ac_uk_home_fee_difference_is_restricted():
+    page = JAC_PAGE.replace("Both UK and international applicants are eligible.",
+                            "International students must pay the difference between the Home and International tuition fees themselves.")
+    row, _ = cp.jac_detail("C", "u", page, TODAY)
+    assert row["cn"] == "no"
+    uk_fees = JAC_PAGE.replace("International tuition fees and an annual stipend", "UK tuition fees and an annual stipend") \
+                      .replace("Both UK and international applicants are eligible.", "")
+    assert cp.jac_detail("D", "u", uk_fees, TODAY)[0]["cn"] == "check"
+    label_uk = JAC_PAGE.replace(", EU Students, International Students", "").replace(
+        "Both UK and international applicants are eligible.", "Studentships cover fees at home or international rates.")
+    assert cp.jac_detail("E", "u", label_uk, TODAY)[0]["cn"] == "check"
+
+
+def test_inspire_competitive_call_and_until_filled():
+    import json
+    rec = {"metadata": {"position": "Postdoctoral position", "ranks": ["POSTDOC"], "status": "open", "deadline_date": "2026-11-26",
+                        "institutions": [], "description": "The group welcomes expressions of interest from researchers wishing "
+                        "to apply through the Juan de la Cierva (JdC) 2026 fellowship program."}}
+    assert cp.inspire_detail("1", "u", json.dumps(rec), TODAY) == (None, "未写资助或自费")
+    rec["metadata"]["description"] = "Two-year postdoc. This posting will remain open until filled."
+    row, _ = cp.inspire_detail("2", "u", json.dumps(rec), TODAY)
+    assert row["deadline"] == "rolling"
+    rec["metadata"]["description"] = "The deadline is December 20, 2026. TDLI invites candidates of all nationalities."
+    row, _ = cp.inspire_detail("3", "u", json.dumps(rec), TODAY)
+    assert row["deadline"] == "2026-12-20" and row["cn"] == "yes"
+
+
+def test_institute_zrr_and_earliest_deadline():
+    _, detail = cp.institute("inria")
+    page = """<html><h1>Post-Doctoral Research Visit F/M Graph learning</h1><body>Deadline to apply : 2026-11-18
+The deadline of application is 15th November, 2026. Defence Security : This position is likely to be situated in a restricted
+area (ZRR). Remuneration 2788 euros gross per month</body></html>"""
+    row, why = detail("2026-10622", "u", page, TODAY)
+    assert why == "收录" and row["deadline"] == "2026-11-15" and row["flags"] == ["security-screening"] and "2788" in row["amount"]
+    assert detail("x", "u", page + " Funding for this postdoc position has not yet been secured.", TODAY)[0] is None
+
+
+def test_daad_org_from_contact_headline():
+    page = """<html><head><title>&quot;PhD Position: Active Matter&quot; - Leipzig University Molecular Nanophotonics Group Frank Cichos - DAAD</title></head>
+<body>Location Leipzig Application Deadline 22. Oct 2026 Financing yes Type of Position Full PhD
+<h3 class="qa-headline u-size-24">Leipzig University<br>Molecular Nanophotonics Group<br>Frank Cichos</h3></body></html>"""
+    row, why = cp.daad_detail("10479", "u", page, TODAY)
+    assert why == "收录" and row["org"] == "Leipzig University"
+
+
+def test_varbi_org_full_name():
+    page = """<html><h1>PhD in Sociology of Law</h1><body>Last application date 08.Nov.2026</body></html>"""
+    row, _ = cp.vb_detail("980150", "https://lu.varbi.com/en/what:job/jobID:980150/", page, TODAY)
+    assert row["org"] == "Lund University"
+
+
+def test_level_excludes_faculty_and_gigs():
+    assert cp.level_of("Doctoral Research Faculty - Molecular Oncology") is None
+    assert cp.level_of("Faculty - MD, PhD, MD/PhD, equivalent") is None
+    assert cp.level_of("Remote Chemistry Expert (PhD)") is None
+    assert cp.level_of("Postdoctoral Researcher in Legal History (Faculty of Law)") == "postdoc"
+    assert cp.level_of("Future Faculty in the Physical Sciences Postdoctoral Fellowship") == "postdoc"
+
+
+def test_dedupe_specific_title_different_deadlines():
+    a = {"id": "naturecareers:1", "title": "Postdoctoral Associate - Aortic Imaging & Clinical Research", "deadline": "2026-11-11",
+         "org": "Baylor College of Medicine (BCM)", "url": "u1", "via": "Nature Careers", "cn": "check"}
+    b = dict(a, id="sciencecareers:2", org="Baylor College of Medicine", deadline="2026-10-27", url="u2", via="Science Careers")
+    out, dropped = cp.dedupe([a, b])
+    assert dropped == 1 and out[0]["id"] == "sciencecareers:2" and out[0]["also"] == ["u1"]  # 留截止更早的那条
+    # 标题太泛（只剩“博后研究员”）或机构不同：不合并
+    g = dict(a, title="Postdoctoral Research Associate")
+    assert cp.dedupe([g, dict(g, id="x", via="Science Careers", url="u3", deadline="2026-12-01")])[1] == 0
+    assert cp.dedupe([a, dict(b, org="University of Florida")])[1] == 0
+
+def test_cnrs_detail():
+    import platforms_fr as fr
+    page = ("<html><h1>Thèse en physique du vivant (H/F)</h1><body>L'offre en un coup d'oeil L'unité Institut Lumière Matière "
+            "Type de Contrat CDD Doctorant Temps de Travail Complet Lieu de Travail 69622 VILLEURBANNE Durée du contrat 36 mois "
+            "Date d'Embauche 01/01/2027 Rémuneration La rémunération est de 2300 bruts mensuel Postuler "
+            "Date limite de candidature : lundi 9 novembre 2026 23:59 Description du Poste</body></html>")
+    row, why = fr.cnrs_detail("UMR5306-CLADES-001", "u", page, TODAY)
+    assert why == "收录" and row["level"] == "phd" and row["deadline"] == "2026-11-09" and row["place"] == "Villeurbanne"
+    assert row["amount"] == "La rémunération est de 2300 bruts mensuel" and row["org"] == "CNRS – Institut Lumière Matière"
+    postdoc = page.replace("CDD Doctorant Temps", "Chercheur en contrat CDD Temps")
+    assert fr.cnrs_detail("1", "u", postdoc, TODAY)[0]["level"] == "postdoc"
+    engineer = page.replace("CDD Doctorant Temps", "Ingénieur en contrat CDD Temps")
+    assert fr.cnrs_detail("1", "u", engineer, TODAY) == (None, "非博士/博后岗位")
+    assert fr.cnrs_detail("1", "u", page.replace("9 novembre 2026", "9 octobre 2026"), TODAY) == (None, "已截止")
+    xml = "<loc>https://emploi.cnrs.fr/Offres.aspx</loc><loc>emploi.cnrs.fr/Offres/Doctorant/UPR3572-HELDUM-001/Default.aspx</loc>"
+    assert fr.CNRS_LOC.findall(xml) == [("emploi.cnrs.fr/Offres/Doctorant/UPR3572-HELDUM-001/Default.aspx", "UPR3572-HELDUM-001")]
+
+
+def test_mathjobs_tamu_hnet_detail():
+    import platforms_boards as b
+    mj = ("<html><body>Position Title: PhD candidates in geometric analysis Position Type: Other Position Location: Canberra "
+          "Appl Deadline: 2026/12/18 23:59:59 (posted 2026/09/29 , listed until 2026/12/18) Position Description: "
+          "The candidates will be supported by scholarships funded through an ARC Discovery project.</body></html>")
+    row, why = b.mj_detail("mj29069", "https://www.mathjobs.org/jobs/list/29069", mj, TODAY)
+    assert why == "收录" and row["id"] == "mathjobs:29069" and row["via"] == "MathJobs" and row["deadline"] == "2026-12-18"
+    tamu = ("<html><title>PhD Positions: Fish Ecology at Purdue University | Natural Resources Job Board</title><body>"
+            "Details Application Deadline: 11/20/2026 Published: 10/15/2026 Salary: starting at $30,000 per year "
+            "Education Required: Bachelors Experience Required: none Location: West Lafayette, Indiana Tags: Graduate Opportunities "
+            "Description Two funded PhD positions.</body></html>")
+    row, why = b.tamu_detail("1", "u", tamu, TODAY)
+    assert why == "收录" and row["deadline"] == "2026-11-20" and row["org"] == "Purdue University" and row["country"] == "US"
+    assert row["amount"] == "starting at $30,000 per year"
+    assert b.tamu_detail("1", "u", tamu.replace("PhD Positions", "Graduate Assistantship (MS)"), TODAY) == (None, "非博士/博后岗位")
+    hnet = ("<html><h1>Yale University - Henry Chauncey Postdoctoral Fellowship</h1><body>Position Post-Doctoral Fellow "
+            "Location Connecticut, United States Subject Fields History Salary: $69,000 plus $5,000 for research expenses. "
+            "Posting Date October 15, 2026 Closing Date January 8, 2027 Disclaimer</body></html>")
+    row, why = b.hnet_detail("70582", "u", hnet, TODAY)
+    assert why == "收录" and row["org"] == "Yale University" and row["deadline"] == "2027-01-08" and row["country"] == "US"
+    assert row["amount"].startswith("Salary: $69,000")
+
+
+def test_aarhus_detail():
+    import platforms_dk as dk
+    page = ("<html><h1>Postdoc in genetics of puberty</h1><body>The yearly base salary for a fulltime postdoc is between "
+            "DKK 493.394,35 and DKK 585.322,48 depending on experience. Apply Deadline: Tuesday 10 Nov 2026 at 23:59 CET</body></html>")
+    row, why = dk.au_detail("45001", "u", page, TODAY)
+    assert why == "收录" and row["deadline"] == "2026-11-10" and row["level"] == "postdoc" and "DKK 493.394,35" in row["amount"]
+    assert dk.au_detail("1", "u", page.replace("Apply Deadline: Tuesday 10 Nov 2026 at 23:59 CET", ""), TODAY) == (None, "页面无截止日期")
+    assert dk.au_detail("1", "u", page.replace("Postdoc in", "Student Assistant in"), TODAY) == (None, "非博士/博后岗位")
+
+
+def test_institutes_psi_ibs_eso():
+    psi = ("<html><h1 class='heading'>PhD Student in Materials Science</h1><body>Please submit your application online by "
+           "<strong>5 November 2026&nbsp;</strong>(including list of publications)</body></html>")
+    row, why = cp.ADAPTERS["psi"][1]("75342", "u", psi, TODAY)
+    assert why == "收录" and row["deadline"] == "2026-11-05" and row["level"] == "phd" and row["country"] == "CH"
+    ibs = ("<html><h1 id='t_logo'>IBS</h1><table><thead><tr><th>Title</th>\n<td colspan='5'>2026-6 Recruitment for Postdoctoral "
+           "Research Associate Positions</td></tr></thead><tr><th>Closing Date</th><td>2026-11-06 18:00</td></tr></table></html>")
+    row, why = cp.ADAPTERS["ibs"][1]("2187", "u", ibs, TODAY)
+    assert why == "收录" and row["title"].startswith("2026-6 Recruitment") and row["deadline"] == "2026-11-06"
+    eso = ("<html><h1 style='font-size: 40px;'>\nESO Studentship Programme Europe 2026/2027\n</h1><body>"
+           "The upcoming deadline for applications is 20 October 2026 (including reference letters).</body></html>")
+    row, why = cp.ADAPTERS["eso"][1]("2026_0055", "u", eso, TODAY)
+    assert why == "收录" and row["level"] == "phd" and row["deadline"] == "2026-10-20"
+    listing = 'href="/prog/recruit/eng/sub04_01/view.do;jsessionid=AB?pageIndex=1&amp;idx=2187"'
+    f = type("F", (), {"get": lambda self, u: type("R", (), {"text": listing})()})()
+    assert cp.ADAPTERS["ibs"][0](f, 1) == [("2187", "https://www.ibs.re.kr/prog/recruit/eng/sub04_01/view.do?idx=2187")]

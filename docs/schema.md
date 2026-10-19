@@ -39,3 +39,20 @@
 - **按截止排序**：`deadline` 为日期的优先，关键字放后；`closed` 的看 `deadline_note` 里的下一轮时间。
 - **核实可信度**：`verified` 越新越可靠；`cn_eligible: check` 的条目在推荐给用户前应提示其自行确认。
 - 链接可用性另见 [`reports/source-health.md`](../reports/source-health.md)（GitHub Actions 真实访问每个链接）。
+
+## 岗位的申请须知字段（`_data/posting_fields.yml`）
+
+招聘平台上的具体岗位在 `_data/postings.yml`；申请要用的结构化信息由 `scripts/enrich_postings.py` 从岗位详情页摘出，按岗位 id 存在 `_data/posting_fields.yml`。
+每个字段都是 `{value: 中文简述, quote: 公告原句}`；程序校验过原句逐字出现在页面正文里、简述里的数字都来自原句。**没有的字段就是公告里没写（或没摘到），不要推断。**
+
+| 字段 | 含义 |
+| --- | --- |
+| `degree` | 学位与专业要求（如“物理或材料科学硕士”） |
+| `language` | 语言要求与分数（如“英语；IELTS 6.5”）；DAAD 岗位为“工作语言” |
+| `start` | 开始 / 入职时间 |
+| `duration` | 资助或合同年限 |
+| `documents` | 需提交的材料清单（顿号分隔） |
+| `apply_via` | 申请方式：以“在线系统 / 邮件 / 其他”开头 |
+| `supervisor` | 导师 / 项目负责人姓名（原文写了才有） |
+| `nationality` | 国籍、居留或学费身份限制的原句概括 |
+| `checked` | 读取详情页的日期；`llm` 为子代理抽取的日期；`error` 为读取失败原因（隔 7 天重试） |

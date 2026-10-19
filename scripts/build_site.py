@@ -6,6 +6,7 @@
 写入：
     index.html            首页（静态 HTML，模板见 scripts/site_template.html）
     assets/catalog.json   首页加载的精简数据（全部信源，已核对条目带官网原句）
+    assets/rank-rules.json “为我推荐”的排序规则（来自 scripts/rank_rules.py，浏览器端 assets/rank.js 使用）
 """
 from __future__ import annotations
 
@@ -73,12 +74,46 @@ def disciplines_of(title: str) -> list[str]:
     return [k for k, w in DISC_WORDS.items() if re.search(w, title, re.I)]
 
 
+# 申请须知字段（_data/posting_fields.yml，enrich_postings.py 校验过原句）→ 首页的短键
+FIELD_KEYS = {"degree": "dg", "language": "lg", "start": "sd", "duration": "du", "documents": "dc", "apply_via": "av",
+              "supervisor": "sv", "nationality": "na"}
+LANG_NAMES = "英语|德语|法语|荷兰语|瑞典语|挪威语|丹麦语|芬兰语|西班牙语|意大利语|葡萄牙语|日语|韩语|冰岛语"
+
+
+def lang_tag(value: str) -> str:
+    """卡片上的语言标签：写了考试分数就显示分数，否则显示提到的语言。"""
+    import re
+
+    tests = re.findall(r"(?:IELTS|TOEFL(?: iBT)?|PTE)\s*(?:\([^)]*\)\s*)?\d+(?:\.\d)?", value)
+    cefr = [f"{lang} {lv}" for lang, lv in re.findall(rf"({LANG_NAMES})[^；;，,。]{{0,15}}?(?<![A-Za-z])([ABC][12])(?![0-9])", value)]
+    tags = list(dict.fromkeys(re.sub(r"\s+", " ", t) for t in tests + cefr))
+    if tags:
+        return " / ".join(tags[:2])
+    return "、".join(list(dict.fromkeys(re.findall(LANG_NAMES, value)))[:2])
+
+
+def posting_fields() -> dict:
+    path = ROOT / "_data" / "posting_fields.yml"
+    if not path.exists():
+        return {}
+    import yaml
+
+    out = {}
+    for pid, rec in (yaml.safe_load(path.read_text(encoding="utf-8")) or {}).items():
+        af = {short: [rec[k]["value"], rec[k]["quote"]] for k, short in FIELD_KEYS.items() if isinstance(rec.get(k), dict)}
+        if af:
+            out[pid] = af
+    return out
+
+
 def posting_rows() -> list[dict]:
     """招聘平台上的具体岗位（_data/postings.yml，由 collect_postings.py 采集）：截止 ≥ 今天、不限本土的才上首页。"""
     path = ROOT / "_data" / "postings.yml"
     if not path.exists():
         return []
     import yaml
+
+    fields = posting_fields()
 
     today = datetime.now(timezone.utc).date().isoformat()
     out = []
@@ -97,8 +132,13 @@ def posting_rows() -> list[dict]:
              "d": disciplines_of(p["title"]), "fl": p.get("flags")}
         if p.get("also"):
             r["al"] = p["also"]
+        af = fields.get(p["id"])
+        if af:
+            r["af"] = af
+            if af.get("lg") and lang_tag(af["lg"][0]):
+                r["lt"] = lang_tag(af["lg"][0])
         notes = ([f"资助对象（公告原文）：{p['funding_for']}"] if p.get("funding_for") else []) + \
-            ([p["requirements"]] if p.get("requirements") else [])
+            ([p["requirements"]] if p.get("requirements") and not af else [])  # 有结构化字段时不再重复显示旧的要求摘要
         if notes:
             r["rq"] = "；".join(notes)
         out.append({k: v for k, v in r.items() if v not in (None, "", [])})
@@ -128,6 +168,9 @@ def main() -> int:
                 r["in"] = intros[r["id"]]
     (ROOT / "assets").mkdir(exist_ok=True)
     (ROOT / "assets" / "catalog.json").write_text(json.dumps(rows, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    from rank_rules import rules as rank_rules
+    (ROOT / "assets" / "rank-rules.json").write_text(json.dumps(rank_rules(DISC_WORDS), ensure_ascii=False, separators=(",", ":")),
+                                                     encoding="utf-8")
     verified = [r for r in rows if r.get("v")]
     page = (ROOT / "scripts" / "site_template.html").read_text(encoding="utf-8")
     for key, val in {

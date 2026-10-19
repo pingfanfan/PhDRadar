@@ -61,6 +61,7 @@ class Fetcher:
         self.respect_robots = respect_robots
         self._robots: dict[str, urllib.robotparser.RobotFileParser | None] = {}
         self._last_hit: dict[str, float] = {}
+        self.host_delay: dict[str, float] = {}  # 个别站点要求更慢（如访问稍快就弹验证的学校招聘站）
 
     def allowed(self, url: str) -> bool:
         if not self.respect_robots:
@@ -88,7 +89,7 @@ class Fetcher:
         host = parts.netloc
         rp = self._robots.get(f"{parts.scheme}://{host}")
         crawl_delay = (rp.crawl_delay(USER_AGENT) if rp else None) or 0  # robots.txt 的 Crawl-delay 优先
-        wait = max(self.delay, float(crawl_delay)) - (time.monotonic() - self._last_hit.get(host, 0))
+        wait = max(self.delay, float(crawl_delay), self.host_delay.get(host, 0)) - (time.monotonic() - self._last_hit.get(host, 0))
         if wait > 0:
             time.sleep(wait)
         for attempt in range(3):
@@ -133,7 +134,7 @@ _INTERNATIONAL = [
 ]
 _FUNDED = [
     r"\bfully[\s-]+funded\b", r"\bfunded\s+(phd|position|studentship|project)\b", r"\bstipend\b",
-    r"\bsalary\b", r"\bstudentship\b", r"\bscholarship\b", r"\btuition\s+(fees?\s+)?waiver\b",
+    r"\bsalary\b", r"\bstudentships?\b", r"\bscholarships?\b", r"\btuition\s+(fees?\s+)?waiver\b",
     r"\bemployment\s+contract\b", r"\bgross\s+(monthly|annual)\b", r"\b(tv-l|e\s?13)\b", r"\bstipendiat\b",
 ]
 _SELF_FUNDED = [r"\bself[\s-]+funded\b", r"\bno\s+funding\b", r"\bunfunded\b", r"\bcompetition\s+funded\b"]

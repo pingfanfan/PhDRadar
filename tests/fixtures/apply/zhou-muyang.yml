@@ -1,0 +1,43 @@
+# 虚构申请者（演示与测试用，人物与学校均为虚构）。格式同 docs/profile-schema.md 的 cv-facts.yml（facts 列表），
+# 顶层 name / email 供落款使用。
+name: Zhou Muyang
+email: zhou.my@example.com
+source: cv.pdf
+extracted: 2026-10-19
+facts:
+  - id: edu-1
+    type: education
+    text: 2023-09 至 2026-06 Eastriver University of Technology 物理化学硕士，均分 88/100；导师 Prof. Wen Hao
+    quote: "MSc in Physical Chemistry, Eastriver University of Technology, 2023–2026, average score 88/100. Thesis: Polyoxometalate-modified carbon hosts for lithium-sulfur battery cathodes"
+  - id: edu-2
+    type: education
+    text: 2019-09 至 2023-06 Eastriver University of Technology 化学学士，均分 85/100
+    quote: "BSc in Chemistry, Eastriver University of Technology, 2019–2023, average score 85/100"
+  - id: pub-1
+    type: publication
+    text: 第一作者论文，Journal of Energy Chemistry，2025 年发表
+    quote: "Zhou M., Li Q., Wen H. Keggin-type polyoxometalate anchoring layers suppress polysulfide shuttling in Li-S cells. Journal of Energy Chemistry, 2025."
+  - id: pub-2
+    type: publication
+    text: 第二作者论文，ChemElectroChem，2026 年发表
+    quote: "Li Q., Zhou M., Wen H. In situ Raman tracking of sulfur speciation in solid-state cathodes. ChemElectroChem, 2026."
+  - id: proj-1
+    type: project
+    text: 2024-03 至 2026-04 多硫化物转化动力学研究：合成 5 种多金属氧酸盐团簇，组装并循环 200 多个扣式电池
+    quote: "Synthesised five polyoxometalate clusters and characterised them by XRD, XPS and cyclic voltammetry. Assembled and cycled more than 200 coin cells; best cell kept 78% capacity after 500 cycles at 1C."
+  - id: proj-2
+    type: project
+    text: 2025-01 至 2026-04 负责课题组手套箱维护，操作原位拉曼池
+    quote: "Maintained the group's argon glovebox and operated an in situ Raman cell for solid-state electrodes."
+  - id: award-1
+    type: award
+    text: 2024 年校一等学业奖学金
+    quote: "First-class Academic Scholarship of Eastriver University of Technology (2024)"
+  - id: skill-1
+    type: skill
+    text: 电化学（CV、EIS、GITT）、XRD、XPS、拉曼光谱、Python 数据分析
+    quote: "Electrochemistry (CV, EIS, GITT), XRD, XPS, Raman spectroscopy, Python data analysis"
+  - id: lang-1
+    type: language
+    text: 雅思 6.5（L7 R7 W6 S6），2026-05
+    quote: "IELTS 6.5 (L7 R7 W6 S6), May 2026"

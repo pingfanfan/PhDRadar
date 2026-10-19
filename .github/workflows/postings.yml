@@ -1,16 +1,17 @@
 name: postings
 
 # 采集招聘平台上的具体岗位（scripts/collect_postings.py）。不随推送运行。
-# 每天定时采集 FindAPhD（它拦截其他服务器，只有 Actions 能访问）；只在公开仓库运行（公开仓库的 Actions 不计分钟数），
-# 结果提交到公开仓库的 _data/postings.yml，由每日任务用 scripts/import_postings.py 并回主库。
+# 每天定时采集只有 Actions 能访问的平台（-s actions，即 collect_postings.ACTIONS：FindAPhD 等，清单依据 docs/access.md 的双地点检查）；
+# 定时只在公开仓库运行（公开仓库的 Actions 不计分钟数），结果提交到公开仓库的 _data/postings.yml，
+# 由每日任务用 scripts/import_postings.py 一次并回这些平台。
 on:
   schedule:
     - cron: "23 1 * * *"
   workflow_dispatch:
     inputs:
       sources:
-        description: "平台，逗号分隔（findaphd / jobs-ac-uk / academictransfer）"
-        default: "findaphd"
+        description: "平台，逗号分隔（actions = 只有 Actions 能访问的清单；也可写具体名字如 findaphd,jobs-ac-uk）"
+        default: "actions"
       max_details:
         description: "每个平台最多读多少个详情页"
         default: "3000"
@@ -38,15 +39,9 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
-      - name: 连通性检查
-        run: |
-          for u in "https://www.findaphd.com/robots.txt" "https://www.findaphd.com/sitemap.ashx?sitemap-projects-0.xml.gz"; do
-            echo "$u -> $(curl -s -o /tmp/probe.out -m 30 -w '%{http_code} %{content_type} %{size_download}' "$u")"
-            head -c 600 /tmp/probe.out | (zcat 2>/dev/null || cat) | head -c 600; echo
-          done
       - name: 采集
         run: |
-          python scripts/collect_postings.py -s "${{ inputs.sources || 'findaphd' }}" --max-details "${{ inputs.max_details || '3000' }}" \
+          python scripts/collect_postings.py -s "${{ inputs.sources || 'actions' }}" --max-details "${{ inputs.max_details || '3000' }}" \
             --save-samples 40 $([ "${{ inputs.dry_run }}" = "true" ] && echo --dry-run) | tee -a "$GITHUB_STEP_SUMMARY"
       - uses: actions/upload-artifact@v4
         if: always()
@@ -67,5 +62,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add _data/postings.yml 2>/dev/null || exit 0
           git diff --cached --quiet && exit 0
-          git commit -m "岗位采集：${{ inputs.sources || 'findaphd' }}"
+          git commit -m "岗位采集：${{ inputs.sources || 'actions' }}"
           git pull --rebase && git push

@@ -94,9 +94,23 @@
 
 ## 近期待办（按顺序）
 
-1. 岗位结构化字段：学位、语言、材料清单、开始时间、资助年限（先覆盖 jobs.ac.uk、FindAPhD、AcademicTransfer、Varbi、DAAD）。
-2. 接入大学招聘系统：先做 Workday 与 SuccessFactors 的通用适配器，再按国家列出高价值学校。
-3. 根据 GitHub Actions 上的可访问性结果，把只在 Actions 上能访问的信源和平台改在 Actions 上采集（包括德国联邦劳动局开放接口）。
-4. `profile.yml` 结构与 `/setup` 命令；网站“我的画像”表单。
-5. `/rank`：硬性筛选 + 关键词匹配版，配金标准评测；之后再加向量与模型打分。
-6. `/apply` 的申请清单与套磁信起草；`/track` 看板与提醒。
+2026-10-19 至北京时间 10-22 零点冲刺：14 个云端会话并行（见 `research/workers.yml` 的 `sprint`）：核实 1–4、研究 1–4、工程 A/B/D、产品 C/E、数据 F，覆盖下面第 1–7 项；冲刺期间每日“路线图推进”任务只做冲刺未覆盖的事。
+
+1. 【冲刺·工程 A 进行中】岗位结构化字段：学位、语言、材料清单、开始时间、资助年限（先覆盖 jobs.ac.uk、FindAPhD、AcademicTransfer、Varbi、DAAD）。
+2. 【冲刺·工程 B 进行中】接入大学招聘系统：先做 Workday 与 SuccessFactors 的通用适配器，再按国家列出高价值学校。
+3. 【冲刺·核实 1–4 进行中】全部信源用更强的模型重新核实一遍（失效 → 资格待核实 → 缺字段 → 最久未核实）。
+4. 【冲刺·产品 C 进行中】`profile.yml` 结构与 `/setup` 命令；`/rank` 硬性筛选 + 关键词匹配版；网站“为我推荐”。
+   - 10-19：画像结构 `docs/profile-schema.md` + `profile.example.yml`（真实画像、简历要点、排序结果写进 .gitignore）；`/setup`、`/rank` 命令；
+     `scripts/rank.py`（硬性筛选写明原因 + 0–100 打分 + 三行理由）与浏览器版 `assets/rank.js` 共用 `scripts/rank_rules.py`（中英文同义词表 117 组），
+     `tests/test_rank.py` 用构造画像验证筛选与排序，并在 1500 条真实岗位上核对两边结果一致。
+5. 【冲刺·工程 D 进行中】根据 GitHub Actions 上的可访问性结果，把只在 Actions 上能访问的信源和平台改在 Actions 上采集；研究德国联邦劳动局开放接口当前的访问方式。
+   - 10-19：`collect_postings.py -s actions` 采集 `ACTIONS` 清单（只有 Actions 能访问的平台，目前 FindAPhD），postings 工作流默认用它；`import_postings.py` 默认一次并回清单里全部平台（逐平台比较采集时间）。
+   - 10-19：德国联邦劳动局 Jobsuche 接入（`scripts/platforms_de.py`，适配器 `arbeitsagentur`）：bund.dev 文档公开的通用 clientId（请求头 `X-API-Key: jobboerse-jobsuche`，无需 OAuth/申请），旧版 `/pc/v4/jobs` 已 403，改用 `/pc/v6/jobs` + `/pc/v4/jobdetails`；截止日期只从描述原文取（Bewerbungsfrist / 带申请语境的 bis zum，排除合同期），抽样 70 条收 41 条。新平台统一写在 `scripts/platforms_*.py`，collect_postings 自动注册（ADAPTERS / HEADERS / VIA_RANK）。
+6. `/rank` 金标准评测（50 个虚构画像）；之后加向量与模型打分。
+7. 【冲刺·产品 E 进行中】`/apply` 的申请清单与套磁信起草；`/track` 看板与提醒。
+   - 10-19：`/apply`（`.claude/commands/apply.md` + `scripts/apply_check.py`）：`prepare` 取岗位原文生成申请清单（材料、推荐信数量、格式字数、截止时刻与时区、申请方式、开始时间、资格、资助，每项附原句），
+     `papers` 查导师近期论文（OpenAlex）；起草 / 审稿子代理提示词在 `research/apply-draft-prompt.md`、`research/apply-review-prompt.md`；
+     `check` 逐句校验出处标记 `[cv:…]`/`[lab:…]`/`[post]`：数字、比值、机构与人名、标题、奖项、网址必须出现在所引出处里，经历句无出处判错（`tests/test_apply.py` 24 条编造经历全部拦下），`clean` 去标记、`edit-ratio` 统计本人修改比例。
+     兼容产品 C 的 cv-facts 格式（`facts` 列表），顶层可加 `name`/`email` 供落款。
+   - 10-19：`/track`（`.claude/commands/track.md` + `scripts/track.py`）：`applications/tracker.yml` 五阶段看板，截止前 14/7/1 天与套磁 10 天未回提醒、每周摘要、导出 .ics、导入网站收藏。
+   - 10-19：网站“我的收藏”加申请进度（想投 / 准备中 / 已投 / 面试 / 结果，存浏览器本地）、按进度筛选、“导出全部截止到日历”（截止前 14/7/1 天提醒）。

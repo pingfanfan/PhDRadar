@@ -6,3 +6,10 @@ vendor
 __pycache__/
 .pytest_cache/
 dashboard/dist/
+# 申请者个人数据：只留在本地，绝不提交（见 docs/profile-schema.md）
+/profile.yml
+/cv-facts.yml
+/applications/
+/rankings/
+/cv/
+.cache/

@@ -1,0 +1,54 @@
+# 虚构申请者（演示与测试用，人物与学校均为虚构）
+name: Lin Xiaozhou
+name_zh: 林晓舟
+email: lin.xz@example.com
+education:
+  - id: edu1
+    degree: MSc in Statistics
+    institution: Northbridge University
+    start: 2024-09
+    end: 2026-06
+    gpa: 3.82/4.0
+    rank: top 5% of the cohort (3/62)
+    thesis: Adaptive tuning of Metropolis-adjusted Langevin algorithms on the probability simplex
+    supervisor: Prof. Zhao Min
+  - id: edu2
+    degree: BSc in Mathematics and Applied Mathematics
+    institution: Lakeside Normal University
+    start: 2020-09
+    end: 2024-06
+    gpa: 3.71/4.0
+publications:
+  - id: pub1
+    title: Tuning MALA on the simplex via online acceptance-rate control
+    authors: Lin X., Zhao M.
+    venue: Statistics and Computing
+    year: 2026
+    status: under review
+projects:
+  - id: proj1
+    title: Small-area disease mapping from aggregated counts
+    role: research assistant
+    period: 2025-03 to 2025-12
+    org: Northbridge University School of Mathematics
+    details:
+      - Implemented a data-augmentation Gibbs sampler in R and C++ for regional disease counts with exact row and column totals
+      - Reduced effective-sample-size cost per second by about 40% compared with the baseline sampler on synthetic tables
+  - id: proj2
+    title: Sequential Monte Carlo for traffic origin-destination estimation
+    role: course project lead (team of 3)
+    period: 2024-10 to 2025-01
+    details:
+      - Built a particle filter in Python estimating route flows from link counts
+awards:
+  - id: award1
+    name: National Scholarship for Graduate Students
+    year: 2025
+skills:
+  - R, Python, C++, Stan, LaTeX
+languages:
+  - id: ielts
+    test: IELTS
+    score: '7.5'
+    detail: L8 R8.5 W6.5 S7
+    date: 2026-03

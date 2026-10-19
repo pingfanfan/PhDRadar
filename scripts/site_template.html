@@ -134,6 +134,32 @@ main.in{padding-top:18px;padding-bottom:64px;display:flex;gap:18px;align-items:f
 .more{align-self:center;min-height:44px;padding:0 24px;border-radius:10px;border:1px solid var(--line-2);background:var(--surface);cursor:pointer}
 .empty{background:var(--surface);border:1px dashed var(--line-2);border-radius:14px;padding:32px;text-align:center;color:var(--muted)}
 
+/* 我的收藏：申请进度标签、状态筛选条、导出日历 */
+.stt{font-weight:700}
+.stt.s-want{background:var(--surface);color:var(--ink-2);box-shadow:inset 0 0 0 1px var(--line-2)}
+.stt.s-prep{background:color-mix(in srgb,var(--soon) 15%,var(--surface));color:var(--soon)}
+.stt.s-sent{background:var(--brand-soft);color:var(--brand-text)}
+.stt.s-interview{background:var(--brand);color:var(--brand-ink)}
+.stt.s-result{background:var(--ink);color:var(--surface)}
+.stt.s-result.r-reject,.stt.s-result.r-withdraw{background:var(--soft);color:var(--muted)}
+.svbar{display:flex;flex-direction:column;gap:10px;padding:12px;border:1px solid var(--line);border-radius:14px;background:var(--surface)}
+.svbar .pills{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
+.svbar .pill{min-height:40px;padding:0 9px}
+.svbar .pill .mono{font-size:12px;margin-left:3px;opacity:.7}
+.svx{display:flex;flex-wrap:wrap;align-items:center;gap:6px 12px}
+.svx .keep{min-height:42px;padding:0 14px;font-weight:700}
+.keep:disabled{opacity:.5;cursor:not-allowed}
+.svx small{flex:1 1 180px;font-size:12.5px;color:var(--muted)}
+.stw{display:flex;flex-direction:column;gap:8px}
+.stw .lab{display:flex;flex-wrap:wrap;justify-content:space-between;gap:4px 12px;font-size:13px;color:var(--muted)}
+.stw .lab b{color:var(--ink);font-size:13.5px}
+.seg{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));border:1px solid var(--line-2);border-radius:10px;overflow:hidden;background:var(--surface)}
+.seg button{min-height:42px;min-width:0;padding:0 4px;border:0;border-left:1px solid var(--line-2);background:transparent;color:var(--ink-2);font-size:14px;white-space:nowrap;cursor:pointer}
+.seg button:first-child{border-left:0}
+.seg button:hover{background:var(--hover)}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--surface);font-weight:700}
+.seg.sub{grid-template-columns:repeat(3,minmax(0,1fr));max-width:340px}
+
 /* 详情 */
 aside{flex:999 1 480px;min-width:0;position:sticky;top:16px}
 @keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
@@ -160,6 +186,19 @@ aside{flex:999 1 480px;min-width:0;position:sticky;top:16px}
 .proof q{display:block;font-family:var(--f-mono);font-size:14px;font-style:normal;color:var(--ink);overflow-wrap:anywhere}
 .proof small{display:block;margin-top:4px;font-size:12.5px;color:var(--proof-ink)}
 .fine{font-size:12.5px;color:var(--muted)}
+.tag.lang{background:none;box-shadow:inset 0 0 0 1px var(--line-2);color:var(--ink-2)}
+.af{display:flex;flex-direction:column;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.af details{border-top:1px solid var(--line)}
+.af details:first-child{border-top:0}
+.af summary{display:grid;grid-template-columns:88px minmax(0,1fr) auto;gap:12px;align-items:baseline;padding:11px 14px;cursor:pointer;list-style:none}
+.af summary::-webkit-details-marker{display:none}
+.af summary:hover{background:var(--soft)}
+.af summary span{font-size:12.5px;color:var(--muted)}
+.af summary b{font-size:14.5px;font-weight:600;line-height:1.5;color:var(--ink);overflow-wrap:anywhere}
+.af summary i{font-style:normal;font-size:12px;color:var(--faint);white-space:nowrap}
+.af details[open] summary i{color:var(--brand-text)}
+.af q{display:block;margin:0 14px 12px;padding:10px 12px;border-radius:8px;background:var(--proof);font-family:var(--f-mono);font-size:13px;line-height:1.6;font-style:normal;color:var(--ink);overflow-wrap:anywhere}
+.af q::before,.af q::after{content:none}
 .back{display:none}
 footer{border-top:1px solid var(--line);font-size:12.5px;color:var(--muted)}
 footer .in{padding-top:16px;padding-bottom:28px;display:flex;flex-direction:column;gap:6px}
@@ -174,9 +213,13 @@ footer .in{padding-top:16px;padding-bottom:28px;display:flex;flex-direction:colu
   .pane{border-radius:0;border:0;min-height:100%}
   .back{display:flex;align-items:center;gap:6px;position:sticky;top:0;z-index:2;width:100%;min-height:52px;padding:0 12px;border:0;border-bottom:1px solid var(--line);background:var(--surface);cursor:pointer;font-size:15px}
   .ph,.pb{padding-left:18px;padding-right:18px}
+  .af summary{grid-template-columns:minmax(0,1fr) auto;gap:2px 10px;padding:10px 12px}
+  .af summary span{grid-column:1/-1}
+  .af q{margin:0 12px 12px}
   .facts{grid-template-columns:repeat(2,minmax(0,1fr))}
   .acts{position:fixed;left:0;right:0;bottom:0;z-index:3;padding:12px 16px calc(12px + env(safe-area-inset-bottom,0px));background:var(--surface);border-top:1px solid var(--line)}
-  .acts .apply{flex:1;justify-content:center}
+  .acts .apply{flex:1;justify-content:center;white-space:nowrap;padding:0 14px}
+  .acts .keep{padding:0 12px}
   .acts .due{display:none}
   .trust{margin-left:0;flex-basis:100%}
   .bar{padding-top:8px}
@@ -235,6 +278,7 @@ footer .in{padding-top:16px;padding-bottom:28px;display:flex;flex-direction:colu
 <main class="in">
   <section class="list" aria-label="机会列表">
     <div class="lhead"><span><strong id="shown">…</strong> 个机会<span id="sv"></span></span><span>按截止日期分组</span></div>
+    <div class="svbar" id="svbar" hidden></div>
     <div id="cards" style="display:flex;flex-direction:column;gap:10px"></div>
     <button class="more" id="more" hidden>加载更多</button>
   </section>
@@ -253,7 +297,7 @@ const LABELS = __LABELS__;
 const PAGE = 40;
 const TODAY = new Date(new Date().toDateString());
 const HUES = ["#0B6E4F","#1F55B0","#0E7490","#B4380A","#6D28D9","#9F1239","#334155","#A16207","#1E3A8A","#047857","#7C2D12","#4338CA"];
-const st = {view:"now",phd:false,pd:false,cn:false,full:false,soon:false,q:"",region:"",disc:"",shown:PAGE,saved:false,sel:"",day:""};
+const st = {view:"now",phd:false,pd:false,cn:false,full:false,soon:false,q:"",region:"",disc:"",shown:PAGE,saved:false,sel:"",day:"",sf:""};
 let DATA = [], SAVED = {};
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -261,6 +305,21 @@ const isDate = d => /^\d{4}-\d{2}-\d{2}$/.test(d || "");
 const days = d => Math.round((new Date(d + "T00:00:00") - TODAY) / 864e5);
 try { SAVED = JSON.parse(localStorage.getItem("phdradar-saved") || "{}") || {}; } catch (e) { SAVED = {}; }
 const persist = () => { try { localStorage.setItem("phdradar-saved", JSON.stringify(SAVED)); } catch (e) {} };
+// 申请进度单独存：{id: {s: 状态, r: 结果, t: 更新日}}；旧收藏没有记录时按“想投”处理
+const STAGES = [["want", "想投"], ["prep", "准备中"], ["sent", "已投"], ["interview", "面试"], ["result", "结果"]];
+const RESULTS = [["offer", "录取"], ["reject", "未录取"], ["withdraw", "放弃"]];
+let STATUS = {};
+try { STATUS = JSON.parse(localStorage.getItem("phdradar-status") || "{}") || {}; } catch (e) { STATUS = {}; }
+if (typeof STATUS !== "object" || Array.isArray(STATUS)) STATUS = {};
+const persistStatus = () => { try { localStorage.setItem("phdradar-status", JSON.stringify(STATUS)); } catch (e) {} };
+const stageOf = id => { const v = STATUS[id]; return v && STAGES.some(([k]) => k === v.s) ? v : {s: "want"}; };
+const stageText = v => v.s === "result" && v.r ? (RESULTS.find(([k]) => k === v.r) || [, "结果"])[1] : STAGES.find(([k]) => k === v.s)[1];
+const stageTag = id => { const v = stageOf(id); return `<span class="tag stt s-${v.s}${v.r ? " r-" + esc(v.r) : ""}">${esc(stageText(v))}</span>`; };
+function setStage(id, s, r){
+  const v = {s, t: iso(new Date())};
+  if (s === "result") { const r0 = r || (STATUS[id] && STATUS[id].s === "result" && STATUS[id].r); if (r0) v.r = r0; }
+  STATUS[id] = v; persistStatus();
+}
 
 const isNow = x => !!x.o && (!isDate(x.o.dl) || days(x.o.dl) >= 0);
 const dlOf = x => isNow(x) && x.o.dl ? x.o.dl : x.dl;
@@ -318,13 +377,16 @@ function card(x){
         <span class="org">${esc([x.org, regionText(x)].filter(Boolean).join(" · "))}</span>
         <span class="pay">${esc(payText(x))}</span>
         ${x.in ? `<span class="intro">${esc(x.in)}</span>` : ""}
-        <span class="tags"><span class="tag">${esc(levelText(x))}</span><span class="tag ${cnYes(x) ? "yes" : ""}">${esc(cnYes(x) ? "中国学生可申" : (LABELS.cn[x.e] || LABELS.cn.check)[0])}</span>${screened(x) ? '<span class="tag warn">留意安全审查</span>' : ""}${discTags(x)}</span>
+        <span class="tags">${saved ? stageTag(x.id) : ""}<span class="tag">${esc(levelText(x))}</span><span class="tag ${cnYes(x) ? "yes" : ""}">${esc(cnYes(x) ? "中国学生可申" : (LABELS.cn[x.e] || LABELS.cn.check)[0])}</span>${screened(x) ? '<span class="tag warn">留意安全审查</span>' : ""}${x.lt ? `<span class="tag lang">语言 ${esc(x.lt)}</span>` : ""}${discTags(x)}</span>
         <span class="due ${tone}">${esc(dt)}</span>
       </span>
     </button>
     <button class="bm" data-save="${esc(x.id)}" aria-pressed="${saved}" aria-label="${saved ? "取消收藏" : "收藏"}">${bmSvg}</button>
   </article>`;
 }
+
+const AF_LABELS = [["dg", "学位要求"], ["lg", "语言要求"], ["sd", "开始时间"], ["du", "资助年限"], ["dc", "材料清单"],
+  ["av", "申请方式"], ["sv", "导师"], ["na", "身份限制"]];
 
 function detail(x){
   if (!x) return `<div class="empty">选择左侧的机会查看详情</div>`;
@@ -337,6 +399,7 @@ function detail(x){
     ["截止", d === "rolling" ? "滚动招生" : isDate(d) ? d : (LABELS.deadline[d] || "官网未写明")],
     ["层次", levelText(x)], ["地区", regionText(x) || "—"], ["中国学生", (LABELS.cn[x.e] || LABELS.cn.check)[0]]];
   const notes = [x.rq, x.dn].filter(Boolean);
+  const af = AF_LABELS.filter(([k]) => x.af && x.af[k]);
   return `<button class="back" id="back"><svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>返回列表</button>
   <div class="pane">
     <div class="ph">
@@ -348,19 +411,37 @@ function detail(x){
       <div class="acts">
         <a class="apply" href="${esc(x.u)}" target="_blank" rel="noopener">去官网申请 <svg aria-hidden="true" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
         <button class="keep" data-save="${esc(x.id)}" aria-pressed="${saved}">${bmSvg.replace('width="18" height="18"', 'width="16" height="16"')}${saved ? "已收藏" : "收藏"}</button>
-        ${isDate(d) && days(d) >= 0 ? `<button class="keep" data-ics="${esc(x.id)}" title="下载 .ics，截止前 7 天和 1 天提醒"><svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>加入日历</button>` : ""}
+        ${isDate(d) && days(d) >= 0 ? `<button class="keep" data-ics="${esc(x.id)}" title="下载 .ics，截止前 14 天、7 天和 1 天提醒"><svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>加入日历</button>` : ""}
         <span class="due ${tone}">${esc(dt)}</span>
       </div>
+      ${saved ? stageControl(x.id) : ""}
     </div>
     <div class="facts">${facts.map(([k, v]) => `<div><span>${k}</span><b>${esc(v)}</b></div>`).join("")}</div>
     <div class="pb">
       ${quote ? `<div><h2>官网原句</h2><div class="proof"><svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5 9-10"/></svg><div><q>${esc(quote)}</q><small>${esc(checked || "")} 打开${x.via ? ` ${esc(x.via)} 公告` : "官网"}${what}</small></div></div></div>` : ""}
       ${screened(x) ? `<div class="alert"><h2>留意安全审查</h2><p>公告原文提到出口管制、ATAS 或知识安全审查等要求。中国大陆学生可能需要额外审查，部分方向可能受限，投递前请先读原文确认。</p></div>` : ""}
-      ${notes.length ? `<div><h2>申请须知</h2>${notes.map(n => `<p>${esc(n)}</p>`).join("")}</div>` : ""}
+      ${af.length || notes.length ? `<div><h2>申请须知</h2>${af.length ? `<div class="af">${af.map(([k, label]) => `<details><summary><span>${label}</span><b>${esc(x.af[k][0])}</b><i>原句</i></summary><q>${esc(x.af[k][1])}</q></details>`).join("")}</div>` : ""}${notes.map(n => `<p${af.length ? ' style="margin-top:10px"' : ""}>${esc(n)}</p>`).join("")}${af.length ? `<p class="fine" style="margin-top:8px">以上由程序从公告原文摘录，点开可看原句；没列出的项目公告里没写，请以官网为准。</p>` : ""}</div>` : ""}
       ${x.al ? `<p class="fine">同一岗位也发布在：${x.al.map((u, i) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(new URL(u).hostname.replace(/^www\./, ""))}</a>`).join("、")}</p>` : ""}
       <p class="fine">${x.via ? `岗位来自 ${esc(x.via)}，截止日期由程序从公告原文提取。` : ""}信息以官网为准，截止时间注意时区。发现错误？<a href="__REPO__/issues">告诉我们</a></p>
     </div>
   </div>`;
+}
+
+function stageControl(id){
+  const v = stageOf(id);
+  return `<div class="stw"><div class="lab"><span>申请进度 <b>${esc(stageText(v))}</b></span>${v.t ? `<span class="mono">${esc(v.t)} 更新</span>` : ""}</div>
+    <div class="seg" role="group" aria-label="申请进度">${STAGES.map(([k, t]) => `<button data-stage="${k}" data-sid="${esc(id)}" aria-pressed="${v.s === k}">${t}</button>`).join("")}</div>
+    ${v.s === "result" ? `<div class="seg sub" role="group" aria-label="申请结果">${RESULTS.map(([k, t]) => `<button data-stage="result" data-res="${k}" data-sid="${esc(id)}" aria-pressed="${v.r === k}">${t}</button>`).join("")}</div>` : ""}
+  </div>`;
+}
+const exportable = () => DATA.filter(x => SAVED[x.id] && stageOf(x.id).s !== "result" && isDate(dlOf(x)) && days(dlOf(x)) >= 0);
+function svbar(base){
+  const n = {"": base.length};
+  base.forEach(x => { const s = stageOf(x.id).s; n[s] = (n[s] || 0) + 1; });
+  const ex = exportable().length;
+  return `<div class="pills" role="group" aria-label="按申请进度筛选">${[["", "全部"], ...STAGES].map(([k, t]) => `<button class="pill" data-sf="${k}" aria-pressed="${st.sf === k}">${t}<span class="mono">${n[k] || 0}</span></button>`).join("")}</div>
+    <div class="svx"><button class="keep" id="ics-all" ${ex ? "" : "disabled"} title="${ex ? `把 ${ex} 个截止导出为一个 .ics，截止前 14 天、7 天和 1 天提醒` : "没有可导出的截止日期"}"><svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>导出全部截止到日历${ex ? `<span class="mono">${ex}</span>` : ""}</button>
+    <small>${ex ? "只导出有具体日期、尚未截止、进度不是“结果”的收藏；截止前 14 / 7 / 1 天提醒。" : "没有可导出的截止：需要有具体截止日期、尚未截止，且进度不是“结果”。"}</small></div>`;
 }
 
 function group(x){
@@ -383,20 +464,38 @@ function cardsHtml(list){
     return head + card(x);
   }).join("");
 }
-const icsText = s => String(s || "").replace(/[\\;,]/g, c => "\\" + c).replace(/\n/g, "\\n");
-function ics(x){
-  const d = dlOf(x).replace(/-/g, ""), end = new Date(dlOf(x) + "T00:00:00"); end.setDate(end.getDate() + 1);
-  const stamp = new Date().toISOString().replace(/[-:]/g, "").replace(/\.\d+/, "");
+const icsText = s => String(s || "").replace(/[\;,]/g, c => "\\" + c).replace(/\n/g, "\\n");
+// 按 RFC 5545 折行：每行不超过 75 字节，续行以空格开头，不拆开多字节字符
+function icsFold(line){
+  const enc = new TextEncoder(), out = [];
+  let cur = "", n = 0;
+  for (const ch of line) {
+    const b = enc.encode(ch).length;
+    if (n + b > (out.length ? 74 : 75)) { out.push(cur); cur = ""; n = 0; }
+    cur += ch; n += b;
+  }
+  out.push(cur);
+  return out.join("\r\n ");
+}
+function vevent(x, stamp){
+  const dl = dlOf(x), end = new Date(dl + "T00:00:00"); end.setDate(end.getDate() + 1);
   const alarm = (t, m) => ["BEGIN:VALARM", `TRIGGER:${t}`, "ACTION:DISPLAY", `DESCRIPTION:${icsText(m)}`, "END:VALARM"];
-  const lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//PhDRadar//CN", "CALSCALE:GREGORIAN", "BEGIN:VEVENT",
-    `UID:${icsText(x.id)}@phdradar`, `DTSTAMP:${stamp}`, `DTSTART;VALUE=DATE:${d}`, `DTEND;VALUE=DATE:${iso(end).replace(/-/g, "")}`,
+  return ["BEGIN:VEVENT", `UID:${icsText(x.id)}@phdradar`, `DTSTAMP:${stamp}`, `DTSTART;VALUE=DATE:${dl.replace(/-/g, "")}`, `DTEND;VALUE=DATE:${iso(end).replace(/-/g, "")}`,
     `SUMMARY:${icsText("截止：" + x.n)}`, `DESCRIPTION:${icsText([x.org, "申请链接：" + x.u, "截止时间以官网为准，注意时区。"].filter(Boolean).join("\n"))}`,
-    `URL:${x.u}`, ...alarm("-P7D", "还有 7 天截止：" + x.n), ...alarm("-P1D", "明天截止：" + x.n), "END:VEVENT", "END:VCALENDAR"];
+    `URL:${x.u}`, ...alarm("-P14D", "还有 14 天截止：" + x.n), ...alarm("-P7D", "还有 7 天截止：" + x.n), ...alarm("-P1D", "明天截止：" + x.n), "END:VEVENT"];
+}
+function icsCalendar(list){
+  const stamp = new Date().toISOString().replace(/[-:]/g, "").replace(/\.\d+/, "");
+  const lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//PhDRadar//CN", "CALSCALE:GREGORIAN", "METHOD:PUBLISH", ...list.flatMap(x => vevent(x, stamp)), "END:VCALENDAR"];
+  return lines.map(icsFold).join("\r\n") + "\r\n";
+}
+function icsDownload(list, name){
   const a = document.createElement("a");
-  a.href = URL.createObjectURL(new Blob([lines.join("\r\n") + "\r\n"], {type: "text/calendar;charset=utf-8"}));
-  a.download = `phdradar-${dlOf(x)}.ics`; document.body.appendChild(a); a.click(); a.remove();
+  a.href = URL.createObjectURL(new Blob([icsCalendar(list)], {type: "text/calendar;charset=utf-8"}));
+  a.download = name; document.body.appendChild(a); a.click(); a.remove();
   setTimeout(() => URL.revokeObjectURL(a.href), 1000);
 }
+const ics = x => icsDownload([x], `phdradar-${dlOf(x)}.ics`);
 const iso = d => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
 const md = d => `${+d.slice(5, 7)}月${+d.slice(8)}日`;
 function heat(){
@@ -422,12 +521,14 @@ function heat(){
 }
 function render(keepScroll){
   heat();
-  const list = filtered();
+  const base = filtered(), list = st.saved && st.sf ? base.filter(x => stageOf(x.id).s === st.sf) : base;
+  $("svbar").hidden = !st.saved;
+  $("svbar").innerHTML = st.saved ? svbar(base) : "";
   if (!list.some(x => x.id === st.sel) && innerWidth > 860) st.sel = list[0] ? list[0].id : "";
   $("shown").textContent = list.length.toLocaleString();
   $("sv").textContent = st.saved ? " · 我的收藏" : "";
   $("cards").innerHTML = list.length ? cardsHtml(list)
-    : `<div class="empty">${st.saved ? "还没有收藏。点卡片右上角的书签收藏想投的机会。" : "没有符合条件的机会，试试放宽筛选。"}</div>`;
+    : `<div class="empty">${st.saved ? (st.sf && base.length ? "这个进度下还没有收藏。" : "还没有收藏。点卡片右上角的书签收藏想投的机会。") : "没有符合条件的机会，试试放宽筛选。"}</div>`;
   $("more").hidden = list.length <= st.shown;
   $("aside").innerHTML = detail(DATA.find(x => x.id === st.sel));
   $("n-saved").textContent = Object.keys(SAVED).length;
@@ -449,7 +550,7 @@ function bind(){
   document.querySelectorAll(".pill[data-f]").forEach(b => b.addEventListener("click", () => {
     st[b.dataset.f] = !st[b.dataset.f]; b.setAttribute("aria-pressed", st[b.dataset.f]); st.shown = PAGE; render();
   }));
-  $("saved").addEventListener("click", () => { st.saved = !st.saved; $("saved").setAttribute("aria-pressed", st.saved); st.shown = PAGE; render(); });
+  $("saved").addEventListener("click", () => { st.saved = !st.saved; st.sf = ""; $("saved").setAttribute("aria-pressed", st.saved); st.shown = PAGE; render(); });
   $("q").addEventListener("input", e => { st.q = e.target.value; st.shown = PAGE; render(); });
   $("form").addEventListener("submit", e => { e.preventDefault(); $("q").blur(); });
   ["region", "disc"].forEach(id => $(id).addEventListener("change", e => { st[id] = e.target.value; st.shown = PAGE; render(); }));
@@ -459,8 +560,13 @@ function bind(){
     if (dd) { st.day = st.day === dd.dataset.day ? "" : dd.dataset.day; st.shown = PAGE; render(); return; }
     const c = e.target.closest("[data-ics]");
     if (c) { const x = DATA.find(y => y.id === c.dataset.ics); if (x) ics(x); return; }
+    if (e.target.closest("#ics-all")) { const l = exportable(); if (l.length) icsDownload(l, `phdradar-saved-${iso(TODAY)}.ics`); return; }
+    const sf = e.target.closest("[data-sf]");
+    if (sf) { st.sf = sf.dataset.sf; st.shown = PAGE; render(); return; }
+    const sg = e.target.closest("[data-stage]");
+    if (sg) { setStage(sg.dataset.sid, sg.dataset.stage, sg.dataset.res); render(true); const pn = document.querySelector("#aside .pane"); if (pn) pn.style.animation = "none"; return; }
     const p = e.target.closest("[data-id]"), s = e.target.closest("[data-save]");
-    if (s) { const id = s.dataset.save; if (SAVED[id]) delete SAVED[id]; else SAVED[id] = 1; persist(); render(); return; }
+    if (s) { const id = s.dataset.save; if (SAVED[id]) { delete SAVED[id]; delete STATUS[id]; } else { SAVED[id] = 1; setStage(id, "want"); } persist(); persistStatus(); render(); return; }
     if (p) openDetail(p.dataset.id);
     if (e.target.closest("#back")) { if (pushed) { pushed = false; history.back(); } else closeDetail(); }
   });
@@ -473,7 +579,7 @@ function fill(id, counts, names){
 }
 bind();
 fetch("assets/catalog.json").then(r => r.json()).then(rows => {
-  DATA = rows.map(x => ({...x, _hay: [x.n, x.org, x.in, regionText(x), (x.d || []).map(d => LABELS.discipline[d] || d).join(" "), x.s, x.rq].join(" ").toLowerCase()}));
+  DATA = rows.map(x => ({...x, _hay: [x.n, x.org, x.in, regionText(x), (x.d || []).map(d => LABELS.discipline[d] || d).join(" "), x.s, x.rq, x.lt, x.af && x.af.dg && x.af.dg[0]].join(" ").toLowerCase()}));
   const nNow = DATA.filter(isNow).length, nVer = DATA.filter(x => x.v).length;
   $("n-now").textContent = nNow.toLocaleString(); $("n-ver").textContent = nVer.toLocaleString();
   if (DATA.length > nVer) { $("t-all").hidden = false; $("n-all").textContent = DATA.length.toLocaleString(); }

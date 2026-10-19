@@ -1,0 +1,64 @@
+# 申请者画像示例（虚构人物）。复制为 profile.yml 后修改，或运行 /setup 让 Claude 从简历生成。
+# profile.yml 已写进 .gitignore，不会被提交；字段说明见 docs/profile-schema.md。
+# 没有的信息留空或删掉，不要填猜测值：排序只用你填了的条件。
+
+nationality: CN              # 国籍（ISO 两位代码）；CN 时按“中国学生能否申请”筛选
+
+education:                   # 从高到低或按时间都可以
+  - degree: master           # bachelor / master / phd
+    school: 某某大学
+    major: 生物医学工程
+    gpa: "3.7/4.0"
+    end: 2027-06             # 毕业（或预计毕业）年月
+    status: ongoing          # completed 已毕业 / ongoing 在读
+  - degree: bachelor
+    school: 某某大学
+    major: 电子信息工程
+    gpa: "88/100"
+    end: 2024-06
+    status: completed
+
+research:
+  keywords: [医学影像, 深度学习, MRI 重建, 图像分割]   # 中英文都可以，3–6 个最好
+  disciplines: []            # 可选：ai / med / ...（不填就从关键词推断，见 docs/schema.md 的学科代码）
+  interests: |
+    用深度学习做快速 MRI 重建和脑肿瘤分割，关心模型在临床数据上的泛化与不确定性。
+
+publications:                # 只写已发表 / 已投稿的，写明状态
+  - title: "示例：A Lightweight Network for Accelerated MRI Reconstruction"
+    venue: MICCAI Workshop
+    year: 2026
+    status: accepted         # published / accepted / under review / preprint
+    role: 第一作者
+
+projects:
+  - name: 示例：医院合作的脑肿瘤分割项目
+    period: 2025-03 至 2026-06
+    summary: 负责数据清洗与 U-Net 基线，Dice 从 0.81 提升到 0.86
+
+languages:
+  ielts: 7.0                 # 总分；没有就留空
+  toefl:                     # 总分
+  german:                    # A1–C2 或 native
+  other: []                  # 例：[{lang: French, level: B1}]
+
+target:
+  levels: [phd]              # phd / postdoc，可都选
+  start: 2027-09             # 最早能入学 / 入职的年月
+
+countries:
+  accept: [UK, NL, DE, CH, SE, DK, HK, SG]   # 可接受的国家；留空 = 都可以
+  prefer: [UK, NL]           # 更想去的（加分）
+  exclude: []                # 明确不考虑的
+
+funding:
+  min_coverage: full         # any 不限 / partial 至少部分资助 / full 全奖或带薪（官网没写的保留）/ confirmed 只要官网写明全奖或带薪
+  min_monthly_eur:           # 可选：每月最低（约合欧元）；只在官网写了金额时比较
+
+deadline:
+  min_prep_days: 14          # 离截止少于这么多天的不推荐（来不及准备）
+
+eligibility:
+  cn_only: false             # true = 只看官网明确写了中国学生可申请的
+
+sensitive_field: false       # 方向是否涉及出口管制 / 安全审查敏感领域（如核、航天、军用材料、部分半导体与 AI 安全）

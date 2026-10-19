@@ -59,6 +59,7 @@ python scripts/probe_sources.py          # 真实核查信源 + 试跑抓取器�
 - 研究员与核实员会话每天轮换重开（`research/workers.yml` 记录当前会话与定时任务）。
 - **每日岗位更新**（北京时间）：09:23 公开仓库 PhDRadar 的 `postings` 工作流采集 FindAPhD（它只对 GitHub Actions 开放）；11:17 本地任务依次运行
   `collect_postings.py`（其余平台）→ `import_postings.py`（并回 FindAPhD）→ `discover.py`（在招导师线索）→ 为新岗位写简介（`research/intro-prompt.md` + `apply_intros.py`）→
+  新岗位的申请须知字段（`enrich_postings.py fetch` → `bundle --dir D` → 每批派一个 Sonnet 子代理按 `research/enrich-prompt.md` 写 `D/out-*.yml` → `apply --dir D`，结果在 `_data/posting_fields.yml`）→
   `access_report.py`（平台接入状态与核对过信源能否打开，写 `docs/access.md`）→ `build_site.py` → 提交 → `make_public.py` 同步公开站。
 - `/review-discoveries`：人工/Claude 审核自动发现的在招导师与候选信源。
 - 所有自动任务都直接推送到 `main`，推送前务必 `git pull --rebase`。
