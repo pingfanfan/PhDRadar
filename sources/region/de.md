@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 德国（DE） 信源（296）
+# 德国（DE） 信源（298）
 
-所有标注了地区 DE 的信源，共 296 条。
+所有标注了地区 DE 的信源，共 298 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 12](de.md#aggregators) · [各国学术招聘门户与机构职位页 13](de.md#national-portals) · [政府与国家级奖学金 8](de.md#gov-scholarships) · [高校旗舰奖学金与资助检索 45](de.md#university-schemes) · [结构化博士项目与研究机构 138](de.md#doctoral-programs) · [博士后奖学金与项目 26](de.md#postdoc-fellowships) · [企业与基金会 Fellowship 23](de.md#fellowships) · [学科专属信源 5](de.md#discipline) · [科研实习与“曲线入口” 1](de.md#pathways) · [个人信源与社交渠道 19](de.md#people-channels) · [导师招生帖（社交平台个人发布） 4](de.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 2](de.md#faculty-aggregators)
+**按分类跳转：** [综合聚合平台 12](de.md#aggregators) · [各国学术招聘门户与机构职位页 13](de.md#national-portals) · [政府与国家级奖学金 8](de.md#gov-scholarships) · [高校旗舰奖学金与资助检索 45](de.md#university-schemes) · [结构化博士项目与研究机构 138](de.md#doctoral-programs) · [博士后奖学金与项目 26](de.md#postdoc-fellowships) · [企业与基金会 Fellowship 24](de.md#fellowships) · [学科专属信源 6](de.md#discipline) · [科研实习与“曲线入口” 1](de.md#pathways) · [个人信源与社交渠道 19](de.md#people-channels) · [导师招生帖（社交平台个人发布） 4](de.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 2](de.md#faculty-aggregators)
 
 <a id="aggregators"></a>
 
@@ -296,7 +296,7 @@
 
 <a id="fellowships"></a>
 
-## 企业与基金会 Fellowship（23）
+## 企业与基金会 Fellowship（24）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -307,6 +307,7 @@
 | [KIT 州研究生奖学金（LGF，KHYS）](https://www.khys.kit.edu/english/graduate_funding.php)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 未公布<br><sub>🔜 即将开放</sub><br><sub>LGF 个人资助 2027 年起改由 GradExcPro 实施；页面称首轮征集预计于 2026 年 11 月中旬公布。</sub> | ❔ | **要求：** 面向尚未在 KIT 开始博士项目的优秀预备博士生（GradExcPro，2027 年起）；LGF 完成期资助目前不开放申请。<br>德国巴登-符腾堡州博士资助（LGF），KIT 个人资助 2027 年起并入 GradExcPro，可共同融资博士阶段的研究职位并提供研究生院支持。 |
 | [Munich Quantum Valley 博士奖学金（慕尼黑）](https://www.munich-quantum-valley.de/education/doctoral-fellowships)<br><sub>德国 ｜ 物理/天文·计算机·工程</sub> | 博士 | 全奖 | 未公布<br><sub>🔜 即将开放</sub><br><sub>2026 批次为 2025-10-15 至 2026-01-15；2027 批次未公布，通常 10 月开放</sub> | ❔ | **要求：** 硕士学位；可选择巴伐利亚任一大学的研究组<br>全额 3 年博士奖学金，每年约 5 个名额，由 MQV 与 IMPRS-QST 联合招募。2027 批次尚未公布，国际生资格以官网为准。 |
 | [Oberwolfach Leibniz 研究生资助（MFO 研讨会差旅）](https://www.mfo.de/scientific-program/grants/become-an-oberwolfach-leibniz-graduate-student)<br><sub>德国 ｜ 数学/统计</sub> | 博士 | 半奖/部分<br><sub>差旅补贴平均约 €200（非生活费）</sub> | 滚动<br><sub>🔄 随时可申</sub><br><sub>随时邮件申请所长，名额有限，依研讨会安排决定。</sub> | ❔ | **要求：** 在读博士生，或博士学位取得未满 2 年的毕业生（以研讨会日期计）；需提供研究方向、导师、学位日期与拟参加研讨会 ID；由所长在组织者建议后决定。<br>Oberwolfach 数学研究所为在读博士及学位 2 年内毕业生参加 MFO 研讨会提供差旅补贴，平均约 200 欧元，需邮件向所长申请，名额有限。不是生活费资助。 |
+| [伯尔基金会（Heinrich Böll）博士奖学金](https://boell.de/en/applying-scholarship)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2027-03-01**<br><sub>🔜 即将开放</sub><br><sub>每年 3 月 1 日与 9 月 1 日两轮；2026 年 9 月轮已截止，下一轮为 2027 年 3 月 1 日</sub> | ❔ | **要求：** 面向在德国攻读博士的国际学生；官网称博士资助对象包括 EU 与 DAC 国家学生，中国籍资格未明确；需通过在线门户申请<br>伯尔基金会博士奖学金，面向在德国攻读博士的外国学生，每年 3 月 1 日与 9 月 1 日两轮截止，2026 年 9 月轮已过，下一轮为 2027 年 3 月 1 日。需已获德国大学博士录取，通过官网在线门户申请；中国籍资格官网描述不明确。 |
 | [康拉德·阿登纳基金会（KAS）外国博士生奖学金（2026 指南）](https://www.kas.de/documents/d/begabtenfoerderung-und-kultur/rili-internationale-nachwuchsfoerderung-01_2026)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面称国内选拔申请截止日为每年 7 月 15 日；2026 年该轮已过，下一轮以官网为准。</sub> | ✅ | **要求：** 申请时在德国居留不超过 15 个月（可酌情放宽），并在德国高校攻读或即将攻读博士；博士生宜尚有约六个学期的研究周期；医学国家考试（Staatsexamen）专业除外。<br>KAS 面向在德国攻读或即将攻读博士的外国学生，通过 campus.kas.de 在线申请；抓取的正文未包含资助金额章节，金额需以官方 PDF 为准。 |
 | [弗里德里希·艾伯特基金会（FES）外国博士生奖学金](https://www.fes.de/studienfoerderung/promotionsfoerderung-fuer-auslaender-innen)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>每月 1,500 欧元 + 法定医保补贴</sub> | 滚动<br><sub>🔄 随时可申</sub><br><sub>无固定截止，官方建议在博士论文提交前约两年内尽早申请</sub> | ✅ | **要求：** 须来自国外并已获德国高校博士录取；需德语 B2 水平（页面称可不提供证书）；另有社会政治参与、与社会民主价值观相符、学业优秀等选拔条件；医学方向不资助。<br>官方页写明：外国博士生每月获 1,500 欧元并有法定医保补贴，一般资助 3.5 年。无固定截止，建议在论文提交前约两年内尽早申请。 |
 | [德国联邦环境基金会（DBU）· 博士生奖学金（环境与可持续方向）](https://www.dbu.de/app/uploads/Foerderleitlinien-zum-Promotionsstipendienprogramm-der-Deutschen-Bundesstiftung-Umwelt.pdf)<br><sub>德国 ｜ 地球/环境/海洋·工程·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | **2027-01-15**<br><sub>🔜 即将开放</sub><br><sub>资助准则规定每年 1 月 15 日与 6 月 15 日两次截止（准则 Stand 01/2026）；下一轮为 2027 年 1 月 15 日。</sub> | ❔ | **要求：** 研究须与环境或自然保护问题有明确关联，并与德国的环境状况或全球环境问题相关；工作须在德国高校或研究机构完成；非德国籍申请人需提交德语 B2 证明并获高校导师支持（依据准则 Stand 01/2026）。<br>面向在德国高校攻读博士、课题与环境或自然保护相关的研究者，每年 1 月 15 日与 6 月 15 日两次截止，资助期限最长三年。金额以官方准则为准，中国学生能否申请需对照当年准则确认。 |
@@ -326,12 +327,13 @@
 
 <a id="discipline"></a>
 
-## 学科专属信源（5）
+## 学科专属信源（6）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Fraunhofer IEE · 博士论文与博士岗位招聘页](https://iee.fraunhofer.de/en/career.html)<br><sub>德国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 通常需优秀硕士成绩；需先获大学接受博士课题并与研究所商定；国际生资格与语言要求未确认<br>弗劳恩霍夫 IEE 招聘页，含博士论文与博士岗位入口。页面未列出当前开放的博士岗位与截止日期，请定期查看。 |
 | [GSI 亥姆霍兹重离子研究中心博士论文与岗位页](https://www.gsi.de/work/forschung/theses)<br><sub>德国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 各岗位条件不同，国际生资格需看具体招聘与合作大学的要求。<br>列出 GSI 的博士课题与合作大学博士岗位,核物理与 FAIR 相关方向。学位由合作大学授予,确认入学要求与国际生资格。 |
+| [奥格斯堡大学计算机视觉/具身 AI 组（Stückler 组）招聘页](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/ips/open-positions/)<br><sub>德国 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | **2026-07-24**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 7 月 24 日截止，本轮已关闭；页面接受主动申请邮件</sub> | ❔ | **要求：** 需计算机、电气、应用数学或物理相关硕士；按 TV-L E13 支付<br>计算机视觉与具身 AI 方向的三年期研究助理/博士岗（TV-L E13），此前一轮截止为 2026 年 7 月，已关闭。页面长期有效，建议关注后续新岗位。 |
 | [弗莱堡大学机器人学习实验室（Valada 组）招生页](https://rl.informatik.uni-freiburg.de/open-positions)<br><sub>德国 ｜ 人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 滚动<br><sub>🔄 随时可申</sub><br><sub>页面称申请持续接收，直至岗位招满。</sub> | ❔ | **要求：** 需计算机、机器人、机器学习或计算机视觉等相关硕士，具备 PyTorch 经验，C++ 加分；不要求德语，公告称欢迎国际候选人（来自邮件列表与 ELLIS 公告）<br>页面列出博士与博士后岗位，薪资为 TV-L E13 至 E14（100%）；页面称欢迎国际候选人，不要求德语。 |
 | [波茨坦大学计算语言学实验室（CLP）岗位页](https://clp.ling.uni-potsdam.de/positions/)<br><sub>德国 ｜ 人文/语言·计算机</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 滚动<br><sub>🟢 开放申请</sub> | ❔ | 页面注明 2026 年博士岗已招满，当前仅一个博后岗位：100% TVL-13，初期 3 年，与 DFKI Berlin 合作，项目为 FLICA。岗位招满为止，评审已于 2026 年 7 月开始。 |
 | [莱布尼茨天体物理研究所（AIP Potsdam）岗位页](https://www.aip.de/en/career/jobs)<br><sub>德国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面列出：X 射线天文博后 2026-10-31；光纤科学家 2026-12-01；tenure-track 科学家 2026-12-15；探测器博后页面未列截止日；以岗位页为准</sub> | ❔ | **要求：** 以各岗位公告为准；博后多为 TV-L 工资标准下约 1–2 年的项目制岗位<br>德国波茨坦天体物理研究所（AIP）岗位页，列有博后、科学家和 tenure-track 岗位，截止日各不相同（见截止说明）；申请前核对每个岗位的截止日期。 |

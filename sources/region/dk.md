@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 丹麦（DK） 信源（40）
+# 丹麦（DK） 信源（41）
 
-所有标注了地区 DK 的信源，共 40 条。
+所有标注了地区 DK 的信源，共 41 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 2](dk.md#aggregators) · [各国学术招聘门户与机构职位页 4](dk.md#national-portals) · [高校旗舰奖学金与资助检索 7](dk.md#university-schemes) · [结构化博士项目与研究机构 12](dk.md#doctoral-programs) · [博士后奖学金与项目 2](dk.md#postdoc-fellowships) · [企业与基金会 Fellowship 3](dk.md#fellowships) · [学科专属信源 1](dk.md#discipline) · [科研实习与“曲线入口” 3](dk.md#pathways) · [个人信源与社交渠道 2](dk.md#people-channels) · [导师招生帖（社交平台个人发布） 4](dk.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 2](dk.md#aggregators) · [各国学术招聘门户与机构职位页 4](dk.md#national-portals) · [高校旗舰奖学金与资助检索 8](dk.md#university-schemes) · [结构化博士项目与研究机构 12](dk.md#doctoral-programs) · [博士后奖学金与项目 2](dk.md#postdoc-fellowships) · [企业与基金会 Fellowship 3](dk.md#fellowships) · [学科专属信源 1](dk.md#discipline) · [科研实习与“曲线入口” 3](dk.md#pathways) · [个人信源与社交渠道 2](dk.md#people-channels) · [导师招生帖（社交平台个人发布） 4](dk.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
@@ -32,7 +32,7 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（7）
+## 高校旗舰奖学金与资助检索（8）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -42,6 +42,7 @@
 | [哥本哈根大学药物研究学院资助与奖学金页](https://dra.ku.dk/grants/)<br><sub>丹麦 ｜ 医学/公卫·化学/材料·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** DRA 面向药学科学领域博士生；具体资助条件以各公告为准，国际生资格未确认<br>DRA 资助页入口。检索结果显示 DRA Scholarships 是面向硕士阶段优秀学生的预科培养，并非博士资助；博士资助多以课题组公告发布。页面所列 Lundbeck 金额适用阶段需逐条核对。 |
 | [奥胡斯大学工程与技术科学研究生院博士岗位入口](https://phd.tech.au.dk/for-applicants/apply-here/)<br><sub>丹麦 ｜ 工程·计算机·人工智能·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各项目截止日不同，页面列出 2026/10/10 至 2026/12/01 的岗位，以各岗位页为准。</sub> | ❔ | **要求：** 需工程或相关专业硕士学位；丹麦博士为带薪雇员<br>AU 工程学院的博士岗位统一在此发布，按具体项目申请、带薪。 |
 | [奥胡斯大学数学系空缺岗位页](https://math.au.dk/en/about/vacancies/phd)<br><sub>丹麦 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>最新一轮截止 2026 年 11 月 1 日，2027 年 2 月 1 日起始</sub> | ❔ | 奥胡斯大学数学系带薪博士岗位（Mathematics and Stochastics），官网博士招聘页可见 2026 年 11 月 1 日截止的一轮；薪资、学历与国际生资格以岗位公告为准。 |
+| [奥胡斯大学文学院 4+4 博士奖学金公开征集（含人类学）](https://phd.arts.au.dk/applicants/open-and-specific-calls/deadline/phd-open-call-e2026-uk)<br><sub>丹麦 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-10-01**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 秋轮截止 10 月 1 日（已过）；仅接受 4+4 奖学金。2027 年初下一轮未见公告，需看官网。</sub> | ❔ | **要求：** 硕士学位或同等学历；入学日取决于硕士学分<br>丹麦文学院 4 年博士奖学金，学科含人类学、全球研究；社会学未单列。入学日 2027-02-01 或 03-01；截止与下一轮需到官网核实。 |
 | [奥胡斯大学经济系 ACE 岗位页](https://econ.au.dk/ace/vacancies)<br><sub>丹麦 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub><br><sub>页面当前列出博后岗位 Econometrics，目标截止 2026-11-30，开始时间 2027 夏季或秋季；页面未列出博士岗位。</sub> | ❔ | 含计量经济方向，博士为带薪职位；当前博士岗截止已过，定期查看新公告。 |
 
 <a id="doctoral-programs"></a>

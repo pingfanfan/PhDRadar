@@ -2,21 +2,22 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 智利（CL） 信源（4）
+# 智利（CL） 信源（5）
 
-所有标注了地区 CL 的信源，共 4 条。
+所有标注了地区 CL 的信源，共 5 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [政府与国家级奖学金 1](cl.md#gov-scholarships) · [高校旗舰奖学金与资助检索 1](cl.md#university-schemes) · [结构化博士项目与研究机构 1](cl.md#doctoral-programs) · [博士后奖学金与项目 1](cl.md#postdoc-fellowships)
+**按分类跳转：** [政府与国家级奖学金 2](cl.md#gov-scholarships) · [高校旗舰奖学金与资助检索 1](cl.md#university-schemes) · [结构化博士项目与研究机构 1](cl.md#doctoral-programs) · [博士后奖学金与项目 1](cl.md#postdoc-fellowships)
 
 <a id="gov-scholarships"></a>
 
-## 政府与国家级奖学金（1）
+## 政府与国家级奖学金（2）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [智利 ANID 国家博士奖学金（Beca de Doctorado Nacional）](https://anid.cl/capital-humano-2/doctorado-nacional/)<br><sub>智利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-11-27**<br><sub>🟢 开放申请</sub><br><sub>2027 学年征集：2026 年 10 月 9 日开始，11 月 27 日 13:00 截止，估计 2027 年 1 月出结果。</sub> | ❔ | **要求：** 须持学士或同等学位；本科毕业成绩均分不低于 5.0（智利评分制）或位于前 30%；须已在智利大学开设的认可博士项目中正式申请、已录取或为在读生。<br>智利 ANID 国家博士奖学金（Beca de Doctorado Nacional）2027 学年征集已开放。页面未说明外国国籍是否可申请，仍需到 anid.cl 核实。 |
+| [智利 Becas Chile 海外博士奖学金（仅确认排除）](https://anid.cl/capital-humano-2/becas-en-el-extranjero-becas-chile/)<br><sub>智利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-05-19**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年征集于 5 月 19 日截止（已结束）。</sub> | ⛔ | **要求：** 需智利国籍或智利永久居留；中国籍不符合。<br>Becas Chile 赴海外读博项目只面向智利籍或在智利获得永久居留者，2026 年征集已截止。列在这里只是为了避免误投。 |
 
 <a id="university-schemes"></a>
 

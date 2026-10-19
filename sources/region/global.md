@@ -2,20 +2,21 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 全球（GLOBAL） 信源（104）
+# 全球（GLOBAL） 信源（107）
 
-所有标注了地区 GLOBAL 的信源，共 104 条。
+所有标注了地区 GLOBAL 的信源，共 107 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 34](global.md#aggregators) · [各国学术招聘门户与机构职位页 1](global.md#national-portals) · [政府与国家级奖学金 1](global.md#gov-scholarships) · [高校旗舰奖学金与资助检索 1](global.md#university-schemes) · [结构化博士项目与研究机构 3](global.md#doctoral-programs) · [博士后奖学金与项目 8](global.md#postdoc-fellowships) · [企业与基金会 Fellowship 19](global.md#fellowships) · [学科专属信源 29](global.md#discipline) · [科研实习与“曲线入口” 2](global.md#pathways) · [个人信源与社交渠道 6](global.md#people-channels)
+**按分类跳转：** [综合聚合平台 35](global.md#aggregators) · [各国学术招聘门户与机构职位页 1](global.md#national-portals) · [政府与国家级奖学金 1](global.md#gov-scholarships) · [高校旗舰奖学金与资助检索 1](global.md#university-schemes) · [结构化博士项目与研究机构 3](global.md#doctoral-programs) · [博士后奖学金与项目 9](global.md#postdoc-fellowships) · [企业与基金会 Fellowship 19](global.md#fellowships) · [学科专属信源 30](global.md#discipline) · [科研实习与“曲线入口” 2](global.md#pathways) · [个人信源与社交渠道 6](global.md#people-channels)
 
 <a id="aggregators"></a>
 
-## 综合聚合平台（34）
+## 综合聚合平台（35）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [AAAI Career Center（人工智能招聘板）](https://careers.aaai.org/)<br><sub>全球 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博后 | 不提供资助 | —<br><sub>📋 持续更新</sub> | ❔ | 教职、博后和研究员岗位为主，博士岗较少；大量岗位已关闭，核对截止日期。 |
 | [Academic Jobs Online](https://academicjobsonline.org/ajo/jobs)<br><sub>全球·美国·欧盟/欧洲 ｜ 数学/统计·计算机·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | — | ❔ | 以教职/博后为主，但数学、理论 CS 方向欧洲博士岗位也会发在这里。 |
 | [Academic Jobs Online · 凝聚态物理分类](https://academicjobsonline.org/ajo/CM_Physics)<br><sub>全球 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各条目截止日不同</sub> | ❔ | 凝聚态物理子分类，可按理论/实验筛选，多为欧美博后与博士职位。 |
 | [Academic Jobs Online · 量子信息科学分类](https://academicjobsonline.org/ajo/QIS)<br><sub>全球 ｜ 物理/天文·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各条目截止日不同，部分为往年条目</sub> | ❔ | 量子信息方向分类；部分条目过期，使用前核对截止日期。 |
@@ -87,10 +88,11 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（8）
+## 博士后奖学金与项目（9）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [Branco Weiss Fellowship – Society in Science](https://research.ucalgary.ca/opportunity/2026-branco-weiss-fellowship-society-science)<br><sub>全球 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明<br><sub>最高 CHF 600,000（最长 5 年）</sub> | **2027-01-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 轮截止 2027 年 1 月 15 日（CET 17:00）；2026 轮已关闭</sub> | ✅ | **要求：** 须已获博士学位且毕业不超过 5 年<br>Branco Weiss 研究员计划每年 1 月 15 日截止，2026 轮已关闭，2027 轮截止 2027-01-15、投递 2026 年 10 月开放；须获博士学位不超过 5 年，提出偏离本学科主流的研究计划。国籍限制官方未明示。 |
 | [EACR-AstraZeneca 博士后奖学金](https://eacr.org/eacr-fellowships/eacr-astrazeneca-postdoctoral-fellowships)<br><sub>全球 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮全文截止 2026-07-15（已过）；下一轮待 eacr.org 公布</sub> | ❔ | **要求：** 需为 EACR 会员、持 PhD、博后经验不超过 8 年、从事癌症研究；须披露 AI 使用<br>欧洲癌症研究协会与阿斯利康合办，最长 3 年；每年春季初审、夏季全文。 |
 | [EMBO Postdoctoral Fellowships](https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/)<br><sub>欧盟/欧洲·全球 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2027-01-22**<br><sub>🔄 随时可申</sub><br><sub>页面称全年接收申请，下一截止为 2027 年 1 月 22 日 14:00 CET（硬截止）。</sub> | ✅ | **要求：** 需已获博士学位或同等学历，若申请时已获学位须在两年内取得；需至少一篇第一作者同行评议论文（或符合条件的预印本）；不得前往获得博士学位的同一国家<br>EMBO 博士后奖学金，支持欧洲及世界各地的博士后，期限最长两年，国际流动为关键要求。自 2027 年秋季轮起不再允许重复申请。 |
 | [HFSP Postdoctoral Fellowships（人类前沿科学计划）](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships)<br><sub>全球 ｜ 生物/生命科学·神经/认知·物理/天文·计算机</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面称 2027 轮 LOI 截止已过，申请人已获 LOI 结果通知；下一轮以 hfsp.org 为准</sub> | ✅ | **要求：** 需换研究方向并在新国家工作；LTF 面向生命科学博士，CDF 面向非生物学科博士且生命科学经验较少。具体资格以 Eligibility 页为准<br>资助博士后换研究方向并换国家开展前沿、高风险的生命科学研究，鼓励跨学科项目；2027 轮意向书截止为 2026 年 5 月 12 日，本轮已截止。 |
@@ -128,7 +130,7 @@
 
 <a id="discipline"></a>
 
-## 学科专属信源（29）
+## 学科专属信源（30）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -136,6 +138,7 @@
 | [AGI 地球科学职位中心](https://jobs.americangeosciences.org/)<br><sub>全球·美国 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 页面自述为地球科学岗位的精选职位板，涵盖学界、政府与企业，可按类型、薪资和截止日期筛选。这是职位板而非资助页面，博士与博后资助需逐条核对。 |
 | [AGU Career Center](https://findajob.agu.org/)<br><sub>美国·全球 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | AGU 职业中心，页面显示约 479 个地球与空间科学在招职位，可按学科、地点和部门类型筛选；职位条件与资助以各岗位发布为准。 |
 | [AGU FindAJob 地质学职位页](https://findajob.agu.org/landingpage/8004955/geology-jobs/2/)<br><sub>全球 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | AGU 地质学预筛职位页（第 2 页），包含博士后、助理教授及研究生机会，岗位以美国为主，也有加拿大与瑞士岗位。页面未显示资助细节，需逐条核对身份要求与资助。 |
+| [AstroBetter 天文职位 Rumor Mill（博后与任期岗位）](https://astrobetter.com/wiki/Rumor+Mill)<br><sub>全球 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | —<br><sub>📋 持续更新</sub><br><sub>页面当前列有 Johns Hopkins Miller Fellowship（申请截止 2026-11-15）、Fermilab、Harvard CfA 等 2026-27 周期岗位；内容为用户自行提交，页面声明并非完全准确。</sub> | ❔ | 天文学界按学年整理的博后岗位维基，可判断各校招聘节奏。内容为用户自行提交、不保证准确，申请以学校官网为准。 |
 | [CCL 计算化学岗位页](https://ccl.net/jobs)<br><sub>全球 ｜ 化学/材料·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 页面（Modified: Wed Sep 23 2026）仍在更新，列出 2026 年发布的博士与博后职位（如 26.07.09 内布拉斯加-林肯大学计算材料科学博士岗位）；列表不含截止日期。 |
 | [Chemistry World Jobs](https://jobs.chemistryworld.com/)<br><sub>英国·欧盟/欧洲·全球 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | 英国皇家化学会旗下职位板。页面称职位来自主要行业雇主、大学与专业招聘机构，页面分类中研究生（Graduate）类仅列 1 条。 |
 | [comp-neuro 邮件列表（OCNS）](https://lists.cnsorg.org/hyperkitty/list/comp-neuro@lists.cnsorg.org/)<br><sub>全球 ｜ 神经/认知·计算机·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | OCNS 计算神经科学邮件列表页面显示，过去 30 天有 57 个讨论帖、52 位参与者；正文未列出岗位帖，需进入归档逐月查看。 |

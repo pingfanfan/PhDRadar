@@ -2,20 +2,21 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 人工智能 信源（187）
+# 人工智能 信源（192）
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 5](ai.md#aggregators) · [各国学术招聘门户与机构职位页 3](ai.md#national-portals) · [政府与国家级奖学金 1](ai.md#gov-scholarships) · [高校旗舰奖学金与资助检索 23](ai.md#university-schemes) · [结构化博士项目与研究机构 73](ai.md#doctoral-programs) · [博士后奖学金与项目 19](ai.md#postdoc-fellowships) · [企业与基金会 Fellowship 15](ai.md#fellowships) · [学科专属信源 5](ai.md#discipline) · [科研实习与“曲线入口” 2](ai.md#pathways) · [个人信源与社交渠道 22](ai.md#people-channels) · [导师招生帖（社交平台个人发布） 15](ai.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 4](ai.md#faculty-aggregators)
+**按分类跳转：** [综合聚合平台 6](ai.md#aggregators) · [各国学术招聘门户与机构职位页 3](ai.md#national-portals) · [政府与国家级奖学金 3](ai.md#gov-scholarships) · [高校旗舰奖学金与资助检索 23](ai.md#university-schemes) · [结构化博士项目与研究机构 74](ai.md#doctoral-programs) · [博士后奖学金与项目 19](ai.md#postdoc-fellowships) · [企业与基金会 Fellowship 15](ai.md#fellowships) · [学科专属信源 6](ai.md#discipline) · [科研实习与“曲线入口” 2](ai.md#pathways) · [个人信源与社交渠道 22](ai.md#people-channels) · [导师招生帖（社交平台个人发布） 15](ai.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 4](ai.md#faculty-aggregators)
 
 <a id="aggregators"></a>
 
-## 综合聚合平台（5）
+## 综合聚合平台（6）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [AAAI Career Center（人工智能招聘板）](https://careers.aaai.org/)<br><sub>全球 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博后 | 不提供资助 | —<br><sub>📋 持续更新</sub> | ❔ | 教职、博后和研究员岗位为主，博士岗较少；大量岗位已关闭，核对截止日期。 |
 | [ACL Wiki 就业与博后信息](https://www.aclweb.org/aclwiki/Employment_opportunities%2C_postdoctoral_positions%2C_summer_jobs)<br><sub>全球 ｜ 人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各条目/岗位截止不同，以页面为准。</sub> | ❔ | **要求：** 以各条目为准。<br>计算语言学与 NLP 社区维护的就业与博后汇总页，条目多为转载，需逐条核实。 |
 | [CiTIUS 兴趣表达与职位存档](https://citius.gal/en/talent/job-offers/expressions-of-interest/archive/)<br><sub>西班牙 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 各征集单独公布，需进入具体征集页查看条件。<br>归档页按年份列出 CiTIUS 的兴趣表达（2026 年含 TALENTGAL 博后资助征集，发布于 2026 年 5 月 22 日；MSCA 博后候选人征集发布于 2026 年 3 月 16 日）。页面未显示截止日期，需进入各征集页核对。 |
 | [Cyber Valley 职位总页（图宾根/斯图加特）](https://cyber-valley.de/en/jobs)<br><sub>德国 ｜ 人工智能·计算机·工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ❔ | 汇集 Cyber Valley 各机构的博士、博后与研究员岗位（机器学习、视觉、机器人）。 |
@@ -34,11 +35,13 @@
 
 <a id="gov-scholarships"></a>
 
-## 政府与国家级奖学金（1）
+## 政府与国家级奖学金（3）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [CSIRO Data61 PhD 奖学金（Study Australia 官方检索页）](https://search.studyaustralia.gov.au/scholarship/data61-phd-scholarship/e18d26a8362937016e062999ef29aa34)<br><sub>澳大利亚 ｜ 计算机·人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>各轮公告时间不一，未见当期截止日，以 CSIRO 官网为准</sub> | 🟡 | **要求：** 需已获或即将入读澳洲大学博士，国际生须在澳洲境内或持留学签证；需一等荣誉学位或同等学历，并需大学导师同意指导<br>CSIRO Data61 博士奖学金，国际生须在澳洲境内或持留学签证，且需获澳洲大学博士录取并有导师同意。津贴为 RTP 基准加每年 $10,000 补贴，以当期公告为准。 |
 | [QMUL · Machine Listening 实验室 · CSC 博士奖学金](https://machine-listening.eecs.qmul.ac.uk/opportunities/)<br><sub>英国 ｜ 人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ✅ | 页面列出面向中国申请人的 CSC 博士奖学金（2026 年秋季入学，Centre for Digital Music 最多 8 个名额），并鼓励申请前先联系导师。 |
+| [澳国立大学 × CSIRO 数字农业博士奖学金](https://agrifood.anu.edu.au/anu-csiro-digital-agriculture-phd-scholarship)<br><sub>澳大利亚 ｜ 计算机·人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>AUD 15,000/年（补充奖学金）+ AUD 5,000 研究津贴</sub> | **2026-08-31**<br><sub>⏸ 本轮已截止</sub><br><sub>页面列出 2026 年 EOI 开放 7 月 8 日至 8 月 11 日，申请截止 2026 年 8 月 31 日，现已关闭；未见下一轮公告。</sub> | ✅ | CSIRO Data61 资助的补充奖学金（top-up），须同时是 ANU 基础博士奖学金的申请人或获得者，并承担已批准的 CSIRO-ANU 课题。通过 CEAT 网站查看课题并表达意向。旧页面称按 AGRTP 全额标准，以现行条款为准。 |
 
 <a id="university-schemes"></a>
 
@@ -72,10 +75,11 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（73）
+## 结构化博士项目与研究机构（74）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [AI Decisions CDT（EPSRC）](https://www.ai-decisions-cdt.ac.uk/apply/)<br><sub>英国 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>£31,000/年（免税，2026–27）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面列出的截止日期为 2025-12-05（2026 年 9 月入学批次），下一轮未公布</sub> | 🟡 | **要求：** 需先选定研究项目并联系导师；国际生名额不超过 30%（UKRI 规定）<br>EPSRC AI Decisions CDT：国际生最多占每届 30%，名额有限；申请前须先选定研究项目并联系导师。要求 2:1 荣誉学位或同等学历，需 1–2 页陈述、成绩单与两位推荐人。国际生学费 £29,900–£60,800/年（曼彻斯特页面），资助覆盖以官网为准。 |
 | [BIFOLD Graduate School（柏林 数据与学习基础研究所 博士项目）](https://bifold.berlin/education/graduate-school/admission)<br><sub>德国 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>🔜 即将开放</sub><br><sub>页面称下一轮申请征集为 2026/27 冬季，入学时间为 2027 年 10 月；具体开放与截止日期以官网公告为准。</sub> | ❔ | **要求：** 需计算机或相关领域硕士（或同等学历）并有 BIFOLD 核心方向背景，特殊情况可评估优秀本科；申请材料英文，证书英文或德文；页面未写国籍要求。<br>BIFOLD 博士项目：每年 10 个全额资助博士岗位（TV-L E13），方向为数据管理与机器学习；申请材料合并为单一 PDF 发送至官网邮箱，推荐信由推荐人直接发送。 |
 | [Bristol Practice-Oriented AI CDT](https://www.bristol.ac.uk/cdt/practice-oriented-ai/)<br><sub>英国 ｜ 人工智能·工程</sub> | 博士 | 全奖 | —<br><sub>🔜 即将开放</sub> | 🟡 | 布里斯托实践导向 AI 博士培训中心：约每年 10 个资助名额，含学费、津贴与科研差旅，面向英国学生为主，国际生可申请但多为自费或赞助。2027 年 9 月入学申请 2026 年 10 月开放。 |
 | [Brown CS 博士 FAQ（五年资助保障）](https://cs.brown.edu/degrees/doctoral/faq/)<br><sub>美国 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>🔜 即将开放</sub><br><sub>每年仅一个申请期，截止 12 月 15 日（页面未注明年份，以当年系公告为准）</sub> | ✅ | **要求：** 非英语母语且未在英语国家院校获学位者须提交 TOEFL（可补充其他英语证据）；一般不考虑 TOEFL iBT 低于 105 或 IELTS 低于 7；GRE 可选；仅秋季入学<br>系官网 FAQ 称向所有博士生（含国际生）提供资助，近年约录取 40 人、申请者约 300–400 人。页面注明可能被 2020-21 计划取代，需以当年官网为准。 |
@@ -200,13 +204,14 @@
 
 <a id="discipline"></a>
 
-## 学科专属信源（5）
+## 学科专属信源（6）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [CVML（计算机视觉与机器学习）邮件列表](https://lists.auth.gr/sympa/info/cvml)<br><sub>全球·欧盟/欧洲 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 有审核的视觉/机器学习列表，用 [Jobs]/[Studies] 标签发布 PhD 招生与岗位。 |
 | [ISBA 贝叶斯统计岗位板](https://bayesian.org/resources/jobs/)<br><sub>全球 ｜ 数学/统计·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 国际贝叶斯分析学会岗位板，列出统计方向 PhD 岗位（含有资助者）；结果页无发布日期，需逐条核对截止时间。 |
 | [learning-theory（学习理论 Google Group）](https://groups.google.com/g/learning-theory)<br><sub>全球 ｜ 人工智能·计算机·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 学习理论社区列表，会出现 PhD 招生帖。 |
+| [奥格斯堡大学计算机视觉/具身 AI 组（Stückler 组）招聘页](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/ips/open-positions/)<br><sub>德国 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | **2026-07-24**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 7 月 24 日截止，本轮已关闭；页面接受主动申请邮件</sub> | ❔ | **要求：** 需计算机、电气、应用数学或物理相关硕士；按 TV-L E13 支付<br>计算机视觉与具身 AI 方向的三年期研究助理/博士岗（TV-L E13），此前一轮截止为 2026 年 7 月，已关闭。页面长期有效，建议关注后续新岗位。 |
 | [弗莱堡大学机器人学习实验室（Valada 组）招生页](https://rl.informatik.uni-freiburg.de/open-positions)<br><sub>德国 ｜ 人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 滚动<br><sub>🔄 随时可申</sub><br><sub>页面称申请持续接收，直至岗位招满。</sub> | ❔ | **要求：** 需计算机、机器人、机器学习或计算机视觉等相关硕士，具备 PyTorch 经验，C++ 加分；不要求德语，公告称欢迎国际候选人（来自邮件列表与 ELLIS 公告）<br>页面列出博士与博士后岗位，薪资为 TV-L E13 至 E14（100%）；页面称欢迎国际候选人，不要求德语。 |
 | [澳国立大学（ANU）机器人组招生页](https://comp.anu.edu.au/join/robotics/)<br><sub>澳大利亚 ｜ 工程·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 仅生活费<br><sub>AUD 39,069/年（ANU PhD 奖学金基本津贴率，2026）</sub> | 未公布<br><sub>🟢 开放申请</sub> | ❔ | ANU 机器人组计划招收博士、研究工程师与博后，方向为机器人规划与决策。页面列出博士奖学金最低 AUD 34K/年（免税）、博后年薪 AUD 99K–121K（另加 17% 养老金）、研究工程师 AUD 75K–90K/年。 |
 

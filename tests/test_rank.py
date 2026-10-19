@@ -117,6 +117,38 @@ def test_longest_match_wins():
     assert res["ranked"] == [] and res["unrelated"] == 1
 
 
+def test_compound_keyword_needs_all_parts():
+    # “植物免疫”= 植物 + 免疫：只有植物的岗位只算部分命中，分数低于两者都有的
+    rows = [job("both", "Plant immunity to fungal pathogens", d=["bio"]), job("optics", "Plant cell wall mechanics", d=["bio"])]
+    res = rank.rank(rows, {"research": {"keywords": ["植物免疫"]}}, TODAY)
+    s = {a["id"]: a for a in res["ranked"]}
+    assert s["both"]["score"] > s["optics"]["score"]
+    assert "（标题·部分）" in s["optics"]["reasons"][0] and "（标题）" in s["both"]["reasons"][0]
+
+
+def test_discipline_must_match():
+    # 同一个词出现在别的学科的岗位里（spintronics memory），不算命中
+    rows = [job("neuro", "Memory consolidation in sleep", d=["neuro"]), job("phys", "Spintronic memory devices", d=["physics"])]
+    res = rank.rank(rows, {"research": {"keywords": ["认知神经科学", "memory"]}}, TODAY)
+    assert [a["id"] for a in res["ranked"]] == ["neuro"]
+
+
+def test_mapping_only_terms_and_related():
+    # “控制”只用来归组，不拿去匹配简介里的“控制”；只是学科相同的进 related，不进推荐
+    rows = [job("ctl", "Model predictive control for drones", d=["engineering"]),
+            job("bio", "Hydrogels for bone repair", d=["engineering"], **{"in": "研究通过力学调控控制成骨作用的水凝胶"})]
+    res = rank.rank(rows, {"research": {"keywords": ["控制"]}}, TODAY)
+    assert [a["id"] for a in res["ranked"]] == ["ctl"] and [a["id"] for a in res["related"]] == ["bio"]
+
+
+def test_local_language_ads():
+    rows = [job("no", "Stipendiat i pedagogikk", r=["NO"], d=["social"])]
+    p = {"research": {"keywords": ["教育学"]}}
+    assert "挪威语" in rank.rank(rows, p, TODAY)["excluded"][0]["excluded"][0]
+    p["languages"] = {"other": [{"lang": "Norwegian", "level": "B2"}]}
+    assert [a["id"] for a in rank.rank(rows, p, TODAY)["ranked"]] == ["no"]
+
+
 def test_security_screening_penalty():
     rows = [job("a", "Quantum materials PhD", d=["physics"]),
             job("b", "Quantum materials PhD", d=["physics"], fl=["security-screening"])]
@@ -156,7 +188,7 @@ def run_js(rows, profiles, today):
 const r = require(process.argv[1]); const fs = require('fs');
 const inp = JSON.parse(fs.readFileSync(0, 'utf8'));
 const out = inp.profiles.map(p => { const res = r.rank(inp.rows, p, inp.rules, inp.today);
-  return {ranked: res.ranked.map(a => [a.id, a.score, a.reasons]), excluded: res.excluded.map(a => [a.id, a.excluded]),
+  return {ranked: res.ranked.map(a => [a.id, a.score, a.reasons]), related: res.related.map(a => [a.id, a.score]), excluded: res.excluded.map(a => [a.id, a.excluded]),
           unrelated: res.unrelated, considered: res.considered, disc: res.disc}; });
 process.stdout.write(JSON.stringify(out));
 """
@@ -170,6 +202,7 @@ def run_py(rows, profiles, today):
     for p in profiles:
         res = rank.rank(rows, p, today)
         out.append({"ranked": [[a["id"], a["score"], a["reasons"]] for a in res["ranked"]],
+                    "related": [[a["id"], a["score"]] for a in res["related"]],
                     "excluded": [[a["id"], a["excluded"]] for a in res["excluded"]],
                     "unrelated": res["unrelated"], "considered": res["considered"], "disc": res["disc"]})
     return out
@@ -191,9 +224,12 @@ def test_js_matches_python_on_fixtures():
 
 @pytest.mark.skipif(not shutil.which("node"), reason="需要 node")
 def test_js_matches_python_on_catalog():
+    # 真实数据 × 测试画像 + 20 个评测画像：浏览器与 /rank 的结果必须逐条一致
+    import yaml
+
     path = ROOT / "assets" / "catalog.json"
     if not path.exists():
         pytest.skip("没有 catalog.json")
-    rows = json.loads(path.read_text(encoding="utf-8"))
-    rows = [x for x in rows if x.get("o")][:1500]
-    assert run_js(rows, PROFILES, TODAY) == run_py(rows, PROFILES, TODAY)
+    rows = [x for x in json.loads(path.read_text(encoding="utf-8")) if x.get("o")]
+    profiles = PROFILES + yaml.safe_load((ROOT / "tests" / "rank_eval_profiles.yml").read_text(encoding="utf-8"))
+    assert run_js(rows, profiles, TODAY) == run_py(rows, profiles, TODAY)

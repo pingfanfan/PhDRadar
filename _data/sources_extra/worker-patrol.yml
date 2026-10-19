@@ -419,6 +419,31 @@
   verify_method: page
   page_evidence: There is one application period each year for University-funded doctoral researcher positions for all of the University's doctoral programmes.
   verified: 2026-10-18
+- id: banca-italia-econ-research-fellowships
+  name: 意大利央行经济学研究员（Borse di ricerca）
+  url: https://www.bancaditalia.it/chi-siamo/lavorare-bi/borse-ricerca-economisti
+  category: postdoc-fellowships
+  regions:
+  - IT
+  disciplines:
+  - econ
+  funding: fellowship
+  levels:
+  - postdoc
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: stipend
+  stipend: €5,500/月（税前）
+  deadline: unknown
+  deadline_note: 页面显示 2026-10-13 发布新一轮招考公告（4 个名额），通常申请至 11 月；具体截止日以公告 PDF 为准。
+  status: open
+  requirements: 博士学位或即将获得；英语流利；非欧盟公民须持长期 EC 居留许可、难民身份或补充保护（2024 年征集条件）
+  notes: 面向已获或即将获得博士学位的经济学者，在罗马工作，12 个月可续 12 个月，月薪 5,500 欧元（税前）。
+  verify_method: page
+  page_evidence: 'Bando di concorso: 4 borse di ricerca per economiste ed economisti'
+  verified: 2026-10-19
 - id: aea-joe-listings
   name: AEA 经济学职位公告 JOE（Job Openings for Economists）
   url: https://www.aeaweb.org/joe/listings

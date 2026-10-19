@@ -1599,6 +1599,31 @@
   verify_method: page
   page_evidence: Several scholarships are available to doctoral (Doctor of Philosophy and Professional Doctorate of Occupational Therapy) program students at Bond University.
   verified: 2026-10-16
+- id: auckland-doctoral-scholarship
+  name: 奥克兰大学博士奖学金
+  url: https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/postgraduate-scholarships/doctoral-scholarships.html
+  category: university-schemes
+  regions:
+  - NZ
+  disciplines:
+  - all
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: full
+  stipend: NZD 35,468/年（官网页面，免税）
+  deadline: 2026-11-01
+  deadline_note: 页面列 2027 年入学轮次的申请截止：2026-11-01、2027-02-01、2027-05-01、2027-08-01。
+  status: open
+  requirements: 需在申请博士入学时一并提交并获导师支持；核心奖学金面向在新西兰大学完成前序学位者，国际生须核对资格
+  notes: 页面称任何获博士录取的学生都会被考虑，申请博士入学时勾选即可，无需另行申请；每年 4 轮。
+  verify_method: page
+  page_evidence: The University of Auckland Doctoral Scholarship (UoADS) is a competitive scholarship scheme in 4 rounds each year.
+  verified: 2026-10-19
 - id: canterbury-uc-doctoral-scholarship
   name: 坎特伯雷大学 UC 博士奖学金
   url: https://www.canterbury.ac.nz/study/getting-started/scholarships/doctoral-scholarships/uc-doctoral-scholarships
@@ -2907,6 +2932,31 @@
   status: upcoming
   notes: 安省研究生奖学金（OGS）：最高 CAD 15,000/年（每学期最多 5,000）；国际生需持安大略省学习许可并全日制就读，名额受省级配额限制，由院系提名。截止日取自 Carleton，其他院校不同。
   verified: 2026-10-13
+- id: ca-ualberta-killam-postdoc
+  name: U of Alberta Killam 博士后奖学金
+  url: https://ualberta.ca/graduate-studies/awards-and-funding/postdoctoral-fellow-funding/killam.html
+  category: postdoc-fellowships
+  regions:
+  - CA
+  disciplines:
+  - all
+  funding: fellowship
+  levels:
+  - postdoc
+  cn_eligible: 'yes'
+  access:
+  - web
+  language: en
+  coverage: stipend
+  stipend: CAD $50,000/年（最长两年）+ 一次性 $4,000 研究经费
+  deadline: unknown
+  deadline_note: 2026 轮提名截止 2026-01-07 已过；下一轮以官网为准
+  status: closed
+  requirements: 博士学位须非阿尔伯塔大学授予，并在提名截止前 3 年内获得；需学校提名，研究须在阿省完成
+  notes: 任何国籍，需满足加拿大移民要求，博士在申请前约 24–36 个月内获得，需阿尔伯塔大学教员推荐。
+  verify_method: page
+  page_evidence: Izaak Walton Killam Memorial Postdoctoral Fellowship
+  verified: 2026-10-19
 - id: ca-concordia-jmsb-phd
   name: Concordia JMSB 商学院博士学费与资助
   url: https://www.concordia.ca/jmsb/programs/graduate/phd/tuition-aid.html
@@ -3063,6 +3113,50 @@
   verify_method: page
   page_evidence: The total value of funding given to eligible candidates accepted to the Telfer doctoral program is up to $47,000 yearly, for up to four years.
   verified: 2026-10-16
+- id: ca-laval-intl-tuition
+  name: Université Laval 国际博士生学费豁免
+  url: https://www.ulaval.ca/etudes/droits-de-scolarite/etudiant-de-linternational
+  category: university-schemes
+  regions:
+  - CA
+  disciplines:
+  - all
+  funding: info
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: tuition
+  deadline: varies
+  notes: 博士学费豁免按政府配额分配，每学期名额有限，并非自动获得；仅持学习许可的留学生可申请。是学费减免，不含生活费；生活费可另申 PBEEE（需魁北克高校预选）。
+  verify_method: page
+  page_evidence: un nombre prédéterminé de bourses d’exemption des droits de scolarité supplémentaires à des étudiantes et étudiants de l'international
+  verified: 2026-10-19
+- id: ca-ualberta-cgrs-d
+  name: U of Alberta CGRS-D 校内说明
+  url: https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/canada-graduate-research-scholarships-doctoral-cgrs-d.html
+  category: university-schemes
+  regions:
+  - CA
+  disciplines:
+  - all
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline_note: 本轮校内提交截止 2026 年 9 月 16 日（已过）；全国截止以官网为准，请联系研究生院
+  status: closed
+  requirements: 非加拿大公民/永居须在申请时已在本校注册博士项目；若曾读研，截至申请年 12 月 31 日读博不超过 36 个月；不得已获 CIHR/NSERC/SSHRC 博士奖学金
+  notes: 非加拿大公民/永居须在申请时已在本校读博；校内截止早于全国截止，提前联系导师和研究生院。
+  verify_method: page
+  page_evidence: The doctoral scholarship has a duration of 36 months (three years) and is valued at $40,000 per year.
+  verified: 2026-10-19
 - id: csc-paris-saclay-joint-doctoral
   name: 巴黎萨克雷大学 CSC 联合博士项目
   url: https://www.universite-paris-saclay.fr/en/joint-doctoral-programme-universite-paris-saclay-and-china-scholarship-council
@@ -3555,6 +3649,28 @@
   verify_method: page
   page_evidence: PhD student in Medical Science, AI and Bioinformatics
   verified: 2026-10-18
+- id: aaai-career-center
+  name: AAAI Career Center（人工智能招聘板）
+  url: https://careers.aaai.org/
+  category: aggregators
+  regions:
+  - GLOBAL
+  disciplines:
+  - cs
+  - ai
+  funding: info
+  levels:
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: none
+  status: ongoing
+  notes: 教职、博后和研究员岗位为主，博士岗较少；大量岗位已关闭，核对截止日期。
+  verify_method: page
+  page_evidence: Welcome to AAAI Career Center
+  verified: 2026-10-19
 - id: kaitai-liang-phd
   name: Kaitai Liang 团队（TU Delft / 图尔库大学）博士招生
   url: https://sites.google.com/view/kaitailiang
@@ -7412,6 +7528,32 @@
   verify_method: page
   page_evidence: The Sino-Dutch Agriculture Green Development (AGD) Programme is a PhD programme jointly conducted
   verified: 2026-10-17
+- id: anu-csiro-digital-agriculture-phd
+  name: 澳国立大学 × CSIRO 数字农业博士奖学金
+  url: https://agrifood.anu.edu.au/anu-csiro-digital-agriculture-phd-scholarship
+  category: gov-scholarships
+  regions:
+  - AU
+  disciplines:
+  - cs
+  - ai
+  - engineering
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: 'yes'
+  access:
+  - web
+  language: en
+  coverage: full
+  stipend: AUD 15,000/年（补充奖学金）+ AUD 5,000 研究津贴
+  deadline: 2026-08-31
+  deadline_note: 页面列出 2026 年 EOI 开放 7 月 8 日至 8 月 11 日，申请截止 2026 年 8 月 31 日，现已关闭；未见下一轮公告。
+  status: closed
+  notes: CSIRO Data61 资助的补充奖学金（top-up），须同时是 ANU 基础博士奖学金的申请人或获得者，并承担已批准的 CSIRO-ANU 课题。通过 CEAT 网站查看课题并表达意向。旧页面称按 AGRTP 全额标准，以现行条款为准。
+  verify_method: page
+  page_evidence: How to apply - EOIs and Applications have now closed
+  verified: 2026-10-19
 - id: imperial-structures-phd-study
   name: Imperial 土木环境工程结构组博士说明页
   url: https://www.imperial.ac.uk/engineering/departments/civil-engineering/research/research-disciplines/structures/study-with-us/phd-study/
@@ -7455,6 +7597,30 @@
   verify_method: page
   page_evidence: The programme aims to attract outstanding international doctoral and postdoctoral students
   verified: 2026-10-18
+- id: caltech-aero-admissions
+  name: Caltech 航空航天系（GALCIT）研究生招生与资助页
+  url: https://aerospace.caltech.edu/academics/admissions
+  category: university-schemes
+  regions:
+  - US
+  disciplines:
+  - engineering
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: varies
+  deadline: varies
+  deadline_note: 秋季入学申请一般在 11 月 15 日至 12 月 15 日之间提交，以研究生办公室为准
+  status: upcoming
+  requirements: 资助多需美国工作授权，无工作授权者须另有经费安排；申请时自动考虑资助
+  notes: Caltech 博士录取者获得学费与生活费资助，但大部分资金来源要求美国工作授权，无工作授权者入学须另行安排经费，国际生资格受限。申请时自动考虑资助；截止约在 11 月中旬至 12 月中旬，以官网为准。
+  verify_method: page
+  page_evidence: Fellowships normally provide full tuition and a substantial living-expense stipend for one academic year (Fall, Winter, and Spring terms).
+  verified: 2026-10-19
 - id: isae-supaero-doctoral-teams
   name: ISAE-SUPAERO 博士研究团队（含 ONERA 联合团队）
   url: https://www.isae-supaero.fr/en/research/doctoral-programs/the-doctoral-research-teams/doctoral-research-teams
@@ -8390,6 +8556,31 @@
   verify_method: page
   page_evidence: Contact information for the doctoral educational administration at the Department of Global Public Health.
   verified: 2026-10-18
+- id: cam-dtp-esrc-studentship
+  name: 剑桥 ESRC CAM-DTP 社科博士奖学金
+  url: https://www.c2d3.cam.ac.uk/opportunities/esrc-cam-dtp-studentship-fixed-term
+  category: doctoral-programs
+  regions:
+  - UK
+  disciplines:
+  - social
+  - humanities
+  - econ
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: partial
+  deadline: 2026-12-02
+  status: open
+  requirements: 需获剑桥对应系所录取并获该系推荐；国际生需自筹学费差额
+  notes: ESRC CAM-DTP 社科博士奖学金。剑桥官方资助页称对国际申请人开放，但资助仅覆盖本地（Home）学费标准，国际学费差额需另找资金。须先获系所录取并被推荐，金额以官网为准。
+  verify_method: page
+  page_evidence: The Cambridge ESRC Doctoral Training Partnership [CAM-DTP] is pleased to offer an interdisciplinary studentship available for admission in October 2026.
+  verified: 2026-10-19
 - id: ed3c-doctoral-contract-terms
   name: ED3C 大脑·认知·行为博士学校 博士合同（PAC 竞争分配）条款
   url: https://ed3c.sorbonne-universite.fr/en/financements/doctoral-contract-allocation-process-su-psl-upc/terms-and-conditions-doctoral-contract
@@ -8780,6 +8971,28 @@
   verify_method: page
   page_evidence: The deadline to receive all the materials (including all reference letters) is the 7th of October 2026.
   verified: 2026-10-18
+- id: astrobetter-rumor-mill
+  name: AstroBetter 天文职位 Rumor Mill（博后与任期岗位）
+  url: https://astrobetter.com/wiki/Rumor+Mill
+  category: discipline
+  regions:
+  - GLOBAL
+  disciplines:
+  - physics
+  funding: info
+  levels:
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  deadline_note: 页面当前列有 Johns Hopkins Miller Fellowship（申请截止 2026-11-15）、Fermilab、Harvard CfA 等 2026-27 周期岗位；内容为用户自行提交，页面声明并非完全准确。
+  status: ongoing
+  notes: 天文学界按学年整理的博后岗位维基，可判断各校招聘节奏。内容为用户自行提交、不保证准确，申请以学校官网为准。
+  verify_method: page
+  page_evidence: Astrophysics Jobs Rumor Mill - Postdoc & Term
+  verified: 2026-10-19
 - id: theory-cern-jobs
   name: CERN 理论部（CERN-TH）博士后 Fellow 招募页
   url: https://theory.cern/jobs
@@ -9219,6 +9432,31 @@
   verify_method: page
   page_evidence: Grants intended for doctoral students who apply in their own name but in consultation with their supervisors.
   verified: 2026-10-18
+- id: au-csiro-data61-studyaustralia-portal
+  name: CSIRO Data61 PhD 奖学金（Study Australia 官方检索页）
+  url: https://search.studyaustralia.gov.au/scholarship/data61-phd-scholarship/e18d26a8362937016e062999ef29aa34
+  category: gov-scholarships
+  regions:
+  - AU
+  disciplines:
+  - cs
+  - ai
+  - engineering
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: unknown
+  deadline_note: 各轮公告时间不一，未见当期截止日，以 CSIRO 官网为准
+  requirements: 需已获或即将入读澳洲大学博士，国际生须在澳洲境内或持留学签证；需一等荣誉学位或同等学历，并需大学导师同意指导
+  notes: CSIRO Data61 博士奖学金，国际生须在澳洲境内或持留学签证，且需获澳洲大学博士录取并有导师同意。津贴为 RTP 基准加每年 $10,000 补贴，以当期公告为准。
+  verify_method: page
+  page_evidence: Our scholarships are awarded in partnership with Australian universities
+  verified: 2026-10-19
 - id: au-sydney-arc-postgrad-scholarship
   name: 悉尼大学 ARC 研究生奖学金
   url: https://www.sydney.edu.au/scholarships/d/arc-postgraduate-research-scholarship.html
@@ -10904,6 +11142,30 @@
   verify_method: page
   page_evidence: We invite applicants from Cell and Developmental Biology, Computer Science, Computational Science, (Applied) Mathematics, and Physics.
   verified: 2026-10-17
+- id: anu-taiyang-loong-phd
+  name: ANU Taiyang and Loong 计算生物博士奖学金（JCSMR）
+  url: https://jcsmr.anu.edu.au/study/talo-program/taiyang-and-loong-phd-scholarships
+  category: university-schemes
+  regions:
+  - AU
+  disciplines:
+  - bio
+  - cs
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: stipend
+  deadline: varies
+  deadline_note: 搜索仅见 2023 轮（4 月 15 日截止）及更早国际轮次，未找到 2026 轮公告；请查 JCSMR 奖学金页面确认
+  status: ongoing
+  notes: ANU JCSMR Taiyang and Loong 博士奖学金：2023 年数值约 44,000/年（币种未标注）；需计算机科学、计算生物或工程背景，须获 JCSMR 博士项目录取；建议先联系潜在导师。
+  verify_method: page
+  page_evidence: We offer PhD scholarships for intellectually curious and high-performing students with a thirst for cross-disciplinary learning and impact in health and biology.
+  verified: 2026-10-19
 - id: bc-cs-phd-fall2027
   name: 波士顿学院计算机科学 PhD（2027 秋季入学）
   url: https://www.bc.edu/content/bc-web/schools/morrissey/departments/computer-science/academics/phd.html
@@ -11505,6 +11767,30 @@
   verify_method: page
   page_evidence: È indetta una pubblica selezione per titoli e colloquio per il conferimento di n.1 borsa di ricerca
   verified: 2026-10-17
+- id: berkeley-chem-grad-faq
+  name: UC Berkeley 化学系研究生常见问题（博士资助）
+  url: https://chemistry.berkeley.edu/faq/chemistry-grad-faq
+  category: university-schemes
+  regions:
+  - US
+  disciplines:
+  - chem
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: full
+  stipend: 2022–23 学年 $38,012（官网旧数据，以当年为准）
+  deadline: varies
+  status: ongoing
+  requirements: FAQ 称受经费限制，每年仅录取少数最优秀的国际生；TOEFL 可在美国高校修满一年后豁免
+  notes: 系 FAQ 称录取博士生通过助教或助研获得生活津贴，在读且进展良好时学费由校方承担。官网列出的津贴为 2022–23 学年数字，偏旧；需看当年页面。
+  verify_method: page
+  page_evidence: All students admitted to our graduate program receive a stipend for the duration of study
+  verified: 2026-10-19
 - id: northwestern-chem-financial-support
   name: Northwestern 化学系研究生资助说明
   url: https://chemistry.northwestern.edu/graduate/prospective/financial.html
@@ -11722,6 +12008,31 @@
   verify_method: page
   page_evidence: Most of our PhD students are considered as employees for the duration of the research.
   verified: 2026-10-17
+- id: arm-ecs-southampton-phd
+  name: Arm-ECS 全额资助博士岗位（南安普顿大学）
+  url: https://www.arm.ecs.soton.ac.uk/jobs/phd-student-southampton/
+  category: fellowships
+  regions:
+  - UK
+  disciplines:
+  - cs
+  - engineering
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: 'no'
+  access:
+  - web
+  language: en
+  coverage: full
+  stipend: 至少 £15,609/年（仅限英国申请者）
+  deadline: rolling
+  status: rolling
+  requirements: 需电子工程或相关学科优秀学历（页面未说明学位层级）
+  notes: Arm 与南安普顿大学 ECS 合作的 3.5 年全额资助博士（EPSRC 资金），部分时间在剑桥 Arm Research；招生页写明仅面向英国申请者，对大陆学生不开放。页面称需在 5 月初前提交，未标注年份，以官网为准。
+  verify_method: page
+  page_evidence: Fully funded 3.5 yr PhD studentship with annual stipend of at least £15,609 pa (UK applicants only)
+  verified: 2026-10-19
 - id: ku-social-sciences-industrial-phd
   name: 哥本哈根大学社会科学学院 Industrial PhD
   url: https://socialsciences.ku.dk/research/industrialphd/
@@ -12211,6 +12522,31 @@
   requirements: 国际生资格与学历要求以岗位 PDF 为准。
   notes: 图卢兹经济学院（TSE）与 IAST 联合招聘的两年期政治经济学（气候风险方向）博士后。薪资仅写 competitive，未给数字，需向联系人确认。
   verified: 2026-10-16
+- id: anu-jcsmr-taiyang-loong-phd
+  name: ANU JCSMR · Taiyang and Loong PhD 奖学金（计算生物方向）
+  url: https://jcsmr.anu.edu.au/study/scholarships/taiyang-and-loong-phd-scholarships
+  category: university-schemes
+  regions:
+  - AU
+  disciplines:
+  - cs
+  - bio
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: unknown
+  deadline_note: JCSMR 官网页面所列为 2023 年数据（每年最多 4 个名额，每人每年 44,000 澳元，2023 年截止 4 月 15 日）；当期轮次未确认，需先联系计算生物方向导师并经 JCSMR PhD 申请页提交。
+  status: ongoing
+  requirements: 需获得 JCSMR 的 PhD 入学资格，背景为计算机科学、计算生物或工程；国际生资格以官网为准。
+  notes: ANU JCSMR 官方奖学金页，名额少、竞争性强；金额与截止日期以官网当期条款为准（本条未核实）。
+  verify_method: page
+  page_evidence: Each year JCSMR may offer up to four awards known as the Taiyang and Loong PhD Scholarship.
+  verified: 2026-10-19
 - id: bifold-graduate-school-berlin
   name: BIFOLD Graduate School（柏林 数据与学习基础研究所 博士项目）
   url: https://bifold.berlin/education/graduate-school/admission

@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 经济/金融 信源（117）
+# 经济/金融 信源（120）
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 3](econ.md#aggregators) · [各国学术招聘门户与机构职位页 1](econ.md#national-portals) · [高校旗舰奖学金与资助检索 21](econ.md#university-schemes) · [结构化博士项目与研究机构 57](econ.md#doctoral-programs) · [博士后奖学金与项目 13](econ.md#postdoc-fellowships) · [企业与基金会 Fellowship 6](econ.md#fellowships) · [学科专属信源 8](econ.md#discipline) · [科研实习与“曲线入口” 5](econ.md#pathways) · [个人信源与社交渠道 1](econ.md#people-channels) · [导师招生帖（社交平台个人发布） 2](econ.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 3](econ.md#aggregators) · [各国学术招聘门户与机构职位页 1](econ.md#national-portals) · [高校旗舰奖学金与资助检索 21](econ.md#university-schemes) · [结构化博士项目与研究机构 59](econ.md#doctoral-programs) · [博士后奖学金与项目 14](econ.md#postdoc-fellowships) · [企业与基金会 Fellowship 6](econ.md#fellowships) · [学科专属信源 8](econ.md#discipline) · [科研实习与“曲线入口” 5](econ.md#pathways) · [个人信源与社交渠道 1](econ.md#people-channels) · [导师招生帖（社交平台个人发布） 2](econ.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
@@ -58,7 +58,7 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（57）
+## 结构化博士项目与研究机构（59）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -84,6 +84,7 @@
 | [伊拉斯谟经济学院（ESE）博士岗位](https://eur.nl/en/ese/working/phd-vacancies)<br><sub>荷兰 ｜ 经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>EUR 3,059–3,881/月（毛，38 小时，CAO-NU，2026 岗位）</sub> | 各项目不同<br><sub>🔜 即将开放</sub><br><sub>页面称全职博士岗位目前无空缺，招聘预计 2026 年 11 月开放；兼职博士申请窗口预计 2027 年 1 月开放。</sub> | ❔ | **要求：** 研究型硕士（MPhil/RM）优先，MSc 需先完成研究生院 1 年课程；须被 Tinbergen 或 ERIM 研究生院录取；英语达标（如 TOEFL iBT 100 或 IELTS 7）；部分岗位要求 GRE<br>ESE 官网称每年启动数个全额资助的 PhD 项目，合同期 4–5 年；薪资以岗位广告为准；国际生资格条款需看具体岗位广告。 |
 | [伯克利 Haas 商学院博士费用与资助](https://haas.berkeley.edu/phd/admissions/costs-financial-aid/)<br><sub>美国 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>申请截止以项目官网为准；页面称申请时自动参与系内资助评审，录取后通知资助结果。</sub> | ❔ | 五年期奖学金、助教/研究津贴与学费覆盖组合，取决于学业进展；页面无固定金额。 |
 | [兰卡斯特大学管理学院（LUMS）PhD 奖学金](https://www.lancaster.ac.uk/lums/postgraduate/scholarships-and-funding/phd/)<br><sub>英国 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-03-15**<br><sub>🔜 即将开放</sub><br><sub>LUMS 奖学金申请截止 2027 年 3 月 15 日（页面所示）</sub> | ✅ | 页面列出 LUMS 奖学金，含学费减免与约 £19,000/年生活津贴，面向所有国籍学生；申请时需在申请表中注明希望被考虑 Doctoral Studentship。 |
+| [剑桥 ESRC CAM-DTP 社科博士奖学金](https://www.c2d3.cam.ac.uk/opportunities/esrc-cam-dtp-studentship-fixed-term)<br><sub>英国 ｜ 社会科学/心理·人文/语言·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | **2026-12-02**<br><sub>🟢 开放申请</sub> | 🟡 | **要求：** 需获剑桥对应系所录取并获该系推荐；国际生需自筹学费差额<br>ESRC CAM-DTP 社科博士奖学金。剑桥官方资助页称对国际申请人开放，但资助仅覆盖本地（Home）学费标准，国际学费差额需另找资金。须先获系所录取并被推荐，金额以官网为准。 |
 | [剑桥 Judge 商学院金融方向博士路径](https://www.jbs.cam.ac.uk/phd-research-masters/pathways/finance/)<br><sub>英国 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>研究理事会标准津贴（2024/25 学年为 £20,285/年，以官网当年为准）</sub> | **2026-12-08**<br><sub>🟢 开放申请</sub><br><sub>MPhil/MRes 申请截止 2026-12-08（考虑剑桥信托资助）；美国剑桥信托截止待定</sub> | ❔ | **要求：** 须先读 9 个月的 MPhil in Finance；持剑桥 MPhil in Economic Research 者可读 MRes。需一等学位或同等学历，部分情况需高校研究生学位且成绩位列前 5%。<br>页面写明须先修 9 个月的 MPhil in Finance（或 MRes），攻读期间获全额资助，但未写明资助年限。 |
 | [匹兹堡大学 Katz 商学院博士资助](https://business.pitt.edu/katz-admissions/admissions-tuition-phd-program)<br><sub>美国 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>📋 持续更新</sub> | ✅ | 五年资助包（津贴+学费+医保），国内外学生同等。 |
 | [华盛顿大学圣路易斯分校经济学博士项目](https://economics.washu.edu/phd-program)<br><sub>美国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$35,000/年（经济系页面）</sub> | — | ✅ | **要求：** 需被经济学博士项目录取；资助以五年为限，需保持良好学业状态<br>经济学系页面称博士生全额资助五年：学费减免、医保与年津贴（页面标示 $35,000）。OPT 延期说明需向国际学生办公室核实。 |
@@ -108,6 +109,7 @@
 | [波恩经济学研究生院（BGSE）博士资助说明](https://www.econ.uni-bonn.de/bgse/en/doctoral-program/funding-fees)<br><sub>德国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€1,565/月（自 2026-10-01 起；此前为 €1,465；2027-10-01 起拟增至约 €1,610）</sub> | — | ✅ | 合并硕博项目（2 年 MSc + 3 年博士）。官网称全体学生自入学起领取月补助，符合里程碑规则的学生最长资助 5 年；德国公立大学学费对国际生同样免除，仅缴学期费。补助金额可能调整。 |
 | [洛林大学 ED SJPEG（法经政管）博士合同](https://www.doctorat.univ-lorraine.fr/sites/default/files/user/ecoles-doctorales/SJPEG/FINANCEMENTS/Notice%20concours%202026.pdf)<br><sub>法国 ｜ 经济/金融·社会科学/心理·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-08-24**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 8 月 24 日 12:00 截止，已结束；页面仅列出 2026/27 学年的 10 个合同，未提及下一轮时间。</sub> | ❔ | **要求：** 需符合博士注册资格，且为未注册或注册未满一年的候选人；经 ADUM 线上提交；合同为三年固定期限雇佣合同，须在首次注册后一年内签约。<br>洛林大学法经政管博士学院（ED SJPEG）博士合同：2026/27 学年 10 个，三年固定期限带薪雇佣，要求全职研究；经 ADUM 提交材料，先由委员会筛选再面试。 |
 | [特伦托大学国际研究博士（第 42 周期，5 个奖学金）](https://www.unitn.it/sites/default/files/2026-03/Call_International_Studies_cycle42.pdf)<br><sub>意大利 ｜ 社会科学/心理·人文/语言·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>年税前 18,345 欧元（Tier I），3 年</sub> | **2026-05-14**<br><sub>⏸ 本轮已截止</sub><br><sub>第 42 周期截止 2026 年 5 月 14 日；页面未提供第 43 周期信息</sub> | ✅ | 第 42 周期（2026/27 学年）提供 5 个奖学金与 6 个名额，年税前奖学金 18,345 欧元（Tier I），期限 3 年；官方语言为英语。截止 2026 年 5 月 14 日已过。 |
+| [班戈大学 WGSSS 社科博士岗位](https://www.bangor.ac.uk/international/phd-studentships-funded-by-the-wales-graduate-school-for-the-social-sciences)<br><sub>英国 ｜ 社会科学/心理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£19,237/年免税生活津贴（页面所示）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面仅显示 2025 年 10 月入学轮次，截止 2024-12-11；页面未给出后续轮次。</sub> | 🟡 | **要求：** 需英国一等或高二等荣誉学位或硕士同等学历；需完成 3 个月 Research in Practice 实习；部分路径需先与潜在导师联系<br>WGSSS（ESRC DTP）社科全额博士岗位，学费全免（含国际生）并发放生活津贴。第三方页面称国际生名额约占 30%，需以官网为准。2027 轮未查到公告。 |
 | [科奇大学商学院博士项目](https://gsb.ku.edu.tr/programs/full-time-programs/phd-in-business/)<br><sub>土耳其 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>页面列出各研究方向的 Apply 入口，正文未给出截止日期。</sub> | ❔ | 页面为工商管理博士项目介绍，强调研究型培养与师资指导；正文未提及学费减免或津贴金额，资助与国际生奖学金需向招生办确认。 |
 | [科罗拉多大学博尔德 Leeds 商学院博士资助](https://www.colorado.edu/business/node/231)<br><sub>美国 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$37,000/学年（学院资助页较新数字；其他页面另有 $35,000 与 $30,000）</sub> | — | ✅ | **要求：** 面向录取的博士生（国内外均可）；学院称国际生同样获得全额资助；需保持学术进展并担任约 50% 研究/助教工作<br>一般为所有博士生（含国际生）提供五年资助。 |
 | [肯特大学 SEDarc ESRC 博士奖学金](https://www.kent.ac.uk/scholarships/search/FNADSEDARC01)<br><sub>英国 ｜ 社会科学/心理·经济/金融·人文/语言</sub> | 博士 | 全奖<br><sub>£21,805/年（2027 入学；伦敦加权 £23,805）</sub> | **2027-01-29**<br><sub>🔜 即将开放</sub><br><sub>SEDarc 2027 入学统一截止 2027-01-29 16:00 GMT；Kent 校内截止更早。2026 轮已截止。</sub> | 🟡 | **要求：** 需英国研究机构相当于一等或二等上（2:1）的学位，非英国学位也可；国际生名额约 30%；机票、签证与医保需自付。<br>SEDarc ESRC 博士奖学金；国际生名额上限约 30%，学校补足国际学费差额。2026 轮已截止，2027 入学统一截止 2027-01-29。 |
@@ -122,7 +124,7 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（13）
+## 博士后奖学金与项目（14）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -133,6 +135,7 @@
 | [NBER 财富与收入不平等博士后](https://www.nber.org/calls-papers-and-proposals/post-doctoral-fellowship-wealth-and-income-inequality)<br><sub>美国 ｜ 经济/金融</sub> | 博后 | 仅生活费<br><sub>$100,000/12 个月（2025 轮公告；第三方称 2026 轮 $102,500）</sub> | **2026-12-07**<br><sub>🟢 开放申请</sub><br><sub>本轮（2027–28 学年）截止 2026 年 12 月 7 日 17:00 EST</sub> | ❔ | **要求：** 需在 2027 年 6 月前完成博士（第三方说明，以当年公告为准）；提交 CV、研究计划及 1 封推荐信<br>NBER 财富与收入不平等一年期博后：本轮（2027–28 学年）截止 2026 年 12 月 7 日 17:00 EST，目前开放。上一轮公告为 $100,000/12 个月，并报销健康保险、提供差旅与研究津贴，需以 NBER 当年公告为准。需提交 CV、研究计划及推荐信。 |
 | [NYU 法与经济中心博士后（Post-Graduate）研究员](https://www.law.nyu.edu/centers/laweconomics/post-graduate-fellowship)<br><sub>美国 ｜ 经济/金融·社会科学/心理</sub> | 博后 | 仅生活费<br><sub>约 $60,000 + 福利（官网称预计，以官网为准）</sub> | **2027-01-15**<br><sub>🟢 开放申请</sub><br><sub>每年 10 月 1 日起滚动接收，2027 年 1 月 15 日截止或名额满为止</sub> | ❔ | **要求：** 需已获法学博士（JD），或已获/即将获经济学博士且对法律有兴趣；国际生资格需向项目确认<br>法律经济学方向研究职位；官网旧版邮箱与新版不同，以最新页面为准。 |
 | [TSE-IAST 政治经济学博士后（2027 年 1 月入职）](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/document/2027_TSE-IAST_Political_Economy.pdf)<br><sub>法国 ｜ 经济/金融</sub> | 博后 | 带薪岗位<br><sub>年薪约 €45,000 毛薪（据法国公共服务招聘页，指示性；TSE 原文仅写 competitive）</sub> | **2026-12-20**<br><sub>🟢 开放申请</sub><br><sub>2026 年 12 月 20 日截止，2027 年 1 月入职，为期两年（据岗位 PDF 摘要，需以原文为准）。</sub> | ❔ | **要求：** 国际生资格与学历要求以岗位 PDF 为准。<br>图卢兹经济学院（TSE）与 IAST 联合招聘的两年期政治经济学（气候风险方向）博士后。薪资仅写 competitive，未给数字，需向联系人确认。 |
+| [意大利央行经济学研究员（Borse di ricerca）](https://www.bancaditalia.it/chi-siamo/lavorare-bi/borse-ricerca-economisti)<br><sub>意大利 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>€5,500/月（税前）</sub> | 未公布<br><sub>🟢 开放申请</sub><br><sub>页面显示 2026-10-13 发布新一轮招考公告（4 个名额），通常申请至 11 月；具体截止日以公告 PDF 为准。</sub> | 🟡 | **要求：** 博士学位或即将获得；英语流利；非欧盟公民须持长期 EC 居留许可、难民身份或补充保护（2024 年征集条件）<br>面向已获或即将获得博士学位的经济学者，在罗马工作，12 个月可续 12 个月，月薪 5,500 欧元（税前）。 |
 | [斯坦福 APARC Shorenstein 当代亚洲博士后](https://fsi.stanford.edu/node/39687)<br><sub>美国 ｜ 社会科学/心理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>2026–27 约 $80,000（10 个月折算）加研究经费；2027–28 待核实</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>2026-12-01 截止，2027 年秋季入职，为期一学年</sub> | ✅ | **要求：** 需为近期获得博士学位者；研究方向为亚太地区政治、经济或社会变化，或该地区的国际关系与国际政治经济学<br>斯坦福 APARC 当代亚洲博士后，2027–28 学年（2027 年秋季入职），两个名额，截止 2026-12-01。页面未写明国籍限制与津贴金额，请查官网。 |
 | [欧洲大学研究院（EUI）马克斯·韦伯博士后项目](https://www.eui.eu/documents/mwp/publications/mwpleafleta4web.pdf)<br><sub>意大利 ｜ 经济/金融·社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | —<br><sub>页面（传单）称每年 10 月 25 日为申请截止日；具体年份以官网 How to Apply 页面为准。</sub> | ❔ | **要求：** 在项目开始时（9 月 1 日）博士论文已正式提交并被接受答辩；获博士学位后五年内均有资格申请。<br>面向经济、历史、法律、政治与社会科学领域近期获博士学位者的 1–2 年博士后项目，英语为工作语言，设在 Villa La Fonte（Fiesole）。页面称每年 10 月 25 日为申请截止日。 |
 | [欧洲央行 Wim Duisenberg 研究学者奖学金（2027 轮）](https://www.ecb.europa.eu/pub/economic-research/programmes/shared/pdf/WDFP_2027.en.pdf)<br><sub>欧盟/欧洲 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | **2026-06-30**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 轮申请截止 2026-06-30（已过）；下一轮以欧洲央行官网为准。</sub> | ❔ | **要求：** 已获博士学位，并在顶级学术期刊有突出发表记录；需在欧洲央行法兰克福总部访问 2–6 个月（2027 年内，可分段）；申请材料包括详细 CV、一页研究计划及期望时段，通过邮件发送至 WDFP@ecb.europa.eu。<br>欧洲央行研究部的访问学者项目，面向已有博士学位的研究者，不是学生资助；页面称提供按资历确定的财务津贴，金额未列出。 |

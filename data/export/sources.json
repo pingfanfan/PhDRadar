@@ -2917,6 +2917,34 @@
 "page_evidence": "PRIDE is the FNR’s main programme for funding doctoral research in Luxembourg."
 },
 {
+"id": "ahrc-dla-allocations",
+"name": "AHRC Doctoral Landscape Award 分配名单",
+"url": "https://www.ukri.org/publications/ahrc-doctoral-landscape-award-allocations/",
+"category": "national-portals",
+"regions": [
+"UK"
+],
+"disciplines": [
+"humanities"
+],
+"funding": "info",
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"notes": "AHRC 向 50 所高校分配人文艺术博士名额（每校 5 年约 15 个，首批 2026 年 10 月入学）。需先查名单，再到各校研究生院申请；国际生资格未在 UKRI 页面找到官方说明，需逐校确认。",
+"verified": "2026-10-19",
+"coverage": "varies",
+"status": "ongoing",
+"requirements": "需先在 50 所获分配高校中找到具体名额，再到各校研究生院申请；国际生资格在 UKRI 页面未见说明，需逐校确认。",
+"verify_method": "page",
+"page_evidence": "AHRC has made awards to 50 UK higher education institutions, providing funding for 15 studentships (three studentships per year for five years).",
+"levels": [
+"phd"
+]
+},
+{
 "id": "uzh-doctoral-programs",
 "name": "苏黎世大学博士项目总览",
 "url": "https://www.grc.uzh.ch/en/counseling/orientation-phd/doctoralprograms.html",
@@ -5239,6 +5267,37 @@
 "verified": "2026-10-17"
 },
 {
+"id": "branco-weiss-fellowship",
+"name": "Branco Weiss Fellowship – Society in Science",
+"url": "https://research.ucalgary.ca/opportunity/2026-branco-weiss-fellowship-society-science",
+"category": "postdoc-fellowships",
+"regions": [
+"GLOBAL"
+],
+"disciplines": [
+"all"
+],
+"funding": "fellowship",
+"levels": [
+"postdoc"
+],
+"cn_eligible": "yes",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "unknown",
+"stipend": "最高 CHF 600,000（最长 5 年）",
+"deadline": "2027-01-15",
+"deadline_note": "2027 轮截止 2027 年 1 月 15 日（CET 17:00）；2026 轮已关闭",
+"status": "closed",
+"requirements": "须已获博士学位且毕业不超过 5 年",
+"notes": "Branco Weiss 研究员计划每年 1 月 15 日截止，2026 轮已关闭，2027 轮截止 2027-01-15、投递 2026 年 10 月开放；须获博士学位不超过 5 年，提出偏离本学科主流的研究计划。国籍限制官方未明示。",
+"verify_method": "page",
+"page_evidence": "The Fellowship is open to researchers from all disciplines and to citizens of all nationalities.",
+"verified": "2026-10-19"
+},
+{
 "id": "fyssen-postdoc-grants",
 "name": "Fyssen 基金会博士后资助（认知与神经科学）",
 "url": "https://www.fondationfyssen.fr/?p=32613",
@@ -6119,6 +6178,93 @@
 "verified": "2026-10-16"
 },
 {
+"id": "aa-school-phd-programme",
+"name": "伦敦 AA 建筑联盟学院博士项目",
+"url": "https://phd.aaschool.ac.uk/?p=27",
+"category": "doctoral-programs",
+"regions": [
+"UK"
+],
+"disciplines": [
+"engineering",
+"humanities"
+],
+"funding": "info",
+"levels": [
+"phd"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "partial",
+"deadline_note": "奖学金须在首轮申请时提交方可参评；具体日期以官网为准。",
+"notes": "论文型或设计型博士。学费对所有国籍相同；学院提供学费奖学金（bursary），按申请者需求与实力评定，未见国际生专项奖学金。具体金额、名额与截止以官网为准。",
+"verify_method": "page",
+"page_evidence": "The PhD Programme at the Architectural Association is a fulltime, three-year course",
+"verified": "2026-10-19"
+},
+{
+"id": "aag-student-opportunities",
+"name": "AAG 美国地理学家协会学生机会页",
+"url": "https://aag.org/studentopportunities/",
+"category": "aggregators",
+"regions": [
+"US"
+],
+"disciplines": [
+"geo"
+],
+"funding": "position",
+"levels": [
+"phd",
+"postdoc"
+],
+"cn_eligible": "check",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "varies",
+"status": "ongoing",
+"notes": "汇总各地地理系研究生助研/助教与博后机会，持续更新。",
+"verify_method": "page",
+"page_evidence": "This site features available graduate student assistantships, internships, and postdoctoral researcher positions.",
+"verified": "2026-10-19"
+},
+{
+"id": "aalto-doctoral-programme-arts-design-architecture",
+"name": "Aalto 艺术、设计与建筑博士项目",
+"url": "https://www.aalto.fi/en/study-options/aalto-doctoral-programme-in-arts-design-and-architecture-0",
+"category": "doctoral-programs",
+"regions": [
+"FI"
+],
+"disciplines": [
+"humanities",
+"engineering"
+],
+"funding": "mixed",
+"levels": [
+"phd"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "tuition",
+"deadline": "2027-03-02",
+"deadline_note": "2027 年入学申请期 2027-02-09 至 2027-03-02。",
+"status": "upcoming",
+"requirements": "需硕士学位；所有国籍博士生免学费；Finland Fellowship 仅限非洲、中美洲、南美洲国籍申请者，中国大陆学生不符合，其余经费需自寻",
+"notes": "Aalto 艺术、设计与建筑博士项目免学费（所有国籍）。学校不提供博士奖学金，多数博士生依靠外部资助或受雇岗位。Finland Fellowship 仅限非洲、中美洲、南美洲国籍，中国大陆学生不符合。",
+"verify_method": "page",
+"page_evidence": "Aalto Doctoral Programme in Arts, Design and Architecture is free of tuition fees.",
+"verified": "2026-10-19"
+},
+{
 "id": "bristol-geographic-data-science-phd",
 "name": "布里斯托地理数据科学博士（含奖学金）",
 "url": "https://www.bristol.ac.uk/geography/courses/postgraduate/phd-in-geographic-data-science/",
@@ -6632,6 +6778,36 @@
 "verified": "2026-10-17"
 },
 {
+"id": "aberdeen-csc",
+"name": "阿伯丁大学 CSC 奖学金",
+"url": "https://www.abdn.ac.uk/study/funding/348",
+"category": "gov-scholarships",
+"regions": [
+"UK"
+],
+"disciplines": [
+"all"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "yes",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "partial",
+"deadline": "rolling",
+"deadline_note": "在 CSC 官网申请，截止时间以 CSC 官网为准；学校页面标注 available until further notice",
+"status": "rolling",
+"requirements": "中国大陆（PRC）国籍；已获硕士学位；申请时未满 35 岁；已获阿伯丁录取；须同时提交 CSC 申请表与雇主推荐表；仅限阿伯丁校区；学成须回国。",
+"notes": "阿伯丁大学 CSC 奖学金：须为中国籍、已获硕士学位、35 岁以下、已获阿伯丁录取（需先找导师）；仅限阿伯丁校区。",
+"verify_method": "page",
+"page_evidence": "The CSC Scholarship is open to Chinese nationals wishing to study for a full-time PhD in any discipline at the University of Aberdeen.",
+"verified": "2026-10-19"
+},
+{
 "id": "kent-sedarc",
 "name": "肯特大学 SEDarc ESRC 博士奖学金",
 "url": "https://www.kent.ac.uk/scholarships/search/FNADSEDARC01",
@@ -6808,6 +6984,69 @@
 "verify_method": "page",
 "page_evidence": "Coventry is part of the prestigious A*Star Research Attachment Programme (ARAP) which offers fully funded four-year PhD studentships.",
 "verified": "2026-10-16"
+},
+{
+"id": "aberystwyth-wgsss",
+"name": "阿伯里斯特威斯 WGSSS 政治与国际关系博士奖学金",
+"url": "https://www.aber.ac.uk/en/interpol/study-with-us/phd/funding",
+"category": "doctoral-programs",
+"regions": [
+"UK"
+],
+"disciplines": [
+"social"
+],
+"funding": "position",
+"levels": [
+"phd"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "full",
+"stipend": "£21,805/年（2026-27 全日制，UKRI 最低标准）",
+"deadline": "2026-12-14",
+"deadline_note": "2027 年 10 月入学轮次申请截止 2026-12-14。",
+"status": "open",
+"requirements": "相当于英国一等或上二等荣誉学位，或硕士；需满足 UKRI 资格；国际生名额约占 30%（据网页）",
+"notes": "威尔士社科研究生院（WGSSS）ESRC 全额奖，覆盖学费（国际生不补差额）与生活津贴，国际生名额约 30%；具体截止以官网为准。",
+"verify_method": "page",
+"page_evidence": "WGSSS studentships are available to home and international students.",
+"verified": "2026-10-19"
+},
+{
+"id": "bangor-wgsss",
+"name": "班戈大学 WGSSS 社科博士岗位",
+"url": "https://www.bangor.ac.uk/international/phd-studentships-funded-by-the-wales-graduate-school-for-the-social-sciences",
+"category": "doctoral-programs",
+"regions": [
+"UK"
+],
+"disciplines": [
+"social",
+"econ"
+],
+"funding": "position",
+"levels": [
+"phd"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "full",
+"stipend": "£19,237/年免税生活津贴（页面所示）",
+"deadline": "unknown",
+"deadline_note": "页面仅显示 2025 年 10 月入学轮次，截止 2024-12-11；页面未给出后续轮次。",
+"status": "closed",
+"requirements": "需英国一等或高二等荣誉学位或硕士同等学历；需完成 3 个月 Research in Practice 实习；部分路径需先与潜在导师联系",
+"notes": "WGSSS（ESRC DTP）社科全额博士岗位，学费全免（含国际生）并发放生活津贴。第三方页面称国际生名额约占 30%，需以官网为准。2027 轮未查到公告。",
+"verify_method": "page",
+"page_evidence": "Bangor University are delighted to offer fully funded Wales Graduate School for the Social Sciences (WGSSS) (ESRC DTP) studentships",
+"verified": "2026-10-19"
 },
 {
 "id": "rhul-sedarc-economics",
@@ -7207,6 +7446,34 @@
 "verify_method": "page",
 "page_evidence": "The next application period will take place in April 2027.",
 "verified": "2026-10-18"
+},
+{
+"id": "bhf-four-year-phd-programme",
+"name": "英国心脏基金会四年制博士项目",
+"url": "https://www.bhf.org.uk/for-professionals/information-for-researchers/what-we-fund/4-year-phd-programme",
+"category": "fellowships",
+"regions": [
+"UK"
+],
+"disciplines": [
+"med",
+"bio"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "partial",
+"status": "closed",
+"notes": "BHF 四年制博士：国际生政策因校而异，部分项目全额资助国际生，部分项目国际生需自付英国与海外学费差额；需一级或高二荣誉学位。各校截止不同。",
+"verify_method": "page",
+"page_evidence": "The programme will consist of 4 intakes, with the first in Autumn 2026 and the last in Autumn 2029.",
+"verified": "2026-10-19"
 },
 {
 "id": "edinburgh-bhf-phd-opportunities",
@@ -9274,6 +9541,38 @@
 "verified": "2026-10-14"
 },
 {
+"id": "ai-decisions-cdt",
+"name": "AI Decisions CDT（EPSRC）",
+"url": "https://www.ai-decisions-cdt.ac.uk/apply/",
+"category": "doctoral-programs",
+"regions": [
+"UK"
+],
+"disciplines": [
+"ai",
+"cs"
+],
+"funding": "position",
+"levels": [
+"phd"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "partial",
+"stipend": "£31,000/年（免税，2026–27）",
+"deadline": "unknown",
+"deadline_note": "页面列出的截止日期为 2025-12-05（2026 年 9 月入学批次），下一轮未公布",
+"status": "closed",
+"requirements": "需先选定研究项目并联系导师；国际生名额不超过 30%（UKRI 规定）",
+"notes": "EPSRC AI Decisions CDT：国际生最多占每届 30%，名额有限；申请前须先选定研究项目并联系导师。要求 2:1 荣誉学位或同等学历，需 1–2 页陈述、成绩单与两位推荐人。国际生学费 £29,900–£60,800/年（曼彻斯特页面），资助覆盖以官网为准。",
+"verify_method": "page",
+"page_evidence": "Tax-free stipend of £31,000 in 2026–27 (pro rata for part-time study) to support your living costs, paid in regular instalments.",
+"verified": "2026-10-19"
+},
+{
 "id": "imperial-chemical-biology-cdt",
 "name": "帝国理工化学生物学 CDT",
 "url": "https://www.imperial.ac.uk/chemical-biology/cdt/studentships/current-applications/",
@@ -9566,11 +9865,14 @@
 ],
 "language": "en",
 "coverage": "partial",
-"deadline_note": "通常 10 月至 12 月开放申请，经剑桥大学研究生申请系统提交；2027 年入学轮截止以官网为准。",
-"status": "upcoming",
+"deadline": "2026-12-08",
+"deadline_note": "页面称 2027 年入学批次所有博士岗位申请截止 2026-12-08，面试在 2027 年 1 月 18 日当周，须通过剑桥大学申请系统提交。",
+"status": "open",
 "requirements": "需 2:1 荣誉学位或同等学历及两封推荐信；IELTS 总分 7.0（各项不低于 6.5–7.0）；非英国、非欧盟申请者须自筹学费与生活费或另获资助。",
 "notes": "经剑桥申请系统申请，非欧盟生需自筹学费或另有资助。",
-"verified": "2026-10-17"
+"verify_method": "page",
+"page_evidence": "The applications deadline for all PhD studentships: 8th December 2026",
+"verified": "2026-10-19"
 },
 {
 "id": "jic-international-scholarship",
@@ -10307,6 +10609,34 @@
 "verified": "2026-10-17"
 },
 {
+"id": "baylor-gsbs-fees-expenses",
+"name": "Baylor 医学院 GSBS 资助与费用",
+"url": "https://www.bcm.edu/sites/default/files/2026-09/fees-and-expenses-graduate-school-of-biomedical-sciences-2025-2026.pdf",
+"category": "doctoral-programs",
+"regions": [
+"US"
+],
+"disciplines": [
+"bio",
+"med",
+"neuro"
+],
+"funding": "position",
+"levels": [
+"phd"
+],
+"cn_eligible": "check",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "full",
+"notes": "页面称博士生获得有竞争力的津贴、全额学费减免和免费个人医疗保险；未说明国际生资格，仅提到国际生需缴年度签证费。",
+"verify_method": "page",
+"page_evidence": "Our students receive a competitive stipend, full tuition remission",
+"verified": "2026-10-19"
+},
+{
 "id": "duke-chancellors-scholarship-biomed",
 "name": "Duke Chancellor's Scholarship（国际生生物医学博士）",
 "url": "https://gradschool.duke.edu/financial-support/find-funding/chancellor%E2%80%99s-scholarship/",
@@ -10823,6 +11153,36 @@
 "verify_method": "page",
 "page_evidence": "Foreign scholarship holders receive:",
 "verified": "2026-10-17"
+},
+{
+"id": "boell-studienwerk-phd",
+"name": "伯尔基金会（Heinrich Böll）博士奖学金",
+"url": "https://boell.de/en/applying-scholarship",
+"category": "fellowships",
+"regions": [
+"DE"
+],
+"disciplines": [
+"all"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "check",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "unknown",
+"deadline": "2027-03-01",
+"deadline_note": "每年 3 月 1 日与 9 月 1 日两轮；2026 年 9 月轮已截止，下一轮为 2027 年 3 月 1 日",
+"status": "upcoming",
+"requirements": "面向在德国攻读博士的国际学生；官网称博士资助对象包括 EU 与 DAC 国家学生，中国籍资格未明确；需通过在线门户申请",
+"notes": "伯尔基金会博士奖学金，面向在德国攻读博士的外国学生，每年 3 月 1 日与 9 月 1 日两轮截止，2026 年 9 月轮已过，下一轮为 2027 年 3 月 1 日。需已获德国大学博士录取，通过官网在线门户申请；中国籍资格官网描述不明确。",
+"verify_method": "page",
+"page_evidence": "International PhD students who have completed their graduate degree abroad may apply for a PhD program in Germany.",
+"verified": "2026-10-19"
 },
 {
 "id": "kavli-nsi-postdoc",
@@ -11710,6 +12070,38 @@
 "verified": "2026-10-18"
 },
 {
+"id": "astar-ags-official",
+"name": "新加坡 A*STAR 研究生奖学金（AGS）",
+"url": "https://www.a-star.edu.sg/scholarships/home/scholarships/ags--scholarship",
+"category": "gov-scholarships",
+"regions": [
+"SG"
+],
+"disciplines": [
+"engineering",
+"cs",
+"physics"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "full",
+"stipend": "国际生月津贴 $3,600（STEM）/ $5,000（专项方向），币种页面未注明",
+"deadline_note": "页面列两个申请窗口：11 月 1 日至次年 2 月 1 日，以及 6 月 1 日至 8 月 10 日；以官网当年公告为准。",
+"status": "upcoming",
+"requirements": "非新加坡公民/永久居民须已完成或即将完成新加坡自主大学学位，并获该校博士录取；非 SPR 须履行约 3 年在新加坡的服务承诺",
+"notes": "覆盖 STEM、计算、量子、半导体四条线，资助最长 4 年博士，含学费、月津贴及最长 12 个月海外实习。非新加坡公民须获新加坡自主大学（如 NUS、NTU、SMU 等）博士录取，即只能通过在新加坡就读的路线申请。官方页面列出两个申请窗口：11 月 1 日至次年 2 月 1 日，以及 6 月 1 日至 8 月 1 日；以官网为准。",
+"verify_method": "page",
+"page_evidence": "Application period: 1 November to 1 February & 1 June to 10 August",
+"verified": "2026-10-19"
+},
+{
 "id": "elte-stipendium-hungaricum",
 "name": "匈牙利 Stipendium Hungaricum 博士项目（ELTE 页面）",
 "url": "https://wwwold.elte.hu/en/stipendium-hungaricum",
@@ -12073,6 +12465,37 @@
 "verify_method": "page",
 "page_evidence": "Call for Proposals: CHARM-EU Blended Intensive Programmes (BIPs) 2026/2027",
 "verified": "2026-10-17"
+},
+{
+"id": "4eu-cotutelle-doctoral-contracts-sorbonne",
+"name": "4EU+ 联合培养博士合同 · 索邦大学（2026 轮）",
+"url": "https://www.sorbonne-universite.fr/en/news/4eu-cotutelle-doctoral-contracts-2026",
+"category": "university-schemes",
+"regions": [
+"FR",
+"EU"
+],
+"disciplines": [
+"all"
+],
+"funding": "position",
+"levels": [
+"phd"
+],
+"cn_eligible": "check",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "salary",
+"deadline": "2026-04-24",
+"deadline_note": "官网记载 2026 轮截止 4 月 24 日；2026 轮已结束，2027 轮待公告",
+"status": "closed",
+"requirements": "由索邦导师与伙伴校合作导师共同申请；所在实验室需隶属索邦共同认证的博士学院；含一年海外流动",
+"notes": "索邦大学每年为 4EU+ 联合培养项目提供全额博士合同（36 个月，2026 年为 4 个），由索邦与伙伴校导师共同指导并含一年海外流动。2026 轮已结束，截止日各来源记载不一，以官网为准；明年可能重开，请关注公告。",
+"verify_method": "page",
+"page_evidence": "25 March – 24 April 2026: Submission of applications",
+"verified": "2026-10-19"
 },
 {
 "id": "daad-international-programmes-db",
@@ -14296,6 +14719,71 @@
 "feed": "https://rseq.org/ofertas-de-empleo/?feed=rss2"
 },
 {
+"id": "acce-dtp-noc-dla",
+"name": "ACCE+ 博士培训伙伴 NOC 博士学位机会（DLA）",
+"url": "https://accedtp.ac.uk/acce-dla-opportunities-at-the-national-oceanography-centre",
+"category": "university-schemes",
+"regions": [
+"UK"
+],
+"disciplines": [
+"geo",
+"bio",
+"eco"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "partial",
+"deadline": "2026-01-07",
+"deadline_note": "2026 年 10 月入学截止 2026-01-07（已过）；2027 轮未确认",
+"status": "closed",
+"requirements": "通过 ACCE+ 在线表格申请并将 EDI 表发至 acce.dtp@liverpool.ac.uk；UKRI 资助以英国本土学费为准，国际生仅能通过部分按本土学费计费的伙伴方案；签证、医疗附加费与搬迁费不在资助内",
+"notes": "ACCE+ 为英国 NERC 博士培训伙伴，NOC 课题通过其在线申请表提交。2026 年 10 月入学的截止日为 2026-01-07，已过期；UKRI 资助只覆盖英国学生学费，签证和搬迁费用不在资助内。",
+"verify_method": "page",
+"page_evidence": "Applications for ACCE+ PhD studentships for 2026 entry are now closed.",
+"verified": "2026-10-19"
+},
+{
+"id": "aims-jcu-phd-scholarships",
+"name": "AIMS@JCU 海洋科学博士与硕士奖学金（澳大利亚海洋研究所 + 詹姆斯库克大学）",
+"url": "https://aims.jcu.edu.au/phd-scholarships/",
+"category": "university-schemes",
+"regions": [
+"AU"
+],
+"disciplines": [
+"bio",
+"eco",
+"geo"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "full",
+"stipend": "A$37,500/年（2027 轮，JCU 国际生页面），另含学费",
+"deadline": "2026-09-01",
+"deadline_note": "2027 入学轮次申请截止 2026 年 9 月 1 日（已过）；下一轮未公布",
+"status": "closed",
+"requirements": "需同时有 AIMS 与 JCU 导师，项目须在两者重叠领域；通过 JCU 研究生院提交；名额每年有限",
+"notes": "每年最多 4 个名额，需同时有 AIMS 与 JCU 导师，项目须在两者重叠领域。JCU 国际生页面列 2027 年生活津贴 A$37,500/年（另含学费）；不同页面的附加项目费数字有出入，以官网为准。2027 入学轮次截止 2026 年 9 月 1 日（已过），通过 JCU 研究生院提交。",
+"verify_method": "page",
+"page_evidence": "Each year, AIMS@JCU awards up to four promising marine scientists a place on our supportive PhD or MPhil programme.",
+"verified": "2026-10-19"
+},
+{
 "id": "aries-dtp-studentships",
 "name": "ARIES 博士培训伙伴奖学金（含 Cefas 合作 CASE 项目）",
 "url": "https://aries-dtp.ac.uk/studentships/",
@@ -15107,6 +15595,38 @@
 "verified": "2026-10-18"
 },
 {
+"id": "augsburg-ips-open-positions",
+"name": "奥格斯堡大学计算机视觉/具身 AI 组（Stückler 组）招聘页",
+"url": "https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/ips/open-positions/",
+"category": "discipline",
+"regions": [
+"DE"
+],
+"disciplines": [
+"cs",
+"ai"
+],
+"funding": "position",
+"levels": [
+"phd",
+"postdoc"
+],
+"cn_eligible": "check",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "salary",
+"deadline": "2026-07-24",
+"deadline_note": "2026 年 7 月 24 日截止，本轮已关闭；页面接受主动申请邮件",
+"status": "closed",
+"requirements": "需计算机、电气、应用数学或物理相关硕士；按 TV-L E13 支付",
+"notes": "计算机视觉与具身 AI 方向的三年期研究助理/博士岗（TV-L E13），此前一轮截止为 2026 年 7 月，已关闭。页面长期有效，建议关注后续新岗位。",
+"verify_method": "page",
+"page_evidence": "For unsolicited applications, please send an email to",
+"verified": "2026-10-19"
+},
+{
 "id": "kit-doctoral-programs",
 "name": "卡尔斯鲁厄理工学院（KIT）博士项目总入口",
 "url": "https://www.kit.edu/kit/english/phdprograms_31765.php",
@@ -15259,6 +15779,37 @@
 "verify_method": "page",
 "page_evidence": "is looking for applications for PhD study from high quality applicants",
 "verified": "2026-10-18"
+},
+{
+"id": "bristol-phd-with-researchers",
+"name": "布里斯托大学工程学院 PhD 课题（与研究员合作）入口",
+"url": "https://www.bristol.ac.uk/science-engineering/postgraduate-research/phd-opportunities-with-our-researchers/",
+"category": "doctoral-programs",
+"regions": [
+"UK"
+],
+"disciplines": [
+"engineering",
+"cs"
+],
+"funding": "mixed",
+"levels": [
+"phd"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "varies",
+"deadline": "varies",
+"deadline_note": "各项目截止不一；大学 PGR 奖学金 2026/27 入学轮截止为 2026 年 1 月 19 日（已过）",
+"status": "ongoing",
+"requirements": "需一等或高二等学位（相关专业）；大学奖学金对境外生开放，但 EPSRC DLA 等项目境外生名额有限；具体条件以学院与项目说明为准",
+"notes": "学校级课题入口，可按研究组筛选，通信系统与网络（CSN）等组有过 EPSRC 全额资助博士名额。大学 PGR 奖学金对境外申请人开放，但 EPSRC DLA 等项目据学校表格境外生仅占每批约 30%，以各项目说明为准；也可直接联系组内导师提出课题。",
+"verify_method": "page",
+"page_evidence": "Many groups have PhD project opportunities available.",
+"verified": "2026-10-19"
 },
 {
 "id": "lund-vacancies",
@@ -15438,6 +15989,35 @@
 "verified": "2026-10-17"
 },
 {
+"id": "arch-sheffield-architecture-landscape-funding",
+"name": "谢菲尔德大学建筑与景观学院 · PhD 资助机会",
+"url": "https://sheffield.ac.uk/architecture-landscape/postgraduate/phd/fees-funding",
+"category": "university-schemes",
+"regions": [
+"UK"
+],
+"disciplines": [
+"humanities",
+"engineering"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "no",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "full",
+"deadline_note": "官网页列 4 月 21 日截止（已过）；以当期广告为准",
+"status": "ongoing",
+"notes": "谢菲尔德大学建筑与景观系博士资助：HK Stephenson 奖学金仅限英国（Home）学生；其他奖学金需逐项核对国际生资格；需先联系拟任导师。",
+"verify_method": "page",
+"page_evidence": "The School of Architecture and Landscape are pleased to be able to offer a 3.5 year fully funded scholarship to a Home student with an excellent idea for a PhD in Architectural Humanities.",
+"verified": "2026-10-19"
+},
+{
 "id": "arch-shu-ahrc-doctoral-landscape",
 "name": "谢菲尔德哈勒姆大学 · AHRC 博士景观奖（建筑方向）",
 "url": "https://www.shu.ac.uk/research/degrees/phd-scholarships/ahrc-doctoral-landscape-awards",
@@ -15467,6 +16047,37 @@
 "verify_method": "page",
 "page_evidence": "is offering one funded PhD studentship as part of the AHRC’s Doctoral Landscape Award programme, to begin in February 2027.",
 "verified": "2026-10-17"
+},
+{
+"id": "arch-newcastle-apl-pgr-funding",
+"name": "纽卡斯尔大学建筑、规划与景观学院 · 研究生资助页",
+"url": "https://www.ncl.ac.uk/apl/study/postgraduate-research/pgr-funding-and-scholarships",
+"category": "university-schemes",
+"regions": [
+"UK"
+],
+"disciplines": [
+"engineering",
+"humanities",
+"geo"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "check",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "varies",
+"deadline": "varies",
+"deadline_note": "各奖学金截止不一；Forshaw 博士奖学金的 2026 年截止在搜索中未能确认，以学院公告为准。",
+"status": "ongoing",
+"notes": "页面列出 Forshaw 博士奖学金（免税津贴 £21,805/年，最长 3 年，仅限女性且为本地学费身份）、Iland 研究生奖学金（2026-27，Home 与国际生均可，限欧洲文化、政治思想、语言文学主题）以及 NINE DTP。",
+"verify_method": "page",
+"page_evidence": "Available to Home and International students commencing or continuing a PhD in the HaSS Faculty in the 2026/27 academic year.",
+"verified": "2026-10-19"
 },
 {
 "id": "arch-lse-geography-phd-funding",
@@ -16778,6 +17389,95 @@
 "verified": "2026-10-18"
 },
 {
+"id": "bwf-pdep",
+"name": "Burroughs Wellcome 基金会博士后强化项目（PDEP）",
+"url": "https://www.bwfund.org/wp-content/uploads/2020/10/BWF_PDEP-RFP-2026_v2.pdf",
+"category": "postdoc-fellowships",
+"regions": [
+"US",
+"CA"
+],
+"disciplines": [
+"bio"
+],
+"funding": "fellowship",
+"levels": [
+"postdoc"
+],
+"cn_eligible": "check",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "unknown",
+"deadline": "unknown",
+"deadline_note": "2026 轮 RFP 截止 1 月 20 日已过；2027 轮 RFP 未在搜索中找到",
+"status": "closed",
+"requirements": "2026 轮 RFP 资格条款（国籍）未能核实；早期页面称需美国或加拿大公民，以 RFP 原文为准",
+"notes": "只面向美国或加拿大公民，且须在美国或加拿大学位授予机构做博后，中国籍不符合。2026 年截止日为 1 月 20 日，已过。仅作为排除项保留。",
+"verify_method": "page",
+"page_evidence": "The program provides a total of $60,000 over three years",
+"verified": "2026-10-19"
+},
+{
+"id": "bolyai-research-fellowship",
+"name": "匈牙利 János Bolyai 研究奖学金（MTA）",
+"url": "https://fka.mta.hu/en/palyazat/bolyai-janos-research-scholarship/",
+"category": "postdoc-fellowships",
+"regions": [
+"HU"
+],
+"disciplines": [
+"all"
+],
+"funding": "fellowship",
+"levels": [
+"postdoc"
+],
+"cn_eligible": "no",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "stipend",
+"deadline_note": "每年 3 月初截止；2026 轮已结束，2027 轮待 MTA 公告",
+"status": "closed",
+"notes": "Bolyai 研究奖学金：需为匈牙利公民或海外匈牙利裔研究者，持博士学位、未满 45 岁，须在匈牙利科研机构任职并用匈牙利语申请；中国大陆学生一般不符合。",
+"verify_method": "page",
+"page_evidence": "at the time of application holds a PhD or equivalent degree,",
+"verified": "2026-10-19"
+},
+{
+"id": "broad-wallenberg-postdoc",
+"name": "瓦伦堡基金会 Broad Institute 博士后项目（瑞典籍）",
+"url": "https://kaw.wallenberg.org/postdoctoral-fellowship-program-broad-institute",
+"category": "postdoc-fellowships",
+"regions": [
+"US",
+"SE"
+],
+"disciplines": [
+"bio"
+],
+"funding": "fellowship",
+"levels": [
+"postdoc"
+],
+"cn_eligible": "no",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "stipend",
+"stipend": "约 USD 50,000/年（官网页面）",
+"deadline": "unknown",
+"requirements": "须持瑞典高校博士学位并与瑞典高校有长期关联，需先找到 MIT/Broad 导师；中国籍通常不符合。",
+"notes": "资助在瑞典高校获得博士的人到麻省理工与 Broad 研究所做博后，要求与瑞典高校有长期关联，中国籍不符合。仅作排除项保留。",
+"verify_method": "page",
+"page_evidence": "The applicant should have a doctorate-level degree from a Swedish university before commencing the postdoctoral studies.",
+"verified": "2026-10-19"
+},
+{
 "id": "lbl-als-collaborative-postdoc",
 "name": "LBNL ALS 合作博士后奖学金（Advanced Light Source）",
 "url": "https://als.lbl.gov/about/career-opportunities/als-collaborative-postdoctoral-fellowship-program/",
@@ -16930,6 +17630,38 @@
 "requirements": "需为在读博士或近 5 年内获博士；一年期（可续），津贴名额有限；国际申请人具体资格以当年公告为准。",
 "notes": "一年期（可续）研究员，面向在读博士与近 5 年内获博士者。官网显示 2027-28 轮申请于 2026 年 10 月 1 日开放，12 月 1 日截止，推荐信 12 月 15 日前。津贴名额有限，可申请全额或部分资助，也有无津贴职位；国际申请人资格未确认，需以官网为准。",
 "verified": "2026-10-16"
+},
+{
+"id": "acs-postdoc-fellowship",
+"name": "美国癌症学会（ACS）博士后奖学金（Cancer Research）",
+"url": "https://amp.cancer.org/research/we-fund-cancer-research/apply-research-grant/grant-types/postdoctoral-fellowships.html",
+"category": "fellowships",
+"regions": [
+"US"
+],
+"disciplines": [
+"bio",
+"med",
+"chem"
+],
+"funding": "fellowship",
+"levels": [
+"postdoc"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "stipend",
+"deadline": "2026-12-01",
+"deadline_note": "每年 6 月 1 日和 12 月 1 日截止；下一轮为 2026-12-01",
+"status": "open",
+"requirements": "需在美国学术机构或合格非营利机构任博后职位；美国公民，或申请时持有适当签证/合法身份的非美国公民；博士学位获得不超过 3 年和/或博后训练不超过 3 年",
+"notes": "页面称奖励最长 3 年，年度津贴 66,000/68,000/70,000 美元，另有每年 4,000 美元补助；截止日期为 6 月 1 日和 12 月 1 日。",
+"verify_method": "page",
+"page_evidence": "Awards are for up to 3 years with recently increased progressive stipends of $66,000, $68,000, and $70,000 a year.",
+"verified": "2026-10-19"
 },
 {
 "id": "caltech-ppfp",
@@ -17242,6 +17974,38 @@
 "verified": "2026-10-18"
 },
 {
+"id": "acls-fellowships-competition",
+"name": "ACLS Fellowships（美国学术团体协会人文社科奖学金）",
+"url": "https://www.acls.org/competitions/acls-fellowships/",
+"category": "fellowships",
+"regions": [
+"US"
+],
+"disciplines": [
+"humanities",
+"social"
+],
+"funding": "fellowship",
+"levels": [
+"postdoc"
+],
+"cn_eligible": "no",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "stipend",
+"stipend": "$5,000/月，最高 $60,000（6–12 个月）",
+"deadline": "2026-09-17",
+"deadline_note": "2026-27 轮已于 2026-09-17 截止，下一轮以 acls.org 公布为准",
+"status": "closed",
+"requirements": "需人文或阐释性社会科学博士学位；须为美国公民、永久居民或 DACA、庇护、难民、TPS 等身份，其他国籍者需在美国或其属地居住满三年",
+"notes": "美国学术团体协会人文与阐释性社会科学奖学金。官方资格限美国公民、永久居民及特定身份者；其他国籍需在美国或其属地居住满三年，中国大陆申请者通常不符合。截止日以 acls.org 为准。",
+"verify_method": "page",
+"page_evidence": "The fellowship stipend is set at $60,000 for a 12-month fellowship.",
+"verified": "2026-10-19"
+},
+{
 "id": "hku-society-of-fellows-humanities",
 "name": "香港大学人文学科研究员学会（Society of Fellows in the Humanities）",
 "url": "https://sof-wix.arts.hku.hk/call-for-applications",
@@ -17451,6 +18215,36 @@
 "verified": "2026-10-17"
 },
 {
+"id": "anid-becas-chile-abroad-excluded",
+"name": "智利 Becas Chile 海外博士奖学金（仅确认排除）",
+"url": "https://anid.cl/capital-humano-2/becas-en-el-extranjero-becas-chile/",
+"category": "gov-scholarships",
+"regions": [
+"CL"
+],
+"disciplines": [
+"all"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "no",
+"access": [
+"web"
+],
+"language": "es",
+"coverage": "unknown",
+"deadline": "2026-05-19",
+"deadline_note": "2026 年征集于 5 月 19 日截止（已结束）。",
+"status": "closed",
+"requirements": "需智利国籍或智利永久居留；中国籍不符合。",
+"notes": "Becas Chile 赴海外读博项目只面向智利籍或在智利获得永久居留者，2026 年征集已截止。列在这里只是为了避免误投。",
+"verify_method": "page",
+"page_evidence": "Encuentra información sobre el estado y cumplimiento de las obligaciones de las becas para estudios en el extranjero, entregadas por ANID.",
+"verified": "2026-10-19"
+},
+{
 "id": "capes-pipd-postdoc",
 "name": "CAPES 国内博士后计划（PIPD）",
 "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-no-pais/programa-institucional-de-pos-doutorado-pipd",
@@ -17508,6 +18302,32 @@
 "requirements": "面向外国申请人的 stricto sensu 硕士或博士入学；每个项目仅 1 个奖学金名额；语言与学历要求以 edital 为准（未核实）",
 "notes": "Unoesc 外国学生 stricto sensu 硕博滚动征集，目标为 2026 年内入学。表格列出四个领域各 1 个博士名额，奖学金覆盖全额学费与注册费，未说明生活费；名额有限，申请截止与语言要求请以 edital 原文为准。",
 "verified": "2026-10-14"
+},
+{
+"id": "anii-uruguay-posgrados-2026",
+"name": "乌拉圭 ANII 2026 年国内硕博奖学金（基础文件）",
+"url": "https://anii.org.uy/upcms/files/llamados/documentos/1787069817_bases-posgrados-nacionales-2026-vf-2-.pdf",
+"category": "gov-scholarships",
+"regions": [
+"UY"
+],
+"disciplines": [
+"all"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "no",
+"access": [
+"web"
+],
+"language": "es",
+"coverage": "stipend",
+"notes": "乌拉圭 ANII 2026 年国内硕博奖学金基础文件规定，外籍申请人须具有乌拉圭合法公民身份或永久居留，临时居留不够。中国籍不符合，列在这里仅作排除。",
+"verify_method": "page",
+"page_evidence": "Ser uruguayo, o extranjero con ciudadanía legal o residencia permanente.",
+"verified": "2026-10-19"
 },
 {
 "id": "uab-gbs-benefits",
@@ -17828,6 +18648,36 @@
 "verified": "2026-10-18"
 },
 {
+"id": "amu-ed67-contrat-doc-2026-2029",
+"name": "Aix-Marseille 大学 ED 67 博士合同申请表（2026–2029）",
+"url": "https://ecole-doctorale-67.univ-amu.fr/system/files/media-ressource/Formulaire_de_candidature_contrat_doc_2026_2029_ed67.pdf",
+"category": "doctoral-programs",
+"regions": [
+"FR"
+],
+"disciplines": [
+"social"
+],
+"funding": "position",
+"levels": [
+"phd"
+],
+"cn_eligible": "check",
+"access": [
+"web"
+],
+"language": "fr",
+"coverage": "unknown",
+"deadline": "2026-07-03",
+"deadline_note": "2026–2029 轮研究单位内部截止 2026 年 7 月 3 日已过；下一轮待查 ED 67 官网",
+"status": "closed",
+"requirements": "需提交 M2 论文 PDF、不超过 4 页的项目书及申请表；先经导师所在研究单位内部初选",
+"notes": "Aix-Marseille 大学 ED 67（法学与政治学）博士合同申请表（2026–2029）。2026 轮已结束，下一轮以 ED 67 官网公告为准。国际申请人资格未核实。",
+"verify_method": "page",
+"page_evidence": "Appel à candidature à un contrat doctoral 2026-2029",
+"verified": "2026-10-19"
+},
+{
 "id": "galilee-cd-session2-2026",
 "name": "巴黎北大学 ED Galilée 博士合同 2026 第二轮",
 "url": "https://ed-galilee.univ-spn.fr/PDF/Actualite/2026/Appel_offres_contrats_doctoraux_CED_2026_session%202.pdf",
@@ -17887,6 +18737,68 @@
 "verify_method": "page",
 "page_evidence": "Contrats doctoraux Paris Nanterre 2026-2027",
 "verified": "2026-10-18"
+},
+{
+"id": "alliance-paris-lumieres-postdoc-2026",
+"name": "Alliance Paris Lumières 博士后合同（2027 批次）",
+"url": "https://www.univ-paris8.fr/Contrats-Post-doctoraux-2026-Paris-Lumieres-Alliance",
+"category": "postdoc-fellowships",
+"regions": [
+"FR"
+],
+"disciplines": [
+"humanities",
+"social"
+],
+"funding": "position",
+"levels": [
+"postdoc"
+],
+"cn_eligible": "check",
+"access": [
+"web"
+],
+"language": "fr",
+"coverage": "salary",
+"deadline": "2026-09-18",
+"deadline_note": "2027 批次截止 2026 年 9 月 18 日，已过；未见 2028 批次公告。",
+"status": "closed",
+"requirements": "博士答辩须在 2023-01-01 至 2026-06-30 之间，合同 1 年；须由巴黎第八或巴黎西的研究单位接收（对方校博士需挂靠本校研究单位）；教学不超过 64 学时。",
+"notes": "巴黎第八与巴黎西大学联合体博后合同，面向 2023 年 1 月至 2026 年 6 月间答辩的博士，合同 1 年，人文社科方向。2027 年 1 月入职批次截止 2026 年 9 月 18 日（已过），下一批次待公布。",
+"verify_method": "page",
+"page_evidence": "Les contrats ont une durée de un an non-renouvelable.",
+"verified": "2026-10-19"
+},
+{
+"id": "archal-postdoc-2026",
+"name": "EUR ArChal 考古学博士后岗位（2026）",
+"url": "https://eur-archal.pantheonsorbonne.fr/en/applications-registration/campagn-postdoctoral-positions-2026",
+"category": "postdoc-fellowships",
+"regions": [
+"FR"
+],
+"disciplines": [
+"humanities"
+],
+"funding": "position",
+"levels": [
+"postdoc"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "salary",
+"stipend": "€2,858/月（税前）",
+"deadline": "2026-09-20",
+"deadline_note": "页面显示申请截止 2026-09-20，遴选委员会已于 2026-10-06 开会并公布 6 名入选者；下一轮未在页面说明。",
+"status": "closed",
+"requirements": "持巴黎第一大学或合作院校（FU Berlin、Complutense Madrid、Bologna、INALCO）的考古学博士学位，且学位在 2026 年 10 月 1 日前不满 3 年；无国籍要求。",
+"notes": "巴黎第一大学 EUR ArChal 考古学博士后，共 6 个岗位。税前月薪约 2858 欧元。无国籍限制，但申请路线只对指定院校的考古学博士开放，因此标为部分开放。截止日需看官方 PDF。",
+"verify_method": "page",
+"page_evidence": "The monthly gross salary is",
+"verified": "2026-10-19"
 },
 {
 "id": "cnrs-irl-canada-france-math-theses",
@@ -20223,6 +21135,40 @@
 "verified": "2026-10-13"
 },
 {
+"id": "bath-epsrc-dtp-campaign",
+"name": "巴斯大学 EPSRC 博士着陆奖（Doctoral Landscape Award，原 DTP 页面）",
+"url": "https://www.bath.ac.uk/campaigns/epsrc-doctoral-landscape-award/",
+"category": "university-schemes",
+"regions": [
+"UK"
+],
+"disciplines": [
+"engineering",
+"physics",
+"chem",
+"math",
+"cs"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "full",
+"deadline": "varies",
+"deadline_note": "每年批次时间不同，2027 年入学截止日期未确认。",
+"status": "ongoing",
+"requirements": "国际生名额按 UKRI 规定不超过 30%；学位津贴不含英国签证及医疗附加费（IHS），需自行承担；项目按批次公布，通常每年 10 月起发布",
+"notes": "巴斯大学 EPSRC 博士着陆奖（原 DTP 项目更名）：覆盖学费与生活津贴（按 UKRI 标准），国际生名额按 UKRI 规定上限约 30%；不含英国签证与医疗附加费。项目按批次公布，通常每年 10 月起发布，2027 入学截止以官网项目列表为准。",
+"verify_method": "page",
+"page_evidence": "The scheme opens in October each year and closes when all available studentships have been allocated.",
+"verified": "2026-10-19"
+},
+{
 "id": "hkbu-hkpfs-graduate-school",
 "name": "香港浸会大学研究生院 HKPFS 说明页",
 "url": "https://gs.hkbu.edu.hk/page/detail/281",
@@ -20739,6 +21685,36 @@
 "verified": "2026-10-17"
 },
 {
+"id": "aberdeen-elphinstone-funding",
+"name": "阿伯丁大学 Elphinstone 学院博士资助列表",
+"url": "https://abdn.ac.uk/elphinstone/programmes/funding",
+"category": "university-schemes",
+"regions": [
+"UK"
+],
+"disciplines": [
+"humanities",
+"social"
+],
+"funding": "mixed",
+"levels": [
+"phd"
+],
+"cn_eligible": "check",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "varies",
+"deadline": "varies",
+"status": "ongoing",
+"requirements": "国际生资格各条目不同，申请前需逐条确认。",
+"notes": "人文与社会科学学院的博士资助汇总页，包括学院奖学金与外部资助。",
+"verify_method": "page",
+"page_evidence": "Find below a list of potential sources of financial support.",
+"verified": "2026-10-19"
+},
+{
 "id": "loughborough-sehs-funded-phd",
 "name": "拉夫堡大学体育、运动与健康科学院资助博士项目",
 "url": "https://www.lboro.ac.uk/schools/sport-exercise-health-sciences/postgraduate-research/research-opportunities/",
@@ -20767,6 +21743,35 @@
 "verify_method": "page",
 "page_evidence": "Designing Pedagogically Effective Coaching Practices in Elite Youth Football",
 "verified": "2026-10-18"
+},
+{
+"id": "bath-samba-cdt",
+"name": "巴斯大学 SAMBa 统计应用数学博士培训中心（EPSRC CDT）",
+"url": "https://www.bath.ac.uk/campaigns/epsrc-centre-for-doctoral-training-in-statistical-applied-mathematics-samba/",
+"category": "university-schemes",
+"regions": [
+"UK"
+],
+"disciplines": [
+"math"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "full",
+"deadline": "rolling",
+"status": "rolling",
+"requirements": "国际生名额上限约 30%；签证费与 IHS 不在资助范围内。",
+"notes": "EPSRC 资助的统计与应用数学 CDT，覆盖学费、生活费和培训经费，最长 4 年。",
+"verify_method": "page",
+"page_evidence": "Applications are considered on a rolling basis. Early application is recommended as places are competitive.",
+"verified": "2026-10-19"
 },
 {
 "id": "hkbu-jao-tsung-i-sinology-phd-s42",
@@ -22365,6 +23370,37 @@
 "requirements": "页面要求 GPA 不低于 3.6/4，有发表成果者可放宽；建议同时申请 HKPFS 或 PRPgS",
 "notes": "全奖研究型博士名额 1–2 个，方向为 3D 打印热电材料、柔性热电与可穿戴传感器。先联系导师再通过 RPg 系统申请；国际生资格页面未明确。",
 "verified": "2026-10-14"
+},
+{
+"id": "ada-postdoctoral-fellowship",
+"name": "美国糖尿病协会（ADA）博士后奖学金",
+"url": "https://professional.diabetes.org/content-page/spring-cycle",
+"category": "postdoc-fellowships",
+"regions": [
+"US"
+],
+"disciplines": [
+"med",
+"bio"
+],
+"funding": "fellowship",
+"levels": [
+"postdoc"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "stipend",
+"deadline": "varies",
+"deadline_note": "春季轮 2026 年 4 月 30 日截止（已过），预计 2027 年 2 月起可开始；2027 轮以 ADA 官网公告为准。",
+"status": "closed",
+"requirements": "官方征集文件写明无公民身份要求，但申请人须在美国合法工作（公民、永久居民或持合法工作签证者）；须已获博士学位且在提交前 5 年内；研究须在美国大学附属机构或非营利研究机构进行。",
+"notes": "2026 轮截止 2026-04-30，最早起始 2027-02-01；页面称无公民身份要求，但须有在美国工作的许可；资助含年度津贴、福利费 7,000 美元及培训补助 8,000 美元。",
+"verify_method": "page",
+"page_evidence": "There are no citizen requirements for this award.",
+"verified": "2026-10-19"
 },
 {
 "id": "alz-aarf-postdoc",
@@ -25363,6 +26399,37 @@
 "verified": "2026-10-16"
 },
 {
+"id": "auckland-doctoral-scholarship",
+"name": "奥克兰大学博士奖学金",
+"url": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/postgraduate-scholarships/doctoral-scholarships.html",
+"category": "university-schemes",
+"regions": [
+"NZ"
+],
+"disciplines": [
+"all"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "full",
+"stipend": "NZD 35,468/年（官网页面，免税）",
+"deadline": "2026-11-01",
+"deadline_note": "页面列 2027 年入学轮次的申请截止：2026-11-01、2027-02-01、2027-05-01、2027-08-01。",
+"status": "open",
+"requirements": "需在申请博士入学时一并提交并获导师支持；核心奖学金面向在新西兰大学完成前序学位者，国际生须核对资格",
+"notes": "页面称任何获博士录取的学生都会被考虑，申请博士入学时勾选即可，无需另行申请；每年 4 轮。",
+"verify_method": "page",
+"page_evidence": "The University of Auckland Doctoral Scholarship (UoADS) is a competitive scholarship scheme in 4 rounds each year.",
+"verified": "2026-10-19"
+},
+{
 "id": "canterbury-uc-doctoral-scholarship",
 "name": "坎特伯雷大学 UC 博士奖学金",
 "url": "https://www.canterbury.ac.nz/study/getting-started/scholarships/doctoral-scholarships/uc-doctoral-scholarships",
@@ -27000,6 +28067,37 @@
 "verified": "2026-10-13"
 },
 {
+"id": "ca-ualberta-killam-postdoc",
+"name": "U of Alberta Killam 博士后奖学金",
+"url": "https://ualberta.ca/graduate-studies/awards-and-funding/postdoctoral-fellow-funding/killam.html",
+"category": "postdoc-fellowships",
+"regions": [
+"CA"
+],
+"disciplines": [
+"all"
+],
+"funding": "fellowship",
+"levels": [
+"postdoc"
+],
+"cn_eligible": "yes",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "stipend",
+"stipend": "CAD $50,000/年（最长两年）+ 一次性 $4,000 研究经费",
+"deadline": "unknown",
+"deadline_note": "2026 轮提名截止 2026-01-07 已过；下一轮以官网为准",
+"status": "closed",
+"requirements": "博士学位须非阿尔伯塔大学授予，并在提名截止前 3 年内获得；需学校提名，研究须在阿省完成",
+"notes": "任何国籍，需满足加拿大移民要求，博士在申请前约 24–36 个月内获得，需阿尔伯塔大学教员推荐。",
+"verify_method": "page",
+"page_evidence": "Izaak Walton Killam Memorial Postdoctoral Fellowship",
+"verified": "2026-10-19"
+},
+{
 "id": "ca-concordia-jmsb-phd",
 "name": "Concordia JMSB 商学院博士学费与资助",
 "url": "https://www.concordia.ca/jmsb/programs/graduate/phd/tuition-aid.html",
@@ -27196,6 +28294,62 @@
 "verify_method": "page",
 "page_evidence": "The total value of funding given to eligible candidates accepted to the Telfer doctoral program is up to $47,000 yearly, for up to four years.",
 "verified": "2026-10-16"
+},
+{
+"id": "ca-laval-intl-tuition",
+"name": "Université Laval 国际博士生学费豁免",
+"url": "https://www.ulaval.ca/etudes/droits-de-scolarite/etudiant-de-linternational",
+"category": "university-schemes",
+"regions": [
+"CA"
+],
+"disciplines": [
+"all"
+],
+"funding": "info",
+"levels": [
+"phd"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "tuition",
+"deadline": "varies",
+"notes": "博士学费豁免按政府配额分配，每学期名额有限，并非自动获得；仅持学习许可的留学生可申请。是学费减免，不含生活费；生活费可另申 PBEEE（需魁北克高校预选）。",
+"verify_method": "page",
+"page_evidence": "un nombre prédéterminé de bourses d’exemption des droits de scolarité supplémentaires à des étudiantes et étudiants de l'international",
+"verified": "2026-10-19"
+},
+{
+"id": "ca-ualberta-cgrs-d",
+"name": "U of Alberta CGRS-D 校内说明",
+"url": "https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/canada-graduate-research-scholarships-doctoral-cgrs-d.html",
+"category": "university-schemes",
+"regions": [
+"CA"
+],
+"disciplines": [
+"all"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "unknown",
+"deadline_note": "本轮校内提交截止 2026 年 9 月 16 日（已过）；全国截止以官网为准，请联系研究生院",
+"status": "closed",
+"requirements": "非加拿大公民/永居须在申请时已在本校注册博士项目；若曾读研，截至申请年 12 月 31 日读博不超过 36 个月；不得已获 CIHR/NSERC/SSHRC 博士奖学金",
+"notes": "非加拿大公民/永居须在申请时已在本校读博；校内截止早于全国截止，提前联系导师和研究生院。",
+"verify_method": "page",
+"page_evidence": "The doctoral scholarship has a duration of 36 months (three years) and is valued at $40,000 per year.",
+"verified": "2026-10-19"
 },
 {
 "id": "csc-paris-saclay-joint-doctoral",
@@ -27814,6 +28968,34 @@
 "verify_method": "page",
 "page_evidence": "PhD student in Medical Science, AI and Bioinformatics",
 "verified": "2026-10-18"
+},
+{
+"id": "aaai-career-center",
+"name": "AAAI Career Center（人工智能招聘板）",
+"url": "https://careers.aaai.org/",
+"category": "aggregators",
+"regions": [
+"GLOBAL"
+],
+"disciplines": [
+"cs",
+"ai"
+],
+"funding": "info",
+"levels": [
+"postdoc"
+],
+"cn_eligible": "check",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "none",
+"status": "ongoing",
+"notes": "教职、博后和研究员岗位为主，博士岗较少；大量岗位已关闭，核对截止日期。",
+"verify_method": "page",
+"page_evidence": "Welcome to AAAI Career Center",
+"verified": "2026-10-19"
 },
 {
 "id": "kaitai-liang-phd",
@@ -32651,6 +33833,38 @@
 "verified": "2026-10-17"
 },
 {
+"id": "anu-csiro-digital-agriculture-phd",
+"name": "澳国立大学 × CSIRO 数字农业博士奖学金",
+"url": "https://agrifood.anu.edu.au/anu-csiro-digital-agriculture-phd-scholarship",
+"category": "gov-scholarships",
+"regions": [
+"AU"
+],
+"disciplines": [
+"cs",
+"ai",
+"engineering"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "yes",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "full",
+"stipend": "AUD 15,000/年（补充奖学金）+ AUD 5,000 研究津贴",
+"deadline": "2026-08-31",
+"deadline_note": "页面列出 2026 年 EOI 开放 7 月 8 日至 8 月 11 日，申请截止 2026 年 8 月 31 日，现已关闭；未见下一轮公告。",
+"status": "closed",
+"notes": "CSIRO Data61 资助的补充奖学金（top-up），须同时是 ANU 基础博士奖学金的申请人或获得者，并承担已批准的 CSIRO-ANU 课题。通过 CEAT 网站查看课题并表达意向。旧页面称按 AGRTP 全额标准，以现行条款为准。",
+"verify_method": "page",
+"page_evidence": "How to apply - EOIs and Applications have now closed",
+"verified": "2026-10-19"
+},
+{
 "id": "imperial-structures-phd-study",
 "name": "Imperial 土木环境工程结构组博士说明页",
 "url": "https://www.imperial.ac.uk/engineering/departments/civil-engineering/research/research-disciplines/structures/study-with-us/phd-study/",
@@ -32704,6 +33918,36 @@
 "verify_method": "page",
 "page_evidence": "The programme aims to attract outstanding international doctoral and postdoctoral students",
 "verified": "2026-10-18"
+},
+{
+"id": "caltech-aero-admissions",
+"name": "Caltech 航空航天系（GALCIT）研究生招生与资助页",
+"url": "https://aerospace.caltech.edu/academics/admissions",
+"category": "university-schemes",
+"regions": [
+"US"
+],
+"disciplines": [
+"engineering"
+],
+"funding": "mixed",
+"levels": [
+"phd"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "varies",
+"deadline": "varies",
+"deadline_note": "秋季入学申请一般在 11 月 15 日至 12 月 15 日之间提交，以研究生办公室为准",
+"status": "upcoming",
+"requirements": "资助多需美国工作授权，无工作授权者须另有经费安排；申请时自动考虑资助",
+"notes": "Caltech 博士录取者获得学费与生活费资助，但大部分资金来源要求美国工作授权，无工作授权者入学须另行安排经费，国际生资格受限。申请时自动考虑资助；截止约在 11 月中旬至 12 月中旬，以官网为准。",
+"verify_method": "page",
+"page_evidence": "Fellowships normally provide full tuition and a substantial living-expense stipend for one academic year (Fall, Winter, and Spring terms).",
+"verified": "2026-10-19"
 },
 {
 "id": "isae-supaero-doctoral-teams",
@@ -33881,6 +35125,37 @@
 "verified": "2026-10-18"
 },
 {
+"id": "cam-dtp-esrc-studentship",
+"name": "剑桥 ESRC CAM-DTP 社科博士奖学金",
+"url": "https://www.c2d3.cam.ac.uk/opportunities/esrc-cam-dtp-studentship-fixed-term",
+"category": "doctoral-programs",
+"regions": [
+"UK"
+],
+"disciplines": [
+"social",
+"humanities",
+"econ"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "partial",
+"deadline": "2026-12-02",
+"status": "open",
+"requirements": "需获剑桥对应系所录取并获该系推荐；国际生需自筹学费差额",
+"notes": "ESRC CAM-DTP 社科博士奖学金。剑桥官方资助页称对国际申请人开放，但资助仅覆盖本地（Home）学费标准，国际学费差额需另找资金。须先获系所录取并被推荐，金额以官网为准。",
+"verify_method": "page",
+"page_evidence": "The Cambridge ESRC Doctoral Training Partnership [CAM-DTP] is pleased to offer an interdisciplinary studentship available for admission in October 2026.",
+"verified": "2026-10-19"
+},
+{
 "id": "ed3c-doctoral-contract-terms",
 "name": "ED3C 大脑·认知·行为博士学校 博士合同（PAC 竞争分配）条款",
 "url": "https://ed3c.sorbonne-universite.fr/en/financements/doctoral-contract-allocation-process-su-psl-upc/terms-and-conditions-doctoral-contract",
@@ -34365,6 +35640,34 @@
 "verify_method": "page",
 "page_evidence": "The deadline to receive all the materials (including all reference letters) is the 7th of October 2026.",
 "verified": "2026-10-18"
+},
+{
+"id": "astrobetter-rumor-mill",
+"name": "AstroBetter 天文职位 Rumor Mill（博后与任期岗位）",
+"url": "https://astrobetter.com/wiki/Rumor+Mill",
+"category": "discipline",
+"regions": [
+"GLOBAL"
+],
+"disciplines": [
+"physics"
+],
+"funding": "info",
+"levels": [
+"postdoc"
+],
+"cn_eligible": "check",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "varies",
+"deadline_note": "页面当前列有 Johns Hopkins Miller Fellowship（申请截止 2026-11-15）、Fermilab、Harvard CfA 等 2026-27 周期岗位；内容为用户自行提交，页面声明并非完全准确。",
+"status": "ongoing",
+"notes": "天文学界按学年整理的博后岗位维基，可判断各校招聘节奏。内容为用户自行提交、不保证准确，申请以学校官网为准。",
+"verify_method": "page",
+"page_evidence": "Astrophysics Jobs Rumor Mill - Postdoc & Term",
+"verified": "2026-10-19"
 },
 {
 "id": "theory-cern-jobs",
@@ -34918,6 +36221,37 @@
 "verify_method": "page",
 "page_evidence": "Grants intended for doctoral students who apply in their own name but in consultation with their supervisors.",
 "verified": "2026-10-18"
+},
+{
+"id": "au-csiro-data61-studyaustralia-portal",
+"name": "CSIRO Data61 PhD 奖学金（Study Australia 官方检索页）",
+"url": "https://search.studyaustralia.gov.au/scholarship/data61-phd-scholarship/e18d26a8362937016e062999ef29aa34",
+"category": "gov-scholarships",
+"regions": [
+"AU"
+],
+"disciplines": [
+"cs",
+"ai",
+"engineering"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "full",
+"deadline": "unknown",
+"deadline_note": "各轮公告时间不一，未见当期截止日，以 CSIRO 官网为准",
+"requirements": "需已获或即将入读澳洲大学博士，国际生须在澳洲境内或持留学签证；需一等荣誉学位或同等学历，并需大学导师同意指导",
+"notes": "CSIRO Data61 博士奖学金，国际生须在澳洲境内或持留学签证，且需获澳洲大学博士录取并有导师同意。津贴为 RTP 基准加每年 $10,000 补贴，以当期公告为准。",
+"verify_method": "page",
+"page_evidence": "Our scholarships are awarded in partnership with Australian universities",
+"verified": "2026-10-19"
 },
 {
 "id": "au-sydney-arc-postgrad-scholarship",
@@ -37031,6 +38365,36 @@
 "verified": "2026-10-17"
 },
 {
+"id": "anu-taiyang-loong-phd",
+"name": "ANU Taiyang and Loong 计算生物博士奖学金（JCSMR）",
+"url": "https://jcsmr.anu.edu.au/study/talo-program/taiyang-and-loong-phd-scholarships",
+"category": "university-schemes",
+"regions": [
+"AU"
+],
+"disciplines": [
+"bio",
+"cs"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "stipend",
+"deadline": "varies",
+"deadline_note": "搜索仅见 2023 轮（4 月 15 日截止）及更早国际轮次，未找到 2026 轮公告；请查 JCSMR 奖学金页面确认",
+"status": "ongoing",
+"notes": "ANU JCSMR Taiyang and Loong 博士奖学金：2023 年数值约 44,000/年（币种未标注）；需计算机科学、计算生物或工程背景，须获 JCSMR 博士项目录取；建议先联系潜在导师。",
+"verify_method": "page",
+"page_evidence": "We offer PhD scholarships for intellectually curious and high-performing students with a thirst for cross-disciplinary learning and impact in health and biology.",
+"verified": "2026-10-19"
+},
+{
 "id": "bc-cs-phd-fall2027",
 "name": "波士顿学院计算机科学 PhD（2027 秋季入学）",
 "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/computer-science/academics/phd.html",
@@ -37782,6 +39146,36 @@
 "verified": "2026-10-17"
 },
 {
+"id": "berkeley-chem-grad-faq",
+"name": "UC Berkeley 化学系研究生常见问题（博士资助）",
+"url": "https://chemistry.berkeley.edu/faq/chemistry-grad-faq",
+"category": "university-schemes",
+"regions": [
+"US"
+],
+"disciplines": [
+"chem"
+],
+"funding": "mixed",
+"levels": [
+"phd"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "full",
+"stipend": "2022–23 学年 $38,012（官网旧数据，以当年为准）",
+"deadline": "varies",
+"status": "ongoing",
+"requirements": "FAQ 称受经费限制，每年仅录取少数最优秀的国际生；TOEFL 可在美国高校修满一年后豁免",
+"notes": "系 FAQ 称录取博士生通过助教或助研获得生活津贴，在读且进展良好时学费由校方承担。官网列出的津贴为 2022–23 学年数字，偏旧；需看当年页面。",
+"verify_method": "page",
+"page_evidence": "All students admitted to our graduate program receive a stipend for the duration of study",
+"verified": "2026-10-19"
+},
+{
 "id": "northwestern-chem-financial-support",
 "name": "Northwestern 化学系研究生资助说明",
 "url": "https://chemistry.northwestern.edu/graduate/prospective/financial.html",
@@ -38051,6 +39445,37 @@
 "verify_method": "page",
 "page_evidence": "Most of our PhD students are considered as employees for the duration of the research.",
 "verified": "2026-10-17"
+},
+{
+"id": "arm-ecs-southampton-phd",
+"name": "Arm-ECS 全额资助博士岗位（南安普顿大学）",
+"url": "https://www.arm.ecs.soton.ac.uk/jobs/phd-student-southampton/",
+"category": "fellowships",
+"regions": [
+"UK"
+],
+"disciplines": [
+"cs",
+"engineering"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "no",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "full",
+"stipend": "至少 £15,609/年（仅限英国申请者）",
+"deadline": "rolling",
+"status": "rolling",
+"requirements": "需电子工程或相关学科优秀学历（页面未说明学位层级）",
+"notes": "Arm 与南安普顿大学 ECS 合作的 3.5 年全额资助博士（EPSRC 资金），部分时间在剑桥 Arm Research；招生页写明仅面向英国申请者，对大陆学生不开放。页面称需在 5 月初前提交，未标注年份，以官网为准。",
+"verify_method": "page",
+"page_evidence": "Fully funded 3.5 yr PhD studentship with annual stipend of at least £15,609 pa (UK applicants only)",
+"verified": "2026-10-19"
 },
 {
 "id": "ku-social-sciences-industrial-phd",
@@ -38660,6 +40085,37 @@
 "requirements": "国际生资格与学历要求以岗位 PDF 为准。",
 "notes": "图卢兹经济学院（TSE）与 IAST 联合招聘的两年期政治经济学（气候风险方向）博士后。薪资仅写 competitive，未给数字，需向联系人确认。",
 "verified": "2026-10-16"
+},
+{
+"id": "anu-jcsmr-taiyang-loong-phd",
+"name": "ANU JCSMR · Taiyang and Loong PhD 奖学金（计算生物方向）",
+"url": "https://jcsmr.anu.edu.au/study/scholarships/taiyang-and-loong-phd-scholarships",
+"category": "university-schemes",
+"regions": [
+"AU"
+],
+"disciplines": [
+"cs",
+"bio"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "check",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "unknown",
+"deadline": "unknown",
+"deadline_note": "JCSMR 官网页面所列为 2023 年数据（每年最多 4 个名额，每人每年 44,000 澳元，2023 年截止 4 月 15 日）；当期轮次未确认，需先联系计算生物方向导师并经 JCSMR PhD 申请页提交。",
+"status": "ongoing",
+"requirements": "需获得 JCSMR 的 PhD 入学资格，背景为计算机科学、计算生物或工程；国际生资格以官网为准。",
+"notes": "ANU JCSMR 官方奖学金页，名额少、竞争性强；金额与截止日期以官网当期条款为准（本条未核实）。",
+"verify_method": "page",
+"page_evidence": "Each year JCSMR may offer up to four awards known as the Taiyang and Loong PhD Scholarship.",
+"verified": "2026-10-19"
 },
 {
 "id": "bifold-graduate-school-berlin",
@@ -39667,6 +41123,34 @@
 "verify_method": "page",
 "page_evidence": "We are looking for prospective PhD students to work with us on a range of exciting research projects across particle physics.",
 "verified": "2026-10-18"
+},
+{
+"id": "asa-sydney-mailing-list",
+"name": "ASA 澳大利亚天文学会邮件列表（Sydney 存档）",
+"url": "https://mailman.sydney.edu.au/pipermail/asa/",
+"category": "people-channels",
+"regions": [
+"AU"
+],
+"disciplines": [
+"physics"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "check",
+"access": [
+"email",
+"web"
+],
+"language": "en",
+"coverage": "varies",
+"status": "ongoing",
+"notes": "澳大利亚天文学会博士与奖学金公告列表，常转发 ICRAR 等国际博士名额。",
+"verify_method": "page",
+"page_evidence": "The Week Of Monday 19 October 2026:",
+"verified": "2026-10-19"
 },
 {
 "id": "cinp-student-opportunities",
@@ -41211,6 +42695,32 @@
 "verified": "2026-10-18"
 },
 {
+"id": "bocconi-phd-management",
+"name": "博科尼大学博士（管理学）奖学金入口",
+"url": "https://www.unibocconi.it/en/news-topic/phd",
+"category": "university-schemes",
+"regions": [
+"IT"
+],
+"disciplines": [
+"business"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "check",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "unknown",
+"notes": "博科尼博士项目：2025-26 批次征集期为 4 月 15 日至 5 月 15 日（Tech European Foundation 资助的管理方向 2 个名额）；2027 批次未找到公告。需被博科尼博士项目录取，奖学金国籍与学历条件以官方公告为准。",
+"verify_method": "page",
+"page_evidence": "A call for two scholarships will be open from 15 April to 15 May for the Bocconi PhD in Business Administration and Management (Management curriculum).",
+"verified": "2026-10-19"
+},
+{
 "id": "dal-killam-phd",
 "name": "达尔豪斯管理学院博士资助入口",
 "url": "https://www.dal.ca/faculty/management/programs/scholarships-and-bursaries/application-required-graduate/phd-funding-support.html",
@@ -41885,6 +43395,36 @@
 "verify_method": "page",
 "page_evidence": "Stipend Value: $17,500 Master’s; $21,000 Doctoral.",
 "verified": "2026-10-17"
+},
+{
+"id": "alberta-innovates-gss",
+"name": "Alberta Innovates 研究生奖学金（AI-GSS）",
+"url": "https://albertainnovates.ca/wp-content/uploads/2023/05/AI-GSS-PROGRAM-GUIDE_2025-2026-Oct-23-2024-FINAL.pdf",
+"category": "gov-scholarships",
+"regions": [
+"CA"
+],
+"disciplines": [
+"cs",
+"engineering",
+"chem",
+"math"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "yes",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "stipend",
+"requirements": "需在阿尔伯塔省大学攻读全日制研究型硕博；GPA 至少 3.5；需导师担保；研究须属于指定新兴技术领域；不可同时持有其他 Alberta Innovates 资助",
+"notes": "指南（2025/26 版）称国际生可申请，大学页面称无国籍限制；具体条款以当年 Program Guidelines 为准。津贴金额未确认，请勿沿用旧版金额。申请通过所在大学提交。",
+"verify_method": "page",
+"page_evidence": "Alberta Innovates Graduate Student Scholarships are open to Canadian, Permanent Resident and",
+"verified": "2026-10-19"
 },
 {
 "id": "ucalgary-funding-floor",
@@ -48655,13 +50195,16 @@
 "web"
 ],
 "language": "en",
-"coverage": "partial",
+"coverage": "full",
+"stipend": "£23,805/年（2026/27 学年，含伦敦补贴），含英国标准学费，共 3.5 年",
 "deadline": "2027-01-11",
 "deadline_note": "2027 年 9 月 20 日入学的 DLA 名额截止 2027 年 1 月 11 日；2026 年 9 月入学轮已截止",
 "status": "open",
 "requirements": "国际生仅占约 30% 名额，需能于 2027 年 9 月 20 日入学；具体资格以校方说明为准",
 "notes": "校方 2027 入学的 DLA 招生广告称截止 2027 年 1 月 11 日，开学 2027 年 9 月 20 日；国际生最多占 30% 名额，AHRC 资助按本地学费标准计。国际生差额与 2027/28 津贴以校方说明为准。",
-"verified": "2026-10-13"
+"verify_method": "page",
+"page_evidence": "Announcing 3 PhD Studentships within Royal Holloway, University of London, funded by the AHRC Doctoral Landscape Awards (DLA)",
+"verified": "2026-10-19"
 },
 {
 "id": "usyd-medicine-health-intl-phd-scholarships",
@@ -49348,6 +50891,38 @@
 "verify_method": "page",
 "page_evidence": "2026 年化工学院春季批次博士拟招生信息",
 "verified": "2026-10-17"
+},
+{
+"id": "ainse-postgraduate-research-award",
+"name": "AINSE 研究生研究奖（PGRA，核科学与技术补充资助）",
+"url": "https://www.ainse.edu.au/?p=801",
+"category": "fellowships",
+"regions": [
+"AU"
+],
+"disciplines": [
+"physics",
+"chem",
+"engineering"
+],
+"funding": "mixed",
+"levels": [
+"phd"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "partial",
+"stipend": "A$9,000/年（补充资助，需已获 RTP 等主奖学金）",
+"deadline_note": "2026 轮已于 2026-04-15 截止；下一轮 2027 年 2 月开放、4 月截止",
+"status": "closed",
+"requirements": "须为 AINSE 成员大学博士生且已获 RTP 或同等博士主奖学金；研究需使用 ANSTO 设施；硕士生不符合。",
+"notes": "澳洲核科学博士补充资助（A$9,000/年），前提是已获 RTP 或同等主奖学金且项目需使用 ANSTO 设施。2023–2025 官方条款称不限国籍，2026 版摘录未见该表述，国际生资格以当年条款为准。",
+"verify_method": "page",
+"page_evidence": "Up to A$9,000 p.a. available to support your postgraduate research.",
+"verified": "2026-10-19"
 },
 {
 "id": "kyoto-mext-science-admissions",
@@ -52169,6 +53744,38 @@
 "verified": "2026-10-18"
 },
 {
+"id": "auc-al-alfi-phd",
+"name": "AUC Al Alfi 博士奖学金（应用科学与工程）",
+"url": "https://www.aucegypt.edu/admissions/fellowships/listing/al-alfi-phd-fellowship-applied-sciences-and-engineering",
+"category": "fellowships",
+"regions": [
+"EG"
+],
+"disciplines": [
+"engineering",
+"cs",
+"chem",
+"physics",
+"math"
+],
+"funding": "fellowship",
+"levels": [
+"phd"
+],
+"cn_eligible": "no",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "partial",
+"status": "closed",
+"requirements": "仅限埃及国籍；需硕士（论文型）学位，GPA 不低于 3.2/4.0；需符合 AUC 博士录取要求",
+"notes": "页面标注 No New Intake（暂无新一轮招生）；仅限埃及国籍，中国大陆学生不符合，此条仅作排除参考。",
+"verify_method": "page",
+"page_evidence": "Al Alfi PhD Fellowship in Applied Sciences and Engineering program is designed to prepare future scientists and industrial leaders who are Egyptian nationals",
+"verified": "2026-10-19"
+},
+{
 "id": "erc-friend-group-cambridge-phd",
 "name": "Friend Group · 剑桥 Cavendish · ERC AdG 招生",
 "url": "https://friend.oe.phy.cam.ac.uk/join-the-group/",
@@ -52308,6 +53915,67 @@
 "verify_method": "page",
 "page_evidence": "The School of Computing Science is offering PhD studentships starting October 2027. Apply by 31 January 2027.",
 "verified": "2026-10-17"
+},
+{
+"id": "aberdeen-csc-china-funding",
+"name": "阿伯丁大学中国奖学金（CSC 联合资助）",
+"url": "https://abdn.ac.uk/study/international/inmycountry/china/funding",
+"category": "university-schemes",
+"regions": [
+"UK"
+],
+"disciplines": [
+"all"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "yes",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "partial",
+"deadline": "rolling",
+"deadline_note": "CSC 网站申请，官网页面写明截止日期为 until further notice（另行通知前长期有效）",
+"status": "rolling",
+"requirements": "须为中华人民共和国公民、已获硕士学位、申请时未满 35 岁，并先获阿伯丁录取；通过 CSC 网站申请",
+"notes": "仅限中国公民攻读阿伯丁全日制博士（须先获录取，仅限阿伯丁校区）。CSC 发放月生活津贴与国际机票，学校可能另给学费减免；学成后须回国，具体比例以官网为准。",
+"verify_method": "page",
+"page_evidence": "The CSC Scholarship is open to Chinese nationals wishing to study for a full-time PhD in any discipline at the University of Aberdeen.",
+"verified": "2026-10-19"
+},
+{
+"id": "aberystwyth-aberdoc-scholarships",
+"name": "阿伯里斯特威斯大学 AberDoc 博士奖学金",
+"url": "https://www.aber.ac.uk/en/postgrad/scholarships/",
+"category": "university-schemes",
+"regions": [
+"UK"
+],
+"disciplines": [
+"all"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "partial",
+"stipend": "约 £20,780/年（生活费，AberDoc 页面，日期待核）",
+"deadline": "unknown",
+"deadline_note": "2026 轮 AberDoc 已关闭；PhD Portal 列 2027-01-08，未经官网确认",
+"status": "closed",
+"requirements": "学费资助上限为英国本地费率（约 £5,006/年，页面数据）；国际生需自付国际学费与本地学费的差额，除非另获奖学金",
+"notes": "AberDoc 按英国本地学费档覆盖学费并提供年度生活费；国际生需自付与国际学费的差额，除非另获奖学金。可用官网计算器筛选。",
+"verify_method": "page",
+"page_evidence": "A number of AberDoc PhD scholarships will be available for 2026-2027, in an open competition.",
+"verified": "2026-10-19"
 },
 {
 "id": "bangor-postgraduate-funding",
@@ -53545,6 +55213,35 @@
 "requirements": "需一等或二等荣誉学位（或同等专业成就）；非英语母语者 IELTS 7.0；申请费 £34.50",
 "notes": "苏格兰皇家音乐学院音乐与表演研究型博士 / MPhil（学位由圣安德鲁斯大学授予）。页面列出 2027 年 9 月入学的截止日 2027-01-13；原先的 ARCS 学费资助说明未能在官网核实，资助以当年官网为准。咨询 doctoraladmissions@rcs.ac.uk。",
 "verified": "2026-10-13"
+},
+{
+"id": "akbild-prae-doc-dr-phil",
+"name": "维也纳美术学院 Dr. phil. prae-doc 大学助理岗位",
+"url": "https://calls.akbild.ac.at/calls/DRPHIL26/index.php?lang=EN",
+"category": "doctoral-programs",
+"regions": [
+"AT"
+],
+"disciplines": [
+"humanities"
+],
+"funding": "position",
+"levels": [
+"phd"
+],
+"cn_eligible": "check",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "salary",
+"deadline": "2026-04-13",
+"deadline_note": "2026 轮截止 2026-04-13 已过（2026-10-01 起聘）；2027 轮未公布",
+"status": "closed",
+"notes": "维也纳美术学院 Dr. phil. prae-doc 大学助理岗位，3 年、每周 30 小时、受薪。需硕士学位并提交不超过 5 页的摘要与课题计划。2026 轮已截止，关注 2027 轮公告。",
+"verify_method": "page",
+"page_evidence": "3 University Assistants (prae doc) in the Dr. phil. program",
+"verified": "2026-10-19"
 },
 {
 "id": "columbia-gsapp-phd-support",
@@ -57854,6 +59551,72 @@
 "verified": "2026-10-18"
 },
 {
+"id": "bilkent-gsen-financial-assistance",
+"name": "Bilkent 大学工程与科学研究生院资助说明（博士）",
+"url": "https://mfbe.bilkent.edu.tr/?page_id=35",
+"category": "university-schemes",
+"regions": [
+"TR"
+],
+"disciplines": [
+"engineering",
+"cs",
+"physics",
+"chem",
+"bio",
+"math"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "check",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "varies",
+"deadline": "unknown",
+"deadline_note": "下一轮日期未见，请到官网确认",
+"status": "ongoing",
+"requirements": "页面称几乎所有研究生可获学费减免和津贴；国际生材料要求以官网为准",
+"notes": "官方页称几乎所有研究生有学费减免和津贴。具体金额以官网为准。",
+"verify_method": "page",
+"page_evidence": "Currently over 95% of the graduate students in the Graduate School of Engineering and Science receive financial support.",
+"verified": "2026-10-19"
+},
+{
+"id": "banting-postdoctoral-fellowships",
+"name": "Banting Postdoctoral Fellowships（加拿大联邦三大基金会）",
+"url": "https://banting.fellowships-bourses.gc.ca/en/brochure_banting_brochure.html",
+"category": "postdoc-fellowships",
+"regions": [
+"CA"
+],
+"disciplines": [
+"all"
+],
+"funding": "fellowship",
+"levels": [
+"postdoc"
+],
+"cn_eligible": "yes",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "stipend",
+"stipend": "每年 70,000 加元，共两年（页面所示）",
+"deadline": "varies",
+"deadline_note": "通常每年 9 月下旬由加拿大高校内部提名截止，当前一轮日期以官网为准",
+"status": "ongoing",
+"requirements": "近期获得博士学位；须有加拿大受资助机构作为接收单位并经其提名；向国际申请人开放",
+"notes": "需先联系加拿大高校的接收导师，由学校内部提名后在线提交，覆盖 CIHR/NSERC/SSHRC 三大领域。",
+"verify_method": "page",
+"page_evidence": "are open to both Canadian and international researchers who have recently completed a PhD",
+"verified": "2026-10-19"
+},
+{
 "id": "au-tech-apply-here",
 "name": "奥胡斯大学工程与技术科学研究生院博士岗位入口",
 "url": "https://phd.tech.au.dk/for-applicants/apply-here/",
@@ -59598,6 +61361,36 @@
 "verified": "2026-10-17"
 },
 {
+"id": "binghamton-graduate-assistantships",
+"name": "宾汉姆顿大学研究生院助教/助研资助",
+"url": "https://www.binghamton.edu/grad-school/cost-funding/assistantships.html",
+"category": "university-schemes",
+"regions": [
+"US"
+],
+"disciplines": [
+"all"
+],
+"funding": "position",
+"levels": [
+"phd"
+],
+"cn_eligible": "check",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "full",
+"deadline": "varies",
+"deadline_note": "按院系公布时间申请",
+"status": "ongoing",
+"requirements": "需先被博士项目录取；页面未列国际生专门条款，需向院系确认",
+"notes": "助教/助研提供津贴和学费奖学金，每周 10–20 小时；各系金额不同。",
+"verify_method": "page",
+"page_evidence": "Binghamton University awards hundreds of assistantships every year to graduate students",
+"verified": "2026-10-19"
+},
+{
 "id": "kstate-statistics-graduate-finance",
 "name": "堪萨斯州立大学统计系研究生资助",
 "url": "https://www.k-state.edu/stats/academics/gradstudents/finance.html",
@@ -60788,6 +62581,38 @@
 "verified": "2026-10-18"
 },
 {
+"id": "antwerp-eveco-job-opportunities",
+"name": "安特卫普大学进化与生态组（EvECo）招聘页",
+"url": "https://www.uantwerpen.be/en/research-groups/eveco/organisation/job-opportunities",
+"category": "people-channels",
+"regions": [
+"BE"
+],
+"disciplines": [
+"bio",
+"eco"
+],
+"funding": "position",
+"levels": [
+"phd",
+"postdoc"
+],
+"cn_eligible": "check",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "varies",
+"deadline": "2027-03-01",
+"deadline_note": "FWO 博士奖学金年度截止 3 月 1 日，2026 轮已过，下一轮为 2027 年 3 月 1 日；FWO 博后截止 12 月 1 日（据 EvECo 官网）",
+"status": "ongoing",
+"requirements": "EvECo 页面称 FWO 博士奖学金面向欧盟及欧洲经济区学生，中国学生资格未核实，需向校方和 FWO 确认。",
+"notes": "博士岗位绑定具体项目，大学仅通过项目公告招博士。EvECo 页面称 FWO 博士奖学金年度截止 3 月 1 日；其他 UAntwerp 页写 2 月 1 日，口径不一，以 FWO 官网为准。",
+"verify_method": "page",
+"page_evidence": "and FWO calls (predoc: 1 March, postdoc: 1 December)",
+"verified": "2026-10-19"
+},
+{
 "id": "amu-env-biology-phd-announcements",
 "name": "亚当·密茨凯维奇大学环境生物学院 博士招生公告",
 "url": "https://envbiol.web.amu.edu.pl/en/category/announcements-for-phd-students/",
@@ -60906,6 +62731,37 @@
 "verify_method": "page",
 "page_evidence": "For full-time PhD students, the period of study is 36 months",
 "verified": "2026-10-17"
+},
+{
+"id": "aarhus-arts-4plus4-phd",
+"name": "奥胡斯大学文学院 4+4 博士奖学金公开征集（含人类学）",
+"url": "https://phd.arts.au.dk/applicants/open-and-specific-calls/deadline/phd-open-call-e2026-uk",
+"category": "university-schemes",
+"regions": [
+"DK"
+],
+"disciplines": [
+"social",
+"humanities"
+],
+"funding": "scholarship",
+"levels": [
+"phd"
+],
+"cn_eligible": "check",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "full",
+"deadline": "2026-10-01",
+"deadline_note": "2026 秋轮截止 10 月 1 日（已过）；仅接受 4+4 奖学金。2027 年初下一轮未见公告，需看官网。",
+"status": "closed",
+"requirements": "硕士学位或同等学历；入学日取决于硕士学分",
+"notes": "丹麦文学院 4 年博士奖学金，学科含人类学、全球研究；社会学未单列。入学日 2027-02-01 或 03-01；截止与下一轮需到官网核实。",
+"verify_method": "page",
+"page_evidence": "The PhD scholarships are available in all fields and areas of research at the Faculty of Arts.",
+"verified": "2026-10-19"
 },
 {
 "id": "edinburgh-sps-doctoral-college-scholarship",
@@ -68159,6 +70015,37 @@
 "verify_method": "page",
 "page_evidence": "There is one application period each year for University-funded doctoral researcher positions for all of the University's doctoral programmes.",
 "verified": "2026-10-18"
+},
+{
+"id": "banca-italia-econ-research-fellowships",
+"name": "意大利央行经济学研究员（Borse di ricerca）",
+"url": "https://www.bancaditalia.it/chi-siamo/lavorare-bi/borse-ricerca-economisti",
+"category": "postdoc-fellowships",
+"regions": [
+"IT"
+],
+"disciplines": [
+"econ"
+],
+"funding": "fellowship",
+"levels": [
+"postdoc"
+],
+"cn_eligible": "partial",
+"access": [
+"web"
+],
+"language": "en",
+"coverage": "stipend",
+"stipend": "€5,500/月（税前）",
+"deadline": "unknown",
+"deadline_note": "页面显示 2026-10-13 发布新一轮招考公告（4 个名额），通常申请至 11 月；具体截止日以公告 PDF 为准。",
+"status": "open",
+"requirements": "博士学位或即将获得；英语流利；非欧盟公民须持长期 EC 居留许可、难民身份或补充保护（2024 年征集条件）",
+"notes": "面向已获或即将获得博士学位的经济学者，在罗马工作，12 个月可续 12 个月，月薪 5,500 欧元（税前）。",
+"verify_method": "page",
+"page_evidence": "Bando di concorso: 4 borse di ricerca per economiste ed economisti",
+"verified": "2026-10-19"
 },
 {
 "id": "aea-joe-listings",

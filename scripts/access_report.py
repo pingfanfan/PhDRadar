@@ -82,6 +82,8 @@ PLATFORMS = [
      "列表页 + 岗位页", "TAMU Natural Resources Job Board", ""),
     ("H-Net Job Guide（人文社科）", "https://networks.h-net.org/jobs", "https://networks.h-net.org/jobs/1/x",
      "列表页 + 岗位页（每 5 秒一次）", "H-Net Job Guide", ""),
+    ("EconJobMarket（经济学）", "https://econjobmarket.org/", "https://econjobmarket.org/positions/1", "列表页 + 岗位页（只收博后）",
+     "EconJobMarket", ""),
     ("Aarhus University（丹麦）", "https://international.au.dk/about/profile/vacant-positions/",
      "https://international.au.dk/about/profile/vacant-positions/job/x", "列表页内嵌数据 + 岗位页", "Aarhus University", ""),
     ("PSI（瑞士保罗谢勒研究所）", "https://www.psi.ch/en/hr/job-opportunities", "https://www.psi.ch/en/hr/job-opportunities/1-x",

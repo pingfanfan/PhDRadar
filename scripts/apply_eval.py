@@ -70,6 +70,12 @@ def mutate_swap(s: str, ids: list[str]) -> str | None:
     return None if other is None else s[:m.start()] + f"[cv:{other}]" + s[m.end():]
 
 
+def supported(orig: str, variant: str, own: str) -> bool:
+    """变体新加的身份 / 角色说法，出处本来就支持（例如出处写了 project lead）→ 不算编造。"""
+    added = [need for _, said, need in ac.CLAIMS if re.search(said, variant, re.I) and not re.search(said, orig, re.I)]
+    return bool(added) and all(re.search(need, own, re.I) for need in added)
+
+
 def variants(s: str, i: int, ids: list[str]) -> dict[str, str | None]:
     zh = re.search(r"[一-鿿]", s)
     return {
@@ -110,9 +116,12 @@ def main() -> int:
         for ln, s in ac.split_sentences(f.read_text(encoding="utf-8")):
             if not re.search(r"\[cv:", s):
                 continue
+            own = " ".join(idx.get(i.strip(), "") for m in re.finditer(r"\[cv:\s*([^\]]+)\]", s) for i in m.group(1).split(","))
             for kind, v in variants(s, k, ids).items():
                 if not v or v == s:
                     continue
+                if kind in ("status", "role", "award") and supported(s, v, own):
+                    continue  # 出处本来就支持这种说法（例如出处写了 project lead），不算编造
                 k += 1
                 errs, _ = ac.check_sentence(v, idx, lab, post, ctx)
                 st = stats.setdefault(kind, [0, 0])

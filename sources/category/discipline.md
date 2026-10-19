@@ -2,23 +2,24 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 学科专属信源（84）
+# 学科专属信源（86）
 
 按学科划分的邮件列表、职位板，往往比综合平台更早、更全。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [全球（GLOBAL） 23](discipline.md#r-global) · [美国（US） 16](discipline.md#r-us) · [英国（UK） 11](discipline.md#r-uk) · [德国（DE） 5](discipline.md#r-de) · [欧盟/欧洲（EU） 5](discipline.md#r-eu) · [荷兰（NL） 5](discipline.md#r-nl) · [加拿大（CA） 4](discipline.md#r-ca) · [西班牙（ES） 3](discipline.md#r-es) · [奥地利（AT） 2](discipline.md#r-at) · [中国香港（HK） 2](discipline.md#r-hk) · [瑞典（SE） 2](discipline.md#r-se) · [澳大利亚（AU） 1](discipline.md#r-au) · [比利时（BE） 1](discipline.md#r-be) · [瑞士（CH） 1](discipline.md#r-ch) · [丹麦（DK） 1](discipline.md#r-dk) · [法国（FR） 1](discipline.md#r-fr) · [新加坡（SG） 1](discipline.md#r-sg)
+**按地区跳转：** [全球（GLOBAL） 24](discipline.md#r-global) · [美国（US） 16](discipline.md#r-us) · [英国（UK） 11](discipline.md#r-uk) · [德国（DE） 6](discipline.md#r-de) · [欧盟/欧洲（EU） 5](discipline.md#r-eu) · [荷兰（NL） 5](discipline.md#r-nl) · [加拿大（CA） 4](discipline.md#r-ca) · [西班牙（ES） 3](discipline.md#r-es) · [奥地利（AT） 2](discipline.md#r-at) · [中国香港（HK） 2](discipline.md#r-hk) · [瑞典（SE） 2](discipline.md#r-se) · [澳大利亚（AU） 1](discipline.md#r-au) · [比利时（BE） 1](discipline.md#r-be) · [瑞士（CH） 1](discipline.md#r-ch) · [丹麦（DK） 1](discipline.md#r-dk) · [法国（FR） 1](discipline.md#r-fr) · [新加坡（SG） 1](discipline.md#r-sg)
 
 <a id="r-global"></a>
 
-## 全球（GLOBAL）（23）
+## 全球（GLOBAL）（24）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [AEA 经济学职位公告 JOE（Job Openings for Economists）](https://www.aeaweb.org/joe/listings)<br><sub>全球 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 各岗位要求不同；需按职位公告核对学位与资格<br>美国经济学会官方职位库，可按 Postdoctoral 过滤；禁止未经许可抓取，适合人工查看。 |
 | [AGI 地球科学职位中心](https://jobs.americangeosciences.org/)<br><sub>全球·美国 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 页面自述为地球科学岗位的精选职位板，涵盖学界、政府与企业，可按类型、薪资和截止日期筛选。这是职位板而非资助页面，博士与博后资助需逐条核对。 |
 | [AGU FindAJob 地质学职位页](https://findajob.agu.org/landingpage/8004955/geology-jobs/2/)<br><sub>全球 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | AGU 地质学预筛职位页（第 2 页），包含博士后、助理教授及研究生机会，岗位以美国为主，也有加拿大与瑞士岗位。页面未显示资助细节，需逐条核对身份要求与资助。 |
+| [AstroBetter 天文职位 Rumor Mill（博后与任期岗位）](https://astrobetter.com/wiki/Rumor+Mill)<br><sub>全球 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | —<br><sub>📋 持续更新</sub><br><sub>页面当前列有 Johns Hopkins Miller Fellowship（申请截止 2026-11-15）、Fermilab、Harvard CfA 等 2026-27 周期岗位；内容为用户自行提交，页面声明并非完全准确。</sub> | ❔ | 天文学界按学年整理的博后岗位维基，可判断各校招聘节奏。内容为用户自行提交、不保证准确，申请以学校官网为准。 |
 | [CCL 计算化学岗位页](https://ccl.net/jobs)<br><sub>全球 ｜ 化学/材料·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 页面（Modified: Wed Sep 23 2026）仍在更新，列出 2026 年发布的博士与博后职位（如 26.07.09 内布拉斯加-林肯大学计算材料科学博士岗位）；列表不含截止日期。 |
 | [comp-neuro 邮件列表（OCNS）](https://lists.cnsorg.org/hyperkitty/list/comp-neuro@lists.cnsorg.org/)<br><sub>全球 ｜ 神经/认知·计算机·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | OCNS 计算神经科学邮件列表页面显示，过去 30 天有 57 个讨论帖、52 位参与者；正文未列出岗位帖，需进入归档逐月查看。 |
 | [CRYOLIST 冰冻圈邮件列表](https://cryolist.org)<br><sub>全球 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 冰雪/冰冻圈研究的全球邮件列表，接受招聘广告，有历史存档。 |
@@ -83,12 +84,13 @@
 
 <a id="r-de"></a>
 
-## 德国（DE）（5）
+## 德国（DE）（6）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Fraunhofer IEE · 博士论文与博士岗位招聘页](https://iee.fraunhofer.de/en/career.html)<br><sub>德国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 通常需优秀硕士成绩；需先获大学接受博士课题并与研究所商定；国际生资格与语言要求未确认<br>弗劳恩霍夫 IEE 招聘页，含博士论文与博士岗位入口。页面未列出当前开放的博士岗位与截止日期，请定期查看。 |
 | [GSI 亥姆霍兹重离子研究中心博士论文与岗位页](https://www.gsi.de/work/forschung/theses)<br><sub>德国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 各岗位条件不同，国际生资格需看具体招聘与合作大学的要求。<br>列出 GSI 的博士课题与合作大学博士岗位,核物理与 FAIR 相关方向。学位由合作大学授予,确认入学要求与国际生资格。 |
+| [奥格斯堡大学计算机视觉/具身 AI 组（Stückler 组）招聘页](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/ips/open-positions/)<br><sub>德国 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | **2026-07-24**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 7 月 24 日截止，本轮已关闭；页面接受主动申请邮件</sub> | ❔ | **要求：** 需计算机、电气、应用数学或物理相关硕士；按 TV-L E13 支付<br>计算机视觉与具身 AI 方向的三年期研究助理/博士岗（TV-L E13），此前一轮截止为 2026 年 7 月，已关闭。页面长期有效，建议关注后续新岗位。 |
 | [弗莱堡大学机器人学习实验室（Valada 组）招生页](https://rl.informatik.uni-freiburg.de/open-positions)<br><sub>德国 ｜ 人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 滚动<br><sub>🔄 随时可申</sub><br><sub>页面称申请持续接收，直至岗位招满。</sub> | ❔ | **要求：** 需计算机、机器人、机器学习或计算机视觉等相关硕士，具备 PyTorch 经验，C++ 加分；不要求德语，公告称欢迎国际候选人（来自邮件列表与 ELLIS 公告）<br>页面列出博士与博士后岗位，薪资为 TV-L E13 至 E14（100%）；页面称欢迎国际候选人，不要求德语。 |
 | [波茨坦大学计算语言学实验室（CLP）岗位页](https://clp.ling.uni-potsdam.de/positions/)<br><sub>德国 ｜ 人文/语言·计算机</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 滚动<br><sub>🟢 开放申请</sub> | ❔ | 页面注明 2026 年博士岗已招满，当前仅一个博后岗位：100% TVL-13，初期 3 年，与 DFKI Berlin 合作，项目为 FLICA。岗位招满为止，评审已于 2026 年 7 月开始。 |
 | [莱布尼茨天体物理研究所（AIP Potsdam）岗位页](https://www.aip.de/en/career/jobs)<br><sub>德国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面列出：X 射线天文博后 2026-10-31；光纤科学家 2026-12-01；tenure-track 科学家 2026-12-15；探测器博后页面未列截止日；以岗位页为准</sub> | ❔ | **要求：** 以各岗位公告为准；博后多为 TV-L 工资标准下约 1–2 年的项目制岗位<br>德国波茨坦天体物理研究所（AIP）岗位页，列有博后、科学家和 tenure-track 岗位，截止日各不相同（见截止说明）；申请前核对每个岗位的截止日期。 |

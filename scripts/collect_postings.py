@@ -894,7 +894,7 @@ for _mod in sorted(p.stem for p in (ROOT / "scripts").glob("platforms_*.py")):
 # 只有 GitHub Actions 能访问的平台（适配器名 → 岗位的 via 名）：由公开仓库的 postings 工作流采集（-s actions），
 # 每日任务再用 import_postings.py 并回主库；本地默认清单不含它们
 ACTIONS = {"findaphd": "FindAPhD"}
-DEFAULT = "jobs-ac-uk,academictransfer,naturecareers,sciencecareers,physicstoday,the-unijobs,jobbnorge,inspire,ajo,daad,varbi,ethz,inria,mpg,arbeitsagentur,workday,successfactors,oracle,pageup"
+DEFAULT = "jobs-ac-uk,academictransfer,naturecareers,sciencecareers,physicstoday,the-unijobs,jobbnorge,inspire,ajo,daad,varbi,ethz,inria,mpg,arbeitsagentur,workday,successfactors,oracle,pageup,cnrs,mathjobs,tamu-rwfm,hnet,aarhus,psi,eso,ibs,econjobmarket,university"
 
 
 def expand(sources: str) -> list[str]:

@@ -2,20 +2,21 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 企业与基金会 Fellowship（143）
+# 企业与基金会 Fellowship（150）
 
 面向博士生（多为在读）的额外资助，可叠加或作为后续资金来源。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [美国（US） 30](fellowships.md#r-us) · [德国（DE） 22](fellowships.md#r-de) · [全球（GLOBAL） 19](fellowships.md#r-global) · [英国（UK） 8](fellowships.md#r-uk) · [比利时（BE） 6](fellowships.md#r-be) · [加拿大（CA） 6](fellowships.md#r-ca) · [日本（JP） 6](fellowships.md#r-jp) · [澳大利亚（AU） 5](fellowships.md#r-au) · [瑞士（CH） 5](fellowships.md#r-ch) · [西班牙（ES） 4](fellowships.md#r-es) · [欧盟/欧洲（EU） 4](fellowships.md#r-eu) · [丹麦（DK） 3](fellowships.md#r-dk) · [中国香港（HK） 3](fellowships.md#r-hk) · [法国（FR） 2](fellowships.md#r-fr) · [爱尔兰（IE） 2](fellowships.md#r-ie) · [以色列（IL） 2](fellowships.md#r-il) · [瑞典（SE） 2](fellowships.md#r-se) · [保加利亚（BG） 1](fellowships.md#r-bg) · [中国内地（CN） 1](fellowships.md#r-cn) · [捷克（CZ） 1](fellowships.md#r-cz) · [爱沙尼亚（EE） 1](fellowships.md#r-ee) · [希腊（GR） 1](fellowships.md#r-gr) · [印度（IN） 1](fellowships.md#r-in) · [意大利（IT） 1](fellowships.md#r-it) · [荷兰（NL） 1](fellowships.md#r-nl) · [新西兰（NZ） 1](fellowships.md#r-nz) · [罗马尼亚（RO） 1](fellowships.md#r-ro) · [沙特（SA） 1](fellowships.md#r-sa) · [新加坡（SG） 1](fellowships.md#r-sg) · [斯洛文尼亚（SI） 1](fellowships.md#r-si) · [土耳其（TR） 1](fellowships.md#r-tr)
+**按地区跳转：** [美国（US） 32](fellowships.md#r-us) · [德国（DE） 23](fellowships.md#r-de) · [全球（GLOBAL） 19](fellowships.md#r-global) · [英国（UK） 10](fellowships.md#r-uk) · [澳大利亚（AU） 6](fellowships.md#r-au) · [比利时（BE） 6](fellowships.md#r-be) · [加拿大（CA） 6](fellowships.md#r-ca) · [日本（JP） 6](fellowships.md#r-jp) · [瑞士（CH） 5](fellowships.md#r-ch) · [西班牙（ES） 4](fellowships.md#r-es) · [欧盟/欧洲（EU） 4](fellowships.md#r-eu) · [丹麦（DK） 3](fellowships.md#r-dk) · [中国香港（HK） 3](fellowships.md#r-hk) · [法国（FR） 2](fellowships.md#r-fr) · [爱尔兰（IE） 2](fellowships.md#r-ie) · [以色列（IL） 2](fellowships.md#r-il) · [瑞典（SE） 2](fellowships.md#r-se) · [保加利亚（BG） 1](fellowships.md#r-bg) · [中国内地（CN） 1](fellowships.md#r-cn) · [捷克（CZ） 1](fellowships.md#r-cz) · [爱沙尼亚（EE） 1](fellowships.md#r-ee) · [埃及（EG） 1](fellowships.md#r-eg) · [希腊（GR） 1](fellowships.md#r-gr) · [印度（IN） 1](fellowships.md#r-in) · [意大利（IT） 1](fellowships.md#r-it) · [荷兰（NL） 1](fellowships.md#r-nl) · [新西兰（NZ） 1](fellowships.md#r-nz) · [罗马尼亚（RO） 1](fellowships.md#r-ro) · [沙特（SA） 1](fellowships.md#r-sa) · [新加坡（SG） 1](fellowships.md#r-sg) · [斯洛文尼亚（SI） 1](fellowships.md#r-si) · [土耳其（TR） 1](fellowships.md#r-tr)
 
 <a id="r-us"></a>
 
-## 美国（US）（30）
+## 美国（US）（32）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [ACLS Fellowships（美国学术团体协会人文社科奖学金）](https://www.acls.org/competitions/acls-fellowships/)<br><sub>美国 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>$5,000/月，最高 $60,000（6–12 个月）</sub> | **2026-09-17**<br><sub>⏸ 本轮已截止</sub><br><sub>2026-27 轮已于 2026-09-17 截止，下一轮以 acls.org 公布为准</sub> | ⛔ | **要求：** 需人文或阐释性社会科学博士学位；须为美国公民、永久居民或 DACA、庇护、难民、TPS 等身份，其他国籍者需在美国或其属地居住满三年<br>美国学术团体协会人文与阐释性社会科学奖学金。官方资格限美国公民、永久居民及特定身份者；其他国籍需在美国或其属地居住满三年，中国大陆申请者通常不符合。截止日以 acls.org 为准。 |
 | [Amazon AI PhD Fellowship（美国合作高校）](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program)<br><sub>美国 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>学校内部选拔，未见新一轮公告</sub> | ❔ | **要求：** 学生不能直接申请；需在 9 所参与院校之一读博，由院系提名<br>页面（2025 年 10 月的新闻稿）称该项目为期两年，覆盖 2025–2026 与 2026–2027 两个学年；学生资助合计 1000 万美元，另有每学年 2400 万美元 AWS 云计算积分。 |
 | [American Philosophical Society John C. Slater 科学史/技术史博士预科研究奖学金](https://www.amphilsoc.org/grants/john-c-slater-predoctoral-fellowship-history-science-technology-and-medicine)<br><sub>美国 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>$25,000（9 个月驻费城研究）+ $5,000 差旅/研究经费（2026–27 轮）</sub> | **2027-01-25**<br><sub>🟢 开放申请</sub><br><sub>页面称在线申请截止 2027 年 1 月 25 日 23:59（美东时间）；页面同时列出 2026–27 学年受助者，年份以官网公告为准。</sub> | ✅ | **要求：** 高年级博士生，研究科学史/技术史/医学史；非美国公民且非美国永久居民；不提供签证担保<br>面向科学史、技术史、医学史方向的高年级博士生，对非美国公民及非美国永久居民开放，9 个月驻费城研究，提供 2.5 万美元津贴与 5000 美元差旅/研究经费，不提供签证担保。 |
 | [Aspen 物理中心夏季项目（博后及以上参与者）](https://aspenphys.org/summer/admissions-and-eligibility-criteria/)<br><sub>美国 ｜ 物理/天文·数学/统计·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 半奖/部分 | **2026-01-15**<br><sub>⏸ 本轮已截止</sub> | ❔ | **要求：** 一般需博士后及以上身份，特殊情况接受即将毕业的博士生<br>面向博士后及以上的夏季项目（特殊情况下接收即将毕业的博士生）；页面称提供财务援助，可在申请表中提出请求。 |
@@ -44,12 +45,13 @@
 | [洛克菲勒大学 Kavli 神经科学研究所研究生奖学金](https://www.rockefeller.edu/research/uploads/www.rockefeller.edu/sites/8/2026/03/Kavli-NSI-Graduate-Fellowship-Program-Announcement-2026.pdf)<br><sub>美国 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>5000 美元薪金补充（1 年期）</sub> | **2026-04-13**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请截止 2026 年 4 月 13 日（已过）；下一轮以官网公告为准</sub> | ✅ | **要求：** 须为 David Rockefeller 研究生项目在读博士生，入学第二至第五年，并于 2026 年 7 月 1 日（2026 轮）入驻 Kavli NSI 成员实验室；美国及非美国公民均可申请<br>洛克菲勒大学 Kavli 神经系统研究所研究生奖学金（2026 轮，1 年期，最多 3 名），面向在读博士生，含 5000 美元薪金补充；官方称美国与非美国公民均可申请。2026 轮截止 4 月 13 日已过，下一轮以官网公告为准。 |
 | [犹他大学研究生研究奖学金](https://gradschool.utah.edu/funding/fellowships-scholarships-awards/grad-school-administered/graduate-research-fellowship.php)<br><sub>美国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-12-16**<br><sub>🟢 开放申请</sub><br><sub>院系提名制，每院系最多 2 份提案；页面显示申请截止 2026-12-16，院系可能更早</sub> | ✅ | 犹他大学研究生研究奖学金：国内外全日制攻读博士的学生均可申请，由院系提名（每院系最多 2 份提案）；奖金 $28,500 另含学费福利（TBP）及可选补贴医保，为一年期、不可续领。 |
 | [纽伯里图书馆（Newberry Library）长期研究员](https://www.newberry.org/long-term-fellowships)<br><sub>美国 ｜ 人文/语言·社会科学/心理</sub> | 博后 | 仅生活费<br><sub>$5,000/月（4–9 个月；2027–28 轮以官网当期为准）</sub> | **2026-11-20**<br><sub>🟢 开放申请</sub><br><sub>2027–28 轮截止 2026 年 11 月 20 日（官网显示申请已开放）；短期研究员截止 12 月 4 日</sub> | ❔ | **要求：** 需已获博士学位（或截止前取得同等终端学位）；多数项目不限国籍<br>纽伯里图书馆长期研究员：面向已获博士学位的人文社科学者，多数项目不限国籍；NEH 资助项目要求外籍申请者在美居留满三年。2027–28 轮截止 2026 年 11 月 20 日；月津贴约 5000 美元，执行 4–9 个月，当期以官网为准。 |
+| [美国癌症学会（ACS）博士后奖学金（Cancer Research）](https://amp.cancer.org/research/we-fund-cancer-research/apply-research-grant/grant-types/postdoctoral-fellowships.html)<br><sub>美国 ｜ 生物/生命科学·医学/公卫·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>每年 6 月 1 日和 12 月 1 日截止；下一轮为 2026-12-01</sub> | 🟡 | **要求：** 需在美国学术机构或合格非营利机构任博后职位；美国公民，或申请时持有适当签证/合法身份的非美国公民；博士学位获得不超过 3 年和/或博后训练不超过 3 年<br>页面称奖励最长 3 年，年度津贴 66,000/68,000/70,000 美元，另有每年 4,000 美元补助；截止日期为 6 月 1 日和 12 月 1 日。 |
 | [美联储理事会博士论文研究员（Dissertation Fellows）](https://www.federalreserve.gov/careers-dissertation-fellows.htm)<br><sub>美国 ｜ 经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 各项目不同<br><sub>🔜 即将开放</sub><br><sub>页面称申请 12 月 1 日开放，夏季项目需在 2 月 1 日前提交；页面最后更新于 2024-01-19，当期以官网为准</sub> | ❔ | **要求：** 在读经济或金融博士生；需 CV、研究描述、成绩单与两封推荐信<br>美联储理事会博士论文研究员：面向经济学与金融学在读博士生的有薪驻场研究项目，约 12 周，主要在夏季。页面称无需美国公民身份，但须获得在美国合法工作的资格。 |
 | [迈阿密大学 UM Fellowship（研究生院）](https://grad.miami.edu/about/costs-fellowships-and-other-funding/fellowships,-financial-aid,-and-other-funding-opportunities/graduate-school-fellowships-and-scholarships/um-fellowship/index.html)<br><sub>美国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$39,000/学年（2024-25 年）</sub> | —<br><sub>页面写明提名截止为 2 月 14 日（未注明年份）；由院系提名。</sub> | ✅ | 迈阿密大学研究生院校级 Fellowship，面向秋季入学的首年博士新生，官网称国际申请人有资格。页面列出提名截止 2 月 14 日；2024-25 学年津贴 $39,000/学年，另含学费减免（可续 5 年）和 100% 医保补贴。 |
 
 <a id="r-de"></a>
 
-## 德国（DE）（22）
+## 德国（DE）（23）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -59,6 +61,7 @@
 | [KIT 州研究生奖学金（LGF，KHYS）](https://www.khys.kit.edu/english/graduate_funding.php)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 未公布<br><sub>🔜 即将开放</sub><br><sub>LGF 个人资助 2027 年起改由 GradExcPro 实施；页面称首轮征集预计于 2026 年 11 月中旬公布。</sub> | ❔ | **要求：** 面向尚未在 KIT 开始博士项目的优秀预备博士生（GradExcPro，2027 年起）；LGF 完成期资助目前不开放申请。<br>德国巴登-符腾堡州博士资助（LGF），KIT 个人资助 2027 年起并入 GradExcPro，可共同融资博士阶段的研究职位并提供研究生院支持。 |
 | [Munich Quantum Valley 博士奖学金（慕尼黑）](https://www.munich-quantum-valley.de/education/doctoral-fellowships)<br><sub>德国 ｜ 物理/天文·计算机·工程</sub> | 博士 | 全奖 | 未公布<br><sub>🔜 即将开放</sub><br><sub>2026 批次为 2025-10-15 至 2026-01-15；2027 批次未公布，通常 10 月开放</sub> | ❔ | **要求：** 硕士学位；可选择巴伐利亚任一大学的研究组<br>全额 3 年博士奖学金，每年约 5 个名额，由 MQV 与 IMPRS-QST 联合招募。2027 批次尚未公布，国际生资格以官网为准。 |
 | [Oberwolfach Leibniz 研究生资助（MFO 研讨会差旅）](https://www.mfo.de/scientific-program/grants/become-an-oberwolfach-leibniz-graduate-student)<br><sub>德国 ｜ 数学/统计</sub> | 博士 | 半奖/部分<br><sub>差旅补贴平均约 €200（非生活费）</sub> | 滚动<br><sub>🔄 随时可申</sub><br><sub>随时邮件申请所长，名额有限，依研讨会安排决定。</sub> | ❔ | **要求：** 在读博士生，或博士学位取得未满 2 年的毕业生（以研讨会日期计）；需提供研究方向、导师、学位日期与拟参加研讨会 ID；由所长在组织者建议后决定。<br>Oberwolfach 数学研究所为在读博士及学位 2 年内毕业生参加 MFO 研讨会提供差旅补贴，平均约 200 欧元，需邮件向所长申请，名额有限。不是生活费资助。 |
+| [伯尔基金会（Heinrich Böll）博士奖学金](https://boell.de/en/applying-scholarship)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2027-03-01**<br><sub>🔜 即将开放</sub><br><sub>每年 3 月 1 日与 9 月 1 日两轮；2026 年 9 月轮已截止，下一轮为 2027 年 3 月 1 日</sub> | ❔ | **要求：** 面向在德国攻读博士的国际学生；官网称博士资助对象包括 EU 与 DAC 国家学生，中国籍资格未明确；需通过在线门户申请<br>伯尔基金会博士奖学金，面向在德国攻读博士的外国学生，每年 3 月 1 日与 9 月 1 日两轮截止，2026 年 9 月轮已过，下一轮为 2027 年 3 月 1 日。需已获德国大学博士录取，通过官网在线门户申请；中国籍资格官网描述不明确。 |
 | [康拉德·阿登纳基金会（KAS）外国博士生奖学金（2026 指南）](https://www.kas.de/documents/d/begabtenfoerderung-und-kultur/rili-internationale-nachwuchsfoerderung-01_2026)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面称国内选拔申请截止日为每年 7 月 15 日；2026 年该轮已过，下一轮以官网为准。</sub> | ✅ | **要求：** 申请时在德国居留不超过 15 个月（可酌情放宽），并在德国高校攻读或即将攻读博士；博士生宜尚有约六个学期的研究周期；医学国家考试（Staatsexamen）专业除外。<br>KAS 面向在德国攻读或即将攻读博士的外国学生，通过 campus.kas.de 在线申请；抓取的正文未包含资助金额章节，金额需以官方 PDF 为准。 |
 | [弗里德里希·艾伯特基金会（FES）外国博士生奖学金](https://www.fes.de/studienfoerderung/promotionsfoerderung-fuer-auslaender-innen)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>每月 1,500 欧元 + 法定医保补贴</sub> | 滚动<br><sub>🔄 随时可申</sub><br><sub>无固定截止，官方建议在博士论文提交前约两年内尽早申请</sub> | ✅ | **要求：** 须来自国外并已获德国高校博士录取；需德语 B2 水平（页面称可不提供证书）；另有社会政治参与、与社会民主价值观相符、学业优秀等选拔条件；医学方向不资助。<br>官方页写明：外国博士生每月获 1,500 欧元并有法定医保补贴，一般资助 3.5 年。无固定截止，建议在论文提交前约两年内尽早申请。 |
 | [德国联邦环境基金会（DBU）· 博士生奖学金（环境与可持续方向）](https://www.dbu.de/app/uploads/Foerderleitlinien-zum-Promotionsstipendienprogramm-der-Deutschen-Bundesstiftung-Umwelt.pdf)<br><sub>德国 ｜ 地球/环境/海洋·工程·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | **2027-01-15**<br><sub>🔜 即将开放</sub><br><sub>资助准则规定每年 1 月 15 日与 6 月 15 日两次截止（准则 Stand 01/2026）；下一轮为 2027 年 1 月 15 日。</sub> | ❔ | **要求：** 研究须与环境或自然保护问题有明确关联，并与德国的环境状况或全球环境问题相关；工作须在德国高校或研究机构完成；非德国籍申请人需提交德语 B2 证明并获高校导师支持（依据准则 Stand 01/2026）。<br>面向在德国高校攻读博士、课题与环境或自然保护相关的研究者，每年 1 月 15 日与 6 月 15 日两次截止，资助期限最长三年。金额以官方准则为准，中国学生能否申请需对照当年准则确认。 |
@@ -104,18 +107,33 @@
 
 <a id="r-uk"></a>
 
-## 英国（UK）（8）
+## 英国（UK）（10）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [Arm-ECS 全额资助博士岗位（南安普顿大学）](https://www.arm.ecs.soton.ac.uk/jobs/phd-student-southampton/)<br><sub>英国 ｜ 计算机·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>至少 £15,609/年（仅限英国申请者）</sub> | 滚动<br><sub>🔄 随时可申</sub> | ⛔ | **要求：** 需电子工程或相关学科优秀学历（页面未说明学位层级）<br>Arm 与南安普顿大学 ECS 合作的 3.5 年全额资助博士（EPSRC 资金），部分时间在剑桥 Arm Research；招生页写明仅面向英国申请者，对大陆学生不开放。页面称需在 5 月初前提交，未标注年份，以官网为准。 |
 | [Euan MacDonald Centre MND 博士 studentship（爱丁堡/邓迪/圣安德鲁斯）](https://euanmacdonaldcentre.org/phd-scheme)<br><sub>英国 ｜ 医学/公卫·生物/生命科学·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026 入学轮已关闭；2027 入学轮申请预计 2026 年秋季开放（日期待定），时间表示 2027 年 1 月中下旬截止（近似，可能变动）。</sub> | ✅ | **要求：** 官网称无国籍限制（Everyone is eligible to apply）；博士入学的学历与英语要求以各大学网站为准。<br>官网称该博士奖学金含 UKRI 同等生活津贴（3.5 年）、大学学费，以及每年 £10K、共三年的差旅与耗材额度。2026 入学轮已关闭。 |
 | [XuPHOS Oxford Fund（牛津化学 DPhil 奖学金）](https://chem.web.ox.ac.uk/node/4203751)<br><sub>英国 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | **要求：** 未找到公开申请条件，资格以当年细则为准<br>捐赠设立，未来十年至少资助 8 个化学 DPhil，并提供在中国企业实习的机会；资格以当年细则为准。 |
 | [华威统计系 G-Research 博士奖学金](https://warwick.ac.uk/fac/sci/statistics/postgrad/centre-for-doctoral-training/fees-funding/g-research)<br><sub>英国 ｜ 数学/统计·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£21,830/年（27/28 UKRI 标准，固定 4 年）</sub> | 滚动<br><sub>🔄 随时可申</sub><br><sub>页面写明申请截止为 Ongoing（持续接受），录取结果日期为 2027 年 4 月；2027 年仅 1 个名额。</sub> | ⛔ | 华威统计系 G-Research 博士奖学金（官网）：2027 年 1 个名额，资助学费、生活津贴及多项津贴，偏好机器学习与 AI 建模方向；页面注明 Fee status 为 Home（Home 学费身份）。 |
 | [布里斯托大学 Sasakawa 日本研究博士奖学金（年度项目）](https://www.bristol.ac.uk/students/support/finances/scholarships/sasakawa/)<br><sub>英国 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>£15,000（一年）</sub> | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>每年 1 月底提交 PhD 申请；2026/27 轮已截止，2027/28 轮待官网公布。</sub> | ✅ | **要求：** 仅限布里斯托大学 PhD；论文主要方向须为日本，且限人文、社科类项目；不接受已在读博士生或 MPhil 升博申请；须在博士申请表中注明申请 Sasakawa。页面称不限国籍。<br>日本研究方向一年期资助，非全奖，可作补充资金。 |
 | [爱丁堡 McIntosh-Patterson 历史语言学博士奖学金](https://www.amc.lel.ed.ac.uk/students/prizes/the-mcintosh-patterson-schollarship/)<br><sub>英国 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£15,500/年（生活费），共三年</sub> | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>页面称目前不接受申请，未给出下一轮时间</sub> | ✅ | **要求：** 研究计划需为历史语言学且可由爱丁堡语言学教师指导；需优秀本科学位，硕士优先<br>历史语言学全额博士奖学金，提供全额学费（英国、欧盟或海外）及每年 £15,500 生活费，为期三年；页面列出过往入学年份为 2015、2019、2021、2024 年，目前不接受申请。 |
 | [英国与爱尔兰鱼类学会（FSBI）博士奖学金](https://fsbi.org.uk/phd-studentships-fsbi-3/)<br><sub>英国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>🔜 即将开放</sub><br><sub>每年 1 月 30 日 17:00 GMT 截止（页面写 30 January），逾期不予考虑；以当年公告为准。</sub> | ❔ | **要求：** 需学士学位（一等或上二等荣誉，生物相关学科）；申请时须为 FSBI 付费会员；课题须与鱼类相关<br>页面称学会每年面向会员开放一次 PhD 奖学金竞争，资助四年全额（含学费与生活费）。申请人须为付费会员并计划在英国高校工作（页面列为基本条件）；不符合英国居住条件的学生须自行补足学费差额。 |
+| [英国心脏基金会四年制博士项目](https://www.bhf.org.uk/for-professionals/information-for-researchers/what-we-fund/4-year-phd-programme)<br><sub>英国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>⏸ 本轮已截止</sub> | 🟡 | BHF 四年制博士：国际生政策因校而异，部分项目全额资助国际生，部分项目国际生需自付英国与海外学费差额；需一级或高二荣誉学位。各校截止不同。 |
 | [英国药理学会（BPS）博士资助计划](https://www.bps.ac.uk/news/article/phd-funding-programme/)<br><sub>英国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>£21,805/年（英国校外，2026/27）；伦敦 £23,805/年，另有每年最多 £10,000 研究经费</sub> | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>2027 年奖学金截止日为 2026 年 10 月 31 日（BPS 官网）；单次申请，由学会决定 AJ Clark 或 Sir David Jack 奖学金</sub> | ❔ | **要求：** 需药理学或相关学科学位，并拟在英国或爱尔兰认可机构攻读博士；主导师须为（或将成为）学会会员；页面称国际学生可以申请，但系主任须说明国际学费如何覆盖。<br>英国药理学会博士奖学金（AJ Clark Studentship 或 Sir David Jack Scholarship，共用一次申请）：2027 年奖学金申请截止 2026 年 10 月 31 日。2026/27 生活津贴校外 £21,805、伦敦 £23,805，另有研究经费每年最多 £10,000。 |
 | [谢菲尔德哈勒姆大学 · AHRC 博士景观奖（建筑方向）](https://www.shu.ac.uk/research/degrees/phd-scholarships/ahrc-doctoral-landscape-awards)<br><sub>英国 ｜ 人文/语言·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-10-22**<br><sub>🟢 开放申请</sub><br><sub>页面称截止为英国时间 2026 年 10 月 22 日（周四）17:00，逾期不受理；面试预计 2026 年 11 月中下旬。</sub> | ⛔ | **要求：** 仅限 Home 申请人；研究须属于 AHRC 资助范围（艺术与人文）；需满足对应博士课程入学要求；已开始博士学习者不符合条件。<br>谢菲尔德哈勒姆大学 AHRC 博士景观奖，提供 1 个博士名额，2027 年 2 月开始。页面将名额限定于艺术与设计（Fine Art and Design）方向，未提及建筑方向；学费与标准博士津贴（2025/26 学年 £22,152）已由页面列出。 |
+
+<a id="r-au"></a>
+
+## 澳大利亚（AU）（6）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [AINSE 研究生研究奖（PGRA，核科学与技术补充资助）](https://www.ainse.edu.au/?p=801)<br><sub>澳大利亚 ｜ 物理/天文·化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>A$9,000/年（补充资助，需已获 RTP 等主奖学金）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮已于 2026-04-15 截止；下一轮 2027 年 2 月开放、4 月截止</sub> | 🟡 | **要求：** 须为 AINSE 成员大学博士生且已获 RTP 或同等博士主奖学金；研究需使用 ANSTO 设施；硕士生不符合。<br>澳洲核科学博士补充资助（A$9,000/年），前提是已获 RTP 或同等主奖学金且项目需使用 ANSTO 设施。2023–2025 官方条款称不限国籍，2026 版摘录未见该表述，国际生资格以当年条款为准。 |
+| [ANU 中国与世界研究中心（CIW）博士奖学金](https://ciw.anu.edu.au/fellowships-grants)<br><sub>澳大利亚 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明<br><sub>A$30,000/年（3 年，CIW 相关页面，当前轮次未核实）</sub> | 未公布<br><sub>官网当前轮次未核实，请联系 ciw@anu.edu.au 确认</sub> | ✅ | **要求：** 研究主题须以中国为重点的人文社科方向；搜索结果称国内外学生均可申请；学历与语言要求以官网为准<br>CIW 官网列出 Graduate Fellowship，每年最多 5 个，面向在澳大利亚或新西兰大学攻读博士的学生；页面未列出金额、研究主题限制与截止日期，需向 CIW 确认当前轮次。 |
+| [悉尼大学商学院研究奖学金（国际生）](https://www.sydney.edu.au/scholarships/a/business-school-research-scholarship.html)<br><sub>澳大利亚 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>最低 $42,754/年（RTP 标准，逐年指数化调整）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>每年 2 月 1 日开放申请，9 月 30 日截止；2026 轮已过，关注 2027 轮</sub> | ✅ | 官网面向国际博士生，覆盖国际学费，最长 3.5 年，最低津贴按 RTP 标准。申请窗口每年 2 月 1 日至 9 月 30 日，需先申请博士录取。2026 轮已关闭，关注 2027 轮；第三方网站的截止日期与官网不一致，以官网为准。 |
+| [悉尼大学跨国音乐交流博士研究奖学金（Sydney Conservatorium）](https://www.sydney.edu.au/scholarships/a/transnational-musical-exchange.html)<br><sub>澳大利亚 ｜ 人文/语言</sub> | 博士 | 全奖 | **2026-12-11**<br><sub>🟢 开放申请</sub><br><sub>本轮 2026-12-11 截止</sub> | 🟡 | **要求：** 需研究型硕士或一等荣誉学士；须从 ARC 项目团队选定主导师<br>音乐学/音乐文化方向研究型博士奖学金，最长 3 年，名额与 ARC 项目绑定，须先联系项目团队选定主导师。本轮截止 2026-12-11。页面称国际生可获学费与 RTP 标准生活津贴。 |
+| [悉尼量子学院（SQA）博士奖学金](https://sydneyquantum.org/program/sqa-phd-scholarships/)<br><sub>澳大利亚 ｜ 物理/天文·计算机·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>A$42,754/年（2026 标准，最多 4 年）</sub> | **2026-10-08**<br><sub>⏸ 本轮已截止</sub><br><sub>第 14 轮 2026-08-26 至 2026-10-08 已截止（官网）；下一轮以 SQA 官网为准</sub> | ✅ | 覆盖四所悉尼高校；页面称国际生学费可豁免，主要津贴为 A$42,754/年（2026 标准，最多 4 年）。第 14 轮于 2026-10-08 截止，已关闭。 |
+| [日本国际交流基金会日本研究奖学金（悉尼）](https://sydney.jpf.go.jp/japanese-studies/grants/fellowships/)<br><sub>澳大利亚·日本 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>FY2027-2028 轮提交截止为 2026 年 12 月 1 日 13:00（日本时间），须通过在线申请系统并使用 2027-2028 表格提交；赴日开始时间须在 2027 年 6 月 20 日至 2028 年 3 月 20 日之间。</sub> | ❔ | **要求：** 人文社科博士候选人，需赴日开展日本研究；总部指南要求申请人为与日本有外交关系国家的国民或永久居民（Sydney 轮待核实）；需在截止前落实赴日单位安排<br>日本国际交流基金会日本研究奖学金（悉尼）面向赴日开展日本研究的人文社科博士候选人与资深学者。页面已更新为 FY2027-2028 轮信息（2026 年 10 月 8 日更新），原条目中的 2025 年 12 月 2 日截止不再适用。 |
 
 <a id="r-be"></a>
 
@@ -155,18 +173,6 @@
 | [平和中岛财团留学生奖学金（日本）](https://www.hama-med.ac.jp/uni-e/campus-life/mt_files/heiwanakajima2026.pdf)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>约 15 万日元/月（通常 1 年，自 4 月起）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2027 年度各校内部截止不同，多数已在 2026 年 10 月初结束；以所在大学公告为准。</sub> | ✅ | **要求：** 需为在读日本大学的留学生，由所在大学推荐，各校名额有限<br>本页为日本某大学国际中心的 2027 年度校内公告：资助期 2027 年 4 月至 2028 年 3 月（12 个月），大学院生每月 20 万日元。校内选拔材料截止 2026 年 9 月 18 日，每个实验室限推荐 1 人。 |
 | [广岛大学 Global Doctoral Fellowship（国际博士生有薪研究员计划）](https://www.hiroshima-u.ac.jp/node/94245)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>月薪上限 144,000 日元（年上限 1,728,000 日元），另有研究经费最高 40 万日元/年（200,000 日元/学期）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 10 月入学轮截止 2026 年 6 月 19 日（已过）；2026 年 4 月入学轮截止 1 月 5 日；2027 年度轮次待公布</sub> | ❔ | **要求：** 面向国际博士生；需被录取到广岛大学博士课程并注册入学；需说明毕业后为日本科技创新作贡献的意愿<br>广岛大学 Global Doctoral Fellowship，以研究员身份聘用国际博士生，工资上限约 144,000 日元/月，研究经费最高约 40 万日元/年，支持 3–4 年，共 30 名。2026 年度两轮截止已过，2027 年度是否开放以官网为准。 |
 | [日本国际交流基金会 Japanese Studies Fellowship（海外研究者）](https://www.jpf.go.jp/e/program/dl/intel/pdf/pg_RJS-FW2027_e.pdf)<br><sub>日本 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>FY2027 海外申请截止 2026-12-01（日本时间），次年 4 月公布结果；赴日时段 2027 年 6 月至 2028 年 3 月之间。</sub> | ❔ | **要求：** 博士生：人文或社会科学领域、与日本相关研究的在读博士生，需已完成或将于赴日前完成必要课程；研究者：持博士学位或同等专业经历。申请人须为可居住在所在国的公民或永久居民，须在 2027 年 6 月 20 日至 2028 年 3 月 20 日之间抵日并连续停留；自然科学、医学、工程领域学者不符合条件。<br>长期（博士/博士后）与短期两类并存；月津贴金额未核实，留空。 |
-
-<a id="r-au"></a>
-
-## 澳大利亚（AU）（5）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [ANU 中国与世界研究中心（CIW）博士奖学金](https://ciw.anu.edu.au/fellowships-grants)<br><sub>澳大利亚 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明<br><sub>A$30,000/年（3 年，CIW 相关页面，当前轮次未核实）</sub> | 未公布<br><sub>官网当前轮次未核实，请联系 ciw@anu.edu.au 确认</sub> | ✅ | **要求：** 研究主题须以中国为重点的人文社科方向；搜索结果称国内外学生均可申请；学历与语言要求以官网为准<br>CIW 官网列出 Graduate Fellowship，每年最多 5 个，面向在澳大利亚或新西兰大学攻读博士的学生；页面未列出金额、研究主题限制与截止日期，需向 CIW 确认当前轮次。 |
-| [悉尼大学商学院研究奖学金（国际生）](https://www.sydney.edu.au/scholarships/a/business-school-research-scholarship.html)<br><sub>澳大利亚 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>最低 $42,754/年（RTP 标准，逐年指数化调整）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>每年 2 月 1 日开放申请，9 月 30 日截止；2026 轮已过，关注 2027 轮</sub> | ✅ | 官网面向国际博士生，覆盖国际学费，最长 3.5 年，最低津贴按 RTP 标准。申请窗口每年 2 月 1 日至 9 月 30 日，需先申请博士录取。2026 轮已关闭，关注 2027 轮；第三方网站的截止日期与官网不一致，以官网为准。 |
-| [悉尼大学跨国音乐交流博士研究奖学金（Sydney Conservatorium）](https://www.sydney.edu.au/scholarships/a/transnational-musical-exchange.html)<br><sub>澳大利亚 ｜ 人文/语言</sub> | 博士 | 全奖 | **2026-12-11**<br><sub>🟢 开放申请</sub><br><sub>本轮 2026-12-11 截止</sub> | 🟡 | **要求：** 需研究型硕士或一等荣誉学士；须从 ARC 项目团队选定主导师<br>音乐学/音乐文化方向研究型博士奖学金，最长 3 年，名额与 ARC 项目绑定，须先联系项目团队选定主导师。本轮截止 2026-12-11。页面称国际生可获学费与 RTP 标准生活津贴。 |
-| [悉尼量子学院（SQA）博士奖学金](https://sydneyquantum.org/program/sqa-phd-scholarships/)<br><sub>澳大利亚 ｜ 物理/天文·计算机·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>A$42,754/年（2026 标准，最多 4 年）</sub> | **2026-10-08**<br><sub>⏸ 本轮已截止</sub><br><sub>第 14 轮 2026-08-26 至 2026-10-08 已截止（官网）；下一轮以 SQA 官网为准</sub> | ✅ | 覆盖四所悉尼高校；页面称国际生学费可豁免，主要津贴为 A$42,754/年（2026 标准，最多 4 年）。第 14 轮于 2026-10-08 截止，已关闭。 |
-| [日本国际交流基金会日本研究奖学金（悉尼）](https://sydney.jpf.go.jp/japanese-studies/grants/fellowships/)<br><sub>澳大利亚·日本 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>FY2027-2028 轮提交截止为 2026 年 12 月 1 日 13:00（日本时间），须通过在线申请系统并使用 2027-2028 表格提交；赴日开始时间须在 2027 年 6 月 20 日至 2028 年 3 月 20 日之间。</sub> | ❔ | **要求：** 人文社科博士候选人，需赴日开展日本研究；总部指南要求申请人为与日本有外交关系国家的国民或永久居民（Sydney 轮待核实）；需在截止前落实赴日单位安排<br>日本国际交流基金会日本研究奖学金（悉尼）面向赴日开展日本研究的人文社科博士候选人与资深学者。页面已更新为 FY2027-2028 轮信息（2026 年 10 月 8 日更新），原条目中的 2025 年 12 月 2 日截止不再适用。 |
 
 <a id="r-ch"></a>
 
@@ -289,6 +295,14 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [爱沙尼亚 MSCA 博后通道（塔尔图大学通知）](https://ut.ee/en/news/call-msca-postdoctoral-fellowships-open)<br><sub>爱沙尼亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | **2026-09-09**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年征集申请截止 2026 年 9 月 9 日（已过）；页面未给出 2027 年征集时间</sub> | ✅ | **要求：** 截止时需已获博士学位，科研经验不超过 8 年；截止前 3 年内在爱沙尼亚居留或工作不得超过 12 个月；需先联系依托导师<br>塔尔图大学通知：2026 年 MSCA 博士后征集截止 2026 年 9 月 9 日（已过）。赴爱沙尼亚的博士后不能直接向 ETAG 申请，须通过 MSCA 途径，大学资助办公室要求 8 月 17 日前把申请提交给协调员。 |
+
+<a id="r-eg"></a>
+
+## 埃及（EG）（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [AUC Al Alfi 博士奖学金（应用科学与工程）](https://www.aucegypt.edu/admissions/fellowships/listing/al-alfi-phd-fellowship-applied-sciences-and-engineering)<br><sub>埃及 ｜ 工程·计算机·化学/材料·物理/天文·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>⏸ 本轮已截止</sub> | ⛔ | **要求：** 仅限埃及国籍；需硕士（论文型）学位，GPA 不低于 3.2/4.0；需符合 AUC 博士录取要求<br>页面标注 No New Intake（暂无新一轮招生）；仅限埃及国籍，中国大陆学生不符合，此条仅作排除参考。 |
 
 <a id="r-gr"></a>
 

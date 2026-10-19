@@ -42,6 +42,8 @@ python scripts/apply_check.py check applications/<id>
 
 另派一个子代理（model: sonnet，不要用起草的那个），给它 `research/apply-review-prompt.md`、`cv-facts.yml`、`lab.yml`、`posting.txt`、`checklist.md` 与 `drafts/`，让它写 `applications/<id>/review.md`。“必须改”里的问题交回起草子代理修改，再跑一次第 4 步。
 
+程序和审稿是两层防线：程序拦下凭空出现的数字、名称、标题和“一作 / 已接收 / 主导 / 首次 / 被引用”这类说法；审稿子代理逐句对照出处，查程序看不出的张冠李戴、因果和夸大。想评估校验本身，可运行 `python scripts/apply_eval.py applications/<id>`（自动把合格文书改出编造变体，统计拦截率）。
+
 ## 6. 定稿草稿与交给用户
 
 ```bash

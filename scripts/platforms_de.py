@@ -24,7 +24,7 @@ BA_TITLE = re.compile(r"doktorand|promotionsstelle|(?:zur|der|mit|einer)\s+promo
                       r"post-?doc|postdoktorand", re.I)
 BA_SKIP = re.compile(r"berufsbegleitend|werkstudent|praktik|abschlussarbeit|master'?s? thesis|bachelor|"
                      r"professor|lecturer|manager", re.I)
-BA_PHD = re.compile(r"doktorand|promotion|ph\.?\s?d\b|promovend|doctoral", re.I)
+BA_PHD = re.compile(r"doktorand|promotion|ph\.?\s?d\b|promovend|(?<!post)(?<!post-)doctoral", re.I)  # “Postdoctoral” 不算
 BA_POSTDOC = re.compile(r"post-?doc|postdoktorand|postdoctoral", re.I)
 BA_FUNDED = re.compile(r"tv-?l\b|tvöd|\be\s?13\b|\beg\s?13\b|entgeltgruppe|salary|gehalt|vergütung|vergütet|stipend|"
                        r"bezahl|\bpaid\b|\bpay\b", re.I)

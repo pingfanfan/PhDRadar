@@ -1,0 +1,247 @@
+# /rank 评测用的 20 个虚构画像（不同学科与背景）。scripts/rank_eval.py 读它，人工判断见 tests/rank_eval_labels.yml 与 docs/rank-eval.md。
+- id: p01-rl
+  note: 硕士在读，强化学习与机器人学习，不挑国家
+  education: [{degree: master, status: ongoing, end: 2027-06}]
+  research: {keywords: [强化学习, 机器学习, robot learning]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 7.0}
+  funding: {min_coverage: full}
+- id: p02-nlp
+  note: 硕士毕业，自然语言处理 / 大模型，英美港新
+  education: [{degree: master, status: completed}]
+  research: {keywords: [自然语言处理, 大模型, computational linguistics]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {toefl: 105}
+  countries: {accept: [UK, US, HK, SG], prefer: [HK, SG]}
+  funding: {min_coverage: full}
+- id: p03-medimg
+  note: 生物医学工程硕士，医学影像 + 深度学习
+  education: [{degree: master, status: ongoing, end: 2027-06}]
+  research: {keywords: [医学影像, 深度学习, MRI]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 7.0}
+  countries: {accept: [UK, NL, DE, SE, CH, DK], prefer: [UK, NL]}
+  funding: {min_coverage: full}
+- id: p04-cogneuro
+  note: 心理学硕士，认知神经科学，欧洲
+  education: [{degree: master, status: completed}]
+  research: {keywords: [认知神经科学, fMRI, memory]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 7.5}
+  countries: {accept: [NL, DE, UK, SE, DK, NO, FI, BE, CH, AT]}
+  funding: {min_coverage: full}
+- id: p05-ecology
+  note: 生态学硕士，生物多样性与气候变化，北欧和荷兰
+  education: [{degree: master, status: completed}]
+  research: {keywords: [生态, biodiversity, 气候变化]}
+  target: {levels: [phd], start: 2027-03}
+  languages: {ielts: 7.0}
+  countries: {accept: [NL, SE, DK, NO, FI], prefer: [SE, NO]}
+  funding: {min_coverage: full}
+- id: p06-battery
+  note: 材料化学硕士，电池与电化学储能，不会德语
+  education: [{degree: master, status: ongoing, end: 2027-07}]
+  research: {keywords: [电池, 电化学, 储能]}
+  target: {levels: [phd], start: 2027-10}
+  languages: {ielts: 6.5}
+  countries: {accept: [DE, NL, CH, UK, SE, DK, BE]}
+  funding: {min_coverage: full}
+- id: p07-quantum
+  note: 物理硕士，量子光学，敏感方向
+  education: [{degree: master, status: completed}]
+  research: {keywords: [量子光学, quantum, 光子]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 7.0}
+  countries: {accept: [UK, DE, NL, DK, SE, CH, AT, FI]}
+  funding: {min_coverage: full}
+  sensitive_field: true
+- id: p08-astro-postdoc
+  note: 天体物理博士，找博后
+  education: [{degree: phd, status: completed}]
+  research: {keywords: [天体物理, cosmology, galaxy]}
+  target: {levels: [postdoc], start: 2027-09}
+  funding: {min_coverage: full}
+- id: p09-econ
+  note: 经济学硕士，计量与劳动经济学
+  education: [{degree: master, status: completed}]
+  research: {keywords: [经济学, econometrics, labour economics]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {toefl: 108}
+  funding: {min_coverage: full}
+- id: p10-epi
+  note: 公共卫生硕士，流行病学与传染病，英澳
+  education: [{degree: master, status: completed}]
+  research: {keywords: [流行病学, public health, 传染病]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 7.0}
+  countries: {accept: [UK, AU, NZ, IE], prefer: [UK]}
+  funding: {min_coverage: full}
+- id: p11-civil
+  note: 土木工程本科毕业（无硕士），结构工程
+  education: [{degree: bachelor, status: completed}]
+  research: {keywords: [土木工程, structural engineering, concrete]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 6.5}
+  countries: {accept: [UK, AU, HK, IE]}
+  funding: {min_coverage: full}
+- id: p12-plant
+  note: 植物生物学硕士，作物基因组
+  education: [{degree: master, status: completed}]
+  research: {keywords: [植物, crop, genomics]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 7.0}
+  countries: {accept: [DE, NL, UK, SE, DK, BE, CH]}
+  funding: {min_coverage: full}
+- id: p13-linguistics
+  note: 语言学硕士，二语习得与心理语言学
+  education: [{degree: master, status: completed}]
+  research: {keywords: [语言学, second language acquisition, psycholinguistics]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 8.0}
+  countries: {accept: [UK, NL, HK, BE, SE, NO]}
+  funding: {min_coverage: any}
+- id: p14-education
+  note: 教育学硕士，学习科学与教育技术
+  education: [{degree: master, status: completed}]
+  research: {keywords: [教育学, learning sciences, educational technology]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 7.5}
+  funding: {min_coverage: partial}
+- id: p15-ocean
+  note: 海洋科学硕士，物理海洋与遥感
+  education: [{degree: master, status: completed}]
+  research: {keywords: [海洋, oceanography, 遥感]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 7.0}
+  countries: {accept: [NO, UK, AU, DE, NL, DK, SE, FR]}
+  funding: {min_coverage: full}
+- id: p16-cancer
+  note: 生物医学硕士，肿瘤免疫，只看明确中国学生可申
+  education: [{degree: master, status: completed}]
+  research: {keywords: [癌症, 免疫, immunotherapy]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 7.0}
+  countries: {accept: [UK, NL, SE, DK, CH, DE]}
+  funding: {min_coverage: full}
+  eligibility: {cn_only: true}
+- id: p17-robotics
+  note: 控制工程硕士，机器人与自动驾驶，敏感方向
+  education: [{degree: master, status: ongoing, end: 2027-06}]
+  research: {keywords: [机器人, 控制, autonomous vehicles]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 7.0}
+  countries: {accept: [UK, NL, SE, CH, DK, NO, FI]}
+  funding: {min_coverage: full}
+  sensitive_field: true
+- id: p18-supplychain
+  note: 管理学硕士，供应链与运营管理
+  education: [{degree: master, status: completed}]
+  research: {keywords: [供应链, operations management, logistics]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 7.0}
+  countries: {accept: [UK, NL, BE, DE, SE, DK, FR]}
+  funding: {min_coverage: full}
+- id: p19-hydro-postdoc
+  note: 水文学博士，找博后，洪水与气候
+  education: [{degree: phd, status: completed}]
+  research: {keywords: [水文, flood, climate]}
+  target: {levels: [postdoc], start: 2027-03}
+  languages: {ielts: 7.0}
+  funding: {min_coverage: full}
+- id: p20-semiconductor
+  note: 微电子硕士，半导体器件与集成电路设计，敏感方向
+  education: [{degree: master, status: ongoing, end: 2027-06}]
+  research: {keywords: [半导体, 集成电路, chip design]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 6.5}
+  countries: {accept: [NL, BE, DE, SE, CH, DK, UK]}
+  funding: {min_coverage: full}
+  sensitive_field: true
+# —— 以下 5 个是留出画像：规则调好之后才写、只标注一次、不再据此改规则，用来估计对新画像的准确率 ——
+- id: h01-compchem
+  heldout: true
+  note: 化学硕士，计算化学 / DFT / 分子模拟
+  education: [{degree: master, status: completed}]
+  research: {keywords: [计算化学, DFT, molecular dynamics]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 7.0}
+  countries: {accept: [UK, DE, NL, CH, SE, DK, BE]}
+  funding: {min_coverage: full}
+- id: h02-biostat
+  heldout: true
+  note: 统计学硕士，生物统计与因果推断
+  education: [{degree: master, status: completed}]
+  research: {keywords: [生物统计, causal inference, 统计学]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 7.5}
+  funding: {min_coverage: full}
+- id: h03-neuro
+  heldout: true
+  note: 神经生物学硕士，系统神经科学与电生理
+  education: [{degree: master, status: completed}]
+  research: {keywords: [神经科学, electrophysiology, neural circuits]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 7.0}
+  countries: {accept: [UK, DE, NL, CH, AT, SE, DK, FR, BE]}
+  funding: {min_coverage: full}
+- id: h04-urban
+  heldout: true
+  note: 城市规划硕士，交通与城市出行
+  education: [{degree: master, status: completed}]
+  research: {keywords: [城市规划, transport, urban mobility]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 7.0}
+  countries: {accept: [UK, NL, SE, DK, BE, IE, AU]}
+  funding: {min_coverage: full}
+- id: h05-polymer
+  heldout: true
+  note: 高分子材料硕士，聚合物与二维材料
+  education: [{degree: master, status: completed}]
+  research: {keywords: [高分子, 二维材料, graphene]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 6.5}
+  funding: {min_coverage: full}
+# —— 留出画像（第二组）：第一组暴露的问题修完之后才写，只标注一次，之后不再据此改规则 ——
+- id: h06-bioinfo
+  heldout: true
+  note: 生物信息硕士，单细胞与基因组数据分析
+  education: [{degree: master, status: completed}]
+  research: {keywords: [生物信息, single-cell, 基因组]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 7.0}
+  countries: {accept: [UK, DE, NL, SE, DK, CH, BE]}
+  funding: {min_coverage: full}
+- id: h07-pv
+  heldout: true
+  note: 材料硕士，钙钛矿太阳能电池
+  education: [{degree: master, status: completed}]
+  research: {keywords: [钙钛矿, solar cells, 光伏]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 6.5}
+  funding: {min_coverage: full}
+- id: h08-psych
+  heldout: true
+  note: 心理学硕士，发展心理学与儿童认知
+  education: [{degree: master, status: completed}]
+  research: {keywords: [心理学, child development, developmental psychology]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 7.5}
+  countries: {accept: [UK, NL, AU, IE, BE, SE]}
+  funding: {min_coverage: full}
+- id: h09-fluids
+  heldout: true
+  note: 力学硕士，流体力学与湍流数值模拟
+  education: [{degree: master, status: completed}]
+  research: {keywords: [流体力学, CFD, turbulence]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 6.5}
+  countries: {accept: [UK, DE, NL, CH, SE, FR, BE]}
+  funding: {min_coverage: full}
+- id: h10-history
+  heldout: true
+  note: 历史学硕士，中世纪史与档案研究，资助不限
+  education: [{degree: master, status: completed}]
+  research: {keywords: [历史, medieval, archives]}
+  target: {levels: [phd], start: 2027-09}
+  languages: {ielts: 7.5}
+  funding: {min_coverage: any}

@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 芬兰（FI） 信源（23）
+# 芬兰（FI） 信源（24）
 
-所有标注了地区 FI 的信源，共 23 条。
+所有标注了地区 FI 的信源，共 24 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 1](fi.md#aggregators) · [各国学术招聘门户与机构职位页 1](fi.md#national-portals) · [高校旗舰奖学金与资助检索 3](fi.md#university-schemes) · [结构化博士项目与研究机构 12](fi.md#doctoral-programs) · [博士后奖学金与项目 4](fi.md#postdoc-fellowships) · [个人信源与社交渠道 1](fi.md#people-channels) · [导师招生帖（社交平台个人发布） 1](fi.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 1](fi.md#aggregators) · [各国学术招聘门户与机构职位页 1](fi.md#national-portals) · [高校旗舰奖学金与资助检索 3](fi.md#university-schemes) · [结构化博士项目与研究机构 13](fi.md#doctoral-programs) · [博士后奖学金与项目 4](fi.md#postdoc-fellowships) · [个人信源与社交渠道 1](fi.md#people-channels) · [导师招生帖（社交平台个人发布） 1](fi.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
@@ -38,11 +38,12 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（12）
+## 结构化博士项目与研究机构（13）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Aalto 化学工程博士项目（入学窗口）](https://www.aalto.fi/en/study-options/doctoral-programme-in-chemical-engineering)<br><sub>芬兰 ｜ 工程·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-11-03**<br><sub>🟢 开放申请</sub><br><sub>搜索显示 2026 年共四个入学窗口（1、5、9、11 月，各约两个月）；具体日期以官网为准。</sub> | ❔ | **要求：** 需持有芬兰大学或芬兰应用科学大学颁发的相关硕士学位，或国外同等学位<br>页面写明申请期为 2026 年 9 月 30 日至 11 月 3 日；需先与拟任导师确认，再申请入学资格（study right）。 |
+| [Aalto 艺术、设计与建筑博士项目](https://www.aalto.fi/en/study-options/aalto-doctoral-programme-in-arts-design-and-architecture-0)<br><sub>芬兰 ｜ 人文/语言·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | **2027-03-02**<br><sub>🔜 即将开放</sub><br><sub>2027 年入学申请期 2027-02-09 至 2027-03-02。</sub> | 🟡 | **要求：** 需硕士学位；所有国籍博士生免学费；Finland Fellowship 仅限非洲、中美洲、南美洲国籍申请者，中国大陆学生不符合，其余经费需自寻<br>Aalto 艺术、设计与建筑博士项目免学费（所有国籍）。学校不提供博士奖学金，多数博士生依靠外部资助或受雇岗位。Finland Fellowship 仅限非洲、中美洲、南美洲国籍，中国大陆学生不符合。 |
 | [EXACTUS 图尔库大学自然科学博士项目（芬兰）](https://www.utu.fi/en/study-at-utu/doctoral-programme-in-exact-sciences-3-4-yrs)<br><sub>芬兰 ｜ 数学/统计·物理/天文·化学/材料·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-12-15**<br><sub>🔜 即将开放</sub><br><sub>2026 年 8/25–9/8 批次已关闭；页面列出下一批次为 12/1–12/15（2027-04-01 起入学），官网写截止时间 23:59（芬兰当地时间）。</sub> | ✅ | 可申请学籍、带薪 doctoral researcher 岗位或两者；2026 批次 8/25–9/8 已关闭，下一批次待官网确认. |
 | [Hanken 商学院博士资助方式说明（Financing doctoral studies）](https://www.hanken.fi/node/19317)<br><sub>芬兰 ｜ 商科/管理·经济/金融·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | Hanken 经济学院官方页：全日制博士生可通过雇员合同资助（页面称适用于 2027 年起全日制入学者：第 1 年 100% 合同 12 个月，第 2–4 年 50% 合同，其余需申请科研经费补足）、外部科研经费，或校内奖学金（名额有限）。页面未说明中国学生资格，保持 check。 |
 | [Tampere University 国际流行病学与公共卫生博士项目（IPPE）](https://www.tuni.fi/en/study-with-us/international-doctoral-programme-epidemiology-and-public-health-ippe)<br><sub>芬兰 ｜ 医学/公卫·社会科学/心理</sub> | 博士 | 不提供资助 | **2026-12-02**<br><sub>🔜 即将开放</sub><br><sub>2027 入学申请 11 月 2 日至 12 月 2 日；2027 年 8 月入学。免学费，但不提供个人或项目资助，需自备生活费。</sub> | ❔ | 面向国际申请者，第一年在坦佩雷修课。官网称项目不提供资助，学生需自行承担在芬兰约 10 个月的生活费。2027–2028 申请窗口 11 月 2 日至 12 月 2 日，2027 年 8 月入学。 |

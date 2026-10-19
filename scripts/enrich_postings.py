@@ -316,7 +316,8 @@ def cmd_fetch(args) -> int:
     def one(f: Fetcher, p: dict) -> None:
         rec = {k: v for k, v in (data.get(p["id"]) or {}).items() if k in FIELDS or k == "llm"}
         try:
-            body = page_body(f, p)
+            cached = cache_path(p["id"])
+            body = cached.read_text(encoding="utf-8") if cached.exists() else page_body(f, p)  # 上次中断前已读过的不再访问
         except Disallowed:
             rec.update(checked=today, error="robots.txt 不允许")
         except Exception as e:  # noqa: BLE001

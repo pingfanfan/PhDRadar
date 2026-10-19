@@ -74,9 +74,28 @@
     return eur >= 300 && eur <= 20000 ? eur : null;
   }
 
+  // 用来匹配关键词的标题与简介：去掉资助方 / 机构名；标题写了“focus on”时只用它后面的方向（简介里多半是系名，不用）
+  function matchTexts(x, P) {
+    let mtitle = (x.n || "").replace(P.noise, " ");
+    let mbody = (x.in || "").replace(P.noise, " ").replace(P.noise_body, " ");
+    const fm = P.focus.exec(mtitle);
+    if (fm) { mtitle = mtitle.slice(fm.index + fm[0].length); mbody = ""; }
+    return [mtitle, mbody];
+  }
+  const kwHitsText = (kw, text) => !!text && ((kw.lit && find(kw.lit[0], text) >= 0)
+    || kw.concepts.some(([, concept]) => concept.some(t => find(t[0], text) >= 0)));
+  // 关键词越常见，每次命中的分越低
+  function specificity(df, W) {
+    const [a, b, lo, hi] = W.spec;
+    const f = a - b * Math.log10(Math.max(df, 1));
+    return Math.floor(Math.min(hi, Math.max(lo, f)) * 100 + 0.5) / 100;
+  }
+
   function prepare(profile, R) {
     profile = profile || {};
-    const groups = R.groups.map(g => ({d: g.d, t: g.t, c: g.t.map(compileTerm)}));
+    const groups = R.groups.map(g => ({d: g.d, m: !!g.m, t: g.t.map(t => t.replace(/^=/, "")), syn: g.t.map(t => compileTerm(t.replace(/^=/, ""))),
+      all: g.t.concat(g.n).filter(t => t[0] !== "=").map(t => [compileTerm(t), t.replace(/\*+$/, "").toLowerCase()])}));
+    const stop = new RegExp(R.stop, "gi");
     const research = profile.research || {};
     const seen = {}, kws = [];
     (research.keywords || []).forEach(k => {
@@ -86,22 +105,22 @@
     const disc = (research.disciplines || []).filter(Boolean);
     const keywords = kws.map(k => {
       const spans = [];
-      groups.forEach((g, gi) => g.c.forEach(c => { const sp = span(c, k); if (sp) spans.push([sp[0], sp[1], gi]); }));
-      const kept = [];
+      groups.forEach((g, gi) => g.syn.forEach(c => { const sp = span(c, k); if (sp) spans.push([sp[0], sp[1], gi]); }));
+      // 只保留最长的命中：“神经网络”不应同时算作“神经”
+      const kept = [], cover = new Array(k.length).fill(false);
       spans.forEach(a => {
         if (spans.some(b => b[2] !== a[2] && b[0] <= a[0] && a[1] <= b[1] && (b[1] - b[0]) > (a[1] - a[0]))) return;
+        for (let i = a[0]; i < a[1]; i++) cover[i] = true;
         if (!has(kept, a[2])) kept.push(a[2]);
       });
+      const rest = Array.from(k).map((ch, i) => cover[i] ? " " : ch).join("").replace(stop, " ").trim();
       const own = !kept.some(gi => groups[gi].t.some(t => k.toLowerCase() === t.replace(/\*+$/, "").toLowerCase()));
-      let terms = own ? [[compileTerm(k), "k:" + k.toLowerCase()]] : [];
-      kept.forEach(gi => {
-        terms = terms.concat(groups[gi].c.map(c => [c, "g" + gi]));
-        if (groups[gi].d && !has(disc, groups[gi].d)) disc.push(groups[gi].d);
-      });
+      kept.forEach(gi => groups[gi].d.forEach(d => { if (!has(disc, d)) disc.push(d); }));
       if (!kept.length) Object.keys(R.disc_words).forEach(d => {
         if (new RegExp(R.disc_words[d], "i").test(k) && !has(disc, d)) disc.push(d);
       });
-      return {k, terms};
+      return {k, lit: own ? [compileTerm(k), k.toLowerCase()] : null, concepts: kept.map(gi => ["g" + gi, groups[gi].all]),
+        need_lit: !!rest || !kept.length, method: kept.length > 0 && kept.every(gi => groups[gi].m)};
     });
     const target = profile.target || {}, start = ymd(target.start);
     let deg = 0;
@@ -121,8 +140,10 @@
       min_cov: funding.min_coverage || "any", min_eur: funding.min_monthly_eur,
       prep: parseInt(prep == null ? 14 : prep, 10),
       cn: String(profile.nationality || "CN").toUpperCase() === "CN", cn_only: !!(profile.eligibility || {}).cn_only,
-      sensitive: !!profile.sensitive_field, R,
-      restrict: new RegExp(R.restrict, "i"), german_re: new RegExp(R.german),
+      sensitive: !!profile.sensitive_field, R, kwf: {},
+      restrict: new RegExp(R.restrict, "i"), german_re: new RegExp(R.german), local_re: new RegExp(R.local_lang, "i"),
+      noise: new RegExp(R.noise, "gi"), noise_body: new RegExp(R.noise_body, "g"), focus: new RegExp(R.focus, "i"),
+      local_ok: (langs.other || []).some(o => has(R.local_langs, String((o && typeof o === "object" ? o.lang : o) || "").trim().toLowerCase())),
     };
   }
 
@@ -133,9 +154,10 @@
     const dd = String(dl).length === 10 ? ymd(dl) : null;
     if (dd !== null && dd < today) return null;
     const nDays = dd !== null ? dd - today : null;
-    const title = x.n || "", body = [x.in, x.org].filter(Boolean).join(" "), rq = x.rq || "";
+    const title = x.n || "", body = x.in || "", rq = x.rq || "";  // 不用机构名：“National Institute of Education”不代表教育学
     const regions = x.r || [], levels = x.l && x.l.length ? x.l : ["phd"], xd = x.d || [];
     const c = x.c || "", e = x.e || "", out = [];
+    const [mtitle, mbody] = matchTexts(x, P);
     let m;
 
     if (P.cn && e === "no") out.push("中国学生不可申请");
@@ -150,6 +172,7 @@
     m = /TOEFL[^0-9；]{0,30}(\d{2,3})/.exec(rq);
     if (m && P.toefl !== null && P.ielts === null && +P.toefl < +m[1]) out.push(`托福要求 ${m[1]}（你 ${P.toefl}）`);
     if (P.german_re.test(title + " " + rq) && P.german < R.cefr.B2) out.push("要求德语");
+    if (P.local_re.test(title) && !P.local_ok) out.push("公告用挪威语 / 瑞典语 / 丹麦语 / 荷兰语发布");
     if (nDays !== null && nDays < P.prep) out.push(`截止太近（还有 ${nDays} 天，少于你设的准备期 ${P.prep} 天）`);
     const js = parseStart(rq);
     if (js !== null && P.start !== null && js < P.start - 31) out.push(`开始时间 ${isoMonth(js)} 早于你能入学的 ${isoMonth(P.start)}`);
@@ -164,26 +187,50 @@
       && !(has(regions, "EU") && P.accept.some(a => has(R.eu, a)))) out.push("不在你可接受的国家");
 
     const hits = [], credited = {};
-    [["标题", title, W.title], ["简介", body, W.body]].forEach(([where, text, w]) => {
+    const strict = xd.length > 0 && !has(xd, "all") && xd.some(d => has(P.disc, d));  // 学科明确对得上
+    const clash = P.disc.length > 0 && xd.length > 0 && !has(xd, "all") && !strict;  // 学科明确对不上
+    const near = P.disc.concat(...P.disc.map(d => R.siblings[d] || []));
+    const elsewhere = xd.some(d => d !== "all" && !has(near, d));  // 岗位还属于你方向以外的学科
+    [["标题", mtitle, W.title], ["简介", mbody, W.body]].forEach(([where, text, w]) => {
+      if (!text) return;
       P.keywords.forEach(kw => {
         if (hits.some(h => h[1] === kw.k)) return;
-        const t = kw.terms.find(t => find(t[0], text) >= 0), tag = t ? t[1] : null;
-        if (tag && !credited[tag]) { credited[tag] = 1; hits.push([w, kw.k, where]); }
+        // got：命中的记分标签（组号 + 实际命中的词），同一组或同一个词只记一次分
+        let got = kw.lit && find(kw.lit[0], text) >= 0 ? ["k:" + kw.lit[1], kw.lit[1]] : [];
+        let full = got.length > 0;
+        if (!full) {
+          let n = 0;
+          kw.concepts.forEach(([tag, concept]) => {
+            const t = concept.find(ct => find(ct[0], text) >= 0);
+            if (t) { got.push(tag, t[1]); n++; }
+          });
+          full = n > 0 && n === kw.concepts.length && !kw.need_lit;
+        }
+        if (!got.length || got.some(t => credited[t])) return;
+        // 学科对不上的命中多半是字面巧合；弱命中（只命中一部分、只在简介里、词表外的单个词）要求学科明确对得上
+        const weak = !full || where === "简介" || (!kw.concepts.length && kw.k.trim().indexOf(" ") < 0 && !CJK.test(kw.k));
+        if (clash || (weak && P.disc.length && !strict && !has(xd, "all"))) return;
+        got.forEach(t => { credited[t] = 1; });
+        const applied = kw.method && elsewhere && P.disc.length > 0;
+        const note = (full ? "" : "·部分") + (applied ? "·用于其他学科" : "");
+        hits.push([w * (full ? 1 : W.partial) * (applied ? W.applied : 1) * (kw.k in P.kwf ? P.kwf[kw.k] : 1), kw.k, where + note]);
       });
     });
+    hits.sort((a, b) => b[0] - a[0]);
     let kwScore = 0;
     hits.slice(0, 3).forEach((h, i) => { kwScore += W.kw[i] * h[0]; });
     kwScore = Math.min(W.kw_cap, kwScore);
     const overlap = xd.filter(d => d !== "all" && has(P.disc, d));
-    const dScore = overlap.length ? Math.min(W.disc_cap, W.disc * overlap.length) : (has(xd, "all") && hits.length ? W.all_disc : 0);
+    const dScore = overlap.length ? W.disc * overlap.length / xd.filter(d => d !== "all").length : (has(xd, "all") && hits.length ? W.all_disc : 0);
     const research = kwScore + dScore;
 
     const funding = c in W.funding ? W.funding[c] : W.funding[""];
+    const WD = W.deadline;
     let dscore;
-    if (dl === "rolling") dscore = 7;
-    else if (o.st === "upcoming") dscore = 6;
-    else if (nDays === null) dscore = 3;
-    else dscore = nDays < 21 ? 6 : nDays <= 75 ? 10 : nDays <= 150 ? 8 : 5;
+    if (dl === "rolling") dscore = WD.rolling;
+    else if (o.st === "upcoming") dscore = WD.upcoming;
+    else if (nDays === null) dscore = WD.unknown;
+    else dscore = nDays < 21 ? WD.close : nDays <= 75 ? WD.best : nDays <= 150 ? WD.far : WD.very_far;
     const region = P.prefer.length ? (regions.some(r => has(P.prefer, r)) ? W.region_prefer : W.region_other) : W.region_ok;
     const elig = P.cn ? (e in W.elig ? W.elig[e] : W.elig[""]) : W.elig[""];
     let penalty = 0;
@@ -197,7 +244,7 @@
       flags.push("⚠ 英国理工科敏感方向可能需要 ATAS 审查");
     }
     const total = research + funding + dscore + region + elig + penalty;
-    const score = research > 0 ? Math.max(0, Math.min(100, Math.floor(total + 0.5))) : 0;
+    const score = Math.max(0, Math.min(100, Math.floor(total + 0.5)));
 
     const names = overlap.map(d => DISC_ZH[d] || d);
     let r1;
@@ -215,12 +262,22 @@
     if (P.prefer.length && regions.some(r => has(P.prefer, r))) where += "（你的偏好）";
     const r3 = "时间与地区：" + [when, where].concat(flags).join(" · ");
     return {id: x.id, score, parts: {research, funding, deadline: dscore, region, elig, penalty},
-      hits: hits.map(h => h[1]), reasons: [r1, r2, r3], excluded: out, relevant: research > 0};
+      hits: hits.map(h => h[1]), reasons: [r1, r2, r3], excluded: out, relevant: hits.length > 0};
   }
 
   function rank(rows, profile, R, todayIso) {
     const P = prepare(profile, R), today = ymd(todayIso);
-    const ranked = [], excluded = [], byId = {};
+    // 先数每个关键词在现在可申请的机会里命中多少条，用来给常见词降权
+    const df = {};
+    P.keywords.forEach(kw => { df[kw.k] = 0; });
+    rows.forEach(x => {
+      const o = x.o, dl = (o || {}).dl || x.dl || "";
+      if (!o || (String(dl).length === 10 && ymd(dl) < today)) return;
+      const [t, b] = matchTexts(x, P);
+      P.keywords.forEach(kw => { if (kwHitsText(kw, t) || kwHitsText(kw, b)) df[kw.k]++; });
+    });
+    P.keywords.forEach(kw => { P.kwf[kw.k] = specificity(df[kw.k], R.weights); });
+    const ranked = [], related = [], excluded = [], byId = {};
     let unrelated = 0, considered = 0;
     rows.forEach(x => {
       byId[x.id] = x;
@@ -228,14 +285,16 @@
       if (!a) return;
       considered++;
       if (a.excluded.length) excluded.push(a);
-      else if (!a.relevant) unrelated++;
+      else if (!a.relevant) { if (a.parts.research > 0) related.push(a); else unrelated++; }
       else ranked.push(a);
     });
     const dlKey = a => { const x = byId[a.id], d = (x.o || {}).dl || x.dl || ""; return d.length === 10 ? d : "9999"; };
     const cmp = (p, q) => p < q ? -1 : p > q ? 1 : 0;
-    ranked.sort((a, b) => (b.score - a.score) || cmp(dlKey(a), dlKey(b)) || cmp(a.id, b.id));
+    const byScore = (a, b) => (b.score - a.score) || cmp(dlKey(a), dlKey(b)) || cmp(a.id, b.id);
+    ranked.sort(byScore);
+    related.sort(byScore);
     excluded.sort((a, b) => (b.parts.research - a.parts.research) || cmp(a.id, b.id));
-    return {ranked, excluded, unrelated, considered, disc: P.disc};
+    return {ranked, related, excluded, unrelated, considered, disc: P.disc};
   }
 
   const api = {prepare, assess, rank, monthlyEur, DISC_ZH};

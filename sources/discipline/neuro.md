@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 神经/认知 信源（108）
+# 神经/认知 信源（109）
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 6](neuro.md#aggregators) · [各国学术招聘门户与机构职位页 1](neuro.md#national-portals) · [高校旗舰奖学金与资助检索 8](neuro.md#university-schemes) · [结构化博士项目与研究机构 54](neuro.md#doctoral-programs) · [博士后奖学金与项目 17](neuro.md#postdoc-fellowships) · [企业与基金会 Fellowship 7](neuro.md#fellowships) · [学科专属信源 4](neuro.md#discipline) · [个人信源与社交渠道 6](neuro.md#people-channels) · [导师招生帖（社交平台个人发布） 3](neuro.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 2](neuro.md#faculty-aggregators)
+**按分类跳转：** [综合聚合平台 6](neuro.md#aggregators) · [各国学术招聘门户与机构职位页 1](neuro.md#national-portals) · [高校旗舰奖学金与资助检索 8](neuro.md#university-schemes) · [结构化博士项目与研究机构 55](neuro.md#doctoral-programs) · [博士后奖学金与项目 17](neuro.md#postdoc-fellowships) · [企业与基金会 Fellowship 7](neuro.md#fellowships) · [学科专属信源 4](neuro.md#discipline) · [个人信源与社交渠道 6](neuro.md#people-channels) · [导师招生帖（社交平台个人发布） 3](neuro.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 2](neuro.md#faculty-aggregators)
 
 <a id="aggregators"></a>
 
@@ -48,10 +48,11 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（54）
+## 结构化博士项目与研究机构（55）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [Baylor 医学院 GSBS 资助与费用](https://www.bcm.edu/sites/default/files/2026-09/fees-and-expenses-graduate-school-of-biomedical-sciences-2025-2026.pdf)<br><sub>美国 ｜ 生物/生命科学·医学/公卫·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ❔ | 页面称博士生获得有竞争力的津贴、全额学费减免和免费个人医疗保险；未说明国际生资格，仅提到国际生需缴年度签证费。 |
 | [Champalimaud 国际神经科学博士项目（里斯本）](https://fchampalimaud.org/education/research)<br><sub>葡萄牙 ｜ 神经/认知·人工智能·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2025–26 轮公开征集 2025-12-02 至 2026-02-04（已延长）；页面称 INDP 当前申请已关闭，2027 轮日期未公布。</sub> | ✅ | 页面称 INDP 当前申请已关闭；录取博士生获全额资助，每年续期，最长 5.5 年，资金来自机构或外部渠道。2027 轮的截止日期页面未写明。 |
 | [Charité 英文医学神经科学国际博士项目（Medical Neurosciences）](https://medical-neurosciences.charite.de/en/)<br><sub>德国 ｜ 医学/公卫·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>🔄 随时可申</sub><br><sub>官网列明 PhD 申请截止为每年 1 月 15 日、5 月 15 日、9 月 15 日；每年招收最多约 20 名国际学生</sub> | ❔ | 页面为两年制硕士（MSc）项目，同时接受 PhD 与 MD/PhD 申请（截止 1 月 15 日、5 月 15 日、9 月 15 日）；硕士项目每年最多招收约 20 名来自世界各地的学生。页面称 NeuroCure 为 MSc 与 PhD 学生提供奖学金，柏林 Einstein Center for Neurosciences 提供 PhD fellowship，但未列具体金额与国际生资格。 |
 | [CoBeNe 定期统一招生（pooled calls）](https://vds-cobene.univie.ac.at/how-to-apply/cobene-pooled-calls)<br><sub>奥地利 ｜ 神经/认知·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-10-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 9 月 1 日至 10 月 15 日开放，即将截止；细则以官网为准</sub> | ❔ | **要求：** 需硕士或同等学历（学位证明入学前可交）；未报读其他博士项目，未参加过 uni:docs 招生；需两位 CoBeNe PI 共同指导；需较高英语读写能力<br>CoBeNe 每半年一次的统一招生。官网 open-calls 页显示 2026 轮开放 2026-09-01 至 2026-10-15，提供 2 个为期 3 年的 pre-doc 岗位，由两位 CoBeNe PI 共同指导；详细条件以官网为准。 |

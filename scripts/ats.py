@@ -46,6 +46,9 @@ WORKDAY = [  # (学校, 站点地图, 国家)
     ("University of Southern California", "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/siteMap.xml", "US"),
     ("Penn State University", "https://psu.wd1.myworkdayjobs.com/PSU_Academic/siteMap.xml", "US"),
     ("University of Washington", "https://wd5.myworkdaysite.com/recruiting/uw/UWHires/siteMap.xml", "US"),
+    ("Murdoch University", "https://murdoch.wd3.myworkdayjobs.com/MurdochCareers/siteMap.xml", "AU"),
+    ("Australian Catholic University", "https://acu.wd108.myworkdayjobs.com/ACUCareers/siteMap.xml", "AU"),
+    ("Carleton University", "https://carleton.wd1.myworkdayjobs.com/CarletonCareers/siteMap.xml", "CA"),
 ]
 # SAP SuccessFactors 招聘站（Career Site Builder）：入口是站点根，岗位清单读 /sitemap.xml。
 SUCCESSFACTORS = [  # (学校, 站点, 国家)
@@ -53,6 +56,14 @@ SUCCESSFACTORS = [  # (学校, 站点, 国家)
     ("Ghent University", "https://jobs.ugent.be", "BE"),
     ("University of Helsinki", "https://jobs.helsinki.fi", "FI"),
     ("Delft University of Technology", "https://careers.tudelft.nl", "NL"),
+    ("University of Basel", "https://careers.unibas.ch", "CH"),
+    ("University of Vienna", "https://jobs.univie.ac.at", "AT"),
+    ("Freie Universität Berlin", "https://jobs.fu-berlin.de", "DE"),
+    ("University of Stuttgart", "https://careers.uni-stuttgart.de", "DE"),
+    ("Vrije Universiteit Brussel", "https://jobs.vub.be", "BE"),
+    ("UCLouvain", "https://jobs.uclouvain.be", "BE"),
+    ("National University of Singapore", "https://careers.nus.edu.sg", "SG"),
+    ("Singapore University of Technology and Design", "https://careers.sutd.edu.sg", "SG"),
 ]
 
 # Oracle Recruiting Cloud：候选人站点的公开接口（站点本身无 robots.txt）。
@@ -66,9 +77,19 @@ PAGEUP = [  # (学校, 列表页, 国家)
     ("La Trobe University", "https://jobs.latrobe.edu.au/en/listing/", "AU"),
 ]
 
+# 学校自建的招聘页：列表页上的岗位链接 + 岗位页（标题取 <h1>）。
+LISTS = [  # (学校, 列表页, 岗位链接正则：(路径, 编号), 链接前缀, 国家)
+    ("University of Copenhagen", "https://employment.ku.dk/all-vacancies/", r'href="(/all-vacancies/\?show=(\d+))"',
+     "https://employment.ku.dk", "DK"),
+]
+
 # 标题 / 链接里的博士、博后关键词（含芬兰语、荷兰语、法语、德语常见写法）
 SLUG = re.compile(r"ph\.?d|doctoral|doctorate|doctorand|promovend|post-?doc|postdoctoral|post-doctoral|research-?fellow|"
-                  r"research-?associate|väitöskirja|tohtori|doktorand|doctorant|studentship|scholarship", re.I)
+                  r"research-?associate|väitöskirja|tohtori|doktorand|doctorant|doctorat|studentship|scholarship|"
+                  r"pr(?:a|ä|ae)-?doc|pre-?doc|promotion|wissenschaftliche", re.I)
+# level_of 认不出的其他语言写法：奥地利的 prae doc（博士生职位）、德语 Doktorand / Promotion、法语 doctorant
+LEVEL_PHD = re.compile(r"pr(?:a|ä|ae|e)[\s-]?doc|doktorand|promotion|doctorant|doctorat|väitöskirjatutkija", re.I)
+LEVEL_POSTDOC = re.compile(r"postdoktorand|post[\s-]?doc", re.I)
 SENIOR = re.compile(r"\b(senior|principal|lead|chief)\b", re.I)  # 高级研究员不是博后
 # 除 _FUNDED 外，大学雇佣合同常见的薪资写法
 PAY = _FUNDED + [r"\bremuneration\b", r"\bpay\s+(scale|grade|range|band|level)\b", r"\bsalary\s+(scale|range|band|grade)\b",
@@ -80,16 +101,23 @@ AMOUNT = re.compile(r"(?:salary|stipend|remuneration|pay)[^.]{0,100}?(?:[€$£]
 
 # find_deadline 之外，大学招聘页常见的截止写法（如 DTU “must be submitted no later than 4 November 2026”）
 EXTRA_KW = (r"(?:(?:submitted|received|apply|applications?)\s+(?:\w+\s+){0,3}?(?:no later than|by|before|on or before|until)|"
-            r"(?:accepted|considered)\s+until|due date|last (?:application|closing) date|application period ends|"
+            r"(?:accepted|considered)\s+until|due date|bewerbungsende|last (?:application|closing) date|application period ends|"
             r"ansøgningsfrist|sista ansökningsdag|søknadsfrist|hakuaika päättyy|viimeinen hakupäivä)")
 GAP = r"([^.\d]{0,60}?)"  # 关键词与日期之间的文字；含 start / begin 的是开始日期，不是截止
 NOT_DEADLINE = re.compile(r"start|begin|commenc|from\b", re.I)
 DATE_OF = r"(\d{1,2}(?:st|nd|rd|th)?\s+of\s+[A-Za-z]{3,9},?\s+\d{4})"  # “25th of October 2026”
-NUM_DATE = r"(\d{1,2})[/-](\d{1,2})[/-](\d{4})"  # “30/10/2026”“30-10-2026”：按 日/月/年 读，美国、加拿大的写法有歧义
+NUM_DATE = r"(\d{1,2})[/-](\d{1,2})[/-](\d{4})"  # “30/10/2026”“11/30/2026”：日月顺序看同页其他日期，判断不了就不收
+
+
+def num_order(text: str) -> str:
+    """页面上数字日期的顺序：有一处首位 > 12 → 'MDY'（如 SuccessFactors 英文界面 “12/15/2026”），次位 > 12 → 'DMY'；矛盾或看不出 → ''。"""
+    orders = {"DMY" if int(a) > 12 else "MDY" for a, b in re.findall(r"\b(\d{1,2})[/-](\d{1,2})[/-]\d{4}\b", text)
+              if int(a) > 12 or int(b) > 12} - {""}
+    return orders.pop() if len(orders) == 1 else ""
 DAY_MONTH = r"(\d{1,2})(?:st|nd|rd|th)?\s+(?:of\s+)?([A-Za-z]{3,9})\b(?!,?\s+\d{4})"  # 没写年份的 “1 November”
 
 
-def deadline(text: str, end_date: str = "", country: str = "") -> tuple[str | None, str]:
+def deadline(text: str, end_date: str = "") -> tuple[str | None, str]:
     """截止日期 + 原句（正文里最先出现的那处）。end_date 是招聘系统里的结构化下架日期：原句只写日月时，与它相差 3 天内才借用它的年份。"""
     kw = rf"(?:{cp.DEADLINE_KW}|{EXTRA_KW})"
     found: list[tuple[int, str, str]] = []
@@ -99,9 +127,12 @@ def deadline(text: str, end_date: str = "", country: str = "") -> tuple[str | No
         iso, _ = cp.find_deadline("deadline " + (m.group(2) or m.group(3).replace(" of ", " ").replace(",", "")))
         if iso:
             found.append((m.start(), iso, m.group(0).strip()))
+    order = num_order(text)
     for m in re.finditer(kw + GAP + NUM_DATE, text, re.I):
         d, mo, y = (int(x) for x in m.groups()[-3:])
-        if NOT_DEADLINE.search(m.group(1)) or mo > 12 or (d <= 12 and country in ("US", "CA")):  # 日月可互换且该国常用 月/日/年
+        if order == "MDY":
+            d, mo = mo, d
+        if NOT_DEADLINE.search(m.group(1)) or not order or mo > 12 or d > 31:
             continue
         found.append((m.start(), f"{y}-{mo:02d}-{d:02d}", m.group(0).strip()))
     if found:
@@ -129,20 +160,23 @@ def deadline(text: str, end_date: str = "", country: str = "") -> tuple[str | No
 
 
 _SEEN: dict[tuple, str] = {}
+REF = re.compile(r"\b(?:Job ID|Stellen ID|Reference(?: number)?|Referenz|Anf\.-Kennung|Kennziffer)\s*:?\s*([A-Z]{0,4}-?\d{3,})")
 
 
 def row(adapter: str, jid: str, url: str, title: str, org: str, country: str, place: str, text: str, via: str,
         today: str, end_date: str = "") -> tuple[dict | None, str]:
     """通用收录判断：博士 / 博后 + 截止原句 + 写明资助。text 是岗位正文（纯文本）。"""
     title = re.sub(r"\s+", " ", title).strip()
-    level = None if SENIOR.search(title) else cp.level_of(title)
+    level = None if SENIOR.search(title) else cp.level_of(title) or \
+        (None if cp.NOT_TARGET.search(title) else "postdoc" if LEVEL_POSTDOC.search(title) else
+         "phd" if LEVEL_PHD.search(title) else None)
     # 只写 Research Associate / Research Fellow 的标题，正文要求博士学位才算博后（否则多是研究助理类职位）
     if level == "postdoc" and not re.search(r"post[\s-]?doc", title, re.I) and \
             not re.search(r"\bph\.?\s?d\b|doctoral degree|doctorate", text, re.I):
         level = None
     if not level:
         return None, "非博士/博后岗位"
-    day, quote = deadline(text, end_date, country)
+    day, quote = deadline(text, end_date)
     if not day:
         return None, "页面无截止日期"
     if day < today:
@@ -151,10 +185,12 @@ def row(adapter: str, jid: str, url: str, title: str, org: str, country: str, pl
         return None, "自费或竞争性资助"
     if not _any(PAY, text):
         return None, "未写资助"
-    key = (adapter, org, title.lower(), day)
-    if key in _SEEN and _SEEN[key] != jid:  # 同一岗位的另一语言版本（如赫尔辛基大学的芬兰语 / 英语页）
+    # 同一岗位的另一语言版本（如赫尔辛基大学的芬兰语 / 英语页）：标题相同，或站内编号相同（维也纳大学德 / 英文标题不同）
+    ref = REF.search(text)
+    keys = [(adapter, org, title.lower(), day)] + ([(adapter, org, ref.group(1), day)] if ref else [])
+    if any(_SEEN.get(k, jid) != jid for k in keys):
         return None, "重复（另一语言版本）"
-    _SEEN[key] = jid
+    _SEEN.update({k: jid for k in keys})
     amount = AMOUNT.search(text)
     return {
         "id": f"{adapter}:{jid}", "title": title[:200], "url": url, "org": org, "country": country,
@@ -230,7 +266,7 @@ def sf_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
         except Exception as e:  # noqa: BLE001
             print(f"[successfactors] {school} 站点地图失败：{type(e).__name__}")
             continue
-        host = base.split("//")[1].split(".")[-2]
+        host = base.split("//")[1].split(".")[1]  # careers.unibas.ch → unibas
         for url, slug, num in SF_LOC.findall(xml):
             if SLUG.search(slug):
                 jid = f"{host}-{num}"
@@ -247,12 +283,21 @@ def _itemprop(raw: str, name: str) -> str:
     return m.group(2)
 
 
+SF_END = re.compile(r"Find similar jobs|Ähnliche Stellen|Similar jobs|Trouver des offres similaires|Vergelijkbare vacatures", re.I)
+
+
 def sf_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
     school, country = _SF_SCHOOL.get(jid, ("", ""))
     title = cp.page_text(_itemprop(raw, "title"))
-    d = raw.find('itemprop="description"')
-    d = raw.find(">", d) + 1 if d >= 0 else -1
-    text = cp.page_text(raw[d:d + 120000]) if d > 0 else cp.page_text(raw)
+    if not title:  # 有的站点标题由脚本填入，<title> 里是 “岗位名 Job Details | 学校”
+        m = re.search(r"<title>\s*(.*?)\s+(?:Job Details|Stellendetails|Détails de l'offre)", raw, re.S)
+        title = cp.page_text(m.group(1)) if m else ""
+    # 正文 + 自定义字段（截止日期常在描述之外，如 FU Berlin “Bewerbungsende: 09.11.2026”）；到“相似岗位”为止
+    text = cp.page_text(raw)
+    i = text.find(title) if title else -1
+    text = text[i if i >= 0 else 0:]
+    end = SF_END.search(text)
+    text = text[:end.start()] if end else text
     place = cp.page_text(_itemprop(raw, "addressLocality") or _itemprop(raw, "streetAddress"))
     return row("successfactors", jid, url, title, school, country, place, text, "SuccessFactors", today)
 
@@ -338,8 +383,37 @@ def pu_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, st
     return row("pageup", jid, url, title, school, country, "", text, "PageUp", today)
 
 
+# ───────────────────────── 学校自建招聘页（列表页 + 岗位页） ─────────────────────────
+
+_LS: dict[str, tuple[str, str]] = {}
+
+
+def ls_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+    out: dict[str, str] = {}
+    for school, listing, link_re, prefix, country in LISTS:
+        try:
+            raw = f.get(listing).text
+        except Exception as e:  # noqa: BLE001
+            print(f"[university] {school} 列表失败：{type(e).__name__}")
+            continue
+        for a in re.finditer(r"<a\b[^>]*>.*?</a>", raw, re.S):  # 只读链接文字像博士 / 博后岗位的
+            m = re.search(link_re, a.group(0))
+            if m and SLUG.search(cp.page_text(a.group(0))):
+                jid = f"{prefix.split('//')[1].split('.')[1]}-{m.group(2)}"
+                out.setdefault(jid, prefix + htmllib.unescape(m.group(1)))
+                _LS[jid] = (school, country)
+    return list(out.items())
+
+
+def ls_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
+    school, country = _LS.get(jid, ("", ""))
+    h1 = re.search(r"<h1[^>]*>(.*?)</h1>", raw, re.S)
+    return row("university", jid, url, cp.page_text(h1.group(1)) if h1 else "", school, country, "", cp.page_text(raw),
+               school, today)
+
+
 ADAPTERS = {"workday": (wd_urls, wd_detail), "successfactors": (sf_urls, sf_detail), "oracle": (orc_urls, orc_detail),
-            "pageup": (pu_urls, pu_detail)}
-VIA_RANK = {"Workday": 3, "SuccessFactors": 3, "Oracle Recruiting": 3, "PageUp": 3}
+            "pageup": (pu_urls, pu_detail), "university": (ls_urls, ls_detail)}
+VIA_RANK = {"Workday": 3, "SuccessFactors": 3, "Oracle Recruiting": 3, "PageUp": 3, **{s[0]: 3 for s in LISTS}}
 
 import collect_postings as cp  # noqa: E402 放在末尾：collect_postings 末尾经 platforms_ats.py 导入本模块时，要先看到 ADAPTERS

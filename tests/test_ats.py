@@ -24,8 +24,10 @@ def test_deadline_phrasings():
     assert ats.deadline("Applications Close Sunday 25 October 2026")[0] == "2026-10-25"
     # 开始日期不是截止日期
     assert ats.deadline("Deadline for the application for position starting on 1st January 2027") == (None, "")
-    # 美国的 10/11/2026 日月有歧义，不猜
-    assert ats.deadline("Apply by 10/11/2026", country="US") == (None, "")
+    # 数字日期的日月顺序看同页其他日期：看不出就不收
+    assert ats.deadline("Apply by 10/11/2026") == (None, "")
+    assert ats.deadline("Job vacancy starting: 12/15/2026 | Application deadline: 02/01/2027")[0] == "2027-02-01"
+    assert ats.deadline("Contract start 1/11/2026. Apply until 27/10/2026")[0] == "2026-10-27"
     # 只写日月：与系统里的下架日期相差 3 天内才借用其年份
     assert ats.deadline("Applications close: 1 November, 11:55 PM", end_date="2026-11-02") == \
         ("2026-11-01", "Applications close: 1 November")

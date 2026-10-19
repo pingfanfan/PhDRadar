@@ -2,6 +2,12 @@
 
 本仓库是面向中国学生的「海外带奖 PhD / 博士后信源库」，后续将扩展为类似 ai-job-search 的 AI 辅助申请工作流。
 
+## 产品形态（2026-10-19 起）
+
+**公开站 PhDRadar（https://github.com/pingfanfan/PhDRadar ，网站 https://pingfanfan.github.io/PhDRadar/ ）是主产品**，所有最新进展都要反映到它上面。
+本仓库只当后台：所有会话在这里工作，每小时由“PhDRadar 每小时同步”任务用 `scripts/make_public.py` 同步过去（只公开页面核对过的信源 `verify_method: page`、现在可申请清单与在招岗位；未核实条目、导师线索、收件箱不公开）。
+本仓库自己的阅读页面、数据中台不再维护。
+
 ## 首要目标
 
 **质量优先于数量**（仓库主人 2026-10-13 明确要求，优先级高于一切扩量任务）：宁可少收，也不收不确定的。
@@ -57,8 +63,8 @@ python scripts/probe_sources.py          # 真实核查信源 + 试跑抓取器�
   核实子代理按 `research/verify-prompt.md` 给出 keep/update/delete 与证据，`scripts/apply_verification.py` 写回数据。
 - **全量核实冲刺**：8 个专职核实员会话（`/verify-sources k 8 截止日期`，每小时一轮、每轮 4 个 Haiku 子代理共 80 条）按序号分片核实全部信源，分片清空后自动停用。
 - 研究员与核实员会话每天轮换重开（`research/workers.yml` 记录当前会话与定时任务）。
-- **每日岗位更新**（北京时间）：09:23 公开仓库 PhDRadar 的 `postings` 工作流采集 FindAPhD（它只对 GitHub Actions 开放）；11:17 本地任务依次运行
-  `collect_postings.py`（其余平台）→ `import_postings.py`（并回 FindAPhD）→ `discover.py`（在招导师线索）→ 为新岗位写简介（`research/intro-prompt.md` + `apply_intros.py`）→
+- **每日岗位更新**（北京时间）：09:23 公开仓库 PhDRadar 的 `postings` 工作流用 `-s actions` 采集只对 GitHub Actions 开放的平台（`collect_postings.ACTIONS`，目前是 FindAPhD）；11:17 本地任务依次运行
+  `collect_postings.py`（本地默认清单；新平台的适配器写在 `scripts/platforms_*.py`，自动注册）→ `import_postings.py`（一次并回 `ACTIONS` 里的全部平台）→ `discover.py`（在招导师线索）→ 为新岗位写简介（`research/intro-prompt.md` + `apply_intros.py`）→
   新岗位的申请须知字段（`enrich_postings.py fetch` → `bundle --dir D` → 每批派一个 Sonnet 子代理按 `research/enrich-prompt.md` 写 `D/out-*.yml` → `apply --dir D`，结果在 `_data/posting_fields.yml`）→
   `access_report.py`（平台接入状态与核对过信源能否打开，写 `docs/access.md`）→ `build_site.py` → 提交 → `make_public.py` 同步公开站。
 - `/review-discoveries`：人工/Claude 审核自动发现的在招导师与候选信源。

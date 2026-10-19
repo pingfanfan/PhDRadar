@@ -1,0 +1,222 @@
+# /rank 评测的人工标注（产品 C 会话 2026-10-19 逐条判断）：1 = 按这个画像，这条值得出现在前 10；0 = 不该推荐。
+# 判断标准见 docs/rank-eval.md。按机会 id 记录，数据更新后只需补标新出现的条目。
+p01-rl:
+  naturecareers:12864918: 1   # 面向机器人的基础模型
+  eth-srl-soft-robotics-open-positions: 1
+  findaphd:199507: 1   # 人机交互（机器人）
+  inria:2026-10416: 0  # 软自动机验证，形式化方法为主
+  epfl-lions-positions: 1   # 学习与优化理论（含强化学习）
+  findaphd:199629: 0   # 药物发现自动化平台，机器人只是工具
+  findaphd:200032: 0   # 暗物质探测数据分析，需要物理背景
+  findaphd:190632: 0   # 材料原位表征的 ML，领域知识为主
+  findaphd:199141: 0   # CFD + 流动化学
+  findaphd:199437: 1   # 水下机器人地点识别与变化检测
+  findaphd:199802: 0   # 量子多体的科学机器学习，需要物理背景
+  mpi-inf-cv-direct-application: 1
+  cmu-ml-phd-program: 1
+  findaphd:199473: 1   # 机器人增材制造与远程修复（机器人方向）
+  cambridge-mlg-advanced-ml-phd: 1
+p03-medimg:
+  findaphd:199522: 0   # 鱼类视频的深度学习，领域不对
+  findaphd:199381: 1   # 光学相干断层成像定量分析药物反应（成像分析）
+  academictransfer:363906: 1
+p04-cogneuro:
+  findaphd:199867: 1
+  jobs-ac-uk:DSP806: 0 # 公共卫生决策，不是认知神经科学
+p05-ecology:
+  varbi:972418: 0      # 气溶胶-云物理
+  varbi:972886: 0      # 气候模式的 ML
+  academictransfer:364694: 1
+  academictransfer:364728: 1
+  varbi:980849: 0      # 复合气候极端的统计动力学（气象）
+  academictransfer:364516: 1
+  academictransfer:363880: 0 # 基础设施“生态系统”是比喻
+p06-battery:
+  jobs-ac-uk:DTF339: 1
+  jobs-ac-uk:DTH265: 1
+  jobs-ac-uk:DTH797: 1
+  findaphd:192526: 1
+  findaphd:199453: 1
+  findaphd:200158: 1
+  findaphd:200193: 1
+  findaphd:199844: 0   # 细菌呼吸（微生物方向）
+  academictransfer:364795: 1
+  varbi:979451: 1
+p07-quantum:
+  varbi:973731: 1      # 量子传感理论
+  academictransfer:364651: 0 # 磷化铟光子集成电路外延，材料工程
+  findaphd:198703: 1
+  findaphd:198709: 1
+  findaphd:198710: 1
+  academictransfer:364748: 1
+  jobs-ac-uk:DTC201: 1
+  findaphd:200109: 0   # 光子封装工程
+  findaphd:200163: 0   # 集成光子平台工程
+  findaphd:199789: 1   # 金刚石色心量子技术
+  hamburg-quantum-universe-jobs: 0 # 粒子物理 / 宇宙学集群
+  findaphd:199802: 1   # 量子多体（量子物理理论）
+p08-astro-postdoc:
+  inspire:3214634: 1
+  inspire:3214821: 1
+  ajo:32772: 1
+  inspire:3205036: 1
+  jobs-ac-uk:DTC350: 1
+  inspire:3208407: 1
+  ajo:33123: 1
+  inspire:3204682: 1
+  stsci-brinson-prize-fellowship: 1
+  inspire:3205033: 1
+p09-econ:
+  su-economics-phd-employed: 1
+  cbs-economics-doctoral-fellowships-mpi: 1
+  jobs-ac-uk:DTH145: 1
+  smu-dedman-econ-phd-funding: 1
+  jobs-ac-uk:DTB803: 1
+  findaphd:198677: 1   # 健康经济学
+  ed-economics-phd-fees-funding: 1
+  findaphd:199218: 0   # 化工的“技术经济”分析
+  aarhus-econ-vacancies: 1
+  jobs-ac-uk:DTD355: 1
+  erasmus-ese-phd: 1
+  bse-upf-economics-phd-track: 1
+p10-epi:
+  jobs-ac-uk:DSP806: 1
+  findaphd:199886: 1
+  findaphd:199921: 0   # 植物病害流行学
+p11-civil:
+  jobs-ac-uk:DTB804: 1
+p12-plant:
+  findaphd:199742: 1
+  findaphd:198470: 1
+  findaphd:199833: 1
+  findaphd:199838: 1
+  findaphd:199857: 1
+  findaphd:199881: 1
+  findaphd:199895: 1
+  findaphd:199914: 1
+  findaphd:200050: 1
+  findaphd:199517: 1
+  findaphd:199715: 1
+p14-education:
+  findaphd:200034: 1
+  jobs-ac-uk:DTH004: 1
+  uk-shu-sheffield-institute-of-education-phd: 1
+  aei-fpu-2026-predoctoral-contract: 1
+  oslomet-lui-educational-sciences-phd: 1
+p15-ocean:
+  findaphd:199519: 0   # 海洋食物网生态，不是物理海洋
+  inria:2026-10436: 1
+  academictransfer:364124: 1
+  varbi:972418: 0
+  varbi:972886: 0
+  varbi:972996: 0
+  varbi:974201: 0
+  inria:2026-10352: 1
+p16-cancer:
+  findaphd:200113: 0   # 蜕膜 NK 细胞（生殖免疫）
+  findaphd:199772: 0   # 肠道微生物与免疫，不是肿瘤
+  findaphd:199488: 1
+  findaphd:198212: 1
+  findaphd:198214: 1
+  findaphd:198200: 1
+  findaphd:198748: 1
+  findaphd:198746: 1
+  findaphd:199831: 1
+  findaphd:199266: 0   # 牛的眼部免疫
+  findaphd:199539: 1
+  findaphd:199758: 0   # 真菌免疫逃逸
+p17-robotics:
+  findaphd:199629: 0
+  findaphd:199606: 1
+  jobs-ac-uk:DTF871: 1
+  findaphd:199507: 1
+  ethz-robotx-phd-fellowship-2027: 1
+  findaphd:199437: 1
+  naturecareers:12864918: 1
+  findaphd:199473: 1
+  eth-srl-soft-robotics-open-positions: 1
+  academictransfer:363887: 1
+p18-supplychain:
+  academictransfer:364630: 1
+p19-hydro-postdoc:
+  jobs-ac-uk:DTG228: 1
+  naturecareers:12865368: 1
+  jobs-ac-uk:DTG845: 0 # 气候宏观计量经济学
+  academictransfer:364498: 1
+p20-semiconductor:
+  findaphd:198709: 1
+  findaphd:200109: 1
+  academictransfer:364651: 1
+  findaphd:199793: 0   # 钙钛矿超快光谱（化学物理）
+  findaphd:200181: 1
+  academictransfer:363551: 1
+  academictransfer:362809: 1
+# —— 留出画像（第一组）：只标注一次。h01 没有推荐结果 ——
+h02-biostat:
+  warwick-stats-cdt-funding: 1
+  jobs-ac-uk:DTE714: 1
+  varbi:965375: 1
+  findaphd:199633: 1   # 计算遗传学 + 高级统计分析
+  jobs-ac-uk:DSZ158: 0 # 量子统计（计算机科学）
+  jane-street-grf: 0   # 给在读博士生的奖学金，不是博士岗位
+  daad:10367: 0        # 统计物理
+  varbi:980849: 0      # 气象
+  the-unijobs:416463: 1
+  epfl-idephics-open-positions: 0 # 统计物理 × ML
+h03-neuro:
+  findaphd:199788: 1
+  findaphd:199815: 1
+  findaphd:199867: 1
+  findaphd:198883: 1
+  jobs-ac-uk:DTB928: 1
+  findaphd:199487: 0   # GPCR 药物发现
+  findaphd:199875: 1
+  findaphd:198674: 1
+  findaphd:198705: 0   # 神经母细胞瘤纳米颗粒
+  academictransfer:364471: 1
+h04-urban:
+  uts-urban-planning-phd: 1
+  findaphd:199814: 0   # 反铁磁体电子输运
+  academictransfer:364660: 1
+  academictransfer:364630: 1
+  xjtlu-xjtu-uol-joint-doctorate: 0
+h05-polymer:
+  jobs-ac-uk:DTG803: 1
+  findaphd:199714: 1
+  findaphd:199877: 0   # RNA 聚合酶
+  findaphd:198678: 0   # RNA 聚合酶
+  findaphd:199892: 1
+# —— 留出画像（第二组）：只标注一次 ——
+h06-bioinfo:
+  findaphd:199396: 1
+  findaphd:199732: 0   # 染色体短臂与基因组不稳定（湿实验为主）
+  findaphd:199401: 0   # 合子基因组激活的三维调控（湿实验为主）
+  findaphd:199111: 1   # 古基因组学
+  findaphd:199902: 1   # 进化基因组学
+  findaphd:198674: 0   # 神经元基因组编辑
+  jobs-ac-uk:DTG073: 1 # 宏基因组
+  varbi:970261: 1
+  varbi:971439: 1
+  findaphd:198677: 0   # 健康经济学
+h07-pv:
+  findaphd:199453: 1
+  findaphd:198182: 1
+  findaphd:199711: 1
+  findaphd:199793: 1   # 钙钛矿半导体光谱（对钙钛矿方向对口）
+h08-psych:
+  varbi:959326: 1
+  varbi:969959: 1
+  varbi:972169: 1
+h09-fluids:
+  findaphd:199657: 1
+h10-history:
+  jobs-ac-uk:DTG674: 1
+  gerda-henkel-promotionsfoerderung: 1
+  basel-bgsh-starter-scholarships-2027: 1
+  findaphd:199396: 0   # “tissue history”是生物学
+  findaphd:199525: 0   # 历史上的熊蜂觅食网络（生态）
+  hkbu-history-rpg: 1
+  jobs-ac-uk:DTD355: 1
+  naturecareers:12865085: 1
+  naturecareers:12865087: 1
+  naturecareers:12865092: 1

@@ -2237,6 +2237,26 @@ sources:
   deadline: 2025-10-15
   verify_method: page
   page_evidence: PRIDE is the FNR’s main programme for funding doctoral research in Luxembourg.
+- id: ahrc-dla-allocations
+  name: AHRC Doctoral Landscape Award 分配名单
+  url: https://www.ukri.org/publications/ahrc-doctoral-landscape-award-allocations/
+  category: national-portals
+  regions:
+  - UK
+  disciplines:
+  - humanities
+  funding: info
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  notes: AHRC 向 50 所高校分配人文艺术博士名额（每校 5 年约 15 个，首批 2026 年 10 月入学）。需先查名单，再到各校研究生院申请；国际生资格未在 UKRI 页面找到官方说明，需逐校确认。
+  verified: 2026-10-19
+  coverage: varies
+  status: ongoing
+  requirements: 需先在 50 所获分配高校中找到具体名额，再到各校研究生院申请；国际生资格在 UKRI 页面未见说明，需逐校确认。
+  verify_method: page
+  page_evidence: AHRC has made awards to 50 UK higher education institutions, providing funding for 15 studentships (three studentships per year for five years).
 - id: uzh-doctoral-programs
   name: 苏黎世大学博士项目总览
   url: https://www.grc.uzh.ch/en/counseling/orientation-phd/doctoralprograms.html

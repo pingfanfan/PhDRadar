@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 化学/材料 信源（214）
+# 化学/材料 信源（221）
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 7](chem.md#aggregators) · [各国学术招聘门户与机构职位页 2](chem.md#national-portals) · [政府与国家级奖学金 1](chem.md#gov-scholarships) · [高校旗舰奖学金与资助检索 36](chem.md#university-schemes) · [结构化博士项目与研究机构 107](chem.md#doctoral-programs) · [博士后奖学金与项目 25](chem.md#postdoc-fellowships) · [企业与基金会 Fellowship 7](chem.md#fellowships) · [学科专属信源 6](chem.md#discipline) · [个人信源与社交渠道 15](chem.md#people-channels) · [导师招生帖（社交平台个人发布） 8](chem.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 7](chem.md#aggregators) · [各国学术招聘门户与机构职位页 2](chem.md#national-portals) · [政府与国家级奖学金 2](chem.md#gov-scholarships) · [高校旗舰奖学金与资助检索 39](chem.md#university-schemes) · [结构化博士项目与研究机构 107](chem.md#doctoral-programs) · [博士后奖学金与项目 25](chem.md#postdoc-fellowships) · [企业与基金会 Fellowship 10](chem.md#fellowships) · [学科专属信源 6](chem.md#discipline) · [个人信源与社交渠道 15](chem.md#people-channels) · [导师招生帖（社交平台个人发布） 8](chem.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
@@ -35,20 +35,22 @@
 
 <a id="gov-scholarships"></a>
 
-## 政府与国家级奖学金（1）
+## 政府与国家级奖学金（2）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [Alberta Innovates 研究生奖学金（AI-GSS）](https://albertainnovates.ca/wp-content/uploads/2023/05/AI-GSS-PROGRAM-GUIDE_2025-2026-Oct-23-2024-FINAL.pdf)<br><sub>加拿大 ｜ 计算机·工程·化学/材料·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | — | ✅ | **要求：** 需在阿尔伯塔省大学攻读全日制研究型硕博；GPA 至少 3.5；需导师担保；研究须属于指定新兴技术领域；不可同时持有其他 Alberta Innovates 资助<br>指南（2025/26 版）称国际生可申请，大学页面称无国籍限制；具体条款以当年 Program Guidelines 为准。津贴金额未确认，请勿沿用旧版金额。申请通过所在大学提交。 |
 | [京都大学理学研究科 MEXT 奖学金申请说明](https://www.sci.kyoto-u.ac.jp/en/admissions/mext)<br><sub>日本 ｜ 物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>以当年 MEXT 指南为准（学费全免加月额补助）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>使馆推荐需约 1–1.5 年前开始准备；使馆初筛通常夏季，以当年指南为准（2027 批次窗口已过）</sub> | ❔ | **要求：** 需先联系目标导师取得预录取（provisional acceptance）；可经驻外使领馆推荐或大学推荐申请<br>京都大学理学研究科 MEXT 奖学金入学说明，覆盖学费与月生活费。理学研究科多经使馆推荐录取，需先联系导师；2027 批次窗口已过，下一轮以使馆通知与校方页面为准。 |
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（36）
+## 高校旗舰奖学金与资助检索（39）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Alberta Innovates 博士后招募奖学金（Recruitment Fellowships）](https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/alberta-innovates-recruitment-fellowships.html)<br><sub>加拿大 ｜ 生态/进化·工程·生物/生命科学·计算机·化学/材料·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>CAD 70,000/年（最长 2 年，不含福利）</sub> | **2026-09-02**<br><sub>⏸ 本轮已截止</sub><br><sub>第一批（1st intake）申请截止 2026-09-02，已过；后续批次日期见大学 Deadlines and Timelines 页面</sub> | ✅ | **要求：** 需已获博士学位；须为校外新入职候选人；研究须为健康相关并在阿尔伯塔大学开展<br>阿尔伯塔大学博士后招募奖学金，年额 CAD 70,000，最长两年，不含福利；须为校外新入职候选人，研究须为健康相关并在阿尔伯塔大学开展。页面称无国籍限制。 |
 | [AMOLF 博士职位（阿姆斯特丹原子与分子物理研究所，NWO 研究所）](https://amolf.nl/jobs-amolf-phd)<br><sub>荷兰 ｜ 物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ✅ | NWO 研究所 AMOLF 的有薪博士岗位（约 4 年）；招聘页列出在招岗位，具体截止与学历要求以各岗位页面为准。 |
+| [Bilkent 大学工程与科学研究生院资助说明（博士）](https://mfbe.bilkent.edu.tr/?page_id=35)<br><sub>土耳其 ｜ 工程·计算机·物理/天文·化学/材料·生物/生命科学·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 未公布<br><sub>📋 持续更新</sub><br><sub>下一轮日期未见，请到官网确认</sub> | ❔ | **要求：** 页面称几乎所有研究生可获学费减免和津贴；国际生材料要求以官网为准<br>官方页称几乎所有研究生有学费减免和津贴。具体金额以官网为准。 |
 | [CRUK 曼彻斯特研究所 PhD 资助（BMH 全额资助项目）](https://bmh.manchester.ac.uk/study/research/funded-programmes/cruk-phd-studentships)<br><sub>英国 ｜ 生物/生命科学·医学/公卫·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£22,894/年（免税生活津贴）</sub> | **2026-11-06**<br><sub>🟢 开放申请</sub><br><sub>2027/28 入学：申请截止 2026 年 11 月 6 日 17:00（GMT），面试定于 2027 年 1 月 11 日</sub> | ✅ | CRUK 曼彻斯特研究所四年制博士资助，全额覆盖学费与项目经费，免税生活津贴每年 £22,894。页面称欢迎英国、欧盟及国际学生申请。 |
 | [EnerHy 绿氢与风能博士培训中心（CDT）](https://enerhy-cdt.ac.uk)<br><sub>英国 ｜ 工程·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>最低年生活补助 £19,237（4 年制，据搜索摘要）</sub> | 未公布<br><sub>📋 持续更新</sub><br><sub>见 notes，各岗位/轮次截止以官网为准。</sub> | ❔ | **要求：** 国际生资格因项目而异；部分项目仅限英国学费资格，需确认学费差额由谁承担<br>EnerHy 为 EPSRC 资助的绿氢与风能博士培训中心，Loughborough、Cranfield、Strathclyde 联合运营。部分项目仅限英国学费身份（最低年生活补助 £19,237），国际生需逐项目核实。 |
 | [Imperial College London 化学工程系 PhD 奖学金](https://www.imperial.ac.uk/chemical-engineering/courses/postgraduate/phd/scholarships/)<br><sub>英国 ｜ 工程·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>约 £23,800–27,000/年（页面称含学费及免税生活费补助，为期 42 个月）</sub> | **2026-11-01**<br><sub>📋 持续更新</sub><br><sub>2027 年 10 月入学；页面列出首轮 2026-11-01、第二轮 2027-01-11、第三轮 2027-03-01（视奖学金名额）</sub> | ✅ | **要求：** 需化学工程相关硕士或一等学位并满足英语要求；国际生资格未核实<br>化学工程系官网列出 2027 年 10 月入学的至多 15 个全额奖学金，其中 10 个对所有申请者开放、5 个限英国 Home 学生。页面称资助含学费及约 £23,800–27,000/年的免税生活费补助，为期 42 个月。 |
@@ -64,6 +66,7 @@
 | [PolyU 理学院研究生奖学金](https://www.polyu.edu.hk/fsn/study/scholarships/postgraduate-studentship-and-scholarship/)<br><sub>中国香港 ｜ 化学/材料·生物/生命科学·物理/天文·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>研究 studentship 随学院与学年发布，以研究生院为准</sub> | ✅ | **要求：** 全日制 PhD/MPhil 学生，按学术成绩择优；国际生资格以学校页面为准<br>理大理学院 studentship 页面；同时申请 HKPFS 时由学校分配到一种资助。 |
 | [Stony Brook 化学系博士申请与资助](https://stonybrook.edu/chemistry-new/academics/phd-program/how-to-apply.html)<br><sub>美国 ｜ 化学/材料</sub> | 博士 | 全奖<br><sub>$38,000/年（页面称当前博士生津贴）</sub> | 滚动<br><sub>🔄 随时可申</sub><br><sub>无固定截止，页面建议 1 月 1 日前申请</sub> | ❔ | **要求：** GRE 已不要求；需提交成绩单与 3 封推荐信；语言要求以官网为准<br>系页面称博士生可获年度研究生津贴、补贴健康保险和全额学费，页面列出津贴 $38,000/年。另有旧版页面称 2022–23 年为 $34,000，以当年为准。 |
 | [TU Wien 招聘门户（含 Doctoral College）](https://jobs.tuwien.ac.at/)<br><sub>奥地利 ｜ 计算机·工程·数学/统计·物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ✅ | **要求：** 硕士或同等学位（相关理工方向）；具体资格以各岗位公告为准；部分岗位限制此前在 TU Wien 任博士候选人的时长<br>页面为 TU Wien 招聘门户首页，列出 Current vacancies at the TU Wien，并称申请只接受在线提交；正文未列出具体博士或博后岗位、Prae-Doc 或 Doctoral College 项目，也未给截止日期。 |
+| [UC Berkeley 化学系研究生常见问题（博士资助）](https://chemistry.berkeley.edu/faq/chemistry-grad-faq)<br><sub>美国 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>2022–23 学年 $38,012（官网旧数据，以当年为准）</sub> | 各项目不同<br><sub>📋 持续更新</sub> | 🟡 | **要求：** FAQ 称受经费限制，每年仅录取少数最优秀的国际生；TOEFL 可在美国高校修满一年后豁免<br>系 FAQ 称录取博士生通过助教或助研获得生活津贴，在读且进展良好时学费由校方承担。官网列出的津贴为 2022–23 学年数字，偏旧；需看当年页面。 |
 | [UNIST 蔚山科技院研究生招生](https://adm-g.unist.ac.kr/admg-eng/admission/graduate-admissions.do)<br><sub>韩国 ｜ 计算机·工程·物理/天文·化学/材料·生物/生命科学·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>博士最低约 KRW 13,200,000/年（政府资助轨道）；约 KRW 20,880,000/年（大学资助轨道）</sub> | —<br><sub>春秋两季招生，具体截止以官网当年公告为准</sub> | ✅ | **要求：** 需满足学业与进度要求以维持津贴；学费由 RA/TA 职位覆盖<br>官网 FAQ 称所有学生均获 RA/TA 奖学金，覆盖全部学费并提供月津贴（页面未列金额）；申请流程全程在线。 |
 | [Wageningen University & Research 博士项目入口](https://www.wur.eu/phd)<br><sub>荷兰 ｜ 生物/生命科学·生态/进化·化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各职位截止不同，以 WUR 职位页为准</sub> | ✅ | WUR 博士项目入口页，列出 18 个开放博士职位并链接职位页；正文未载明国际候选人资格，也未提及 WU-CAAS 中外合作项目的申请限制。 |
 | [York Wild Fund 化学博士奖学金（国际生）](https://york.ac.uk/chemistry/study/funding/wild-fund-scholarship)<br><sub>英国 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>研究理事会标准津贴（免税），另含学费与科研/培训经费</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面所见为 2024/25 轮（截止 2024 年 1 月 3 日，已关闭）；未见 2026/27 轮信息，需另行核实。</sub> | ✅ | **要求：** 仅面向国际（含欧盟）学生；需已获化学博士研究录取<br>专为国际（含欧盟）学生设置的 Wild Fund 化学博士奖学金，资助学费与 3 年生活费。往年 1 月初截止。 |
@@ -71,6 +74,7 @@
 | [分子科学研究所（IMS）CSC 博士奖学金](https://www.ims.ac.jp/about/csc-ims_scholarship_program.html)<br><sub>日本 ｜ 化学/材料·生物/生命科学·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ✅ | **要求：** 中国籍且符合 CSC 要求；SOKENDAI 博士生需硕士学位或同等学历；须获得 IMS 录取函或注册证明<br>与 SOKENDAI 合作，每年总计约 5 个名额，其中 SOKENDAI 博士生名额每年限 2 个；可联合指导（申请人需已是中国高校博士候选人）。名额与截止以 IMS 公告为准。 |
 | [哥本哈根大学药物研究学院资助与奖学金页](https://dra.ku.dk/grants/)<br><sub>丹麦 ｜ 医学/公卫·化学/材料·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** DRA 面向药学科学领域博士生；具体资助条件以各公告为准，国际生资格未确认<br>DRA 资助页入口。检索结果显示 DRA Scholarships 是面向硕士阶段优秀学生的预科培养，并非博士资助；博士资助多以课题组公告发布。页面所列 Lundbeck 金额适用阶段需逐条核对。 |
 | [多伦多大学（UTM）化学系 University of Toronto Fellowship 与研究生资助](https://utm.utoronto.ca/cps/graduate/chemistry/financial-support/scholarshipsfellowshipsawards/regular-university-toronto)<br><sub>加拿大 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 滚动<br><sub>📋 持续更新</sub><br><sub>University of Toronto Fellowship 无需单独申请，按录取情况发放；具体截止以学院为准。</sub> | ✅ | 多伦多大学 UTM 化学系常规 University of Toronto Fellowship：页面称对加拿大国籍或身份无限制，可作为国际生的学费奖学金或主要奖学金的补充，通常需承担约 200 小时助教工作。页面称单位价值通常不少于 $4000，仅列出 2010–2011 年金额 $6,500（旧数据），现行金额以最新公告为准。 |
+| [巴斯大学 EPSRC 博士着陆奖（Doctoral Landscape Award，原 DTP 页面）](https://www.bath.ac.uk/campaigns/epsrc-doctoral-landscape-award/)<br><sub>英国 ｜ 工程·物理/天文·化学/材料·数学/统计·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>每年批次时间不同，2027 年入学截止日期未确认。</sub> | 🟡 | **要求：** 国际生名额按 UKRI 规定不超过 30%；学位津贴不含英国签证及医疗附加费（IHS），需自行承担；项目按批次公布，通常每年 10 月起发布<br>巴斯大学 EPSRC 博士着陆奖（原 DTP 项目更名）：覆盖学费与生活津贴（按 UKRI 标准），国际生名额按 UKRI 规定上限约 30%；不含英国签证与医疗附加费。项目按批次公布，通常每年 10 月起发布，2027 入学截止以官网项目列表为准。 |
 | [布里斯托大学 CSC 联合奖学金（化学学院）](https://www.bristol.ac.uk/chemistry/postgraduate/pg-vacancies/phd-scholarships-and-overseas-applicants/china-scholarship-council-phd-scholarships/)<br><sub>英国 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-11-30**<br><sub>🟢 开放申请</sub><br><sub>2027-09 入学：Bristol 申请截止 2026-11-30；2027 年 2 月发提名信，3–4 月再向 CSC 申请</sub> | ✅ | **要求：** 须通过 Bristol 博士项目申请，选 CSC-UoB joint PhD scholarship 并列出 4 名导师；海外申请者需在近 12 个月内获得或即将获得硕士；英语须在 CSC 申请前达标<br>页面称 2026 年 9 月入学的项目申请已截止，2027 年 9 月入学的项目将于 2026 年 10 月发布；申请表须注明 CSC–Bristol 联合奖学金并列出四名化学院拟导师。 |
 | [布里斯托大学化学学院 · 资助博士studentship列表](https://www.bristol.ac.uk/chemistry/postgraduate/pg-vacancies/phd-studentships-chemistry/)<br><sub>英国 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 未公布<br><sub>📋 持续更新</sub><br><sub>页面称下一次学院截止日期待定；2027 入学批次的 TECS 申请将于 2026 年 10 月开放。</sub> | ✅ | **要求：** 需一等或上二等荣誉学位（MSci/MChem 或等效）；需先与拟合作导师联系并提交一页课题大纲<br>页面列出学院资助博士项目（含 EPSRC DTP、TECS、Aerosol Science、NERC GW4+ DLTP 等），EPSRC DTP 称向英国及海外申请者开放，TECS 与 Aerosol Science 称资助涵盖学费与津贴。EPSRC DTP 申请前需先联系拟合作导师并提交一页课题大纲。 |
 | [帝国理工学院化学工程系 PhD 奖学金页](https://www.imperial.ac.uk/engineering/departments/chemical-engineering/courses/postgraduate/phd/scholarships/)<br><sub>英国 ｜ 工程·化学/材料</sub> | 博士 | 全奖 | **2026-11-02**<br><sub>🟢 开放申请</sub><br><sub>第三方汇总：2027–28 轮第一批 11 月 2 日，第二批 1 月 11 日，第三批 3 月 1 日；待 Imperial 官网确认</sub> | 🟡 | **要求：** 需一等学位或同等成绩（硕士需 Distinction）；申请前需有 Imperial 系内导师同意；部分院系无法支持国际生<br>President's PhD Scholarship 面向全球申请人、无国籍限制，但部分院系可能无法支持国际生，需先有导师。化学工程系是否参与未在官网确认，申请前请核对系页与当年轮次。 |
@@ -232,10 +236,12 @@
 
 <a id="fellowships"></a>
 
-## 企业与基金会 Fellowship（7）
+## 企业与基金会 Fellowship（10）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [AINSE 研究生研究奖（PGRA，核科学与技术补充资助）](https://www.ainse.edu.au/?p=801)<br><sub>澳大利亚 ｜ 物理/天文·化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>A$9,000/年（补充资助，需已获 RTP 等主奖学金）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮已于 2026-04-15 截止；下一轮 2027 年 2 月开放、4 月截止</sub> | 🟡 | **要求：** 须为 AINSE 成员大学博士生且已获 RTP 或同等博士主奖学金；研究需使用 ANSTO 设施；硕士生不符合。<br>澳洲核科学博士补充资助（A$9,000/年），前提是已获 RTP 或同等主奖学金且项目需使用 ANSTO 设施。2023–2025 官方条款称不限国籍，2026 版摘录未见该表述，国际生资格以当年条款为准。 |
+| [AUC Al Alfi 博士奖学金（应用科学与工程）](https://www.aucegypt.edu/admissions/fellowships/listing/al-alfi-phd-fellowship-applied-sciences-and-engineering)<br><sub>埃及 ｜ 工程·计算机·化学/材料·物理/天文·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>⏸ 本轮已截止</sub> | ⛔ | **要求：** 仅限埃及国籍；需硕士（论文型）学位，GPA 不低于 3.2/4.0；需符合 AUC 博士录取要求<br>页面标注 No New Intake（暂无新一轮招生）；仅限埃及国籍，中国大陆学生不符合，此条仅作排除参考。 |
 | [BASF NAO（亚洲开放创新网络）PhD 合作项目](https://www.basf.com/cn/en/microsites/nao/how-to-apply.html)<br><sub>中国内地·日本·新加坡 ｜ 化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 需高分子化学或材料科学博士学位（或接近完成）；需较扎实的大分子化学基础与英语沟通能力；按页面要求向 BASF 联系人发送简历与动机信；国际生资格与资助金额页面未说明<br>页面写明合作大学的博士候选人或博士后均可承担产业相关的高分子或材料科学课题，由教授与 BASF 导师共同指导。申请时向 NAO 联系人发送简历与动机信；资助金额与国际生资格页面未说明。 |
 | [F.R.S.-FNRS · FRIA 博士奖学金 2026 迷你指南（英文）](https://frs-fnrs.be/docs/Reglement-et-documents/FRS-FNRS_Mini-guide_Bourses_FRIA_2026_EN.pdf)<br><sub>比利时 ｜ 物理/天文·化学/材料·生物/生命科学·工程·数学/统计·计算机·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请人电子提交截止 8 月 25 日，已截止；2027 轮预计 7 月开放</sub> | ❔ | **要求：** 未见国籍限制；外国学位须获入学资格认定；需导师与校长电子确认并通过口试<br>FRIA 严格限于已获学位、拟在工业或农业领域发展研究职业的申请人，并优先考虑具有工业或农业应用前景的项目。2026 轮申请人电子提交截止为 8 月 25 日。 |
 | [Hector Fellow Academy 博士岗位](https://hector-fellow-academy.de/en/young-scientist-support/doctoral-positions)<br><sub>德国 ｜ 计算机·数学/统计·物理/天文·化学/材料·生物/生命科学·工程·医学/公卫·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-10-15**<br><sub>⏸ 本轮已截止</sub><br><sub>页面列出的下一轮申请期为 2027 年 9 月 1 日至 10 月 15 日；此前条目记载的 2026-10-15 截止已过，本轮已结束。</sub> | ❔ | **要求：** 需优秀硕士学位、良好英语能力，并愿意迁至导师所在大学；官方页未见国籍限制，但也未见明确的国际生开放声明。<br>页面仅列出下一轮（2027）申请期为 9 月 1 日至 10 月 15 日；博士岗位由 Hector Fellow 课题组发布，申请时需准备自拟研究想法或选择已发布课题。 |
@@ -243,6 +249,7 @@
 | [Schlumberger Foundation Faculty for the Future（女性 STEM 博士奖学金）](https://www.facultyforthefuture.net/applications/)<br><sub>全球 ｜ 工程·生物/生命科学·化学/材料·物理/天文·计算机·数学/统计</sub> | 博士+博后 | 力度未注明<br><sub>博士最高 USD 50,000/年；博后最高 USD 40,000/年（续领至学位完成，视进展而定）</sub> | **2026-11-06**<br><sub>🟢 开放申请</sub><br><sub>官方申请页给出 2026 年 9 月 1 日至 11 月 6 日；部分转载页写 11 月 7 日，以官方为准</sub> | ❔ | **要求：** 仅限女性；攻读 STEM 博士或博后研究；国籍需在基金会发展中/新兴经济体名单内；需已被境外院校录取或正在申请<br>已改为基金会官方申请页。PhD 最高 US$50,000/年，博后最高 US$40,000/年。仅限女性，攻读 STEM 博士或博后，需属基金会定义的发展中/新兴经济体国籍；中国大陆是否在名单内未核实。 |
 | [XuPHOS Oxford Fund（牛津化学 DPhil 奖学金）](https://chem.web.ox.ac.uk/node/4203751)<br><sub>英国 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | **要求：** 未找到公开申请条件，资格以当年细则为准<br>捐赠设立，未来十年至少资助 8 个化学 DPhil，并提供在中国企业实习的机会；资格以当年细则为准。 |
 | [巴塞尔大学 Biozentrum PhD Fellowship](https://www.biozentrum.unibas.ch/news/detail/ready-for-the-next-step-apply-now-for-a-biozentrum-phd-fellowship)<br><sub>瑞士 ｜ 生物/生命科学·神经/认知·医学/公卫·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-10-18**<br><sub>🟢 开放申请</sub> | ✅ | **要求：** 需硕士学位（极少数情况可为 4 年制本科）；面向全球申请者<br>巴塞尔 Biozentrum 博士：官方 FAQ 称面向全球申请者、无国籍限制；月薪约 CHF 3,500（净额，按 SNSF 标准），学费 CHF 350/学期。2026 冬季轮截止 2026-10-18，入围后有面试周；入学后先轮转再选课题组。 |
+| [美国癌症学会（ACS）博士后奖学金（Cancer Research）](https://amp.cancer.org/research/we-fund-cancer-research/apply-research-grant/grant-types/postdoctoral-fellowships.html)<br><sub>美国 ｜ 生物/生命科学·医学/公卫·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>每年 6 月 1 日和 12 月 1 日截止；下一轮为 2026-12-01</sub> | 🟡 | **要求：** 需在美国学术机构或合格非营利机构任博后职位；美国公民，或申请时持有适当签证/合法身份的非美国公民；博士学位获得不超过 3 年和/或博后训练不超过 3 年<br>页面称奖励最长 3 年，年度津贴 66,000/68,000/70,000 美元，另有每年 4,000 美元补助；截止日期为 6 月 1 日和 12 月 1 日。 |
 
 <a id="discipline"></a>
 

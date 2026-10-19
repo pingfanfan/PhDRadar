@@ -2,20 +2,21 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 地球/环境/海洋 信源（99）
+# 地球/环境/海洋 信源（103）
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 7](geo.md#aggregators) · [各国学术招聘门户与机构职位页 1](geo.md#national-portals) · [高校旗舰奖学金与资助检索 16](geo.md#university-schemes) · [结构化博士项目与研究机构 45](geo.md#doctoral-programs) · [博士后奖学金与项目 12](geo.md#postdoc-fellowships) · [企业与基金会 Fellowship 5](geo.md#fellowships) · [学科专属信源 12](geo.md#discipline) · [导师招生帖（社交平台个人发布） 1](geo.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 8](geo.md#aggregators) · [各国学术招聘门户与机构职位页 1](geo.md#national-portals) · [高校旗舰奖学金与资助检索 19](geo.md#university-schemes) · [结构化博士项目与研究机构 45](geo.md#doctoral-programs) · [博士后奖学金与项目 12](geo.md#postdoc-fellowships) · [企业与基金会 Fellowship 5](geo.md#fellowships) · [学科专属信源 12](geo.md#discipline) · [导师招生帖（社交平台个人发布） 1](geo.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
-## 综合聚合平台（7）
+## 综合聚合平台（8）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [AAG 美国地理学家协会学生机会页](https://aag.org/studentopportunities/)<br><sub>美国 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 汇总各地地理系研究生助研/助教与博后机会，持续更新。 |
 | [AGU FindAJob 海洋科学博士/博后筛选页](https://findajob.agu.org/jobs/ocean-science/phd/negotiable/)<br><sub>美国 ｜ 地球/环境/海洋·生物/生命科学·物理/天文·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | AGU 职位库按海洋科学与 PhD 学历预筛的页面，当前显示 9 个可协商岗位，多为教职与研究职位，页面未见博士奖学金或博后岗位。地点以北美为主，另有香港岗位。 |
 | [APECS 极地早期职业研究者职位板](https://www.apecs.is/career-resources/job-board)<br><sub>全球 ｜ 地球/环境/海洋·生物/生命科学·生态/进化·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 极地早期职业科学家协会职位板，可按类型和截止日筛选极地/海洋方向的博士与博后岗位。 |
 | [CSDMS 海岸职位百科（Coastal Jobs）](https://csdms.colorado.edu/wiki/Coastal_Jobs)<br><sub>全球 ｜ 地球/环境/海洋·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | CSDMS 社区海岸职位页，列有多条带截止日期的博士与博后岗位（如马里兰大学博士岗位注明 12-15-2026 截止）。页面底部显示最后编辑于 2019 年 3 月，部分条目可能不及时，逐条以各校官网为准。 |
@@ -34,10 +35,12 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（16）
+## 高校旗舰奖学金与资助检索（19）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [ACCE+ 博士培训伙伴 NOC 博士学位机会（DLA）](https://accedtp.ac.uk/acce-dla-opportunities-at-the-national-oceanography-centre)<br><sub>英国 ｜ 地球/环境/海洋·生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | **2026-01-07**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 10 月入学截止 2026-01-07（已过）；2027 轮未确认</sub> | 🟡 | **要求：** 通过 ACCE+ 在线表格申请并将 EDI 表发至 acce.dtp@liverpool.ac.uk；UKRI 资助以英国本土学费为准，国际生仅能通过部分按本土学费计费的伙伴方案；签证、医疗附加费与搬迁费不在资助内<br>ACCE+ 为英国 NERC 博士培训伙伴，NOC 课题通过其在线申请表提交。2026 年 10 月入学的截止日为 2026-01-07，已过期；UKRI 资助只覆盖英国学生学费，签证和搬迁费用不在资助内。 |
+| [AIMS@JCU 海洋科学博士与硕士奖学金（澳大利亚海洋研究所 + 詹姆斯库克大学）](https://aims.jcu.edu.au/phd-scholarships/)<br><sub>澳大利亚 ｜ 生物/生命科学·生态/进化·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>A$37,500/年（2027 轮，JCU 国际生页面），另含学费</sub> | **2026-09-01**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 入学轮次申请截止 2026 年 9 月 1 日（已过）；下一轮未公布</sub> | 🟡 | **要求：** 需同时有 AIMS 与 JCU 导师，项目须在两者重叠领域；通过 JCU 研究生院提交；名额每年有限<br>每年最多 4 个名额，需同时有 AIMS 与 JCU 导师，项目须在两者重叠领域。JCU 国际生页面列 2027 年生活津贴 A$37,500/年（另含学费）；不同页面的附加项目费数字有出入，以官网为准。2027 入学轮次截止 2026 年 9 月 1 日（已过），通过 JCU 研究生院提交。 |
 | [ARIES 博士培训伙伴奖学金（含 Cefas 合作 CASE 项目）](https://aries-dtp.ac.uk/studentships/)<br><sub>英国 ｜ 地球/环境/海洋·生态/进化·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£20,780/年（2025/26 标准，2026/27 待定）</sub> | **2026-12-16**<br><sub>🟢 开放申请</sub><br><sub>2027 年 10 月 1 日开学批次，申请截止 2026-12-16 23:59。</sub> | ❔ | ARIES 页面列出 UKRI NERC DLA 资助的博士项目（studentships），2027 年 10 月 1 日开学。页面显示申请截止为 2026-12-16 23:59，旧版“2026-01-07 已截止”信息已过时。 |
 | [GFZ 亥姆霍兹地学中心 博士岗位入口（gfz.de 招聘）](https://gfz.de/en/career/phd-at-gfz)<br><sub>德国 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 滚动<br><sub>📋 持续更新</sub><br><sub>无统一截止；各岗位截止日见 gfz.de/en/career/job-offers 的具体岗位页</sub> | ❔ | **要求：** 页面未见国际生资格说明，需逐个岗位核对学历、语言与国籍要求<br>GFZ 官网博士入口页，说明博士阶段支持与招聘途径。博士多为雇员合同，需在德国大学注册；具体岗位以招聘页为准。 |
 | [KIT 大气环境研究所（IMK-AAF）CSC 博士/博后课题页](https://www.imkaaf.kit.edu/OpenPositions_965.php)<br><sub>德国 ｜ 地球/环境/海洋·化学/材料·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 不提供资助 | 未公布<br><sub>📋 持续更新</sub><br><sub>页面未给截止时间，需直接联系导师确认</sub> | ❔ | **要求：** 面向申请 CSC 博士或博后奖学金的申请者，具体资格以课题说明为准<br>页面列出大气气溶胶、激光遥感与云物理方向的 CSC 课题，联系人为 Harald Saathoff。页面未写明资助金额与截止，需主动联系，并须自行获得 CSC 资助。 |
@@ -54,6 +57,7 @@
 | [理大土木及环境工程系 HKPFS 页面](https://www.polyu.edu.hk/cee/prospective-students/research-postgraduate-programme/hong-kong-phd-fellowship-scheme/)<br><sub>中国香港 ｜ 工程·地球/环境/海洋</sub> | 博士 | 全奖 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>页面显示 9 月 1 日起接受申请，12 月 1 日截止，需同时向 RGC 与理大提交；轮次标注与城大页面不一致，以官网为准。</sub> | ❔ | **要求：** 需同时向 RGC 提交 HKPFS 申请并申请理大博士（RPgAdmission 系统）；获提名者同时获得理大博士名额。<br>理大土木及环境工程系 HKPFS 页面：按导师名额推荐提名，建议先联系拟合作教授。当前页面显示申请截止 2026-12-01；总资助金额以官网公布为准，国际生资格未在检索结果中看到官方原文，故暂标 check。 |
 | [瓦赫宁根大学与研究中心（WUR）博士与工程博士职位](https://www.wur.nl/en/jobs/phd-jobs)<br><sub>荷兰 ｜ 生物/生命科学·地球/环境/海洋·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各职位截止日期不同，以职位页为准</sub> | ✅ | **要求：** 以各职位要求为准；博士职位为带薪雇员合同。国际申请者的资格说明未在官方摘要中见到。<br>页面列出 18 个 PhD 与 EngD 职位（如儿童饮食行为、气候政策影响评估、野火天气风险、PFAS 去除等），为统一入口。 |
 | [皇后大学（Queen's，金斯敦）地理与规划系博士资助](https://www.queensu.ca/geographyandplanning/graduate/funding-awards)<br><sub>加拿大 ｜ 地球/环境/海洋·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>最低 CAD $23,000/年（2025–26 数据，最长 4 年）</sub> | — | ✅ | 系页面称国内外博士生有每年最低资助 23,000 加元（2025–26 数据）、最长 4 年；需申请所有符合条件的主要校内外奖学金才能满足最低保障。 |
+| [纽卡斯尔大学建筑、规划与景观学院 · 研究生资助页](https://www.ncl.ac.uk/apl/study/postgraduate-research/pgr-funding-and-scholarships)<br><sub>英国 ｜ 工程·人文/语言·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各奖学金截止不一；Forshaw 博士奖学金的 2026 年截止在搜索中未能确认，以学院公告为准。</sub> | ❔ | 页面列出 Forshaw 博士奖学金（免税津贴 £21,805/年，最长 3 年，仅限女性且为本地学费身份）、Iland 研究生奖学金（2026-27，Home 与国际生均可，限欧洲文化、政治思想、语言文学主题）以及 NINE DTP。 |
 
 <a id="doctoral-programs"></a>
 

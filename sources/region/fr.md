@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 法国（FR） 信源（117）
+# 法国（FR） 信源（121）
 
-所有标注了地区 FR 的信源，共 117 条。
+所有标注了地区 FR 的信源，共 121 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 4](fr.md#aggregators) · [各国学术招聘门户与机构职位页 9](fr.md#national-portals) · [政府与国家级奖学金 12](fr.md#gov-scholarships) · [高校旗舰奖学金与资助检索 21](fr.md#university-schemes) · [结构化博士项目与研究机构 52](fr.md#doctoral-programs) · [博士后奖学金与项目 11](fr.md#postdoc-fellowships) · [企业与基金会 Fellowship 2](fr.md#fellowships) · [学科专属信源 1](fr.md#discipline) · [科研实习与“曲线入口” 3](fr.md#pathways) · [个人信源与社交渠道 1](fr.md#people-channels) · [导师招生汇总（指向个人主页的集合） 1](fr.md#faculty-aggregators)
+**按分类跳转：** [综合聚合平台 4](fr.md#aggregators) · [各国学术招聘门户与机构职位页 9](fr.md#national-portals) · [政府与国家级奖学金 12](fr.md#gov-scholarships) · [高校旗舰奖学金与资助检索 22](fr.md#university-schemes) · [结构化博士项目与研究机构 53](fr.md#doctoral-programs) · [博士后奖学金与项目 13](fr.md#postdoc-fellowships) · [企业与基金会 Fellowship 2](fr.md#fellowships) · [学科专属信源 1](fr.md#discipline) · [科研实习与“曲线入口” 3](fr.md#pathways) · [个人信源与社交渠道 1](fr.md#people-channels) · [导师招生汇总（指向个人主页的集合） 1](fr.md#faculty-aggregators)
 
 <a id="aggregators"></a>
 
@@ -58,10 +58,11 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（21）
+## 高校旗舰奖学金与资助检索（22）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [4EU+ 联合培养博士合同 · 索邦大学（2026 轮）](https://www.sorbonne-universite.fr/en/news/4eu-cotutelle-doctoral-contracts-2026)<br><sub>法国·欧盟/欧洲 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-04-24**<br><sub>⏸ 本轮已截止</sub><br><sub>官网记载 2026 轮截止 4 月 24 日；2026 轮已结束，2027 轮待公告</sub> | ❔ | **要求：** 由索邦导师与伙伴校合作导师共同申请；所在实验室需隶属索邦共同认证的博士学院；含一年海外流动<br>索邦大学每年为 4EU+ 联合培养项目提供全额博士合同（36 个月，2026 年为 4 个），由索邦与伙伴校导师共同指导并含一年海外流动。2026 轮已结束，截止日各来源记载不一，以官网为准；明年可能重开，请关注公告。 |
 | [CHARM-EU 联盟 · Opportunities and calls 机会与征集页](https://charm-eu.eu/news-events/opportunities-and-calls/)<br><sub>欧盟/欧洲·挪威·芬兰·匈牙利·德国·法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>2026 年夏校（6 月 8–12 日，芬兰 Turku）及多数博士征集已截止；2027 周期待联盟发布</sub> | ❔ | CHARM-EU 联盟统一发布博士夏/冬校、博士流动与 MSCA 征集等信息。2026 年多数博士类征集已截止，适合订阅联盟通讯以跟进 2027 年周期；博士岗位需回到各成员校招聘页核实。 |
 | [CY Cergy Paris 大学 EM2PSI 博士合同（2026–2027）](https://collegedoct.cyu.fr/medias/fichier/doctoral-contracts-call-for-applications-2026-em2psi_1779444928598-pdf)<br><sub>法国 ｜ 工程·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>约 €2,300/月（税前）</sub> | **2026-06-19**<br><sub>⏸ 本轮已截止</sub><br><sub>2026–2027 轮截止 2026-06-19，最终结果 2026-07-10 前公布；页面未见 2027 轮公告。</sub> | ❔ | **要求：** 需先确定所属实验室导师；需硕士成绩单、论文计划、推荐信<br>CY Cergy Paris 大学 2026–2027 年三年期博士合同征集（PDF 公告）。截止日期以原文为准。 |
 | [ED3C 大脑·认知·行为博士学校 博士合同（PAC 竞争分配）条款](https://ed3c.sorbonne-universite.fr/en/financements/doctoral-contract-allocation-process-su-psl-upc/terms-and-conditions-doctoral-contract)<br><sub>法国 ｜ 神经/认知·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>PAC2026 已完成；下一轮 PAC 时间以 ED3C 官网为准</sub> | ❔ | 索邦/PSL/巴黎大学认知科学博士学校的博士合同，由每年 PAC 竞争分配，流程包括导师提交课题、申请、面试。需确认资格条件并关注当年申请时间。 |
@@ -86,10 +87,11 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（52）
+## 结构化博士项目与研究机构（53）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [Aix-Marseille 大学 ED 67 博士合同申请表（2026–2029）](https://ecole-doctorale-67.univ-amu.fr/system/files/media-ressource/Formulaire_de_candidature_contrat_doc_2026_2029_ed67.pdf)<br><sub>法国 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-07-03**<br><sub>⏸ 本轮已截止</sub><br><sub>2026–2029 轮研究单位内部截止 2026 年 7 月 3 日已过；下一轮待查 ED 67 官网</sub> | ❔ | **要求：** 需提交 M2 论文 PDF、不超过 4 页的项目书及申请表；先经导师所在研究单位内部初选<br>Aix-Marseille 大学 ED 67（法学与政治学）博士合同申请表（2026–2029）。2026 轮已结束，下一轮以 ED 67 官网公告为准。国际申请人资格未核实。 |
 | [Aix-Marseille 大学跨博士学院合同征集（Collège doctoral）](https://college-doctoral.univ-amu.fr/en/becoming-phd-candidate/financing)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>Inter-ED 每年征集，2026 年提供 10 个博士合同；2027 轮以 Collège doctoral 官网为准</sub> | ❔ | **要求：** 需两位导师分属 AMU 两个不同博士学院；项目需跨学科；国际生资格未核实<br>页面列出 AMU 博士学院协调的 5 项论文项目征集，其中包括 Inter-ED（跨博士学院）征集。页面未给出 2026 轮的截止日期、合同数量或导师资格要求，以官网公告为准。 |
 | [ARCANE（格勒诺布尔）MSCA COFUND 博士项目](https://arcane.univ-grenoble-alpes.fr/node/1550)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>🔜 即将开放</sub><br><sub>步骤一导师课题截止 2026 年 6 月 15 日已过；学生申请预计 2026 年 11 月开放（步骤二），合同 2027 年 10 月开始</sub> | ✅ | **要求：** 需符合 MSCA 流动规则（细则以步骤二公告为准）；需先与导师对接课题；需完成 2 个月外派实习期<br>两步申请：导师提交课题（已截止），学生申请预计 2026 年 11 月开放，合同 2027 年 10 月开始；遵守 MSCA 流动规则。 |
 | [BEST 图卢兹 MSCA COFUND 博士项目](https://www.univ-tlse3.fr/presse/2025-11-27-best-un-nouveau-programme-doctoral-europeen-pour-explorer-les-grands-defis-entre-terre-et-ciel)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>估计税后约 €2,800–3,000/月（职位信息，依家庭情况）</sub> | **2026-11-23**<br><sub>🟢 开放申请</sub><br><sub>第一批次截止 2026-11-23 12:00 CET（来自职位信息，需以官网核实）；项目共 37 名博士生</sub> | ✅ | **要求：** 硕士或同等学历，博士前未获博士学位；英语 B2；截止前 36 个月内在法国居留或主要活动不超过 12 个月<br>MSCA COFUND 共 37 个博士名额，36 个月合同；近 36 个月在法居留不超过 12 个月，英语 B2；截止日期以官网为准。 |
@@ -145,11 +147,13 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（11）
+## 博士后奖学金与项目（13）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [Alliance Paris Lumières 博士后合同（2027 批次）](https://www.univ-paris8.fr/Contrats-Post-doctoraux-2026-Paris-Lumieres-Alliance)<br><sub>法国 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-09-18**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 批次截止 2026 年 9 月 18 日，已过；未见 2028 批次公告。</sub> | ❔ | **要求：** 博士答辩须在 2023-01-01 至 2026-06-30 之间，合同 1 年；须由巴黎第八或巴黎西的研究单位接收（对方校博士需挂靠本校研究单位）；教学不超过 64 学时。<br>巴黎第八与巴黎西大学联合体博后合同，面向 2023 年 1 月至 2026 年 6 月间答辩的博士，合同 1 年，人文社科方向。2027 年 1 月入职批次截止 2026 年 9 月 18 日（已过），下一批次待公布。 |
 | [CEA DAM 2026 博士后岗位手册](https://www-dam.cea.fr/dam/wp-content/uploads/2026/02/Livret-postdoctorats2026-DAM.pdf)<br><sub>法国 ｜ 工程·物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>以手册中各岗位的截止日期为准。</sub> | ❔ | **要求：** 一般需已取得博士学位，以手册岗位要求为准。<br>CEA 博士后为有薪岗位，覆盖核能与国防应用方向，需逐个核对合同与截止日期。 |
+| [EUR ArChal 考古学博士后岗位（2026）](https://eur-archal.pantheonsorbonne.fr/en/applications-registration/campagn-postdoctoral-positions-2026)<br><sub>法国 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>€2,858/月（税前）</sub> | **2026-09-20**<br><sub>⏸ 本轮已截止</sub><br><sub>页面显示申请截止 2026-09-20，遴选委员会已于 2026-10-06 开会并公布 6 名入选者；下一轮未在页面说明。</sub> | 🟡 | **要求：** 持巴黎第一大学或合作院校（FU Berlin、Complutense Madrid、Bologna、INALCO）的考古学博士学位，且学位在 2026 年 10 月 1 日前不满 3 年；无国籍要求。<br>巴黎第一大学 EUR ArChal 考古学博士后，共 6 个岗位。税前月薪约 2858 欧元。无国籍限制，但申请路线只对指定院校的考古学博士开放，因此标为部分开放。截止日需看官方 PDF。 |
 | [Fyssen 基金会博士后资助（认知与神经科学）](https://www.fondationfyssen.fr/?p=32613)<br><sub>法国 ｜ 神经/认知·社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>最高 €45,000/年（页面写明 annual maximum amount of 45 000 euros），12 个月（不可续期）或 24 个月</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮截止 2026-03-31 已过；通常 2 月初开放、3 月底截止，2027 轮以官网公告为准</sub> | ✅ | **要求：** 博士学位取得不足 2 年，申请截止时未满 35 岁；需法国实验室邀请<br>资助外国学者赴法国实验室做最长两年博后，学科为行为学/心理学、神经生物学、社会人类学、古人类学与考古。当前轮已过。 |
 | [HEC 巴黎 稳健优化与统计博士后（ANR/RGC 资助）](https://people.hec.edu/grand-clement/wp-content/uploads/sites/51/2026/02/Postdoctoral-researcher-position-HEC-Paris.pdf)<br><sub>法国 ｜ 经济/金融·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 滚动<br><sub>🔄 随时可申</sub><br><sub>招满为止；理想入职时间为 2026 年 9 月 1 日</sub> | ❔ | **要求：** 需已获或即将获得运筹学、计算机科学、工业工程或同等学位的博士学位；需优化与统计知识及良好编程能力。<br>页面称为两年期博士后职位，由 ANR（法国）与 RGC（香港）联合资助项目支持，可与 HKUST 的合作者开展合作；页面未给出薪资，理想入职时间为 2026 年 9 月 1 日或更早。 |
 | [IARC 访问学者与博士后机会页（WHO）](https://www.iarc.who.int/visiting-scientist-and-postdoctoral-opportunities/)<br><sub>法国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>页面列出的 WHO 肿瘤分类 Senior Visiting Scientist（现场）岗位截止 2026 年 10 月 31 日；其余岗位以页面列表为准。</sub> | ❔ | **要求：** Senior Visiting Scientist 需博士学位超过 15 年（MD 需有相关专科背景），并保持学术隶属；2025 年博后奖学金仅限 LMIC 国籍，博士学位须在截止前 5 年内获得<br>IARC 访问学者和博后机会汇总页。页面当前列出 WHO 肿瘤分类 Senior Visiting Scientist（现场，截止 2026 年 10 月 31 日），以及 2025 年发布的 CSU 岗位。 |

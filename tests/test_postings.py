@@ -356,7 +356,7 @@ def test_mathjobs_tamu_hnet_detail():
     row, why = b.mj_detail("mj29069", "https://www.mathjobs.org/jobs/list/29069", mj, TODAY)
     assert why == "收录" and row["id"] == "mathjobs:29069" and row["via"] == "MathJobs" and row["deadline"] == "2026-12-18"
     tamu = ("<html><title>PhD Positions: Fish Ecology at Purdue University | Natural Resources Job Board</title><body>"
-            "Details Application Deadline: 11/20/2026 Published: 10/15/2026 Salary: starting at $30,000 per year "
+            "PhD Positions: Fish Ecology at Purdue University Purdue University (State) Details Application Deadline: 11/20/2026 Published: 10/15/2026 Salary: starting at $30,000 per year "
             "Education Required: Bachelors Experience Required: none Location: West Lafayette, Indiana Tags: Graduate Opportunities "
             "Description Two funded PhD positions.</body></html>")
     row, why = b.tamu_detail("1", "u", tamu, TODAY)
@@ -397,3 +397,15 @@ def test_institutes_psi_ibs_eso():
     listing = 'href="/prog/recruit/eng/sub04_01/view.do;jsessionid=AB?pageIndex=1&amp;idx=2187"'
     f = type("F", (), {"get": lambda self, u: type("R", (), {"text": listing})()})()
     assert cp.ADAPTERS["ibs"][0](f, 1) == [("2187", "https://www.ibs.re.kr/prog/recruit/eng/sub04_01/view.do?idx=2187")]
+
+
+def test_econjobmarket_detail():
+    import platforms_boards as b
+    page = ("<html><body>Login/Register Translate this website Postdoctoral Researcher (f/m/d) Advertiser: Ifo Institute "
+            "Field(s) of specialization: International Trade Position type(s): Postdoctoral Scholar Location of job: Munich, "
+            "Bavaria, 81679, Germany Degree required: Doctorate Salary: 68,200 EUR Letters of reference required: 3 "
+            "Application deadline: 18 Nov 2026 midnight UTC Ad text: We are looking for a postdoc.</body></html>")
+    row, why = b.ejm_detail("12844", "u", page, TODAY)
+    assert why == "收录" and row["deadline"] == "2026-11-18" and row["org"] == "Ifo Institute" and row["country"] == "DE"
+    assert row["amount"] == "68,200 EUR"
+    assert b.ejm_detail("1", "u", page.replace("Postdoctoral Scholar", "Assistant Professor"), TODAY)[0] is None

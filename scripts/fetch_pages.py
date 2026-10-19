@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import argparse
 import re
+import zlib
 import subprocess
 import sys
 import tempfile
@@ -97,6 +98,8 @@ def main() -> None:
     ap.add_argument("--skip", type=int, default=0, help="跳过前 N 条（分批用）")
     ap.add_argument("--ids", help="逗号分隔的 id")
     ap.add_argument("--attempted", help="已尝试过的 id 列表文件（每行一个）；本次选中的也会追加进去，避免重复抓取")
+    ap.add_argument("--worker", type=int, help="分片：第 k 个（与 --of 一起用，按 crc32(id) 取模，几个会话并行互不重叠）")
+    ap.add_argument("--of", type=int, default=1)
     ap.add_argument("--chunks", type=int, default=4)
     ap.add_argument("--workers", type=int, default=12)
     ap.add_argument("--out", required=True)
@@ -110,6 +113,8 @@ def main() -> None:
         pool = [s for s in sources if s.get("verify_method") != "page" and s.get("url", "").startswith("https://")]
         if args.pick in ("yes", "check"):
             pool = [s for s in pool if str(s.get("cn_eligible")) == args.pick]
+        if args.worker:
+            pool = [s for s in pool if zlib.crc32(s["id"].encode()) % args.of == args.worker - 1]
         if args.attempted and Path(args.attempted).exists():
             done = set(Path(args.attempted).read_text().split())
             pool = [s for s in pool if s["id"] not in done]

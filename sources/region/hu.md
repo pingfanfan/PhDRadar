@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 匈牙利（HU） 信源（6）
+# 匈牙利（HU） 信源（7）
 
-所有标注了地区 HU 的信源，共 6 条。
+所有标注了地区 HU 的信源，共 7 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [各国学术招聘门户与机构职位页 1](hu.md#national-portals) · [政府与国家级奖学金 1](hu.md#gov-scholarships) · [高校旗舰奖学金与资助检索 1](hu.md#university-schemes) · [结构化博士项目与研究机构 2](hu.md#doctoral-programs) · [博士后奖学金与项目 1](hu.md#postdoc-fellowships)
+**按分类跳转：** [各国学术招聘门户与机构职位页 1](hu.md#national-portals) · [政府与国家级奖学金 1](hu.md#gov-scholarships) · [高校旗舰奖学金与资助检索 1](hu.md#university-schemes) · [结构化博士项目与研究机构 2](hu.md#doctoral-programs) · [博士后奖学金与项目 2](hu.md#postdoc-fellowships)
 
 <a id="national-portals"></a>
 
@@ -45,9 +45,10 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（1）
+## 博士后奖学金与项目（2）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [匈牙利 János Bolyai 研究奖学金（MTA）](https://fka.mta.hu/en/palyazat/bolyai-janos-research-scholarship/)<br><sub>匈牙利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | —<br><sub>⏸ 本轮已截止</sub><br><sub>每年 3 月初截止；2026 轮已结束，2027 轮待 MTA 公告</sub> | ⛔ | Bolyai 研究奖学金：需为匈牙利公民或海外匈牙利裔研究者，持博士学位、未满 45 岁，须在匈牙利科研机构任职并用匈牙利语申请；中国大陆学生一般不符合。 |
 | [匈牙利 Momentum MSCA 博士后奖学金](https://momentummsca.mta.hu/)<br><sub>匈牙利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | — | ✅ | 匈牙利科学院 Momentum MSCA 高级博后项目：第 2 轮截止 2026-01-31 已结束，下一轮（Call 3）公告未确认，关注 momentummsca.mta.hu。申请截止前已获博士学位；申请前 3 年内在匈牙利居留或工作不超过 12 个月；须完成强制国际交流。 |
 

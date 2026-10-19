@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 意大利（IT） 信源（39）
+# 意大利（IT） 信源（41）
 
-所有标注了地区 IT 的信源，共 39 条。
+所有标注了地区 IT 的信源，共 41 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [政府与国家级奖学金 1](it.md#gov-scholarships) · [高校旗舰奖学金与资助检索 7](it.md#university-schemes) · [结构化博士项目与研究机构 20](it.md#doctoral-programs) · [博士后奖学金与项目 7](it.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](it.md#fellowships) · [个人信源与社交渠道 3](it.md#people-channels)
+**按分类跳转：** [政府与国家级奖学金 1](it.md#gov-scholarships) · [高校旗舰奖学金与资助检索 8](it.md#university-schemes) · [结构化博士项目与研究机构 20](it.md#doctoral-programs) · [博士后奖学金与项目 8](it.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](it.md#fellowships) · [个人信源与社交渠道 3](it.md#people-channels)
 
 <a id="gov-scholarships"></a>
 
@@ -20,12 +20,13 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（7）
+## 高校旗舰奖学金与资助检索（8）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [ICTP 研究生文凭项目（Postgraduate Diploma，为博士过渡）](https://2022.ictp.it/sites/default/files/attachments/Poster_DP_Academic_years_2026_2027_0.pdf)<br><sub>意大利 ｜ 物理/天文·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-02-28**<br><sub>⏸ 本轮已截止</sub><br><sub>官方 2026–27 学年征集海报标注截止为 2026 年 2 月 28 日，已过；该海报中未出现原记录的延长至 3 月 15 日。</sub> | ❔ | **要求：** 约等于理学硕士的物理、数学或相关学位，英语流利；面向发展中国家学生（以官网为准）<br>ICTP 研究生文凭项目（Postgraduate Diploma），面向发展中国家学生，为攻读博士做准备，设高能与宇宙、凝聚态、地球系统、数学、定量生命科学五个方向。2026–27 学年征集已截止。 |
 | [博洛尼亚大学 CSC 联合博士选拔页](https://www.unibo.it/en/teaching/phd/information-enrolling-phd-programme/phd-programmes-in-collaboration-with-china-scholarship-council)<br><sub>意大利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 轮截止 2026-01-12（已过）；2027/28 轮未见公告，关注博洛尼亚大学博士项目门户</sub> | ✅ | **要求：** 中国公民；硕士学位；先经博洛尼亚大学线上预选，通过后再向 CSC 申请生活费<br>两阶段：先在博洛尼亚大学线上预选，再向 CSC 申请生活费；各项目截止不同，适合先找导师再申请. |
+| [博科尼大学博士（管理学）奖学金入口](https://www.unibocconi.it/en/news-topic/phd)<br><sub>意大利 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 博科尼博士项目：2025-26 批次征集期为 4 月 15 日至 5 月 15 日（Tech European Foundation 资助的管理方向 2 个名额）；2027 批次未找到公告。需被博科尼博士项目录取，奖学金国籍与学历条件以官方公告为准。 |
 | [米兰理工博士院招生公告](https://www.dottorato.polimi.it/)<br><sub>意大利 ｜ 工程·计算机·人工智能·数学/统计·物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | —<br><sub>2027 轮公告未找到；最近可见为第 41 期（2025）竞赛公告，请以官网当年公告为准</sub> | ✅ | 官网称博士招生公告全年陆续发布，平均每年约五个；博士奖学金以月均金额计，页面未给出具体金额。 |
 | [米兰理工大学 CSC 博士申请通道](https://www.polimi.it/dottorato/futuri-dottorandi/accordi-internazionali/china-scholarship-council)<br><sub>意大利 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | **2027-02-01**<br><sub>🔜 即将开放</sub><br><sub>官网称申请自 2026 年 11 月 1 日开放，至 2027 年 2 月 1 日截止。</sub> | ✅ | **要求：** 仅限中国公民申请全日制博士；需成绩单、学位证及推荐信；录取以获得 CSC 奖学金为条件<br>米兰理工与 CSC 有协议，中国国籍的新申请全日制博士可经此通道申请；预录取以 CSC 资助获批为条件，页面称学费减免并为合作渠道受资助者提供 5000 欧研究经费。 |
 | [贝加莫大学 CSC 博士项目](https://www.unibg.it/node/18193)<br><sub>意大利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-01-31**<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 学年预选截止 2026-01-31；页面未见 2027/28 轮次公告。</sub> | ✅ | **要求：** 中国大陆国籍；须通过贝加莫博士录取并获 CSC 资助<br>贝加莫大学接收 CSC 资助博士生，仅录取获 CSC 奖学金的候选人；流程为校内网上预选（2026/27 学年申请期 2025-11-01 至 2026-01-31），通过后再由 CSC 评审。 |
@@ -61,7 +62,7 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（7）
+## 博士后奖学金与项目（8）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -71,6 +72,7 @@
 | [ICTP 数学博士后（的里雅斯特，2026 轮）](https://2022.ictp.it/opportunity/mathematics-postdoctoral-positions-2026)<br><sub>意大利 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>免税月津贴 EUR 2100–2300（依资历）</sub> | **2026-12-13**<br><sub>🟢 开放申请</sub><br><sub>页面显示 2027 年起始的数学博后正在接受申请，申请截止 2026 年 12 月 13 日；原记录的 2026 轮（1 月 6 日截止）已过。</sub> | ❔ | **要求：** 入职前取得数学博士学位；需 3 封推荐信，通过 ICTP 在线系统申请；页面写明优先考虑来自或在发展中国家工作的候选人<br>页面为 2027 年起始的数学博后，两年期（可延 12 个月），需入职前已取得数学博士学位，经 ICTP 在线系统申请。页面写明优先考虑来自并在发展中国家工作的候选人，中国大陆是否符合以官网为准。条目 URL 指向的 2026 页面已跳转至 2027 页面。 |
 | [威尼斯 Ca' Foscari 大学 MSCA 博士后奖学金宿主页](https://www.unive.it/pag/47818/)<br><sub>意大利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | **2027-09-08**<br><sub>🔜 即将开放</sub><br><sub>2026 轮 9 月 9 日截止（已过）；2027 轮 4 月 7 日开放、9 月 8 日截止（据 Ca' Foscari 页面）。宿主需先与校内学者达成合作，再联系 mariecurie@unive.it。</sub> | ✅ | **要求：** 2027 轮：申请人不得在 2024 年 9 月 8 日至 2027 年 9 月 8 日期间在意大利居住或开展主要活动（欧洲奖学金）；全球奖学金另需为欧盟成员国或 Horizon Europe 准成员国的国民或长期居民。<br>Ca' Foscari 作为 MSCA PF 宿主的说明页：2027 轮 4 月 7 日开放、9 月 8 日截止；需先与校内学者达成合作，再联系 mariecurie@unive.it。 |
 | [意大利 Rita Levi Montalcini 项目](https://www.unifi.it/en/news/rita-levi-montalcini-programme-call-applications-online)<br><sub>意大利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面为 2022–2024 轮公告（截止 1 月 15 日，发布于 2024 年 12 月 19 日）；页面未显示之后各轮。</sub> | ❔ | **要求：** 2022–2024 轮：博士学位须于 2016 年 10 月 31 日后、2021 年 10 月 31 日前获得，且在海外从事教学或博后研究至少 3 年（每轮以公告为准）。<br>面向海外工作的研究者，由意大利公立大学聘为固定期限研究员（按合同领取薪酬）。MUR 页面可见 2022–2024 轮，未见 2026 年新轮公告，需到 MUR 页面核实当期情况。 |
+| [意大利央行经济学研究员（Borse di ricerca）](https://www.bancaditalia.it/chi-siamo/lavorare-bi/borse-ricerca-economisti)<br><sub>意大利 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>€5,500/月（税前）</sub> | 未公布<br><sub>🟢 开放申请</sub><br><sub>页面显示 2026-10-13 发布新一轮招考公告（4 个名额），通常申请至 11 月；具体截止日以公告 PDF 为准。</sub> | 🟡 | **要求：** 博士学位或即将获得；英语流利；非欧盟公民须持长期 EC 居留许可、难民身份或补充保护（2024 年征集条件）<br>面向已获或即将获得博士学位的经济学者，在罗马工作，12 个月可续 12 个月，月薪 5,500 欧元（税前）。 |
 | [欧洲大学研究院（EUI）马克斯·韦伯博士后项目](https://www.eui.eu/documents/mwp/publications/mwpleafleta4web.pdf)<br><sub>意大利 ｜ 经济/金融·社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | —<br><sub>页面（传单）称每年 10 月 25 日为申请截止日；具体年份以官网 How to Apply 页面为准。</sub> | ❔ | **要求：** 在项目开始时（9 月 1 日）博士论文已正式提交并被接受答辩；获博士学位后五年内均有资格申请。<br>面向经济、历史、法律、政治与社会科学领域近期获博士学位者的 1–2 年博士后项目，英语为工作语言，设在 Villa La Fonte（Fiesole）。页面称每年 10 月 25 日为申请截止日。 |
 
 <a id="fellowships"></a>

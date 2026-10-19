@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 加拿大（CA） 信源（127）
+# 加拿大（CA） 信源（133）
 
-所有标注了地区 CA 的信源，共 127 条。
+所有标注了地区 CA 的信源，共 133 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 2](ca.md#aggregators) · [各国学术招聘门户与机构职位页 1](ca.md#national-portals) · [政府与国家级奖学金 3](ca.md#gov-scholarships) · [高校旗舰奖学金与资助检索 72](ca.md#university-schemes) · [结构化博士项目与研究机构 13](ca.md#doctoral-programs) · [博士后奖学金与项目 20](ca.md#postdoc-fellowships) · [企业与基金会 Fellowship 8](ca.md#fellowships) · [学科专属信源 4](ca.md#discipline) · [个人信源与社交渠道 3](ca.md#people-channels) · [选校与申请辅助工具 1](ca.md#tools)
+**按分类跳转：** [综合聚合平台 2](ca.md#aggregators) · [各国学术招聘门户与机构职位页 1](ca.md#national-portals) · [政府与国家级奖学金 4](ca.md#gov-scholarships) · [高校旗舰奖学金与资助检索 74](ca.md#university-schemes) · [结构化博士项目与研究机构 13](ca.md#doctoral-programs) · [博士后奖学金与项目 23](ca.md#postdoc-fellowships) · [企业与基金会 Fellowship 8](ca.md#fellowships) · [学科专属信源 4](ca.md#discipline) · [个人信源与社交渠道 3](ca.md#people-channels) · [选校与申请辅助工具 1](ca.md#tools)
 
 <a id="aggregators"></a>
 
@@ -29,17 +29,18 @@
 
 <a id="gov-scholarships"></a>
 
-## 政府与国家级奖学金（3）
+## 政府与国家级奖学金（4）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [Alberta Innovates 研究生奖学金（AI-GSS）](https://albertainnovates.ca/wp-content/uploads/2023/05/AI-GSS-PROGRAM-GUIDE_2025-2026-Oct-23-2024-FINAL.pdf)<br><sub>加拿大 ｜ 计算机·工程·化学/材料·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | — | ✅ | **要求：** 需在阿尔伯塔省大学攻读全日制研究型硕博；GPA 至少 3.5；需导师担保；研究须属于指定新兴技术领域；不可同时持有其他 Alberta Innovates 资助<br>指南（2025/26 版）称国际生可申请，大学页面称无国籍限制；具体条款以当年 Program Guidelines 为准。津贴金额未确认，请勿沿用旧版金额。申请通过所在大学提交。 |
 | [FRQ 博士研究奖学金规则（2027–2028）](https://frq.gouv.qc.ca/app/uploads/2026/07/anglais_regles_bourses_doctorat_2027-2028_ang.pdf)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>CAD 25,000/年（B2 常规博士奖学金）</sub> | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2027-28 轮常规 B2 申请截止 2026-09-29（已过），下一轮待公布</sub> | ❔ | **要求：** 国际生资格以 FRQ 原文为准<br>魁北克省级博士奖学金 2027–28 年度规则（2026 年 7 月发布）；国际生通常需先由魁北克高校预选，竞赛截止以 FRQ 当年日程为准。 |
 | [安大略研究生奖学金（OGS）国际生配额](https://gradstudents.carleton.ca/ogs/)<br><sub>加拿大 ｜ 全学科</sub> | 博士 | 半奖/部分 | **2026-11-16**<br><sub>🔜 即将开放</sub><br><sub>Carleton 校内学生申请截止 2026-11-16 23:59；推荐信截止 2026-12-02；2027 年 4 月公布结果</sub> | 🟡 | 安省研究生奖学金（OGS）：最高 CAD 15,000/年（每学期最多 5,000）；国际生需持安大略省学习许可并全日制就读，名额受省级配额限制，由院系提名。截止日取自 Carleton，其他院校不同。 |
 | [魁北克外国学生博士奖学金 PBEEE（FRQNT，2026-27 批次）](https://frq.gouv.qc.ca/app/uploads/2025/07/8.pbeee_2026-2027_vf-approuvee_abida-1.pdf)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>博士奖学金年额 25 000 $（前 9 个学期），延期后为 12 000 $（最后 3 个学期）；最长 12 个学期，累计最高 87 000 $；另免除高额学费并提供医保</sub> | **2025-12-02**<br><sub>⏸ 本轮已截止</sub> | ✅ | **要求：** 须先经大学预选；非加拿大公民或永久居民<br>由魁北克政府出资、FRQ 管理的外国学生博士奖学金。页面称设面向所有国家学生的开放类别，并设 Québec-Chine 专项（1C）。2026-27 批次申请截止为 2025 年 12 月 2 日（16:00）。 |
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（72）
+## 高校旗舰奖学金与资助检索（74）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -52,6 +53,7 @@
 | [McGill 博士资助预期（Funding Expectations for PhD students）](https://www.mcgill.ca/gps/funding/gradfunding101/expectations/phd)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | — | ✅ | **要求：** 博士生录取时即获资助承诺（Funding Letter）；国际生资助包覆盖学费差额<br>麦吉尔研究生院说明：所有博士生都会在录取信中获得资助信，国际生的资助包覆盖其与魁北克学费的差额。具体金额与来源以录取信和院系为准。 |
 | [McGill 国际生额外资助机会（外国机构协议奖学金）](https://www.mcgill.ca/gps/node/70452)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 页面为国际生外部资助汇总表（页面称非穷尽列表，且不由研究生院管理）；表中列出的国家或地区不含中国大陆，页面未见中国大陆可申请项目。 |
 | [McGill 研究生院国际生资助入口](https://www.mcgill.ca/gps/funding/intl)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ✅ | **要求：** 国际生可获得覆盖魁北克与国际生学费差额的资助；资助包金额因院系而异，需先被录取<br>页面称 McGill 与若干国家有资助协议，并列出国际生可能适用的主要奖学金，各项资格与申请要求不同。差别学费豁免（DFW）只覆盖国际生学费附加部分。 |
+| [U of Alberta CGRS-D 校内说明](https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/canada-graduate-research-scholarships-doctoral-cgrs-d.html)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>本轮校内提交截止 2026 年 9 月 16 日（已过）；全国截止以官网为准，请联系研究生院</sub> | 🟡 | **要求：** 非加拿大公民/永居须在申请时已在本校注册博士项目；若曾读研，截至申请年 12 月 31 日读博不超过 36 个月；不得已获 CIHR/NSERC/SSHRC 博士奖学金<br>非加拿大公民/永居须在申请时已在本校读博；校内截止早于全国截止，提前联系导师和研究生院。 |
 | [U of T ECE 博士保障资助](https://www.ece.utoronto.ca/grad-financial-package)<br><sub>加拿大 ｜ 工程·计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>CAD $40,000/年（含学费，2025–26 标准）</sub> | — | ✅ | 多伦多大学 ECE 页面：博士保障资助期为 4 年；2025 年 9 月 1 日或之后入学的博士生须每年申请一个助教岗位（约 3,178 加元）才能获得资助中的助教部分。具体套餐金额在页面各学年链接中，正文未列出。 |
 | [UBC CSC 博士奖学金](https://grad.ubc.ca/awards/china-scholarship-council-doctoral-scholarships)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>约 $26,400/年（CSC 年生活补助，页面所载）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面标注下一轮截止为 Likely in March 2027（预计 2027 年 3 月）；CSC 在线申请时间为北京时间 3 月 10–31 日（页面所载）。</sub> | ✅ | **要求：** 须为中国大陆 PRC 国籍且无他国永居（香港、澳门、台湾居民除外）；年龄 35 岁以下；须为或申请 UBC 全日制博士项目；毕业后需回国服务 2 年。<br>UBC 与 CSC 有协议，资助生活费加学费，2–4 年；仅限中国大陆公民且无他国永居，周期开放时间以官网为准。 |
 | [UBC Four Year Doctoral Fellowship（4YF）](https://grad.ubc.ca/node/3313)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>页面称 2026 年 9 月起每年 $24,000 生活费加学费，最多 4 年</sub> | 各项目不同<br><sub>📋 持续更新</sub> | ✅ | **要求：** 须获 UBC 博士项目录取<br>页面称国内外学生均可获得；录取的博士申请者自动参评，院系按名额提名。国际学生可另行参评 Killam 等更高额的附属奖学金。 |
@@ -62,6 +64,7 @@
 | [UBC 国际学费奖（International Tuition Award）](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/awards-and-scholarships/international-tuition-awards)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | 滚动<br><sub>🔄 随时可申</sub> | ✅ | **要求：** 无需申请，符合条件的国际研究生自动获考虑；若已获得支付学费的外部奖学金或资助则不享受。<br>温哥华校区国际研究生学费奖：页面称符合条件的国际学生自动获考虑、无需申请；已获得支付学费的外部奖学金或资助者不符合条件。 |
 | [UBC 研究生院 博士资助保障页](https://www.grad.ubc.ca/phd)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>最低 $40,000/年（博士前 4 年，2026 年秋起）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各院系入学截止不同；资助保障适用于 2026 年秋季起入学的博士生前 4 年</sub> | ✅ | **要求：** 需通过 UBC 博士项目录取；资助为助教、奖学金等来源合计的最低保障，学费另计；具体国际生资格以各项目为准<br>不列学科的 UBC 博士总入口。页面称 2026 年秋季起博士前 4 年基础资助为 $40,000/年（税前、学费前），由助教、奖学金等合并构成。具体保障需另查相应院系页面。 |
 | [UBC 药学系博士资助与奖学金](https://pharmsci.ubc.ca/programs/msc-phd-degrees/funding-and-awards)<br><sub>加拿大 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>2027 年入学截止以官网为准。</sub> | ✅ | 页面称药学系全日制博士生国内外相同，每年至少获 $40,000 资助，可含奖学金及助教、助研岗位。国际博士生可获校级 International Tuition Award，最高 $3,200/年，无需单独申请。 |
+| [Université Laval 国际博士生学费豁免](https://www.ulaval.ca/etudes/droits-de-scolarite/etudiant-de-linternational)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | 各项目不同 | 🟡 | 博士学费豁免按政府配额分配，每学期名额有限，并非自动获得；仅持学习许可的留学生可申请。是学费减免，不含生活费；生活费可另申 PBEEE（需魁北克高校预选）。 |
 | [Western Schulich 医学院流行病学与生物统计学博士资助](https://www.schulich.uwo.ca/epibio/graduate/student_finances.html)<br><sub>加拿大 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>最低保障 $25,000/年（含学费，2026–27 年度；国内与国际生同额）</sub> | 未公布<br><sub>📋 持续更新</sub> | ✅ | 2026–27 年度资助表称博士生最低保障 $25,000（含学费），国际生与国内生总额相同，但国际生的导师份额更高，学校奖学金较少；TA/RA 及其他院系职位不计入保障。以 offer 为准。 |
 | [Western 大学 FIMS 博士学费与资助说明（WGRS 国际生补充）](https://www.fims.uwo.ca/phd-media-studies/tuition-finances.html)<br><sub>加拿大 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | **2027-01-15** | ✅ | **要求：** 全日制博士生并保持良好学业状态；国际生需达到所在学院规定的最低资助平均标准才可获 WGRS 补充；须满足进度要求<br>Western 大学 FIMS 博士学费与资助说明。全日制且学业良好的博士生享有大学博士资助保障；达到最低资助平均标准的国际生可在标准资助包外获得 WGRS 补充，以使学费接近本地标准。页面未列单独的国际生补充金额。 |
 | [卡尔加里大学 CSC 博士申请指南](https://grad.ucalgary.ca/future-students/international-students/china-scholarship-council)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>学校项目申请窗口多为 9 月至次年 1 月；CSC 校内申请约 3 月 20 日至 4 月 5 日（页面未注明年份，需确认）。</sub> | ✅ | 在线申请时在 remarks 栏注明参加 CSC 竞争并主动联系导师；FGS 最迟于 3 月 20 日前发出录取通知，CSC 校内申请窗口为 3 月 20 日至 4 月 5 日。 |
@@ -138,11 +141,13 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（20）
+## 博士后奖学金与项目（23）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Amii 职业机会页（博后与 AI 研究岗位）](https://amii.ca/about/career-opportunities)<br><sub>加拿大 ｜ 人工智能</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | —<br><sub>📋 持续更新</sub><br><sub>页面所见 AI Fellowship 截止 2025-06-26 已过；新岗位需看 amii.ca 职业页</sub> | ❔ | Amii 职业机会页，为持续更新入口。所见博后与 AI Fellowship 多已截止。非加拿大公民需确认工作许可。 |
+| [Banting Postdoctoral Fellowships（加拿大联邦三大基金会）](https://banting.fellowships-bourses.gc.ca/en/brochure_banting_brochure.html)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>每年 70,000 加元，共两年（页面所示）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>通常每年 9 月下旬由加拿大高校内部提名截止，当前一轮日期以官网为准</sub> | ✅ | **要求：** 近期获得博士学位；须有加拿大受资助机构作为接收单位并经其提名；向国际申请人开放<br>需先联系加拿大高校的接收导师，由学校内部提名后在线提交，覆盖 CIHR/NSERC/SSHRC 三大领域。 |
+| [Burroughs Wellcome 基金会博士后强化项目（PDEP）](https://www.bwfund.org/wp-content/uploads/2020/10/BWF_PDEP-RFP-2026_v2.pdf)<br><sub>美国·加拿大 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 RFP 截止 1 月 20 日已过；2027 轮 RFP 未在搜索中找到</sub> | ❔ | **要求：** 2026 轮 RFP 资格条款（国籍）未能核实；早期页面称需美国或加拿大公民，以 RFP 原文为准<br>只面向美国或加拿大公民，且须在美国或加拿大学位授予机构做博后，中国籍不符合。2026 年截止日为 1 月 20 日，已过。仅作为排除项保留。 |
 | [CANSSI Ontario 博士后奖学金（统计与数据科学）](https://canssi.ca/program/canssi-ontario-pfs/)<br><sub>加拿大 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>最高 $70,000/年，另含福利（页面所示，两年期）</sub> | 未公布<br><sub>🔜 即将开放</sub><br><sub>教师提案截止为 2026 年 10 月（页面未给具体日期）；学者招募 2026 年 11 月至 2027 年 1 月。</sub> | ❔ | **要求：** 近期获博士学位（统计、精算、生物统计或数据科学）；两位合作导师均需在安大略 CANSSI 合作高校或其附属研究机构。<br>CANSSI 安大略统计博士后奖学金，与 CDPF 同一申请流程，两年期。页面称每两年征集一次。 |
 | [CANSSI 分布式博士后奖学金（CDPF，统计/精算/生物统计/数据科学）](https://canssi.ca/program/distinguished-postdoctoral-fellowships/)<br><sub>加拿大 ｜ 数学/统计·生物/生命科学·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>最高 $70,000/年，另含福利（页面所示，两年期）</sub> | **2027-01-16**<br><sub>🔜 即将开放</sub><br><sub>2026–27 周期：教师提案截止 2026 年 10 月 1 日（已过）；学者招募 2026 年 11 月 21 日至 2027 年 1 月 16 日，以官网为准。</sub> | ❔ | CANSSI 分布式博士后奖学金：面向统计、精算、生物统计、数据科学方向近期获博士学位者，两年期，在加拿大合作高校进行。学者可从教授提出的项目中选择三个。 |
 | [Career Awards at the Scientific Interface（CASI，Burroughs Wellcome Fund）](https://www.bwfund.org/grants/interfaces-in-science/career-awards-at-the-scientific-interface/)<br><sub>美国·加拿大 ｜ 数学/统计·物理/天文·化学/材料·计算机·工程</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | **2026-08-14**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 LOI 截止 2026-08-14（已过）；全申请截止 2027-01-11（如受邀）；页面显示 Not Open to Applications。</sub> | ❔ | **要求：** 面向在美国/加拿大机构做博后的数学、物理、化学、计算机、统计或工程背景 PhD；博后年限与博士学位取得时间窗口以当期 RFP 为准；留学生需持允许在美加完成博后期的签证。<br>BWF 的跨学科博后到教职过渡奖；中国大陆申请者需自己找到美加宿主机构并确认签证，金额以当期 RFP 为准。 |
@@ -154,6 +159,7 @@
 | [Mitacs Accelerate（国际学生/国际博后）](https://www.mitacs.ca/our-programs/accelerate-international-students-postdocs/)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 仅生活费<br><sub>页面称学生与博后每 4–6 个月至少 $10,000 津贴/薪资（未注明币种）；项目资助起点 $15,000</sub> | —<br><sub>🔄 随时可申</sub> | ❔ | **要求：** 国际博士生须持有效学习许可（学生签证），国际博后须持有效工作许可；博后须在博士毕业 5 年内；需高校与企业合作项目<br>官网称该项目面向各学科的学生与博后，国际学生须持学生签证、国际博后须持工作许可；资助起点 $15,000，合作伙伴出资起点 $7,500。官网提示项目将于 10 月 31 日起有变更，申请前需核对。 |
 | [Mitacs Elevate 博士后奖学金](https://mitacs.ca/en/programs/elevate/program-details/postdoctoral-fellows)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>每年最低 $55,000（Elevate 奖励每年 $60,000，页面未注明货币）</sub> | — | ✅ | **要求：** 博士学位须在 5 年内取得（批准的职业中断可例外）；研究须在加拿大学术机构进行；需加拿大合作导师与企业合作方<br>页面称 Elevate 博士后与合作企业共同应用研究；合作企业须在加拿大注册，并满足办公或研究场地等条件。奖励每年 $60,000，其中最低津贴/薪资 $55,000。页面未说明博士毕业年限、研究地点或国籍资格，相关要求以官网为准。 |
 | [SFU 博士后申请者指南](https://www.sfu.ca/postdoctoral-fellows/prospective-fellows.html)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各博后项目截止日不同，以各项目页面为准</sub> | ❔ | **要求：** 需已获得博士学位（通常在过去五年内）；通常在一名或多名 SFU 教员指导下工作，一般 1–3 年<br>SFU 博后申请入口页，链接博后职位与资助信息；页面称博后通常在 SFU 教员指导下工作 1–3 年。具体项目截止与条件以各项目页面为准。 |
+| [U of Alberta Killam 博士后奖学金](https://ualberta.ca/graduate-studies/awards-and-funding/postdoctoral-fellow-funding/killam.html)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>CAD $50,000/年（最长两年）+ 一次性 $4,000 研究经费</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮提名截止 2026-01-07 已过；下一轮以官网为准</sub> | ✅ | **要求：** 博士学位须非阿尔伯塔大学授予，并在提名截止前 3 年内获得；需学校提名，研究须在阿省完成<br>任何国籍，需满足加拿大移民要求，博士在申请前约 24–36 个月内获得，需阿尔伯塔大学教员推荐。 |
 | [U of T 博士后资助项目汇总（GLSE）](https://glse.utoronto.ca/postdoctoral-fellowship-programs)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | — | ❔ | 原链接跳转至多伦多大学 RIHSE 页面，称其维护可搜索的博后奖项数据库，面向校园与医院博后。页面另列 Canada Impact+ Research Training Postdoctoral Award、The Provost's Postdoctoral Fellowship 等专项。 |
 | [UBC Killam 博士后研究奖学金](https://www.postdocs.ubc.ca/award/killam-postdoctoral-research-fellowship)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>$60,000/年，最长两年</sub> | **2026-11-06**<br><sub>🟢 开放申请</sub><br><sub>2027–28 轮校级截止 2026 年 11 月 6 日；各院系内部截止更早，需先联系意向院系。</sub> | ✅ | **要求：** 需院系提名（每单位至多推荐一人）；博士学位须在资助开始前 24 个月内完成。<br>面向全球学者的两年期博后（约 6 万加元/年），需院系提名，约 11 月截止。 |
 | [UBC Okanagan 博士后研究奖学金（UBCOPF）](https://gradstudies.ok.ubc.ca/wp-content/uploads/sites/84/2025/11/UBCOPF-Application-Guide-2026-2027-1.pdf)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>$60,000/年，资助期 2 年（不可续期，第二年需年度报告确认）</sub> | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026–27 周期完整申请截止为 2026 年 2 月 3 日（已过）；页面称每年授予，下一轮日期以官网为准。</sub> | ✅ | **要求：** 面向加拿大公民、永久居民及国际申请人；博士学位须在申请截止前 5 年内获得；不得持有教职；UBC 自身博士或博后须提供留校理由。<br>2026–2027 申请指南称年度资助为 $60,000，每年最多授予 2 个（STEM 与人文社科各一），资助期 2 年。 |

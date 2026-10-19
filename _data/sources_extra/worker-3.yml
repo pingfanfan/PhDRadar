@@ -158,6 +158,28 @@
   verify_method: page
   page_evidence: We are looking for prospective PhD students to work with us on a range of exciting research projects across particle physics.
   verified: 2026-10-18
+- id: asa-sydney-mailing-list
+  name: ASA 澳大利亚天文学会邮件列表（Sydney 存档）
+  url: https://mailman.sydney.edu.au/pipermail/asa/
+  category: people-channels
+  regions:
+  - AU
+  disciplines:
+  - physics
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - email
+  - web
+  language: en
+  coverage: varies
+  status: ongoing
+  notes: 澳大利亚天文学会博士与奖学金公告列表，常转发 ICRAR 等国际博士名额。
+  verify_method: page
+  page_evidence: 'The Week Of Monday 19 October 2026:'
+  verified: 2026-10-19
 - id: cinp-student-opportunities
   name: 加拿大核物理研究所学生机会（CINP）
   url: https://cinp.ca/programs
@@ -1394,6 +1416,26 @@
   verify_method: page
   page_evidence: awards $25,000 grants to 10 top accounting Ph.D. candidates across the U.S.
   verified: 2026-10-18
+- id: bocconi-phd-management
+  name: 博科尼大学博士（管理学）奖学金入口
+  url: https://www.unibocconi.it/en/news-topic/phd
+  category: university-schemes
+  regions:
+  - IT
+  disciplines:
+  - business
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  notes: 博科尼博士项目：2025-26 批次征集期为 4 月 15 日至 5 月 15 日（Tech European Foundation 资助的管理方向 2 个名额）；2027 批次未找到公告。需被博科尼博士项目录取，奖学金国籍与学历条件以官方公告为准。
+  verify_method: page
+  page_evidence: A call for two scholarships will be open from 15 April to 15 May for the Bocconi PhD in Business Administration and Management (Management curriculum).
+  verified: 2026-10-19
 - id: dal-killam-phd
   name: 达尔豪斯管理学院博士资助入口
   url: https://www.dal.ca/faculty/management/programs/scholarships-and-bursaries/application-required-graduate/phd-funding-support.html
@@ -1932,6 +1974,30 @@
   verify_method: page
   page_evidence: 'Stipend Value: $17,500 Master’s; $21,000 Doctoral.'
   verified: 2026-10-17
+- id: alberta-innovates-gss
+  name: Alberta Innovates 研究生奖学金（AI-GSS）
+  url: https://albertainnovates.ca/wp-content/uploads/2023/05/AI-GSS-PROGRAM-GUIDE_2025-2026-Oct-23-2024-FINAL.pdf
+  category: gov-scholarships
+  regions:
+  - CA
+  disciplines:
+  - cs
+  - engineering
+  - chem
+  - math
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: 'yes'
+  access:
+  - web
+  language: en
+  coverage: stipend
+  requirements: 需在阿尔伯塔省大学攻读全日制研究型硕博；GPA 至少 3.5；需导师担保；研究须属于指定新兴技术领域；不可同时持有其他 Alberta Innovates 资助
+  notes: 指南（2025/26 版）称国际生可申请，大学页面称无国籍限制；具体条款以当年 Program Guidelines 为准。津贴金额未确认，请勿沿用旧版金额。申请通过所在大学提交。
+  verify_method: page
+  page_evidence: Alberta Innovates Graduate Student Scholarships are open to Canadian, Permanent Resident and
+  verified: 2026-10-19
 - id: ucalgary-funding-floor
   name: 卡尔加里大学博士资助保底
   url: https://grad.ucalgary.ca/node/3740
@@ -7305,13 +7371,16 @@
   access:
   - web
   language: en
-  coverage: partial
+  coverage: full
+  stipend: £23,805/年（2026/27 学年，含伦敦补贴），含英国标准学费，共 3.5 年
   deadline: 2027-01-11
   deadline_note: 2027 年 9 月 20 日入学的 DLA 名额截止 2027 年 1 月 11 日；2026 年 9 月入学轮已截止
   status: open
   requirements: 国际生仅占约 30% 名额，需能于 2027 年 9 月 20 日入学；具体资格以校方说明为准
   notes: 校方 2027 入学的 DLA 招生广告称截止 2027 年 1 月 11 日，开学 2027 年 9 月 20 日；国际生最多占 30% 名额，AHRC 资助按本地学费标准计。国际生差额与 2027/28 津贴以校方说明为准。
-  verified: 2026-10-13
+  verify_method: page
+  page_evidence: Announcing 3 PhD Studentships within Royal Holloway, University of London, funded by the AHRC Doctoral Landscape Awards (DLA)
+  verified: 2026-10-19
 - id: usyd-medicine-health-intl-phd-scholarships
   name: 悉尼大学医学与健康学部国际博士研究生奖学金列表
   url: https://www.sydney.edu.au/scholarships/international/postgraduate-research/faculty/medicine-health.html
@@ -7854,6 +7923,32 @@
   verify_method: page
   page_evidence: 2026 年化工学院春季批次博士拟招生信息
   verified: 2026-10-17
+- id: ainse-postgraduate-research-award
+  name: AINSE 研究生研究奖（PGRA，核科学与技术补充资助）
+  url: https://www.ainse.edu.au/?p=801
+  category: fellowships
+  regions:
+  - AU
+  disciplines:
+  - physics
+  - chem
+  - engineering
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: partial
+  stipend: A$9,000/年（补充资助，需已获 RTP 等主奖学金）
+  deadline_note: 2026 轮已于 2026-04-15 截止；下一轮 2027 年 2 月开放、4 月截止
+  status: closed
+  requirements: 须为 AINSE 成员大学博士生且已获 RTP 或同等博士主奖学金；研究需使用 ANSTO 设施；硕士生不符合。
+  notes: 澳洲核科学博士补充资助（A$9,000/年），前提是已获 RTP 或同等主奖学金且项目需使用 ANSTO 设施。2023–2025 官方条款称不限国籍，2026 版摘录未见该表述，国际生资格以当年条款为准。
+  verify_method: page
+  page_evidence: Up to A$9,000 p.a. available to support your postgraduate research.
+  verified: 2026-10-19
 - id: kyoto-mext-science-admissions
   name: 京都大学理学研究科 MEXT 奖学金申请说明
   url: https://www.sci.kyoto-u.ac.jp/en/admissions/mext
@@ -10104,6 +10199,32 @@
   verify_method: page
   page_evidence: KU Graduate Fellowship is a competitive MS and Ph.D. scholarship opportunity.
   verified: 2026-10-18
+- id: auc-al-alfi-phd
+  name: AUC Al Alfi 博士奖学金（应用科学与工程）
+  url: https://www.aucegypt.edu/admissions/fellowships/listing/al-alfi-phd-fellowship-applied-sciences-and-engineering
+  category: fellowships
+  regions:
+  - EG
+  disciplines:
+  - engineering
+  - cs
+  - chem
+  - physics
+  - math
+  funding: fellowship
+  levels:
+  - phd
+  cn_eligible: 'no'
+  access:
+  - web
+  language: en
+  coverage: partial
+  status: closed
+  requirements: 仅限埃及国籍；需硕士（论文型）学位，GPA 不低于 3.2/4.0；需符合 AUC 博士录取要求
+  notes: 页面标注 No New Intake（暂无新一轮招生）；仅限埃及国籍，中国大陆学生不符合，此条仅作排除参考。
+  verify_method: page
+  page_evidence: Al Alfi PhD Fellowship in Applied Sciences and Engineering program is designed to prepare future scientists and industrial leaders who are Egyptian nationals
+  verified: 2026-10-19
 - id: erc-friend-group-cambridge-phd
   name: Friend Group · 剑桥 Cavendish · ERC AdG 招生
   url: https://friend.oe.phy.cam.ac.uk/join-the-group/
@@ -10215,6 +10336,55 @@
   verify_method: page
   page_evidence: The School of Computing Science is offering PhD studentships starting October 2027. Apply by 31 January 2027.
   verified: 2026-10-17
+- id: aberdeen-csc-china-funding
+  name: 阿伯丁大学中国奖学金（CSC 联合资助）
+  url: https://abdn.ac.uk/study/international/inmycountry/china/funding
+  category: university-schemes
+  regions:
+  - UK
+  disciplines:
+  - all
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: 'yes'
+  access:
+  - web
+  language: en
+  coverage: partial
+  deadline: rolling
+  deadline_note: CSC 网站申请，官网页面写明截止日期为 until further notice（另行通知前长期有效）
+  status: rolling
+  requirements: 须为中华人民共和国公民、已获硕士学位、申请时未满 35 岁，并先获阿伯丁录取；通过 CSC 网站申请
+  notes: 仅限中国公民攻读阿伯丁全日制博士（须先获录取，仅限阿伯丁校区）。CSC 发放月生活津贴与国际机票，学校可能另给学费减免；学成后须回国，具体比例以官网为准。
+  verify_method: page
+  page_evidence: The CSC Scholarship is open to Chinese nationals wishing to study for a full-time PhD in any discipline at the University of Aberdeen.
+  verified: 2026-10-19
+- id: aberystwyth-aberdoc-scholarships
+  name: 阿伯里斯特威斯大学 AberDoc 博士奖学金
+  url: https://www.aber.ac.uk/en/postgrad/scholarships/
+  category: university-schemes
+  regions:
+  - UK
+  disciplines:
+  - all
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: partial
+  stipend: 约 £20,780/年（生活费，AberDoc 页面，日期待核）
+  deadline: unknown
+  deadline_note: 2026 轮 AberDoc 已关闭；PhD Portal 列 2027-01-08，未经官网确认
+  status: closed
+  requirements: 学费资助上限为英国本地费率（约 £5,006/年，页面数据）；国际生需自付国际学费与本地学费的差额，除非另获奖学金
+  notes: AberDoc 按英国本地学费档覆盖学费并提供年度生活费；国际生需自付与国际学费的差额，除非另获奖学金。可用官网计算器筛选。
+  verify_method: page
+  page_evidence: A number of AberDoc PhD scholarships will be available for 2026-2027, in an open competition.
+  verified: 2026-10-19
 - id: bangor-postgraduate-funding
   name: 班戈大学研究生奖学金与 studentship 总页
   url: https://bangor.ac.uk/languages-literatures-and-linguistics/study-with-us/postgraduate-funding
@@ -11200,6 +11370,29 @@
   requirements: 需一等或二等荣誉学位（或同等专业成就）；非英语母语者 IELTS 7.0；申请费 £34.50
   notes: 苏格兰皇家音乐学院音乐与表演研究型博士 / MPhil（学位由圣安德鲁斯大学授予）。页面列出 2027 年 9 月入学的截止日 2027-01-13；原先的 ARCS 学费资助说明未能在官网核实，资助以当年官网为准。咨询 doctoraladmissions@rcs.ac.uk。
   verified: 2026-10-13
+- id: akbild-prae-doc-dr-phil
+  name: 维也纳美术学院 Dr. phil. prae-doc 大学助理岗位
+  url: https://calls.akbild.ac.at/calls/DRPHIL26/index.php?lang=EN
+  category: doctoral-programs
+  regions:
+  - AT
+  disciplines:
+  - humanities
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: 2026-04-13
+  deadline_note: 2026 轮截止 2026-04-13 已过（2026-10-01 起聘）；2027 轮未公布
+  status: closed
+  notes: 维也纳美术学院 Dr. phil. prae-doc 大学助理岗位，3 年、每周 30 小时、受薪。需硕士学位并提交不超过 5 页的摘要与课题计划。2026 轮已截止，关注 2027 轮公告。
+  verify_method: page
+  page_evidence: 3 University Assistants (prae doc) in the Dr. phil. program
+  verified: 2026-10-19
 - id: columbia-gsapp-phd-support
   name: 哥伦比亚大学建筑学院（GSAPP）博士生资助政策
   url: https://www.arch.columbia.edu/phd-support
@@ -14649,3 +14842,57 @@
   verify_method: page
   page_evidence: 'ERC-funded PhD positions are available. Apply here: mrozek@iic.cas.cz'
   verified: 2026-10-18
+- id: bilkent-gsen-financial-assistance
+  name: Bilkent 大学工程与科学研究生院资助说明（博士）
+  url: https://mfbe.bilkent.edu.tr/?page_id=35
+  category: university-schemes
+  regions:
+  - TR
+  disciplines:
+  - engineering
+  - cs
+  - physics
+  - chem
+  - bio
+  - math
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  deadline: unknown
+  deadline_note: 下一轮日期未见，请到官网确认
+  status: ongoing
+  requirements: 页面称几乎所有研究生可获学费减免和津贴；国际生材料要求以官网为准
+  notes: 官方页称几乎所有研究生有学费减免和津贴。具体金额以官网为准。
+  verify_method: page
+  page_evidence: Currently over 95% of the graduate students in the Graduate School of Engineering and Science receive financial support.
+  verified: 2026-10-19
+- id: banting-postdoctoral-fellowships
+  name: Banting Postdoctoral Fellowships（加拿大联邦三大基金会）
+  url: https://banting.fellowships-bourses.gc.ca/en/brochure_banting_brochure.html
+  category: postdoc-fellowships
+  regions:
+  - CA
+  disciplines:
+  - all
+  funding: fellowship
+  levels:
+  - postdoc
+  cn_eligible: 'yes'
+  access:
+  - web
+  language: en
+  coverage: stipend
+  stipend: 每年 70,000 加元，共两年（页面所示）
+  deadline: varies
+  deadline_note: 通常每年 9 月下旬由加拿大高校内部提名截止，当前一轮日期以官网为准
+  status: ongoing
+  requirements: 近期获得博士学位；须有加拿大受资助机构作为接收单位并经其提名；向国际申请人开放
+  notes: 需先联系加拿大高校的接收导师，由学校内部提名后在线提交，覆盖 CIHR/NSERC/SSHRC 三大领域。
+  verify_method: page
+  page_evidence: are open to both Canadian and international researchers who have recently completed a PhD
+  verified: 2026-10-19

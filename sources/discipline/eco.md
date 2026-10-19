@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 生态/进化 信源（75）
+# 生态/进化 信源（78）
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 9](eco.md#aggregators) · [政府与国家级奖学金 1](eco.md#gov-scholarships) · [高校旗舰奖学金与资助检索 11](eco.md#university-schemes) · [结构化博士项目与研究机构 32](eco.md#doctoral-programs) · [博士后奖学金与项目 6](eco.md#postdoc-fellowships) · [企业与基金会 Fellowship 3](eco.md#fellowships) · [学科专属信源 7](eco.md#discipline) · [个人信源与社交渠道 3](eco.md#people-channels) · [导师招生帖（社交平台个人发布） 3](eco.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 9](eco.md#aggregators) · [政府与国家级奖学金 1](eco.md#gov-scholarships) · [高校旗舰奖学金与资助检索 13](eco.md#university-schemes) · [结构化博士项目与研究机构 32](eco.md#doctoral-programs) · [博士后奖学金与项目 6](eco.md#postdoc-fellowships) · [企业与基金会 Fellowship 3](eco.md#fellowships) · [学科专属信源 7](eco.md#discipline) · [个人信源与社交渠道 4](eco.md#people-channels) · [导师招生帖（社交平台个人发布） 3](eco.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
@@ -36,10 +36,12 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（11）
+## 高校旗舰奖学金与资助检索（13）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [ACCE+ 博士培训伙伴 NOC 博士学位机会（DLA）](https://accedtp.ac.uk/acce-dla-opportunities-at-the-national-oceanography-centre)<br><sub>英国 ｜ 地球/环境/海洋·生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | **2026-01-07**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 10 月入学截止 2026-01-07（已过）；2027 轮未确认</sub> | 🟡 | **要求：** 通过 ACCE+ 在线表格申请并将 EDI 表发至 acce.dtp@liverpool.ac.uk；UKRI 资助以英国本土学费为准，国际生仅能通过部分按本土学费计费的伙伴方案；签证、医疗附加费与搬迁费不在资助内<br>ACCE+ 为英国 NERC 博士培训伙伴，NOC 课题通过其在线申请表提交。2026 年 10 月入学的截止日为 2026-01-07，已过期；UKRI 资助只覆盖英国学生学费，签证和搬迁费用不在资助内。 |
+| [AIMS@JCU 海洋科学博士与硕士奖学金（澳大利亚海洋研究所 + 詹姆斯库克大学）](https://aims.jcu.edu.au/phd-scholarships/)<br><sub>澳大利亚 ｜ 生物/生命科学·生态/进化·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>A$37,500/年（2027 轮，JCU 国际生页面），另含学费</sub> | **2026-09-01**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 入学轮次申请截止 2026 年 9 月 1 日（已过）；下一轮未公布</sub> | 🟡 | **要求：** 需同时有 AIMS 与 JCU 导师，项目须在两者重叠领域；通过 JCU 研究生院提交；名额每年有限<br>每年最多 4 个名额，需同时有 AIMS 与 JCU 导师，项目须在两者重叠领域。JCU 国际生页面列 2027 年生活津贴 A$37,500/年（另含学费）；不同页面的附加项目费数字有出入，以官网为准。2027 入学轮次截止 2026 年 9 月 1 日（已过），通过 JCU 研究生院提交。 |
 | [Alberta Innovates 博士后招募奖学金（Recruitment Fellowships）](https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/alberta-innovates-recruitment-fellowships.html)<br><sub>加拿大 ｜ 生态/进化·工程·生物/生命科学·计算机·化学/材料·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>CAD 70,000/年（最长 2 年，不含福利）</sub> | **2026-09-02**<br><sub>⏸ 本轮已截止</sub><br><sub>第一批（1st intake）申请截止 2026-09-02，已过；后续批次日期见大学 Deadlines and Timelines 页面</sub> | ✅ | **要求：** 需已获博士学位；须为校外新入职候选人；研究须为健康相关并在阿尔伯塔大学开展<br>阿尔伯塔大学博士后招募奖学金，年额 CAD 70,000，最长两年，不含福利；须为校外新入职候选人，研究须为健康相关并在阿尔伯塔大学开展。页面称无国籍限制。 |
 | [ANU 生物学院国际博士奖学金](https://study.anu.edu.au/scholarships/find-scholarship/research-school-biology-international-phd-scholarship)<br><sub>澳大利亚 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 滚动<br><sub>🔄 随时可申</sub> | ✅ | **要求：** 需为全日制国际博士生；建议先联系 ANU 导师，选拔依据研究潜力、学术成绩与成果。<br>ANU 生物学院国际博士奖学金对全日制国际博士生开放，无需单独申请，申请入学并满足条件即被考虑；奖金按双周发放 3.5 年，另有旅费、搬迁、论文等补贴。 |
 | [ARIES 博士培训伙伴奖学金（含 Cefas 合作 CASE 项目）](https://aries-dtp.ac.uk/studentships/)<br><sub>英国 ｜ 地球/环境/海洋·生态/进化·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£20,780/年（2025/26 标准，2026/27 待定）</sub> | **2026-12-16**<br><sub>🟢 开放申请</sub><br><sub>2027 年 10 月 1 日开学批次，申请截止 2026-12-16 23:59。</sub> | ❔ | ARIES 页面列出 UKRI NERC DLA 资助的博士项目（studentships），2027 年 10 月 1 日开学。页面显示申请截止为 2026-12-16 23:59，旧版“2026-01-07 已截止”信息已过时。 |
@@ -130,12 +132,13 @@
 
 <a id="people-channels"></a>
 
-## 个人信源与社交渠道（3）
+## 个人信源与社交渠道（4）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Coral-List 珊瑚礁邮件列表归档](https://lists.coralreefs.org/mailman/listinfo/coral-list)<br><sub>全球 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | 珊瑚礁全球邮件列表，2024 年起由国际珊瑚礁学会（ICRS）运营，始于 1995 年 NOAA AOML。页面称列表常有招聘岗位发布，但禁止张贴求职请求和简历；页面未写明资助信息。 |
 | [亚当·密茨凯维奇大学环境生物学院 博士招生公告](https://envbiol.web.amu.edu.pl/en/category/announcements-for-phd-students/)<br><sub>波兰 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 学院博士招生公告栏，每条职位类型与资助需逐条核实。 |
+| [安特卫普大学进化与生态组（EvECo）招聘页](https://www.uantwerpen.be/en/research-groups/eveco/organisation/job-opportunities)<br><sub>比利时 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | **2027-03-01**<br><sub>📋 持续更新</sub><br><sub>FWO 博士奖学金年度截止 3 月 1 日，2026 轮已过，下一轮为 2027 年 3 月 1 日；FWO 博后截止 12 月 1 日（据 EvECo 官网）</sub> | ❔ | **要求：** EvECo 页面称 FWO 博士奖学金面向欧盟及欧洲经济区学生，中国学生资格未核实，需向校方和 FWO 确认。<br>博士岗位绑定具体项目，大学仅通过项目公告招博士。EvECo 页面称 FWO 博士奖学金年度截止 3 月 1 日；其他 UAntwerp 页写 2 月 1 日，口径不一，以 FWO 官网为准。 |
 | [康斯坦茨大学进化生物学课题组岗位页](https://www.evolutionsbiologie-uni-konstanz.com/job-opportunities.html)<br><sub>德国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止不同</sub> | ❔ | 页面称全年欢迎博士与博后咨询，可直接联系 Axel Meyer 教授；页面另列 Assistant Professor（Jr. Group Leader）岗位，入职时间待定。 |
 
 <a id="recruiting-posts"></a>

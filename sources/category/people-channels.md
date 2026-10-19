@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 个人信源与社交渠道（82）
+# 个人信源与社交渠道（84）
 
 导师主页、学术社交媒体等“非公开招聘”信息，很多名额从不挂到平台上。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [德国（DE） 19](people-channels.md#r-de) · [瑞士（CH） 11](people-channels.md#r-ch) · [英国（UK） 8](people-channels.md#r-uk) · [全球（GLOBAL） 6](people-channels.md#r-global) · [美国（US） 5](people-channels.md#r-us) · [中国香港（HK） 3](people-channels.md#r-hk) · [印度（IN） 3](people-channels.md#r-in) · [意大利（IT） 3](people-channels.md#r-it) · [韩国（KR） 3](people-channels.md#r-kr) · [荷兰（NL） 3](people-channels.md#r-nl) · [加拿大（CA） 2](people-channels.md#r-ca) · [中国内地（CN） 2](people-channels.md#r-cn) · [丹麦（DK） 2](people-channels.md#r-dk) · [西班牙（ES） 2](people-channels.md#r-es) · [欧盟/欧洲（EU） 2](people-channels.md#r-eu) · [日本（JP） 2](people-channels.md#r-jp) · [澳大利亚（AU） 1](people-channels.md#r-au) · [比利时（BE） 1](people-channels.md#r-be) · [捷克（CZ） 1](people-channels.md#r-cz) · [法国（FR） 1](people-channels.md#r-fr) · [波兰（PL） 1](people-channels.md#r-pl) · [瑞典（SE） 1](people-channels.md#r-se)
+**按地区跳转：** [德国（DE） 19](people-channels.md#r-de) · [瑞士（CH） 11](people-channels.md#r-ch) · [英国（UK） 8](people-channels.md#r-uk) · [全球（GLOBAL） 6](people-channels.md#r-global) · [美国（US） 5](people-channels.md#r-us) · [中国香港（HK） 3](people-channels.md#r-hk) · [印度（IN） 3](people-channels.md#r-in) · [意大利（IT） 3](people-channels.md#r-it) · [韩国（KR） 3](people-channels.md#r-kr) · [荷兰（NL） 3](people-channels.md#r-nl) · [澳大利亚（AU） 2](people-channels.md#r-au) · [比利时（BE） 2](people-channels.md#r-be) · [加拿大（CA） 2](people-channels.md#r-ca) · [中国内地（CN） 2](people-channels.md#r-cn) · [丹麦（DK） 2](people-channels.md#r-dk) · [西班牙（ES） 2](people-channels.md#r-es) · [欧盟/欧洲（EU） 2](people-channels.md#r-eu) · [日本（JP） 2](people-channels.md#r-jp) · [捷克（CZ） 1](people-channels.md#r-cz) · [法国（FR） 1](people-channels.md#r-fr) · [波兰（PL） 1](people-channels.md#r-pl) · [瑞典（SE） 1](people-channels.md#r-se)
 
 <a id="r-de"></a>
 
@@ -144,6 +144,24 @@
 | [MPI 心理语言学研究所招聘页（奈梅亨）](https://www.mpi.nl/career-education/vacancies)<br><sub>荷兰 ｜ 人文/语言·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ✅ | 页面列出一个 3 年期博后研究员岗位（统计遗传学/遗传流行病学，由马普学会资助）；其余列出的岗位均标注 DEADLINE HAS PASSED，页面上未见博士岗位。 |
 | [代尔夫特理工大学（TU Delft）化工系博士岗位页](https://tudelft.nl/tnw/over-faculteit/afdelingen/chemical-engineering/career-at-cheme)<br><sub>荷兰 ｜ 工程·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ✅ | 化工系官方招聘入口，列出博士岗位（4 年，研究型）；具体岗位以各公告为准，第三方列表中有截止已过的岗位，申请前需核对。国际生资格未在官方页面确认。 |
 
+<a id="r-au"></a>
+
+## 澳大利亚（AU）（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [ASA 澳大利亚天文学会邮件列表（Sydney 存档）](https://mailman.sydney.edu.au/pipermail/asa/)<br><sub>澳大利亚 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 澳大利亚天文学会博士与奖学金公告列表，常转发 ICRAR 等国际博士名额。 |
+| [Monash VL4AI 视觉-语言 AI 研究组博士岗位](https://vl4ai.erc.monash.edu/positions/general-phd/)<br><sub>澳大利亚 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 滚动<br><sub>🔄 随时可申</sub> | ✅ | **要求：** 计算机、工程或相关背景，具备机器学习/计算机视觉实践经验；先按莫纳什研究生申请流程申请，再发邮件至 vl4ai@monash.edu 联系课题组<br>莫纳什视觉-语言与机器人方向的资助博士岗位，国际生可申请。 |
+
+<a id="r-be"></a>
+
+## 比利时（BE）（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [安特卫普大学 EMAT 电子显微镜组开放职位](https://www.uantwerpen.be/en/research-groups/emat/about-us/open-positions/)<br><sub>比利时 ｜ 物理/天文·化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>📋 持续更新</sub> | ✅ | **要求：** 职位页列有 PhD 与博士后岗位，透射电镜经验为加分项；具体学位要求以各职位页为准<br>页面称 EMAT 持续招聘 PhD 与博士后人员，可直接联系各研究项目负责人；技术岗位也定期开放。 |
+| [安特卫普大学进化与生态组（EvECo）招聘页](https://www.uantwerpen.be/en/research-groups/eveco/organisation/job-opportunities)<br><sub>比利时 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | **2027-03-01**<br><sub>📋 持续更新</sub><br><sub>FWO 博士奖学金年度截止 3 月 1 日，2026 轮已过，下一轮为 2027 年 3 月 1 日；FWO 博后截止 12 月 1 日（据 EvECo 官网）</sub> | ❔ | **要求：** EvECo 页面称 FWO 博士奖学金面向欧盟及欧洲经济区学生，中国学生资格未核实，需向校方和 FWO 确认。<br>博士岗位绑定具体项目，大学仅通过项目公告招博士。EvECo 页面称 FWO 博士奖学金年度截止 3 月 1 日；其他 UAntwerp 页写 2 月 1 日，口径不一，以 FWO 官网为准。 |
+
 <a id="r-ca"></a>
 
 ## 加拿大（CA）（2）
@@ -197,22 +215,6 @@
 | --- | --- | --- | --- | :-: | --- |
 | [NIMS 英文招聘总页](https://www.nims.go.jp/eng/employment/)<br><sub>日本 ｜ 物理/天文·化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub><br><sub>各公告截止不同；已见岗位截止已过，需逐个查看</sub> | ✅ | **要求：** 研究员公告通常要求博士学位；PI 岗位需提出在 NIMS 研究中心的研究项目<br>含 ICYS 研究员与各中心博后公告入口。 |
 | [东北大学 WPI-AIMR 英文空缺页](https://www.wpi-aimr.tohoku.ac.jp/en/about/staff)<br><sub>日本 ｜ 物理/天文·化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止日不同；当前可见最近截止为 2026-10-30（安全卫生管理办公室技术职员，1–3 年任期）</sub> | ✅ | **要求：** 正文未列语言要求；原条目中的英语工作语言与日语 JLPT N2 加分项在该页面中未见。<br>东北大学 AIMR 当前招聘：安全卫生管理办公室技术职员（截止 2026-10-30，任期 1–3 年），以及 Mehrdad Elyasi 实验室的特任助理教授（博士后，初任一年，最长可延至四年）。 |
-
-<a id="r-au"></a>
-
-## 澳大利亚（AU）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [Monash VL4AI 视觉-语言 AI 研究组博士岗位](https://vl4ai.erc.monash.edu/positions/general-phd/)<br><sub>澳大利亚 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 滚动<br><sub>🔄 随时可申</sub> | ✅ | **要求：** 计算机、工程或相关背景，具备机器学习/计算机视觉实践经验；先按莫纳什研究生申请流程申请，再发邮件至 vl4ai@monash.edu 联系课题组<br>莫纳什视觉-语言与机器人方向的资助博士岗位，国际生可申请。 |
-
-<a id="r-be"></a>
-
-## 比利时（BE）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [安特卫普大学 EMAT 电子显微镜组开放职位](https://www.uantwerpen.be/en/research-groups/emat/about-us/open-positions/)<br><sub>比利时 ｜ 物理/天文·化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>📋 持续更新</sub> | ✅ | **要求：** 职位页列有 PhD 与博士后岗位，透射电镜经验为加分项；具体学位要求以各职位页为准<br>页面称 EMAT 持续招聘 PhD 与博士后人员，可直接联系各研究项目负责人；技术岗位也定期开放。 |
 
 <a id="r-cz"></a>
 

@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 数学/统计 信源（161）
+# 数学/统计 信源（166）
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 4](math.md#aggregators) · [各国学术招聘门户与机构职位页 2](math.md#national-portals) · [政府与国家级奖学金 1](math.md#gov-scholarships) · [高校旗舰奖学金与资助检索 25](math.md#university-schemes) · [结构化博士项目与研究机构 69](math.md#doctoral-programs) · [博士后奖学金与项目 32](math.md#postdoc-fellowships) · [企业与基金会 Fellowship 11](math.md#fellowships) · [学科专属信源 10](math.md#discipline) · [科研实习与“曲线入口” 1](math.md#pathways) · [个人信源与社交渠道 3](math.md#people-channels) · [导师招生帖（社交平台个人发布） 2](math.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 1](math.md#faculty-aggregators)
+**按分类跳转：** [综合聚合平台 4](math.md#aggregators) · [各国学术招聘门户与机构职位页 2](math.md#national-portals) · [政府与国家级奖学金 2](math.md#gov-scholarships) · [高校旗舰奖学金与资助检索 28](math.md#university-schemes) · [结构化博士项目与研究机构 69](math.md#doctoral-programs) · [博士后奖学金与项目 32](math.md#postdoc-fellowships) · [企业与基金会 Fellowship 12](math.md#fellowships) · [学科专属信源 10](math.md#discipline) · [科研实习与“曲线入口” 1](math.md#pathways) · [个人信源与社交渠道 3](math.md#people-channels) · [导师招生帖（社交平台个人发布） 2](math.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 1](math.md#faculty-aggregators)
 
 <a id="aggregators"></a>
 
@@ -32,19 +32,21 @@
 
 <a id="gov-scholarships"></a>
 
-## 政府与国家级奖学金（1）
+## 政府与国家级奖学金（2）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [Alberta Innovates 研究生奖学金（AI-GSS）](https://albertainnovates.ca/wp-content/uploads/2023/05/AI-GSS-PROGRAM-GUIDE_2025-2026-Oct-23-2024-FINAL.pdf)<br><sub>加拿大 ｜ 计算机·工程·化学/材料·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | — | ✅ | **要求：** 需在阿尔伯塔省大学攻读全日制研究型硕博；GPA 至少 3.5；需导师担保；研究须属于指定新兴技术领域；不可同时持有其他 Alberta Innovates 资助<br>指南（2025/26 版）称国际生可申请，大学页面称无国籍限制；具体条款以当年 Program Guidelines 为准。津贴金额未确认，请勿沿用旧版金额。申请通过所在大学提交。 |
 | [ARC 量子计算未来领袖培训中心（FLiQC）博士奖学金](https://sydneyquantum.org/program/future-leaders-in-quantum-computing-scholarship/)<br><sub>澳大利亚 ｜ 物理/天文·计算机·工程·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>A$42,754/年（2026 年标准）</sub> | **2026-10-08**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 10 月 8 日截止，现已关闭；开放日为 2026 年 8 月 26 日</sub> | ✅ | **要求：** 页面列出的合作大学为 UNSW Sydney 与 University of Technology Sydney；需取得博士录取并获项目导师支持；研究须属量子技术领域；需可取得签证；不得同时持有主要博士津贴（如 RTP）。<br>ARC 资助、面向国内外学生的量子科技工业博士奖学金，2026 年标准津贴 A$42,754/年，最长 4 年；需先获合作大学博士录取并取得项目导师支持。2026 轮已于 2026 年 10 月 8 日关闭。 |
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（25）
+## 高校旗舰奖学金与资助检索（28）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [BCAM 巴斯克应用数学中心 · 招聘门户（博士生 R1 / 博后 R2-R3 岗位）](https://joboffers.bcamath.org/)<br><sub>西班牙 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面未写各岗位截止日期，需逐条打开岗位页查看。</sub> | ❔ | **要求：** 国际生资格以单个岗位公告为准；首页未写国籍限制。<br>BCAM 巴斯克应用数学中心招聘门户当前列出博后岗位 IC2026_09_01 及硕士论文与实习项目，联系邮箱 joinus@bcamath.org。抓取页面未见博士生（R1）岗位，薪资与合同以岗位页为准。 |
+| [Bilkent 大学工程与科学研究生院资助说明（博士）](https://mfbe.bilkent.edu.tr/?page_id=35)<br><sub>土耳其 ｜ 工程·计算机·物理/天文·化学/材料·生物/生命科学·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 未公布<br><sub>📋 持续更新</sub><br><sub>下一轮日期未见，请到官网确认</sub> | ❔ | **要求：** 页面称几乎所有研究生可获学费减免和津贴；国际生材料要求以官网为准<br>官方页称几乎所有研究生有学费减免和津贴。具体金额以官网为准。 |
 | [HKU 数学系研究生申请页](https://hkumath.hku.hk/web/prospective/p-pg-admission.php)<br><sub>中国香港 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ✅ | **要求：** 须获 HKU 数学系博士录取；在线申请表勾选 HKPF 或 PGS；HKPF 另需提交 RGC 初步申请。<br>页面说明在线申请表中勾选 HKPF Scheme 或 Postgraduate Studentship（PGS）的方法，HKPF 另需完成 RGC 初步申请表。页面所列申请时间为 2023-24 入学，当前截止日未在页面确认。 |
 | [ICTP 研究生文凭项目（Postgraduate Diploma，为博士过渡）](https://2022.ictp.it/sites/default/files/attachments/Poster_DP_Academic_years_2026_2027_0.pdf)<br><sub>意大利 ｜ 物理/天文·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-02-28**<br><sub>⏸ 本轮已截止</sub><br><sub>官方 2026–27 学年征集海报标注截止为 2026 年 2 月 28 日，已过；该海报中未出现原记录的延长至 3 月 15 日。</sub> | ❔ | **要求：** 约等于理学硕士的物理、数学或相关学位，英语流利；面向发展中国家学生（以官网为准）<br>ICTP 研究生文凭项目（Postgraduate Diploma），面向发展中国家学生，为攻读博士做准备，设高能与宇宙、凝聚态、地球系统、数学、定量生命科学五个方向。2026–27 学年征集已截止。 |
 | [ITS（泗水理工学院）Global Excellence 博士奖学金](https://www.its.ac.id/international/experiencing-its/prospective-student/scholarship/global-excellence-scholarship/)<br><sub>ID ｜ 工程·计算机·数学/统计·物理/天文·化学/材料·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>IDR 5,000,000/月（2025 届报道；2026 届以官网为准）</sub> | **2026-05-06**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 届报名 4 月 1 日至 5 月 6 日已截止；2027 批次官网未公布，往年约 4–5 月开放</sub> | ✅ | **要求：** 需硕士 GPA 3.25/4.00、英语成绩（如 IELTS 6.0 或 TOEFL iBT 71）、2026 年 7 月 31 日时未满 35 岁、至少一篇国际发表及两封推荐信<br>面向国际生的博士全奖，含六学期学费、月生活费、保险、签证与往返机票；2026 届 4–5 月申请已截止，要求 GPA 3.25 与国际发表，2027 批次看官网。 |
@@ -60,6 +62,8 @@
 | [剑桥大学数学系博士资助渠道](https://www.maths.cam.ac.uk/postgrad/phd/)<br><sub>英国 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>2026 入学批次院系截止 2026 年 1 月 7 日（已过）；2027 入学轮次未确认</sub> | ❔ | 数学系 PhD 资助渠道页，列出 EPSRC DLA、STFC DTP、G-Research 与 Martingale 等，页面称资助不保证；需同时申请大学 Postgraduate Funding Competition（如 Gates Cambridge）。2026 入学批次学院资助截止 2026 年 1 月 7 日已过，2027 轮通常次年 1 月前后。 |
 | [北海道大学理学研究院 IGC-DHS 数据驱动与假设驱动科学国际研究生课程（MEXT 2027 年 10 月入学）](https://www2.sci.hokudai.ac.jp/gs/en/news/5419)<br><sub>日本 ｜ 数学/统计·物理/天文·地球/环境/海洋·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-11-15**<br><sub>🟢 开放申请</sub><br><sub>第一阶段材料提交期为 2026 年 10 月 1 日至 11 月 15 日（页面所列）；逾期材料不予考虑，最终筛选约 2027 年 1 月。</sub> | ❔ | **要求：** 需通过北海道大学 IGC-DHS 录取，申请材料须以英文提交；中国大陆申请人能否占用 MEXT 名额须以官网与使馆渠道为准。<br>页面称 2027 年 10 月入学的 IGC-DHS 有 5 个全额 MEXT 奖学金（博士 4 个、硕士 1 个）。申请流程为先与拟指导教授联系，再向国际学术支持办公室提交材料；通过终审者约 2027 年 3 月由校长推荐给文部科学省。 |
 | [奥胡斯大学数学系空缺岗位页](https://math.au.dk/en/about/vacancies/phd)<br><sub>丹麦 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>最新一轮截止 2026 年 11 月 1 日，2027 年 2 月 1 日起始</sub> | ❔ | 奥胡斯大学数学系带薪博士岗位（Mathematics and Stochastics），官网博士招聘页可见 2026 年 11 月 1 日截止的一轮；薪资、学历与国际生资格以岗位公告为准。 |
+| [巴斯大学 EPSRC 博士着陆奖（Doctoral Landscape Award，原 DTP 页面）](https://www.bath.ac.uk/campaigns/epsrc-doctoral-landscape-award/)<br><sub>英国 ｜ 工程·物理/天文·化学/材料·数学/统计·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>每年批次时间不同，2027 年入学截止日期未确认。</sub> | 🟡 | **要求：** 国际生名额按 UKRI 规定不超过 30%；学位津贴不含英国签证及医疗附加费（IHS），需自行承担；项目按批次公布，通常每年 10 月起发布<br>巴斯大学 EPSRC 博士着陆奖（原 DTP 项目更名）：覆盖学费与生活津贴（按 UKRI 标准），国际生名额按 UKRI 规定上限约 30%；不含英国签证与医疗附加费。项目按批次公布，通常每年 10 月起发布，2027 入学截止以官网项目列表为准。 |
+| [巴斯大学 SAMBa 统计应用数学博士培训中心（EPSRC CDT）](https://www.bath.ac.uk/campaigns/epsrc-centre-for-doctoral-training-in-statistical-applied-mathematics-samba/)<br><sub>英国 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 滚动<br><sub>🔄 随时可申</sub> | 🟡 | **要求：** 国际生名额上限约 30%；签证费与 IHS 不在资助范围内。<br>EPSRC 资助的统计与应用数学 CDT，覆盖学费、生活费和培训经费，最长 4 年。 |
 | [弗劳恩霍夫工业数学研究所（ITWM）入门与博士岗位](https://www.itwm.fraunhofer.de/en/jobs-career/beginners.html)<br><sub>德国 ｜ 数学/统计·计算机·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 优秀的学术学位（最好为数学、计算机科学或物理）；对新主题有强烈兴趣；能将模型实现为算法与软件；熟悉面向对象编程语言（如 C#、C/C++ 或 Java）；德语与英语读写和口语良好。<br>页面称博士岗位提供全职博士奖学金（full-time PhD scholarship），博士课题结合实际研究项目，通常 3 年，由研究所与合作大学共同指导；当前岗位见招聘页。 |
 | [波恩 Hausdorff 数学中心岗位与机会页](https://www.mathematics.uni-bonn.de/hcm/opportunities/home)<br><sub>德国 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>博后申请截止 2026-11-01；页面显示博士岗位申请截止 2026-12-06</sub> | ❔ | 页面列出当前博士岗位（申请截止 2026 年 12 月 6 日）与博后岗位（申请截止 2026 年 11 月 1 日）。Bonn Junior Fellows 的申请截止 2026 年 9 月 27 日已过。 |
 | [波恩大学数学系 · 博士后岗位](https://www.mathematics.uni-bonn.de/hcm/opportunities/jobs/postdoc-positions)<br><sub>德国 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>页面显示当前公告（MathJobs）申请截止 2026 年 11 月 1 日</sub> | ❔ | 页面为 HCM 博后岗位列表，当前公告通过 MathJobs 申请，申请截止 2026 年 11 月 1 日。 |
@@ -187,11 +191,12 @@
 
 <a id="fellowships"></a>
 
-## 企业与基金会 Fellowship（11）
+## 企业与基金会 Fellowship（12）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Aspen 物理中心夏季项目（博后及以上参与者）](https://aspenphys.org/summer/admissions-and-eligibility-criteria/)<br><sub>美国 ｜ 物理/天文·数学/统计·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 半奖/部分 | **2026-01-15**<br><sub>⏸ 本轮已截止</sub> | ❔ | **要求：** 一般需博士后及以上身份，特殊情况接受即将毕业的博士生<br>面向博士后及以上的夏季项目（特殊情况下接收即将毕业的博士生）；页面称提供财务援助，可在申请表中提出请求。 |
+| [AUC Al Alfi 博士奖学金（应用科学与工程）](https://www.aucegypt.edu/admissions/fellowships/listing/al-alfi-phd-fellowship-applied-sciences-and-engineering)<br><sub>埃及 ｜ 工程·计算机·化学/材料·物理/天文·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>⏸ 本轮已截止</sub> | ⛔ | **要求：** 仅限埃及国籍；需硕士（论文型）学位，GPA 不低于 3.2/4.0；需符合 AUC 博士录取要求<br>页面标注 No New Intake（暂无新一轮招生）；仅限埃及国籍，中国大陆学生不符合，此条仅作排除参考。 |
 | [F.R.S.-FNRS · FRIA 博士奖学金 2026 迷你指南（英文）](https://frs-fnrs.be/docs/Reglement-et-documents/FRS-FNRS_Mini-guide_Bourses_FRIA_2026_EN.pdf)<br><sub>比利时 ｜ 物理/天文·化学/材料·生物/生命科学·工程·数学/统计·计算机·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请人电子提交截止 8 月 25 日，已截止；2027 轮预计 7 月开放</sub> | ❔ | **要求：** 未见国籍限制；外国学位须获入学资格认定；需导师与校长电子确认并通过口试<br>FRIA 严格限于已获学位、拟在工业或农业领域发展研究职业的申请人，并优先考虑具有工业或农业应用前景的项目。2026 轮申请人电子提交截止为 8 月 25 日。 |
 | [Hector Fellow Academy 博士岗位](https://hector-fellow-academy.de/en/young-scientist-support/doctoral-positions)<br><sub>德国 ｜ 计算机·数学/统计·物理/天文·化学/材料·生物/生命科学·工程·医学/公卫·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-10-15**<br><sub>⏸ 本轮已截止</sub><br><sub>页面列出的下一轮申请期为 2027 年 9 月 1 日至 10 月 15 日；此前条目记载的 2026-10-15 截止已过，本轮已结束。</sub> | ❔ | **要求：** 需优秀硕士学位、良好英语能力，并愿意迁至导师所在大学；官方页未见国籍限制，但也未见明确的国际生开放声明。<br>页面仅列出下一轮（2027）申请期为 9 月 1 日至 10 月 15 日；博士岗位由 Hector Fellow 课题组发布，申请时需准备自拟研究想法或选择已发布课题。 |
 | [Jane Street Graduate Research Fellowship](https://www.janestreet.com/join-jane-street/programs-and-events/graduate-research-fellowship/)<br><sub>美国·加拿大·英国·欧盟/欧洲·澳大利亚·新西兰 ｜ 计算机·数学/统计·物理/天文·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$50,000（生活费，需纳税）+ 全额学费</sub> | **2026-11-13**<br><sub>🟢 开放申请</sub><br><sub>2027 轮申请截止 2026 年 11 月 13 日（AoE），推荐信截止 2026 年 12 月 1 日</sub> | ✅ | **要求：** 须就读于美国、加拿大、英国、欧洲、澳大利亚、新西兰或新加坡的研究型博士项目（学科：电气工程与计算机、数学、物理、统计）；入学时需至少剩余一年学程，或已确定 2027 年秋入读博士<br>官方称国际生可申请；2027 轮申请截止 2026 年 11 月 13 日（AoE），含全额学费与 50,000 美元生活费，2026 年 10 月仍在招。 |

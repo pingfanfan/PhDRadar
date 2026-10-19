@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 奥地利（AT） 信源（27）
+# 奥地利（AT） 信源（28）
 
-所有标注了地区 AT 的信源，共 27 条。
+所有标注了地区 AT 的信源，共 28 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [各国学术招聘门户与机构职位页 1](at.md#national-portals) · [政府与国家级奖学金 1](at.md#gov-scholarships) · [高校旗舰奖学金与资助检索 1](at.md#university-schemes) · [结构化博士项目与研究机构 13](at.md#doctoral-programs) · [博士后奖学金与项目 4](at.md#postdoc-fellowships) · [学科专属信源 2](at.md#discipline) · [导师招生帖（社交平台个人发布） 1](at.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 4](at.md#faculty-aggregators)
+**按分类跳转：** [各国学术招聘门户与机构职位页 1](at.md#national-portals) · [政府与国家级奖学金 1](at.md#gov-scholarships) · [高校旗舰奖学金与资助检索 1](at.md#university-schemes) · [结构化博士项目与研究机构 14](at.md#doctoral-programs) · [博士后奖学金与项目 4](at.md#postdoc-fellowships) · [学科专属信源 2](at.md#discipline) · [导师招生帖（社交平台个人发布） 1](at.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 4](at.md#faculty-aggregators)
 
 <a id="national-portals"></a>
 
@@ -36,7 +36,7 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（13）
+## 结构化博士项目与研究机构（14）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -53,6 +53,7 @@
 | [因斯布鲁克大学 DUNE（Euclid 弱引力透镜）PhD 职位](https://www.uibk.ac.at/en/astro/staff/open-positions/sfb-phd-positions/)<br><sub>奥地利 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>以页面公布为准。</sub> | ❔ | **要求：** 以职位页要求为准。<br>因斯布鲁克大学 SFB DUNE 项目的四个博士职位：A 为弱引力透镜与本征对齐，B 为星系团计数与弱引力透镜宇宙学，C/D 为矮星系形成与演化。抓取正文在中途截断，未见截止日期与资助细节。 |
 | [格拉茨大学 博士学院入学说明](https://doctoral-academy.uni-graz.at/en/phd-at-the-university-of-graz/admission/)<br><sub>奥地利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>中央截止为冬季 11 月 30 日、夏季 5 月 31 日；各学院申请窗口不同，以所在学院页面为准。</sub> | ❔ | **要求：** 需先获得导师支持并签订指导协议，提交研究计划后再向博士学院申请，再提交 UNIGRAZonline 在线申请；经委员会资格审查。<br>格拉茨大学博士入学需先获得导师支持并提交研究计划，先向博士学院申请再提交在线申请。截止日期因学院而异（通用中央截止为冬季 11 月 30 日、夏季 5 月 31 日），需查所在学院页面。 |
 | [维也纳 CoBeNe 认知与行为神经科学博士学院 申请入口](https://vds-cobene.univie.ac.at/how-to-apply/)<br><sub>奥地利 ｜ 神经/认知·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-10-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申报期已于 10 月 15 日结束；下一轮以官网公告为准。</sub> | ❔ | **要求：** 硕士或同等学历；英文动机信、最多 3 位潜在导师排序、2 位推荐人；以 2026 年公告为准<br>维也纳 CoBeNe 博士学院的带薪 pre-doc 岗位有三种途径：统一招生（uni:docs，每半年一次、主题开放）、导师在 JobCenter 发布的岗位、自筹资金。页面未说明中国申请者的资格，需以官网为准。 |
+| [维也纳美术学院 Dr. phil. prae-doc 大学助理岗位](https://calls.akbild.ac.at/calls/DRPHIL26/index.php?lang=EN)<br><sub>奥地利 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-04-13**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮截止 2026-04-13 已过（2026-10-01 起聘）；2027 轮未公布</sub> | ❔ | 维也纳美术学院 Dr. phil. prae-doc 大学助理岗位，3 年、每周 30 小时、受薪。需硕士学位并提交不超过 5 页的摘要与课题计划。2026 轮已截止，关注 2027 轮公告。 |
 
 <a id="postdoc-fellowships"></a>
 

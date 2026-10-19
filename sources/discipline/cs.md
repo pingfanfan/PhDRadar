@@ -2,20 +2,21 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 计算机 信源（326）
+# 计算机 信源（340）
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 11](cs.md#aggregators) · [各国学术招聘门户与机构职位页 6](cs.md#national-portals) · [政府与国家级奖学金 1](cs.md#gov-scholarships) · [高校旗舰奖学金与资助检索 47](cs.md#university-schemes) · [结构化博士项目与研究机构 127](cs.md#doctoral-programs) · [博士后奖学金与项目 35](cs.md#postdoc-fellowships) · [企业与基金会 Fellowship 23](cs.md#fellowships) · [学科专属信源 17](cs.md#discipline) · [科研实习与“曲线入口” 3](cs.md#pathways) · [个人信源与社交渠道 35](cs.md#people-channels) · [导师招生帖（社交平台个人发布） 14](cs.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 6](cs.md#faculty-aggregators) · [选校与申请辅助工具 1](cs.md#tools)
+**按分类跳转：** [综合聚合平台 12](cs.md#aggregators) · [各国学术招聘门户与机构职位页 6](cs.md#national-portals) · [政府与国家级奖学金 5](cs.md#gov-scholarships) · [高校旗舰奖学金与资助检索 51](cs.md#university-schemes) · [结构化博士项目与研究机构 129](cs.md#doctoral-programs) · [博士后奖学金与项目 35](cs.md#postdoc-fellowships) · [企业与基金会 Fellowship 25](cs.md#fellowships) · [学科专属信源 18](cs.md#discipline) · [科研实习与“曲线入口” 3](cs.md#pathways) · [个人信源与社交渠道 35](cs.md#people-channels) · [导师招生帖（社交平台个人发布） 14](cs.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 6](cs.md#faculty-aggregators) · [选校与申请辅助工具 1](cs.md#tools)
 
 <a id="aggregators"></a>
 
-## 综合聚合平台（11）
+## 综合聚合平台（12）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [AAAI Career Center（人工智能招聘板）](https://careers.aaai.org/)<br><sub>全球 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博后 | 不提供资助 | —<br><sub>📋 持续更新</sub> | ❔ | 教职、博后和研究员岗位为主，博士岗较少；大量岗位已关闭，核对截止日期。 |
 | [Academic Jobs Online](https://academicjobsonline.org/ajo/jobs)<br><sub>全球·美国·欧盟/欧洲 ｜ 数学/统计·计算机·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | — | ❔ | 以教职/博后为主，但数学、理论 CS 方向欧洲博士岗位也会发在这里。 |
 | [Academic Jobs Online · 量子信息科学分类](https://academicjobsonline.org/ajo/QIS)<br><sub>全球 ｜ 物理/天文·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各条目截止日不同，部分为往年条目</sub> | ❔ | 量子信息方向分类；部分条目过期，使用前核对截止日期。 |
 | [AcademicJobsOnline 量子计算职位板](https://academicjobsonline.org/ajo/QC)<br><sub>全球 ｜ 物理/天文·计算机·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ✅ | 汇总全球量子计算职位的学术招聘板，职位随时间变化；资助条件与截止日期以各职位为准。 |
@@ -43,19 +44,26 @@
 
 <a id="gov-scholarships"></a>
 
-## 政府与国家级奖学金（1）
+## 政府与国家级奖学金（5）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [Alberta Innovates 研究生奖学金（AI-GSS）](https://albertainnovates.ca/wp-content/uploads/2023/05/AI-GSS-PROGRAM-GUIDE_2025-2026-Oct-23-2024-FINAL.pdf)<br><sub>加拿大 ｜ 计算机·工程·化学/材料·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | — | ✅ | **要求：** 需在阿尔伯塔省大学攻读全日制研究型硕博；GPA 至少 3.5；需导师担保；研究须属于指定新兴技术领域；不可同时持有其他 Alberta Innovates 资助<br>指南（2025/26 版）称国际生可申请，大学页面称无国籍限制；具体条款以当年 Program Guidelines 为准。津贴金额未确认，请勿沿用旧版金额。申请通过所在大学提交。 |
 | [ARC 量子计算未来领袖培训中心（FLiQC）博士奖学金](https://sydneyquantum.org/program/future-leaders-in-quantum-computing-scholarship/)<br><sub>澳大利亚 ｜ 物理/天文·计算机·工程·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>A$42,754/年（2026 年标准）</sub> | **2026-10-08**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 10 月 8 日截止，现已关闭；开放日为 2026 年 8 月 26 日</sub> | ✅ | **要求：** 页面列出的合作大学为 UNSW Sydney 与 University of Technology Sydney；需取得博士录取并获项目导师支持；研究须属量子技术领域；需可取得签证；不得同时持有主要博士津贴（如 RTP）。<br>ARC 资助、面向国内外学生的量子科技工业博士奖学金，2026 年标准津贴 A$42,754/年，最长 4 年；需先获合作大学博士录取并取得项目导师支持。2026 轮已于 2026 年 10 月 8 日关闭。 |
+| [CSIRO Data61 PhD 奖学金（Study Australia 官方检索页）](https://search.studyaustralia.gov.au/scholarship/data61-phd-scholarship/e18d26a8362937016e062999ef29aa34)<br><sub>澳大利亚 ｜ 计算机·人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>各轮公告时间不一，未见当期截止日，以 CSIRO 官网为准</sub> | 🟡 | **要求：** 需已获或即将入读澳洲大学博士，国际生须在澳洲境内或持留学签证；需一等荣誉学位或同等学历，并需大学导师同意指导<br>CSIRO Data61 博士奖学金，国际生须在澳洲境内或持留学签证，且需获澳洲大学博士录取并有导师同意。津贴为 RTP 基准加每年 $10,000 补贴，以当期公告为准。 |
+| [新加坡 A*STAR 研究生奖学金（AGS）](https://www.a-star.edu.sg/scholarships/home/scholarships/ags--scholarship)<br><sub>新加坡 ｜ 工程·计算机·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>国际生月津贴 $3,600（STEM）/ $5,000（专项方向），币种页面未注明</sub> | —<br><sub>🔜 即将开放</sub><br><sub>页面列两个申请窗口：11 月 1 日至次年 2 月 1 日，以及 6 月 1 日至 8 月 10 日；以官网当年公告为准。</sub> | 🟡 | **要求：** 非新加坡公民/永久居民须已完成或即将完成新加坡自主大学学位，并获该校博士录取；非 SPR 须履行约 3 年在新加坡的服务承诺<br>覆盖 STEM、计算、量子、半导体四条线，资助最长 4 年博士，含学费、月津贴及最长 12 个月海外实习。非新加坡公民须获新加坡自主大学（如 NUS、NTU、SMU 等）博士录取，即只能通过在新加坡就读的路线申请。官方页面列出两个申请窗口：11 月 1 日至次年 2 月 1 日，以及 6 月 1 日至 8 月 1 日；以官网为准。 |
+| [澳国立大学 × CSIRO 数字农业博士奖学金](https://agrifood.anu.edu.au/anu-csiro-digital-agriculture-phd-scholarship)<br><sub>澳大利亚 ｜ 计算机·人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>AUD 15,000/年（补充奖学金）+ AUD 5,000 研究津贴</sub> | **2026-08-31**<br><sub>⏸ 本轮已截止</sub><br><sub>页面列出 2026 年 EOI 开放 7 月 8 日至 8 月 11 日，申请截止 2026 年 8 月 31 日，现已关闭；未见下一轮公告。</sub> | ✅ | CSIRO Data61 资助的补充奖学金（top-up），须同时是 ANU 基础博士奖学金的申请人或获得者，并承担已批准的 CSIRO-ANU 课题。通过 CEAT 网站查看课题并表达意向。旧页面称按 AGRTP 全额标准，以现行条款为准。 |
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（47）
+## 高校旗舰奖学金与资助检索（51）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Alberta Innovates 博士后招募奖学金（Recruitment Fellowships）](https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/alberta-innovates-recruitment-fellowships.html)<br><sub>加拿大 ｜ 生态/进化·工程·生物/生命科学·计算机·化学/材料·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>CAD 70,000/年（最长 2 年，不含福利）</sub> | **2026-09-02**<br><sub>⏸ 本轮已截止</sub><br><sub>第一批（1st intake）申请截止 2026-09-02，已过；后续批次日期见大学 Deadlines and Timelines 页面</sub> | ✅ | **要求：** 需已获博士学位；须为校外新入职候选人；研究须为健康相关并在阿尔伯塔大学开展<br>阿尔伯塔大学博士后招募奖学金，年额 CAD 70,000，最长两年，不含福利；须为校外新入职候选人，研究须为健康相关并在阿尔伯塔大学开展。页面称无国籍限制。 |
+| [ANU JCSMR · Taiyang and Loong PhD 奖学金（计算生物方向）](https://jcsmr.anu.edu.au/study/scholarships/taiyang-and-loong-phd-scholarships)<br><sub>澳大利亚 ｜ 计算机·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>📋 持续更新</sub><br><sub>JCSMR 官网页面所列为 2023 年数据（每年最多 4 个名额，每人每年 44,000 澳元，2023 年截止 4 月 15 日）；当期轮次未确认，需先联系计算生物方向导师并经 JCSMR PhD 申请页提交。</sub> | ❔ | **要求：** 需获得 JCSMR 的 PhD 入学资格，背景为计算机科学、计算生物或工程；国际生资格以官网为准。<br>ANU JCSMR 官方奖学金页，名额少、竞争性强；金额与截止日期以官网当期条款为准（本条未核实）。 |
+| [ANU Taiyang and Loong 计算生物博士奖学金（JCSMR）](https://jcsmr.anu.edu.au/study/talo-program/taiyang-and-loong-phd-scholarships)<br><sub>澳大利亚 ｜ 生物/生命科学·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>搜索仅见 2023 轮（4 月 15 日截止）及更早国际轮次，未找到 2026 轮公告；请查 JCSMR 奖学金页面确认</sub> | 🟡 | ANU JCSMR Taiyang and Loong 博士奖学金：2023 年数值约 44,000/年（币种未标注）；需计算机科学、计算生物或工程背景，须获 JCSMR 博士项目录取；建议先联系潜在导师。 |
+| [Bilkent 大学工程与科学研究生院资助说明（博士）](https://mfbe.bilkent.edu.tr/?page_id=35)<br><sub>土耳其 ｜ 工程·计算机·物理/天文·化学/材料·生物/生命科学·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 未公布<br><sub>📋 持续更新</sub><br><sub>下一轮日期未见，请到官网确认</sub> | ❔ | **要求：** 页面称几乎所有研究生可获学费减免和津贴；国际生材料要求以官网为准<br>官方页称几乎所有研究生有学费减免和津贴。具体金额以官网为准。 |
 | [CISPA CRISTAL 实验室 可信 AI 博士与博后招聘](https://career.cispa.de/jobs/cristal-lab-26-146)<br><sub>德国 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位<br><sub>TVöD E13 全职薪资（页面未给具体金额）</sub> | **2026-12-15**<br><sub>🔄 随时可申</sub><br><sub>页面称滚动评审，申请截止至 2026-12-15（原文 till 15.Dec.26），入职时间 2026–2027 年灵活。</sub> | ❔ | **要求：** PhD：计算机、数据科学、AI 或相关领域硕士学位，需有技术背景；博后：博士学位，需独立性、领导潜力及强发表记录（页面列举 NeurIPS、ICML、ICLR、ACL、EMNLP、COLM）。工作语言英语，页面称无需德语。<br>CISPA 官方岗位页（CRISTAL 实验室，圣因贝特）。页面称提供 TVöD E13 全职薪资与福利，滚动评审，截止 2026-12-15；页面未明确国际生资格，仍保持 check。 |
 | [CISPA 亥姆霍兹信息安全中心招聘门户（博士与博后岗位列表）](https://jobs.cispa.saarland/jobs/detail/phd-students-1)<br><sub>德国 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 滚动<br><sub>📋 持续更新</sub><br><sub>CISPA 统一的夏季综合博士招生（General PhD Call）已关闭；官网称下一轮预计 2026 年底。各课题组岗位可能滚动发布，截止以各岗位页为准。</sub> | ❔ | **要求：** 页面未显示国际生资格细节；CISPA 岗位多为全职雇员聘用，申请前需核对岗位类型与工作地点（萨尔布吕肯或圣因贝特）。<br>CISPA 的官方博士与博后岗位门户，适合按课题组筛选安全相关岗位。列表可能过时，需逐条核对岗位是否仍开放。 |
 | [CUHK 工程学院 RPg 奖学金](https://eng.cuhk.edu.hk/study/rpg/phd-els/scholarships/)<br><sub>中国香港 ｜ 工程·计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>HK$229,200/年（studentship，约 HK$19,100/月）</sub> | 各项目不同<br><sub>无需单独申请，在学校规定截止日前通过网上系统提交全日制博士申请即自动参评；以当年研究生院公告为准</sub> | ❔ | **要求：** 全日制博士申请者通过网上系统在截止日前提交即自动参评；评审可参考 GPA 不低于 3.5/4.0、奖项、论文、推荐信或同届顶尖高校博士录取；无需单独申请。<br>页面为中大英文系（Department of English）PhD 奖学金页，列出全校性的校长博士奖学金（HK$80,000 分期 + studentship HK$229,200/年）及 studentship 说明；页面来源并非工程学院。页面未明确国籍资格。 |
@@ -82,6 +90,7 @@
 | [卡尔加里大学 Schulich 工程学院博士最低资助政策（2026 起）](https://schulich.ucalgary.ca/sites/default/files/teams/1/SSE%20minimum%20funding%20policy%20revised%20by%20FGS%20February%204%2C%202026.pdf)<br><sub>加拿大 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>2026-01-01 起入学：国内博士 $31,426.05/年，国际博士 $33,205.65/年（最低保障，已扣除 IGTA $3,120）；2026-01-01 前入学：国内 $23,300、国际 $25,000 /年</sub> | 滚动<br><sub>🔄 随时可申</sub><br><sub>政策 2026-02-04 修订，2026-01-01 起入学的全日制博士保障前四年，无单独申请截止。</sub> | ✅ | **要求：** 适用于全日制 MSc/PhD（不含 MEng）；需保持良好学业状态、满足导师合理期望并取得满意进展；博士最低资助保障 4 年。<br>卡尔加里大学 Schulich 工程学院 2026 年修订的最低资助政策（2026 年 2 月 4 日经院长批准）：2026-01-01 起入学的全日制博士保障 4 年；页面列出国内博士 $31,426.05/年、国际博士 $33,205.65/年。院级政策，各系可能另有标准。 |
 | [埼玉大学 ESITI 项目 MEXT 博士名额（2027-10 入学）](https://park.saitama-u.ac.jp/~rese/admission.html)<br><sub>日本 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>148,000 日元/月（另含往返机票）</sub> | **2026-11-30**<br><sub>🟢 开放申请</sub><br><sub>2027 年 10 月入学的 MEXT 路线申请截止 2026-11-30；2026 年 12 月至 2027 年 1 月网络面试</sub> | ✅ | **要求：** 需硕士学位；2027-04-01 未满 35 岁；英语 CEFR B2；申请时居住在日本境外；过去三年未获日本政府奖学金；国籍资格以指南为准<br>埼玉大学 ESITI 2027 年 10 月入学 MEXT 博士名额（共 8 个），官方指南显示申请截止 2026-11-30；需硕士学位，2027 年 4 月 1 日未满 35 岁，英语约 B2，申请时居住在日本以外，过去三年未获日本政府奖学金。 |
 | [奥胡斯大学工程与技术科学研究生院博士岗位入口](https://phd.tech.au.dk/for-applicants/apply-here/)<br><sub>丹麦 ｜ 工程·计算机·人工智能·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各项目截止日不同，页面列出 2026/10/10 至 2026/12/01 的岗位，以各岗位页为准。</sub> | ❔ | **要求：** 需工程或相关专业硕士学位；丹麦博士为带薪雇员<br>AU 工程学院的博士岗位统一在此发布，按具体项目申请、带薪。 |
+| [巴斯大学 EPSRC 博士着陆奖（Doctoral Landscape Award，原 DTP 页面）](https://www.bath.ac.uk/campaigns/epsrc-doctoral-landscape-award/)<br><sub>英国 ｜ 工程·物理/天文·化学/材料·数学/统计·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>每年批次时间不同，2027 年入学截止日期未确认。</sub> | 🟡 | **要求：** 国际生名额按 UKRI 规定不超过 30%；学位津贴不含英国签证及医疗附加费（IHS），需自行承担；项目按批次公布，通常每年 10 月起发布<br>巴斯大学 EPSRC 博士着陆奖（原 DTP 项目更名）：覆盖学费与生活津贴（按 UKRI 标准），国际生名额按 UKRI 规定上限约 30%；不含英国签证与医疗附加费。项目按批次公布，通常每年 10 月起发布，2027 入学截止以官网项目列表为准。 |
 | [弗劳恩霍夫 FOKUS（柏林）科研与博士培养入口](https://www.fokus.fraunhofer.de/en/career/science.html)<br><sub>德国 ｜ 计算机·工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | FOKUS 与柏林多所大学合作，博士通常在合作大学完成。页面未列 2026 年具体岗位，关注其招聘页或联系研究组。 |
 | [弗劳恩霍夫工业数学研究所（ITWM）入门与博士岗位](https://www.itwm.fraunhofer.de/en/jobs-career/beginners.html)<br><sub>德国 ｜ 数学/统计·计算机·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 优秀的学术学位（最好为数学、计算机科学或物理）；对新主题有强烈兴趣；能将模型实现为算法与软件；熟悉面向对象编程语言（如 C#、C/C++ 或 Java）；德语与英语读写和口语良好。<br>页面称博士岗位提供全职博士奖学金（full-time PhD scholarship），博士课题结合实际研究项目，通常 3 年，由研究所与合作大学共同指导；当前岗位见招聘页。 |
 | [曼尼托巴大学计算机系研究生资助](https://www.umanitoba.ca/science/student-experience/financial-aid-awards/computer-science)<br><sub>加拿大 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>PhD 保底每年至少 CAD 23,000（前四年）；UMGF 每年 CAD 25,000（最长四年）</sub> | —<br><sub>UMGF 每年 2 月 27 日截止；保底资助对新录取研究生自动考虑</sub> | ✅ | **要求：** 面向新录取计算机系研究生；UMGF 向加拿大和国际生开放；学位与语言要求以研究生院为准<br>计算机系对新录取研究生有资助保底（PhD 前四年每年至少 CAD 23,000），并有 UMGF 等对国际生开放的竞争性奖学金。UMGF 每年 2 月 27 日截止，具体额度与条款以官网为准。 |
@@ -105,10 +114,11 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（127）
+## 结构化博士项目与研究机构（129）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [AI Decisions CDT（EPSRC）](https://www.ai-decisions-cdt.ac.uk/apply/)<br><sub>英国 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>£31,000/年（免税，2026–27）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面列出的截止日期为 2025-12-05（2026 年 9 月入学批次），下一轮未公布</sub> | 🟡 | **要求：** 需先选定研究项目并联系导师；国际生名额不超过 30%（UKRI 规定）<br>EPSRC AI Decisions CDT：国际生最多占每届 30%，名额有限；申请前须先选定研究项目并联系导师。要求 2:1 荣誉学位或同等学历，需 1–2 页陈述、成绩单与两位推荐人。国际生学费 £29,900–£60,800/年（曼彻斯特页面），资助覆盖以官网为准。 |
 | [BIFOLD Graduate School（柏林 数据与学习基础研究所 博士项目）](https://bifold.berlin/education/graduate-school/admission)<br><sub>德国 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>🔜 即将开放</sub><br><sub>页面称下一轮申请征集为 2026/27 冬季，入学时间为 2027 年 10 月；具体开放与截止日期以官网公告为准。</sub> | ❔ | **要求：** 需计算机或相关领域硕士（或同等学历）并有 BIFOLD 核心方向背景，特殊情况可评估优秀本科；申请材料英文，证书英文或德文；页面未写国籍要求。<br>BIFOLD 博士项目：每年 10 个全额资助博士岗位（TV-L E13），方向为数据管理与机器学习；申请材料合并为单一 PDF 发送至官网邮箱，推荐信由推荐人直接发送。 |
 | [Brown CS 博士 FAQ（五年资助保障）](https://cs.brown.edu/degrees/doctoral/faq/)<br><sub>美国 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>🔜 即将开放</sub><br><sub>每年仅一个申请期，截止 12 月 15 日（页面未注明年份，以当年系公告为准）</sub> | ✅ | **要求：** 非英语母语且未在英语国家院校获学位者须提交 TOEFL（可补充其他英语证据）；一般不考虑 TOEFL iBT 低于 105 或 IELTS 低于 7；GRE 可选；仅秋季入学<br>系官网 FAQ 称向所有博士生（含国际生）提供资助，近年约录取 40 人、申请者约 300–400 人。页面注明可能被 2020-21 计划取代，需以当年官网为准。 |
 | [CISPA 亥姆霍兹信息安全中心博士](https://career.cispa.de/phd/)<br><sub>德国 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>约 €4,000/月（税前，TVöD 公共部门工资）</sub> | —<br><sub>🔜 即将开放</sub><br><sub>页面写明通用博士招聘已关闭（CLOSED），下一轮预计 2026 年底；课题组可单独发岗，页面称也接受全年优秀候选人申请。</sub> | ❔ | **要求：** 需来自顶尖研究型高校的学士或硕士学位，学业成绩位于或接近班级前列，英语熟练，需学术导师强推荐信；工作语言英语，无需德语。<br>CISPA 博士页面：博士生为全职雇员，按 TVöD 支付（至 E13 级），起薪约 €4,000/月（税前），博士期限估计 3–4 年；通用招聘已关闭，下一轮预计 2026 年底。 |
@@ -212,6 +222,7 @@
 | [图尔库大学 DPT 技术博士项目招生](https://www.utu.fi/sites/default/files/media/DPT/DPT%20Application%20call_September%202026_.pdf)<br><sub>芬兰 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 9 月轮申请窗口（8 月 25 日至 9 月 8 日）已关闭；下一轮以官网为准</sub> | ✅ | **要求：** 需已获得或即将获得可授予博士资格的学位（若无学习权，需在 Studyinfo 申请）；岗位在芬兰图尔库，需在芬兰工作，最长 4 年。<br>带薪博士研究员岗，雇佣期最长 4 年且不晚于 2030 年 12 月 31 日；页面称月薪大致 2,400 至 3,300 欧元。 |
 | [巴塞尔大学 SNI 纳米科学博士学院（SNI PhD School）](https://nanoscience.unibas.ch/en/forschung/phd-programm/)<br><sub>瑞士 ｜ 物理/天文·化学/材料·计算机·工程</sub> | 博士 | 带薪岗位 | 滚动<br><sub>🟢 开放申请</sub><br><sub>2027 轮项目最早 2027-01-01 开始、最晚 2027-07-01 开始；名额按合适候选人陆续确定，具体截止以官网公告为准。</sub> | ❔ | **要求：** 官网未见国籍限制，资格以各项目公告为准；博士生须在巴塞尔大学注册。国际生资格需逐项目核实。<br>SNI 博士学院以项目方式招生：每个项目资助 1 名博士生，最长 4 年，薪资依据 SNSF 标准并含运行经费；提案须由两名提案人组成导师组，其中一名为巴塞尔大学 Gruppierung I 教授。2025 年征集年度总额为 CHF 60,000（理论）/ 65,000（实验）；最新一轮金额与截止以官网公告为准。 |
 | [布里斯托地理数据科学博士（含奖学金）](https://www.bristol.ac.uk/geography/courses/postgraduate/phd-in-geographic-data-science/)<br><sub>英国 ｜ 地球/环境/海洋·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>🔜 即将开放</sub><br><sub>大学奖学金 2026 年 9 月入学截止 2026-01-19（已过）；2027 入学各项截止未能核实，以官网为准</sub> | ✅ | **要求：** 需提交研究计划，并至少列出 2 位拟导师；建议先联系导师。<br>奖学金覆盖国际与本地学费并发 UKRI 标准津贴，通常 1 月截止。 |
+| [布里斯托大学工程学院 PhD 课题（与研究员合作）入口](https://www.bristol.ac.uk/science-engineering/postgraduate-research/phd-opportunities-with-our-researchers/)<br><sub>英国 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各项目截止不一；大学 PGR 奖学金 2026/27 入学轮截止为 2026 年 1 月 19 日（已过）</sub> | 🟡 | **要求：** 需一等或高二等学位（相关专业）；大学奖学金对境外生开放，但 EPSRC DLA 等项目境外生名额有限；具体条件以学院与项目说明为准<br>学校级课题入口，可按研究组筛选，通信系统与网络（CSN）等组有过 EPSRC 全额资助博士名额。大学 PGR 奖学金对境外申请人开放，但 EPSRC DLA 等项目据学校表格境外生仅占每批约 30%，以各项目说明为准；也可直接联系组内导师提出课题。 |
 | [布鲁诺·凯斯勒基金会（FBK）国际博士项目](https://phd.fbk.eu/calls/)<br><sub>意大利 ｜ 计算机·人工智能·物理/天文·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面显示当前无开放征集（STAY TUNED!），下一轮截止时间未公布</sub> | ❔ | **要求：** 此页面未列出申请条件，以具体征集公告为准。<br>FBK 国际博士项目（International PhD Program）征集页面：目前无开放征集，页面提供过往征集档案。页面称征集公告涵盖博士项目、岗位与奖学金，下一轮时间未在页面公布。 |
 | [帝国理工学院智能传输（ITP）实验室博士招生 PDF](https://imperial.ac.uk/media/imperial-college/research-centres-and-groups/intelligent-transmission/PhD-recruitment.pdf)<br><sub>英国 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 未公布<br><sub>📋 持续更新</sub> | ❔ | 智能信号处理与无线通信方向，招 1 名有资助、2 名自筹博士；官方 PDF 未给截止日，非官方转载的 2022 年广告称资助含学费和约每年 £17,000 津贴，需向导师核实。需满足 Imperial 英语要求，可能需要 ATAS。 |
 | [帝国理工学院计算系博士招生页](https://www.imperial.ac.uk/computing/prospective-students/phd/)<br><sub>英国 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>2027 年入学申请已开放，全年可申请；部门资助相关截止包括 10 月 1 日、12 月 1 日、2027 年 2 月 1 日、4 月 1 日，需要奖学金者建议 12 月前提交</sub> | ✅ | **要求：** 一等或优秀（Distinction）硕士或同等学历；仅学士学位一般不录取；需先确认导师有名额<br>计算系官方博士入口，部门奖学金信息在另一页面；国际申请者先确认导师是否有名额，2027 入学申请预计 2026 年 10 月开放。 |
@@ -281,13 +292,15 @@
 
 <a id="fellowships"></a>
 
-## 企业与基金会 Fellowship（23）
+## 企业与基金会 Fellowship（25）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Airbus 博士岗位（VIE and PhDs）](https://airbus.com/en/careers/students-and-graduates/vie-and-phds)<br><sub>全球·欧盟/欧洲 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 需学士或硕士学位（博士岗位）；VIE 的国籍（欧洲经济区）与年龄（18–28 岁）限制页面未明确是否适用于博士岗位<br>空客“VIE and PhDs”页面称 VIE 面向欧洲经济区（EEA）国籍、18–28 岁人群；博士方向页面未说明博士岗位是否为带薪员工身份，也未说明是否适用 VIE 的国籍与年龄条件。以具体岗位为准，逐条核对。 |
 | [Amazon AI PhD Fellowship（美国合作高校）](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program)<br><sub>美国 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>学校内部选拔，未见新一轮公告</sub> | ❔ | **要求：** 学生不能直接申请；需在 9 所参与院校之一读博，由院系提名<br>页面（2025 年 10 月的新闻稿）称该项目为期两年，覆盖 2025–2026 与 2026–2027 两个学年；学生资助合计 1000 万美元，另有每学年 2400 万美元 AWS 云计算积分。 |
 | [Apple Scholars in AI/ML](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026)<br><sub>全球 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>最高 $40,000/年（生活费），另含学费与 $5,000/年差旅</sub> | **2026-09-08**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 周期学校提名窗口 2026-09-08 关闭；2027 周期待公布。</sub> | ❔ | **要求：** 仅受邀大学可提名，学生不能直接申请；每校最多提名 3 名在读博士。<br>面向在读博士，仅受邀大学可提名（学校提名制，学生不能直接申请）。2026 周期提名窗口于 2026-09-08 关闭（已过）；资格与学校内部截止日期以本校研究生院通知为准。 |
+| [Arm-ECS 全额资助博士岗位（南安普顿大学）](https://www.arm.ecs.soton.ac.uk/jobs/phd-student-southampton/)<br><sub>英国 ｜ 计算机·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>至少 £15,609/年（仅限英国申请者）</sub> | 滚动<br><sub>🔄 随时可申</sub> | ⛔ | **要求：** 需电子工程或相关学科优秀学历（页面未说明学位层级）<br>Arm 与南安普顿大学 ECS 合作的 3.5 年全额资助博士（EPSRC 资金），部分时间在剑桥 Arm Research；招生页写明仅面向英国申请者，对大陆学生不开放。页面称需在 5 月初前提交，未标注年份，以官网为准。 |
+| [AUC Al Alfi 博士奖学金（应用科学与工程）](https://www.aucegypt.edu/admissions/fellowships/listing/al-alfi-phd-fellowship-applied-sciences-and-engineering)<br><sub>埃及 ｜ 工程·计算机·化学/材料·物理/天文·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>⏸ 本轮已截止</sub> | ⛔ | **要求：** 仅限埃及国籍；需硕士（论文型）学位，GPA 不低于 3.2/4.0；需符合 AUC 博士录取要求<br>页面标注 No New Intake（暂无新一轮招生）；仅限埃及国籍，中国大陆学生不符合，此条仅作排除参考。 |
 | [ByteDance Scholarship（字节跳动奖学金）](https://scholarship.bytedance.com/en)<br><sub>全球 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮报名截止 6 月 26 日（已过）；2027 轮以官网公告为准</sub> | ✅ | **要求：** 在读本科、硕士或博士；预计 2027 年 6 月或之后毕业；需 1–2 封导师推荐信及科研成果证明<br>面向全球在读学生（含博士，AI、计算机与基础科学等方向）。页面显示每位获奖者获 ¥200,000 科研经费、导师另得 ¥100,000（中国大陆以外按等值货币），2026 轮报名已于 6 月 26 日截止。 |
 | [Caltech IQIM 量子信息博士后学者](https://iqim.caltech.edu/postdoc-application/)<br><sub>美国 ｜ 物理/天文·计算机</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-11-15**<br><sub>🟢 开放申请</sub><br><sub>2027 年秋入职批次，申请自 2026-09-18 开放；审核自 2026-11-15 开始，页面建议当日前提交全部材料。</sub> | ❔ | **要求：** 需在入职（2027 年秋）前已取得或预计取得博士学位；申请时须指定至少一位 Caltech 教员；需 CV、研究陈述（不超过 5 页）、发表列表及三封推荐信。<br>页面为 2027 年秋季博后批次，通过 Academic Jobs Online 投递；第一年年薪 $85,000，另有年度科研经费。 |
 | [Damon Runyon Quantitative Biology Fellowship（计算+癌症生物学博后）](https://www.damonrunyon.org/for-scientists/application-guidelines/quantitative)<br><sub>美国 ｜ 生物/生命科学·计算机</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>第1年 $76,000；第2年 $78,000；第3年 $80,000；另有 $2,000/年费用津贴</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>官网当前轮截止 2026 年 12 月 1 日 16:00 ET（Proposal Central 提交）；选拔会约 2027-02-26，获奖者 2027 年 4–6 月起；2027 轮以官网公告为准。</sub> | ❔ | **要求：** 学位授予须在 2021-12-01 至 2026-12-01 之间；入导师实验室不超过 24 个月（2024-12-01 后加入）；需一位干实验与一位湿实验导师，并提交三封推荐信；持 NIH K 系列奖者不符合资格。研究须在美国进行；未见国籍限制，仍以官网全文为准。<br>计算科学家（干实验）与癌症生物学导师（湿实验）配对的博后奖学金，页面要求两位导师分别负责干实验与湿实验。资助期 3 年，费用津贴不可用于间接成本。 |
@@ -311,7 +324,7 @@
 
 <a id="discipline"></a>
 
-## 学科专属信源（17）
+## 学科专属信源（18）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -329,6 +342,7 @@
 | [UVic 电子与计算机工程博士资助](https://www.uvic.ca/ecs/ece/future/graduate/awards-and-funding/index.php)<br><sub>加拿大 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | — | ✅ | **要求：** 全日制研究型硕博（MASc/PhD）；新生需最近两年课程成绩 A- 平均；助教（TA）职位要求学习许可明确允许校内工作。<br>UVic 研究型硕博学生（全日制）自动参与 UVic Fellowship 依 GPA 的评选，国际生可参加。ECE 页面所列 BC 研究生奖学金为 2020–21 年度旧信息，仅限加拿大公民/永久居民，不宜作为当前资助依据。 |
 | [亚利桑那大学计算机系研究生资助](https://www2.cs.arizona.edu/graduate/aid.html)<br><sub>美国 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>TA/RA 最低 $15,000/学年（含学费减免与医保；页面未注明年份）</sub> | — | ❔ | 亚利桑那大学计算机系博士资助：新入学博士生首年资助有保障（TA/RA 最低 $15,000/学年，另含学费减免与医保），之后视学业进展；国际生需另提交财务担保表。系网站措辞不完全一致，以系里当期说明为准。 |
 | [佐治亚理工 ECE 研究生资助](https://ece.gatech.edu/current-students/graduate/financial-assistance)<br><sub>美国 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 页面称助研/助教为主要资助来源（超过 50% 的全日制研究生），并提供较低学费；贷款仅限美国公民和永久居民。<br>页面称约 50% 的一年级博士生由助教职位资助，直至找到提供助研职位的导师；页面未说明所有博士生均获全额资助。 |
+| [奥格斯堡大学计算机视觉/具身 AI 组（Stückler 组）招聘页](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/ips/open-positions/)<br><sub>德国 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | **2026-07-24**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 7 月 24 日截止，本轮已关闭；页面接受主动申请邮件</sub> | ❔ | **要求：** 需计算机、电气、应用数学或物理相关硕士；按 TV-L E13 支付<br>计算机视觉与具身 AI 方向的三年期研究助理/博士岗（TV-L E13），此前一轮截止为 2026 年 7 月，已关闭。页面长期有效，建议关注后续新岗位。 |
 | [波茨坦大学计算语言学实验室（CLP）岗位页](https://clp.ling.uni-potsdam.de/positions/)<br><sub>德国 ｜ 人文/语言·计算机</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 滚动<br><sub>🟢 开放申请</sub> | ❔ | 页面注明 2026 年博士岗已招满，当前仅一个博后岗位：100% TVL-13，初期 3 年，与 DFKI Berlin 合作，项目为 FLICA。岗位招满为止，评审已于 2026 年 7 月开始。 |
 | [特文特大学 EEMCS 纳米电子学组招聘页](https://www.utwente.nl/en/eemcs/ne/vacancies/)<br><sub>荷兰 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>税前月薪 €2,901（第 1 年）至 €3,707（第 4 年），全职</sub> | — | ✅ | 页面称该组定期有博士与博后职位，欢迎随时主动申请，可联系 Wilfred van der Wiel 教授；页面列出的两个具体职位截止日期为 2025 年 1 月 31 日与 7 月 31 日。 |
 | [香港城市大学 CORIL 计算生物实验室](https://bioinfo.cs.cityu.edu.hk/)<br><sub>中国香港 ｜ 生物/生命科学·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 全奖 | 滚动<br><sub>🔄 随时可申</sub> | ✅ | **要求：** 需先发邮件联系导师，并在 CityU 申请中注明；HKPFS 需另经 RGC 系统申请<br>主页称提供覆盖学费和生活费的全额奖学金，鼓励申请香港 PhD Fellowship；内地学生可申请，以校方当年规定为准。 |

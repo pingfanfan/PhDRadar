@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 生物/生命科学 信源（399）
+# 生物/生命科学 信源（411）
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 14](bio.md#aggregators) · [各国学术招聘门户与机构职位页 6](bio.md#national-portals) · [政府与国家级奖学金 3](bio.md#gov-scholarships) · [高校旗舰奖学金与资助检索 63](bio.md#university-schemes) · [结构化博士项目与研究机构 218](bio.md#doctoral-programs) · [博士后奖学金与项目 54](bio.md#postdoc-fellowships) · [企业与基金会 Fellowship 17](bio.md#fellowships) · [学科专属信源 11](bio.md#discipline) · [个人信源与社交渠道 7](bio.md#people-channels) · [导师招生帖（社交平台个人发布） 6](bio.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 14](bio.md#aggregators) · [各国学术招聘门户与机构职位页 6](bio.md#national-portals) · [政府与国家级奖学金 3](bio.md#gov-scholarships) · [高校旗舰奖学金与资助检索 68](bio.md#university-schemes) · [结构化博士项目与研究机构 219](bio.md#doctoral-programs) · [博士后奖学金与项目 57](bio.md#postdoc-fellowships) · [企业与基金会 Fellowship 19](bio.md#fellowships) · [学科专属信源 11](bio.md#discipline) · [个人信源与社交渠道 8](bio.md#people-channels) · [导师招生帖（社交平台个人发布） 6](bio.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
@@ -56,15 +56,20 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（63）
+## 高校旗舰奖学金与资助检索（68）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [ACCE+ 博士培训伙伴 NOC 博士学位机会（DLA）](https://accedtp.ac.uk/acce-dla-opportunities-at-the-national-oceanography-centre)<br><sub>英国 ｜ 地球/环境/海洋·生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | **2026-01-07**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 10 月入学截止 2026-01-07（已过）；2027 轮未确认</sub> | 🟡 | **要求：** 通过 ACCE+ 在线表格申请并将 EDI 表发至 acce.dtp@liverpool.ac.uk；UKRI 资助以英国本土学费为准，国际生仅能通过部分按本土学费计费的伙伴方案；签证、医疗附加费与搬迁费不在资助内<br>ACCE+ 为英国 NERC 博士培训伙伴，NOC 课题通过其在线申请表提交。2026 年 10 月入学的截止日为 2026-01-07，已过期；UKRI 资助只覆盖英国学生学费，签证和搬迁费用不在资助内。 |
+| [AIMS@JCU 海洋科学博士与硕士奖学金（澳大利亚海洋研究所 + 詹姆斯库克大学）](https://aims.jcu.edu.au/phd-scholarships/)<br><sub>澳大利亚 ｜ 生物/生命科学·生态/进化·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>A$37,500/年（2027 轮，JCU 国际生页面），另含学费</sub> | **2026-09-01**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 入学轮次申请截止 2026 年 9 月 1 日（已过）；下一轮未公布</sub> | 🟡 | **要求：** 需同时有 AIMS 与 JCU 导师，项目须在两者重叠领域；通过 JCU 研究生院提交；名额每年有限<br>每年最多 4 个名额，需同时有 AIMS 与 JCU 导师，项目须在两者重叠领域。JCU 国际生页面列 2027 年生活津贴 A$37,500/年（另含学费）；不同页面的附加项目费数字有出入，以官网为准。2027 入学轮次截止 2026 年 9 月 1 日（已过），通过 JCU 研究生院提交。 |
 | [Alberta Innovates 博士后招募奖学金（Recruitment Fellowships）](https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/alberta-innovates-recruitment-fellowships.html)<br><sub>加拿大 ｜ 生态/进化·工程·生物/生命科学·计算机·化学/材料·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>CAD 70,000/年（最长 2 年，不含福利）</sub> | **2026-09-02**<br><sub>⏸ 本轮已截止</sub><br><sub>第一批（1st intake）申请截止 2026-09-02，已过；后续批次日期见大学 Deadlines and Timelines 页面</sub> | ✅ | **要求：** 需已获博士学位；须为校外新入职候选人；研究须为健康相关并在阿尔伯塔大学开展<br>阿尔伯塔大学博士后招募奖学金，年额 CAD 70,000，最长两年，不含福利；须为校外新入职候选人，研究须为健康相关并在阿尔伯塔大学开展。页面称无国籍限制。 |
 | [ANU JCSMR Doherty 补充奖学金（临床博士）](https://jcsmr.anu.edu.au/study/scholarships/doherty-supplementary-scholarship)<br><sub>澳大利亚 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>A$7,000/年（官网）</sub> | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>官网称每年 10 月 31 日截止（年份需确认）</sub> | ✅ | **要求：** 需具临床学历资质并在 JCSMR 开展临床研究的博士申请人；国际生资格未核实。<br>面向有临床学历资质、在 JCSMR 开展临床研究的博士；补充性质，支付给 AGRTP 或同类奖学金持有者；官网称每年 A$7,000，10 月 31 日截止。 |
+| [ANU JCSMR · Taiyang and Loong PhD 奖学金（计算生物方向）](https://jcsmr.anu.edu.au/study/scholarships/taiyang-and-loong-phd-scholarships)<br><sub>澳大利亚 ｜ 计算机·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>📋 持续更新</sub><br><sub>JCSMR 官网页面所列为 2023 年数据（每年最多 4 个名额，每人每年 44,000 澳元，2023 年截止 4 月 15 日）；当期轮次未确认，需先联系计算生物方向导师并经 JCSMR PhD 申请页提交。</sub> | ❔ | **要求：** 需获得 JCSMR 的 PhD 入学资格，背景为计算机科学、计算生物或工程；国际生资格以官网为准。<br>ANU JCSMR 官方奖学金页，名额少、竞争性强；金额与截止日期以官网当期条款为准（本条未核实）。 |
+| [ANU Taiyang and Loong 计算生物博士奖学金（JCSMR）](https://jcsmr.anu.edu.au/study/talo-program/taiyang-and-loong-phd-scholarships)<br><sub>澳大利亚 ｜ 生物/生命科学·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>搜索仅见 2023 轮（4 月 15 日截止）及更早国际轮次，未找到 2026 轮公告；请查 JCSMR 奖学金页面确认</sub> | 🟡 | ANU JCSMR Taiyang and Loong 博士奖学金：2023 年数值约 44,000/年（币种未标注）；需计算机科学、计算生物或工程背景，须获 JCSMR 博士项目录取；建议先联系潜在导师。 |
 | [ANU 生物学院国际博士奖学金](https://study.anu.edu.au/scholarships/find-scholarship/research-school-biology-international-phd-scholarship)<br><sub>澳大利亚 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 滚动<br><sub>🔄 随时可申</sub> | ✅ | **要求：** 需为全日制国际博士生；建议先联系 ANU 导师，选拔依据研究潜力、学术成绩与成果。<br>ANU 生物学院国际博士奖学金对全日制国际博士生开放，无需单独申请，申请入学并满足条件即被考虑；奖金按双周发放 3.5 年，另有旅费、搬迁、论文等补贴。 |
 | [ARIES 博士培训伙伴奖学金（含 Cefas 合作 CASE 项目）](https://aries-dtp.ac.uk/studentships/)<br><sub>英国 ｜ 地球/环境/海洋·生态/进化·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£20,780/年（2025/26 标准，2026/27 待定）</sub> | **2026-12-16**<br><sub>🟢 开放申请</sub><br><sub>2027 年 10 月 1 日开学批次，申请截止 2026-12-16 23:59。</sub> | ❔ | ARIES 页面列出 UKRI NERC DLA 资助的博士项目（studentships），2027 年 10 月 1 日开学。页面显示申请截止为 2026-12-16 23:59，旧版“2026-01-07 已截止”信息已过时。 |
 | [Babraham 研究所 PhD 资助与申请途径](https://www.babraham.ac.uk/work-and-study/phd-programme/funding)<br><sub>英国 ｜ 生物/生命科学·神经/认知·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 须通过剑桥大学研究生申请门户申请；需证明有足够资金覆盖学费与生活费，资助资格以各资助来源说明为准。<br>通过剑桥研究生申请系统申请，每年 9 月至 12 月初开放。海外申请人若无 BBSRC/MRC 名额需自证资金，联系 babraham.graduate@babraham.ac.uk 确认。 |
+| [Bilkent 大学工程与科学研究生院资助说明（博士）](https://mfbe.bilkent.edu.tr/?page_id=35)<br><sub>土耳其 ｜ 工程·计算机·物理/天文·化学/材料·生物/生命科学·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 未公布<br><sub>📋 持续更新</sub><br><sub>下一轮日期未见，请到官网确认</sub> | ❔ | **要求：** 页面称几乎所有研究生可获学费减免和津贴；国际生材料要求以官网为准<br>官方页称几乎所有研究生有学费减免和津贴。具体金额以官网为准。 |
 | [Burnet 研究所博士招生入口（经合作大学注册）](https://burnet.edu.au/pages/91)<br><sub>澳大利亚 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各大学奖学金截止不同，需逐个核对</sub> | ❔ | Burnet 博士生需通过 Monash、墨尔本大学、La Trobe、RMIT、Deakin 等合作大学注册并获大学奖学金，建议先联系导师。 |
 | [CRUK Scotland Institute 博士生资助（格拉斯哥）](https://www.crukscotlandinstitute.ac.uk/cruk-si-education/phd-students.html)<br><sub>英国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£22,500/年（页面称当前标准）</sub> | —<br><sub>⏸ 本轮已截止</sub> | ✅ | **要求：** 面向英国、欧盟与国际毕业生；需满足英语要求；名额有限<br>CRUK 苏格兰研究所博士资助，最长 4 年，页面称目前提供年津贴 £22,500 及学费（本地与海外学生）。页面称目前无在招岗位，新岗位将在该页发布。 |
 | [CRUK 曼彻斯特研究所 PhD 资助（BMH 全额资助项目）](https://bmh.manchester.ac.uk/study/research/funded-programmes/cruk-phd-studentships)<br><sub>英国 ｜ 生物/生命科学·医学/公卫·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£22,894/年（免税生活津贴）</sub> | **2026-11-06**<br><sub>🟢 开放申请</sub><br><sub>2027/28 入学：申请截止 2026 年 11 月 6 日 17:00（GMT），面试定于 2027 年 1 月 11 日</sub> | ✅ | CRUK 曼彻斯特研究所四年制博士资助，全额覆盖学费与项目经费，免税生活津贴每年 £22,894。页面称欢迎英国、欧盟及国际学生申请。 |
@@ -126,12 +131,13 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（218）
+## 结构化博士项目与研究机构（219）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [A*STAR 基因组研究所（GIS）学生页](https://www.a-star.edu.sg/gis/join-us/students)<br><sub>新加坡 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>官网学生页说明国际博士生通过 SINGA 申请、学籍在 NUS/NTU；具体截止以官网为准。</sub> | ✅ | **要求：** 通过 SINGA 申请，学籍在 NUS 或 NTU；学历、语言等要求以官网为准。<br>A*STAR 基因组研究所学生项目：通过 SINGA 申请，学籍在 NUS 或 NTU；合作高校名单与津贴各来源不一，以官网为准。 |
-| [Babraham Institute 博士项目（剑桥）](https://babraham.ac.uk/work-and-study/phd-opportunities)<br><sub>英国 ｜ 生物/生命科学·医学/公卫</sub> | 博士 | 半奖/部分 | —<br><sub>🔜 即将开放</sub><br><sub>通常 10 月至 12 月开放申请，经剑桥大学研究生申请系统提交；2027 年入学轮截止以官网为准。</sub> | 🟡 | **要求：** 需 2:1 荣誉学位或同等学历及两封推荐信；IELTS 总分 7.0（各项不低于 6.5–7.0）；非英国、非欧盟申请者须自筹学费与生活费或另获资助。<br>经剑桥申请系统申请，非欧盟生需自筹学费或另有资助。 |
+| [Babraham Institute 博士项目（剑桥）](https://babraham.ac.uk/work-and-study/phd-opportunities)<br><sub>英国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | **2026-12-08**<br><sub>🟢 开放申请</sub><br><sub>页面称 2027 年入学批次所有博士岗位申请截止 2026-12-08，面试在 2027 年 1 月 18 日当周，须通过剑桥大学申请系统提交。</sub> | 🟡 | **要求：** 需 2:1 荣誉学位或同等学历及两封推荐信；IELTS 总分 7.0（各项不低于 6.5–7.0）；非英国、非欧盟申请者须自筹学费与生活费或另获资助。<br>经剑桥申请系统申请，非欧盟生需自筹学费或另有资助。 |
+| [Baylor 医学院 GSBS 资助与费用](https://www.bcm.edu/sites/default/files/2026-09/fees-and-expenses-graduate-school-of-biomedical-sciences-2025-2026.pdf)<br><sub>美国 ｜ 生物/生命科学·医学/公卫·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ❔ | 页面称博士生获得有竞争力的津贴、全额学费减免和免费个人医疗保险；未说明国际生资格，仅提到国际生需缴年度签证费。 |
 | [BBSRC 西北生物科学博士项目（NWDP，曼彻斯特 + 利物浦）](https://bmh.manchester.ac.uk/study/research/funding-fees/funded-programmes/bbsrc-nwdp)<br><sub>英国 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>UKRI 标准津贴，四年（页面示例：2024/25 年 £19,237/年）</sub> | 未公布<br><sub>🔜 即将开放</sub><br><sub>页面称 2027/28 入学的申请将于 2026 年 11 月 2 日开放；具体截止日以官网为准。</sub> | ✅ | **要求：** 页面称面向英国及国际申请者，竞争预计非常激烈。<br>曼彻斯特与利物浦大学联合承办的 BBSRC 西北生物科学博士项目，提供学费与 UKRI 标准津贴，为期四年，并含培训、年度会议与三个月专业实习（PIP）机会。页面称竞争预计非常激烈。 |
 | [BioSCaPe 四年制博士项目（剑桥 / Sanger / Babraham / LMB 联合）](https://www.babraham.ac.uk/work-and-study/bioscape-programme)<br><sub>英国 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>🔜 即将开放</sub><br><sub>2026 轮已截止（剑桥门户截止 2026-02-26）；2027 轮时间未确认，请以 Babraham 申请页为准。</sub> | ❔ | **要求：** 国际生资格与名额以官网为准。<br>剑桥、Wellcome Sanger、Babraham 与 LMB 联合的四年制生物科学博士项目，官网称全额资助，需完成企业实习。申请前请核对 2027 轮开放时间与国际生条件。 |
 | [Biozentrum 博士生常见问题（FAQ）](https://phdstudents.biozentrum.unibas.ch/?p=152)<br><sub>瑞士 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | **要求：** 硕士或可入读博士的同等学历；可随时直接联系课题组负责人申请<br>博士生 FAQ，说明可直接联系课题组负责人申请，是奖学金之外的第二条路径。 |
@@ -351,13 +357,14 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（54）
+## 博士后奖学金与项目（57）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [AIRC 癌症研究短期海外访学（Short-term Fellowships）](https://www.direzionescientifica.airc.it/other-funding-opportunities/)<br><sub>意大利 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 半奖/部分 | **2026-09-30**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 年 1–4 月出发的一轮截止于 2026-09-30 已过；下一轮预计 2027 年初发布</sub> | ❔ | **要求：** 页面称向所有国籍开放，通常需在意大利实验室工作；资助 1–3 个月海外访学<br>短期海外访学，不是全职博后；同一年度只能申请一项 AIRC 资助。 |
 | [Arc Institute Science Fellows（美国）](https://arcinstitute.org/programs/search-science-fellow)<br><sub>美国 ｜ 生物/生命科学·计算机·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 滚动<br><sub>🔄 随时可申</sub><br><sub>页面称新申请将持续接收并审核，直至岗位招满；未见固定截止日。</sub> | ❔ | **要求：** 需已获博士、MD 或 MD-PhD 学位（或即将获得）；2026 轮要求 2024–2026 年间毕业。<br>5 年期独立研究员职位，含全薪与团队经费，可提供签证支持。2026 轮首审已过，页面称滚动审核，以官网为准。 |
 | [Broad Institute Eric and Wendy Schmidt Center 博士后](https://www.ericandwendyschmidtcenter.org/become-a-fellow)<br><sub>美国 ｜ 人工智能·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | —<br><sub>🔄 随时可申</sub><br><sub>2027 年入职的申请已开放（经 AJO 门户）；评审自 2026 年 12 月 22 日起滚动进行，入职不早于 2027 年 7 月 1 日</sub> | ❔ | **要求：** 需具备机器学习、统计或应用数学背景；需同时找 Broad、MIT 或哈佛导师；材料为求职信、CV、研究陈述及 3 封推荐信<br>面向 ML/统计/应用数学背景、做生物医学问题的博后，一年一聘，可续聘至第三年。官网未明确国际申请者资格，以官网说明为准。 |
+| [Burroughs Wellcome 基金会博士后强化项目（PDEP）](https://www.bwfund.org/wp-content/uploads/2020/10/BWF_PDEP-RFP-2026_v2.pdf)<br><sub>美国·加拿大 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 RFP 截止 1 月 20 日已过；2027 轮 RFP 未在搜索中找到</sub> | ❔ | **要求：** 2026 轮 RFP 资格条款（国籍）未能核实；早期页面称需美国或加拿大公民，以 RFP 原文为准<br>只面向美国或加拿大公民，且须在美国或加拿大学位授予机构做博后，中国籍不符合。2026 年截止日为 1 月 20 日，已过。仅作为排除项保留。 |
 | [Cancer Research UK 职业发展奖学金（CDF）](https://cancerresearchuk.org/funding-for-researchers/our-funding-schemes/career-development-fellowship)<br><sub>英国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面写明每年审核两次，下一轮截止日期待公布；页面未列出 2026 年 10 月 1 日的意向书日期。</sub> | ❔ | **要求：** 面向准备建立独立课题组的研究者（具体资格以官网为准）<br>CRUK 职业发展奖学金，面向准备建立独立课题组的研究者，6 年期，典型总额最高约 £150 万。官网显示 2026 年 10 月 1 日意向书截止已过，下一轮以官网为准。 |
 | [CANSSI 分布式博士后奖学金（CDPF，统计/精算/生物统计/数据科学）](https://canssi.ca/program/distinguished-postdoctoral-fellowships/)<br><sub>加拿大 ｜ 数学/统计·生物/生命科学·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>最高 $70,000/年，另含福利（页面所示，两年期）</sub> | **2027-01-16**<br><sub>🔜 即将开放</sub><br><sub>2026–27 周期：教师提案截止 2026 年 10 月 1 日（已过）；学者招募 2026 年 11 月 21 日至 2027 年 1 月 16 日，以官网为准。</sub> | ❔ | CANSSI 分布式博士后奖学金：面向统计、精算、生物统计、数据科学方向近期获博士学位者，两年期，在加拿大合作高校进行。学者可从教授提出的项目中选择三个。 |
 | [CeMM 维也纳 ERC Starting Grant 准备博后项目](https://cemm.at/postdoc-program/application-process)<br><sub>奥地利 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>EUR 5,014.30/月（税前，14 次/年，FWF 标准）</sub> | **2026-08-31**<br><sub>⏸ 本轮已截止</sub><br><sub>CeMM 官网显示 2026 轮申请截止为 2026 年 8 月 31 日，已过；项目入职时间为 2027 年 2 月至 4 月；页面未写明下一轮时间。</sub> | ❔ | **要求：** 已获博士学位或预计在项目开始前获得；博士答辩不早于 2024 年；入职前需至少有一篇第一作者论文；申请材料包括封面信、CV、成绩单、三位推荐人及一段动机视频。<br>CeMM 官网 Pre-ERC 博后项目页面显示：2026 轮申请截止为 2026 年 8 月 31 日（已过），在线面试 2026 年 10 月，项目 2027 年 2 月至 4 月开始。 |
@@ -407,12 +414,14 @@
 | [庆应义塾 WPI-Bio2Q 量子计算核心博后研究员与博后实习（2026 年 5 月公告）](https://bio2q.keio.ac.jp/news/recruit-postdoc-posdocintern-20260520/)<br><sub>日本 ｜ 生物/生命科学·计算机</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 未公布<br><sub>🟢 开放申请</sub> | ❔ | 量子计算核心的博后研究员与博后实习招募；要求英文申请材料并参加英文面试；截止日未确认，请查看公告原文。 |
 | [杰克逊实验室博士后职位](https://www.jax.org/careers-and-training/postdoctoral)<br><sub>美国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 需近期获得博士、医学博士或同等学位（JAX Scholars 项目要求入职前取得）；具体岗位要求以各实验室发布为准。国际申请者签证政策官网未说明，需向 PI 或 HR 确认。<br>杰克逊实验室博士后岗位涵盖衰老、癌症、免疫、计算生物和神经等方向，通过职位门户按实验室发布。搜索结果未见官网“滚动发布”的明确表述，截止日因岗位而异；国际申请者需向 PI 或 HR 确认签证。 |
 | [法国 ARC 癌症研究基金会博士后资助（在法国实验室）](https://www.fondation-arc.org/wp-content/uploads/2025/12/notice-aap-pdf-2026_en.pdf)<br><sub>法国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>最高 4,767 €/月（57,204 €/年，含雇主缴费，实际依雇主而异）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年春季截止为 2 月 3 日，秋季截止为 9 月中旬（页面标注待确认），均已过；页面未公布下一轮时间。</sub> | ❔ | **要求：** 需已获大学博士学位；宿主实验室须在法国且不同于博士所在实验室；国籍条款未核实<br>ARC 基金会资助在法国实验室的博后研究，覆盖薪资，为固定期限合同，24 或 36 个月，不可续期。页面未载明下一轮时间与国籍条款。 |
+| [瓦伦堡基金会 Broad Institute 博士后项目（瑞典籍）](https://kaw.wallenberg.org/postdoctoral-fellowship-program-broad-institute)<br><sub>美国·瑞典 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>约 USD 50,000/年（官网页面）</sub> | 未公布 | ⛔ | **要求：** 须持瑞典高校博士学位并与瑞典高校有长期关联，需先找到 MIT/Broad 导师；中国籍通常不符合。<br>资助在瑞典高校获得博士的人到麻省理工与 Broad 研究所做博后，要求与瑞典高校有长期关联，中国籍不符合。仅作排除项保留。 |
+| [美国糖尿病协会（ADA）博士后奖学金](https://professional.diabetes.org/content-page/spring-cycle)<br><sub>美国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>春季轮 2026 年 4 月 30 日截止（已过），预计 2027 年 2 月起可开始；2027 轮以 ADA 官网公告为准。</sub> | 🟡 | **要求：** 官方征集文件写明无公民身份要求，但申请人须在美国合法工作（公民、永久居民或持合法工作签证者）；须已获博士学位且在提交前 5 年内；研究须在美国大学附属机构或非营利研究机构进行。<br>2026 轮截止 2026-04-30，最早起始 2027-02-01；页面称无公民身份要求，但须有在美国工作的许可；资助含年度津贴、福利费 7,000 美元及培训补助 8,000 美元。 |
 | [苏黎世大学 CEES 东欧与欧亚研究员计划](https://www.cees.uzh.ch/en/Fellowship-Program/Current-Call.html)<br><sub>瑞士 ｜ 生态/进化·地球/环境/海洋·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | **2026-10-12**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 年春季学期征集截止 2026 年 10 月 12 日（已过）；页面未给出下一轮时间，以征集页为准。</sub> | ❔ | **要求：** 面向东欧、俄罗斯、高加索或中亚研究的社会科学与人文学者；需研究计划、写作样本与两封推荐信。其他资格条件以征集页为准。<br>页面为 2027 年春季学期征集（约 4 个月驻校，5–6 个名额），资助含生活津贴、差旅与行政费用，并协助在苏黎世找房；仅限在本校就读或任职的申请者。 |
 | [阿尔茨海默病协会研究员奖学金（AARF）](https://www.alz.org/research/for_researchers/grants/types-of-grants/alzheimer_s_association_research_fellowship_-aarf)<br><sub>美国·全球 ｜ 医学/公卫·神经/认知·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>各轮截止日未确认；页面当前标注关闭，下一轮请以 alz.org 当期征集为准。</sub> | ❔ | **要求：** 页面称向美国及国际研究人员开放；须为博士后或同等职位、在学位获得后研究经历少于 10 年，并在非营利学术、医疗或研究机构全职任职；已为助理教授或以上者不符合条件<br>协会为美国慈善机构，须遵守美国法律，个别申请人或国家可能因此不获资助。 |
 
 <a id="fellowships"></a>
 
-## 企业与基金会 Fellowship（17）
+## 企业与基金会 Fellowship（19）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -431,7 +440,9 @@
 | [康奈尔兽医学院 DVM 攻读 PhD 研究奖学金（Graduate Research Award）](https://www.vet.cornell.edu/education/graduate-studies/phd-program/admissions/dvms-seeking-phd/graduate-research-award)<br><sub>美国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$45,240/年（学院页面所列，需以当期为准）</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>页面称申请截止为每年 12 月 1 日（未注明年份），申请须遵循 Biomedical & Biological Sciences PhD 项目的申请程序。</sub> | ❔ | **要求：** 仅限已持有 DVM 或同等兽医学位、拟在康奈尔兽医学院攻读 PhD 的申请者；中国兽医学位是否视为同等需向招生办确认。<br>康奈尔兽医学院官网称 DVM 申请者可获五年资助，含全额学费奖学金、学生健康保险与生活津贴。页面写明前 9 个月由 BBS 项目资助，之后由导师提供标准 BBS 基础津贴（当前 $45,240）及学费与健康保险。 |
 | [法国 Eiffel 卓越奖学金 2027 校内申请说明（巴黎大学）](https://u-paris.fr/language/en/eiffel-excellence-scholarship-2027/)<br><sub>法国 ｜ 生物/生命科学·数学/统计·计算机·工程·经济/金融·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>博士生每月津贴 2000 欧元；获奖者免除巴黎城市大学学费（页面：monthly allowance of €2 000）。</sub> | **2026-11-02**<br><sub>🟢 开放申请</sub><br><sub>2027–28 学年校内申请 2026 年 11 月 2 日 23:59（巴黎时间）截止；须由法国高校提交，学生不可直接向 Campus France 投递。</sub> | ❔ | Eiffel 2027–28 学年博士申请已开放，校内截止 2026 年 11 月 2 日；学生需通过法国高校提交，不能直接向 Campus France 投递。资助细节与中国大陆申请资格仍以官网为准。 |
 | [爱尔兰海洋研究所 Cullen 博士奖学金](https://www.marine.ie/site-area/research-funding/research-funding/cullen-scholarship-2025-call)<br><sub>爱尔兰 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>每年约 6 月初截止（2025 轮为 6 月 10 日）；2026 轮未见公告，可邮件 funding@marine.ie 核实</sub> | ❔ | **要求：** 宿主须为爱尔兰岛内高校导师；国际生资格以当年公告为准<br>每轮约 10 个海洋科学博士名额，挂靠 Marine Institute 项目。 |
+| [美国癌症学会（ACS）博士后奖学金（Cancer Research）](https://amp.cancer.org/research/we-fund-cancer-research/apply-research-grant/grant-types/postdoctoral-fellowships.html)<br><sub>美国 ｜ 生物/生命科学·医学/公卫·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>每年 6 月 1 日和 12 月 1 日截止；下一轮为 2026-12-01</sub> | 🟡 | **要求：** 需在美国学术机构或合格非营利机构任博后职位；美国公民，或申请时持有适当签证/合法身份的非美国公民；博士学位获得不超过 3 年和/或博后训练不超过 3 年<br>页面称奖励最长 3 年，年度津贴 66,000/68,000/70,000 美元，另有每年 4,000 美元补助；截止日期为 6 月 1 日和 12 月 1 日。 |
 | [英国与爱尔兰鱼类学会（FSBI）博士奖学金](https://fsbi.org.uk/phd-studentships-fsbi-3/)<br><sub>英国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>🔜 即将开放</sub><br><sub>每年 1 月 30 日 17:00 GMT 截止（页面写 30 January），逾期不予考虑；以当年公告为准。</sub> | ❔ | **要求：** 需学士学位（一等或上二等荣誉，生物相关学科）；申请时须为 FSBI 付费会员；课题须与鱼类相关<br>页面称学会每年面向会员开放一次 PhD 奖学金竞争，资助四年全额（含学费与生活费）。申请人须为付费会员并计划在英国高校工作（页面列为基本条件）；不符合英国居住条件的学生须自行补足学费差额。 |
+| [英国心脏基金会四年制博士项目](https://www.bhf.org.uk/for-professionals/information-for-researchers/what-we-fund/4-year-phd-programme)<br><sub>英国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>⏸ 本轮已截止</sub> | 🟡 | BHF 四年制博士：国际生政策因校而异，部分项目全额资助国际生，部分项目国际生需自付英国与海外学费差额；需一级或高二荣誉学位。各校截止不同。 |
 | [英国药理学会（BPS）博士资助计划](https://www.bps.ac.uk/news/article/phd-funding-programme/)<br><sub>英国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>£21,805/年（英国校外，2026/27）；伦敦 £23,805/年，另有每年最多 £10,000 研究经费</sub> | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>2027 年奖学金截止日为 2026 年 10 月 31 日（BPS 官网）；单次申请，由学会决定 AJ Clark 或 Sir David Jack 奖学金</sub> | ❔ | **要求：** 需药理学或相关学科学位，并拟在英国或爱尔兰认可机构攻读博士；主导师须为（或将成为）学会会员；页面称国际学生可以申请，但系主任须说明国际学费如何覆盖。<br>英国药理学会博士奖学金（AJ Clark Studentship 或 Sir David Jack Scholarship，共用一次申请）：2027 年奖学金申请截止 2026 年 10 月 31 日。2026/27 生活津贴校外 £21,805、伦敦 £23,805，另有研究经费每年最多 £10,000。 |
 
 <a id="discipline"></a>
@@ -454,7 +465,7 @@
 
 <a id="people-channels"></a>
 
-## 个人信源与社交渠道（7）
+## 个人信源与社交渠道（8）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -463,6 +474,7 @@
 | [Max Planck Young Researchers Heidelberg ERC StG REPROMECH 博士岗位](https://jobrxiv.org/job/phd-position-m-f-d-reproductive-mechanobiology/)<br><sub>德国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>岗位信息列截止 2026 年 11 月 1 日；以岗位页为准</sub> | ❔ | **要求：** 需硕士或同等学历，专业为生殖生物学、发育生物学、生物学、生物物理、物理、生物工程或相关学科；需优秀的英语读写与口语能力；需愿意使用实验小鼠并完成实验动物培训。<br>马普医学研究所 Möllmert 课题组 ERC StG REPROMECH 生殖力学方向博士岗位，36 个月，计划 2027 年 1 月 1 日起，薪资 TVöD Bund E13（75%）。 |
 | [丹麦技术大学 FRAMEBIO 研究组招聘页](https://framebio.dtu.dk/en/Recruitment)<br><sub>丹麦 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | — | ❔ | **要求：** 搜索摘要未显示国籍、学历和语言要求，需进入岗位页核实。<br>课题组直接发布的招聘页，适合定期查看；具体岗位与资助细节需逐条确认。 |
 | [亚当·密茨凯维奇大学环境生物学院 博士招生公告](https://envbiol.web.amu.edu.pl/en/category/announcements-for-phd-students/)<br><sub>波兰 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 学院博士招生公告栏，每条职位类型与资助需逐条核实。 |
+| [安特卫普大学进化与生态组（EvECo）招聘页](https://www.uantwerpen.be/en/research-groups/eveco/organisation/job-opportunities)<br><sub>比利时 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | **2027-03-01**<br><sub>📋 持续更新</sub><br><sub>FWO 博士奖学金年度截止 3 月 1 日，2026 轮已过，下一轮为 2027 年 3 月 1 日；FWO 博后截止 12 月 1 日（据 EvECo 官网）</sub> | ❔ | **要求：** EvECo 页面称 FWO 博士奖学金面向欧盟及欧洲经济区学生，中国学生资格未核实，需向校方和 FWO 确认。<br>博士岗位绑定具体项目，大学仅通过项目公告招博士。EvECo 页面称 FWO 博士奖学金年度截止 3 月 1 日；其他 UAntwerp 页写 2 月 1 日，口径不一，以 FWO 官网为准。 |
 | [康斯坦茨大学进化生物学课题组岗位页](https://www.evolutionsbiologie-uni-konstanz.com/job-opportunities.html)<br><sub>德国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止不同</sub> | ❔ | 页面称全年欢迎博士与博后咨询，可直接联系 Axel Meyer 教授；页面另列 Assistant Professor（Jr. Group Leader）岗位，入职时间待定。 |
 | [德累斯顿系统生物学中心（CSBD）招聘页](https://www.csbdresden.de/join-us/jobs)<br><sub>德国 ｜ 生物/生命科学·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面写 ELBE 博后下一截止为 2026 年 9 月 11 日（已过），未见下一轮日期。</sub> | ❔ | CSBD 岗位汇总页：博士招生仅经 IMPRS Bio-MAP 统一进行，页面写明不接受直接联系课题组的申请。ELBE 博后项目页面所写截止已过，下一轮未见公布；各岗位资助与国际生条件需逐条核对官网。 |
 

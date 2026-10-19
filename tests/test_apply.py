@@ -228,3 +228,81 @@ def test_red_team_eval_catches_all_fabrications(tmp_path, monkeypatch, capsys):
     monkeypatch.setattr(sys, "argv", ["apply_eval.py", str(d), "--facts", str(facts)])
     assert apply_eval.main() == 0, capsys.readouterr().out
     assert "漏网 0 条" in capsys.readouterr().out
+
+
+@pytest.mark.parametrize("sentence", [
+    "I maintained the lab's server and analysed survey data [cv:proj1].",          # 张冠李戴：proj1 不是这个内容（且无出处支持）
+    "I also gained experience with solid-state electrodes.",                     # 经历句无出处（非常见动词）
+    "My imaging experience covers confocal microscopy.",                          # my … experience
+    "我操作过原位拉曼池。",                                                         # 我…过
+    "I studied at Northbridge University in 2025–2025 [cv:edu1].",               # 年份区间不符
+    "My first-author paper was published in 2026.",                              # 无出处的一作 / 已发表
+])
+def test_more_fabrications_are_caught(tmp_path, sentence):
+    assert errors(ac.check_dir(make_dir(tmp_path, GOOD + "\n" + sentence + "\n"), LIN))
+
+
+def test_misattributed_citation():
+    idx = ac.fact_index(LIN)
+    body = "I built a particle filter in Python estimating route flows from link counts"
+    assert ac.misattributed(body, ["proj2"], idx) is None
+    assert "proj2" in ac.misattributed(body, ["award1"], idx)
+
+
+# 只换说法、不换事实词的编造（针对三个虚构申请者）：程序必须全部拦下
+SUBTLE = [
+    ("lin-xiaozhou", "My paper on tuning MALA on the simplex via online acceptance-rate control has been widely cited [cv:pub1]."),
+    ("lin-xiaozhou", "I designed the data-augmentation Gibbs sampler for regional disease counts with exact row and column totals myself, from scratch [cv:proj1]."),
+    ("lin-xiaozhou", "The particle filter I built in Python estimating route flows from link counts is now used by a city traffic department [cv:proj2]."),
+    ("lin-xiaozhou", "My MSc thesis on adaptive tuning of Metropolis-adjusted Langevin algorithms on the probability simplex proved convergence guarantees [cv:edu1]."),
+    ("lin-xiaozhou", "In the disease mapping project, my Gibbs sampler for regional disease counts was the main contribution of the group [cv:proj1]."),
+    ("zhou-muyang", "I developed the in situ Raman cell for solid-state electrodes that the group now uses [cv:proj-2]."),
+    ("zhou-muyang", "In my Journal of Energy Chemistry paper, the polyoxometalate anchoring layers completely eliminated polysulfide shuttling in Li-S cells [cv:pub-1]."),
+    ("zhou-muyang", "I synthesised five polyoxometalate clusters that had never been reported before [cv:proj-1]."),
+    ("zhou-muyang", "My cyclic voltammetry, XRD and XPS results were featured on the journal cover [cv:proj-1]."),
+    ("zhou-muyang", "My second-author ChemElectroChem paper on in situ Raman tracking of sulfur speciation was mostly my own work [cv:pub-2]."),
+    ("chen-ruoxi", "My 6-week heat-stress experiment on Acropora and Pocillopora fragments showed that Pocillopora recovered faster after bleaching [cv:proj-1]."),
+    ("chen-ruoxi", "I designed and built the 12-tank recirculating aquarium system for the heat-stress experiment [cv:proj-1]."),
+    ("chen-ruoxi", "As a volunteer at Southbay Public Aquarium I was responsible for the entire coral collection [cv:work-1]."),
+    ("chen-ruoxi", "I measured photosynthetic efficiency of Acropora and Pocillopora fragments with PAM fluorometry every day [cv:proj-1]."),
+]
+
+
+@pytest.mark.parametrize("who,sentence", SUBTLE)
+def test_subtle_fabrications_are_caught(who, sentence):
+    facts = ac.fact_index(yaml.safe_load((FIX / f"{who}.yml").read_text(encoding="utf-8")))
+    errs, _ = ac.check_sentence(sentence, facts, {}, None, "")
+    assert errs, sentence
+
+
+@pytest.mark.parametrize("who,sentence", [
+    ("chen-ruoxi", "I measured photosynthetic efficiency with PAM fluorometry twice a week [cv:proj-1]."),
+    ("zhou-muyang", "I synthesised five polyoxometalate clusters and characterised them by XRD, XPS and cyclic voltammetry [cv:proj-1]."),
+    ("lin-xiaozhou", "In a course project which I led, I built a particle filter in Python estimating route flows from link counts [cv:proj2]."),
+])
+def test_faithful_sentences_pass(who, sentence):
+    facts = ac.fact_index(yaml.safe_load((FIX / f"{who}.yml").read_text(encoding="utf-8")))
+    errs, _ = ac.check_sentence(sentence, facts, {}, None, "")
+    assert errs == [], errs
+
+
+def test_known_false_positives_now_pass(tmp_path):
+    """演示中起草子代理报告的误报：缩写、计划时长、中文序数。"""
+    post = "The project uses optical coherence tomography and sequential Monte Carlo."
+    facts = ac.fact_index(LIN)
+    for s in ["The project uses OCT to image coral tissue [post].",
+              "前 6–12 个月：先复现岗位提到的 SMC 方法 [post]。",
+              "Year 1: reproduce the baseline samplers.",
+              "紧随其后的第二位作者是我导师。".replace("我导师", "导师")]:
+        errs, _ = ac.check_sentence(s, facts, {}, post, "")
+        assert errs == [], (s, errs)
+    errs, _ = ac.check_sentence("I have 6 years of experience with Stan.", facts, {}, post, "")
+    assert errs  # 经历句里的时长仍要出处
+
+
+def test_quantifier_overclaim():
+    facts = ac.fact_index(yaml.safe_load((FIX / "zhou-muyang.yml").read_text(encoding="utf-8")))
+    bad = "I assembled and cycled more than 200 coin cells, all of which kept 78% capacity after 500 cycles at 1C [cv:proj-1]."
+    good = "I assembled and cycled more than 200 coin cells; the best cell kept 78% capacity after 500 cycles at 1C [cv:proj-1]."
+    assert ac.check_sentence(bad, facts, {}, None, "")[0]
+    assert ac.check_sentence(good, facts, {}, None, "")[0] == []

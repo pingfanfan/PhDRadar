@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 瑞典（SE） 信源（36）
+# 瑞典（SE） 信源（37）
 
-所有标注了地区 SE 的信源，共 36 条。
+所有标注了地区 SE 的信源，共 37 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 1](se.md#aggregators) · [各国学术招聘门户与机构职位页 3](se.md#national-portals) · [高校旗舰奖学金与资助检索 6](se.md#university-schemes) · [结构化博士项目与研究机构 17](se.md#doctoral-programs) · [博士后奖学金与项目 3](se.md#postdoc-fellowships) · [企业与基金会 Fellowship 2](se.md#fellowships) · [学科专属信源 2](se.md#discipline) · [个人信源与社交渠道 1](se.md#people-channels) · [选校与申请辅助工具 1](se.md#tools)
+**按分类跳转：** [综合聚合平台 1](se.md#aggregators) · [各国学术招聘门户与机构职位页 3](se.md#national-portals) · [高校旗舰奖学金与资助检索 6](se.md#university-schemes) · [结构化博士项目与研究机构 17](se.md#doctoral-programs) · [博士后奖学金与项目 4](se.md#postdoc-fellowships) · [企业与基金会 Fellowship 2](se.md#fellowships) · [学科专属信源 2](se.md#discipline) · [个人信源与社交渠道 1](se.md#people-channels) · [选校与申请辅助工具 1](se.md#tools)
 
 <a id="aggregators"></a>
 
@@ -67,12 +67,13 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（3）
+## 博士后奖学金与项目（4）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Knut and Alice Wallenberg 基金会博士后项目日历（Program for Mathematics 等）](https://kaw.wallenberg.org/en/node/245)<br><sub>瑞典·全球 ｜ 数学/统计·物理/天文·生物/生命科学·工程</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2026-10-06**<br><sub>⏸ 本轮已截止</sub><br><sub>页面写明数学项目申请截止延长至 2026 年 10 月 6 日下午 1 点前；已过。2027 轮以 KAW 官网公告为准。</sub> | ❔ | **要求：** 面向瑞典境外研究者（据 KAW 数学项目页标题）；学历、语言等其他要求以官网公告为准<br>瓦伦堡基金会博后奖学金（数学项目，面向瑞典境外研究者，与瑞典皇家科学院合作）。2026 年截止已过且每年重复，2027 轮待官方公告。 |
 | [NNF-IAS 健康与可持续发展研究员（北欧四所高等研究院联合博后）](https://www.swedishcollegium.se/fellowships/nnf-ias-fellowship-programme-on-health-and-sustainability)<br><sub>瑞典·丹麦·芬兰·挪威 ｜ 医学/公卫·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-10-01**<br><sub>⏸ 本轮已截止</sub><br><sub>第一轮截止 2026-10-01 已过；2027 年 9 月 1 日起入职，下一轮时间以官网为准。</sub> | ❔ | **要求：** 面向任何国籍、各学科的研究者；博士毕业后有 2–10 年工作经验（博士阶段不计）；申请截止前两年内在优先国家居住或主要工作超过 12 个月者不符合条件。<br>北欧四所高等研究院（丹麦 AIAS、挪威 CAS、芬兰 HCAS、瑞典 SCAS）联合的跨学科研究员项目，主题为健康与可持续发展，全职有薪、需迁往北欧宿主研究所工作。 |
+| [瓦伦堡基金会 Broad Institute 博士后项目（瑞典籍）](https://kaw.wallenberg.org/postdoctoral-fellowship-program-broad-institute)<br><sub>美国·瑞典 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>约 USD 50,000/年（官网页面）</sub> | 未公布 | ⛔ | **要求：** 须持瑞典高校博士学位并与瑞典高校有长期关联，需先找到 MIT/Broad 导师；中国籍通常不符合。<br>资助在瑞典高校获得博士的人到麻省理工与 Broad 研究所做博后，要求与瑞典高校有长期关联，中国籍不符合。仅作排除项保留。 |
 | [诺和诺德基金会博后奖学金（ETH Zurich / MIT / Oxford / Uppsala）](https://novonordiskfonden.dk/grant/postdoctoral-fellowships-at-eth-zurich-2026/)<br><sub>瑞士·美国·英国·瑞典 ｜ 全学科</sub> | 博后 | 力度未注明 | **2027-01-29**<br><sub>🟢 开放申请</sub> | ❔ | 诺和诺德基金会博后奖学金：ETH Zurich 2027 轮 2026-09-30 开放、2027-01-29 截止（搜索摘要），每项最高 DKK 360 万（最长 3 年）；MIT 与 Oxford 的 2026 轮已于 2026 年 1 月截止，需核对是否要求丹麦关联。 |
 
 <a id="fellowships"></a>

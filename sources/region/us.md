@@ -2,20 +2,21 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 美国（US） 信源（397）
+# 美国（US） 信源（407）
 
-所有标注了地区 US 的信源，共 397 条。
+所有标注了地区 US 的信源，共 407 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 8](us.md#aggregators) · [各国学术招聘门户与机构职位页 1](us.md#national-portals) · [高校旗舰奖学金与资助检索 42](us.md#university-schemes) · [结构化博士项目与研究机构 207](us.md#doctoral-programs) · [博士后奖学金与项目 71](us.md#postdoc-fellowships) · [企业与基金会 Fellowship 30](us.md#fellowships) · [学科专属信源 19](us.md#discipline) · [个人信源与社交渠道 5](us.md#people-channels) · [导师招生帖（社交平台个人发布） 8](us.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 5](us.md#faculty-aggregators) · [选校与申请辅助工具 1](us.md#tools)
+**按分类跳转：** [综合聚合平台 9](us.md#aggregators) · [各国学术招聘门户与机构职位页 1](us.md#national-portals) · [高校旗舰奖学金与资助检索 45](us.md#university-schemes) · [结构化博士项目与研究机构 208](us.md#doctoral-programs) · [博士后奖学金与项目 74](us.md#postdoc-fellowships) · [企业与基金会 Fellowship 32](us.md#fellowships) · [学科专属信源 19](us.md#discipline) · [个人信源与社交渠道 5](us.md#people-channels) · [导师招生帖（社交平台个人发布） 8](us.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 5](us.md#faculty-aggregators) · [选校与申请辅助工具 1](us.md#tools)
 
 <a id="aggregators"></a>
 
-## 综合聚合平台（8）
+## 综合聚合平台（9）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [AAG 美国地理学家协会学生机会页](https://aag.org/studentopportunities/)<br><sub>美国 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 汇总各地地理系研究生助研/助教与博后机会，持续更新。 |
 | [Academic Jobs Online](https://academicjobsonline.org/ajo/jobs)<br><sub>全球·美国·欧盟/欧洲 ｜ 数学/统计·计算机·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | — | ❔ | 以教职/博后为主，但数学、理论 CS 方向欧洲博士岗位也会发在这里。 |
 | [AcademicJobsOnline 天体物理分类](https://academicjobsonline.org/ajo/Astrphys/Numerical%20Astrophysics)<br><sub>全球·美国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | — | ❔ | 北美天体物理博后为主，天文主流入口仍是 AAS Job Register，本条作补充。 |
 | [AEA 研究生资助指引（Funding Opportunities for Graduate School）](https://www.aeaweb.org/gradstudents/Funding.php)<br><sub>美国·全球 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | — | ❔ | 美国经济学会（AEA）研究生资助指引官方页。页面引用 2006 年研究数据，称约 80% 经济学博士新生入学首年获得资助；并链接外部资源。并非所有项目都全额资助，需逐校核对。 |
@@ -35,10 +36,11 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（42）
+## 高校旗舰奖学金与资助检索（45）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [Caltech 航空航天系（GALCIT）研究生招生与资助页](https://aerospace.caltech.edu/academics/admissions)<br><sub>美国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>🔜 即将开放</sub><br><sub>秋季入学申请一般在 11 月 15 日至 12 月 15 日之间提交，以研究生办公室为准</sub> | 🟡 | **要求：** 资助多需美国工作授权，无工作授权者须另有经费安排；申请时自动考虑资助<br>Caltech 博士录取者获得学费与生活费资助，但大部分资金来源要求美国工作授权，无工作授权者入学须另行安排经费，国际生资格受限。申请时自动考虑资助；截止约在 11 月中旬至 12 月中旬，以官网为准。 |
 | [CU Boulder 研究生院系级资助说明](https://www.colorado.edu/graduateschool/funding/departmental-funding)<br><sub>美国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各系截止不同，以院系当年说明为准。</sub> | ✅ | 助教/助研岗位包含津贴、学费减免及福利。国际生在合格岗位上可免除州外学费差额（材料科学与工程系页面明确说明），但具体政策因院系而异，需向院系确认。 |
 | [Emory Laney 研究生院博士资助概览](https://gs.web.emory.edu/admissions/finance_overview.html)<br><sub>美国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>约 $43,260/年（FY26-27，博士生工会协议标准；各项目略有不同）</sub> | 各项目不同<br><sub>各院系截止日期不同，以项目为准</sub> | ❔ | Emory 标准学费奖学金覆盖全部学费，学生仅付学期杂费；津贴与医保补贴按五年计，以各院系 offer 为准。 |
 | [Fordham 文理研究生院（GSAS）津贴与奖学金表](https://www.fordham.edu/graduate-school-of-arts-and-sciences/financial-support/stipends-and-scholarships/)<br><sub>美国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>$38,192/学年（研究生助理，1–2 年级，2026–27 表）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各学科项目截止以项目为准。杰出奖学金申请通常在 1 月初至中旬截止；助学金一般 4 月第一周通知，须在 4 月 15 日前回复。</sub> | ❔ | **要求：** 页面未就国籍设限；需看具体项目是否提供学费覆盖。<br>GSAS 津贴表列出 2026–27 学年标准：研究生助理 1–2 年级 $38,192，3 年级及以上 $38,723；另有各类研究/教学奖学金。以页面最新表格为准。 |
@@ -49,6 +51,7 @@
 | [Northwestern 研究生院博士资助常见问题（含国际生条款）](https://www.tgs.northwestern.edu/funding/about-graduate-funding/funding-faqs.html)<br><sub>美国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>资助以各项目录取通知为准，本条不记录截止时间。</sub> | ✅ | **要求：** 国际生与本国生资助标准相同；但担任助教前须通过 TGS 口语英语要求，未通过则不能获得助教职位。<br>页面称博士生资助涵盖学费、津贴、健康服务费和年度医保保费；理工科博士通常至少获五年资助，人文社科博士为 20 个季度。 |
 | [NYU Steinhardt 全日制博士资助包](https://steinhardt.nyu.edu/admissions/paying-your-education/doctoral/funding-packages-full-time-phd-students)<br><sub>美国 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>约 $34,883（2025–26 预期，Steinhardt Fellowship）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各项目截止不一，见学院页面；研究旅行资助截止为 2 月 1 日、5 月 1 日、10 月 1 日（最高 $1,500）</sub> | ✅ | **要求：** 全日制博士生；资助随录取提供；部分学生为研究助理<br>全日制博士生的 Steinhardt Fellowship 含每年津贴、必修课学费减免及学生医保（至第五年）；2025–26 津贴为 $34,883。研究助理岗位同样含津贴、学费减免和医保，但需每周约 20 小时参与导师的科研项目。 |
 | [Stony Brook 化学系博士申请与资助](https://stonybrook.edu/chemistry-new/academics/phd-program/how-to-apply.html)<br><sub>美国 ｜ 化学/材料</sub> | 博士 | 全奖<br><sub>$38,000/年（页面称当前博士生津贴）</sub> | 滚动<br><sub>🔄 随时可申</sub><br><sub>无固定截止，页面建议 1 月 1 日前申请</sub> | ❔ | **要求：** GRE 已不要求；需提交成绩单与 3 封推荐信；语言要求以官网为准<br>系页面称博士生可获年度研究生津贴、补贴健康保险和全额学费，页面列出津贴 $38,000/年。另有旧版页面称 2022–23 年为 $34,000，以当年为准。 |
+| [UC Berkeley 化学系研究生常见问题（博士资助）](https://chemistry.berkeley.edu/faq/chemistry-grad-faq)<br><sub>美国 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>2022–23 学年 $38,012（官网旧数据，以当年为准）</sub> | 各项目不同<br><sub>📋 持续更新</sub> | 🟡 | **要求：** FAQ 称受经费限制，每年仅录取少数最优秀的国际生；TOEFL 可在美国高校修满一年后豁免<br>系 FAQ 称录取博士生通过助教或助研获得生活津贴，在读且进展良好时学费由校方承担。官网列出的津贴为 2022–23 学年数字，偏旧；需看当年页面。 |
 | [UChicago 社会科学学部博士资助](https://socialsciences.uchicago.edu/node/34094)<br><sub>美国 ｜ 社会科学/心理·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>2026–27 学年年化最低 $47,741（每月 $3,978.41，税前）</sub> | — | ✅ | 社会科学学部页称所有入学的在读博士生在整个学程内获得资助，不论国籍或其他因素；资助可来自学校、外部资金或两者结合，包括学费、U-SHIP 医保、研究生服务费及学部奖学金/助教津贴。 |
 | [UIUC 工学院博士五年资助保障](https://grainger.illinois.edu/academics/graduate/phd-funding-guarantee)<br><sub>美国 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>长期政策，无固定截止；各院系申请截止日期另行公布</sub> | ❔ | **要求：** 需留在原博士学位项目，保持良好学术状态并履行助理职位职责；母语非英语者须在 7 月 1 日（秋季入学）或 12 月 1 日（春季入学）前取得英语口语测试合格成绩，否则暂不享有该保障。<br>工学院博士前 5 年秋、春学期保证获得学费减免加津贴的 TA/RA 职位，夏季支持不保证；自 2020 年秋季入学起实施。国际生是否享有同等待遇官网未明确，需以详细条款确认。 |
 | [亚利桑那大学 Eller 商学院市场营销博士资助](https://eller.arizona.edu/programs/doctoral/marketing/program/funding)<br><sub>美国 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>🔄 随时可申</sub> | ❔ | 页面称营销博士大多获全额资助（助研/助教或奖学金，含学费减免与医保），资助保证 5 年。国际生资格页面未单独说明，需核实。 |
@@ -63,6 +66,7 @@
 | [哈佛 GSAS 文理学院人文社科博士资助（含东亚语言文明 EALC）](https://gsas.harvard.edu/financial-support/funding-and-aid/financial-support-phd-students/fas-humanities-and-social-sciences)<br><sub>美国 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ❔ | **要求：** 需已获 EALC 博士录取；至少两年全日制学习及 16 门四学分课程（或等价）；需满足研究语言要求<br>哈佛 FAS 人文社科博士资助页面：通常提供学费、医保及基本生活费的完整支持至少五年（含完成年），由学费补助、津贴、助教等组合构成。东亚语言文明（EALC）的具体条件页面未写明，以研究生院和系的通知为准。 |
 | [哥伦比亚大学建筑学院（GSAPP）博士生资助政策](https://www.arch.columbia.edu/phd-support)<br><sub>美国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 不提供资助 | —<br><sub>页面所列申请截止：夏季活动 7 月 15 日；秋季活动 10 月 31 日；春季活动 3 月 31 日。</sub> | ❔ | **要求：** 在读博士生，入学第 2–7 年，学业状况良好；仅资助未来的活动，不报销已发生的费用。<br>GSAPP 博士生差旅、会议与展览参与补助，每次 1,500 美元，每学年最多一次、学业期间最多两次；不含学费或生活津贴（页面称为非学费资助）。 |
 | [埃默里大学 Laney 研究生院博士资助政策](https://laney.catalog.emory.edu/lgspolicies/amendments)<br><sub>美国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>博士生工会合同标准年薪 $43,260（据 LGS 2026–27 资料）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各院系/批次截止不同，以官网公告为准。</sub> | ❔ | **要求：** 国际生条件以官网为准。<br>LGS 资料称博士可享全额学费奖学金最多七年，第八年起学生承担部分学费；生活补助与医疗保险保障五年并可延长。国际生资格需以官网为准。 |
+| [宾汉姆顿大学研究生院助教/助研资助](https://www.binghamton.edu/grad-school/cost-funding/assistantships.html)<br><sub>美国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>按院系公布时间申请</sub> | ❔ | **要求：** 需先被博士项目录取；页面未列国际生专门条款，需向院系确认<br>助教/助研提供津贴和学费奖学金，每周 10–20 小时；各系金额不同。 |
 | [密歇根大学比较文学博士 Department Fellowship（录取即享5年资助）](https://prod.lsa.umich.edu/complit/graduates/prospective-students/fellowships-funding.html)<br><sub>美国 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>📋 持续更新</sub><br><sub>页面称录取博士生即获保障5年资助（学费、医疗牙科保险、生活津贴、暑期资助）；申请截止以官网招生页为准。</sub> | ✅ | **要求：** 页面称录取博士生即享 5 年资助保障（学费、医保与牙科险、生活津贴、暑期资助）；页面未列国籍条件与申请材料。<br>北美博士的保底型资助；招生与截止每年更新，需到官网核实当年条款。 |
 | [布朗大学研究生院博士资助](https://graduateschool.brown.edu/financing-support/phd-funding)<br><sub>美国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 须完成 I-9 就业资格核验表，该表需有效社会安全号或已申请社会安全号的回执<br>布朗研究生院称大多数新入学博士生享有 5 年资助保障（人文社科 6 年），包括津贴、学费减免、健康服务费及医保，需学业进展达标。国籍条款官方页未确认。 |
 | [布朗研究生院博士五年资助保障](https://graduateschool.brown.edu/financing-support/five-year-guarantee)<br><sub>美国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ✅ | **要求：** 录取博士生保障 5 年（人文社科 6 年）资助，含津贴、学费减免、医保；以学业进展为条件<br>官方保障页：录取博士生获 5 年（人文社科 6 年）资助，含暑期津贴、学费减免和医保，覆盖国内外学生。 |
@@ -84,10 +88,11 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（207）
+## 结构化博士项目与研究机构（208）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [Baylor 医学院 GSBS 资助与费用](https://www.bcm.edu/sites/default/files/2026-09/fees-and-expenses-graduate-school-of-biomedical-sciences-2025-2026.pdf)<br><sub>美国 ｜ 生物/生命科学·医学/公卫·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ❔ | 页面称博士生获得有竞争力的津贴、全额学费减免和免费个人医疗保险；未说明国际生资格，仅提到国际生需缴年度签证费。 |
 | [Brandeis 国际商学院国际经济与金融博士（全额资助）](https://www.brandeis.edu/global/academics/phd/index.html)<br><sub>美国 ｜ 经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>第三方列表 2026-01-15 截止已过；项目隔年招生，下一批入学年份与截止日未在官网确认。</sub> | ❔ | 官网称该博士项目目前不接受申请，下一次预计入学时间为 2028 年秋季，页面未给出截止日期。官网称几乎所有录取博士生获全额学费奖学金、医保与生活津贴。 |
 | [Brown CS 博士 FAQ（五年资助保障）](https://cs.brown.edu/degrees/doctoral/faq/)<br><sub>美国 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>🔜 即将开放</sub><br><sub>每年仅一个申请期，截止 12 月 15 日（页面未注明年份，以当年系公告为准）</sub> | ✅ | **要求：** 非英语母语且未在英语国家院校获学位者须提交 TOEFL（可补充其他英语证据）；一般不考虑 TOEFL iBT 低于 105 或 IELTS 低于 7；GRE 可选；仅秋季入学<br>系官网 FAQ 称向所有博士生（含国际生）提供资助，近年约录取 40 人、申请者约 300–400 人。页面注明可能被 2020-21 计划取代，需以当年官网为准。 |
 | [Clemson 计算学院博士招生 FAQ](https://clemson.edu/cecas/departments/computing/academics/graduates/faq.html)<br><sub>美国 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>博士项目按入学学期分批：计算机科学与人本计算（HCC）博士秋季入学优先审核 1 月 1 日、最终截止 3 月 15 日，春季入学优先审核与最终截止均为 9 月 15 日；生物医学数据科学博士仅秋季入学，优先 12 月 1 日、最终 1 月 15 日。</sub> | ✅ | 学院研究生资助以 graduate assistantship 为主，资助保留给博士生；助教享受大幅减免的学费并按半月发放津贴。页面称博士申请在处理时自动考虑资助，无需另行申请。 |
@@ -298,7 +303,7 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（71）
+## 博士后奖学金与项目（74）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -307,6 +312,7 @@
 | [Alzheimer's Association 研究奖学金 AARFA（Research Fellowship for All）](https://www.alz.org/research/for_researchers/grants/types-of-grants/aarfa)<br><sub>美国 ｜ 神经/认知·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博后 | 半奖/部分 | **2026-10-20**<br><sub>🟢 开放申请</sub><br><sub>2026 轮：意向书 2026-08-14；正式申请 2026-10-20 17:00 ET（ISTAART 会员 10-22）；2027-01-30 前公布结果</sub> | ❔ | **要求：** 已完成博士培训、在阿尔茨海默病或痴呆相关研究中由资深导师指导的博后；页面称向美国和国际研究人员开放<br>周期 2–3 年，总额不超过 $200,000（研究预算与传播补贴）；截止日临近，需经 ProposalCentral 提交。 |
 | [Arc Institute Science Fellows（美国）](https://arcinstitute.org/programs/search-science-fellow)<br><sub>美国 ｜ 生物/生命科学·计算机·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 滚动<br><sub>🔄 随时可申</sub><br><sub>页面称新申请将持续接收并审核，直至岗位招满；未见固定截止日。</sub> | ❔ | **要求：** 需已获博士、MD 或 MD-PhD 学位（或即将获得）；2026 轮要求 2024–2026 年间毕业。<br>5 年期独立研究员职位，含全薪与团队经费，可提供签证支持。2026 轮首审已过，页面称滚动审核，以官网为准。 |
 | [Broad Institute Eric and Wendy Schmidt Center 博士后](https://www.ericandwendyschmidtcenter.org/become-a-fellow)<br><sub>美国 ｜ 人工智能·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | —<br><sub>🔄 随时可申</sub><br><sub>2027 年入职的申请已开放（经 AJO 门户）；评审自 2026 年 12 月 22 日起滚动进行，入职不早于 2027 年 7 月 1 日</sub> | ❔ | **要求：** 需具备机器学习、统计或应用数学背景；需同时找 Broad、MIT 或哈佛导师；材料为求职信、CV、研究陈述及 3 封推荐信<br>面向 ML/统计/应用数学背景、做生物医学问题的博后，一年一聘，可续聘至第三年。官网未明确国际申请者资格，以官网说明为准。 |
+| [Burroughs Wellcome 基金会博士后强化项目（PDEP）](https://www.bwfund.org/wp-content/uploads/2020/10/BWF_PDEP-RFP-2026_v2.pdf)<br><sub>美国·加拿大 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 RFP 截止 1 月 20 日已过；2027 轮 RFP 未在搜索中找到</sub> | ❔ | **要求：** 2026 轮 RFP 资格条款（国籍）未能核实；早期页面称需美国或加拿大公民，以 RFP 原文为准<br>只面向美国或加拿大公民，且须在美国或加拿大学位授予机构做博后，中国籍不符合。2026 年截止日为 1 月 20 日，已过。仅作为排除项保留。 |
 | [Caltech IQIM AWS 量子博士后学者](https://iqim.caltech.edu/aws-quantum-postdoctoral-scholar/)<br><sub>美国 ｜ 物理/天文·计算机</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>第一年年薪 $85,000；另含每年 $7,000 研究经费及一次性搬迁补助</sub> | **2026-11-15**<br><sub>🟢 开放申请</sub><br><sub>2027 年秋季入职批次：申请 2026 年 9 月 18 日开放；截止 2026 年 11 月 15 日（含推荐信），页面称请尽量在该日前提交全部材料；offer 约在 2026 年 12 月中至 2027 年 2 月末发出。</sub> | ❔ | **要求：** 需博士学位（入职前取得即可）；需指定一位 Caltech 物理、数学天文、工程或化学学科教员合作；可为在职博后；需 CV、5 页研究陈述、论文列表与至少 3 封推荐信，经 Academic Jobs Online 提交<br>页面为 2027 年秋季入职的 AWS 量子博士后（三年期，AWS 资助）。需经 Academic Jobs Online 提交，并指定一位 Caltech PMA、EAS 或 CCE 学科教员合作；审核截止 2026 年 11 月 15 日。 |
 | [Caltech 地球与行星科学部 Foster & Coco Stanback 博后奖学金](https://applications.caltech.edu/job/stanback)<br><sub>美国 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>$80,000/年 + $10,000 科研经费 + 最多 $1,500 单程差旅</sub> | **2026-11-06**<br><sub>🟢 开放申请</sub><br><sub>页面写明完整申请（含推荐信）截止 2026 年 11 月 6 日。</sub> | ❔ | **要求：** 博士学位获得时间不早于 2026 年 1 月 1 日（特殊情况除外）；提交 CV 与发表列表、两份各不超过 750 词的说明（既往研究与拟在 Caltech 开展的研究）及三封推荐信。<br>Caltech GPS 博后奖学金，任期通常两年，以完成博士学位及第一年进展良好为前提，面向全球环境科学方向。 |
 | [Caltech 实验物理与天体物理 Prize 博士后](https://www.pma.caltech.edu/research/pd-opportunities/exp-fellowships)<br><sub>美国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>$88,000/年（首年）+ $10,000/年研究经费</sub> | 未公布<br><sub>🔜 即将开放</sub><br><sub>页面写明每年 9 月 1 日在 Academic Jobs Online 开放申请，11 月 15 日为申请截止（含推荐信）；具体年份以 AJO 当年公告为准。</sub> | ❔ | **要求：** 物理、天文或相关领域博士（已取得或入职前取得）；当前博后可申请；需挂靠 Caltech PMA 实验组；需提交 CV、研究陈述（不超过 5 页）、发表列表及三封推荐信。<br>Caltech PMA 三年期 EXP 博后奖，首年年薪 8.8 万美元，另有每年 1 万美元科研经费及一次性搬迁补助。天体物理候选人须以仪器和/或实验室工作为主要研究方向。 |
@@ -365,6 +371,8 @@
 | [普林斯顿 Andlinger 能源与环境中心杰出博士后研究员](https://acee.princeton.edu/distinguished-postdoctoral-fellows-call-for-applications/)<br><sub>美国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>US$75,000/年 + US$3,500/年（会议与职业发展）</sub> | **2026-12-04**<br><sub>🟢 开放申请</sub><br><sub>2027 年入职轮截止 2026-12-04（美东），经 Interfolio 提交。</sub> | ❔ | **要求：** 需与普林斯顿两位及以上教授或高级研究人员合作，其中至少一位为主导师；博士学位须在预计入职日前三年内取得；国际生资格页面未说明。<br>普林斯顿 Andlinger 中心杰出博士后：2027 轮已发布，申请截止 2026 年 12 月 4 日 23:59（美东），经 Interfolio 提交。 |
 | [杰克逊实验室博士后职位](https://www.jax.org/careers-and-training/postdoctoral)<br><sub>美国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 需近期获得博士、医学博士或同等学位（JAX Scholars 项目要求入职前取得）；具体岗位要求以各实验室发布为准。国际申请者签证政策官网未说明，需向 PI 或 HR 确认。<br>杰克逊实验室博士后岗位涵盖衰老、癌症、免疫、计算生物和神经等方向，通过职位门户按实验室发布。搜索结果未见官网“滚动发布”的明确表述，截止日因岗位而异；国际申请者需向 PI 或 HR 确认签证。 |
 | [洛克菲勒大学 Kavli 神经科学研究所博后奖学金](https://www.rockefeller.edu/research/uploads/www.rockefeller.edu/sites/8/2026/03/Kavli-NSI-Postdoctoral-Fellowship-Program-Announcement-2026.pdf)<br><sub>美国 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-04-13**<br><sub>⏸ 本轮已截止</sub><br><sub>页面公告截止日期为 2026 年 4 月 13 日（只写此一日期）；已过。2026 年 7 月 1 日起任职，页面未见下一轮信息。</sub> | ❔ | **要求：** 需在 Kavli NSI 成员实验室担任博后，通常面向第 3–5 年的资深博后；资助含全额薪资与福利，外加每年 5,000 美元补充。<br>洛克菲勒大学 Kavli 神经科学研究所两年期博后奖学金，每年最多 4 人，由奖学金覆盖薪资。2026 年截止日期已过，下一轮待公告。 |
+| [瓦伦堡基金会 Broad Institute 博士后项目（瑞典籍）](https://kaw.wallenberg.org/postdoctoral-fellowship-program-broad-institute)<br><sub>美国·瑞典 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>约 USD 50,000/年（官网页面）</sub> | 未公布 | ⛔ | **要求：** 须持瑞典高校博士学位并与瑞典高校有长期关联，需先找到 MIT/Broad 导师；中国籍通常不符合。<br>资助在瑞典高校获得博士的人到麻省理工与 Broad 研究所做博后，要求与瑞典高校有长期关联，中国籍不符合。仅作排除项保留。 |
+| [美国糖尿病协会（ADA）博士后奖学金](https://professional.diabetes.org/content-page/spring-cycle)<br><sub>美国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>春季轮 2026 年 4 月 30 日截止（已过），预计 2027 年 2 月起可开始；2027 轮以 ADA 官网公告为准。</sub> | 🟡 | **要求：** 官方征集文件写明无公民身份要求，但申请人须在美国合法工作（公民、永久居民或持合法工作签证者）；须已获博士学位且在提交前 5 年内；研究须在美国大学附属机构或非营利研究机构进行。<br>2026 轮截止 2026-04-30，最早起始 2027-02-01；页面称无公民身份要求，但须有在美国工作的许可；资助含年度津贴、福利费 7,000 美元及培训补助 8,000 美元。 |
 | [耶鲁 Cowles 基金会经济学博后](https://cowles.yale.edu/visiting-faculty/postdoctoral-fellows-program)<br><sub>美国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | —<br><sub>当前轮次截止日期未在搜索结果中查到，以 cowles.yale.edu 官网为准</sub> | ❔ | **要求：** 近期获博士学位的新博士，偏重严谨的数理经济学方法；驻校约一年；当前轮截止日以官网为准。<br>耶鲁 Cowles 基金会数理经济学博后，通常驻校约一年，方向含计量、理论、产业组织、宏观等。当前轮次截止日期与申请渠道以官网为准。 |
 | [耶鲁大学东亚研究理事会（CEAS）博士后 Associates 项目](https://macmillan.yale.edu/eastasia/postdoctoral-program)<br><sub>美国 ｜ 人文/语言·社会科学/心理</sub> | 博后 | Fellowship<br><sub>力度待核实</sub> | **2027-01-01**<br><sub>🔜 即将开放</sub><br><sub>页面写明在线申请截止 2027-01-01 23:59 EST（申请 2026 年 10 月开放），逾期一律不受理。</sub> | ❔ | **要求：** 研究方向为中国、日本、韩国的单区域或跨区域东亚研究；需通过 Interfolio 提交求职信、CV、论文摘要、13 周本科研讨课大纲及课程提案表、未来研究计划（≤2,500 词）、写作样本、3 封推荐信。<br>项目自 1999-2000 学年起，让有潜力的东亚研究学者在耶鲁两年内修改论文成书、开展研究并教授本科高阶研讨课。页面未写津贴金额与国籍/签证条款，申请前向项目确认。 |
 | [耶鲁大学数据科学研究所（FDS）· 博后职位](https://academicjobsonline.org/ajo/Yale/FDS/32396)<br><sub>美国 ｜ 人工智能·数学/统计</sub> | 博后 | 带薪岗位 | **2026-11-06**<br><sub>🟢 开放申请</sub><br><sub>2026 博后职位截止 11 月 6 日 23:59（美东时间）；2025 轮截止 12 月 15 日</sub> | ❔ | **要求：** cover letter 需列出拟合作的耶鲁导师（至少一位为 FDS 成员），并提交 CV、研究计划及推荐信；仅通过官方门户提交；签证与国际生资格页面未说明<br>耶鲁数据科学基础研究所博后职位，2026 年 7 月 30 日发布，截止 2026 年 11 月 6 日；2–3 年独立研究，需列出拟合作的耶鲁导师（至少一位为研究所成员），提交 CV、研究计划及 3–5 封推荐信。页面未说明国际生或中国籍的签证与资格。 |
@@ -376,10 +384,11 @@
 
 <a id="fellowships"></a>
 
-## 企业与基金会 Fellowship（30）
+## 企业与基金会 Fellowship（32）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [ACLS Fellowships（美国学术团体协会人文社科奖学金）](https://www.acls.org/competitions/acls-fellowships/)<br><sub>美国 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>$5,000/月，最高 $60,000（6–12 个月）</sub> | **2026-09-17**<br><sub>⏸ 本轮已截止</sub><br><sub>2026-27 轮已于 2026-09-17 截止，下一轮以 acls.org 公布为准</sub> | ⛔ | **要求：** 需人文或阐释性社会科学博士学位；须为美国公民、永久居民或 DACA、庇护、难民、TPS 等身份，其他国籍者需在美国或其属地居住满三年<br>美国学术团体协会人文与阐释性社会科学奖学金。官方资格限美国公民、永久居民及特定身份者；其他国籍需在美国或其属地居住满三年，中国大陆申请者通常不符合。截止日以 acls.org 为准。 |
 | [Amazon AI PhD Fellowship（美国合作高校）](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program)<br><sub>美国 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>学校内部选拔，未见新一轮公告</sub> | ❔ | **要求：** 学生不能直接申请；需在 9 所参与院校之一读博，由院系提名<br>页面（2025 年 10 月的新闻稿）称该项目为期两年，覆盖 2025–2026 与 2026–2027 两个学年；学生资助合计 1000 万美元，另有每学年 2400 万美元 AWS 云计算积分。 |
 | [American Philosophical Society John C. Slater 科学史/技术史博士预科研究奖学金](https://www.amphilsoc.org/grants/john-c-slater-predoctoral-fellowship-history-science-technology-and-medicine)<br><sub>美国 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>$25,000（9 个月驻费城研究）+ $5,000 差旅/研究经费（2026–27 轮）</sub> | **2027-01-25**<br><sub>🟢 开放申请</sub><br><sub>页面称在线申请截止 2027 年 1 月 25 日 23:59（美东时间）；页面同时列出 2026–27 学年受助者，年份以官网公告为准。</sub> | ✅ | **要求：** 高年级博士生，研究科学史/技术史/医学史；非美国公民且非美国永久居民；不提供签证担保<br>面向科学史、技术史、医学史方向的高年级博士生，对非美国公民及非美国永久居民开放，9 个月驻费城研究，提供 2.5 万美元津贴与 5000 美元差旅/研究经费，不提供签证担保。 |
 | [Aspen 物理中心夏季项目（博后及以上参与者）](https://aspenphys.org/summer/admissions-and-eligibility-criteria/)<br><sub>美国 ｜ 物理/天文·数学/统计·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 半奖/部分 | **2026-01-15**<br><sub>⏸ 本轮已截止</sub> | ❔ | **要求：** 一般需博士后及以上身份，特殊情况接受即将毕业的博士生<br>面向博士后及以上的夏季项目（特殊情况下接收即将毕业的博士生）；页面称提供财务援助，可在申请表中提出请求。 |
@@ -408,6 +417,7 @@
 | [洛克菲勒大学 Kavli 神经科学研究所研究生奖学金](https://www.rockefeller.edu/research/uploads/www.rockefeller.edu/sites/8/2026/03/Kavli-NSI-Graduate-Fellowship-Program-Announcement-2026.pdf)<br><sub>美国 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>5000 美元薪金补充（1 年期）</sub> | **2026-04-13**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请截止 2026 年 4 月 13 日（已过）；下一轮以官网公告为准</sub> | ✅ | **要求：** 须为 David Rockefeller 研究生项目在读博士生，入学第二至第五年，并于 2026 年 7 月 1 日（2026 轮）入驻 Kavli NSI 成员实验室；美国及非美国公民均可申请<br>洛克菲勒大学 Kavli 神经系统研究所研究生奖学金（2026 轮，1 年期，最多 3 名），面向在读博士生，含 5000 美元薪金补充；官方称美国与非美国公民均可申请。2026 轮截止 4 月 13 日已过，下一轮以官网公告为准。 |
 | [犹他大学研究生研究奖学金](https://gradschool.utah.edu/funding/fellowships-scholarships-awards/grad-school-administered/graduate-research-fellowship.php)<br><sub>美国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-12-16**<br><sub>🟢 开放申请</sub><br><sub>院系提名制，每院系最多 2 份提案；页面显示申请截止 2026-12-16，院系可能更早</sub> | ✅ | 犹他大学研究生研究奖学金：国内外全日制攻读博士的学生均可申请，由院系提名（每院系最多 2 份提案）；奖金 $28,500 另含学费福利（TBP）及可选补贴医保，为一年期、不可续领。 |
 | [纽伯里图书馆（Newberry Library）长期研究员](https://www.newberry.org/long-term-fellowships)<br><sub>美国 ｜ 人文/语言·社会科学/心理</sub> | 博后 | 仅生活费<br><sub>$5,000/月（4–9 个月；2027–28 轮以官网当期为准）</sub> | **2026-11-20**<br><sub>🟢 开放申请</sub><br><sub>2027–28 轮截止 2026 年 11 月 20 日（官网显示申请已开放）；短期研究员截止 12 月 4 日</sub> | ❔ | **要求：** 需已获博士学位（或截止前取得同等终端学位）；多数项目不限国籍<br>纽伯里图书馆长期研究员：面向已获博士学位的人文社科学者，多数项目不限国籍；NEH 资助项目要求外籍申请者在美居留满三年。2027–28 轮截止 2026 年 11 月 20 日；月津贴约 5000 美元，执行 4–9 个月，当期以官网为准。 |
+| [美国癌症学会（ACS）博士后奖学金（Cancer Research）](https://amp.cancer.org/research/we-fund-cancer-research/apply-research-grant/grant-types/postdoctoral-fellowships.html)<br><sub>美国 ｜ 生物/生命科学·医学/公卫·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>每年 6 月 1 日和 12 月 1 日截止；下一轮为 2026-12-01</sub> | 🟡 | **要求：** 需在美国学术机构或合格非营利机构任博后职位；美国公民，或申请时持有适当签证/合法身份的非美国公民；博士学位获得不超过 3 年和/或博后训练不超过 3 年<br>页面称奖励最长 3 年，年度津贴 66,000/68,000/70,000 美元，另有每年 4,000 美元补助；截止日期为 6 月 1 日和 12 月 1 日。 |
 | [美联储理事会博士论文研究员（Dissertation Fellows）](https://www.federalreserve.gov/careers-dissertation-fellows.htm)<br><sub>美国 ｜ 经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 各项目不同<br><sub>🔜 即将开放</sub><br><sub>页面称申请 12 月 1 日开放，夏季项目需在 2 月 1 日前提交；页面最后更新于 2024-01-19，当期以官网为准</sub> | ❔ | **要求：** 在读经济或金融博士生；需 CV、研究描述、成绩单与两封推荐信<br>美联储理事会博士论文研究员：面向经济学与金融学在读博士生的有薪驻场研究项目，约 12 周，主要在夏季。页面称无需美国公民身份，但须获得在美国合法工作的资格。 |
 | [迈阿密大学 UM Fellowship（研究生院）](https://grad.miami.edu/about/costs-fellowships-and-other-funding/fellowships,-financial-aid,-and-other-funding-opportunities/graduate-school-fellowships-and-scholarships/um-fellowship/index.html)<br><sub>美国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$39,000/学年（2024-25 年）</sub> | —<br><sub>页面写明提名截止为 2 月 14 日（未注明年份）；由院系提名。</sub> | ✅ | 迈阿密大学研究生院校级 Fellowship，面向秋季入学的首年博士新生，官网称国际申请人有资格。页面列出提名截止 2 月 14 日；2024-25 学年津贴 $39,000/学年，另含学费减免（可续 5 年）和 100% 医保补贴。 |
 

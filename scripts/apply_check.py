@@ -279,6 +279,7 @@ def cmd_papers(args) -> int:
 
 # ───────────────────────── 事实校验 ─────────────────────────
 
+META_KEYS = {"source", "extracted", "updated", "version", "schema"}  # cv-facts 的元数据，不是事实
 IDENTITY_KEYS = {"name", "name_en", "name_zh", "email", "phone", "homepage", "github", "linkedin", "orcid", "address"}
 ALWAYS_OK = {  # 不需要出处的常用词（小写）
     "i", "dear", "prof", "professor", "dr", "phd", "ph.d", "msc", "bsc", "ba", "ma", "mphil", "meng", "beng", "cv", "pdf",
@@ -300,15 +301,26 @@ CONNECT = {"of", "and", "for", "&", "de", "von", "van", "der", "la", "du"}
 ABBR = re.compile(r"\b(Prof|Dr|Mr|Ms|Mrs|e\.g|i\.e|et al|vs|No|Fig|Dept|Univ|approx|cf|St)\.", re.I)
 CITE = re.compile(r"\[(cv|lab):\s*([^\]]+)\]|\[post\]")
 URL_RE = re.compile(r"https?://[^\s)\]>，。]+")
-EXP_EN = re.compile(r"\b(I|I've|I'd|I'm)\b[^.]{0,80}?\b(developed|built|designed|implemented|published|authored|co-authored|led|managed|won|received|was awarded|awarded|earned|completed|graduated|studied|worked|interned|conducted|investigated|achieved|ranked|presented|trained|collaborated|contributed|proposed|created|analy[sz]ed|supervised|taught|obtained|hold|am (currently )?(a|an|pursuing|completing|studying)|have (been|experience|worked|used|developed|published))\b"
-                    r"|\bmy (thesis|dissertation|papers?|publications?|projects?|internships?|research|experience|degree|master'?s|bachelor'?s|msc|bsc|gpa|grades?|ranking|supervisor|advisor|award|skills?|first-author)\b", re.I)
-EXP_ZH = re.compile(r"(我|本人)(曾|在|参与|负责|主导|发表|获得|获|完成|开发|设计|实现|带领|担任|本科|硕士|毕业|就读|研究了|做过|有.{0,6}经验)")
+# 经历句：第一人称 + 非“意向 / 礼貌”类动词，或“my … experience / thesis …”，或“我…过 / 我的硕士…”
+NOT_CLAIM = (r"(am|'m) (writing|interested|applying|excited|keen|glad|happy|grateful|eager|available|willing|able|confident|aware|"
+             r"looking|hoping|curious|attaching|enclosing|reaching|contacting|sure|not sure|passionate|fascinated|motivated|drawn|delighted|"
+             r"honou?red|pleased|particularly|very|really|truly|deeply|most)|would|will|'d|'ll|hope|look|believe|think|wish|want|"
+             r"plan|intend|can|could|should|may|might|read|noticed|came across|saw|learned of|understand|see|note|wonder|appreciate|"
+             r"apply|am also|also (hope|would|wish)|welcome|thank|attach|enclose|apologi[sz]e|feel|find|found your|was (glad|excited|pleased) to")
+EXP_EN = re.compile(r"\b(I|I've|I'd|I'm)\s+(?:(?:also|recently|previously|then|further|additionally|currently|have|had|already|personally)\s+)*(?!(?:also|recently|previously|then|further|additionally|currently|have|had|already|personally|" + NOT_CLAIM + r")\b)[a-z0-9]"
+                    r"|\bmy (own |main |recent |previous |current |master'?s |bachelor'?s |undergraduate |graduate |research |imaging |lab |laboratory |practical |technical |hands-on |programming )?"
+                    r"(thesis|dissertation|papers?|publications?|projects?|internships?|research|experience|degree|master'?s|bachelor'?s|msc|bsc|gpa|grades?|ranking|supervisor|advisor|award|skills?|first-author|training|expertise)\b", re.I)
+EXP_ZH = re.compile(r"(我|本人)(曾|在|参与|负责|主导|发表|获得|获|完成|开发|设计|实现|带领|担任|本科|硕士|毕业|就读|研究了|做过|有.{0,6}(经验|基础|积累))"
+                    r"|(我|本人)[^，。,；;！？\s]{0,6}过|我的(硕士|本科|博士|毕业|课题|论文|项目|研究|经历|经验|成绩|排名|技能|背景)"
+                    r"|^(已有|我已有|现有)?(方法)?积累[：:]|^已有(方法|技术|经验)")
 HYPE = re.compile(r"\b(passionate|world[- ]class|cutting[- ]edge|groundbreaking|ground-breaking|outstanding|exceptional|excellent|perfect (fit|match)|dream|"
                   r"unique opportunity|extremely|highly motivated|hard[- ]?working|truly|deeply|incredibly|amazing|revolutionary|state-of-the-art|"
                   r"always been fascinated|ever since i was)\b|顶尖|极其|非常|卓越|杰出|完美|梦想|热爱|深深|无比|最优秀", re.I)
 PLACEHOLDER = re.compile(r"\b(TODO|TBD|XXX|FIXME)\b|\{\{|<[^<>\n]{1,30}>|\[(\?|待补|填写)[^\]]*\]|【[^】]*】")
 NAME_ZH = re.compile(r"[一-鿿]{2,15}(大学|学院|研究所|研究院|实验室|公司|医院|中心|奖学金|奖|竞赛|大赛|基金)")
 QUOTED = re.compile(r"“([^”]{3,})”|\"([^\"]{3,})\"|《([^》]{2,})》|‘([^’]{3,})’")
+YEAR_RANGE = re.compile(r"(?<!\d)((?:19|20)\d\d)\s*(?:[–—-]|to|至|到)\s*((?:19|20)\d\d)(?!\d)")
+DURATION_RE = re.compile(r"(?<![\w.])\d+(?:\s*[–—~-]\s*\d+)?\s*(?:个月|月|周|天|年|months?|weeks?|days?|years?)(?![\w])|第\s*\d+\s*(?:年|学期|个月|阶段)|\b(?:year|month|phase|stage)\s+\d+\b", re.I)
 RATIO_RE = re.compile(r"(?<![\w.])\d+(?:\.\d+)?\s*[/:]\s*\d+(?:\.\d+)?(?![\w])")
 NUM_RE = re.compile(r"(?<![\w.])\d[\d,]*(?:\.\d+)?")
 ZH_NUM = {"两": "2", "二": "2", "三": "3", "四": "4", "五": "5", "六": "6", "七": "7", "八": "8", "九": "9", "十": "10"}
@@ -325,9 +337,24 @@ CLAIMS = [
     ("最佳论文", r"\bbest (paper|poster|student paper)\b|最佳论文", r"best (paper|poster|student paper)|最佳论文"),
     ("专利", r"\bpatents?\b|专利", r"patent|专利"),
     ("主导 / 带领", r"\bI (led|headed|directed|supervised|managed)\b|\bas (the )?(team |project )?lead(er)?\b|主导|主持|带领|领导了", r"\blead\b|\bled\b|leader|\bheaded\b|\bsupervised\b|\bmanaged\b|主导|主持|带领|负责人|组长"),
-    ("独立完成", r"\bindependently\b|\bsingle-handedly\b|\bon my own\b|独立完成|独自", r"independent|独立"),
+    ("独立完成", r"\bindependently\b|\bsingle-handedly\b|\bon my own\b|\bby myself\b|\b(built|designed|wrote|developed|did|ran|implemented|made|created)\b[^.]{0,60}\bmyself\b|\bfrom scratch\b|\b(mostly|largely|entirely) my own\b|\bmy own work\b|\bmain contribution\b|\bsole\b|独立完成|独自|一人完成|主要贡献",
+     r"independent|sole|from scratch|main contribution|独立|独自|主要贡献"),
     ("排名", r"\b(top|ranked|ranking)\b|排名|前\s*\d+\s*%", r"top|rank|排名|前\s*\d"),
     ("奖项 / 奖学金", r"\b(award(ed)?|prize|scholarship|fellowship|medal|honou?r)s?\b|奖学金|获奖|奖项|荣誉", r"award|prize|scholarship|fellowship|medal|honou?r|奖"),
+    ("设计 / 开发 / 搭建", r"\b(designed|developed|built|invented|created|devised|founded|constructed|engineered)\b|设计了|开发了|搭建|研制|发明",
+     r"design|develop|built|build|implement|creat|propos|construct|wrote|invent|设计|开发|搭建|实现|编写|构建|研制"),
+    ("影响 / 被采用", r"\b(widely |highly |well )?cited\b|\bcitations?\b|\b(adopted|deployed|used) by\b|\bnow (used|in use)\b|\bfeatured\b|\bcover\b|\bmedia\b|被引|被采用|封面|报道",
+     r"cit(ed|ation)|adopted|deployed|used by|featured|cover|media|被引|采用|封面|报道"),
+    ("首次 / 新颖", r"\bnovel\b|\bnever (been )?(reported|done|seen)\b|\bfor the first time\b|\bfirst to\b|\bpioneer|首次|首创|开创|填补.{0,4}空白",
+     r"novel|first time|never|首次|首创"),
+    ("结论强度", r"\b(completely|entirely|fully) (eliminat|solv|prevent|remov|suppress)|\bproved?\b|\bguarantee|\boutperform|\bstate-of-the-art\b|\bsignificantly\b|\bsuperior\b|彻底|完全(消除|解决)|证明了|显著(提升|提高)|优于",
+     r"complete|entire|eliminat|prov(ed|e)|guarantee|outperform|state-of-the-art|significant|superior|彻底|完全|证明|显著|优于"),
+    ("责任范围", r"\b(responsible for|in charge of|oversaw|oversee)\b|全权|负责全部|负责整个", r"responsib|in charge|oversaw|lead|led|manag|负责"),
+    ("全称量词", r"\b(all of (them|which|these|the)|every one|each of (them|the)|without exception|in every case|consistently)\b|全部|所有|均达到|无一例外",
+     r"\ball\b|every|each|consistent|全部|所有|均"),
+    ("频率", r"\b(every (day|week|month)|daily|weekly|monthly|twice a (day|week|month)|once a (day|week|month)|three times a (day|week))\b|每天|每周|每月|每日",
+     None),  # 频率说法原样出现在出处里才行
+    ("研究结论", r"\b(showed|shows|demonstrated|revealed|found) that\b|结果表明|发现了?", r"show|demonstrat|reveal|found|result|kept|reduced|improv|表明|发现|结果"),
 ]
 
 
@@ -349,7 +376,7 @@ def numbers_in(text: str) -> set[str]:
     out = {num_norm(n) for n in NUM_RE.findall(text)}
     for m in re.finditer(r"\b(" + "|".join(list(NUM_WORDS)[2:]) + r")\b", text, re.I):
         out.add(NUM_WORDS[m.group(1).lower()])
-    for m in re.finditer(r"([两二三四五六七八九十])(篇|项|个|次|年|门|份|位|届|名)", text):
+    for m in re.finditer(r"(?<!第)([两二三四五六七八九十])(篇|项|个|次|年|门|份|位|届|名)", text):
         out.add(ZH_NUM[m.group(1)])
     return out
 
@@ -368,7 +395,7 @@ def fact_index(data, prefix: str = "") -> dict[str, str]:
     if not isinstance(data, dict):
         return out
     for key, val in data.items():
-        if key in IDENTITY_KEYS:
+        if key in IDENTITY_KEYS or key in META_KEYS:
             continue
         if isinstance(val, list) and any(isinstance(x, dict) for x in val):
             for i, it in enumerate(val, 1):
@@ -445,8 +472,19 @@ def proper_names(s: str) -> list[str]:
     return out
 
 
+def is_initialism(acr: str, allowed_n: str) -> bool:
+    """OCT ← optical coherence tomography、MALA ← Metropolis-adjusted Langevin algorithm：缩写由出处里连续几个词的首字母组成。"""
+    acr = acr.lower()
+    if not 2 <= len(acr) <= 6 or not acr.isalpha():
+        return False
+    ws = [w for w in re.split(r"[\s\-/]+", allowed_n) if w]
+    return any("".join(w[0] for w in ws[i:i + len(acr)]) == acr for i in range(len(ws) - len(acr) + 1))
+
+
 def covered(name: str, allowed_n: str, words: set[str]) -> bool:
     """名称能否被出处原文拼出来：从左到右取出处里出现过的最长连续片段；单个词必须在出处里单独出现过（或是常用词）。"""
+    if " " not in name.strip() and is_initialism(name.strip(), allowed_n):
+        return True
     toks = norm(name).split()
     i = 0
     while i < len(toks):
@@ -458,6 +496,34 @@ def covered(name: str, allowed_n: str, words: set[str]) -> bool:
         else:
             return False
     return True
+
+
+STOP = set("""about above after again also among because been before being below between both could does doing during each
+from further have having here into just more most other over same should some such than that their them then there these they
+this those through under until very were what when where which while will with would your yours ours mine, the and for are was
+using used based work worked project projects research thesis paper papers experience including include within""".split())
+
+
+def content(text: str) -> set[str]:
+    """内容词：英文 ≥4 个字母的非停用词（去掉复数 s），中文按两字一组。"""
+    words = {w.rstrip("s") for w in re.findall(r"[a-z][a-z\-]{3,}", text.lower()) if w not in STOP}
+    zh = "".join(re.findall(r"[一-鿿]+", text))
+    return words | {zh[i:i + 2] for i in range(len(zh) - 1)}
+
+
+def misattributed(body: str, cited: list[str], facts: dict[str, str]) -> str | None:
+    """句子内容和所引出处几乎不重合、却和另一条事实高度重合 → 出处可能张冠李戴。"""
+    S = content(body)
+    if len(S) < 3 or not cited:
+        return None
+    own = len(S & content(" ".join(facts.get(i, "") for i in cited))) / len(S)
+    best, bid = max(((len(S & content(t)) / len(S), i) for i, t in facts.items() if i not in cited), default=(0, None))
+    if own < 0.2 and best >= own + 0.25:
+        return f"句子内容与 [cv:{','.join(cited)}] 对不上，更像 [cv:{bid}]"
+    english = len(re.findall(r"[一-鿿]", body)) < 4
+    if english and len(S) >= 4 and own < 0.15:
+        return f"句子内容在 [cv:{','.join(cited)}] 里几乎找不到依据"
+    return None
 
 
 def check_sentence(s: str, facts: dict[str, str], lab: dict[str, str], post: str | None, base: str) -> tuple[list[str], list[str]]:
@@ -491,7 +557,14 @@ def check_sentence(s: str, facts: dict[str, str], lab: dict[str, str], post: str
     for r in RATIO_RE.findall(text):  # 3.82/4.0、3/62、8:1 这类比值整体核对
         if re.sub(r"\s+", "", r) not in compact:
             errs.append(f"比值 {r} 不在所引出处里")
-    for n in sorted(numbers_in(text) - nums):
+    for a, b in YEAR_RANGE.findall(text):  # 2023–2024：两个年份要在出处里按顺序挨着出现
+        if not re.search(a + r"\D{1,12}" + b, allowed) and a != b or a == b and not re.search(a + r"\D{1,12}" + a, allowed):
+            errs.append(f"年份区间 {a}–{b} 与所引出处不符")
+    plan_nums: set[str] = set()
+    if not (cited_cv or EXP_EN.search(text) or EXP_ZH.search(text)):  # 不讲经历的句子里，计划用的时长（前 6 个月、Year 1）不算事实
+        for m in DURATION_RE.finditer(text):
+            plan_nums |= numbers_in(m.group(0))
+    for n in sorted(numbers_in(text) - nums - plan_nums):
         errs.append(f"数字 {n} 不在所引出处里")
     for groups in QUOTED.findall(text):
         t = next(g for g in groups if g)
@@ -507,8 +580,17 @@ def check_sentence(s: str, facts: dict[str, str], lab: dict[str, str], post: str
     if cited_cv:  # 只查申请者自己的经历句；讲导师论文或岗位的句子不受此限
         own = " ".join(facts.get(i, "") for i in cited_cv)
         for label, said, need in CLAIMS:
-            if re.search(said, text, re.I) and not re.search(need, own, re.I):
-                errs.append(f"“{label}”的说法在所引出处里找不到")
+            m = re.search(said, text, re.I)
+            if m and not re.search(need or re.escape(m.group(0)), own, re.I):
+                errs.append(f"“{label}”的说法在所引出处里找不到" + (f"：{m.group(0)}" if need is None else ""))
+    if cited_cv and all(i in facts for i in cited_cv):
+        why = misattributed(re.sub(r"\[(lab|post)[^\]]*\]", "", body), cited_cv, facts) if not (cited_lab or cited_post) else None
+        if why:
+            errs.append(why)
+    if not cited_cv and not cited_lab and not cited_post:
+        for label, said, _ in CLAIMS[:9]:  # 一作、已接收、最佳论文、主导等强说法，没有出处不许写
+            if re.search(said, text, re.I):
+                errs.append(f"“{label}”的说法没有标注出处")
     if not cited_cv and (EXP_EN.search(text) or EXP_ZH.search(text)):
         errs.append("经历句没有标注 [cv:…] 出处")
     if PLACEHOLDER.search(text):

@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 欧盟/欧洲（EU） 信源（57）
+# 欧盟/欧洲（EU） 信源（58）
 
-所有标注了地区 EU 的信源，共 57 条。
+所有标注了地区 EU 的信源，共 58 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 10](eu.md#aggregators) · [各国学术招聘门户与机构职位页 1](eu.md#national-portals) · [高校旗舰奖学金与资助检索 3](eu.md#university-schemes) · [结构化博士项目与研究机构 12](eu.md#doctoral-programs) · [博士后奖学金与项目 11](eu.md#postdoc-fellowships) · [企业与基金会 Fellowship 7](eu.md#fellowships) · [学科专属信源 8](eu.md#discipline) · [个人信源与社交渠道 3](eu.md#people-channels) · [导师招生帖（社交平台个人发布） 1](eu.md#recruiting-posts) · [中文社区与官方服务 1](eu.md#chinese-community)
+**按分类跳转：** [综合聚合平台 10](eu.md#aggregators) · [各国学术招聘门户与机构职位页 1](eu.md#national-portals) · [高校旗舰奖学金与资助检索 4](eu.md#university-schemes) · [结构化博士项目与研究机构 12](eu.md#doctoral-programs) · [博士后奖学金与项目 11](eu.md#postdoc-fellowships) · [企业与基金会 Fellowship 7](eu.md#fellowships) · [学科专属信源 8](eu.md#discipline) · [个人信源与社交渠道 3](eu.md#people-channels) · [导师招生帖（社交平台个人发布） 1](eu.md#recruiting-posts) · [中文社区与官方服务 1](eu.md#chinese-community)
 
 <a id="aggregators"></a>
 
@@ -37,10 +37,11 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（3）
+## 高校旗舰奖学金与资助检索（4）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [4EU+ 联合培养博士合同 · 索邦大学（2026 轮）](https://www.sorbonne-universite.fr/en/news/4eu-cotutelle-doctoral-contracts-2026)<br><sub>法国·欧盟/欧洲 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-04-24**<br><sub>⏸ 本轮已截止</sub><br><sub>官网记载 2026 轮截止 4 月 24 日；2026 轮已结束，2027 轮待公告</sub> | ❔ | **要求：** 由索邦导师与伙伴校合作导师共同申请；所在实验室需隶属索邦共同认证的博士学院；含一年海外流动<br>索邦大学每年为 4EU+ 联合培养项目提供全额博士合同（36 个月，2026 年为 4 个），由索邦与伙伴校导师共同指导并含一年海外流动。2026 轮已结束，截止日各来源记载不一，以官网为准；明年可能重开，请关注公告。 |
 | [CHARM-EU 联盟 · Opportunities and calls 机会与征集页](https://charm-eu.eu/news-events/opportunities-and-calls/)<br><sub>欧盟/欧洲·挪威·芬兰·匈牙利·德国·法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>2026 年夏校（6 月 8–12 日，芬兰 Turku）及多数博士征集已截止；2027 周期待联盟发布</sub> | ❔ | CHARM-EU 联盟统一发布博士夏/冬校、博士流动与 MSCA 征集等信息。2026 年多数博士类征集已截止，适合订阅联盟通讯以跟进 2027 年周期；博士岗位需回到各成员校招聘页核实。 |
 | [EUTOPIA 联合培养（co-tutelle）博士项目总页](https://eutopia-university.eu/opportunities/eutopia-phd-co-tutelle-programme/)<br><sub>欧盟/欧洲 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮各高校截止为 5 月 10–20 日（已结束）；各校名额与截止日不同；2027 轮时间未公布（推断为 2027 年初）</sub> | ❔ | **要求：** 需由两所伙伴高校的常任教授共同指导；具体资格以当年征集指南为准<br>EUTOPIA 博士 co-tutelle 项目：2026 轮截止 5 月 20 日已结束，未找到 2027 轮公告。 |
 | [Warwick 联合博士办公室 · EUTOPIA 奖学金](https://warwick.ac.uk/services/dc/jointphd/eutopia_scholarship/)<br><sub>英国·欧盟/欧洲 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>Home 学生：4 年学费全额，外加按 UKRI 标准的生活津贴及 RTSG £9,900</sub> | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026–27 年度 Warwick 截止 2026-05-20（已过）；下一轮以官网为准</sub> | ❔ | **要求：** 申请由华威合作导师提交，学生不可直接申请；资助 3–4 年，视合作院校读博时长而定<br>华威大学作为主校（Home）的 EUTOPIA 联合博士奖学金，2026–27 年度最多 5 个名额，截止 2026-05-20 已过。页面写明 Home 奖学金含 4 年学费和按 UKRI 标准的生活津贴，另有 RTSG £9,900；华威作为合作校（Host）时资助细则由主校另行规定。 |

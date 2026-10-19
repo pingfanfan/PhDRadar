@@ -20,9 +20,9 @@
 - **简洁好用。** 网页版像招聘网站一样：搜索、按地区 / 层次 / 学科筛选、看详情、收藏想投的机会，手机上也能用。
 
 <!-- STATS:START -->
-**热门地区：** [美国](sources/region/us.md) 397 · [德国](sources/region/de.md) 296 · [英国](sources/region/uk.md) 292 · [中国香港](sources/region/hk.md) 134 · [加拿大](sources/region/ca.md) 127 · [法国](sources/region/fr.md) 117 · [全球](sources/region/global.md) 104 · [瑞士](sources/region/ch.md) 89 · [日本](sources/region/jp.md) 80 · [澳大利亚](sources/region/au.md) 70 · [荷兰](sources/region/nl.md) 66 · [欧盟/欧洲](sources/region/eu.md) 57 · [全部 →](SOURCES.md#按国家--地区)
+**热门地区：** [美国](sources/region/us.md) 407 · [英国](sources/region/uk.md) 310 · [德国](sources/region/de.md) 298 · [中国香港](sources/region/hk.md) 134 · [加拿大](sources/region/ca.md) 133 · [法国](sources/region/fr.md) 121 · [全球](sources/region/global.md) 107 · [瑞士](sources/region/ch.md) 89 · [日本](sources/region/jp.md) 80 · [澳大利亚](sources/region/au.md) 77 · [荷兰](sources/region/nl.md) 66 · [欧盟/欧洲](sources/region/eu.md) 58 · [全部 →](SOURCES.md#按国家--地区)
 
-**学科：** [全学科](sources/discipline/all.md) 669 · [生物/生命科学](sources/discipline/bio.md) 399 · [工程](sources/discipline/engineering.md) 343 · [计算机](sources/discipline/cs.md) 326 · [物理/天文](sources/discipline/physics.md) 282 · [社会科学/心理](sources/discipline/social.md) 254 · [医学/公卫](sources/discipline/med.md) 249 · [化学/材料](sources/discipline/chem.md) 214 · [人文/语言](sources/discipline/humanities.md) 189 · [人工智能](sources/discipline/ai.md) 187 · [数学/统计](sources/discipline/math.md) 161 · [经济/金融](sources/discipline/econ.md) 117 · [神经/认知](sources/discipline/neuro.md) 108 · [地球/环境/海洋](sources/discipline/geo.md) 99 · [商科/管理](sources/discipline/business.md) 82 · [生态/进化](sources/discipline/eco.md) 75
+**学科：** [全学科](sources/discipline/all.md) 684 · [生物/生命科学](sources/discipline/bio.md) 411 · [工程](sources/discipline/engineering.md) 358 · [计算机](sources/discipline/cs.md) 340 · [物理/天文](sources/discipline/physics.md) 289 · [社会科学/心理](sources/discipline/social.md) 262 · [医学/公卫](sources/discipline/med.md) 253 · [化学/材料](sources/discipline/chem.md) 221 · [人文/语言](sources/discipline/humanities.md) 201 · [人工智能](sources/discipline/ai.md) 192 · [数学/统计](sources/discipline/math.md) 166 · [经济/金融](sources/discipline/econ.md) 120 · [神经/认知](sources/discipline/neuro.md) 109 · [地球/环境/海洋](sources/discipline/geo.md) 103 · [商科/管理](sources/discipline/business.md) 83 · [生态/进化](sources/discipline/eco.md) 78
 <!-- STATS:END -->
 
 ## 怎么核实的

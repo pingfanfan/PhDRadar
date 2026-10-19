@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 物理/天文 信源（282）
+# 物理/天文 信源（289）
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 12](physics.md#aggregators) · [各国学术招聘门户与机构职位页 3](physics.md#national-portals) · [政府与国家级奖学金 2](physics.md#gov-scholarships) · [高校旗舰奖学金与资助检索 45](physics.md#university-schemes) · [结构化博士项目与研究机构 113](physics.md#doctoral-programs) · [博士后奖学金与项目 46](physics.md#postdoc-fellowships) · [企业与基金会 Fellowship 15](physics.md#fellowships) · [学科专属信源 20](physics.md#discipline) · [科研实习与“曲线入口” 2](physics.md#pathways) · [个人信源与社交渠道 14](physics.md#people-channels) · [导师招生帖（社交平台个人发布） 9](physics.md#recruiting-posts) · [选校与申请辅助工具 1](physics.md#tools)
+**按分类跳转：** [综合聚合平台 12](physics.md#aggregators) · [各国学术招聘门户与机构职位页 3](physics.md#national-portals) · [政府与国家级奖学金 3](physics.md#gov-scholarships) · [高校旗舰奖学金与资助检索 47](physics.md#university-schemes) · [结构化博士项目与研究机构 113](physics.md#doctoral-programs) · [博士后奖学金与项目 46](physics.md#postdoc-fellowships) · [企业与基金会 Fellowship 17](physics.md#fellowships) · [学科专属信源 21](physics.md#discipline) · [科研实习与“曲线入口” 2](physics.md#pathways) · [个人信源与社交渠道 15](physics.md#people-channels) · [导师招生帖（社交平台个人发布） 9](physics.md#recruiting-posts) · [选校与申请辅助工具 1](physics.md#tools)
 
 <a id="aggregators"></a>
 
@@ -41,20 +41,22 @@
 
 <a id="gov-scholarships"></a>
 
-## 政府与国家级奖学金（2）
+## 政府与国家级奖学金（3）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [ARC 量子计算未来领袖培训中心（FLiQC）博士奖学金](https://sydneyquantum.org/program/future-leaders-in-quantum-computing-scholarship/)<br><sub>澳大利亚 ｜ 物理/天文·计算机·工程·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>A$42,754/年（2026 年标准）</sub> | **2026-10-08**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 10 月 8 日截止，现已关闭；开放日为 2026 年 8 月 26 日</sub> | ✅ | **要求：** 页面列出的合作大学为 UNSW Sydney 与 University of Technology Sydney；需取得博士录取并获项目导师支持；研究须属量子技术领域；需可取得签证；不得同时持有主要博士津贴（如 RTP）。<br>ARC 资助、面向国内外学生的量子科技工业博士奖学金，2026 年标准津贴 A$42,754/年，最长 4 年；需先获合作大学博士录取并取得项目导师支持。2026 轮已于 2026 年 10 月 8 日关闭。 |
 | [京都大学理学研究科 MEXT 奖学金申请说明](https://www.sci.kyoto-u.ac.jp/en/admissions/mext)<br><sub>日本 ｜ 物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>以当年 MEXT 指南为准（学费全免加月额补助）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>使馆推荐需约 1–1.5 年前开始准备；使馆初筛通常夏季，以当年指南为准（2027 批次窗口已过）</sub> | ❔ | **要求：** 需先联系目标导师取得预录取（provisional acceptance）；可经驻外使领馆推荐或大学推荐申请<br>京都大学理学研究科 MEXT 奖学金入学说明，覆盖学费与月生活费。理学研究科多经使馆推荐录取，需先联系导师；2027 批次窗口已过，下一轮以使馆通知与校方页面为准。 |
+| [新加坡 A*STAR 研究生奖学金（AGS）](https://www.a-star.edu.sg/scholarships/home/scholarships/ags--scholarship)<br><sub>新加坡 ｜ 工程·计算机·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>国际生月津贴 $3,600（STEM）/ $5,000（专项方向），币种页面未注明</sub> | —<br><sub>🔜 即将开放</sub><br><sub>页面列两个申请窗口：11 月 1 日至次年 2 月 1 日，以及 6 月 1 日至 8 月 10 日；以官网当年公告为准。</sub> | 🟡 | **要求：** 非新加坡公民/永久居民须已完成或即将完成新加坡自主大学学位，并获该校博士录取；非 SPR 须履行约 3 年在新加坡的服务承诺<br>覆盖 STEM、计算、量子、半导体四条线，资助最长 4 年博士，含学费、月津贴及最长 12 个月海外实习。非新加坡公民须获新加坡自主大学（如 NUS、NTU、SMU 等）博士录取，即只能通过在新加坡就读的路线申请。官方页面列出两个申请窗口：11 月 1 日至次年 2 月 1 日，以及 6 月 1 日至 8 月 1 日；以官网为准。 |
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（45）
+## 高校旗舰奖学金与资助检索（47）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [AMOLF 博士职位（阿姆斯特丹原子与分子物理研究所，NWO 研究所）](https://amolf.nl/jobs-amolf-phd)<br><sub>荷兰 ｜ 物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ✅ | NWO 研究所 AMOLF 的有薪博士岗位（约 4 年）；招聘页列出在招岗位，具体截止与学历要求以各岗位页面为准。 |
+| [Bilkent 大学工程与科学研究生院资助说明（博士）](https://mfbe.bilkent.edu.tr/?page_id=35)<br><sub>土耳其 ｜ 工程·计算机·物理/天文·化学/材料·生物/生命科学·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 未公布<br><sub>📋 持续更新</sub><br><sub>下一轮日期未见，请到官网确认</sub> | ❔ | **要求：** 页面称几乎所有研究生可获学费减免和津贴；国际生材料要求以官网为准<br>官方页称几乎所有研究生有学费减免和津贴。具体金额以官网为准。 |
 | [CY Cergy Paris 大学 EM2PSI 博士合同（2026–2027）](https://collegedoct.cyu.fr/medias/fichier/doctoral-contracts-call-for-applications-2026-em2psi_1779444928598-pdf)<br><sub>法国 ｜ 工程·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>约 €2,300/月（税前）</sub> | **2026-06-19**<br><sub>⏸ 本轮已截止</sub><br><sub>2026–2027 轮截止 2026-06-19，最终结果 2026-07-10 前公布；页面未见 2027 轮公告。</sub> | ❔ | **要求：** 需先确定所属实验室导师；需硕士成绩单、论文计划、推荐信<br>CY Cergy Paris 大学 2026–2027 年三年期博士合同征集（PDF 公告）。截止日期以原文为准。 |
 | [DESY 博士研究主题与岗位（汉堡、采泽）](https://www.desy.de/career/theses/index_eng.html)<br><sub>德国 ｜ 物理/天文·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ✅ | DESY 提供粒子物理、光子科学与加速器方向的博士课题（汉堡与采泽），博士学位由合作大学（如汉堡大学）授予；课题与岗位随时发布，无统一截止日，以职位页为准，也可直接联系课题负责人。通常需物理、光子科学或加速器相关硕士或同等学位。 |
 | [ESO Studentship Programme（欧洲南方天文台博士研究学生计划）](https://eso.org/sci/activities/FeSt-overview/ESOstudentship.html)<br><sub>德国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-10-20**<br><sub>🟢 开放申请</sub><br><sub>每年 4 月 20 日与 10 月 20 日截止；下一轮为 2026 年 10 月 20 日（以官网为准）</sub> | ❔ | **要求：** 须为已注册的大学博士生，本校需确认后续资助；官网称优先但不限于 ESO 成员国国籍<br>页面称 ESO 在德国与智利为博士生提供研究学生岗位，为期一至两年，须有本校博士注册与本校导师；优先但不限于 ESO 成员国国籍。截止为每年 4 月 20 日与 10 月 20 日。 |
@@ -81,6 +83,7 @@
 | [分子科学研究所（IMS）CSC 博士奖学金](https://www.ims.ac.jp/about/csc-ims_scholarship_program.html)<br><sub>日本 ｜ 化学/材料·生物/生命科学·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ✅ | **要求：** 中国籍且符合 CSC 要求；SOKENDAI 博士生需硕士学位或同等学历；须获得 IMS 录取函或注册证明<br>与 SOKENDAI 合作，每年总计约 5 个名额，其中 SOKENDAI 博士生名额每年限 2 个；可联合指导（申请人需已是中国高校博士候选人）。名额与截止以 IMS 公告为准。 |
 | [利物浦大学粒子物理博士岗位](https://www.liverpool.ac.uk/physics/research/particle-physics/postgrad-places/)<br><sub>英国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 国际生可申请；页面称资助名额（STFC 等）主要面向英国居民，仅可向海外学生提供有限名额；也接受自筹经费或外部资金申请；需联系粒子物理招生负责人并在线正式申请。<br>页面列出粒子物理组参与的 8–10 个由 STFC 等合作方支持的项目名额；2026 入学轮的优先申请截止日（2026 年 1 月 30 日）已过，之后的申请在名额满前持续考虑。 |
 | [北海道大学理学研究院 IGC-DHS 数据驱动与假设驱动科学国际研究生课程（MEXT 2027 年 10 月入学）](https://www2.sci.hokudai.ac.jp/gs/en/news/5419)<br><sub>日本 ｜ 数学/统计·物理/天文·地球/环境/海洋·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-11-15**<br><sub>🟢 开放申请</sub><br><sub>第一阶段材料提交期为 2026 年 10 月 1 日至 11 月 15 日（页面所列）；逾期材料不予考虑，最终筛选约 2027 年 1 月。</sub> | ❔ | **要求：** 需通过北海道大学 IGC-DHS 录取，申请材料须以英文提交；中国大陆申请人能否占用 MEXT 名额须以官网与使馆渠道为准。<br>页面称 2027 年 10 月入学的 IGC-DHS 有 5 个全额 MEXT 奖学金（博士 4 个、硕士 1 个）。申请流程为先与拟指导教授联系，再向国际学术支持办公室提交材料；通过终审者约 2027 年 3 月由校长推荐给文部科学省。 |
+| [巴斯大学 EPSRC 博士着陆奖（Doctoral Landscape Award，原 DTP 页面）](https://www.bath.ac.uk/campaigns/epsrc-doctoral-landscape-award/)<br><sub>英国 ｜ 工程·物理/天文·化学/材料·数学/统计·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>每年批次时间不同，2027 年入学截止日期未确认。</sub> | 🟡 | **要求：** 国际生名额按 UKRI 规定不超过 30%；学位津贴不含英国签证及医疗附加费（IHS），需自行承担；项目按批次公布，通常每年 10 月起发布<br>巴斯大学 EPSRC 博士着陆奖（原 DTP 项目更名）：覆盖学费与生活津贴（按 UKRI 标准），国际生名额按 UKRI 规定上限约 30%；不含英国签证与医疗附加费。项目按批次公布，通常每年 10 月起发布，2027 入学截止以官网项目列表为准。 |
 | [希伯来大学 Racah 物理研究所国际学生与博士资助说明](https://phys.huji.ac.il/international-students)<br><sub>以色列 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 滚动<br><sub>📋 持续更新</sub><br><sub>研究所接收国际学生申请，建议直接联系研究生办公室</sub> | ✅ | **要求：** 需满足希伯来大学研究生入学要求<br>页面称国际学生可申请 MSc 与 PhD，并有资助，具体金额与资格看页面财务支持部分。 |
 | [帝国理工材料系 PhD 奖学金入口](https://www.imperial.ac.uk/engineering/departments/materials/study/materialsphd/phd-application-process--scholarship-hub/)<br><sub>英国 ｜ 工程·化学/材料·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>页面列出 President's Scholarship 三轮学生提交截止：2026 年 11 月 2 日、2027 年 1 月 11 日、2027 年 3 月 1 日；系内截止见页面。</sub> | ❔ | **要求：** 需先获系内导师面试并同意；President's Scholarship 要求本科或一体化硕士为一等（first-class）或同等成绩<br>帝国理工材料系奖学金入口页，汇总各类博士奖学金。页面称 President's Scholarship 面向帝国理工学生、英国及全球候选人，无国籍限制，并需由系内导师推荐。 |
 | [弗劳恩霍夫激光技术研究所（ILT）直接入职博士岗位](https://www.ilt.fraunhofer.de/en/jobs-and-career/direct-entry/Doctorate.html)<br><sub>德国 ｜ 工程·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>岗位按项目陆续发布，截止日见具体公告</sub> | ❔ | **要求：** 一般需满足合作大学（常见为亚琛工业大学）的博士入学条件，国际生资格以岗位要求为准<br>ILT 博士页面称多以研究助理身份全职受聘，博士通常与亚琛工业大学合作，学位为 Dr.-Ing. 或 Dr. rer. nat.，博士研究在工作中完成。当前开放岗位见 Fraunhofer 招聘门户；薪资级别与国际生资格以岗位公告为准。 |
@@ -275,11 +278,13 @@
 
 <a id="fellowships"></a>
 
-## 企业与基金会 Fellowship（15）
+## 企业与基金会 Fellowship（17）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [AINSE 研究生研究奖（PGRA，核科学与技术补充资助）](https://www.ainse.edu.au/?p=801)<br><sub>澳大利亚 ｜ 物理/天文·化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>A$9,000/年（补充资助，需已获 RTP 等主奖学金）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮已于 2026-04-15 截止；下一轮 2027 年 2 月开放、4 月截止</sub> | 🟡 | **要求：** 须为 AINSE 成员大学博士生且已获 RTP 或同等博士主奖学金；研究需使用 ANSTO 设施；硕士生不符合。<br>澳洲核科学博士补充资助（A$9,000/年），前提是已获 RTP 或同等主奖学金且项目需使用 ANSTO 设施。2023–2025 官方条款称不限国籍，2026 版摘录未见该表述，国际生资格以当年条款为准。 |
 | [Aspen 物理中心夏季项目（博后及以上参与者）](https://aspenphys.org/summer/admissions-and-eligibility-criteria/)<br><sub>美国 ｜ 物理/天文·数学/统计·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 半奖/部分 | **2026-01-15**<br><sub>⏸ 本轮已截止</sub> | ❔ | **要求：** 一般需博士后及以上身份，特殊情况接受即将毕业的博士生<br>面向博士后及以上的夏季项目（特殊情况下接收即将毕业的博士生）；页面称提供财务援助，可在申请表中提出请求。 |
+| [AUC Al Alfi 博士奖学金（应用科学与工程）](https://www.aucegypt.edu/admissions/fellowships/listing/al-alfi-phd-fellowship-applied-sciences-and-engineering)<br><sub>埃及 ｜ 工程·计算机·化学/材料·物理/天文·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>⏸ 本轮已截止</sub> | ⛔ | **要求：** 仅限埃及国籍；需硕士（论文型）学位，GPA 不低于 3.2/4.0；需符合 AUC 博士录取要求<br>页面标注 No New Intake（暂无新一轮招生）；仅限埃及国籍，中国大陆学生不符合，此条仅作排除参考。 |
 | [Caltech IQIM 量子信息博士后学者](https://iqim.caltech.edu/postdoc-application/)<br><sub>美国 ｜ 物理/天文·计算机</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-11-15**<br><sub>🟢 开放申请</sub><br><sub>2027 年秋入职批次，申请自 2026-09-18 开放；审核自 2026-11-15 开始，页面建议当日前提交全部材料。</sub> | ❔ | **要求：** 需在入职（2027 年秋）前已取得或预计取得博士学位；申请时须指定至少一位 Caltech 教员；需 CV、研究陈述（不超过 5 页）、发表列表及三封推荐信。<br>页面为 2027 年秋季博后批次，通过 Academic Jobs Online 投递；第一年年薪 $85,000，另有年度科研经费。 |
 | [ESA 空间科学研究员奖学金（博后）](https://www.cosmos.esa.int/web/space-science-faculty/opportunities/research-fellowships)<br><sub>欧盟/欧洲 ｜ 物理/天文·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2026-09-21**<br><sub>⏸ 本轮已截止</sub><br><sub>页面所述 2026 轮于 2026-08-24 开放，2026-09-21 截止，现已关闭；页面未说明 2027 轮时间。</sub> | ⛔ | **要求：** 仅接受页面所列国家的国籍申请（欧洲国家及加拿大等，列表不含中国大陆）；需已获或接近获得技术/科学类博士学位。<br>欧洲空间局空间科学研究员奖学金（博后），项目最长三年，初始项目两年。页面所示为 2026 轮（2026-09-21 截止，已关闭）。 |
 | [F.R.S.-FNRS · FRIA 博士奖学金 2026 迷你指南（英文）](https://frs-fnrs.be/docs/Reglement-et-documents/FRS-FNRS_Mini-guide_Bourses_FRIA_2026_EN.pdf)<br><sub>比利时 ｜ 物理/天文·化学/材料·生物/生命科学·工程·数学/统计·计算机·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请人电子提交截止 8 月 25 日，已截止；2027 轮预计 7 月开放</sub> | ❔ | **要求：** 未见国籍限制；外国学位须获入学资格认定；需导师与校长电子确认并通过口试<br>FRIA 严格限于已获学位、拟在工业或农业领域发展研究职业的申请人，并优先考虑具有工业或农业应用前景的项目。2026 轮申请人电子提交截止为 8 月 25 日。 |
@@ -297,10 +302,11 @@
 
 <a id="discipline"></a>
 
-## 学科专属信源（20）
+## 学科专属信源（21）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [AstroBetter 天文职位 Rumor Mill（博后与任期岗位）](https://astrobetter.com/wiki/Rumor+Mill)<br><sub>全球 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | —<br><sub>📋 持续更新</sub><br><sub>页面当前列有 Johns Hopkins Miller Fellowship（申请截止 2026-11-15）、Fermilab、Harvard CfA 等 2026-27 周期岗位；内容为用户自行提交，页面声明并非完全准确。</sub> | ❔ | 天文学界按学年整理的博后岗位维基，可判断各校招聘节奏。内容为用户自行提交、不保证准确，申请以学校官网为准。 |
 | [comp-neuro 邮件列表（OCNS）](https://lists.cnsorg.org/hyperkitty/list/comp-neuro@lists.cnsorg.org/)<br><sub>全球 ｜ 神经/认知·计算机·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | OCNS 计算神经科学邮件列表页面显示，过去 30 天有 57 个讨论帖、52 位参与者；正文未列出岗位帖，需进入归档逐月查看。 |
 | [EPFL Galatea 实验室岗位（超快激光与物质相互作用博士）](https://www.epfl.ch/labs/galatea/jobs)<br><sub>瑞士 ｜ 物理/天文·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>📋 持续更新</sub><br><sub>页面称 2026 年将开放两个博士岗位，截止日以岗位页为准</sub> | ❔ | **要求：** 需被 EPFL 某博士项目（EDPO、EDAM 或 EDPY）录取<br>页面称 2026 年将开放两个博士岗位，须先被 EDPO、EDAM 或 EDPY 之一录取；博后页写明当前无空缺。页面未给出截止日。 |
 | [GSI 亥姆霍兹重离子研究中心博士论文与岗位页](https://www.gsi.de/work/forschung/theses)<br><sub>德国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 各岗位条件不同，国际生资格需看具体招聘与合作大学的要求。<br>列出 GSI 的博士课题与合作大学博士岗位,核物理与 FAIR 相关方向。学位由合作大学授予,确认入学要求与国际生资格。 |
@@ -333,10 +339,11 @@
 
 <a id="people-channels"></a>
 
-## 个人信源与社交渠道（14）
+## 个人信源与社交渠道（15）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [ASA 澳大利亚天文学会邮件列表（Sydney 存档）](https://mailman.sydney.edu.au/pipermail/asa/)<br><sub>澳大利亚 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 澳大利亚天文学会博士与奖学金公告列表，常转发 ICRAR 等国际博士名额。 |
 | [Cambridge · Guimarães 课题组 · 物理博士 2027](https://guimaraes.phy.cam.ac.uk/?p=4783)<br><sub>英国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>🔜 即将开放</sub><br><sub>2027 年 10 月入学；组页未写截止日期与资助方式，请先邮件联系 PI</sub> | ❔ | Guimarães 课题组页面称正在招收 2027 年 10 月入学的博士生，要求直接邮件联系 PI。页面未写明具体截止日期与资助方式，需向 PI 确认。 |
 | [Cambridge · Rao 课题组 · 物理博士 2027](https://rao.oe.phy.cam.ac.uk/join-the-group/)<br><sub>英国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-12-09**<br><sub>🟢 开放申请</sub><br><sub>页面列出 2027 年 10 月入学博士岗位截止 2026-12-09；大学资助截止通常在 12 月初，建议提前联系。</sub> | ❔ | 剑桥 Rao 课题组（物理）正在招收 2027 年 10 月入学的博士，页面称资助竞争激烈，建议提前联系 PI。 |
 | [DLR 德国航空航天中心研究所招聘页（博士与博后）](https://www.dlr.de/en/tp/careers-education/vacancies-at-the-institute)<br><sub>德国 ｜ 工程·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>岗位在 DLR 统一招聘平台发布，各岗位截止不同；部分研究所不接受无岗位自荐。</sub> | ✅ | 博士岗位在 DLR 统一招聘平台发布，设三年期 DLR Graduate Program 培训；部分研究所不接受无岗位的自荐。 |

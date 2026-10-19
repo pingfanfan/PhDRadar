@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 医学/公卫 信源（249）
+# 医学/公卫 信源（253）
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 8](med.md#aggregators) · [各国学术招聘门户与机构职位页 4](med.md#national-portals) · [政府与国家级奖学金 2](med.md#gov-scholarships) · [高校旗舰奖学金与资助检索 53](med.md#university-schemes) · [结构化博士项目与研究机构 123](med.md#doctoral-programs) · [博士后奖学金与项目 36](med.md#postdoc-fellowships) · [企业与基金会 Fellowship 13](med.md#fellowships) · [学科专属信源 1](med.md#discipline) · [科研实习与“曲线入口” 1](med.md#pathways) · [个人信源与社交渠道 2](med.md#people-channels) · [导师招生帖（社交平台个人发布） 5](med.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 1](med.md#faculty-aggregators)
+**按分类跳转：** [综合聚合平台 8](med.md#aggregators) · [各国学术招聘门户与机构职位页 4](med.md#national-portals) · [政府与国家级奖学金 2](med.md#gov-scholarships) · [高校旗舰奖学金与资助检索 53](med.md#university-schemes) · [结构化博士项目与研究机构 124](med.md#doctoral-programs) · [博士后奖学金与项目 37](med.md#postdoc-fellowships) · [企业与基金会 Fellowship 15](med.md#fellowships) · [学科专属信源 1](med.md#discipline) · [科研实习与“曲线入口” 1](med.md#pathways) · [个人信源与社交渠道 2](med.md#people-channels) · [导师招生帖（社交平台个人发布） 5](med.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 1](med.md#faculty-aggregators)
 
 <a id="aggregators"></a>
 
@@ -107,11 +107,12 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（123）
+## 结构化博士项目与研究机构（124）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
-| [Babraham Institute 博士项目（剑桥）](https://babraham.ac.uk/work-and-study/phd-opportunities)<br><sub>英国 ｜ 生物/生命科学·医学/公卫</sub> | 博士 | 半奖/部分 | —<br><sub>🔜 即将开放</sub><br><sub>通常 10 月至 12 月开放申请，经剑桥大学研究生申请系统提交；2027 年入学轮截止以官网为准。</sub> | 🟡 | **要求：** 需 2:1 荣誉学位或同等学历及两封推荐信；IELTS 总分 7.0（各项不低于 6.5–7.0）；非英国、非欧盟申请者须自筹学费与生活费或另获资助。<br>经剑桥申请系统申请，非欧盟生需自筹学费或另有资助。 |
+| [Babraham Institute 博士项目（剑桥）](https://babraham.ac.uk/work-and-study/phd-opportunities)<br><sub>英国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | **2026-12-08**<br><sub>🟢 开放申请</sub><br><sub>页面称 2027 年入学批次所有博士岗位申请截止 2026-12-08，面试在 2027 年 1 月 18 日当周，须通过剑桥大学申请系统提交。</sub> | 🟡 | **要求：** 需 2:1 荣誉学位或同等学历及两封推荐信；IELTS 总分 7.0（各项不低于 6.5–7.0）；非英国、非欧盟申请者须自筹学费与生活费或另获资助。<br>经剑桥申请系统申请，非欧盟生需自筹学费或另有资助。 |
+| [Baylor 医学院 GSBS 资助与费用](https://www.bcm.edu/sites/default/files/2026-09/fees-and-expenses-graduate-school-of-biomedical-sciences-2025-2026.pdf)<br><sub>美国 ｜ 生物/生命科学·医学/公卫·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ❔ | 页面称博士生获得有竞争力的津贴、全额学费减免和免费个人医疗保险；未说明国际生资格，仅提到国际生需缴年度签证费。 |
 | [Charité 英文医学神经科学国际博士项目（Medical Neurosciences）](https://medical-neurosciences.charite.de/en/)<br><sub>德国 ｜ 医学/公卫·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>🔄 随时可申</sub><br><sub>官网列明 PhD 申请截止为每年 1 月 15 日、5 月 15 日、9 月 15 日；每年招收最多约 20 名国际学生</sub> | ❔ | 页面为两年制硕士（MSc）项目，同时接受 PhD 与 MD/PhD 申请（截止 1 月 15 日、5 月 15 日、9 月 15 日）；硕士项目每年最多招收约 20 名来自世界各地的学生。页面称 NeuroCure 为 MSc 与 PhD 学生提供奖学金，柏林 Einstein Center for Neurosciences 提供 PhD fellowship，但未列具体金额与国际生资格。 |
 | [CiM-IMPRS（明斯特）](https://uni-muenster.de/CiM-IMPRS/about/introduction.html)<br><sub>德国 ｜ 生物/生命科学·医学/公卫·化学/材料·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>每年约 3–5 月征集，2026 轮 5 月 1 日已截止；2027 轮待官网公布（参考往年）</sub> | ✅ | **要求：** 面向所有国籍的优秀申请者，英语授课，无学费。<br>每年约 16 个全额岗位，英文授课，约 5 月 1 日截止。 |
 | [CNIC 预博士项目（马德里心血管研究中心）](https://cnic.es/es/node/191)<br><sub>西班牙 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>⏸ 本轮已截止</sub><br><sub>INPhINIT 2026 轮 2026-01-28 截止；CNIC 某预博士岗位 2026-09-17 截止（已过）；2027 轮未公布</sub> | ❔ | 页面写明该项目资助博士培训的相关学费、论文印刷费和意外保险，前提是未被外部奖学金覆盖；页面未给出国籍条件与本轮截止日期。 |
@@ -237,7 +238,7 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（36）
+## 博士后奖学金与项目（37）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -276,11 +277,12 @@
 | [复旦大学神经科学研究中心 · 博后/研究生招聘](https://fsnc.fudan.edu.cn/en/info/1451/3632.htm)<br><sub>中国内地 ｜ 生物/生命科学·神经/认知·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ✅ | 2026 年 4 月发布的长期招聘通知，可随时联系课题组；薪酬需向课题组确认。 |
 | [杰克逊实验室博士后职位](https://www.jax.org/careers-and-training/postdoctoral)<br><sub>美国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 需近期获得博士、医学博士或同等学位（JAX Scholars 项目要求入职前取得）；具体岗位要求以各实验室发布为准。国际申请者签证政策官网未说明，需向 PI 或 HR 确认。<br>杰克逊实验室博士后岗位涵盖衰老、癌症、免疫、计算生物和神经等方向，通过职位门户按实验室发布。搜索结果未见官网“滚动发布”的明确表述，截止日因岗位而异；国际申请者需向 PI 或 HR 确认签证。 |
 | [法国 ARC 癌症研究基金会博士后资助（在法国实验室）](https://www.fondation-arc.org/wp-content/uploads/2025/12/notice-aap-pdf-2026_en.pdf)<br><sub>法国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>最高 4,767 €/月（57,204 €/年，含雇主缴费，实际依雇主而异）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年春季截止为 2 月 3 日，秋季截止为 9 月中旬（页面标注待确认），均已过；页面未公布下一轮时间。</sub> | ❔ | **要求：** 需已获大学博士学位；宿主实验室须在法国且不同于博士所在实验室；国籍条款未核实<br>ARC 基金会资助在法国实验室的博后研究，覆盖薪资，为固定期限合同，24 或 36 个月，不可续期。页面未载明下一轮时间与国籍条款。 |
+| [美国糖尿病协会（ADA）博士后奖学金](https://professional.diabetes.org/content-page/spring-cycle)<br><sub>美国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>春季轮 2026 年 4 月 30 日截止（已过），预计 2027 年 2 月起可开始；2027 轮以 ADA 官网公告为准。</sub> | 🟡 | **要求：** 官方征集文件写明无公民身份要求，但申请人须在美国合法工作（公民、永久居民或持合法工作签证者）；须已获博士学位且在提交前 5 年内；研究须在美国大学附属机构或非营利研究机构进行。<br>2026 轮截止 2026-04-30，最早起始 2027-02-01；页面称无公民身份要求，但须有在美国工作的许可；资助含年度津贴、福利费 7,000 美元及培训补助 8,000 美元。 |
 | [阿尔茨海默病协会研究员奖学金（AARF）](https://www.alz.org/research/for_researchers/grants/types-of-grants/alzheimer_s_association_research_fellowship_-aarf)<br><sub>美国·全球 ｜ 医学/公卫·神经/认知·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>各轮截止日未确认；页面当前标注关闭，下一轮请以 alz.org 当期征集为准。</sub> | ❔ | **要求：** 页面称向美国及国际研究人员开放；须为博士后或同等职位、在学位获得后研究经历少于 10 年，并在非营利学术、医疗或研究机构全职任职；已为助理教授或以上者不符合条件<br>协会为美国慈善机构，须遵守美国法律，个别申请人或国家可能因此不获资助。 |
 
 <a id="fellowships"></a>
 
-## 企业与基金会 Fellowship（13）
+## 企业与基金会 Fellowship（15）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -296,6 +298,8 @@
 | [巴塞尔大学 Biozentrum PhD Fellowship](https://www.biozentrum.unibas.ch/news/detail/ready-for-the-next-step-apply-now-for-a-biozentrum-phd-fellowship)<br><sub>瑞士 ｜ 生物/生命科学·神经/认知·医学/公卫·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-10-18**<br><sub>🟢 开放申请</sub> | ✅ | **要求：** 需硕士学位（极少数情况可为 4 年制本科）；面向全球申请者<br>巴塞尔 Biozentrum 博士：官方 FAQ 称面向全球申请者、无国籍限制；月薪约 CHF 3,500（净额，按 SNSF 标准），学费 CHF 350/学期。2026 冬季轮截止 2026-10-18，入围后有面试周；入学后先轮转再选课题组。 |
 | [康奈尔兽医学院 DVM 攻读 PhD 研究奖学金（Graduate Research Award）](https://www.vet.cornell.edu/education/graduate-studies/phd-program/admissions/dvms-seeking-phd/graduate-research-award)<br><sub>美国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$45,240/年（学院页面所列，需以当期为准）</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>页面称申请截止为每年 12 月 1 日（未注明年份），申请须遵循 Biomedical & Biological Sciences PhD 项目的申请程序。</sub> | ❔ | **要求：** 仅限已持有 DVM 或同等兽医学位、拟在康奈尔兽医学院攻读 PhD 的申请者；中国兽医学位是否视为同等需向招生办确认。<br>康奈尔兽医学院官网称 DVM 申请者可获五年资助，含全额学费奖学金、学生健康保险与生活津贴。页面写明前 9 个月由 BBS 项目资助，之后由导师提供标准 BBS 基础津贴（当前 $45,240）及学费与健康保险。 |
 | [拉瓦尔大学 Goodman 药物研发博士奖学金](https://pha.ulaval.ca/en/research/translate-to-english-bourses-detudes-doctorales-goodman)<br><sub>加拿大 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>CAN$12,500/学期，最多 8 学期，共 CAN$100,000</sub> | 未公布<br><sub>各届截止日以官网 PDF 为准；未能确认最新一届截止日期。</sub> | ❔ | **要求：** 需有确认的指导教授；需完成博士申请；GPA 门槛以官网 PDF 为准。<br>拉瓦尔大学药学院 Goodman 家族基金博士奖学金，面向全球招生，总额 CAN$100,000，需教授同意指导。届次与门槛以官网 PDF 为准。 |
+| [美国癌症学会（ACS）博士后奖学金（Cancer Research）](https://amp.cancer.org/research/we-fund-cancer-research/apply-research-grant/grant-types/postdoctoral-fellowships.html)<br><sub>美国 ｜ 生物/生命科学·医学/公卫·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>每年 6 月 1 日和 12 月 1 日截止；下一轮为 2026-12-01</sub> | 🟡 | **要求：** 需在美国学术机构或合格非营利机构任博后职位；美国公民，或申请时持有适当签证/合法身份的非美国公民；博士学位获得不超过 3 年和/或博后训练不超过 3 年<br>页面称奖励最长 3 年，年度津贴 66,000/68,000/70,000 美元，另有每年 4,000 美元补助；截止日期为 6 月 1 日和 12 月 1 日。 |
+| [英国心脏基金会四年制博士项目](https://www.bhf.org.uk/for-professionals/information-for-researchers/what-we-fund/4-year-phd-programme)<br><sub>英国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>⏸ 本轮已截止</sub> | 🟡 | BHF 四年制博士：国际生政策因校而异，部分项目全额资助国际生，部分项目国际生需自付英国与海外学费差额；需一级或高二荣誉学位。各校截止不同。 |
 | [英国药理学会（BPS）博士资助计划](https://www.bps.ac.uk/news/article/phd-funding-programme/)<br><sub>英国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>£21,805/年（英国校外，2026/27）；伦敦 £23,805/年，另有每年最多 £10,000 研究经费</sub> | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>2027 年奖学金截止日为 2026 年 10 月 31 日（BPS 官网）；单次申请，由学会决定 AJ Clark 或 Sir David Jack 奖学金</sub> | ❔ | **要求：** 需药理学或相关学科学位，并拟在英国或爱尔兰认可机构攻读博士；主导师须为（或将成为）学会会员；页面称国际学生可以申请，但系主任须说明国际学费如何覆盖。<br>英国药理学会博士奖学金（AJ Clark Studentship 或 Sir David Jack Scholarship，共用一次申请）：2027 年奖学金申请截止 2026 年 10 月 31 日。2026/27 生活津贴校外 £21,805、伦敦 £23,805，另有研究经费每年最多 £10,000。 |
 
 <a id="discipline"></a>

@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 澳大利亚（AU） 信源（70）
+# 澳大利亚（AU） 信源（77）
 
-所有标注了地区 AU 的信源，共 70 条。
+所有标注了地区 AU 的信源，共 77 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 1](au.md#aggregators) · [各国学术招聘门户与机构职位页 1](au.md#national-portals) · [政府与国家级奖学金 3](au.md#gov-scholarships) · [高校旗舰奖学金与资助检索 48](au.md#university-schemes) · [结构化博士项目与研究机构 7](au.md#doctoral-programs) · [博士后奖学金与项目 2](au.md#postdoc-fellowships) · [企业与基金会 Fellowship 6](au.md#fellowships) · [学科专属信源 1](au.md#discipline) · [个人信源与社交渠道 1](au.md#people-channels)
+**按分类跳转：** [综合聚合平台 1](au.md#aggregators) · [各国学术招聘门户与机构职位页 1](au.md#national-portals) · [政府与国家级奖学金 5](au.md#gov-scholarships) · [高校旗舰奖学金与资助检索 51](au.md#university-schemes) · [结构化博士项目与研究机构 7](au.md#doctoral-programs) · [博士后奖学金与项目 2](au.md#postdoc-fellowships) · [企业与基金会 Fellowship 7](au.md#fellowships) · [学科专属信源 1](au.md#discipline) · [个人信源与社交渠道 2](au.md#people-channels)
 
 <a id="aggregators"></a>
 
@@ -28,21 +28,26 @@
 
 <a id="gov-scholarships"></a>
 
-## 政府与国家级奖学金（3）
+## 政府与国家级奖学金（5）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [ARC 量子计算未来领袖培训中心（FLiQC）博士奖学金](https://sydneyquantum.org/program/future-leaders-in-quantum-computing-scholarship/)<br><sub>澳大利亚 ｜ 物理/天文·计算机·工程·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>A$42,754/年（2026 年标准）</sub> | **2026-10-08**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 10 月 8 日截止，现已关闭；开放日为 2026 年 8 月 26 日</sub> | ✅ | **要求：** 页面列出的合作大学为 UNSW Sydney 与 University of Technology Sydney；需取得博士录取并获项目导师支持；研究须属量子技术领域；需可取得签证；不得同时持有主要博士津贴（如 RTP）。<br>ARC 资助、面向国内外学生的量子科技工业博士奖学金，2026 年标准津贴 A$42,754/年，最长 4 年；需先获合作大学博士录取并取得项目导师支持。2026 轮已于 2026 年 10 月 8 日关闭。 |
+| [CSIRO Data61 PhD 奖学金（Study Australia 官方检索页）](https://search.studyaustralia.gov.au/scholarship/data61-phd-scholarship/e18d26a8362937016e062999ef29aa34)<br><sub>澳大利亚 ｜ 计算机·人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>各轮公告时间不一，未见当期截止日，以 CSIRO 官网为准</sub> | 🟡 | **要求：** 需已获或即将入读澳洲大学博士，国际生须在澳洲境内或持留学签证；需一等荣誉学位或同等学历，并需大学导师同意指导<br>CSIRO Data61 博士奖学金，国际生须在澳洲境内或持留学签证，且需获澳洲大学博士录取并有导师同意。津贴为 RTP 基准加每年 $10,000 补贴，以当期公告为准。 |
 | [CSIRO iPhD 工业博士项目（研究机会列表）](https://www.csiro.au/en/careers/scholarships-student-opportunities/postgraduate-programs-and-scholarships/industry-phd/iphd-news/iphd-program-research-opportunities)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>A$49,513/年（2027 年开始项目的学生奖学金：政府 A$37,153 加企业补足；另有研究费 A$13,390/年）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面写明本轮 EOI 于 2026 年 5 月 4 日开放、8 月 7 日截止；页面未列其他轮次日期，下一轮以 csiro.au/iphd 为准。</sub> | ❔ | CSIRO 工业博士项目由大学、企业与 CSIRO 三方联合指导，页面称提供全额政府奖学金加企业补足，并有项目运营与培训经费。页面未列具体金额，原条目中的 A$ 数字需以官网核实。 |
 | [悉尼大学 CSC 联合博士奖学金](https://sydney.edu.au/scholarships/e/china-scholarship-council-research-programs-scholarship.html)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-01-25**<br><sub>🔜 即将开放</sub><br><sub>2026-11-18 开放申请，2027-01-25 截止（官网页面）</sub> | ✅ | **要求：** 需为中国公民、年龄在 35 岁以下，获悉尼大学博士无条件录取（或已在该校注册待入学），申请时未在澳大利亚工作或学习<br>中国政府奖学金（CSC）与悉尼大学合作的博士奖学金：学校免学费，CSC 提供生活费、机票、签证及海外医疗保险。需先获录取再申请 CSC；理工科院系另有补充奖学金。 |
+| [澳国立大学 × CSIRO 数字农业博士奖学金](https://agrifood.anu.edu.au/anu-csiro-digital-agriculture-phd-scholarship)<br><sub>澳大利亚 ｜ 计算机·人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>AUD 15,000/年（补充奖学金）+ AUD 5,000 研究津贴</sub> | **2026-08-31**<br><sub>⏸ 本轮已截止</sub><br><sub>页面列出 2026 年 EOI 开放 7 月 8 日至 8 月 11 日，申请截止 2026 年 8 月 31 日，现已关闭；未见下一轮公告。</sub> | ✅ | CSIRO Data61 资助的补充奖学金（top-up），须同时是 ANU 基础博士奖学金的申请人或获得者，并承担已批准的 CSIRO-ANU 课题。通过 CEAT 网站查看课题并表达意向。旧页面称按 AGRTP 全额标准，以现行条款为准。 |
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（48）
+## 高校旗舰奖学金与资助检索（51）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [AIMS@JCU 海洋科学博士与硕士奖学金（澳大利亚海洋研究所 + 詹姆斯库克大学）](https://aims.jcu.edu.au/phd-scholarships/)<br><sub>澳大利亚 ｜ 生物/生命科学·生态/进化·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>A$37,500/年（2027 轮，JCU 国际生页面），另含学费</sub> | **2026-09-01**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 入学轮次申请截止 2026 年 9 月 1 日（已过）；下一轮未公布</sub> | 🟡 | **要求：** 需同时有 AIMS 与 JCU 导师，项目须在两者重叠领域；通过 JCU 研究生院提交；名额每年有限<br>每年最多 4 个名额，需同时有 AIMS 与 JCU 导师，项目须在两者重叠领域。JCU 国际生页面列 2027 年生活津贴 A$37,500/年（另含学费）；不同页面的附加项目费数字有出入，以官网为准。2027 入学轮次截止 2026 年 9 月 1 日（已过），通过 JCU 研究生院提交。 |
 | [ANU JCSMR Doherty 补充奖学金（临床博士）](https://jcsmr.anu.edu.au/study/scholarships/doherty-supplementary-scholarship)<br><sub>澳大利亚 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>A$7,000/年（官网）</sub> | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>官网称每年 10 月 31 日截止（年份需确认）</sub> | ✅ | **要求：** 需具临床学历资质并在 JCSMR 开展临床研究的博士申请人；国际生资格未核实。<br>面向有临床学历资质、在 JCSMR 开展临床研究的博士；补充性质，支付给 AGRTP 或同类奖学金持有者；官网称每年 A$7,000，10 月 31 日截止。 |
+| [ANU JCSMR · Taiyang and Loong PhD 奖学金（计算生物方向）](https://jcsmr.anu.edu.au/study/scholarships/taiyang-and-loong-phd-scholarships)<br><sub>澳大利亚 ｜ 计算机·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>📋 持续更新</sub><br><sub>JCSMR 官网页面所列为 2023 年数据（每年最多 4 个名额，每人每年 44,000 澳元，2023 年截止 4 月 15 日）；当期轮次未确认，需先联系计算生物方向导师并经 JCSMR PhD 申请页提交。</sub> | ❔ | **要求：** 需获得 JCSMR 的 PhD 入学资格，背景为计算机科学、计算生物或工程；国际生资格以官网为准。<br>ANU JCSMR 官方奖学金页，名额少、竞争性强；金额与截止日期以官网当期条款为准（本条未核实）。 |
+| [ANU Taiyang and Loong 计算生物博士奖学金（JCSMR）](https://jcsmr.anu.edu.au/study/talo-program/taiyang-and-loong-phd-scholarships)<br><sub>澳大利亚 ｜ 生物/生命科学·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>搜索仅见 2023 轮（4 月 15 日截止）及更早国际轮次，未找到 2026 轮公告；请查 JCSMR 奖学金页面确认</sub> | 🟡 | ANU JCSMR Taiyang and Loong 博士奖学金：2023 年数值约 44,000/年（币种未标注）；需计算机科学、计算生物或工程背景，须获 JCSMR 博士项目录取；建议先联系潜在导师。 |
 | [ANU University Research Scholarship](https://study.anu.edu.au/scholarships/find-scholarship/anu-university-research-scholarships)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-04-15**<br><sub>🔜 即将开放</sub><br><sub>第一轮（国际生主轮）截止 8 月 31 日，2027 年入学已截止；第二轮截止 2027-04-15（2027 年 8 月前入学），本地与国际生均可申请。下一轮以官网为准</sub> | ✅ | 申请 HDR 时勾选即参评，无需单独表格；国际生主轮约 8 月 31 日截止，第二轮 4 月 15 日截止。获奖者可同时获学费奖学金。 |
 | [ANU 博士奖学金（面向国际生）](https://study.anu.edu.au/scholarships/find-scholarship/anu-phd-scholarship)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明<br><sub>A$39,069/年（官网 2026 基础费率），支付 3.5 年</sub> | 滚动<br><sub>🔄 随时可申</sub><br><sub>页面称申请期全年开放，无需单独申请，符合条件者自动考虑</sub> | ✅ | **要求：** 面向国内及国际申请者；需已申请 PhD 或 Professional Doctorate 项目，并具备一等荣誉学位（部分学院可考虑二等上）或带研究成分的硕士学位；国际生须全日制学习<br>ANU 通用博士奖学金，面向国内外申请者，2027 年基础费率为 A$40,475/年，支付 3.5 年。页面称申请期全年开放，无需单独申请。 |
 | [ANU 生物学院国际博士奖学金](https://study.anu.edu.au/scholarships/find-scholarship/research-school-biology-international-phd-scholarship)<br><sub>澳大利亚 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 滚动<br><sub>🔄 随时可申</sub> | ✅ | **要求：** 需为全日制国际博士生；建议先联系 ANU 导师，选拔依据研究潜力、学术成绩与成果。<br>ANU 生物学院国际博士奖学金对全日制国际博士生开放，无需单独申请，申请入学并满足条件即被考虑；奖金按双周发放 3.5 年，另有旅费、搬迁、论文等补贴。 |
@@ -116,10 +121,11 @@
 
 <a id="fellowships"></a>
 
-## 企业与基金会 Fellowship（6）
+## 企业与基金会 Fellowship（7）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [AINSE 研究生研究奖（PGRA，核科学与技术补充资助）](https://www.ainse.edu.au/?p=801)<br><sub>澳大利亚 ｜ 物理/天文·化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>A$9,000/年（补充资助，需已获 RTP 等主奖学金）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮已于 2026-04-15 截止；下一轮 2027 年 2 月开放、4 月截止</sub> | 🟡 | **要求：** 须为 AINSE 成员大学博士生且已获 RTP 或同等博士主奖学金；研究需使用 ANSTO 设施；硕士生不符合。<br>澳洲核科学博士补充资助（A$9,000/年），前提是已获 RTP 或同等主奖学金且项目需使用 ANSTO 设施。2023–2025 官方条款称不限国籍，2026 版摘录未见该表述，国际生资格以当年条款为准。 |
 | [ANU 中国与世界研究中心（CIW）博士奖学金](https://ciw.anu.edu.au/fellowships-grants)<br><sub>澳大利亚 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明<br><sub>A$30,000/年（3 年，CIW 相关页面，当前轮次未核实）</sub> | 未公布<br><sub>官网当前轮次未核实，请联系 ciw@anu.edu.au 确认</sub> | ✅ | **要求：** 研究主题须以中国为重点的人文社科方向；搜索结果称国内外学生均可申请；学历与语言要求以官网为准<br>CIW 官网列出 Graduate Fellowship，每年最多 5 个，面向在澳大利亚或新西兰大学攻读博士的学生；页面未列出金额、研究主题限制与截止日期，需向 CIW 确认当前轮次。 |
 | [Jane Street Graduate Research Fellowship](https://www.janestreet.com/join-jane-street/programs-and-events/graduate-research-fellowship/)<br><sub>美国·加拿大·英国·欧盟/欧洲·澳大利亚·新西兰 ｜ 计算机·数学/统计·物理/天文·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$50,000（生活费，需纳税）+ 全额学费</sub> | **2026-11-13**<br><sub>🟢 开放申请</sub><br><sub>2027 轮申请截止 2026 年 11 月 13 日（AoE），推荐信截止 2026 年 12 月 1 日</sub> | ✅ | **要求：** 须就读于美国、加拿大、英国、欧洲、澳大利亚、新西兰或新加坡的研究型博士项目（学科：电气工程与计算机、数学、物理、统计）；入学时需至少剩余一年学程，或已确定 2027 年秋入读博士<br>官方称国际生可申请；2027 轮申请截止 2026 年 11 月 13 日（AoE），含全额学费与 50,000 美元生活费，2026 年 10 月仍在招。 |
 | [悉尼大学商学院研究奖学金（国际生）](https://www.sydney.edu.au/scholarships/a/business-school-research-scholarship.html)<br><sub>澳大利亚 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>最低 $42,754/年（RTP 标准，逐年指数化调整）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>每年 2 月 1 日开放申请，9 月 30 日截止；2026 轮已过，关注 2027 轮</sub> | ✅ | 官网面向国际博士生，覆盖国际学费，最长 3.5 年，最低津贴按 RTP 标准。申请窗口每年 2 月 1 日至 9 月 30 日，需先申请博士录取。2026 轮已关闭，关注 2027 轮；第三方网站的截止日期与官网不一致，以官网为准。 |
@@ -137,9 +143,10 @@
 
 <a id="people-channels"></a>
 
-## 个人信源与社交渠道（1）
+## 个人信源与社交渠道（2）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [ASA 澳大利亚天文学会邮件列表（Sydney 存档）](https://mailman.sydney.edu.au/pipermail/asa/)<br><sub>澳大利亚 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 澳大利亚天文学会博士与奖学金公告列表，常转发 ICRAR 等国际博士名额。 |
 | [Monash VL4AI 视觉-语言 AI 研究组博士岗位](https://vl4ai.erc.monash.edu/positions/general-phd/)<br><sub>澳大利亚 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 滚动<br><sub>🔄 随时可申</sub> | ✅ | **要求：** 计算机、工程或相关背景，具备机器学习/计算机视觉实践经验；先按莫纳什研究生申请流程申请，再发邮件至 vl4ai@monash.edu 联系课题组<br>莫纳什视觉-语言与机器人方向的资助博士岗位，国际生可申请。 |
 

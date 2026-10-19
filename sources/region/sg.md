@@ -2,21 +2,22 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 新加坡（SG） 信源（32）
+# 新加坡（SG） 信源（33）
 
-所有标注了地区 SG 的信源，共 32 条。
+所有标注了地区 SG 的信源，共 33 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [政府与国家级奖学金 1](sg.md#gov-scholarships) · [高校旗舰奖学金与资助检索 12](sg.md#university-schemes) · [结构化博士项目与研究机构 11](sg.md#doctoral-programs) · [博士后奖学金与项目 4](sg.md#postdoc-fellowships) · [企业与基金会 Fellowship 2](sg.md#fellowships) · [学科专属信源 1](sg.md#discipline) · [导师招生帖（社交平台个人发布） 1](sg.md#recruiting-posts)
+**按分类跳转：** [政府与国家级奖学金 2](sg.md#gov-scholarships) · [高校旗舰奖学金与资助检索 12](sg.md#university-schemes) · [结构化博士项目与研究机构 11](sg.md#doctoral-programs) · [博士后奖学金与项目 4](sg.md#postdoc-fellowships) · [企业与基金会 Fellowship 2](sg.md#fellowships) · [学科专属信源 1](sg.md#discipline) · [导师招生帖（社交平台个人发布） 1](sg.md#recruiting-posts)
 
 <a id="gov-scholarships"></a>
 
-## 政府与国家级奖学金（1）
+## 政府与国家级奖学金（2）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [A*STAR CFAR 人才与奖学金页面](https://www.a-star.edu.sg/cfar/talent/scholarship)<br><sub>新加坡 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 学位要求以各项目为准；部分项目限新加坡公民/永久居民，国际生资格以当年页面为准<br>页面列出 A*STAR 研究生奖学金（AGS，称提供全额资助，博士期间可含 12 个月海外实习）、ARAP 联合研究项目与 ARIA 研究实习奖。页面未写明国籍与资格条件，需点进各项目页核实。 |
+| [新加坡 A*STAR 研究生奖学金（AGS）](https://www.a-star.edu.sg/scholarships/home/scholarships/ags--scholarship)<br><sub>新加坡 ｜ 工程·计算机·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>国际生月津贴 $3,600（STEM）/ $5,000（专项方向），币种页面未注明</sub> | —<br><sub>🔜 即将开放</sub><br><sub>页面列两个申请窗口：11 月 1 日至次年 2 月 1 日，以及 6 月 1 日至 8 月 10 日；以官网当年公告为准。</sub> | 🟡 | **要求：** 非新加坡公民/永久居民须已完成或即将完成新加坡自主大学学位，并获该校博士录取；非 SPR 须履行约 3 年在新加坡的服务承诺<br>覆盖 STEM、计算、量子、半导体四条线，资助最长 4 年博士，含学费、月津贴及最长 12 个月海外实习。非新加坡公民须获新加坡自主大学（如 NUS、NTU、SMU 等）博士录取，即只能通过在新加坡就读的路线申请。官方页面列出两个申请窗口：11 月 1 日至次年 2 月 1 日，以及 6 月 1 日至 8 月 1 日；以官网为准。 |
 
 <a id="university-schemes"></a>
 

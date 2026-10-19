@@ -102,10 +102,13 @@
 4. 【冲刺·产品 C 进行中】`profile.yml` 结构与 `/setup` 命令；`/rank` 硬性筛选 + 关键词匹配版；网站“为我推荐”。
    - 10-19：画像结构 `docs/profile-schema.md` + `profile.example.yml`（真实画像、简历要点、排序结果写进 .gitignore）；`/setup`、`/rank` 命令；
      `scripts/rank.py`（硬性筛选写明原因 + 0–100 打分 + 三行理由）与浏览器版 `assets/rank.js` 共用 `scripts/rank_rules.py`（中英文同义词表 117 组），
-     `tests/test_rank.py` 用构造画像验证筛选与排序，并在 1500 条真实岗位上核对两边结果一致。
+     `tests/test_rank.py` 用构造画像验证筛选与排序，并在全部现在可申请的岗位上核对两边结果一致。
+   - 10-19：评测 `docs/rank-eval.md`（`scripts/rank_eval.py`，画像与人工标注在 `tests/rank_eval_*.yml`）：20 个调规则画像前 10 准确率 81%，
+     10 个留出画像 74%（第二组写完后不再改规则：79%）。规则改为只推荐命中关键词的机会、同义词与更窄的词分开、学科冲突丢弃、方法类词用在别的学科打折等 11 项。
 5. 【冲刺·工程 D 进行中】根据 GitHub Actions 上的可访问性结果，把只在 Actions 上能访问的信源和平台改在 Actions 上采集；研究德国联邦劳动局开放接口当前的访问方式。
    - 10-19：`collect_postings.py -s actions` 采集 `ACTIONS` 清单（只有 Actions 能访问的平台，目前 FindAPhD），postings 工作流默认用它；`import_postings.py` 默认一次并回清单里全部平台（逐平台比较采集时间）。
    - 10-19：德国联邦劳动局 Jobsuche 接入（`scripts/platforms_de.py`，适配器 `arbeitsagentur`）：bund.dev 文档公开的通用 clientId（请求头 `X-API-Key: jobboerse-jobsuche`，无需 OAuth/申请），旧版 `/pc/v4/jobs` 已 403，改用 `/pc/v6/jobs` + `/pc/v4/jobdetails`；截止日期只从描述原文取（Bewerbungsfrist / 带申请语境的 bis zum，排除合同期），抽样 70 条收 41 条。新平台统一写在 `scripts/platforms_*.py`，collect_postings 自动注册（ADAPTERS / HEADERS / VIA_RANK）。
+   - 10-19：新平台（先查 robots.txt、确认截止日期能取到原文）：CNRS Emploi（博士合同 + 研究员 CDD，试跑 243 条）、MathJobs（51）、TAMU 自然资源招聘板（111）、Aarhus University（27）、H-Net（本环境 429，待日常任务验证）、PSI / ESO / IBS（机构招聘页通用适配器）；已加入本地默认清单。调研后不接入：ADUM / APS / HiBrain（robots 全站禁止）、JREC-IN（条款要求转载先获 JST 许可）、PhilJobs / AEA JOE（条款禁止入库或抓取）、Helmholtz（门户无截止日期）、AAS / SIAM / IEEE / ACM / AGU（Cloudflare 拦截）；各校 Workday / SuccessFactors / PageUp 等交给工程 B。
 6. `/rank` 金标准评测（50 个虚构画像）；之后加向量与模型打分。
 7. 【冲刺·产品 E 进行中】`/apply` 的申请清单与套磁信起草；`/track` 看板与提醒。
    - 10-19：`/apply`（`.claude/commands/apply.md` + `scripts/apply_check.py`）：`prepare` 取岗位原文生成申请清单（材料、推荐信数量、格式字数、截止时刻与时区、申请方式、开始时间、资格、资助，每项附原句），

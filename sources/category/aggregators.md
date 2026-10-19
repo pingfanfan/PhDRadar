@@ -2,20 +2,21 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 综合聚合平台（89）
+# 综合聚合平台（91）
 
 汇总多国、多学科 PhD 职位/项目的平台，日常刷新的首选入口。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [全球（GLOBAL） 28](aggregators.md#r-global) · [英国（UK） 18](aggregators.md#r-uk) · [德国（DE） 12](aggregators.md#r-de) · [欧盟/欧洲（EU） 7](aggregators.md#r-eu) · [美国（US） 5](aggregators.md#r-us) · [法国（FR） 4](aggregators.md#r-fr) · [中国内地（CN） 2](aggregators.md#r-cn) · [西班牙（ES） 2](aggregators.md#r-es) · [韩国（KR） 2](aggregators.md#r-kr) · [澳大利亚（AU） 1](aggregators.md#r-au) · [加拿大（CA） 1](aggregators.md#r-ca) · [瑞士（CH） 1](aggregators.md#r-ch) · [丹麦（DK） 1](aggregators.md#r-dk) · [中国香港（HK） 1](aggregators.md#r-hk) · [日本（JP） 1](aggregators.md#r-jp) · [荷兰（NL） 1](aggregators.md#r-nl) · [瑞典（SE） 1](aggregators.md#r-se) · [泰国（TH） 1](aggregators.md#r-th)
+**按地区跳转：** [全球（GLOBAL） 29](aggregators.md#r-global) · [英国（UK） 18](aggregators.md#r-uk) · [德国（DE） 12](aggregators.md#r-de) · [欧盟/欧洲（EU） 7](aggregators.md#r-eu) · [美国（US） 6](aggregators.md#r-us) · [法国（FR） 4](aggregators.md#r-fr) · [中国内地（CN） 2](aggregators.md#r-cn) · [西班牙（ES） 2](aggregators.md#r-es) · [韩国（KR） 2](aggregators.md#r-kr) · [澳大利亚（AU） 1](aggregators.md#r-au) · [加拿大（CA） 1](aggregators.md#r-ca) · [瑞士（CH） 1](aggregators.md#r-ch) · [丹麦（DK） 1](aggregators.md#r-dk) · [中国香港（HK） 1](aggregators.md#r-hk) · [日本（JP） 1](aggregators.md#r-jp) · [荷兰（NL） 1](aggregators.md#r-nl) · [瑞典（SE） 1](aggregators.md#r-se) · [泰国（TH） 1](aggregators.md#r-th)
 
 <a id="r-global"></a>
 
-## 全球（GLOBAL）（28）
+## 全球（GLOBAL）（29）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [AAAI Career Center（人工智能招聘板）](https://careers.aaai.org/)<br><sub>全球 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博后 | 不提供资助 | —<br><sub>📋 持续更新</sub> | ❔ | 教职、博后和研究员岗位为主，博士岗较少；大量岗位已关闭，核对截止日期。 |
 | [Academic Jobs Online](https://academicjobsonline.org/ajo/jobs)<br><sub>全球·美国·欧盟/欧洲 ｜ 数学/统计·计算机·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | — | ❔ | 以教职/博后为主，但数学、理论 CS 方向欧洲博士岗位也会发在这里。 |
 | [Academic Jobs Online · 凝聚态物理分类](https://academicjobsonline.org/ajo/CM_Physics)<br><sub>全球 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各条目截止日不同</sub> | ❔ | 凝聚态物理子分类，可按理论/实验筛选，多为欧美博后与博士职位。 |
 | [Academic Jobs Online · 量子信息科学分类](https://academicjobsonline.org/ajo/QIS)<br><sub>全球 ｜ 物理/天文·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各条目截止日不同，部分为往年条目</sub> | ❔ | 量子信息方向分类；部分条目过期，使用前核对截止日期。 |
@@ -105,10 +106,11 @@
 
 <a id="r-us"></a>
 
-## 美国（US）（5）
+## 美国（US）（6）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [AAG 美国地理学家协会学生机会页](https://aag.org/studentopportunities/)<br><sub>美国 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 汇总各地地理系研究生助研/助教与博后机会，持续更新。 |
 | [AEA 研究生资助指引（Funding Opportunities for Graduate School）](https://www.aeaweb.org/gradstudents/Funding.php)<br><sub>美国·全球 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | — | ❔ | 美国经济学会（AEA）研究生资助指引官方页。页面引用 2006 年研究数据，称约 80% 经济学博士新生入学首年获得资助；并链接外部资源。并非所有项目都全额资助，需逐校核对。 |
 | [AGU FindAJob 海洋科学博士/博后筛选页](https://findajob.agu.org/jobs/ocean-science/phd/negotiable/)<br><sub>美国 ｜ 地球/环境/海洋·生物/生命科学·物理/天文·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | AGU 职位库按海洋科学与 PhD 学历预筛的页面，当前显示 9 个可协商岗位，多为教职与研究职位，页面未见博士奖学金或博后岗位。地点以北美为主，另有香港岗位。 |
 | [ASA 社会学职业中心（Job Bank）](https://www.asanet.org/academic-professional-resources/job-bank)<br><sub>美国·全球 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 美国社会学会职位库，以教职与博后为主，博士奖学金需看各校研究生院页面。 |

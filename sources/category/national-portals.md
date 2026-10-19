@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 各国学术招聘门户与机构职位页（56）
+# 各国学术招聘门户与机构职位页（57）
 
 某个国家/研究机构体系内的官方或主流职位库，欧洲带薪 PhD 大多首发在这里。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [德国（DE） 13](national-portals.md#r-de) · [法国（FR） 9](national-portals.md#r-fr) · [丹麦（DK） 4](national-portals.md#r-dk) · [比利时（BE） 3](national-portals.md#r-be) · [荷兰（NL） 3](national-portals.md#r-nl) · [瑞典（SE） 3](national-portals.md#r-se) · [日本（JP） 2](national-portals.md#r-jp) · [卢森堡（LU） 2](national-portals.md#r-lu) · [阿根廷（AR） 1](national-portals.md#r-ar) · [奥地利（AT） 1](national-portals.md#r-at) · [澳大利亚（AU） 1](national-portals.md#r-au) · [加拿大（CA） 1](national-portals.md#r-ca) · [瑞士（CH） 1](national-portals.md#r-ch) · [西班牙（ES） 1](national-portals.md#r-es) · [欧盟/欧洲（EU） 1](national-portals.md#r-eu) · [芬兰（FI） 1](national-portals.md#r-fi) · [全球（GLOBAL） 1](national-portals.md#r-global) · [中国香港（HK） 1](national-portals.md#r-hk) · [克罗地亚（HR） 1](national-portals.md#r-hr) · [匈牙利（HU） 1](national-portals.md#r-hu) · [挪威（NO） 1](national-portals.md#r-no) · [葡萄牙（PT） 1](national-portals.md#r-pt) · [中国台湾（TW） 1](national-portals.md#r-tw) · [英国（UK） 1](national-portals.md#r-uk) · [美国（US） 1](national-portals.md#r-us)
+**按地区跳转：** [德国（DE） 13](national-portals.md#r-de) · [法国（FR） 9](national-portals.md#r-fr) · [丹麦（DK） 4](national-portals.md#r-dk) · [比利时（BE） 3](national-portals.md#r-be) · [荷兰（NL） 3](national-portals.md#r-nl) · [瑞典（SE） 3](national-portals.md#r-se) · [日本（JP） 2](national-portals.md#r-jp) · [卢森堡（LU） 2](national-portals.md#r-lu) · [英国（UK） 2](national-portals.md#r-uk) · [阿根廷（AR） 1](national-portals.md#r-ar) · [奥地利（AT） 1](national-portals.md#r-at) · [澳大利亚（AU） 1](national-portals.md#r-au) · [加拿大（CA） 1](national-portals.md#r-ca) · [瑞士（CH） 1](national-portals.md#r-ch) · [西班牙（ES） 1](national-portals.md#r-es) · [欧盟/欧洲（EU） 1](national-portals.md#r-eu) · [芬兰（FI） 1](national-portals.md#r-fi) · [全球（GLOBAL） 1](national-portals.md#r-global) · [中国香港（HK） 1](national-portals.md#r-hk) · [克罗地亚（HR） 1](national-portals.md#r-hr) · [匈牙利（HU） 1](national-portals.md#r-hu) · [挪威（NO） 1](national-portals.md#r-no) · [葡萄牙（PT） 1](national-portals.md#r-pt) · [中国台湾（TW） 1](national-portals.md#r-tw) · [美国（US） 1](national-portals.md#r-us)
 
 <a id="r-de"></a>
 
@@ -104,6 +104,15 @@
 | --- | --- | --- | --- | :-: | --- |
 | [卢森堡 FNR PRIDE 博士培养单元](https://fnr.lu/funding-instruments/pride)<br><sub>卢森堡 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | **2025-10-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2025 轮 DTU 全文截止 2025-10-15；未查到 2026 轮公告，关注 FNR 页面；个人申请须按各 DTU 公开岗位</sub> | ✅ | **要求：** 按各 DTU 公开岗位要求申请；岗位为 4 年博士雇佣合同<br>FNR 主要博士资助项目 PRIDE：由博士培养单元（DTU）作为申请主体获得成批博士岗位，每个博士岗含 4 年博士雇佣合同与培训流动津贴；候选人直接向获资助的 DTU 申请岗位。2025 轮全文截止 2025 年 10 月 15 日。 |
 | [卢森堡国家研究基金 FNR · AFdoc 博士资助计划（2026 首轮）](https://www.fnr.lu/?p=86405)<br><sub>卢森堡 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>最高年度薪资资助 EUR 54,574（按 2026 年 6 月 1 日薪级指数，含雇主费用、社保与养老金）</sub> | **2026-11-25**<br><sub>🟢 开放申请</sub><br><sub>首轮 2026 年 11 月 25 日 14:00（CET）截止；后续轮次以官网为准</sub> | ❔ | **要求：** 需证明与卢森堡有关联（如在卢累计 5 年以上教育或居住）；未获博士学位；博士须在海外公立授予博士学位机构或卢企合作项目中完成<br>卢森堡 FNR 的 AFdoc 博士资助计划，首轮 2026 年 11 月 25 日 14:00（CET）截止；自 2027 年起每年两轮（4 月与 11 月截止）。页面要求申请人与卢森堡有关联，承办机构须为海外公立博士授予机构或获认可的卢森堡研发企业；资助覆盖雇用薪资，不含学费。 |
+
+<a id="r-uk"></a>
+
+## 英国（UK）（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [AHRC Doctoral Landscape Award 分配名单](https://www.ukri.org/publications/ahrc-doctoral-landscape-award-allocations/)<br><sub>英国 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | 🟡 | **要求：** 需先在 50 所获分配高校中找到具体名额，再到各校研究生院申请；国际生资格在 UKRI 页面未见说明，需逐校确认。<br>AHRC 向 50 所高校分配人文艺术博士名额（每校 5 年约 15 个，首批 2026 年 10 月入学）。需先查名单，再到各校研究生院申请；国际生资格未在 UKRI 页面找到官方说明，需逐校确认。 |
+| [UKRO：MSCA Doctoral Networks 指南](https://www.ukro.ac.uk/funding-and-guidance/msca/doctoral-networks/)<br><sub>英国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ✅ | 英国国家联络点说明，岗位在 EURAXESS 发布；用于找英国高校参与的 DN 博士岗，同样适用流动性规则。 |
 
 <a id="r-ar"></a>
 
@@ -224,14 +233,6 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [长庚大学博士奖学金（Study in Taiwan 页）](https://old.studyintaiwan.org/university/scholarship/339)<br><sub>中国台湾 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明<br><sub>两项条件均满足：学杂费同额补助加每月 NT$12,000（每年 10 个月，前 4 年）；仅满足语言条件：每月 NT$10,000</sub> | — | ❔ | **要求：** 入学前五年内取得指定英语成绩（如 TOEFL iBT 69 以上、IELTS 5.5 以上）或 GRE 定量 160 以上；两项均满足者补助更高。<br>长庚大学博士奖学金（留台门户页）：名额 50 人，补助按英语与 GRE 成绩分档发放。页面未列截止日期，国籍栏显示 All，但中国大陆学生资格仍需核实。 |
-
-<a id="r-uk"></a>
-
-## 英国（UK）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [UKRO：MSCA Doctoral Networks 指南](https://www.ukro.ac.uk/funding-and-guidance/msca/doctoral-networks/)<br><sub>英国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ✅ | 英国国家联络点说明，岗位在 EURAXESS 发布；用于找英国高校参与的 DN 博士岗，同样适用流动性规则。 |
 
 <a id="r-us"></a>
 

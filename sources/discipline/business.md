@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 商科/管理 信源（82）
+# 商科/管理 信源（83）
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 2](business.md#aggregators) · [各国学术招聘门户与机构职位页 2](business.md#national-portals) · [高校旗舰奖学金与资助检索 22](business.md#university-schemes) · [结构化博士项目与研究机构 47](business.md#doctoral-programs) · [博士后奖学金与项目 2](business.md#postdoc-fellowships) · [企业与基金会 Fellowship 4](business.md#fellowships) · [学科专属信源 1](business.md#discipline) · [科研实习与“曲线入口” 2](business.md#pathways)
+**按分类跳转：** [综合聚合平台 2](business.md#aggregators) · [各国学术招聘门户与机构职位页 2](business.md#national-portals) · [高校旗舰奖学金与资助检索 23](business.md#university-schemes) · [结构化博士项目与研究机构 47](business.md#doctoral-programs) · [博士后奖学金与项目 2](business.md#postdoc-fellowships) · [企业与基金会 Fellowship 4](business.md#fellowships) · [学科专属信源 1](business.md#discipline) · [科研实习与“曲线入口” 2](business.md#pathways)
 
 <a id="aggregators"></a>
 
@@ -30,7 +30,7 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（22）
+## 高校旗舰奖学金与资助检索（23）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -44,6 +44,7 @@
 | [一桥大学经营管理研究科博士课程（MEXT 奖学金路径）](https://international.hit-u.ac.jp/en/?p=3011)<br><sub>日本 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-09-01**<br><sub>⏸ 本轮已截止</sub> | ❔ | **要求：** MEXT 路径需先经日本使领馆初选，再向大学申请<br>页面为 2027 学年（AY2027）MEXT 路径申请页：需先获日本使领馆初选，本轮申请截止 2026 年 9 月 1 日，筛选结果 9 月 24 日前通知。中国考生的使领馆初选时间表页面标注待公布。 |
 | [亚利桑那大学 Eller 商学院市场营销博士资助](https://eller.arizona.edu/programs/doctoral/marketing/program/funding)<br><sub>美国 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>🔄 随时可申</sub> | ❔ | 页面称营销博士大多获全额资助（助研/助教或奖学金，含学费减免与医保），资助保证 5 年。国际生资格页面未单独说明，需核实。 |
 | [亨利商学院会计博士奖学金](https://www.henley.ac.uk/study/phds/scholarships/phd-accounting-scholarship)<br><sub>英国 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-06-11**<br><sub>⏸ 本轮已截止</sub><br><sub>页面称 2026/27 轮申请截止为 2026 年 6 月 11 日（已过）；页面未见 2027 轮公告。</sub> | ✅ | **要求：** 优秀本科学位及硕士学位（最好 distinction），研究计划书，两封推荐信<br>页面称提供多项 PhD 奖学金：学费（英国申请者 £4,700，非英国申请者 £23,500）、三年津贴每年 £20,780，另有每年 £3,500 教学津贴和会议经费。2026/27 轮已截止，页面未见下一轮公告。 |
+| [博科尼大学博士（管理学）奖学金入口](https://www.unibocconi.it/en/news-topic/phd)<br><sub>意大利 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 博科尼博士项目：2025-26 批次征集期为 4 月 15 日至 5 月 15 日（Tech European Foundation 资助的管理方向 2 个名额）；2027 批次未找到公告。需被博科尼博士项目录取，奖学金国籍与学历条件以官方公告为准。 |
 | [哥本哈根大学社会科学学院 Industrial PhD](https://socialsciences.ku.dk/research/industrialphd/)<br><sub>丹麦 ｜ 社会科学/心理·经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>最高 DKK 17,000/月（丹麦创新基金会对学生薪资的补贴上限）</sub> | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 页面为社会科学学院工业博士（Industrial PhD）说明页：该计划培养能理解企业研发业务的研究人员，学位在本院攻读。申请截止与方式见丹麦创新基金会（Innovation Fund Denmark）页面，本页不列具体课题。 |
 | [岭南大学 MPhil/PhD 项目列表](https://www.ln.edu.hk/rpg/admission/list-of-programmes)<br><sub>中国香港 ｜ 社会科学/心理·人文/语言·经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 页面列出文科、商科、数据科学、社会科学及环境科学、可持续发展等跨学科方向的 MPhil/PhD 学位项目，并列有与内地高校合办的双博士学位项目。资助与内地学生申请条件未在抓取的正文中显示。 |
 | [巴斯斯巴大学博士学费与资助（Fees and funding）](https://www.bathspa.ac.uk/how-to-apply/research-degrees/fees-and-funding/)<br><sub>英国 ｜ 社会科学/心理·人文/语言·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-11-08**<br><sub>🟢 开放申请</sub><br><sub>页面称 ESRC SWDTP 2027 入学的资助申请窗口已开放；向 Bath Spa 提交表达意向的博士申请截止日为 2026 年 11 月 8 日。SWDTP 资助不保证，页面建议先与潜在导师讨论研究想法。</sub> | ❔ | 资助主要通过 ESRC South West DTP（教育、管理与商业、社会技术未来与数字方法等学科）。每个路径最多推荐 3 份申请，其中最多 2 份可为国际候选人。 |

@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 政府与国家级奖学金（70）
+# 政府与国家级奖学金（77）
 
 中国政府（CSC）及各留学目的地政府提供的博士奖学金。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [法国（FR） 12](gov-scholarships.md#r-fr) · [英国（UK） 9](gov-scholarships.md#r-uk) · [德国（DE） 8](gov-scholarships.md#r-de) · [日本（JP） 7](gov-scholarships.md#r-jp) · [澳大利亚（AU） 3](gov-scholarships.md#r-au) · [加拿大（CA） 3](gov-scholarships.md#r-ca) · [瑞士（CH） 2](gov-scholarships.md#r-ch) · [爱沙尼亚（EE） 2](gov-scholarships.md#r-ee) · [西班牙（ES） 2](gov-scholarships.md#r-es) · [中国香港（HK） 2](gov-scholarships.md#r-hk) · [爱尔兰（IE） 2](gov-scholarships.md#r-ie) · [葡萄牙（PT） 2](gov-scholarships.md#r-pt) · [土耳其（TR） 2](gov-scholarships.md#r-tr) · [阿根廷（AR） 1](gov-scholarships.md#r-ar) · [奥地利（AT） 1](gov-scholarships.md#r-at) · [AZ 1](gov-scholarships.md#r-az) · [比利时（BE） 1](gov-scholarships.md#r-be) · [智利（CL） 1](gov-scholarships.md#r-cl) · [全球（GLOBAL） 1](gov-scholarships.md#r-global) · [匈牙利（HU） 1](gov-scholarships.md#r-hu) · [以色列（IL） 1](gov-scholarships.md#r-il) · [印度（IN） 1](gov-scholarships.md#r-in) · [冰岛（IS） 1](gov-scholarships.md#r-is) · [意大利（IT） 1](gov-scholarships.md#r-it) · [韩国（KR） 1](gov-scholarships.md#r-kr) · [波兰（PL） 1](gov-scholarships.md#r-pl) · [新加坡（SG） 1](gov-scholarships.md#r-sg)
+**按地区跳转：** [法国（FR） 12](gov-scholarships.md#r-fr) · [英国（UK） 10](gov-scholarships.md#r-uk) · [德国（DE） 8](gov-scholarships.md#r-de) · [日本（JP） 7](gov-scholarships.md#r-jp) · [澳大利亚（AU） 5](gov-scholarships.md#r-au) · [加拿大（CA） 4](gov-scholarships.md#r-ca) · [瑞士（CH） 2](gov-scholarships.md#r-ch) · [智利（CL） 2](gov-scholarships.md#r-cl) · [爱沙尼亚（EE） 2](gov-scholarships.md#r-ee) · [西班牙（ES） 2](gov-scholarships.md#r-es) · [中国香港（HK） 2](gov-scholarships.md#r-hk) · [爱尔兰（IE） 2](gov-scholarships.md#r-ie) · [葡萄牙（PT） 2](gov-scholarships.md#r-pt) · [新加坡（SG） 2](gov-scholarships.md#r-sg) · [土耳其（TR） 2](gov-scholarships.md#r-tr) · [阿根廷（AR） 1](gov-scholarships.md#r-ar) · [奥地利（AT） 1](gov-scholarships.md#r-at) · [AZ 1](gov-scholarships.md#r-az) · [比利时（BE） 1](gov-scholarships.md#r-be) · [全球（GLOBAL） 1](gov-scholarships.md#r-global) · [匈牙利（HU） 1](gov-scholarships.md#r-hu) · [以色列（IL） 1](gov-scholarships.md#r-il) · [印度（IN） 1](gov-scholarships.md#r-in) · [冰岛（IS） 1](gov-scholarships.md#r-is) · [意大利（IT） 1](gov-scholarships.md#r-it) · [韩国（KR） 1](gov-scholarships.md#r-kr) · [波兰（PL） 1](gov-scholarships.md#r-pl) · [UY 1](gov-scholarships.md#r-uy)
 
 <a id="r-fr"></a>
 
@@ -31,7 +31,7 @@
 
 <a id="r-uk"></a>
 
-## 英国（UK）（9）
+## 英国（UK）（10）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -44,6 +44,7 @@
 | [布里斯托大学 CSC 博士奖学金](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/)<br><sub>英国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-11-30**<br><sub>🟢 开放申请</sub><br><sub>2026-11-30 中午（英国时间）为 2027 入学的大学 PhD 申请截止；CSC 申请约在 2027 年 3–4 月</sub> | ✅ | **要求：** 需为中国大陆永久居民，年龄不超过 35 岁；需有硕士或即将完成的学位（海外申请人需 12 个月内获硕士或在读）；需有效英语成绩；若已持硕士并在中国申请，须在职且获雇主支持；学成后须回国服务两年<br>布里斯托大学 CSC 联合奖学金：大学承担学费，CSC 提供生活津贴与返程机票。大学申请中需选择 'CSC-UoB joint PhD scholarship' 并填 100%。截止 2026-11-30 中午（英国时间）。 |
 | [约克大学 CSC 奖学金](https://www.york.ac.uk/study/postgraduate-research/funding/china-council-scholarships/)<br><sub>英国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 轮：录取信截止 2026 年 2 月 3 日，York 申请截止 2026 年 4 月 1 日，CSC 申请截止 2026 年 4 月 1 日北京时间 14:00；本轮已关闭</sub> | ✅ | 约克大学 CSC 奖学金：面向中国籍博士申请者，页面称资助含全额学费（通常三年）、生活费补助、一次回国机票与英国签证费；需先获 York 博士录取并经系推荐后再申请 CSC。2026/27 轮已关闭，页面未公布 2027 轮信息。 |
 | [萨里大学 CSC 联合奖学金](https://surrey.ac.uk/fees-and-funding/studentships/china-scholarship-council-surrey-awards)<br><sub>英国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-01-11**<br><sub>🟢 开放申请</sub><br><sub>页面为 2027 年 10 月入学轮，申请截止 2027 年 1 月 11 日 23:59 GMT；需先获 Surrey 无条件录取并递交资助申请表。</sub> | ✅ | **要求：** 仅限中国大陆（PRC）公民（海外华人个别可能符合）；须先获 Surrey 无条件录取，并另行向 CSC 申请；毕业后需回国<br>页面称学校免除学费，CSC 提供生活津贴、海外学生医疗保险与往返机票；须先获录取并由学校推荐后申请 CSC。 |
+| [阿伯丁大学 CSC 奖学金](https://www.abdn.ac.uk/study/funding/348)<br><sub>英国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | 滚动<br><sub>🔄 随时可申</sub><br><sub>在 CSC 官网申请，截止时间以 CSC 官网为准；学校页面标注 available until further notice</sub> | ✅ | **要求：** 中国大陆（PRC）国籍；已获硕士学位；申请时未满 35 岁；已获阿伯丁录取；须同时提交 CSC 申请表与雇主推荐表；仅限阿伯丁校区；学成须回国。<br>阿伯丁大学 CSC 奖学金：须为中国籍、已获硕士学位、35 岁以下、已获阿伯丁录取（需先找导师）；仅限阿伯丁校区。 |
 
 <a id="r-de"></a>
 
@@ -76,20 +77,23 @@
 
 <a id="r-au"></a>
 
-## 澳大利亚（AU）（3）
+## 澳大利亚（AU）（5）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [ARC 量子计算未来领袖培训中心（FLiQC）博士奖学金](https://sydneyquantum.org/program/future-leaders-in-quantum-computing-scholarship/)<br><sub>澳大利亚 ｜ 物理/天文·计算机·工程·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>A$42,754/年（2026 年标准）</sub> | **2026-10-08**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 10 月 8 日截止，现已关闭；开放日为 2026 年 8 月 26 日</sub> | ✅ | **要求：** 页面列出的合作大学为 UNSW Sydney 与 University of Technology Sydney；需取得博士录取并获项目导师支持；研究须属量子技术领域；需可取得签证；不得同时持有主要博士津贴（如 RTP）。<br>ARC 资助、面向国内外学生的量子科技工业博士奖学金，2026 年标准津贴 A$42,754/年，最长 4 年；需先获合作大学博士录取并取得项目导师支持。2026 轮已于 2026 年 10 月 8 日关闭。 |
+| [CSIRO Data61 PhD 奖学金（Study Australia 官方检索页）](https://search.studyaustralia.gov.au/scholarship/data61-phd-scholarship/e18d26a8362937016e062999ef29aa34)<br><sub>澳大利亚 ｜ 计算机·人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>各轮公告时间不一，未见当期截止日，以 CSIRO 官网为准</sub> | 🟡 | **要求：** 需已获或即将入读澳洲大学博士，国际生须在澳洲境内或持留学签证；需一等荣誉学位或同等学历，并需大学导师同意指导<br>CSIRO Data61 博士奖学金，国际生须在澳洲境内或持留学签证，且需获澳洲大学博士录取并有导师同意。津贴为 RTP 基准加每年 $10,000 补贴，以当期公告为准。 |
 | [CSIRO iPhD 工业博士项目（研究机会列表）](https://www.csiro.au/en/careers/scholarships-student-opportunities/postgraduate-programs-and-scholarships/industry-phd/iphd-news/iphd-program-research-opportunities)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>A$49,513/年（2027 年开始项目的学生奖学金：政府 A$37,153 加企业补足；另有研究费 A$13,390/年）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面写明本轮 EOI 于 2026 年 5 月 4 日开放、8 月 7 日截止；页面未列其他轮次日期，下一轮以 csiro.au/iphd 为准。</sub> | ❔ | CSIRO 工业博士项目由大学、企业与 CSIRO 三方联合指导，页面称提供全额政府奖学金加企业补足，并有项目运营与培训经费。页面未列具体金额，原条目中的 A$ 数字需以官网核实。 |
 | [悉尼大学 CSC 联合博士奖学金](https://sydney.edu.au/scholarships/e/china-scholarship-council-research-programs-scholarship.html)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-01-25**<br><sub>🔜 即将开放</sub><br><sub>2026-11-18 开放申请，2027-01-25 截止（官网页面）</sub> | ✅ | **要求：** 需为中国公民、年龄在 35 岁以下，获悉尼大学博士无条件录取（或已在该校注册待入学），申请时未在澳大利亚工作或学习<br>中国政府奖学金（CSC）与悉尼大学合作的博士奖学金：学校免学费，CSC 提供生活费、机票、签证及海外医疗保险。需先获录取再申请 CSC；理工科院系另有补充奖学金。 |
+| [澳国立大学 × CSIRO 数字农业博士奖学金](https://agrifood.anu.edu.au/anu-csiro-digital-agriculture-phd-scholarship)<br><sub>澳大利亚 ｜ 计算机·人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>AUD 15,000/年（补充奖学金）+ AUD 5,000 研究津贴</sub> | **2026-08-31**<br><sub>⏸ 本轮已截止</sub><br><sub>页面列出 2026 年 EOI 开放 7 月 8 日至 8 月 11 日，申请截止 2026 年 8 月 31 日，现已关闭；未见下一轮公告。</sub> | ✅ | CSIRO Data61 资助的补充奖学金（top-up），须同时是 ANU 基础博士奖学金的申请人或获得者，并承担已批准的 CSIRO-ANU 课题。通过 CEAT 网站查看课题并表达意向。旧页面称按 AGRTP 全额标准，以现行条款为准。 |
 
 <a id="r-ca"></a>
 
-## 加拿大（CA）（3）
+## 加拿大（CA）（4）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [Alberta Innovates 研究生奖学金（AI-GSS）](https://albertainnovates.ca/wp-content/uploads/2023/05/AI-GSS-PROGRAM-GUIDE_2025-2026-Oct-23-2024-FINAL.pdf)<br><sub>加拿大 ｜ 计算机·工程·化学/材料·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | — | ✅ | **要求：** 需在阿尔伯塔省大学攻读全日制研究型硕博；GPA 至少 3.5；需导师担保；研究须属于指定新兴技术领域；不可同时持有其他 Alberta Innovates 资助<br>指南（2025/26 版）称国际生可申请，大学页面称无国籍限制；具体条款以当年 Program Guidelines 为准。津贴金额未确认，请勿沿用旧版金额。申请通过所在大学提交。 |
 | [FRQ 博士研究奖学金规则（2027–2028）](https://frq.gouv.qc.ca/app/uploads/2026/07/anglais_regles_bourses_doctorat_2027-2028_ang.pdf)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>CAD 25,000/年（B2 常规博士奖学金）</sub> | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2027-28 轮常规 B2 申请截止 2026-09-29（已过），下一轮待公布</sub> | ❔ | **要求：** 国际生资格以 FRQ 原文为准<br>魁北克省级博士奖学金 2027–28 年度规则（2026 年 7 月发布）；国际生通常需先由魁北克高校预选，竞赛截止以 FRQ 当年日程为准。 |
 | [安大略研究生奖学金（OGS）国际生配额](https://gradstudents.carleton.ca/ogs/)<br><sub>加拿大 ｜ 全学科</sub> | 博士 | 半奖/部分 | **2026-11-16**<br><sub>🔜 即将开放</sub><br><sub>Carleton 校内学生申请截止 2026-11-16 23:59；推荐信截止 2026-12-02；2027 年 4 月公布结果</sub> | 🟡 | 安省研究生奖学金（OGS）：最高 CAD 15,000/年（每学期最多 5,000）；国际生需持安大略省学习许可并全日制就读，名额受省级配额限制，由院系提名。截止日取自 Carleton，其他院校不同。 |
 | [魁北克外国学生博士奖学金 PBEEE（FRQNT，2026-27 批次）](https://frq.gouv.qc.ca/app/uploads/2025/07/8.pbeee_2026-2027_vf-approuvee_abida-1.pdf)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>博士奖学金年额 25 000 $（前 9 个学期），延期后为 12 000 $（最后 3 个学期）；最长 12 个学期，累计最高 87 000 $；另免除高额学费并提供医保</sub> | **2025-12-02**<br><sub>⏸ 本轮已截止</sub> | ✅ | **要求：** 须先经大学预选；非加拿大公民或永久居民<br>由魁北克政府出资、FRQ 管理的外国学生博士奖学金。页面称设面向所有国家学生的开放类别，并设 Québec-Chine 专项（1C）。2026-27 批次申请截止为 2025 年 12 月 2 日（16:00）。 |
@@ -102,6 +106,15 @@
 | --- | --- | --- | --- | :-: | --- |
 | [Swiss Government Excellence Scholarships](https://www.sbfi.admin.ch/en/scholarships-and-grants)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 仅生活费<br><sub>CHF 2,450/月（第三方报道，需以官网为准）</sub> | —<br><sub>🔜 即将开放</sub><br><sub>2027–28 轮中国大陆截止日期未核实（第三方称 2026-08-20 开放），以 SERI 官网为准。</sub> | ✅ | **要求：** 需先获瑞士导师提名（博士或研究奖学金）；据第三方报道需在申请截止前完成硕士学位；中国大陆可否申请以官方国家名单为准。<br>SERI 页面称政府卓越奖学金每年面向年轻外国研究人员和艺术学生授予，由联邦外国学生奖学金委员会（FCS）负责评选。 |
 | [瑞士政府卓越奖学金（ETH 页面）](https://ethz.ch/en/studies/non-degree-courses/sges.html)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>CHF 3,500/月（需导师同意）</sub> | **2026-11-30**<br><sub>🟢 开放申请</sub><br><sub>页面写明申请期为 2026 年 8 月 20 日至 11 月 30 日；各国具体截止日页面未载明。</sub> | ❔ | **要求：** 需先获得 ETH 教授同意并出具邀请函，之后仅可通过 Go-ESKAS.ch 提交；页面标明博后奖学金已不接受申请。<br>瑞士政府奖学金（博士奖学金与硕士后研究奖学金）经 Go-ESKAS.ch 申请，申请期为 2026 年 8 月 20 日至 11 月 30 日。页面明确博后奖学金已不接受申请，故级别修正为博士。 |
+
+<a id="r-cl"></a>
+
+## 智利（CL）（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [智利 ANID 国家博士奖学金（Beca de Doctorado Nacional）](https://anid.cl/capital-humano-2/doctorado-nacional/)<br><sub>智利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-11-27**<br><sub>🟢 开放申请</sub><br><sub>2027 学年征集：2026 年 10 月 9 日开始，11 月 27 日 13:00 截止，估计 2027 年 1 月出结果。</sub> | ❔ | **要求：** 须持学士或同等学位；本科毕业成绩均分不低于 5.0（智利评分制）或位于前 30%；须已在智利大学开设的认可博士项目中正式申请、已录取或为在读生。<br>智利 ANID 国家博士奖学金（Beca de Doctorado Nacional）2027 学年征集已开放。页面未说明外国国籍是否可申请，仍需到 anid.cl 核实。 |
+| [智利 Becas Chile 海外博士奖学金（仅确认排除）](https://anid.cl/capital-humano-2/becas-en-el-extranjero-becas-chile/)<br><sub>智利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-05-19**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年征集于 5 月 19 日截止（已结束）。</sub> | ⛔ | **要求：** 需智利国籍或智利永久居留；中国籍不符合。<br>Becas Chile 赴海外读博项目只面向智利籍或在智利获得永久居留者，2026 年征集已截止。列在这里只是为了避免误投。 |
 
 <a id="r-ee"></a>
 
@@ -148,6 +161,15 @@
 | [FCT 2026 博士奖学金竞赛官方公告（葡萄牙）](https://www.fct.pt/wp-content/uploads/2026/02/2026_02_23_Nota_de_Impensa_Concurso-Bolsas-de-Doutoramento-2026.pdf)<br><sub>葡萄牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请期为 3 月 2–31 日（FCT 新闻稿，2026-02-23），已结束；2027 轮待 FCT 公告</sub> | ❔ | FCT 新闻稿（2026-02-23）称 2026 年博士奖学金竞赛共 1,600 个奖学金，其中一般线 1,000 个、非学术环境 600 个，申请期为 3 月 2 日至 31 日。外国申请者资格未在该文件中说明，以正式公告为准。 |
 | [葡萄牙 FCT 博士奖学金（2026 轮，一般线与非学术线）](https://www.fct.pt/en/concursos/concurso-bolsas-de-doutoramento-2026-linha-de-candidatura-especifica-em-ambiente-nao-academico/)<br><sub>葡萄牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 3 月 2–31 日已截止（一般线与非学术线）；2027 轮日期未公布</sub> | ❔ | **要求：** 需已录取或符合攻读博士学位的入学条件；须有葡萄牙或外国学术接收机构，并与非学术机构合作，在同一非学术接收机构、在葡萄牙开展至少 12 个月（可连续或累计）的工作；外国学位需提交认定或转换证明。<br>FCT 2026 年博士奖学金竞赛非学术线已截止，计划资助 1,600 个奖学金，其中 600 个在非学术环境；临时结果于 2026 年 7 月 31 日公布。页面称可在 FCT 列出的非学术机构中寻找接收机构，并直接联系对方制定工作计划。 |
 
+<a id="r-sg"></a>
+
+## 新加坡（SG）（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [A*STAR CFAR 人才与奖学金页面](https://www.a-star.edu.sg/cfar/talent/scholarship)<br><sub>新加坡 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 学位要求以各项目为准；部分项目限新加坡公民/永久居民，国际生资格以当年页面为准<br>页面列出 A*STAR 研究生奖学金（AGS，称提供全额资助，博士期间可含 12 个月海外实习）、ARAP 联合研究项目与 ARIA 研究实习奖。页面未写明国籍与资格条件，需点进各项目页核实。 |
+| [新加坡 A*STAR 研究生奖学金（AGS）](https://www.a-star.edu.sg/scholarships/home/scholarships/ags--scholarship)<br><sub>新加坡 ｜ 工程·计算机·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>国际生月津贴 $3,600（STEM）/ $5,000（专项方向），币种页面未注明</sub> | —<br><sub>🔜 即将开放</sub><br><sub>页面列两个申请窗口：11 月 1 日至次年 2 月 1 日，以及 6 月 1 日至 8 月 10 日；以官网当年公告为准。</sub> | 🟡 | **要求：** 非新加坡公民/永久居民须已完成或即将完成新加坡自主大学学位，并获该校博士录取；非 SPR 须履行约 3 年在新加坡的服务承诺<br>覆盖 STEM、计算、量子、半导体四条线，资助最长 4 年博士，含学费、月津贴及最长 12 个月海外实习。非新加坡公民须获新加坡自主大学（如 NUS、NTU、SMU 等）博士录取，即只能通过在新加坡就读的路线申请。官方页面列出两个申请窗口：11 月 1 日至次年 2 月 1 日，以及 6 月 1 日至 8 月 1 日；以官网为准。 |
+
 <a id="r-tr"></a>
 
 ## 土耳其（TR）（2）
@@ -188,14 +210,6 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [布鲁塞尔自由大学 VUB CSC 博士项目](https://www.vub.be/en/international/csc)<br><sub>比利时 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-01-31**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 秋季入学轮：VUB 网上预申请截止 2026-01-31，CSC 截止 2026-03-31；2027 轮以校方最新页面为准。</sub> | ✅ | **要求：** 须为中国国籍并符合国家留学基金委（CSC）要求；需先联系导师并在线预申请；以校方页面为准<br>涵盖全博士及联合培养博士两类。CSC 提供月生活津贴和国际机票，校方承担学费及（全博士）医疗保险。需尽早与导师沟通。 |
-
-<a id="r-cl"></a>
-
-## 智利（CL）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [智利 ANID 国家博士奖学金（Beca de Doctorado Nacional）](https://anid.cl/capital-humano-2/doctorado-nacional/)<br><sub>智利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-11-27**<br><sub>🟢 开放申请</sub><br><sub>2027 学年征集：2026 年 10 月 9 日开始，11 月 27 日 13:00 截止，估计 2027 年 1 月出结果。</sub> | ❔ | **要求：** 须持学士或同等学位；本科毕业成绩均分不低于 5.0（智利评分制）或位于前 30%；须已在智利大学开设的认可博士项目中正式申请、已录取或为在读生。<br>智利 ANID 国家博士奖学金（Beca de Doctorado Nacional）2027 学年征集已开放。页面未说明外国国籍是否可申请，仍需到 anid.cl 核实。 |
 
 <a id="r-global"></a>
 
@@ -261,11 +275,11 @@
 | --- | --- | --- | --- | :-: | --- |
 | [Bekker NAWA 项目（波兰国家学术交流署，博士生与青年学者）](https://nawa.gov.pl/en/nawa/news/call-for-applications-for-the-bekker-nawa-programme-now-open)<br><sub>波兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | **2026-05-29**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年一轮申请截止为 2026-05-29 15:00（波兰时间）；页面未说明下一轮时间，需以 NAWA 公告为准。</sub> | ❔ | **要求：** 页面称面向波兰科学与学术机构的研究人员，博士生可通过在合作单位完成部分博士教育或收集研究材料参与；申请须全部用英文撰写，经 NAWA ICT 系统提交。<br>NAWA（波兰国家学术交流署）Bekker 项目本轮征集，资助赴合作单位开展研究，项目开始时间为 2027 年 3 月 1 日至 10 月 1 日之间；申请已于 2026-05-29 截止。 |
 
-<a id="r-sg"></a>
+<a id="r-uy"></a>
 
-## 新加坡（SG）（1）
+## UY（1）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
-| [A*STAR CFAR 人才与奖学金页面](https://www.a-star.edu.sg/cfar/talent/scholarship)<br><sub>新加坡 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 学位要求以各项目为准；部分项目限新加坡公民/永久居民，国际生资格以当年页面为准<br>页面列出 A*STAR 研究生奖学金（AGS，称提供全额资助，博士期间可含 12 个月海外实习）、ARAP 联合研究项目与 ARIA 研究实习奖。页面未写明国籍与资格条件，需点进各项目页核实。 |
+| [乌拉圭 ANII 2026 年国内硕博奖学金（基础文件）](https://anii.org.uy/upcms/files/llamados/documentos/1787069817_bases-posgrados-nacionales-2026-vf-2-.pdf)<br><sub>UY ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | — | ⛔ | 乌拉圭 ANII 2026 年国内硕博奖学金基础文件规定，外籍申请人须具有乌拉圭合法公民身份或永久居留，临时居留不够。中国籍不符合，列在这里仅作排除。 |
 
