@@ -91,6 +91,36 @@
     return Math.floor(Math.min(hi, Math.max(lo, f)) * 100 + 0.5) / 100;
   }
 
+  // 岗位申请须知的结构化字段（工程 A 写入 catalog 的 af）：[中文摘要, 原句]
+  const af = (x, key) => { const v = (x.af || {})[key] || ["", ""]; return [v[0] || "", v[1] || ""]; };
+  function parseAfStart(zh, en, soft) {
+    const m = /(\d{4}) 年 (\d{1,2}) 月(?: (\d{1,2}) 日)?/.exec(zh);
+    if (!m || soft.test(zh + " " + en)) return null;
+    return Date.UTC(+m[1], +m[2] - 1, +(m[3] || 1)) / 864e5;
+  }
+  function requiredLangs(text, P) {
+    const out = [];
+    text.split(/[.;!\n]|\bbut\b|，|；|。/).forEach(clause => {
+      if (!P.lang_req.test(clause) || P.lang_soft.test(clause) || /English or|or English/i.test(clause)) return;
+      Object.keys(P.R.langs).forEach(en => {
+        if (new RegExp("(?<![A-Za-z])" + en + "(?![A-Za-z])").test(clause) && !has(out, en)) out.push(en);
+      });
+    });
+    return out;
+  }
+  function knownLangs(langs, R) {
+    const zh = {};
+    Object.keys(R.langs).forEach(k => { zh[R.langs[k]] = k; });
+    const g = String(langs.german || "").toUpperCase().replace("NATIVE", "native");
+    const out = (R.cefr[g] || 0) >= R.cefr.B2 ? ["German"] : [];
+    (langs.other || []).forEach(o => {
+      const name = String((o && typeof o === "object" ? o.lang : o) || "").trim();
+      const en = zh[name] || Object.keys(R.langs).find(k => k.toLowerCase() === name.toLowerCase());
+      if (en && !has(out, en)) out.push(en);
+    });
+    return out;
+  }
+
   function prepare(profile, R) {
     profile = profile || {};
     const groups = R.groups.map(g => ({d: g.d, m: !!g.m, t: g.t.map(t => t.replace(/^=/, "")), syn: g.t.map(t => compileTerm(t.replace(/^=/, ""))),
@@ -143,6 +173,8 @@
       sensitive: !!profile.sensitive_field, R, kwf: {},
       restrict: new RegExp(R.restrict, "i"), german_re: new RegExp(R.german), local_re: new RegExp(R.local_lang, "i"),
       noise: new RegExp(R.noise, "gi"), noise_body: new RegExp(R.noise_body, "g"), focus: new RegExp(R.focus, "i"),
+      lang_req: new RegExp(R.lang_req, "i"), lang_soft: new RegExp(R.lang_soft, "i"), start_soft: new RegExp(R.start_soft, "i"),
+      known: knownLangs(langs, R),
       local_ok: (langs.other || []).some(o => has(R.local_langs, String((o && typeof o === "object" ? o.lang : o) || "").trim().toLowerCase())),
     };
   }
@@ -162,19 +194,33 @@
 
     if (P.cn && e === "no") out.push("中国学生不可申请");
     if (P.cn && P.cn_only && e !== "yes" && e !== "partial") out.push("资格待核实（你选了只看中国学生可申）");
-    if (P.restrict.test(title + " " + rq)) out.push("公告写明限本国 / 本土学生");
+    const [dgZh, dgEn] = af(x, "dg"), [, lgEn] = af(x, "lg"), [, naEn] = af(x, "na");
+    if (P.restrict.test(title + " " + rq + " " + naEn)) out.push("公告写明限本国 / 本土学生");
     if (!levels.some(lv => has(P.levels, lv))) out.push("层次不符（岗位是" + levels.map(lv => lv === "postdoc" ? "博后" : "博士").join("、") + "）");
     else if (!has(levels, "phd") && P.deg < 3) out.push("博后岗位要求博士学位");
     m = /学位要求：([^；]*)/.exec(rq);
-    if (m && has(levels, "phd") && P.deg < 2 && /Master|Magister|Diplom/.test(m[1]) && m[1].indexOf("Bachelor") < 0) out.push("要求硕士学位");
-    m = /IELTS[^0-9；]{0,30}(\d(?:\.\d)?)/.exec(rq);
-    if (m && P.ielts !== null && +P.ielts < +m[1]) out.push(`雅思要求 ${m[1]}（你 ${P.ielts}）`);
-    m = /TOEFL[^0-9；]{0,30}(\d{2,3})/.exec(rq);
-    if (m && P.toefl !== null && P.ielts === null && +P.toefl < +m[1]) out.push(`托福要求 ${m[1]}（你 ${P.toefl}）`);
+    const dg = dgEn + " " + dgZh;
+    if (has(levels, "phd") && P.deg < 2 && ((m && /Master|Magister|Diplom/.test(m[1]) && m[1].indexOf("Bachelor") < 0)
+      || (/master|M\.?Sc|MPhil|硕士/i.test(dg) && !/bachelor|B\.?Sc|undergraduate|本科|学士/i.test(dg)))) out.push("要求硕士学位");
+    m = /IELTS[^0-9；]{0,30}(\d(?:\.\d)?)/.exec(rq + " " + lgEn);
+    if (m && P.ielts !== null && +P.ielts < +m[1]) out.push(`雅思要求 ${m[1]}（你 ${+P.ielts}）`);
+    m = /TOEFL[^0-9；]{0,30}(\d{2,3})/.exec(rq + " " + lgEn);
+    if (m && P.toefl !== null && P.ielts === null && +P.toefl < +m[1]) out.push(`托福要求 ${m[1]}（你 ${+P.toefl}）`);
     if (P.german_re.test(title + " " + rq) && P.german < R.cefr.B2) out.push("要求德语");
+    const zhEn = {};
+    Object.keys(R.langs).forEach(k => { zhEn[R.langs[k]] = k; });
+    for (const mm of (x.lt || "").matchAll(new RegExp(R.lt_level, "g"))) {
+      const zh = mm[1], lvl = mm[2], en = zhEn[zh];
+      const have = en === "German" ? P.german : (has(P.known, en) ? R.cefr.C2 : 0);
+      if (R.cefr[lvl] >= R.cefr.B2 && have < R.cefr[lvl] && !out.some(o => o.indexOf(zh) >= 0)) out.push(`要求${zh} ${lvl}`);
+    }
+    requiredLangs(lgEn, P).forEach(lang => {
+      if (!has(P.known, lang) && !(lang === "German" && has(out, "要求德语"))) out.push(`要求${R.langs[lang]}（申请须知原句）`);
+    });
     if (P.local_re.test(title) && !P.local_ok) out.push("公告用挪威语 / 瑞典语 / 丹麦语 / 荷兰语发布");
     if (nDays !== null && nDays < P.prep) out.push(`截止太近（还有 ${nDays} 天，少于你设的准备期 ${P.prep} 天）`);
-    const js = parseStart(rq);
+    let js = parseStart(rq);
+    if (js === null) js = parseAfStart(...af(x, "sd"), P.start_soft);
     if (js !== null && P.start !== null && js < P.start - 31) out.push(`开始时间 ${isoMonth(js)} 早于你能入学的 ${isoMonth(P.start)}`);
     const ok = R.coverage_ok[P.min_cov];
     if (ok && !has(ok, c)) out.push(P.min_cov === "confirmed" ? "资助未写明全奖 / 带薪" : `资助低于你的底线（${COVERAGE_ZH[c] || c}）`);
@@ -269,12 +315,17 @@
     const P = prepare(profile, R), today = ymd(todayIso);
     // 先数每个关键词在现在可申请的机会里命中多少条，用来给常见词降权
     const df = {};
-    P.keywords.forEach(kw => { df[kw.k] = 0; });
+    const litDf = {};  // 原词本身出现的条数（词表只覆盖一部分的复合词看这个）
+    P.keywords.forEach(kw => { df[kw.k] = 0; litDf[kw.k] = 0; });
     rows.forEach(x => {
       const o = x.o, dl = (o || {}).dl || x.dl || "";
       if (!o || (String(dl).length === 10 && ymd(dl) < today)) return;
       const [t, b] = matchTexts(x, P);
-      P.keywords.forEach(kw => { if (kwHitsText(kw, t) || kwHitsText(kw, b)) df[kw.k]++; });
+      P.keywords.forEach(kw => {
+        if (!(kwHitsText(kw, t) || kwHitsText(kw, b))) return;
+        df[kw.k]++;
+        if (kw.lit && (find(kw.lit[0], t) >= 0 || find(kw.lit[0], b) >= 0)) litDf[kw.k]++;
+      });
     });
     P.keywords.forEach(kw => { P.kwf[kw.k] = specificity(df[kw.k], R.weights); });
     const ranked = [], related = [], excluded = [], byId = {};
@@ -294,7 +345,7 @@
     ranked.sort(byScore);
     related.sort(byScore);
     excluded.sort((a, b) => (b.parts.research - a.parts.research) || cmp(a.id, b.id));
-    return {ranked, related, excluded, unrelated, considered, disc: P.disc};
+    return {ranked, related, excluded, unrelated, considered, disc: P.disc, kw_df: P.keywords.map(kw => [kw.k, df[kw.k], kw.need_lit && kw.concepts.length ? litDf[kw.k] : null])};
   }
 
   const api = {prepare, assess, rank, monthlyEur, DISC_ZH};

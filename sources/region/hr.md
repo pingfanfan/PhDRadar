@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 克罗地亚（HR） 信源（5）
+# 克罗地亚（HR） 信源（6）
 
-所有标注了地区 HR 的信源，共 5 条。
+所有标注了地区 HR 的信源，共 6 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [各国学术招聘门户与机构职位页 1](hr.md#national-portals) · [结构化博士项目与研究机构 3](hr.md#doctoral-programs) · [博士后奖学金与项目 1](hr.md#postdoc-fellowships)
+**按分类跳转：** [各国学术招聘门户与机构职位页 1](hr.md#national-portals) · [高校旗舰奖学金与资助检索 1](hr.md#university-schemes) · [结构化博士项目与研究机构 3](hr.md#doctoral-programs) · [博士后奖学金与项目 1](hr.md#postdoc-fellowships)
 
 <a id="national-portals"></a>
 
@@ -17,6 +17,14 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [克罗地亚 HRZZ 项目团队招聘说明](https://hrzz.hr/en/project-implementation/recruiting-project-team-members/)<br><sub>克罗地亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 岗位由项目负责人在依托机构招聘；招聘前须将申请材料交 HRZZ 并获书面批准，获批后方可签订劳动合同。具体资格以各征集为准。<br>HRZZ 页面称：Installation Research Project 负责人可聘博士生 4 年及博后（依征集而定）；Research Project 负责人可承担所聘博士生学费 3 年，并聘博后最长 2 年（依征集而定）。 |
+
+<a id="university-schemes"></a>
+
+## 高校旗舰奖学金与资助检索（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [鲁杰·博什科维奇研究所（RBI）研究岗位页](https://www.irb.hr/eng/About-RBI/Available-Research-Jobs)<br><sub>克罗地亚 ｜ 化学/材料·生物/生命科学·物理/天文·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>岗位按公告单独截止，需逐条查看</sub> | ❔ | **要求：** 多数岗位要求博士学位；国籍与语言要求以各岗位公告为准<br>克罗地亚最大国立研究所，岗位多为带薪合同（含博士与博后）。以本页逐条核对截止与资格。 |
 
 <a id="doctoral-programs"></a>
 

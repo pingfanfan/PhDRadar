@@ -171,3 +171,9 @@ def test_university_list_page():
 <p>Application deadline: The deadline for applications is 23 October 2026, 23:59 CET.</p>"""
     row, why = ats.ls_detail("ku-170609", out[0][1], page, TODAY)
     assert why == "收录" and row["deadline"] == "2026-10-23" and row["via"] == "University of Copenhagen"
+
+
+def test_deadline_long_apply_sentence_and_spaced_ordinal():
+    text = ("You can apply for this vacancy through the University of Antwerp’s online job application platform until "
+            "November 12 th 2026 . Click on the 'Apply' button")
+    assert ats.deadline(text)[0] == "2026-11-12"

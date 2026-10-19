@@ -401,6 +401,10 @@ def cmd_fetch(args) -> int:
 
 # ───────────────────────── 子代理批次 ─────────────────────────
 
+SECOND_DOC = r"curriculum vitae|\bCV\b|cover letter|motivation letter|letter of motivation|transcripts?|referees|lettre de motivation|Lebenslauf|Anschreiben|Zeugnisse"
+SECOND_LANG = r"IELTS|TOEFL|fluent|proficien|command of (the )?English|English (language )?skills|Englischkenntnisse|Deutschkenntnisse|anglais"
+
+
 def cmd_bundle(args) -> int:
     today = args.today or date.today().isoformat()
     data = load_yaml(OUT, {})
@@ -409,7 +413,15 @@ def cmd_bundle(args) -> int:
     rows = []
     for p in live_postings(today):
         rec = data.get(p["id"]) or {}
-        if rec.get("llm") or rec.get("error") or not cache_path(p["id"]).exists():
+        if rec.get("error") or not cache_path(p["id"]).exists():
+            continue
+        if args.second_pass:  # 第二遍：已抽过、但正文明显写了材料或语言却没取到的岗位
+            text = cache_path(p["id"]).read_text(encoding="utf-8")
+            if not rec.get("llm") or rec.get("llm2") or sum(k in rec for k in KEY3) >= 2 or not (
+                    ("documents" not in rec and re.search(SECOND_DOC, text, re.I))
+                    or ("language" not in rec and re.search(SECOND_LANG, text, re.I))):
+                continue
+        elif rec.get("llm"):
             continue
         if all(k in rec for k in FIELDS):
             continue
@@ -437,7 +449,8 @@ def parse_out(path: Path) -> list:
             return []
 
 
-def apply_rows(data: dict, rows: list, bodies: dict[str, str], today: str, verbose: bool = False) -> dict[str, int]:
+def apply_rows(data: dict, rows: list, bodies: dict[str, str], today: str, verbose: bool = False,
+               mark: str = "llm") -> dict[str, int]:
     stats: dict[str, int] = {}
 
     def bump(k):
@@ -463,7 +476,7 @@ def apply_rows(data: dict, rows: list, bodies: dict[str, str], today: str, verbo
                 continue
             rec[name] = {"value": f["value"].strip(), "quote": f["quote"].strip()}
             bump(f"通过·{name}")
-        rec["llm"] = today
+        rec[mark] = today
     return stats
 
 
@@ -482,7 +495,7 @@ def cmd_apply(args) -> int:
         if not rows:
             print(f"{o.name} 解析失败或为空")
             continue
-        for k, v in apply_rows(data, rows, bodies, today, args.verbose).items():
+        for k, v in apply_rows(data, rows, bodies, today, args.verbose, "llm2" if args.second_pass else "llm").items():
             total[k] = total.get(k, 0) + v
     print(dict(sorted(total.items())))
     if not args.dry_run:
@@ -560,11 +573,13 @@ def main() -> int:
     a = sub.add_parser("bundle")
     a.add_argument("--dir", required=True)
     a.add_argument("--size", type=int, default=15)
+    a.add_argument("--second-pass", action="store_true", help="对已抽过但漏了材料/语言的岗位再抽一遍")
     a.add_argument("--limit", type=int, default=0)
     a = sub.add_parser("apply")
     a.add_argument("--dir", required=True)
     a.add_argument("--dry-run", action="store_true")
     a.add_argument("-v", "--verbose", action="store_true")
+    a.add_argument("--second-pass", action="store_true", help="第二遍的输出：记 llm2，避免重复抽")
     sub.add_parser("rules")
     a = sub.add_parser("recheck")
     a.add_argument("-v", "--verbose", action="store_true")

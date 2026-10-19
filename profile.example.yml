@@ -19,7 +19,7 @@ education:                   # 从高到低或按时间都可以
     status: completed
 
 research:
-  keywords: [医学影像, 深度学习, MRI 重建, 图像分割]   # 中英文都可以，3–6 个最好
+  keywords: [医学影像, 深度学习, MRI reconstruction, image segmentation]   # 中英文都可以，6–8 个最好；多写岗位标题里会用的英文说法
   disciplines: []            # 可选：ai / med / ...（不填就从关键词推断，见 docs/schema.md 的学科代码）
   interests: |
     用深度学习做快速 MRI 重建和脑肿瘤分割，关心模型在临床数据上的泛化与不确定性。

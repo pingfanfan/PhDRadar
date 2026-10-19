@@ -2,7 +2,7 @@
 
 画像驱动 `/rank` 的硬性筛选和打分，也是网站“为我推荐”表单的完整版。示例见 [`profile.example.yml`](../profile.example.yml)。
 
-**隐私**：`profile.yml`、`cv-facts.yml`、`applications/`、`rankings/` 都写进了 `.gitignore`，只留在申请者自己的电脑或私有仓库里，永不提交到公开仓库。网站版画像只存在浏览器 localStorage，不上传。
+**隐私**：`profile.yml`、`cv-facts.yml`、`applications/`、`rankings/` 都写进了 `.gitignore`，只留在申请者自己的电脑或私有仓库里，永不提交到公开仓库。网站版画像只存在浏览器 localStorage，不上传；“为我推荐”里的“下载为 profile.yml”在本机生成文件，放进 fork 的仓库后用 `/setup` 补全、`/rank` 排序。
 
 ## profile.yml
 
@@ -35,6 +35,7 @@
 **硬性筛选**（命中任一条就排除，并写明原因）：
 中国学生不可申请 / 公告写明限本国学生 · 层次不符 / 博后要求博士学位 · 要求硕士学位而入学前只有学士 · 雅思 / 托福不够 · 要求德语 · 公告用挪威语 / 瑞典语 / 丹麦语 / 荷兰语发布（画像 `languages.other` 写了该语言则保留）·
 截止太近 · 开始时间早于你能入学的时间 · 资助低于底线（金额低于底线）· 不在可接受的国家。
+学位、语言、开始时间同时读工程 A 从岗位原文提取的申请须知字段（`af.dg` / `af.lg` / `af.sd` 原句）：只有“必须会”的语言才算要求（“French is an asset”“English or French”不算），开始时间写了“或协商 / flexible”的不算确定日期。
 官网没写的条件一律**不排除**（不猜），只在理由里提示“待核实”。
 
 **打分**（0–100，规则与权重在 `scripts/rank_rules.py`，评测见 [`docs/rank-eval.md`](rank-eval.md)）：

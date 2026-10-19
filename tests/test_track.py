@@ -201,3 +201,23 @@ def test_new_matches_uses_profile_and_skips_known(tmp_path):
     assert [m["id"] for m in got] == ["b"]
     text = track.weekly(entries, date(2026, 10, 19), postings=[], ranking_dirs=[], matches=got)
     assert "Machine learning for medical imaging" in text and "按你的画像" in text
+
+
+def test_changes_and_sync():
+    """平台上截止日期变了要提醒并可同步；截止前从平台消失要提醒；已投的、自定义的不管。"""
+    today = date(2026, 10, 19)
+    entries = [track.normalize(e) for e in [
+        {"id": "jobs-ac-uk:A", "title": "A", "url": "https://x/a", "deadline": "2026-11-30", "stage": "want"},
+        {"id": "jobs-ac-uk:B", "title": "B", "url": "https://x/b", "deadline": "2026-12-15", "stage": "prep"},
+        {"id": "jobs-ac-uk:C", "title": "C", "url": "https://x/c", "deadline": "2026-12-15", "stage": "sent"},
+        {"id": "custom:1", "title": "D", "url": "https://x/d", "deadline": "2026-12-15", "stage": "want"},
+    ]]
+    postings = [{"id": "jobs-ac-uk:A", "deadline": "2026-11-20", "quote": "Closes: 20th November 2026"},
+                {"id": "jobs-ac-uk:Z", "deadline": "2027-01-01"}]
+    found = track.changes(entries, postings, today)
+    assert [(e["id"], k) for e, k, _ in found] == [("jobs-ac-uk:A", "deadline"), ("jobs-ac-uk:B", "gone")]
+    lines = track.change_lines(found)
+    assert "2026-11-20" in lines[0] and "下架" in lines[1]
+    assert track.sync(entries, postings, today) == 1
+    assert entries[0]["deadline"] == "2026-11-20" and "2026-11-30 → 2026-11-20" in entries[0]["notes"]
+    assert track.changes(entries, postings, today)[0][1] == "gone"  # 同步后只剩下架提醒

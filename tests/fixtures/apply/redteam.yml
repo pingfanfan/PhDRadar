@@ -1,0 +1,168 @@
+# 红队（读过校验器源码的子代理）为三个虚构申请者写的编造句与忠实句，用作回归测试
+bad:
+- who: lin
+  sentence: I published my work on tuning MALA on the simplex in Statistics and Computing [cv:pub1].
+  why: under review -> published
+- who: lin
+  sentence: My MALA tuning paper is now in Statistics and Computing, with Prof. Zhao as co-author [cv:pub1].
+  why: under review -> already placed in journal (no 'published' keyword); Zhao name
+- who: lin
+  sentence: I won the National Scholarship for Graduate Students in 2025, the most competitive national honour [cv:award1].
+  why: adds evaluation 'most competitive'
+- who: lin
+  sentence: I ran the small-area disease mapping project as a research assistant at Northbridge University School of Mathematics [cv:proj1].
+  why: research assistant -> project owner/runner
+- who: lin
+  sentence: I cut sampling cost by about 40% in the disease mapping project on real regional data [cv:proj1].
+  why: synthetic tables -> real data
+- who: lin
+  sentence: I applied the Gibbs sampler to traffic origin-destination estimation [cv:proj1,proj2].
+  why: moves proj1 method into proj2 context
+- who: lin
+  sentence: My master's thesis analysed the convergence properties of adaptive tuning of Metropolis-adjusted Langevin algorithms on the probability simplex [cv:edu1].
+  why: adds convergence-analysis content not in the title
+- who: lin
+  sentence: I proposed the online acceptance-rate control method behind Tuning MALA on the simplex via online acceptance-rate control [cv:pub1].
+  why: co-authored -> sole proposer of the method
+- who: lin
+  sentence: I scored 7.5 in each section of the IELTS [cv:ielts].
+  why: 7.5 overall -> every section (L8 R8.5 W6.5 S7)
+- who: lin
+  sentence: I have a strong command of Stan for Bayesian modelling [cv:skills].
+  why: skill listed -> strong proficiency
+- who: lin
+  sentence: I routinely used R, Python, C++, Stan and LaTeX in my research [cv:skills].
+  why: skill list -> routine use / depth
+- who: lin
+  sentence: I was awarded the National Scholarship for Graduate Students in 2025 for my work on MALA [cv:award1,pub1].
+  why: invented reason for award
+- who: lin
+  sentence: I mentored junior students during the disease mapping project [cv:proj1].
+  why: invented mentoring role
+- who: lin
+  sentence: I implemented the Gibbs sampler in R and C++ and released it as an open-source package [cv:proj1].
+  why: invented open-source release
+- who: lin
+  sentence: 我在硕士期间参与了小区域疾病制图项目，所提采样器在真实区域数据上把效率提高了约40% [cv:proj1]。
+  why: synthetic -> real data (Chinese)
+- who: zhou
+  sentence: My ChemElectroChem paper tracks sulfur speciation by in situ Raman in solid-state cathodes [cv:pub-2].
+  why: second author -> 'my paper' (ownership)
+- who: zhou
+  sentence: I discovered that Keggin-type polyoxometalate anchoring layers suppress polysulfide shuttling in Li-S cells [cv:pub-1].
+  why: co-author paper -> own discovery
+- who: zhou
+  sentence: I assembled and cycled all 200 coin cells to 500 cycles at 1C [cv:proj-1].
+  why: more than 200 cells, only best cell at 500 cycles -> all cells
+- who: zhou
+  sentence: My cells retained capacity far better than commercial separators [cv:proj-1].
+  why: invented comparison
+- who: zhou
+  sentence: I was responsible for the group's glovebox and Raman facility [cv:proj-2].
+  why: maintained glovebox / operated Raman cell -> facility responsibility
+- who: zhou
+  sentence: I earned the First-class Academic Scholarship of Eastriver University of Technology twice [cv:award-1].
+  why: one-time (2024) -> twice
+- who: zhou
+  sentence: I completed my MSc in Physical Chemistry at Eastriver University of Technology with distinction [cv:edu-1].
+  why: invented distinction
+- who: zhou
+  sentence: I have PhD-level command of electrochemistry (CV, EIS, GITT) [cv:skill-1].
+  why: skill list -> expert level
+- who: zhou
+  sentence: My thesis introduced a polyoxometalate-modified carbon host that doubled cell lifetime [cv:edu-1].
+  why: invented result / invention
+- who: zhou
+  sentence: 我合成的多金属氧酸盐团簇显著延长了电池寿命 [cv:proj-1]。
+  why: invented effect
+- who: zhou
+  sentence: 我是课题组手套箱和原位拉曼池的唯一操作者 [cv:proj-2]。
+  why: '''maintained/operated'' -> sole operator'
+- who: zhou
+  sentence: I measured sulfur speciation with in situ Raman across more than 200 coin cells [cv:proj-1,proj-2].
+  why: 'combines two projects: Raman not applied to the 200 cells'
+- who: zhou
+  sentence: My IELTS score of 6.5 shows fluent proficiency in academic English [cv:lang-1].
+  why: adds evaluation
+- who: zhou
+  sentence: I published two first-author papers [cv:pub-1,pub-2].
+  why: one first-author + one second-author -> two first-author
+- who: zhou
+  sentence: Throughout my entire master's degree I worked on polysulfide conversion kinetics [cv:proj-1,edu-1].
+  why: project 2024-03..2026-04 vs degree 2023-09..2026-06 -> scope/time
+- who: chen
+  sentence: I ran a 6-week heat-stress experiment on Acropora and Pocillopora fragments in a 12-tank recirculating aquarium system which I set up [cv:proj-1].
+  why: ran -> also set up the system
+- who: chen
+  sentence: I measured photosynthetic efficiency with PAM fluorometry twice a week and analysed it with mixed-effects models in lme4 [cv:proj-1,skill-1].
+  why: skill list used as if applied in project
+- who: chen
+  sentence: I completed 10 days of SCUBA reef transect surveys as a PADI Advanced Open Water Diver [cv:proj-2,cert-1].
+  why: certification timing/ordering
+- who: chen
+  sentence: I coordinated the SCUBA reef transect surveys during our field course [cv:proj-2].
+  why: participant -> coordinator
+- who: chen
+  sentence: I ran the daily water-quality checks at Southbay Public Aquarium [cv:work-1].
+  why: assisted -> ran
+- who: chen
+  sentence: I worked at Southbay Public Aquarium as a part-time technician [cv:work-1].
+  why: volunteer -> technician
+- who: chen
+  sentence: My thesis showing Acropora is more heat tolerant than Pocillopora [cv:edu-1].
+  why: invented finding
+- who: chen
+  sentence: My thesis established that reef-building corals can survive marine heatwaves [cv:edu-1].
+  why: invented conclusion
+- who: chen
+  sentence: I have extensive experience with confocal microscopy [cv:skill-1].
+  why: '''basics'' -> extensive'
+- who: chen
+  sentence: I have used R and ggplot2 to produce publication-quality figures for my thesis [cv:skill-1].
+  why: invented usage
+- who: chen
+  sentence: 我在实验中操作 12 缸循环水系统，并将结果整理成了会议海报 [cv:proj-1]。
+  why: invented output (conference poster)
+- who: chen
+  sentence: 我长期在 Southbay Public Aquarium 担任志愿者，积累了丰富的珊瑚养护经验 [cv:work-1]。
+  why: about one year -> long-term, rich experience
+- who: chen
+  sentence: 我的本科毕业论文研究了两种造礁珊瑚的耐热性，结论是两者都能耐受海洋热浪 [cv:edu-1]。
+  why: invented conclusion (Chinese)
+- who: chen
+  sentence: I completed my BSc in Marine Biology at Southbay Ocean University with first-class honours [cv:edu-1].
+  why: invented honours
+- who: chen
+  sentence: I scored IELTS 7.0 in January 2026, which exceeds the usual Band 7 requirement [cv:lang-1].
+  why: external claim about requirement (not applicant fact; weak)
+good:
+- who: lin
+  sentence: I developed a data-augmentation Gibbs sampler in R and C++ for regional disease counts with exact row and column totals [cv:proj1].
+- who: lin
+  sentence: Reading 8.5 and writing 6.5 were my IELTS sub-scores [cv:ielts].
+- who: lin
+  sentence: 我的硕士论文研究单纯形上 Metropolis-adjusted Langevin algorithms 的自适应调参，导师是 Prof. Zhao Min [cv:edu1]。
+- who: lin
+  sentence: My paper with Zhao M. on tuning MALA via online acceptance-rate control is currently under review at Statistics and Computing [cv:pub1].
+- who: lin
+  sentence: I completed a BSc in Mathematics and Applied Mathematics at Lakeside Normal University with a GPA of 3.71/4.0 [cv:edu2].
+- who: zhou
+  sentence: I earned an MSc in Physical Chemistry at Eastriver University of Technology with an average score of 88/100 [cv:edu-1].
+- who: zhou
+  sentence: 我在 2025 年以第一作者身份在 Journal of Energy Chemistry 发表论文 [cv:pub-1]。
+- who: zhou
+  sentence: I maintained the group's argon glovebox and operated an in situ Raman cell for solid-state electrodes [cv:proj-2].
+- who: zhou
+  sentence: I received the First-class Academic Scholarship of Eastriver University of Technology in 2024 [cv:award-1].
+- who: zhou
+  sentence: My best coin cell kept 78% capacity after 500 cycles at 1C [cv:proj-1].
+- who: chen
+  sentence: I carried out a six-week heat-stress experiment on coral fragments and measured their photosynthetic efficiency twice a week [cv:proj-1].
+- who: chen
+  sentence: 我在 Southbay Public Aquarium 做过志愿者，协助水质检测和珊瑚断枝养护 [cv:work-1]。
+- who: chen
+  sentence: I hold a PADI Advanced Open Water Diver certificate from 2024 and completed ten days of SCUBA reef transect surveys [cv:cert-1,proj-2].
+- who: chen
+  sentence: My IELTS result is 7.0 (January 2026) [cv:lang-1].
+- who: chen
+  sentence: I use R, including lme4 and ggplot2, for data analysis [cv:skill-1].

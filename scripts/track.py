@@ -322,6 +322,48 @@ def remind(entries: list[dict], today: date) -> list[str]:
     return out
 
 
+def changes(entries: list[dict], postings: list[dict], today: date) -> list[tuple[dict, str, dict | None]]:
+    """看板里来自招聘平台的岗位，与最新 _data/postings.yml 对比：截止日期变了 → ("deadline", 新岗位)；
+    截止前从平台消失（可能提前截止、招满或撤下）→ ("gone", None)。只看还在想投 / 准备中的条目。"""
+    by_id = {_str(p.get("id")): p for p in postings}
+    prefixes = {i.split(":", 1)[0] for i in by_id if ":" in i}
+    out = []
+    for e in entries:
+        if e["stage"] not in ("want", "prep") or ":" not in e["id"] or e["id"].split(":", 1)[0] not in prefixes:
+            continue
+        p = by_id.get(e["id"])
+        if p is None:
+            n = days_left(e, today)
+            if n is None or n >= 0:
+                out.append((e, "gone", None))
+        elif _str(p.get("deadline")) and _str(p.get("deadline")) != e["deadline"]:
+            out.append((e, "deadline", p))
+    return out
+
+
+def change_lines(found: list[tuple[dict, str, dict | None]]) -> list[str]:
+    out = []
+    for e, kind, p in found:
+        name = e["title"] or e["id"]
+        if kind == "deadline":
+            out.append(f"截止日期有变：{name} 平台上现在写 {_str(p.get('deadline'))}（原句：{_str(p.get('quote'))}），看板里是 {e['deadline']}。"
+                       f"运行 sync 更新，并到官网确认。 {e['url']}")
+        else:
+            out.append(f"岗位已从平台下架：{name}（截止 {e['deadline']} 之前就不见了，可能已提前截止、招满或撤下），请到官网确认。 {e['url']}")
+    return out
+
+
+def sync(entries: list[dict], postings: list[dict], today: date) -> int:
+    """把平台上更新过的截止日期写回看板（下架的不动，只提醒）。"""
+    n = 0
+    for e, kind, p in changes(entries, postings, today):
+        if kind == "deadline":
+            e["notes"] = (e.get("notes", "") + f"\n{today.isoformat()} 截止日期 {e['deadline']} → {_str(p.get('deadline'))}").strip()
+            e["deadline"], e["deadline_note"] = _str(p.get("deadline")), _str(p.get("quote"))
+            n += 1
+    return n
+
+
 def latest_ranking(dirs: list[Path]) -> Path | None:
     files = [f for d in dirs if d.is_dir() for f in d.glob("*.md")]
     return max(files, key=lambda f: (f.stat().st_mtime, f.name)) if files else None
@@ -515,6 +557,7 @@ def main(argv: list[str] | None = None) -> int:
     w = sub.add_parser("weekly", help="每周摘要")
     w.add_argument("--profile", help="画像文件（默认 profile.yml；存在时按画像列出新匹配机会）")
     w.add_argument("--out", type=Path)
+    sub.add_parser("sync", help="把平台上更新过的截止日期写回看板")
     i = sub.add_parser("ics", help="导出截止日历 .ics")
     i.add_argument("--out", type=Path)
     im = sub.add_parser("import-site", help="导入网站“我的收藏”导出的 JSON")
@@ -560,7 +603,7 @@ def main(argv: list[str] | None = None) -> int:
     elif args.cmd == "board":
         print(board(entries, today), end="")
     elif args.cmd == "remind":
-        items = remind(entries, today)
+        items = remind(entries, today) + change_lines(changes(entries, load_postings(), today))
         print("\n".join(f"- {x}" for x in items) if items else f"今天（{today.isoformat()}）没有需要提醒的事。")
     elif args.cmd == "weekly":
         matches = None
@@ -579,6 +622,10 @@ def main(argv: list[str] | None = None) -> int:
         out.write_text(text, encoding="utf-8")
         print(text, end="")
         print(f"\n已写入 {out}")
+    elif args.cmd == "sync":
+        n = sync(entries, load_postings(), today)
+        save_tracker(path, entries)
+        print(f"已更新 {n} 条截止日期。" + ("" if n else "（没有变化）"))
     elif args.cmd == "ics":
         text = ics(entries, today)
         out = args.out or outdir / "deadlines.ics"

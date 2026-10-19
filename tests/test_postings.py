@@ -448,3 +448,42 @@ def test_more_open_eligibility_phrases():
               "The Broad Institute will offer visa sponsorship for this opportunity.", "available to UK and International students"]:
         assert cp.cn_of(t) == "yes", t
     assert cp.cn_of("Visa sponsorship is not available for this position.") == "check"
+
+
+def test_tamu_org_from_em_and_citizens_only():
+    import platforms_boards as b
+    page = ("<html><title>M.S. or Ph.D. Graduate Assistantship | Natural Resources Job Board</title><body>"
+            "<h3>M.S. or Ph.D. Graduate Assistantship</h3> <p> <em>Texas A&amp;M - Kingsville (State)</em> | "
+            '<a href="https://www.tamuk.edu/">https://www.tamuk.edu/</a> </p> <h6>Details</h6> Application Deadline: 10/31/2026 '
+            "Salary: $2,000 to $2,500 per month Education Required: Bachelors Location: Kingsville, Texas Tags: Graduate "
+            "Description Funded assistantship. Applicants must be U.S. citizens only.</body></html>")
+    row, why = b.tamu_detail("118359", "u", page, TODAY)
+    assert why == "收录" and row["org"] == "Texas A&M - Kingsville" and row["cn"] == "no"
+
+def test_fapesp_detail():
+    import platforms_br as br
+    page = ('<h3 class="detalhe pt">Bolsa de PD</h3><h3 class="detalhe en">Post-Doctoral Fellowship in Genetic endocrinology</h3>'
+            '<p class="linha en"><strong>Value:    </strong> R$ 12.570,00 (consulte os valores de Bolsas da FAPESP).</p>'
+            '<p class="linha en instituicao"><strong>Unit/Instituition:   </strong> FMUSP/USP</p>'
+            '<p class="linha pt"><strong>Data limite para inscrições: </strong> 23/10/2026</p>'
+            '<p class="linha en"><strong>Deadline for submissions:    </strong> 2026-10-23</p>'
+            '<p class="linha en local"><strong>Locale:      </strong>São Paulo</p>')
+    row, why = br.fapesp_detail("9917", "u", page, TODAY)
+    assert why == "收录" and row["level"] == "postdoc" and row["deadline"] == "2026-10-23" and row["amount"] == "R$ 12.570,00"
+    assert row["org"] == "FMUSP/USP" and row["place"] == "São Paulo" and row["country"] == "BR"
+    master = page.replace("Post-Doctoral Fellowship", "Master's Fellowship")
+    assert br.fapesp_detail("1", "u", master, TODAY) == (None, "非博士/博后岗位")
+    item = '<li class="box_col aberta x tipo_1 en">\n <a href="/oportunidades/Control/../centro-(epic)/9768/">'
+    assert br.FAPESP_ITEM.findall(item) == [("1", "centro-(epic)/9768/", "9768")]
+
+
+def test_linguistlist_detail():
+    import platforms_boards as b
+    page = ("<html><body>Subject: Psycholinguistics: PhD, University of Alberta E-mail this message to a friend "
+            "Institution/Organization: University of Alberta Department: Linguistics Level: PhD Description: Accepted PhD students "
+            "are provided four years of funding in the form of TA and RA stipends ($25,000 per year minimum). "
+            "Application Deadline: 15-Jan-2027 Mailing Address</body></html>")
+    row, why = b.ll_detail("37-3335", "u", page, TODAY)
+    assert why == "收录" and row["deadline"] == "2027-01-15" and row["org"] == "University of Alberta" and row["level"] == "phd"
+    assert row["amount"].startswith("stipends ($25,000")
+    assert b.ll_detail("1", "u", page.replace("Application Deadline: 15-Jan-2027", ""), TODAY) == (None, "页面无截止日期")

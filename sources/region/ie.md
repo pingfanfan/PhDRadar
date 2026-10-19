@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 爱尔兰（IE） 信源（15）
+# 爱尔兰（IE） 信源（18）
 
-所有标注了地区 IE 的信源，共 15 条。
+所有标注了地区 IE 的信源，共 18 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [政府与国家级奖学金 2](ie.md#gov-scholarships) · [高校旗舰奖学金与资助检索 8](ie.md#university-schemes) · [结构化博士项目与研究机构 1](ie.md#doctoral-programs) · [博士后奖学金与项目 2](ie.md#postdoc-fellowships) · [企业与基金会 Fellowship 2](ie.md#fellowships)
+**按分类跳转：** [政府与国家级奖学金 2](ie.md#gov-scholarships) · [高校旗舰奖学金与资助检索 8](ie.md#university-schemes) · [结构化博士项目与研究机构 1](ie.md#doctoral-programs) · [博士后奖学金与项目 3](ie.md#postdoc-fellowships) · [企业与基金会 Fellowship 3](ie.md#fellowships) · [导师招生帖（社交平台个人发布） 1](ie.md#recruiting-posts)
 
 <a id="gov-scholarships"></a>
 
@@ -44,19 +44,29 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（2）
+## 博士后奖学金与项目（3）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Government of Ireland Postdoctoral Fellowship](https://www.research.ie/funding/goipd/)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>第1年 €46,305，第2年 €47,879（页面所载，征集开放时的薪级标准）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 2025-10-23 截止，结果 2026 年 4 月公布；2027 轮官网未见公告，可能于 2026 年秋季发布（未核实）。</sub> | ❔ | **要求：** 需在爱尔兰合格高校找到合作导师；第三方转述 2026 轮要求 5 年内获博士学位，请以官方征集文件为准。<br>页面标注 'CURRENT CALL CLOSED'；页面所列薪资与关键日期对应 2024 年征集（申请截止 2024 年 10 月 10 日），当前轮次以官方征集文件为准。 |
 | [Irish Cancer Society 癌症研究博后奖学金（须在爱尔兰宿主机构）](https://cancer.ie/cancer-research/researchers-hub/apply-for-funding/fellowships)<br><sub>爱尔兰 ｜ 医学/公卫·生物/生命科学·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 研究须在爱尔兰共和国宿主机构进行；博士毕业 0–5 年（翻译研究类）或 0–6 年（社会/护理类）；需至少一名有经验的学术导师；检索到的资料未见国籍限制（资料多为 2020–2024 年，当期以官网为准）<br>各项目轮次不同，当期截止日请在官网查看；国籍限制以官方说明为准。 |
+| [Research Ireland 企业伙伴博后计划（EPS Postdoctoral）](https://research.ie/funding/eps-postdoc/?f=)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2025 Partnership Stream 截止 2025 年 7 月 15 日（已过）；2026 轮未确认</sub> | ❔ | 企业伙伴博后计划：2025 轮 Partnership Stream 已截止。官网称 Partnership Stream 将再运行一次，时间未公布，以 researchireland.ie 为准。 |
 
 <a id="fellowships"></a>
 
-## 企业与基金会 Fellowship（2）
+## 企业与基金会 Fellowship（3）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [Research Ireland 企业伙伴博士计划（EPS Postgraduate）](https://www.researchireland.ie/funding/enterprise-partnership-postgraduate/)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>€25,000/年</sub> | **2026-02-24**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮截止 2026 年 2 月 24 日，已关闭；2027 轮是否开放以 researchireland.ie 为准</sub> | ❔ | 企业伙伴博士计划（EPS）2025 轮（2025-04-10 截止，最高约 €34,000/年）已结束。Research Ireland 官网未见 2026 轮公告；以 researchireland.ie 官方页为准。 |
 | [爱尔兰海洋研究所 Cullen 博士奖学金](https://www.marine.ie/site-area/research-funding/research-funding/cullen-scholarship-2025-call)<br><sub>爱尔兰 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>每年约 6 月初截止（2025 轮为 6 月 10 日）；2026 轮未见公告，可邮件 funding@marine.ie 核实</sub> | ❔ | **要求：** 宿主须为爱尔兰岛内高校导师；国际生资格以当年公告为准<br>每轮约 10 个海洋科学博士名额，挂靠 Marine Institute 项目。 |
 | [都柏林圣三一学院 Ussher 奖学金（博士）](https://www.tcd.ie/study/international/scholarships/postgraduate/ussher.php)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>页面写作每月生活津贴 €13,000，共三年（原文 monthly maintenance），与条目“每年”口径不一致，需核实</sub> | —<br><sub>页面未列出截止日期，称需与博士申请同时提交。</sub> | ✅ | **要求：** 仅限新入读全日制博士的学生；通常需一等荣誉学位或 TCD 硕士学位；面向所有国籍。<br>页面称全额覆盖学费并提供生活津贴，按学术成绩竞争授予，需与博士申请同时提交。页面未写明面向国际申请者，也未列截止日期。 |
+
+<a id="recruiting-posts"></a>
+
+## 导师招生帖（社交平台个人发布）（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Print4Life 博士网络（生物医学增材制造）](https://www.uu.se/en/department/materials-science-and-engineering/research/divisions/biomedical-engineering/biomaterial-systems/print4life)<br><sub>瑞典·西班牙·爱尔兰·葡萄牙·德国·瑞士 ｜ 工程·医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2025 轮岗位（如 Hereon DC12，2025-11-26 截止）已过；当前空缺需查 Uppsala 招聘页</sub> | ❔ | MSCA 博士网络 Print4Life（2025-10 至 2029-09），由 Uppsala 大学协调，多家机构招博士生，岗位为受雇身份。已知 2025 轮岗位已截止，请关注该页及各机构后续岗位。 |
 

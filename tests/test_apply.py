@@ -1,6 +1,7 @@
 """/apply 的离线测试：申请清单摘句、事实校验（编造的经历一条都不能通过）、去标记。"""
 from __future__ import annotations
 
+import re
 import sys
 from pathlib import Path
 
@@ -154,11 +155,45 @@ def test_strip_cites_and_clean(tmp_path):
     assert ac.strip_cites("见原文 [post]。") == "见原文。"
     d = make_dir(tmp_path, GOOD)
     facts = tmp_path / "facts.yml"
-    facts.write_text(yaml.safe_dump(LIN, allow_unicode=True), encoding="utf-8")
-    args = type("A", (), {"dir": str(d), "facts": str(facts), "force": False})
+    facts.write_text(yaml.safe_dump(LIN, allow_unicode=True, sort_keys=False), encoding="utf-8")
+    args = type("A", (), {"dir": str(d), "facts": str(facts)})
+    assert ac.cmd_clean(args) == 1  # 没有证据核对不能定稿
+    fill_evidence(d, LIN)
     assert ac.cmd_clean(args) == 0
     out = (d / "final" / "email.md").read_text(encoding="utf-8")
     assert "[cv:" not in out and "[lab:" not in out and "Lin Xiaozhou" in out
+
+
+def fill_evidence(d, facts_data, verdict="supported"):
+    """模拟审稿子代理：每句摘出所引出处里含句中数字的片段作证据。"""
+    idx = ac.fact_index(facts_data)
+    rows = ac.evidence_template(d, facts_data)
+    for r in rows:
+        own = " ".join(idx[i] for i in r["cites"])
+        nums = ac.numbers_in(r["sentence"])
+        quotes = []
+        for n in sorted(nums):
+            m = re.search(r"(?<![\d.])" + re.escape(n) + r"(?![\d])", own)
+            if m:
+                quotes.append(own[max(0, m.start() - 30):m.end() + 30].strip())
+        r.update(verdict=verdict, evidence=quotes or [own[:120]])
+    (d / "evidence.yml").write_text(yaml.safe_dump(rows, allow_unicode=True, sort_keys=False), encoding="utf-8")
+    return rows
+
+
+def test_evidence_gate(tmp_path):
+    d = make_dir(tmp_path, GOOD)
+    rows = fill_evidence(d, LIN)
+    assert ac.evidence_errors(d, LIN) == []
+    rows[0]["evidence"] = ["a quote that is not in the facts"]
+    rows[1]["verdict"] = "unsupported"
+    rows[2]["evidence"] = [ac.fact_index(LIN)[rows[2]["cites"][0]]] * 1 if len(ac.fact_index(LIN)[rows[2]["cites"][0]]) > 200 else ["x" * 201]
+    (d / "evidence.yml").write_text(yaml.safe_dump(rows, allow_unicode=True, sort_keys=False), encoding="utf-8")
+    why = [e[3] for e in ac.evidence_errors(d, LIN)]
+    assert any("不在所引出处" in w for w in why) and any("不是 supported" in w for w in why) and any("太长" in w or "不在所引出处" in w for w in why)
+    # 改了句子 → 旧证据作废，要重新核对
+    (d / "drafts" / "email.md").write_text(GOOD.replace("about 40%", "about 45%"), encoding="utf-8")
+    assert any("没有这句" in e[3] for e in ac.evidence_errors(d, LIN))
 
 
 def test_find_opportunity_from_postings():
@@ -224,7 +259,7 @@ def test_red_team_eval_catches_all_fabrications(tmp_path, monkeypatch, capsys):
 
     d = make_dir(tmp_path, GOOD)
     facts = tmp_path / "facts.yml"
-    facts.write_text(yaml.safe_dump(LIN, allow_unicode=True), encoding="utf-8")
+    facts.write_text(yaml.safe_dump(LIN, allow_unicode=True, sort_keys=False), encoding="utf-8")
     monkeypatch.setattr(sys, "argv", ["apply_eval.py", str(d), "--facts", str(facts)])
     assert apply_eval.main() == 0, capsys.readouterr().out
     assert "漏网 0 条" in capsys.readouterr().out
@@ -327,3 +362,60 @@ def test_degree_level_must_match_citation():
     assert ac.check_sentence("我的硕士课题是多金属氧酸盐修饰的碳载体 [cv:edu-2]。", facts, {}, None, "")[0]
     assert ac.check_sentence("我的硕士课题是多金属氧酸盐修饰的碳载体 [cv:edu-1]。", facts, {}, None, "")[0] == []
     assert ac.check_sentence("During my BSc I studied chemistry [cv:edu-1].", facts, {}, None, "")[0]
+
+
+REDTEAM = yaml.safe_load((FIX / "redteam.yml").read_text(encoding="utf-8"))
+WHO = {"lin": "lin-xiaozhou", "zhou": "zhou-muyang", "chen": "chen-ruoxi"}
+NAMES = {"lin": "Lin Xiaozhou", "zhou": "Zhou Muyang", "chen": "Chen Ruoxi"}
+# 已知例外（交给审稿子代理）：时间先后的暗示，程序无法确定性判断
+REDTEAM_KNOWN_MISS = {"I completed 10 days of SCUBA reef transect surveys as a PADI Advanced Open Water Diver [cv:proj-2,cert-1]."}
+# 已知的保守误报：出处只写了 “L8 R8.5 W6.5 S7” / “R (lme4, ggplot2)”，句子的说法多了一层推断
+REDTEAM_KNOWN_FP: set[str] = set()  # 原来的两条（雅思分项、R 做数据分析）已修好或降为“需核对”
+
+
+def _check(who, sentence):
+    facts = ac.fact_index(yaml.safe_load((FIX / f"{WHO[who]}.yml").read_text(encoding="utf-8")))
+    return ac.check_sentence(sentence, facts, {}, None, NAMES[who])[0]
+
+
+def _flags(who, sentence):
+    facts = ac.fact_index(yaml.safe_load((FIX / f"{WHO[who]}.yml").read_text(encoding="utf-8")))
+    errs, warns = ac.check_sentence(sentence, facts, {}, None, NAMES[who])
+    return errs + [w for w in warns if w.startswith("需核对")]
+
+
+@pytest.mark.parametrize("case", REDTEAM["bad"], ids=lambda c: c["sentence"][:40])
+def test_redteam_fabrications(case):
+    """读过校验器源码的红队写的 45 条编造：除已知例外外都要么判错，要么标“需核对”（定稿前必须由证据核对放行）。"""
+    flags = _flags(case["who"], case["sentence"])
+    assert bool(flags) != (case["sentence"] in REDTEAM_KNOWN_MISS), (case["why"], flags)
+
+
+@pytest.mark.parametrize("case", REDTEAM["good"], ids=lambda c: c["sentence"][:40])
+def test_redteam_faithful_sentences(case):
+    errs = _check(case["who"], case["sentence"])
+    assert (errs == []) != (case["sentence"] in REDTEAM_KNOWN_FP), errs
+
+
+REDTEAM2 = yaml.safe_load((FIX / "redteam2.yml").read_text(encoding="utf-8"))
+# 第二轮里程序拦不住、只能靠证据核对（审稿子代理逐句摘原文）的：多出处拼接、中文语义（锂离子 / 锂硫、真实 / 合成）、限定词丢失等
+REDTEAM2_KNOWN_MISS = set(['Dr. Huang Yi supervised my 6-week heat-stress experiment and the SCUBA reef transect surveys [cv:edu-1,proj-1,proj-2].', 'I completed the SCUBA reef transect surveys during my aquarium volunteer work at Southbay Public Aquarium [cv:proj-2,work-1].', 'I measured photosynthetic efficiency of Acropora with PAM fluorometry in the field during my SCUBA surveys [cv:proj-1,proj-2].', 'I published two papers in Journal of Energy Chemistry [cv:pub-1,pub-2].', 'I used GITT to characterise the polyoxometalate clusters [cv:skill-1,proj-1].', 'I was the course project lead for the disease mapping Gibbs sampler [cv:proj1,proj2].', 'My Gibbs sampler reduced the effective-sample-size cost per second by about 40% compared with the baseline sampler on regional disease counts [cv:proj1].', 'My average score was 88/100 across my BSc and MSc [cv:edu-1,edu-2].', 'Prof. Zhao Min and I wrote the Gibbs sampler for regional disease counts [cv:edu1,proj1].', '我合成了 5 种多金属氧酸盐团簇并将其用于锂离子电池 [cv:proj-1]。', '我的 Gibbs 采样器在真实的区域疾病计数数据上把采样成本降低了约 40% [cv:proj1]。'])
+
+
+@pytest.mark.parametrize("case", REDTEAM2["bad"], ids=lambda c: c["sentence"][:40])
+def test_redteam2_fabrications(case):
+    flags = _flags_post(case)
+    assert bool(flags) != (case["sentence"] in REDTEAM2_KNOWN_MISS), (case["why"], flags)
+
+
+@pytest.mark.parametrize("case", REDTEAM2["good"], ids=lambda c: c["sentence"][:40])
+def test_redteam2_natural_sentences_have_no_errors(case):
+    facts = ac.fact_index(yaml.safe_load((FIX / f"{WHO[case['who']]}.yml").read_text(encoding="utf-8")))
+    errs, _ = ac.check_sentence(case["sentence"], facts, {}, case.get("post"), NAMES[case["who"]])
+    assert errs == [], errs
+
+
+def _flags_post(case):
+    facts = ac.fact_index(yaml.safe_load((FIX / f"{WHO[case['who']]}.yml").read_text(encoding="utf-8")))
+    errs, warns = ac.check_sentence(case["sentence"], facts, {}, case.get("post"), NAMES[case["who"]])
+    return errs + [w for w in warns if w.startswith("需核对")]

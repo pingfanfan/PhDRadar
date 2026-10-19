@@ -8,7 +8,8 @@ from __future__ import annotations
 
 import re
 
-from collect_postings import Fetcher, _any, _SCREENING, page_text
+import collect_postings as cp
+from collect_postings import Fetcher, page_text
 
 INFN = "https://jobs.dsi.infn.it/"
 INFN_FIELDS = re.compile(r"Numero (\d+) Anno \d{4} Titolo (.+?) Numero posti (\d+) Tipo (.+?) Data bando [\d-]+ "
@@ -35,7 +36,7 @@ def infn_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, 
         "id": f"infn:{num}", "title": title[:200], "url": url, "org": "INFN – Istituto Nazionale di Fisica Nucleare",
         "country": "IT", "place": "", "level": "postdoc", "deadline": deadline, "quote": m.group(5),
         "funding_for": "", "amount": "", "cn": "check",
-        "flags": ["security-screening"] if _any(_SCREENING, text) else [], "via": "INFN Jobs",
+        "flags": cp.flags_of(text), "via": "INFN Jobs",
     }, "收录"
 
 

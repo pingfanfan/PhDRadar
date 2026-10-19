@@ -143,12 +143,14 @@
   - email
   language: en
   coverage: full
-  deadline: unknown
-  deadline_note: 2026 批次为 2025-10-15 至 2026-01-15；2027 批次未公布，通常 10 月开放
-  status: upcoming
+  deadline: 2027-01-11
+  deadline_note: 2027 批次申请期为 2026-10-15 至 2027-01-11。
+  status: open
   requirements: 硕士学位；可选择巴伐利亚任一大学的研究组
   notes: 全额 3 年博士奖学金，每年约 5 个名额，由 MQV 与 IMPRS-QST 联合招募。2027 批次尚未公布，国际生资格以官网为准。
-  verified: 2026-10-14
+  verify_method: page
+  page_evidence: Being fully funded for three years, the holders of the fellowship will be welcome in many groups.
+  verified: 2026-10-19
 - id: epsrc-quantum-informatics-cdt
   name: EPSRC 量子信息学 CDT（爱丁堡牵头，5 校联合）
   url: https://www.quantuminformatics-cdt.ac.uk/
@@ -833,6 +835,31 @@
   verify_method: page
   page_evidence: 'L''Institut Agro Montpellier is accredited to award PhD degrees in its fields of expertise:'
   verified: 2026-10-18
+- id: purdue-foodsci-grad-faq
+  name: 普渡大学食品科学研究生 FAQ
+  url: https://ag.purdue.edu/department/foodsci/grad-faq.html
+  category: doctoral-programs
+  regions:
+  - US
+  disciplines:
+  - bio
+  - chem
+  - engineering
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: varies
+  deadline_note: 秋季：国际生（海外申请）4 月 15 日，国内 7 月 15 日；春季国际生 9 月 30 日至 11 月 30 日（依据 2025 年 7 月版 FAQ，以当期官网为准）。
+  requirements: 国际申请者需硕士学位（或同等）；招生要求页称 2024 年秋季起恢复 GRE 要求，以当期官网为准。
+  notes: 助研/助教通常包含学费减免与月津贴，资助多绑定导师项目；奖学金竞争性较强。FAQ（2025 年 7 月版）称夏季 4 月 15 日、秋季 7 月 15 日、春季国际生 11 月 15 日申请，未获资助 offer 不予录取。
+  verify_method: page
+  page_evidence: Most students are offered admission into the Food Science Graduate Program with a research assistantship or fellowship.
+  verified: 2026-10-19
 - id: cirad-fundit-institution
   name: CIRAD（法国热带农业研究中心）博士职位聚合页
   url: https://www.cirad.fr/en/our-activities-our-impact/teaching-and-training/higher-education-masters-and-theses/theses
@@ -879,6 +906,31 @@
   verify_method: page
   page_evidence: up to 4 fully funded PhD scholarships
   verified: 2026-10-18
+- id: imperial-life-sciences-phd-2027
+  name: 帝国理工生命科学系 PhD 奖学金（2027 年 10 月入学）
+  url: https://www.imperial.ac.uk/natural-sciences/departments/life-sciences/postgraduate/research/phd-opportunities/department-of-life-sciences-phd-studentships/
+  category: university-schemes
+  regions:
+  - UK
+  disciplines:
+  - bio
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: 'no'
+  access:
+  - web
+  language: en
+  coverage: full
+  stipend: £23,805/年（UKRI 标准，36 个月）
+  deadline: 2027-01-08
+  deadline_note: 2027 年 10 月入学；截止 2027 年 1 月 8 日（官网 08/01/2027）；另有并行的 Widening Participation 名额
+  status: open
+  requirements: 至少二等一学位（2:1）或同等生物/相关科学学位，有硕士者可能优先；仅限英国 home fee status 申请人，国际生不符合。
+  notes: 帝国理工生命科学系 2027 年 10 月入学全额 PhD 奖学金，学费与 UKRI 标准生活津贴（£23,805/年，36 个月）。官网明确仅限 home fee status 申请人，国际学生（含中国大陆学生）不符合本项；2027 年 1 月 8 日截止。
+  verify_method: page
+  page_evidence: The Department of Life Sciences at Imperial College London invites applications for fully funded PhD studentships commencing 2 October 2027.
+  verified: 2026-10-19
 - id: cambridge-willis-synbio-phd
   name: 剑桥 Willis 组合成生物学与基因编辑 PhD 资助
   url: https://willis.group.ch.cam.ac.uk/joining
@@ -1141,6 +1193,27 @@
   verify_method: page
   page_evidence: Doctor of Philosophy / Master of Philosophy (Department of Computer Science)
   verified: 2026-10-17
+- id: newcastle-dla-studentships
+  name: 纽卡斯尔大学计算学院 UKRI DLA 博士奖学金
+  url: https://www.ncl.ac.uk/computing/study/postgraduate-research/dla-studentships
+  category: university-schemes
+  regions:
+  - UK
+  disciplines:
+  - cs
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  status: closed
+  notes: 纽卡斯尔大学计算学院 EPSRC DLA 博士奖学金，2026/27 轮已关闭。未查到国际生资格条款，同类 2025 年公告为 UK-only。关注下一轮，并可联系 computing.pgradmin@newcastle.ac.uk 确认。
+  verify_method: page
+  page_evidence: Applications for 2026/2027 are now closed.
+  verified: 2026-10-19
 - id: aea-grad-funding
   name: AEA 研究生资助指引（Funding Opportunities for Graduate School）
   url: https://www.aeaweb.org/gradstudents/Funding.php
@@ -1339,11 +1412,14 @@
   - web
   language: en
   coverage: varies
+  deadline: 2026-12-03
   deadline_note: 2026 入学轮截止 2025-12-10；2027 入学申请预计 2026 年 10 月开放，截止日待官网公布
-  status: upcoming
+  status: open
   requirements: 需获 PhD 无条件录取；LSE-CSC 仅面向中国公民（每年约 8 名，最长 4 年，需承诺毕业后回国）；studentship 竞争性，并非所有申请人获得
   notes: LSE 性别研究系博士。申请即自动考虑 LSE PhD Studentship 与 ESRC 资助，studentship 面向英国与国际学生，覆盖全额学费与生活津贴（竞争性）。另有 LSE-CSC 奖学金面向中国学生，每年约 8 个名额。2026 入学轮已截止，2027 入学轮公告待发布，以院系页面为准。
-  verified: 2026-10-13
+  verify_method: page
+  page_evidence: Funding is allocated by nomination, and you will automatically be considered for the award you are eligible for, alongside all applications received by the funding deadline.
+  verified: 2026-10-19
 - id: grand-union-dtp
   name: ESRC Grand Union DTP（牛津/布鲁内尔/开放大学）
   url: https://www.granduniondtp.ac.uk/how-apply
@@ -1389,6 +1465,50 @@
   status: upcoming
   notes: White Rose ESRC DTP 2027-28：国际生名额不超过约 30%，需先联系合作院校导师；津贴 £21,805/年（2026/27 标准，随 UKRI 调整）。
   verified: 2026-10-13
+- id: nine-dtp-adr-uk
+  name: NINE DTP ADR UK 博士奖学金
+  url: https://www.ninedtp.ac.uk/adr-uk-phd-studentships/
+  category: university-schemes
+  regions:
+  - UK
+  disciplines:
+  - social
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline_note: 导师内部截止 2026-08-14，提交 ESRC 截止 2026-09-15，均已过；名额为 2027 年秋入学
+  status: closed
+  requirements: 由导师提出研究方案申请，学生需与拟定导师协商；需具备计量或数据分析背景（以项目要求为准）
+  notes: ADR UK 行政数据研究博士奖学金（ESRC 与 NINE DTP 合办）约 30 个名额，2027 年秋入学，由导师提出申请。导师内部截止 2026 年 8 月 14 日、提交 ESRC 截止 9 月 15 日已过。NINE DTP 标准竞赛另有截止日期（第一阶段 2026-10-27），与本条目不同。
+  verify_method: page
+  page_evidence: The ADR UK PhD Studentship competition is now closed.
+  verified: 2026-10-19
+- id: sgsss-studentships
+  name: SGSSS 苏格兰社会科学研究生院奖学金（ESRC DTP）
+  url: https://www.sgsss.ac.uk/studentships
+  category: university-schemes
+  regions:
+  - UK
+  disciplines:
+  - social
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: partial
+  requirements: 国际生需补齐 Home 与国际学费差额并证明有资金支付；申请须经所在大学渠道
+  notes: 每年约 60 个 studentship，分公开竞争与导师主导；国际生需补学费差额并证明资金。
+  verify_method: page
+  page_evidence: The Scottish Graduate School of Social Science awards approximately 55 ESRC-funded PhD studentships annually
+  verified: 2026-10-19
 - id: ics-netherlands-vacancies
   name: ICS 荷兰社会科学跨校研究生院博士岗位
   url: https://ics-graduateschool.nl/vacancies
@@ -1525,7 +1645,9 @@
   deadline_note: 2027 秋季入学：2027 年 1 月 15 日前为早批，正式截止 2027 年 3 月 31 日；申请约 11 月中开放。2026 秋季截止已过。资助细节以官网为准
   status: upcoming
   notes: 曼海姆大学 GESS 博士项目（各中心录取要求不同）。官网 2027 秋季入学：11 月中旬开放申请，2027 年 1 月 15 日前为早批，正式截止 2027 年 3 月 31 日。资助细节官网申请页未写明，需以官网为准。
-  verified: 2026-10-14
+  verify_method: page
+  page_evidence: Applications for the Fall 2027 intake will open in mid November 2026.
+  verified: 2026-10-19
 - id: jobs-ac-uk-sociology-category
   name: jobs.ac.uk 社会学类别（Studentships / PhDs）
   url: https://www.jobs.ac.uk/categories/sociology
@@ -1942,6 +2064,31 @@
   verify_method: page
   page_evidence: To support students for study towards a research doctoral degree in any discipline at UC.
   verified: 2026-10-18
+- id: massey-doctoral-scholarship
+  name: 梅西大学博士奖学金
+  url: https://www.massey.ac.nz/study/scholarships-and-awards/massey-university-doctoral-scholarship/
+  category: university-schemes
+  regions:
+  - NZ
+  disciplines:
+  - all
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  stipend: $90,000 加学费，为期三年（官网 Key facts）
+  deadline: 2026-10-01
+  deadline_note: 2026 轮 10 月 1 日已截止；官网显示 2027 轮 8 月 1 日开放
+  status: closed
+  requirements: 需满足学业成绩条件（搜索摘要称 GPA 7.0 以上）；国际生与新西兰生均可申请，具体条款以官网为准
+  notes: 2026 轮 10 月 1 日已截止，官网显示 2027 轮 8 月 1 日开放、10 月 1 日前后截止。官网与 2025 年规章 PDF 的津贴金额不一致（$90,000 与 $30,000），以校方通知为准。国际资格摘要称开放国际生，但未见明确的官方国籍条款，cn_eligible 保留 check。
+  verify_method: page
+  page_evidence: Massey University Doctoral Scholarships are awarded to high achieving students to provide financial support for their doctoral study.
+  verified: 2026-10-19
 - id: vuw-wellington-doctoral-scholarship
   name: 惠灵顿维多利亚大学博士奖学金
   url: https://www.wgtn.ac.nz/scholarships/current/wellington-doctoral-scholarship
@@ -2018,6 +2165,31 @@
   verify_method: page
   page_evidence: We have no application deadlines and PhD projects in our center can start throughout the year.
   verified: 2026-10-18
+- id: leipzig-gsgas-daad
+  name: 莱比锡大学 GSGAS DAAD 研究生院奖学金（GSSP）
+  url: https://sozphil.uni-leipzig.de/fileadmin/Fakult%C3%A4t_SozPhil/CfA_DAAD_Graduate_School_Scholarship_Programme_2025.pdf
+  category: gov-scholarships
+  regions:
+  - DE
+  disciplines:
+  - humanities
+  - social
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: stipend
+  stipend: €1,300/月（含保险与研究津贴，最长 48 个月）
+  deadline_note: 2026 批次截止 2025-11-15（已过）；下一轮以 GSGAS 官网或联系人为准
+  status: closed
+  requirements: 国际申请者（未在德国居住超过 15 个月）；硕士毕业不超过 6 年；每轮名额很少，需先经 GSGAS 推荐，再由 DAAD 决定
+  notes: 莱比锡大学 GSGAS DAAD 研究生院奖学金（GSSP）博士月补助约 1300 欧元（含保险与研究津贴），两步申请。2026 批次已结束，下一轮时间以 GSGAS 官网为准。原链接为 2025 年 PDF 公告。
+  verify_method: page
+  page_evidence: Successful applicants will receive a PhD scholarship from the DAAD of 1.300 €/month
+  verified: 2026-10-19
 - id: giessen-gcsc-stipendien
   name: 吉森大学 GCSC 研究生院博士奖学金（含 DAAD GSSP 名额）
   url: https://www.uni-giessen.de/de/fbz/ggkgcsc/graduierten-programme/index/promotion/stipendien/ausschreibung
@@ -2092,6 +2264,28 @@
   verify_method: page
   page_evidence: 'Application deadline: November 1, 2026'
   verified: 2026-10-17
+- id: research-in-germany-phd-portals
+  name: Research in Germany 博士岗位招聘门户汇总
+  url: https://www.research-in-germany.org/your-goal/phd/job-portals.html
+  category: aggregators
+  regions:
+  - DE
+  disciplines:
+  - all
+  funding: info
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  deadline: varies
+  status: ongoing
+  notes: 官方列出 PhDGermany、EURAXESS 等招聘平台，作为搜索起点。
+  verify_method: page
+  page_evidence: Here you will find a selection of job portals that can help you with your search.
+  verified: 2026-10-19
 - id: hamburg-quantum-universe-jobs
   name: 汉堡大学 Quantum Universe 集群岗位页
   url: https://www.qu.uni-hamburg.de/cluster/jobs/research-positions.html
@@ -2179,6 +2373,28 @@
   notes: 剑桥 AHRC 博士风景奖（DLA，2026–2030）。国际生名额有限，通常不超过总名额的 30%，申请时需在表格中注明希望参与评选；学费差额据院系页面称由 Fee Bursary Scheme 覆盖，具体以剑桥研究生招生办公室为准。
   verify_method: page
   page_evidence: Beyond individual funding - covering tuition fee, stipend and research costs - the award supports the creation of regional training hubs.
+  verified: 2026-10-19
+- id: reading-ahrc-dla
+  name: 雷丁大学 AHRC DLA（Landscape South hub）
+  url: https://reading.ac.uk/doctoral-researcher-college/funding/phd-studentships/ahrc-doctoral-landscape-awards
+  category: university-schemes
+  regions:
+  - UK
+  disciplines:
+  - humanities
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: partial
+  deadline: 2027-01-15
+  status: open
+  notes: 页面称当前轮 2027 年 10 月入学，须在 2027 年 1 月 15 日前申请雷丁 PhD 课程；奖学金覆盖英国费率学费与津贴（2026/27 为 £21,805），国际生最多占 30% 且需自付学费差额。
+  verify_method: page
+  page_evidence: Studentships in the current round will commence in October 2027.
   verified: 2026-10-19
 - id: birmingham-ahrc-landscape-awards
   name: 伯明翰 AHRC Landscape Awards（含哲学神学宗教定向名额）
@@ -2511,6 +2727,30 @@
   verify_method: page
   page_evidence: 海外にある日本国大使館（又は総領事館）が募集する方法です。
   verified: 2026-10-18
+- id: kyoto-mext-admissions-guide
+  name: 京都大学 MEXT 奖学金学生招生说明
+  url: https://www.kyoto-u.ac.jp/sites/default/files/inline-files/3%20Admissions%20for%20MEXT%20Scholarship%20Students-7e39c101d3e3c92aded294118630cedb.pdf
+  category: university-schemes
+  regions:
+  - JP
+  disciplines:
+  - all
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: tuition
+  deadline: varies
+  deadline_note: 大学推荐一般 11 月下旬至 12 月初开始受理，以研究科通知为准；2027 年入学使馆路线第三方称 2026 年 4 月 20 日至 5 月 15 日（已过）
+  status: closed
+  requirements: 需先联系拟入学的京大导师并通过研究科初审；使馆路线需先向 AAO 申请预审并取得暂定录取函
+  notes: 页面为旧版（标注 2022 年）。两条路线：驻外使馆推荐（京大多数学生走此路线）或大学推荐。学费、入学考试与入学费全免，另提供一次往返机票。2027 时间以研究科及 AAO 通知为准。
+  verify_method: page
+  page_evidence: Kyoto University accepts three categories of international students
+  verified: 2026-10-19
 - id: utokyo-mext-general-guideline-oct2027
   name: 东京大学 MEXT 一般选拔指南（2027 年 10 月入学）
   url: https://www.i.u-tokyo.ac.jp/edu/MEXT_General_Guidelines_E_Oct2027.pdf
@@ -2581,6 +2821,28 @@
   verify_method: page
   page_evidence: Hiroshima University determines candidates for the university recommendation for the MEXT Scholarship based on recommendations from our graduate schools, taking into consideration
   verified: 2026-10-18
+- id: posco-global-scholarship-korea
+  name: POSCO TJ Park 财团 POSCO 全球奖学金（在韩研究生）
+  url: https://postf.org/en/asia/abroad/faq
+  category: university-schemes
+  regions:
+  - KR
+  disciplines:
+  - all
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: unknown
+  requirements: 须被韩国合作大学硕博录取；近年覆盖指定 27 国国籍申请者，中国大陆是否在列未核实；2027 届细则以官方公告为准。
+  notes: 覆盖全额学费与生活费，面向韩国硕博研究生，合作校含首尔大、高丽大、POSTECH、延世；2027 届预计 2026-11 发布。
+  verify_method: page
+  page_evidence: Which countries are eligible to apply for the POSCO Global Scholarship in Korea?
+  verified: 2026-10-19
 - id: korea-univ-gks-page
   name: 高丽大学 GKS 研究生奖学金页面
   url: https://graduate2.korea.ac.kr/scholarship/gkscholarships.html
@@ -2628,6 +2890,30 @@
   verify_method: page
   page_evidence: K3-SPRING 【FY2027 Reservation Recruitment】Category 2 Application Guidelines
   verified: 2026-10-18
+- id: science-tokyo-doctoral-support-2026
+  name: 东京科学大学博士生支援项目（FY2026 起替代 SPRING）
+  url: https://www.spring-boost.i.isct.ac.jp/en/topics/135427/
+  category: gov-scholarships
+  regions:
+  - JP
+  disciplines:
+  - all
+  funding: fellowship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: stipend
+  stipend: 180,000 日元/月（研究奖励金，年 2,160,000 日元）另加年 300,000 日元研究经费
+  deadline: varies
+  status: ongoing
+  requirements: 为本校博士课程学生提供的支援；国际生资格以该校公告为准，搜索未见国籍限制
+  notes: SPRING 2025 年度结束，FY2026 起由东京科学大学自有的博士生支援项目承接（SPRING 受援者自动转入）。该校称 FY2027 计划维持同等规模，FY2028 起新计划待定。2027 入学条件以该校公告为准，国际生资格未核实，保留 check。
+  verify_method: page
+  page_evidence: Support will be provided for those enrolling in April 2026.
+  verified: 2026-10-19
 - id: dfg-walter-benjamin
   name: DFG Walter Benjamin 博士后项目
   url: https://www.dfg.de/en/research_funding/programmes/individual/walter_benjamin/
@@ -2652,6 +2938,30 @@
   verify_method: page
   page_evidence: The Walter Benjamin Programme enables researchers in the postdoctoral training phase to independently conduct their own research project
   verified: 2026-10-17
+- id: nwo-veni-2026
+  name: NWO Veni 青年人才项目（荷兰）
+  url: https://www.staff.universiteitleiden.nl/announcements/2026/04/call-for-applications-msca-postdoctoral-fellowship-and-nwo-veni-2026
+  category: postdoc-fellowships
+  regions:
+  - NL
+  disciplines:
+  - all
+  funding: fellowship
+  levels:
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: 2026-09-01
+  deadline_note: 2026 轮于 9 月 1 日截止（第三方指南所述，以 NWO 官网为准）；2027 轮待公布
+  status: closed
+  requirements: 需在荷兰 NWO 认可机构开展研究；博士学位须在规定期限内获得
+  notes: 需在荷兰 NWO 认可机构开展研究；2026 轮于 9 月 1 日截止，2027 轮待公布。国籍限制未在官网核实。
+  verify_method: page
+  page_evidence: 'Two postdoctoral research grant calls will soon be open with deadlines in early September:'
+  verified: 2026-10-19
 - id: nwo-vidi-2026
   name: NWO Vidi 人才项目（荷兰）
   url: https://www.illc.uva.nl/NewsandEvents/News/Funding/newsitem/16315/NWO-Vidi-2026-open-for-pre-proposals-
@@ -2697,6 +3007,55 @@
   verify_method: page
   page_evidence: A new call for proposals will be published in the autumn, which will open for applications that may be awarded funding in 2026.
   verified: 2026-10-18
+- id: rcn-fripro-international-mobility
+  name: FRIPRO 国际流动研究者项目（挪威）
+  url: https://www.forskningsradet.no/en/call-for-proposals/2025/researcher-project-international-mobility-fripro/
+  category: postdoc-fellowships
+  regions:
+  - 'NO'
+  disciplines:
+  - all
+  funding: mixed
+  levels:
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: rolling
+  deadline_note: 官网可见的是 2025 轮征集；2026 轮是否开放及预算未在官网核实，第三方称为开放式征集
+  status: rolling
+  requirements: 博后阶段（博士学位后 0–7 年，RCN 概述）；需在海外机构停留 1–2 年并回挪威 1–2 年（以当年征集文件为准）
+  notes: 挪威研究理事会 FRIPRO 国际流动研究者项目，面向博后阶段，需在海外 1–2 个研究机构与挪威各停留 1–2 年。官网描述为海外 1–2 年加挪威 1–2 年，第三方常见三年期版本，需核实。官网可见的是 2025 轮，2026 轮是否开放需看 RCN 征集页。
+  verify_method: page
+  page_evidence: This call is aimed at researchers at postdoctoral level
+  verified: 2026-10-19
+- id: novo-postdoc-research-abroad
+  name: 诺和诺德基金会海外研究博后（生物与基础生医）
+  url: https://novonordiskfonden.dk/grant/postdoc-fellowship-for-research-abroad-bioscience-and-basic-biomedicine/
+  category: postdoc-fellowships
+  regions:
+  - DK
+  disciplines:
+  - bio
+  - med
+  funding: fellowship
+  levels:
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: 2026-01-13
+  deadline_note: 2026 轮 1 月 13 日已截止（项目开始日 2026-04-01 至 2027-04-01）；未见 2027 轮公告
+  status: closed
+  requirements: 博士学位须在项目开始前 5 年内取得（不含休假）；须由丹麦研究机构全程雇佣并管理经费；研究须属生物与基础生医领域；国籍或丹麦关联条件以官方指南为准
+  notes: 海外工作 3 年后回丹麦 1 年。2026 轮 1 月 13 日已截止，未见 2027 轮公告，需关注基金会页面。国籍或丹麦关联条件以官方指南 PDF 为准，搜索未能核实，保留 check。
+  verify_method: page
+  page_evidence: Payout of the fourth and final grant year is conditional on the grantee returning to Denmark.
+  verified: 2026-10-19
 - id: dff-international-postdoc
   name: DFF 国际博士后资助（丹麦独立研究基金）
   url: https://dff.dk/media/1yjno2gi/call-for-proposals-for-independent-research-2026.pdf
@@ -2890,6 +3249,29 @@
   verify_method: page
   page_evidence: The Faculty is also pleased to invite applications for PhD scholarships in each School in the Faculty.
   verified: 2026-10-18
+- id: lund-doctoral-studies
+  name: 隆德大学博士教育（Doctoral studies）
+  url: https://www.lunduniversity.lu.se/study/study-opportunities-lund-university/doctoral-studies
+  category: doctoral-programs
+  regions:
+  - SE
+  disciplines:
+  - all
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: varies
+  status: ongoing
+  requirements: 通过 Varbi 申请；竞争激烈；具体学历与语言要求以岗位公告为准
+  notes: 博士多为带薪雇佣，funded 岗位在学校招聘页按 Doctoral students 筛选，经 Varbi 申请。
+  verify_method: page
+  page_evidence: Any funded doctoral positions at Lund University are advertised on our vacancies page on this website (see link below).
+  verified: 2026-10-19
 - id: cuni-lfhk-postgrad
   name: 查理大学第一医学院研究生教育页
   url: https://en.lf1.cuni.cz/science-and-research
@@ -3028,6 +3410,27 @@
   verify_method: page
   page_evidence: 'Following jobs are being offered currently:'
   verified: 2026-10-17
+- id: nature-careers-chemistry-postdoc
+  name: Nature Careers 化学博后筛选页
+  url: https://www.nature.com/naturecareers/jobs/chemistry/postdoctoral/fixed-term/phd/
+  category: discipline
+  regions:
+  - GLOBAL
+  disciplines:
+  - chem
+  funding: position
+  levels:
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  status: ongoing
+  notes: 按化学、博后、固定期限筛选，德国、中国等地较多，补充化学博后检索。
+  verify_method: page
+  page_evidence: Found 30 Fixed term, PhD jobs
+  verified: 2026-10-19
 - id: chemecol-isce-jobs
   name: ISCE 化学生态学职位板
   url: https://chemecol.org/employment/
@@ -3124,6 +3527,33 @@
   requirements: 需 STEM 领域博士学位（获得年份各站说法不一：2022 或 2023 年后）；需 NTU 项目导师支持信、两位推荐人、代表性论文 3 篇；2027 年 3 月 31 日前可入职
   notes: 最长 4 年资助、有竞争力薪酬与 SGD 250,000 研究经费；2026 轮截止 2026-10-30。聚合站转载，申请前以 NTU 官网为准，博士资格年限说法不一。
   verified: 2026-10-16
+- id: nature-careers-asia-computing-postdoc
+  name: Nature Careers 亚洲计算机类博后职位筛选页
+  url: https://www.nature.com/naturecareers/jobs/computing/postdoctoral/asia/-70-000-99-999/fixed-term/
+  category: aggregators
+  regions:
+  - SG
+  - HK
+  - JP
+  - KR
+  - CN
+  disciplines:
+  - ai
+  - cs
+  funding: position
+  levels:
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  - rss
+  language: en
+  coverage: unknown
+  status: ongoing
+  notes: 按亚洲地区与薪资筛选，适合扫描港、新、日、韩的 AI 岗位。
+  verify_method: page
+  page_evidence: NTU AI-for-X Postdoctoral Fellowship 2026
+  verified: 2026-10-19
 - id: mpi-ai-phd-call-2026
   name: 马普 AI 网络博士招生（PhD Call 2026，与 ELLIS 联动）
   url: https://ai.mpg.de/how-to-join-phd
@@ -3199,6 +3629,31 @@
   verify_method: page
   page_evidence: The deadline for the yearly international application round to the Graduate School and all the hosted schools is usually in late November of that year.
   verified: 2026-10-17
+- id: rwth-eddy-rtg
+  name: RWTH Aachen DFG 研究训练组 EDDy 博士岗位
+  url: https://eddy.rwth-aachen.de/jobs
+  category: university-schemes
+  regions:
+  - DE
+  disciplines:
+  - engineering
+  - math
+  - physics
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: rolling
+  status: rolling
+  requirements: 数学或相关领域硕士或同等学历；非线性偏微分方程或数值方法相关基础；流利英语
+  notes: DFG 研究训练组（EDDy）博士岗位，聘期三年，属受雇岗位。eddy.rwth-aachen.de/jobs 为当前岗位入口；当前在招情况未核实。
+  verify_method: page
+  page_evidence: Applications can be submitted anytime.
+  verified: 2026-10-19
 - id: simtech-stuttgart
   name: SimTech 研究生院（斯图加特卓越集群）博士岗位
   url: https://www.simtech.uni-stuttgart.de/career/doctoral-education/
@@ -4286,6 +4741,32 @@
   verify_method: page
   page_evidence: Researcher positions are announced on our website and you must apply via our online application facility.
   verified: 2026-10-19
+- id: oslomet-job-openings
+  name: OsloMet 职位公告页
+  url: https://oslomet.no/en/work/job-openings
+  category: university-schemes
+  regions:
+  - 'NO'
+  disciplines:
+  - social
+  - humanities
+  - med
+  - engineering
+  funding: position
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: varies
+  deadline_note: 各岗位截止不同；2026 年多数岗位已截止，需在 stilling.forskning.no 按 OsloMet 筛选
+  status: ongoing
+  notes: 偏社科、健康与工程；缓存列表较旧，同时在 stilling.forskning.no 按 OsloMet 筛选。
+  verify_method: page
+  page_evidence: PhD fellowship in analogue quantum computing
+  verified: 2026-10-19
 - id: carlsberg-internationalisation-fellowships
   name: 嘉士伯基金会国际化博士后
   url: https://carlsbergfondet.dk/en/applicant/internationalisation-fellowships
@@ -4355,6 +4836,31 @@
   verify_method: page
   page_evidence: there are 4 openings fully funded PhD positions, in the fields of theoretical research on
   verified: 2026-10-18
+- id: saarland-demberg-nlp-jobs
+  name: 萨尔大学 Demberg 计算语言学实验室招聘页
+  url: https://www.uni-saarland.de/lehrstuhl/demberg/job-vacancies-at-the-lab.html
+  category: people-channels
+  regions:
+  - DE
+  disciplines:
+  - cs
+  - ai
+  funding: position
+  levels:
+  - phd
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: 2026-10-31
+  deadline_note: 页面列出 2 个博士岗位（W2935、W2936），截止 2026-10-31
+  status: open
+  notes: 萨大 Demberg 实验室可见 ELIZA 项目博士岗（W2866，E13 全职，4 年，需硕士学位），公告未见截止日期，以 uni-saarland.de 招聘页为准；未见博后岗位。
+  verify_method: page
+  page_evidence: 'Our lab at the Department of Computer Science are looking for excellent applicants for the following 2 PhD positions:'
+  verified: 2026-10-19
 - id: glasgow-terrier-jobs
   name: 格拉斯哥大学 Terrier 信息检索团队招聘页
   url: https://terrierteam.dcs.gla.ac.uk/Jobs.html
@@ -4401,6 +4907,29 @@
   verify_method: page
   page_evidence: Multiple PhD positions are open in the distributed systems lab.
   verified: 2026-10-18
+- id: polmeth-mailing-list
+  name: POLMETH 政治方法论邮件列表
+  url: https://polmeth.org/mailing-list
+  category: aggregators
+  regions:
+  - GLOBAL
+  disciplines:
+  - social
+  - econ
+  funding: info
+  levels:
+  - phd
+  - postdoc
+  cn_eligible: check
+  access:
+  - email
+  language: en
+  coverage: varies
+  status: ongoing
+  notes: 政治方法论学会邮件列表（2025 年起由 Penn State 托管），用于发布博士、博后岗位与会议信息；订阅见 polmeth.org。岗位是否带资助需逐条核实。
+  verify_method: page
+  page_evidence: It is thus used for announcements of conferences and open positions, to circulate abstracts, and to discuss issues relating to political methodology.
+  verified: 2026-10-19
 - id: linguist-rss-feeds
   name: LINGUIST List RSS（Support 与 Jobs）
   url: https://linguistlist.org/rss/
@@ -4588,6 +5117,30 @@
   verify_method: page
   page_evidence: Serão atribuídas 1.600 bolsas, mais 50 em relação ao concurso anterior
   verified: 2026-10-18
+- id: ncn-preludium-2026
+  name: 波兰 NCN PRELUDIUM（未取得博士学位者）
+  url: https://ncn.gov.pl/en/ogloszenia/konkursy/preludium25
+  category: gov-scholarships
+  regions:
+  - PL
+  disciplines:
+  - all
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: 2026-06-16
+  deadline_note: PRELUDIUM 25 轮 2026 年 6 月 16 日 14:00 已截止；2027 轮待 ncn.gov.pl 公告
+  status: closed
+  requirements: 申请时未取得博士学位；外籍申请者资格以 NCN 当期指南为准
+  notes: 12–36 个月项目，最高约 21 万兹罗提；2026 轮 6-16 截止，关注 2027 轮，外国申请者资格看 NCN 指南.
+  verify_method: page
+  page_evidence: The call for proposals in the OSF submission system is open from 16 March 2026 to 16 June 2026, at 2 p.m.
+  verified: 2026-10-19
 - id: sns-phd-admission-competition
   name: 比萨高等师范学院 SNS 博士招生
   url: https://www.sns.it/en/phd-admission-competition
@@ -4612,6 +5165,29 @@
   verify_method: page
   page_evidence: Call for admission to) Ph.D. positions at the Scuola Normale Superiore for the academic year 2026-2027 (42nd cycle)
   verified: 2026-10-17
+- id: polimi-ciclo-42-second-call
+  name: 米兰理工第 42 周期第二轮博士招生
+  url: https://dynamicpoli.polimi.it/en/phd/prospective-phd-candidates/admission/calls-and-open-positions/ciclo-42/2nd-call
+  category: doctoral-programs
+  regions:
+  - IT
+  disciplines:
+  - engineering
+  - cs
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: tuition
+  deadline_note: 第 42 周期 CSC 申请自 2025 年 11 月 3 日起；第 43 周期以官网为准
+  status: closed
+  notes: 第二轮 2026-09-18 已截止；关注第 43 周期，中国学生可看 CSC 合作岗位.
+  verify_method: page
+  page_evidence: 2nd Call 42nd cycle - deadline 18 September 2026 - starting date 1 November 2026
+  verified: 2026-10-19
 - id: unitn-international-studies-phd
   name: 特伦托大学国际研究博士（第 42 周期，5 个奖学金）
   url: https://www.unitn.it/sites/default/files/2026-03/Call_International_Studies_cycle42.pdf
@@ -4855,6 +5431,28 @@
   verify_method: page
   page_evidence: QIMR Berghofer is offering a limited number of PhD scholarships for top international PhD applicants.
   verified: 2026-10-17
+- id: msca-dn-2025-results-news
+  name: MSCA 博士网络 2025 批次评审结果（141 个项目，欧委会公告）
+  url: https://marie-sklodowska-curie-actions.ec.europa.eu/whats-new/news/msca-awards-eu61718-million-for-doctoral-programmes
+  category: doctoral-programs
+  regions:
+  - EU
+  disciplines:
+  - all
+  funding: info
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  deadline: varies
+  status: ongoing
+  notes: 2025 批次 141 个博士网络于 2026-03-25 公布（预算约 6.17 亿欧元，约 2115 名博士生）。查项目名与协调单位，再去 EURAXESS 或各网络官网找具体岗位，截止逐条核对。
+  verify_method: page
+  page_evidence: The European Commission has announced the results of the 2025 Marie Skłodowska-Curie Actions (MSCA) Doctoral Networks call.
+  verified: 2026-10-19
 - id: euraxess-dn-2025-results
   name: EURAXESS 北美站：MSCA 博士网络 2025 结果通报
   url: https://euraxess.ec.europa.eu/worldwide/north-america/news/msca-doctoral-networks-2025-call-results
@@ -5015,6 +5613,56 @@
   verify_method: page
   page_evidence: CENTA studentships are for 3.5 years and are funded by NERC.
   verified: 2026-10-19
+- id: sense-eo-cdt
+  name: 卫星数据环境科学 CDT（爱丁堡/利兹，NERC）
+  url: https://eo-cdt.org
+  category: doctoral-programs
+  regions:
+  - UK
+  disciplines:
+  - geo
+  - physics
+  - engineering
+  - cs
+  funding: fellowship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  status: closed
+  notes: SENSE 卫星数据环境科学 CDT：官网申请步骤页显示当前不接收申请，NERC 页面称培训期为 2020–2026。2027 入学公告未找到，请先查 eo-cdt.org 与 NERC 当期名单。
+  verify_method: page
+  page_evidence: SENSE fund 65 PhD students, providing them with stipend, residential training, fieldwork funds and covering all university fees for 3-years and 9-months.
+  verified: 2026-10-19
+- id: pinz-process-industries-net-zero-cdt
+  name: 过程工业净零 CDT（PINZ，约克/纽卡斯尔）
+  url: https://www.york.ac.uk/chemistry/study/postgraduate-research/funding/epsrc-process-industries-cdt/
+  category: doctoral-programs
+  regions:
+  - UK
+  disciplines:
+  - chem
+  - engineering
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: 'no'
+  access:
+  - web
+  language: en
+  coverage: full
+  stipend: £21,805/年（2026/27 UKRI 标准津贴，据约克大学页面）
+  deadline: varies
+  deadline_note: 2026/27 轮申请于 2026-07-31 截止；2027 年 10 月开课的项目仍在征集，截止以各项目公告为准
+  status: closed
+  requirements: 部分项目仅限英国 Home 学生，个别项目对国际生开放，需逐项目核实
+  notes: PINZ 净零 CDT（约克与纽卡斯尔合办）博士培训项目，资助覆盖学费与 UKRI 标准生活津贴。不同项目对国际生开放情况不一，资格改为 'check'，申请前需看具体项目公告。
+  verify_method: page
+  page_evidence: A tax-free annual stipend at the standard UKRI rate (£21,805 for 2026/27 entry)
+  verified: 2026-10-19
 - id: epfl-grid-ess-positions
   name: EPFL 电网与储能系统实验室（GRID-ESS）博士岗位
   url: https://www.epfl.ch/labs/grid-ess/?p=226
@@ -5038,6 +5686,32 @@
   verify_method: page
   page_evidence: The GRID-ESS Laboratory is seeking two highly motivated PhD students to join our research team
   verified: 2026-10-18
+- id: matse-illinois-phd
+  name: UIUC MatSE 材料科学与工程博士
+  url: https://matse.illinois.edu/admissions/graduate/phd
+  category: doctoral-programs
+  regions:
+  - US
+  disciplines:
+  - engineering
+  - chem
+  - physics
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: 2026-12-01
+  deadline_note: 官网写明秋季 2027 入学须在 12 月 1 日前申请。
+  status: open
+  requirements: 硕士或相关学位；GPA 不低于 3.0；助教岗需英语口语（非英语母语：托福口语 24 或雅思口语 8）；无系资助时需财力证明
+  notes: 官网称博士生可获助研/助教/奖学金，含全额学费减免与津贴；Grainger 五年保障。国际生的工作比例上限来自旧版内部资料，需向项目确认现行规定。
+  verify_method: page
+  page_evidence: Apply by December 1 for Fall 2027 admission.
+  verified: 2026-10-19
 - id: matse-wisc-phd-funding
   name: 威斯康星大学麦迪逊材料科学与工程博士资助说明
   url: https://guide.wisc.edu/graduate/materials-science-engineering/materials-science-engineering-phd/materials-science-engineering-phd_fundingtext.pdf
@@ -5059,6 +5733,76 @@
   notes: 页面称博士生资助包括科研助理（RA）、助教（TA）、奖学金等，RA 在任何材料科学方向均有，建议联系教授；页面未说明国际生限制。
   verify_method: page
   page_evidence: Research assistantships (RAs) are available in any materials science area.
+  verified: 2026-10-19
+- id: psu-matse-phd
+  name: 宾州州立 iMatSE 材料科学与工程博士
+  url: https://www.matse.psu.edu/why-matse-grad-school
+  category: doctoral-programs
+  regions:
+  - US
+  disciplines:
+  - engineering
+  - chem
+  - physics
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: varies
+  deadline_note: 各项目截止日期以研究生院及 iMatSE 为准
+  requirements: 物理科学或工程类本科，GPA 不低于 3.3/4.0；GRE 可选；国际申请者可能需提交 TOEFL/IELTS
+  notes: 官网称博士生通常获得全额资助（学费与生活费，通过 fellowship 或 RA）；国际生是否同等适用页面未说明，需向项目确认。
+  verify_method: page
+  page_evidence: iMatSE students in the Ph.D. or thesis-based M.S. program receive full funding (stipend and tuition) in the form of fellowships or research assistantships.
+  verified: 2026-10-19
+- id: physics-wisc-phd-guarantee
+  name: 威斯康星大学麦迪逊物理学博士（五年资助保障）
+  url: https://guide.wisc.edu/graduate/physics/physics-phd/physics-phd_fundingtext.pdf
+  category: doctoral-programs
+  regions:
+  - US
+  disciplines:
+  - physics
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: unknown
+  deadline_note: Fall 2026 申请截止 2025-12-15 已过；Fall 2027 截止未公布，以官网为准
+  status: closed
+  requirements: 国际申请人需提交财务证明
+  notes: 物理系 2025 年 10 月申请说明称录取博士生承诺 5 年资助（助教/助研，含学费减免、津贴与健康保险资格），保障不覆盖全部毕业时长。细则需向研究生办公室确认。
+  verify_method: page
+  page_evidence: All admitted PhD students are provided with a guarantee of financial
+  verified: 2026-10-19
+- id: physics-utah-phd-appguide
+  name: 犹他大学物理系博士申请指南（资助条款）
+  url: https://physics.utah.edu/wp-content/uploads/sites/65/2024/08/AppGuideF25.pdf
+  category: doctoral-programs
+  regions:
+  - US
+  disciplines:
+  - physics
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: tuition
+  requirements: 需理科本科背景并掌握微积分至微分方程；国际申请者需英语成绩；提交 CV、个人陈述及 3–5 封推荐信；仅秋季入学
+  notes: 指南（2025 秋版）称 PhD 生一般以助教（TA）职位入学，并可享研究生院学费福利及 100% 医保保费；指南中未见年津贴金额，需向 admissions@physics.utah.edu 确认当年 offer 金额。
+  verify_method: page
+  page_evidence: The Department of Physics & Astronomy is a competitive program that provides
   verified: 2026-10-19
 - id: chem-stanford-phd-financial-support
   name: 斯坦福大学化学系博士资助页
@@ -5760,6 +6504,55 @@
   verify_method: page
   page_evidence: Postdoctoral fellowship positions
   verified: 2026-10-18
+- id: sickkids-rtc-awards
+  name: SickKids 研究培训中心奖学金与博后奖
+  url: https://www.sickkids.ca/en/research/research-training-centre/scholarships-fellowships-awards/
+  category: university-schemes
+  regions:
+  - CA
+  disciplines:
+  - med
+  - bio
+  funding: mixed
+  levels:
+  - phd
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: stipend
+  stipend: Restracomp 奖学金 $35,000/年（两年）；Restracomp 研究员奖 $60,000/年（两年，加元，据搜索摘要）
+  deadline_note: RTC 竞赛轮次说法不一（每年 10 月与 4 月两轮，或每年一次），以当年官网为准
+  requirements: 需 PI 推荐；面向研究生与博士后；非加拿大人需有效工作许可；国际生具体资格以官网为准
+  notes: SickKids 研究培训中心奖学金与博后奖，含 Restracomp 奖学金与研究员奖，研究员奖约 6 万加元/年（两年）。搜索摘要称约一半研究员来自加拿大以外，但国际生条款未确认，cn_eligible 保持 check。
+  verify_method: page
+  page_evidence: Restracomp scholarships are valued at $35,000/year for two years
+  verified: 2026-10-19
+- id: nthu-type-ab-scholarship-2024-doc
+  name: 清华大学（新竹）国际研究生奖学金 Type A/B
+  url: https://oga.site.nthu.edu.tw/var/file/524/1524/img/749516311.pdf
+  category: university-schemes
+  regions:
+  - TW
+  disciplines:
+  - all
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  stipend: Type A：学杂费全免 + 月补助，博士约 NT$20,000–40,000/月（OGA 出资 10,000 + 导师/系所 10,000–30,000；人文社科基数 NT$10,000）；Type B 仅免学费
+  deadline_note: 2027 春季申请 2026-08-03 至 2026-09-30 已截止；2027 秋季窗口未经官方核实
+  status: closed
+  requirements: 入学申请时自动参评，无需另行申请；持台湾工作/居留身份者不符合资格；每年需续领
+  notes: 清华大学（新竹）国际研究生奖学金：Type A 为全额学费加月补助，Type B 仅减免学杂费、无补助。不可与台湾政府奖学金叠加。2026-09-30 属 2027 春季批次；秋季时间需在 OGA 官网核实。
+  verify_method: page
+  page_evidence: NTHU International Student Scholarship (PhD)
+  verified: 2026-10-19
 - id: naist-doctoral-prescreening-2026
   name: NAIST 博士预选与 MEXT 奖学金指南（2026 版）
   url: https://mswebs.naist.jp/wp-content/uploads/2026/08/Application-Guidelines-for-the-2026-Pre-screening-for-Doctoral-Program_Rev-on-August-4.pdf
@@ -5788,6 +6581,32 @@
   verify_method: page
   page_evidence: Application Guidelines for the 2026 Pre-screening for Doctoral Program
   verified: 2026-10-17
+- id: kanazawa-ii-esd-mext
+  name: 金泽大学自然科学研究科英文特别课程博士项目（II-ESD，MEXT）
+  url: https://www.nst.kanazawa-u.ac.jp/eng/mext-scholarship-programs-ii-esd/
+  category: university-schemes
+  regions:
+  - JP
+  disciplines:
+  - engineering
+  - cs
+  - bio
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: partial
+  deadline: 2026-01-05
+  deadline_note: 2026 轮截止 2026-01-05（已过）；2027 轮待金泽大学公告
+  status: closed
+  requirements: 须具有与日本建交国家国籍；2026-09-30 前年满 24 岁；上一学校 GPA 不低于 2.30；英文授课
+  notes: 英文授课博士特别课程；MEXT 奖学金仅 5 个名额，另有 10 个自费国际生名额（需自付学费）。2027 轮以官网公告为准。
+  verify_method: page
+  page_evidence: The application period has been extended until Monday, January 5, 2026, 5:00 PM(Japan time)
+  verified: 2026-10-19
 - id: saitama-esiti-mext-2027
   name: 埼玉大学 ESITI 项目 MEXT 博士名额（2027-10 入学）
   url: https://park.saitama-u.ac.jp/~rese/admission.html
@@ -5909,6 +6728,55 @@
   verify_method: page
   page_evidence: KEK provide a scholarship to privately financed international students enrolled in 3-year doctoral course.
   verified: 2026-10-18
+- id: jsps-dc-fy2027-guidelines
+  name: JSPS 特别研究员（DC1/DC2）FY2027 英文指南
+  url: https://www.jsps.go.jp/file/storage/j-pd/data/recruiting/2_dc_yoko_en.pdf
+  category: fellowships
+  regions:
+  - JP
+  disciplines:
+  - all
+  funding: fellowship
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: varies
+  deadline_note: FY2027 DC 各大学内部截止约 2026-05（已过）；下一轮以 JSPS 公告为准
+  status: closed
+  requirements: 须经所在日本大学内部审核后提交，个人不能直接申请；在日本大学攻读博士课程（含外国学生）
+  notes: 面向在日本大学读博的学生（含外国学生），须经所在大学内部审核提交；FY2027 内部截止约 2026-05 已过.
+  verify_method: page
+  page_evidence: FY2027 Application Guidelines for JSPS Doctoral Course (DC) Research Fellowships
+  verified: 2026-10-19
+- id: osaka-es-graduate-admissions
+  name: 大阪大学工学研究科博士招生页（学费免除与公募）
+  url: https://www.es.osaka-u.ac.jp/en/admission-aid/graduate-admissions/index.html
+  category: doctoral-programs
+  regions:
+  - JP
+  disciplines:
+  - engineering
+  - physics
+  - chem
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  - email
+  language: en
+  coverage: tuition
+  deadline_note: 以页面公告为准；工学研究科学费免除仅限自费国际生中成绩优秀者；享受 CSC 公派奖学金的学生不适用大阪大学学费免除制度
+  requirements: 需为自费国际生（在留资格为留学），入学考试成绩优秀；CSC 公派生不适用学费免除
+  notes: 博士公募批次（10 月或 4 月入学），自费国际生优秀入学者有学费免除；截止以页面公告为准.
+  verify_method: page
+  page_evidence: The University of Osaka provides a tuition fee exemption system (Tuition Fee Exemption for International Honors Students) for privately-funded international students
+  verified: 2026-10-19
 - id: hiroshima-global-doctoral-fellowship
   name: 广岛大学 Global Doctoral Fellowship（国际博士生有薪研究员计划）
   url: https://www.hiroshima-u.ac.jp/node/94245
@@ -6046,6 +6914,81 @@
   verify_method: page
   page_evidence: The scholarship supports international students pursuing a Doctoral degree at Khalifa University.
   verified: 2026-10-19
+- id: ku-csc-joint-phd
+  name: 哈利法大学–国家留学基金委（CSC）联合博士项目
+  url: https://www.ku.ac.ae/khalifa-university-launches-arab-regions-first-joint-phd-scholarship-program-with-chinas-csc
+  category: university-schemes
+  regions:
+  - AE
+  - CN
+  disciplines:
+  - engineering
+  - physics
+  - chem
+  - bio
+  - cs
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: 'yes'
+  access:
+  - web
+  language: en
+  coverage: full
+  stipend: KU 每月 9,200 迪拉姆，另有 CSC 额外津贴，含往返机票
+  deadline_note: 第三方称每年 2 月 10 日截止（秋季入学），需以 KU 官网核实
+  status: closed
+  requirements: 中国大陆公民；工程或理学博士；须已获 KU 无条件录取；资助最长 48 个月
+  notes: KU 官方目录确认：CSC-KU 联合博士仅限中国大陆公民，工程与理学博士；KU 每月 9,200 迪拉姆并覆盖学费，另由 CSC 提供津贴与往返机票。
+  verify_method: page
+  page_evidence: enabling up to 30 Chinese students each year to pursue their PhD studies at the Khalifa University.
+  verified: 2026-10-19
+- id: nyuad-global-phd-biology
+  name: NYUAD 全球博士奖学金：生物
+  url: https://nyuad.nyu.edu/en/academics/graduate-and-phd/phd-programs/global-phd-student-fellowship-in-biology.html
+  category: doctoral-programs
+  regions:
+  - AE
+  - US
+  disciplines:
+  - bio
+  funding: fellowship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline_note: 2025 年秋季轮截止 2024 年 12 月 1 日（已过）；仅秋季入学，下一轮开放时间与截止以 GSAS 公告为准
+  status: upcoming
+  requirements: 仅秋季入学；通过 GSAS 申请生物博士项目，无单独奖学金申请；需完成纽约课程与阿布扎比研究
+  notes: NYUAD 全球博士奖学金（生物）：录取即全额资助，含学费、医保、研究助理津贴，阿布扎比住宿免费并补贴纽约住宿；纽约课程 1–2 年，阿布扎比研究 3–4 年。截止以 GSAS 公告为准。
+  verify_method: page
+  page_evidence: If selected, the doctorate is fully funded under the NYU Abu Dhabi Global PhD Student Fellowship.
+  verified: 2026-10-19
+- id: nyuad-global-phd-mathematics
+  name: NYUAD 全球博士奖学金：数学
+  url: https://nyuad.nyu.edu/en/academics/graduate-and-phd/phd-programs/global-phd-student-fellowship-in-mathematics.html
+  category: doctoral-programs
+  regions:
+  - AE
+  - US
+  disciplines:
+  - math
+  funding: fellowship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline_note: 官网页面未见明确截止日期；以官网为准
+  notes: NYUAD 全球博士奖学金（数学），与 NYU Courant 合办：前 1–2 年在纽约学习，后 3–4 年在阿布扎比研究，全额资助。申请经 NYU 研究生院 PhD 申请并勾选 NYUAD 意向；开放时间以官网为准。
+  verify_method: page
+  page_evidence: If selected, the doctorate is fully funded under the NYU Abu Dhabi Global PhD Student Fellowship.
+  verified: 2026-10-19
 - id: hbku-graduate-scholarship
   name: 哈马德·本·哈利法大学（HBKU）研究生奖学金
   url: https://www.hbku.edu.qa/en/scholarship
@@ -6114,6 +7057,52 @@
   verify_method: page
   page_evidence: The Azrieli Foundation offers 24 fellowships each year to outstanding postdoctoral students from outside of Israel
   verified: 2026-10-18
+- id: rca-studentships
+  name: 皇家艺术学院（RCA）研究生奖学金与 Doctoral Landscape Award 页
+  url: https://www.rca.ac.uk/studentships
+  category: university-schemes
+  regions:
+  - UK
+  disciplines:
+  - humanities
+  - social
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: partial
+  deadline: 2026-01-19
+  deadline_note: 2026 年 9 月入学的 DLA 一轮截止 2026-01-19（已过）；2027 轮待 RCA 公布
+  status: closed
+  requirements: 国际生名额有限，DLA 多只覆盖 Home 学费；需先获 RCA 录取
+  notes: AHRC/EPSRC DLA 面向国际生但名额有限，且只覆盖 Home 学费；2025/26 一轮截止 2026-01-19，下一轮预计同期。Frank Bowling 奖学金仅限英国黑人非洲/加勒比裔.
+  verify_method: page
+  page_evidence: NetZero Futures (NZF) Doctoral Landscape is a fully-funded EPSRC studentship.
+  verified: 2026-10-19
+- id: rca-funding-research-students
+  name: RCA 研究生资助说明（MPhil/PhD）
+  url: https://www.rca.ac.uk/study/fees-funding/financial-help-/funding-research-students
+  category: university-schemes
+  regions:
+  - UK
+  disciplines:
+  - humanities
+  - social
+  funding: info
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  notes: RCA 汇总学校奖学金、AHRC 合作项目（LAHP）与申请入口。页面表述不一：部分页面称 LAHP 不再开新轮，另有页面写明 11 月申请窗口，申请前以 RCA 官网与 LAHP 门户为准。旧页面要求 12 月 1 日前提交入学申请，资格多面向英国本地学生。
+  verify_method: page
+  page_evidence: NetZero Futures (NZF) Doctoral Landscape is a fully-funded EPSRC studentship.
+  verified: 2026-10-19
 - id: sussex-ahrc-dla
   name: 萨塞克斯大学 AHRC Doctoral Landscape Award（艺术与人文）
   url: https://www.sussex.ac.uk/study/fees-funding/phd-funding/view/1963-AHRC-Doctoral-Landscape-Award-PhD-Scholarships-for-research-in-Arts-and-Humanities
@@ -6137,6 +7126,28 @@
   requirements: 须获得 Sussex 艺术与人文学院博士录取；研究须属 AHRC 资助范围；国际生需自付与 Home 学费的差额
   notes: 国际生可申请，但 AHRC 只覆盖 Home 学费，差额需另找。
   verified: 2026-10-13
+- id: qub-sarc-phd
+  name: 贝尔法斯特女王大学声音艺术研究中心（SARC）博士
+  url: https://www.qub.ac.uk/research-centres/sarc/programmes/index.html
+  category: doctoral-programs
+  regions:
+  - UK
+  disciplines:
+  - humanities
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline_note: 未找到当前一轮的资助与截止信息，需联系 sarc@qub.ac.uk 核实
+  requirements: 需先联系导师；国际生名额有限
+  notes: 资助来源含 DfE、NINE DTP 与 AHRC；先联系导师再申请，国际生仅限有限配额.
+  verify_method: page
+  page_evidence: The Douglas C Harrison PhD studentship offers full funding valued in line with DfE Stipend (£19,237 for 24/25)
+  verified: 2026-10-19
 - id: yale-gsas-architecture-phd
   name: 耶鲁 GSAS 建筑（历史与理论）博士
   url: https://gsas.yale.edu/programs-of-study/architecture
@@ -6354,7 +7365,9 @@
   status: upcoming
   requirements: 需先获得资助（PhD 岗位、公共部门或产业 PhD 等）并能提供证明；通常需五年制硕士或同等学历（教育学相关）；需至少一名导师在 OsloMet 任职；须提交研究计划并经博士委员会批准
   notes: OsloMet LUI 教育学博士：入学以资金为前提（须先有 PhD 岗位或外部资助），另需项目提纲经博士委员会审批；岗位通常 11–12 月发布；纯学历申请通常不带薪。
-  verified: 2026-10-16
+  verify_method: page
+  page_evidence: PhD positions at the faculty are usually advertised in the autumn.
+  verified: 2026-10-19
 - id: cam-esrc-dtp-studentship
   name: 剑桥 CAM-DTP ESRC 社科博士奖学金页
   url: https://www.esrcdtp.group.cam.ac.uk/programme/the-studentship/
@@ -6427,6 +7440,30 @@
   verify_method: page
   page_evidence: There is always the possibility to do a PhD. Please contact the directors or research group leaders at the Institute.
   verified: 2026-10-19
+- id: oxford-education-dphil
+  name: 牛津大学教育学院 DPhil 与 Richard Pring 奖学金
+  url: https://www.education.ox.ac.uk/study/dphil
+  category: university-schemes
+  regions:
+  - UK
+  disciplines:
+  - social
+  - humanities
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: partial
+  deadline_note: 院系研究生项目统一 1 月截止；Pring 奖学金 2027 轮是否续办尚未公布
+  status: closed
+  requirements: 需先联系潜在导师；Pring 奖学金面向所有国家申请者，但仅覆盖本地学费与接近 UKRI 标准的生活补贴，国际生需补足海外学费差额
+  notes: 牛津教育学院 DPhil：Richard Pring 奖学金面向所有国家申请者，覆盖本地学费与接近 UKRI 标准的生活补贴；2026-27 入学已关闭申请，2027-28 入学待开放，需先联系导师。
+  verify_method: page
+  page_evidence: The scholarship covers home-level fees plus a stipend benchmarked with UKRI rates.
+  verified: 2026-10-19
 - id: mgs-nottingham-applied-linguistics
   name: MGS 诺丁汉应用语言学 ESRC 路径
   url: https://warwick.ac.uk/fac/cross_fac/mgsdtp/studentships/nottingham/app-ling/
@@ -6475,6 +7512,28 @@
   notes: SGSSS 社科博士资助覆盖至 UKRI Home 学费标准，国际生须自付学费差额及签证费用。2026–27 标准与资格需以官网为准。
   verify_method: page
   page_evidence: Each award will cover the PhD tuition fee and a stipend at the UKRI level for 3.5 years although the award length will vary depending on your training needs.
+  verified: 2026-10-19
+- id: manchester-international-partnership-phd
+  name: 曼彻斯特大学国际合作 PhD 奖学金（4 年）
+  url: https://www.bmh.manchester.ac.uk/study/research/funding-fees/funded-programmes/international-partnership-phd/
+  category: doctoral-programs
+  regions:
+  - UK
+  disciplines:
+  - all
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: 'yes'
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline_note: 2026/27 入学申请已关闭；2027 批次官网未确认（第三方称 2026-12-11，需核实）
+  status: upcoming
+  notes: 覆盖学费、UKRI 标准生活费和研究经费，含海外合作机构访学；机票与签证自付；2026/27 申请已关闭，关注 2027 批次.
+  verify_method: page
+  page_evidence: These studentships available to both UK and international applicants.
   verified: 2026-10-19
 - id: uab-csc-phd-opportunities
   name: 巴塞罗那自治大学 UAB 博士机会与 CSC 联合资助
@@ -6525,6 +7584,28 @@
   verify_method: page
   page_evidence: We offer fully funded studentships (including stipend, tuition fees and consumables) to start in September each year
   verified: 2026-10-18
+- id: imprs-ufast-hamburg
+  name: IMPRS UFAST（汉堡超快成像与结构动力学国际马普研究生院）
+  url: https://www.desy.de/sites2009/site_www-desy/content/e184219/e272701/e279904/e296041/infoboxContent344756/IMPRSUFAST-Stellenausschreibung2025-2026-final_ger.pdf
+  category: doctoral-programs
+  regions:
+  - DE
+  disciplines:
+  - physics
+  - chem
+  funding: position
+  levels:
+  - phd
+  cn_eligible: 'yes'
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline_note: 第三方 Arbeitsagentur 岗位页列 2026-11-06 截止，但该页起始时间写 2026 年，前后矛盾；历年多在 11 月初截止，以 IMPRS-UFAST 官网为准
+  notes: 马普/DESY/汉堡大学联合的带薪全额博士岗；第三方转述 2027 批次截止约 2026-11-06，以官网门户为准.
+  verify_method: page
+  page_evidence: o A 3-year employment contract based on the German federal pay agreement
+  verified: 2026-10-19
 - id: imprs-hd-astro-heidelberg
   name: IMPRS-HD 天文与宇宙物理（海德堡）
   url: https://www.imprs-hd.mpg.de/3192/Application
@@ -6866,6 +7947,63 @@
   verify_method: page
   page_evidence: For PhD students supported through the CSC partnership, with tuition fees funded by Southampton and living costs funded by the CSC.
   verified: 2026-10-17
+- id: royal-society-dorothy-hodgkin-fellowship
+  name: Royal Society Dorothy Hodgkin Fellowship（自然科学早期博后，英国）
+  url: https://royalsociety.org/grants/dorothy-hodgkin-fellowship/
+  category: postdoc-fellowships
+  regions:
+  - UK
+  disciplines:
+  - physics
+  - chem
+  - bio
+  - math
+  - engineering
+  funding: fellowship
+  levels:
+  - postdoc
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: 2026-10-29
+  deadline_note: 2026 轮最终截止 10 月 28 日（多所高校页面）；大学内部截止更早
+  status: open
+  requirements: 已获博士学位且博后研究经验不超过 6 年；须有因个人情况产生的灵活支持需求；研究须在英国机构进行；已持永久职位者不符合
+  notes: 须在英国机构开展研究；需英国签证者可走 Global Talent 快速通道。2026 轮最终截止为 10 月 28 日，大学内部截止更早，需提前与拟合作院系联系。国籍条款以皇家学会官方说明为准。
+  verify_method: page
+  page_evidence: Eight-year fellowship with a maximum of £1,907,400 in funding
+  verified: 2026-10-19
+- id: royal-society-university-research-fellowship
+  name: Royal Society University Research Fellowship（URF，英国大学长期研究员）
+  url: https://royalsociety.org/grants/university-research/
+  category: postdoc-fellowships
+  regions:
+  - UK
+  disciplines:
+  - physics
+  - chem
+  - bio
+  - math
+  - engineering
+  - cs
+  funding: fellowship
+  levels:
+  - postdoc
+  cn_eligible: 'yes'
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: 2026-09-09
+  deadline_note: 官网原文未取得：二手资料称 2027 轮截止 2026-09-09（已过），2028 轮待 royalsociety.org 公告
+  status: closed
+  requirements: 博士后 3–8 年（自获博士学位起算）；宿主机构须在英国或爱尔兰；国籍条款官方原文未核实
+  notes: 英国皇家学会大学研究员（URF）：博士毕业 3–8 年，宿主机构须在英国或爱尔兰；2027 轮截止日未在官网核实。国籍条款以 royalsociety.org 为准。
+  verify_method: page
+  page_evidence: Applicants can apply for up to a maximum of £1,907,400 over eight years.
+  verified: 2026-10-19
 - id: wellcome-early-career-awards
   name: Wellcome Early-Career Awards（早期独立研究经费）
   url: https://wellcome.org/research-funding/schemes/wellcome-early-career-awards
@@ -8291,6 +9429,33 @@
   verify_method: page
   page_evidence: Thank you for your interest. Applications are now closed.
   verified: 2026-10-17
+- id: quantum-informatics-cdt
+  name: EPSRC 量子信息学博士培训中心（Quantum Informatics CDT）
+  url: https://www.quantuminformatics-cdt.ac.uk/?p=523
+  category: doctoral-programs
+  regions:
+  - UK
+  disciplines:
+  - physics
+  - cs
+  - math
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: full
+  stipend: 国际生 2026/27 学费 £5,238、津贴 £21,805/年（UKRI 标准）；本国生 TechFirst 津贴 £30,000/年
+  deadline: 2027-01-07
+  deadline_note: 2027/28 入学轮 2026-10-06 开放申请，2027-01-07 截止；面试 2027 年 3 月下旬
+  status: open
+  requirements: 国际生可申请，但 EPSRC 资助名额中国际生上限为 30%
+  notes: EPSRC 量子信息科学博士培训中心，资助覆盖学费、4 年生活津贴及研究经费。国际生占比上限 30%（CDT 常见问题页）。2026 入学轮已截止，2027/28 时间表未公布。
+  verify_method: page
+  page_evidence: 'Fully funded studentships are available to both home and international applicants:'
+  verified: 2026-10-19
 - id: aggregator-academicjobsonline-qc
   name: AcademicJobsOnline 量子计算职位板
   url: https://academicjobsonline.org/ajo/QC
@@ -8364,6 +9529,30 @@
   verify_method: page
   page_evidence: The IMPRS coordination office will guide you through all of these steps – just reach out to us!
   verified: 2026-10-18
+- id: kent-leverhulme-space-for-nature-phd-3
+  name: 肯特大学 Leverhulme「Space for Nature」博士奖学金（Durrell 保护生态研究所）
+  url: https://www.kent.ac.uk/durrell-institute-conservation-ecology/research/leverhulme-scholars/leverhulme-space-for-nature-doctoral-scholars-phd-3
+  category: university-schemes
+  regions:
+  - UK
+  disciplines:
+  - eco
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: unknown
+  stipend: £19,237/年（2024/25 RCUK 最低博士津贴，免税；页面数据可能过时）
+  deadline_note: 2026 轮已关闭；2027 轮待公布，各页面截止日期说法不一
+  status: closed
+  requirements: 以英国本地（home）学生为主，仅少量接收国际生；需满足 Durrell 保护生态研究所博士录取要求
+  notes: Leverhulme「Space for Nature」博士奖学金主要面向英国本地学生，少量名额可接收国际生；学费按本地费率支付，另有 £10,000 研究与培训基金。2026 轮已关闭，下一轮以 Kent 页面公告为准，咨询 LHScholars@kent.ac.uk。
+  verify_method: page
+  page_evidence: The 2026 scheme is now closed for applications.
+  verified: 2026-10-19
 - id: exeter-gamebirds-lowland-ecosystems-phd
   name: 埃克塞特大学释放野鸡对低地生态系统影响博士 studentship（BASC 资助）
   url: https://www.jobs.ac.uk/job/DTE203/phd-studentship-the-effects-of-released-gamebirds-on-the-lowland-ecosystems-of-s-england-phd-industry-funded
@@ -8389,6 +9578,31 @@
   verify_method: page
   page_evidence: For eligible students the studentship will cover Home tuition fees plus an annual tax-free stipend of at least £21,805 for 3.5 years full-time.
   verified: 2026-10-19
+- id: senckenberg-museum-frankfurt-stellenanzeigen
+  name: 森肯贝格自然博物馆（法兰克福）招聘页
+  url: https://museumfrankfurt.senckenberg.de/en/stellenanzeigen/
+  category: university-schemes
+  regions:
+  - DE
+  disciplines:
+  - bio
+  - eco
+  funding: position
+  levels:
+  - phd
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: varies
+  deadline_note: 各岗位单独设截止；所见岗位截止均已过，需定期刷新
+  status: ongoing
+  notes: 德国森肯贝格自然博物馆（法兰克福）招聘页，常见带薪博士（部分时间）或博后合同，多为 3–4 年；需定期刷新查看新岗位。非欧盟国籍的居留许可须另行核实。
+  verify_method: page
+  page_evidence: 'Type of contract: Limited to 4 years, until 31.12.2030'
+  verified: 2026-10-19
 - id: utep-eeb-funded-ra-phd
   name: 德州大学埃尔帕索分校（UTEP）EEB 博士项目（带薪 RA 与学费减免）
   url: https://www.utep.edu/science/eeb/Academic%20Programs/phd.html
@@ -8412,6 +9626,27 @@
   status: open
   notes: UTEP EEB 官网称提供多个带 RA 岗位，合格申请者可获学费减免（比例与津贴官网未列出）；需先邮件联系导师。
   verified: 2026-10-17
+- id: manchester-2d-materials-cdt
+  name: 曼彻斯特 2D Materials of Tomorrow CDT 全额博士项目
+  url: https://www.manchester.ac.uk/study/postgraduate-research/programmes/list/21637/phd-2d-materials-of-tomorrow-cdt/
+  category: doctoral-programs
+  regions:
+  - UK
+  disciplines:
+  - engineering
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  requirements: 二等一荣誉学位或同等学历，并有至少 4 年相关培训（本科+硕士）；有科研经历更佳。申请前先邮件联系 2D-materials@manchester.ac.uk。
+  notes: EPSRC CDT，曼彻斯特与剑桥合办，曼彻斯特每年至少 8 个全额名额；2025 年职位信息称全额名额限英国学生，2026 年官网页面未重复该限制，国际生资格需向 CDT 确认。
+  verify_method: page
+  page_evidence: The EPSRC Centre for Doctoral Training in 2D Materials of Tomorrow (2DMoT) researches the science and applications of two-dimensional materials
+  verified: 2026-10-19
 - id: faraday-battery-phd-studentships
   name: 法拉第研究所电池 PhD/EngD 奖学金（英国合作高校）
   url: https://www.faraday.ac.uk/opportunities/recruiting-phd-engd-studentships-in-battery-science-engineering/
@@ -8486,6 +9721,34 @@
   verify_method: page
   page_evidence: Several Research Associate positions are available immediately to work on electronic devices based on two-dimensional semiconductors
   verified: 2026-10-17
+- id: rmit-arc-coe-combs-phd
+  name: RMIT ARC 卓越中心 COMBS 博士奖学金（材料与光电方向）
+  url: https://www.rmit.edu.au/students/careers-opportunities/scholarships/research/phd-scholarship-in-arc-coe-combs
+  category: doctoral-programs
+  regions:
+  - AU
+  disciplines:
+  - engineering
+  - physics
+  - chem
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: 'yes'
+  access:
+  - web
+  - email
+  language: en
+  coverage: stipend
+  stipend: 34,841（页面标示 $，以官网为准）
+  deadline: unknown
+  deadline_note: 列表截止日显示为 2030-12-31，疑似占位，以官网为准
+  status: open
+  requirements: 以获得 RMIT 博士录取为前提；国际生资格与学费覆盖未确认，需向 RMIT 研究奖学金办公室核实
+  notes: RMIT 由 ARC 光学微梳卓越中心（COMBS）资助的博士奖学金，面向材料、电子与光子工程方向。申请处于开放状态；国际生资格与学费覆盖未经官网确认。
+  verify_method: page
+  page_evidence: Applications are now open.
+  verified: 2026-10-19
 - id: mpi-susmat-admission
   name: 马普可持续材料研究所（MPI-SusMat）博士招生页
   url: https://www.mpie.de/2928204/admission
@@ -9017,6 +10280,51 @@
   verify_method: page
   page_evidence: The Sino-Dutch Agriculture Green Development (AGD) Programme is a PhD programme jointly conducted
   verified: 2026-10-17
+- id: psu-plant-science-assistantships
+  name: 宾州州立大学植物科学系博士助教岗位
+  url: https://plantscience.psu.edu/graduate/funding-opportunities/assistantships
+  category: university-schemes
+  regions:
+  - US
+  disciplines:
+  - bio
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  - email
+  language: en
+  coverage: full
+  deadline: varies
+  deadline_note: 各导师自行招聘，无统一截止；建议直接联系导师
+  status: ongoing
+  requirements: 助教岗位含学费减免与津贴；国际生资格未在本页确认，需向系里核实
+  notes: 每年竞争择优发放助教岗位，含津贴和学费减免；建议直接联系导师并核实国际生资格。
+  verify_method: page
+  page_evidence: PhD Graduate Assistantships in Climate-Smart Dairy Crop Systems
+  verified: 2026-10-19
+- id: jic-postgraduate-opportunities
+  name: 约翰英纳斯中心（JIC）博士研究机会（Norwich DTP 等）
+  url: https://jic.ac.uk/training-careers/postgraduate-opportunities/current-postgraduate-research-opportunities/
+  category: university-schemes
+  regions:
+  - UK
+  disciplines:
+  - bio
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  notes: 植物与微生物科学全额博士岗位，多由 Norwich BBSRC DTP 资助；多在秋季发布、11 月底截止；国际生资格看每个岗位。
+  verify_method: page
+  page_evidence: Most studentships are advertised during the autumn with application deadlines at the end of November for entry in October of next year.
+  verified: 2026-10-19
 - id: harper-adams-research-degrees
   name: 哈泊亚当斯大学研究学位与奖学金入口
   url: https://www.harper-adams.ac.uk/research/688/research-degrees/
@@ -9065,6 +10373,30 @@
   notes: CSIRO Data61 资助的补充奖学金（top-up），须同时是 ANU 基础博士奖学金的申请人或获得者，并承担已批准的 CSIRO-ANU 课题。通过 CEAT 网站查看课题并表达意向。旧页面称按 AGRTP 全额标准，以现行条款为准。
   verify_method: page
   page_evidence: How to apply - EOIs and Applications have now closed
+  verified: 2026-10-19
+- id: imperial-aeronautics-phd-funding
+  name: Imperial 航空系 PhD 机会与资助页
+  url: https://www.imperial.ac.uk/aeronautics/study/phd/phd-opportunities-and-funding/
+  category: doctoral-programs
+  regions:
+  - UK
+  disciplines:
+  - engineering
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: varies
+  deadline: unknown
+  deadline_note: 2026-27 轮已过；2027-28 轮日期以 Imperial 官网公告为准
+  status: closed
+  requirements: 需先获得导师书面确认支持；现有 Imperial 注册博士生不符合 President's PhD 资格；President's PhD 面向全球学生，无国籍限制
+  notes: Imperial 航空系 PhD 机会页列出导师课题与资助渠道，通常需先联系导师。学院 President's PhD Scholarships 为全额资助，面向全球学生、竞争性录取；2026-27 轮已截止，需关注下一轮官方公告。部分导师已不接受 President's 学生，申请前需核对官网名单。
+  verify_method: page
+  page_evidence: Students in the department are funded from a variety of sources, including UK Research Councils, industry, College scholarships and departmental funding.
   verified: 2026-10-19
 - id: imperial-structures-phd-study
   name: Imperial 土木环境工程结构组博士说明页
@@ -9130,6 +10462,26 @@
   verify_method: page
   page_evidence: Apply to these studentships for admission in October 2027.
   verified: 2026-10-19
+- id: ntu-cee-phd-by-research
+  name: NTU 土木与环境工程 PhD（研究型）
+  url: https://www.ntu.edu.sg/education/graduate-programme/cee-PhD-programme-(by-research)
+  category: doctoral-programs
+  regions:
+  - SG
+  disciplines:
+  - engineering
+  funding: info
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  notes: 可通过 NTU 研究生院全额奖学金入口选择本学院；8 月入学轮截止约 2–3 月，以官网为准。
+  verify_method: page
+  page_evidence: There are two intakes each year - August or January.
+  verified: 2026-10-19
 - id: dlr-daad-fellowships
   name: DLR-DAAD 联合研究奖学金（航空/空间/交通/能源）
   url: https://www.dlr.de/en/careers-and-education/research-and-promotion/dlr-daad-fellowships
@@ -9177,6 +10529,27 @@
   verify_method: page
   page_evidence: Fellowships normally provide full tuition and a substantial living-expense stipend for one academic year (Fall, Winter, and Spring terms).
   verified: 2026-10-19
+- id: purdue-funded-ra-phd
+  name: Purdue 工程学院资助 RA 博士机会汇总
+  url: https://engineering.purdue.edu/SoSL/news/funded-graduated-research-assistant-opportunities-for-prospective-phd-students
+  category: doctoral-programs
+  regions:
+  - US
+  disciplines:
+  - engineering
+  funding: position
+  levels:
+  - phd
+  cn_eligible: 'no'
+  access:
+  - web
+  language: en
+  coverage: varies
+  requirements: 需先申请 Purdue 博士项目；部分国防相关 RA 仅限美国公民，其他岗位需先联系导师
+  notes: 导师资助 RA 机会汇总（页面发布于 2021 年，偏旧）。部分课题因国防规定只招美国公民，其余岗位可按页面指引联系导师。
+  verify_method: page
+  page_evidence: has several funded graduate research assistant opportunities for outstanding PhD-seeking graduate students
+  verified: 2026-10-19
 - id: isae-supaero-doctoral-teams
   name: ISAE-SUPAERO 博士研究团队（含 ONERA 联合团队）
   url: https://www.isae-supaero.fr/en/research/doctoral-programs/the-doctoral-research-teams/doctoral-research-teams
@@ -9199,6 +10572,28 @@
   verify_method: page
   page_evidence: Rejoignez un programme d'excellence riche et diversifié de formation doctorale à et par la recherche
   verified: 2026-10-18
+- id: newcastle-transport-phd
+  name: 纽卡斯尔大学交通工程 MPhil/PhD
+  url: https://www.ncl.ac.uk/postgraduate/degrees/8040f-21
+  category: doctoral-programs
+  regions:
+  - UK
+  disciplines:
+  - engineering
+  funding: info
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline_note: 研究奖学金需另行申请，截止以官网为准
+  requirements: 国际申请者通常需 2:1 本科学位或同等学历；入学季为 1 月、4 月、9 月
+  notes: 纽卡斯尔大学土木（交通方向）MPhil/PhD，研究型学位。暂未找到当前开放的交通工程专项奖学金，资助以官网为准。
+  verify_method: page
+  page_evidence: 'We supervise MPhil and PhD students in the following areas:'
+  verified: 2026-10-19
 - id: raeng-research-fellowship-sheffield
   name: 英国皇家工程院研究员（RAEng Research Fellowship，谢菲尔德校内流程）
   url: https://sheffield.ac.uk/engineering/research/externally-funded-research-fellowships-engineering/royal-academy-engineering-research-fellowship
@@ -9243,7 +10638,9 @@
   status: open
   requirements: 国际生名额上限约 30%；国际奖学金生的学费为补差，不含机票、签证与医疗附加费；由 Sussex 校内提名后再进入联盟评审。
   notes: SEDarc 联盟 2027 入学全额 ESRC 奖学金；国际生名额约占 30%，每人限交一份 SEDarc 申请；校内截止约 2026-12-01，联盟总截止约 2027-01-29（待核实）。
-  verified: 2026-10-13
+  verify_method: page
+  page_evidence: The University of Sussex is delighted to offer a number of ESRC-funded studentships via the South East Doctoral Training Arc SEDarc partnership.
+  verified: 2026-10-19
 - id: sedarc-royal-holloway-esrc
   name: SEDarc (ESRC) studentship · 皇家霍洛威
   url: https://www.royalholloway.ac.uk/studying-here/fees-and-funding/research-degrees/sources-of-funding/sedarc/
@@ -9260,13 +10657,15 @@
   - web
   language: en
   coverage: partial
-  stipend: UK 学费标准 + 生活费约 £21,805/年（以当年为准）
-  deadline: 2027-01-29
-  deadline_note: 2027 年 9 月入学 SEDarc 申请截止 2027-01-29 16:00（GMT）（职位列表所示）；皇家霍洛威 SEDarc 页称本轮竞赛已关闭，需核实
-  status: upcoming
+  stipend: 2026/27 年津贴 £23,805/年（含 £2,000 伦敦补贴），另含学费与研究培训经费
+  deadline: 2027-01-14
+  deadline_note: 皇家霍洛威校内 SEDarc 截止 2027-01-14 中午；各系另设更早截止
+  status: open
   requirements: 国际生可申请但名额上限约 30%；学费按 UK 标准，海外学费差额需核实；须先申请 PhD 并获系里批准
   notes: 先通过 Applicant Portal 申请 PhD，系里批准后填 SEDarc 表格；国际生名额有限。
-  verified: 2026-10-13
+  verify_method: page
+  page_evidence: Applications for SEDarc PhD studentships commencing in September 2027 are now open.
+  verified: 2026-10-19
 - id: manchester-social-anthropology-phd
   name: 曼彻斯特大学社会人类学博士
   url: https://www.manchester.ac.uk/study/postgraduate-research/programmes/list/03205/phd-social-anthropology/programme-details/SOAN70652
@@ -9290,6 +10689,31 @@
   notes: 全额资助依赖内部奖学金竞争（3.5 年学费加生活费），需在项目申请中勾选相应竞争；2027 入学学费尚未公布，以官网为准。
   verify_method: page
   page_evidence: To apply for University of Manchester funding, you must indicate in your application the competitions for which you wish to be considered.
+  verified: 2026-10-19
+- id: scdtp-southampton-esrc
+  name: South Coast DTP (SCDTP) ESRC 社会科学 studentship
+  url: https://www.southampton.ac.uk/study/fees-funding/scholarships/postgraduate-uk/scdtp
+  category: university-schemes
+  regions:
+  - UK
+  disciplines:
+  - social
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: full
+  stipend: 最高 £20,780（2026/27，免税，含学费与生活费）
+  deadline: 2026-01-16
+  deadline_note: 2026/27 轮截止 2026-01-16；2027/28 轮预计 11 月开放，以官网公告为准
+  status: closed
+  requirements: 英国高校一等或高二等荣誉学位；海外学历或可接受（以官网为准）
+  notes: 南海岸 DTP 的 ESRC 奖学金，每年至少 34 个名额；2026 入学轮已截止，2027/28 轮预计 11 月开放，以官网公告为准。
+  verify_method: page
+  page_evidence: SCDTP accepts applications from UK and International students.
   verified: 2026-10-19
 - id: edsd-eaps-demography
   name: 欧洲人口学博士学院 (EDSD) · EAPS
@@ -9598,6 +11022,27 @@
   verify_method: page
   page_evidence: Loke Centre for Trophoblast Research PhD Studentship (Fixed Term)
   verified: 2026-10-17
+- id: sheffield-philosophy-phd-funding
+  name: 谢菲尔德哲学博士奖学金（AHRC DLA）
+  url: https://www.sheffield.ac.uk/philosophy/postgraduate/phd/funding
+  category: doctoral-programs
+  regions:
+  - UK
+  disciplines:
+  - humanities
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: unknown
+  status: open
+  notes: 通过 AHRC DLA 分配。国际生名额有限；官网页面仍以往年轮次为准，具体截止与名额须在谢菲尔德大学官网核实。
+  verify_method: page
+  page_evidence: Applications to the AHRC Doctoral Landscape Award at the University of Sheffield for 2027/28 entry are open.
+  verified: 2026-10-19
 - id: berlin-bergsas-predoc
   name: 柏林古代研究研究生院（BerGSAS）预博士奖学金
   url: https://www.berliner-antike-kolleg.org/bergsas/ausschreibungen
@@ -9686,6 +11131,52 @@
   verify_method: page
   page_evidence: the department offers all students admitted to our PhD program fellowship support equivalent to
   verified: 2026-10-17
+- id: oxford-econ-graduate-funding
+  name: 牛津大学经济系研究生资助
+  url: https://www.economics.ox.ac.uk/node/2201102
+  category: university-schemes
+  regions:
+  - UK
+  disciplines:
+  - econ
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: varies
+  deadline_note: ESRC 需提交 DTP 表格，截止为各课程的 1 月申请节点，具体日期以官网为准
+  requirements: 申请 Oxford 相应课程时勾选 ESRC Grand Union DTP 选项并提交 DTP 表格；Clarendon 在申请截止前自动考虑；国际生 ESRC 名额受 DTP 比例上限约束
+  notes: MPhil+DPhil 前五年可获全额资助；ESRC DTP 国际生名额上限约 30%，需在申请表勾选；Clarendon 等在 1 月截止前申请时自动考虑。
+  verify_method: page
+  page_evidence: We offer full funding to our MPhil+DPhil students for the first five years of the programme.
+  verified: 2026-10-19
+- id: safe-frankfurt-phd-finance
+  name: SAFE 法兰克福金融博士（GSEFM 合办，全额资助）
+  url: https://safe-frankfurt.de/about-safe/career/phd-in-finance.html
+  category: doctoral-programs
+  regions:
+  - DE
+  disciplines:
+  - econ
+  - business
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  stipend: €1,300/月（第一年），通过预备考试后转为助研合同
+  deadline_note: 页面称每年有三个截止日：1 月 31 日、3 月 31 日、5 月 31 日
+  requirements: 须通过 GSEFM/歌德大学申请系统提交，并将 SAFE 列为资助申请第一志愿；不要直接发给 SAFE；官网未见国际生国籍条款
+  notes: 官网标注全额资助、不收学费；前两年为课程，第一年末设资格考试；助研岗位（E13，约 70%）多为第三年职位。国籍条款未明确，故标记为 check。
+  verify_method: page
+  page_evidence: Funding includes a scholarship of monthly €1,300 in the first program year
+  verified: 2026-10-19
 - id: frankfurt-school-doctoral
   name: 法兰克福金融学院博士项目
   url: https://www.frankfurt-school.de/en/home/programmes/doctoral
@@ -10015,6 +11506,32 @@
   verify_method: page
   page_evidence: The China Scholarship Council (CSC) and Victoria University of Wellington have agreed to collaborate on a designated doctoral (PhD) program
   verified: 2026-10-17
+- id: nla-phd-scholarships-2027
+  name: 澳大利亚国家图书馆 2027 年博士奖学金
+  url: https://www.library.gov.au/news-media/scholarships-2027-explore-question-discover-and-share
+  category: fellowships
+  regions:
+  - AU
+  disciplines:
+  - humanities
+  - social
+  funding: fellowship
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: unknown
+  stipend: A$10,000（馆内研究资助，共 8 个名额）
+  deadline: 2026-05-01
+  deadline_note: 2027 轮已于 2026-05-01 截止；2028 轮未公布
+  status: closed
+  requirements: 须已在澳大利亚大学攻读博士；需在国家图书馆现场使用馆藏研究
+  notes: 澳大利亚国家图书馆 2027 年博士奖学金，8 个名额，每名 1 万澳元用于馆内研究。2027 轮已截止；须已在澳大利亚大学攻读博士方可申请。
+  verify_method: page
+  page_evidence: Applications for NLA Scholarships will close on Friday 1 May 2026 at 5:00pm AEST.
+  verified: 2026-10-19
 - id: jena-completion-grants-international
   name: 耶拿大学博士完成期资助（国际博士生）
   url: https://www.uni-jena.de/en/16055/completing-a-doctorate
@@ -10031,11 +11548,14 @@
   - web
   language: en
   coverage: stipend
-  deadline: varies
-  deadline_note: 每季度接受申请，截止日为所在季度结束前一个月，通过大学在线门户提交
+  deadline: rolling
+  deadline_note: 页面称目前可随时在线提交申请，不受指南中截止日期限制
   status: rolling
   notes: 耶拿大学为国际博士生提供的答辩前完成期资助，每月最高约 1000 欧元；须为在耶拿攻读博士的非德国籍博士生，申请后 4 个月内提交论文。不同页面对期限说法不一，以现行指南为准。
-  verified: 2026-10-13
+  verify_method: page
+  page_evidence: The Friedrich Schiller University Jena provides financial support for international doctoral candidates in the time span between the opening and termination of the doctoral examination
+    procedure.
+  verified: 2026-10-19
 - id: bayreuth-win-financing-doctorate
   name: 拜罗伊特大学 WIN 博士经费指南
   url: https://www.win-ubt.uni-bayreuth.de/en/financing-your-doctorate/index.html
@@ -10194,6 +11714,53 @@
   verify_method: page
   page_evidence: Most young researchers at the University of Bremen decide to pursue an individual doctorate with a scientific supervisor.
   verified: 2026-10-17
+- id: mannheim-gess-fully-funded
+  name: 曼海姆大学 GESS 全奖博士项目公告
+  url: https://www.bwl.uni-mannheim.de/news/launch-your-research-career-in-fall-2026-apply-to-our-fully-funded-doctoral-programs/
+  category: doctoral-programs
+  regions:
+  - DE
+  disciplines:
+  - econ
+  - business
+  - social
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: 2027-03-31
+  deadline_note: 2027 秋季：早截止 2027-01-15，终截止 2027-03-31；2026 秋季两个截止已过
+  status: closed
+  notes: 经济、商科、社会科学方向全额资助博士项目，国际生比例较高；2026 秋季两个截止日已过，关注 2027 年公告。
+  verify_method: page
+  page_evidence: we are now accepting applications for our fully funded doctoral programs starting in Fall 2026!
+  verified: 2026-10-19
+- id: marburg-grk-overview
+  name: 马尔堡大学 DFG 研究生院现行与历史列表
+  url: https://www.uni-marburg.de/de/forschung/spitzenfoerderung/grk
+  category: doctoral-programs
+  regions:
+  - DE
+  disciplines:
+  - all
+  funding: info
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: de
+  coverage: salary
+  deadline_note: 列表页；近期 DFG 研究生院岗位均已过期
+  status: ongoing
+  notes: 列出马尔堡大学现行与历史 DFG 研究生院及 GEPRIS 链接。近期岗位截止日已过，需到项目网站或招聘门户查新岗位。
+  verify_method: page
+  page_evidence: 'Nachstehend finden Sie aufgelistet unsere laufenden und beendeten Graduiertenkollegs an der Philipps-Universität:'
+  verified: 2026-10-19
 - id: ist-ra-utokyo-2027
   name: 东京大学 IST 研究助理（RA）2027 申请指南
   url: https://www.i.u-tokyo.ac.jp/edu/entra/ist-ra_2027_application_guidelines-en.pdf
@@ -10243,6 +11810,30 @@
   notes: 庆应义塾大学国际学生「Design the Future」奖学金：由各研究科推荐，校内委员会审核面试选拔。官方页面列出学费、每月 20 万日元生活费（博士 3 年）及一次性赴日资助。名额极少，以现行公告为准。
   verify_method: page
   page_evidence: 'Scholarship amount: tuition fee in full; 200,000 yen per month for living expenses;'
+  verified: 2026-10-19
+- id: nims-electrochem-phd
+  name: NIMS 电化学组（Sakaushi 组）博士生招募
+  url: https://www.nims.go.jp/group/eec/en/contact.html
+  category: people-channels
+  regions:
+  - JP
+  disciplines:
+  - chem
+  - engineering
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - email
+  language: en
+  coverage: stipend
+  stipend: 约 240 万日元/年（据 NIMS 页面）
+  status: rolling
+  requirements: 需提交 NIMS 格式 CV、一页研究经历说明与两位推荐人；学籍为筑波大学研究生
+  notes: 页面称博士生津贴约 240 万日元/年；先将 CV 和研究兴趣发送给课题组，再走 NIMS 或合作大学正式流程。
+  verify_method: page
+  page_evidence: PhD student ca. 2,400,000JPY per annum
   verified: 2026-10-19
 - id: icys-nims-recruitment
   name: NIMS 国际青年科学家中心（ICYS）研究员（博后）招募
@@ -10805,6 +12396,31 @@
   verify_method: page
   page_evidence: The application cycle for this year is now open. The application deadline is October 1, 2026.
   verified: 2026-10-18
+- id: ivado-postdoc-funding
+  name: IVADO 博士后研究资助项目（魁北克）
+  url: https://ivado.ca/en/2025/10/16/launch-of-the-ivado-2026-postdoctoral-research-funding-program
+  category: postdoc-fellowships
+  regions:
+  - CA
+  disciplines:
+  - ai
+  - cs
+  funding: fellowship
+  levels:
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  stipend: 每年 $60,000（IVADO 出资部分），另有导师出资 $20,000（2024 轮条款）
+  deadline_note: 2026 轮申请于 2025 年 11 月 23 日截止（已过）；往年多在秋季开放，新一轮以官网公告为准
+  status: closed
+  requirements: 博士学位需在资助开始前三年内获得或预计获得，并在两年资助期内保持博后身份；需魁北克高校导师联合申请
+  notes: IVADO 两年期博后资助，需魁北克高校导师联合申请。2026 轮已于 2025 年 11 月 23 日截止，往年多在秋季开放，请关注官网新一轮公告。
+  verify_method: page
+  page_evidence: This program is aimed at outstanding national and international postdoctoral researchers.
+  verified: 2026-10-19
 - id: microsoft-research-careers
   name: Microsoft Research 职位列表（博后与研究员）
   url: https://www.microsoft.com/research/careers/
@@ -11322,6 +12938,53 @@
   verify_method: page
   page_evidence: As of Fall 2024, PhD students can expect to receive a minimum funding of $28,000 per year for four years
   verified: 2026-10-17
+- id: ru-is-phd-positions
+  name: Reykjavik University PhD 岗位页（冰岛）
+  url: https://en.ru.is/st/dcs/phd/phd-positions
+  category: university-schemes
+  regions:
+  - IS
+  disciplines:
+  - cs
+  - business
+  - engineering
+  funding: info
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  status: ongoing
+  notes: 雷克雅未克大学博士岗位入口，岗位在 RU Careers 发布。申请需先附研究计划并与拟合作教授联系；是否带薪以各岗位公告为准。
+  verify_method: page
+  page_evidence: Please note that all available PhD positions are advertised on
+  verified: 2026-10-19
+- id: rcn-msca-cofund-2026
+  name: 挪威研究理事会 MSCA COFUND 2026 说明
+  url: https://www.forskningsradet.no/en/events/2026/msca-cofund-2026-samfinansiering-doktorgrad-postdoktor
+  category: gov-scholarships
+  regions:
+  - 'NO'
+  disciplines:
+  - all
+  funding: mixed
+  levels:
+  - phd
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  deadline_note: 2026 轮 MSCA COFUND 已于 2026 年 4 月 8 日截止；后续安排以挪威研究理事会和欧盟官网为准。
+  status: closed
+  requirements: COFUND 为机构/项目层面申请，个人不直接申请；岗位由获资助项目招收
+  notes: 挪威研究理事会的 MSCA COFUND 活动页：COFUND 为机构层面的联合资助，博士与博后岗位由获资助的项目招收。2026 轮已截止；2027 轮（欧盟指示性时间）仅博士项目，以官网为准。
+  verify_method: page
+  page_evidence: MSCA COFUND 2026 has a deadline on 8. April 2026 with a budget of 105,5 million euro.
+  verified: 2026-10-19
 - id: aka-academy-research-fellowship-2026
   name: 芬兰研究理事会 Academy Research Fellowship 2026
   url: https://www.aka.fi/en/research-funding/apply-for-funding/calls-for-applications/apply-now2/2026-academy-research-fellowships-all-research-fields/
@@ -11394,6 +13057,33 @@
   verify_method: page
   page_evidence: Grants intended for doctoral students who apply in their own name but in consultation with their supervisors.
   verified: 2026-10-18
+- id: msca-jobs-portal
+  name: 欧盟 MSCA 官方岗位库
+  url: https://marie-sklodowska-curie-actions.ec.europa.eu/jobs
+  category: national-portals
+  regions:
+  - EU
+  disciplines:
+  - all
+  funding: position
+  levels:
+  - phd
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  - rss
+  - email
+  language: en
+  coverage: varies
+  deadline: varies
+  deadline_note: 各岗位截止日不同，以 EURAXESS 发布页为准
+  status: ongoing
+  requirements: MSCA 博士岗位不得已持有博士学位；流动性规则：申请前 36 个月内在东道国居住或工作不得超过 12 个月
+  notes: 欧盟官方 MSCA 博士与博后岗位列表（内容来自 EURAXESS，每日更新）。按国家与学科筛选，各岗位资格与截止日以发布页为准。
+  verify_method: page
+  page_evidence: Apply for PhD and postdoctoral vacancies funded by MSCA
+  verified: 2026-10-19
 - id: au-csiro-data61-studyaustralia-portal
   name: CSIRO Data61 PhD 奖学金（Study Australia 官方检索页）
   url: https://search.studyaustralia.gov.au/scholarship/data61-phd-scholarship/e18d26a8362937016e062999ef29aa34
@@ -11555,6 +13245,52 @@
   verify_method: page
   page_evidence: Every year in March, the UGOE proposes a compiled list of suitable candidates to the CSC, from which the CSC selects students who will receive scholarships.
   verified: 2026-10-17
+- id: maastricht-csc-paused
+  name: 马斯特里赫特大学 CSC 博士奖学金页
+  url: https://www.maastrichtuniversity.nl/csc-scholarships
+  category: pathways
+  regions:
+  - NL
+  disciplines:
+  - all
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: unknown
+  deadline_note: UM 称与 CSC 的合作协议 2024 年 9 月到期未续，目前不接收新的 CSC 博士申请；新协议谈判中
+  status: closed
+  notes: 马斯特里赫特大学与 CSC 的博士合作目前暂停：校方称现行协议已到期，暂不接收新申请，恢复时间未知，申请前请联系 UM China Team。
+  verify_method: page
+  page_evidence: We are in the process of negotiating a new agreement and encourage you to check back soon for future updates.
+  verified: 2026-10-19
+- id: polito-csc-phd
+  name: 都灵理工大学（Politecnico di Torino）CSC 博士合作项目
+  url: https://www.polito.it/node/1241
+  category: university-schemes
+  regions:
+  - IT
+  disciplines:
+  - engineering
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline_note: 2026/27 学年预选截止 2025-12-10 已过；下一批次以官网公告为准
+  status: closed
+  requirements: 预选仅面向中国公民；需先通过 PoliTO 线上预选，再向 CSC 申请奖学金
+  notes: 都灵理工大学与国家留学基金委（CSC）的博士合作协议；预选仅面向中国公民，通过后向 CSC 申请奖学金。2026/27 学年批次已截止，下一批次以官网为准。
+  verify_method: page
+  page_evidence: Dal 2019, CSC e Politecnico hanno rilanciato la loro partnership stabilendo un nuovo accordo dedicato specificatamente al livello Ph.D.
+  verified: 2026-10-19
 - id: bordeaux-csc
   name: 波尔多大学 CSC 博士奖学金（年度征集）
   url: https://doctorat.u-bordeaux.fr/en/before-phd/international/CSC
@@ -11630,6 +13366,35 @@
   verify_method: page
   page_evidence: 'Update: All positions except DC11 are filled.'
   verified: 2026-10-17
+- id: print4life-dn-network
+  name: Print4Life 博士网络（生物医学增材制造）
+  url: https://www.uu.se/en/department/materials-science-and-engineering/research/divisions/biomedical-engineering/biomaterial-systems/print4life
+  category: recruiting-posts
+  regions:
+  - SE
+  - ES
+  - IE
+  - PT
+  - DE
+  - CH
+  disciplines:
+  - engineering
+  - med
+  - bio
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline_note: 2025 轮岗位（如 Hereon DC12，2025-11-26 截止）已过；当前空缺需查 Uppsala 招聘页
+  status: closed
+  notes: MSCA 博士网络 Print4Life（2025-10 至 2029-09），由 Uppsala 大学协调，多家机构招博士生，岗位为受雇身份。已知 2025 轮岗位已截止，请关注该页及各机构后续岗位。
+  verify_method: page
+  page_evidence: Print4Life Horizon Europe Marie Skłodowska-Curie Actions Doctoral Networks Grant 2025-2029.
+  verified: 2026-10-19
 - id: es-jobs-net-archive
   name: ES_JOBS_NET 地球与环境科学岗位邮件列表归档
   url: https://mailman.ucar.edu/pipermail/es_jobs_net/2026-June/date.html
@@ -11696,6 +13461,31 @@
   verify_method: page
   page_evidence: 'Available research positions relevant to the Climate: Past, Present & Future division are'
   verified: 2026-10-18
+- id: ntu-erian-phd
+  name: 新加坡南洋理工大学能源研究所（ERI@N）PhD 奖学金
+  url: https://ntu.edu.sg/erian/about-us/join-us/phd-scholarships
+  category: university-schemes
+  regions:
+  - SG
+  disciplines:
+  - engineering
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: 'yes'
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: 2027-01-31
+  deadline_note: 2026 年 8 月入学截止 2026-01-31 已过；2027 年 8 月入学截止 2027-01-31（按每年两个入学季规律）
+  status: open
+  requirements: 面向本地及国际生申请全日制研究型博士；申请通过 NTU 在线门户，选择 NTU RESEARCH SCHOLARSHIP；具体学位与语言要求以官网为准
+  notes: ERI@N 能源方向博士奖学金，经 NTU 研究奖学金申请；每年 1 月与 8 月两个入学季（8 月入学截止 1 月 31 日，1 月入学截止 7 月 31 日）；需通过 NTU 在线门户选择 ERI@N 项目。津贴标准向校方核实。
+  verify_method: page
+  page_evidence: You are eligible for this scholarship if you are a local or international student seeking admission as a full-time candidate pursuing a Doctor of Philosophy (PhD) programme by research
+    at NTU.
+  verified: 2026-10-19
 - id: eth-doctorate-admission
   name: ETH Zurich 博士入学条件与注册文件
   url: https://ethz.ch/en/doctorate/registration-admission/zulassungsbedingungen.html
@@ -11738,6 +13528,74 @@
   verify_method: page
   page_evidence: Students with outstanding performances during their bachelor's studies can seek direct admission to doctoral studies
   verified: 2026-10-18
+- id: psi-lac-work-with-us
+  name: PSI 气溶胶实验室（LAC）招聘与自荐入口
+  url: https://www.psi.ch/en/lac/work-with-us
+  category: doctoral-programs
+  regions:
+  - CH
+  disciplines:
+  - chem
+  - physics
+  - engineering
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: unknown
+  deadline_note: 所见 LAC 博士岗已于 2026-08-05 截止；新岗位以 PSI 招聘页为准
+  status: ongoing
+  notes: 页面有 PhD 岗位并欢迎主动申请，适合大气/气溶胶化学方向。
+  verify_method: page
+  page_evidence: Spontaneous applications are welcome.
+  verified: 2026-10-19
+- id: psi-lms-openings
+  name: PSI 材料理论模拟组（LMS）岗位
+  url: https://www.psi.ch/en/lms/openings
+  category: doctoral-programs
+  regions:
+  - CH
+  disciplines:
+  - physics
+  - chem
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  status: ongoing
+  notes: 计算物理/材料模拟方向岗位页，内容持续更新。搜索所见 LMS 博士岗（2026 年 6 月截止）已结束，部分岗位未公布截止日期；请以 PSI 招聘门户为准。
+  verify_method: page
+  page_evidence: Below, you can find a list of open PhD positions at LMS.
+  verified: 2026-10-19
+- id: psi-lnq-open-positions
+  name: PSI 量子纳米科学组（LNQ）岗位
+  url: https://www.psi.ch/en/lnq/open-positions
+  category: doctoral-programs
+  regions:
+  - CH
+  disciplines:
+  - physics
+  - chem
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  notes: 纳米/量子材料方向 PhD 岗位入口，截止日期需在具体岗位页确认。
+  verify_method: page
+  page_evidence: We have PhD and Postdoc positions available!
+  verified: 2026-10-19
 - id: epfl-biorob-openings
   name: EPFL BioRob 机器人实验室岗位
   url: https://www.epfl.ch/labs/biorob/openings/
@@ -11984,7 +13842,7 @@
   status: open
   requirements: 2027 秋季申请需提交 Physics GRE（必需），General GRE 推荐但可选
   notes: Berkeley 物理系研究生招生页，仅招秋季入学，2027 秋季截止 2026-12-15。物理系页面未找到全员资助承诺（数学系有 5 年保障，不适用于物理系），需查系内资助说明或联系招生办。
-  verified: 2026-10-13
+  verified: 2026-10-19
 - id: hkust-gz-creative-future-lab-recruiting
   name: HKUST(GZ) Creative Future Lab 招聘页
   url: https://creativefuture.hkust-gz.edu.cn/recruiting
@@ -12144,6 +14002,55 @@
   verify_method: page
   page_evidence: MEXT accepts applications from international students for study in Japan who satisfy the following qualifications
   verified: 2026-10-19
+- id: nii-mext-embassy
+  name: NII / SOKENDAI 信息学专攻 MEXT 奖学金（大使馆推荐）
+  url: https://www.nii.ac.jp/graduate/en/entrance/mext-emb/
+  category: university-schemes
+  regions:
+  - JP
+  disciplines:
+  - cs
+  - ai
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: varies
+  deadline_note: 使馆初审：2027 年 4 月入学批次为 2026 年 5–7 月（已结束）；下一批次以所在国使馆通知为准
+  status: upcoming
+  requirements: 需先通过所在国日本使馆初审，再获 SOKENDAI 信息学专攻教师同意；先以研究生（非学位）入学，两年内通过入学考试转为博士生
+  notes: 通过使馆推荐的 MEXT 奖学金，经 NII / SOKENDAI 信息学专攻录取。学生先以研究生（非学位）身份入学，两年内通过入学考试转为博士生，奖学金在两个阶段内持续发放（前提是表现良好）。适合计算机与 AI 方向，具体截止以当年使馆通知为准。
+  verify_method: page
+  page_evidence: Scholarship will be provided throughout the period of research student and graduate student, as long as the student is in good standing.
+  verified: 2026-10-19
+- id: nii-mext-pgp
+  name: NII / SOKENDAI 信息学专攻 MEXT 奖学金（大学推荐 PGP）
+  url: https://www.nii.ac.jp/graduate/en/entrance/mext-univ/
+  category: university-schemes
+  regions:
+  - JP
+  disciplines:
+  - cs
+  - ai
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline_note: SOKENDAI 已发布 2027 年 10 月入学 PGP 指南（信息学专攻），截止日期以当期指南 PDF 为准；NII 页面“本年度不接受”提示无日期，需向拟导师核对
+  status: closed
+  requirements: 国籍须为 MEXT 指定名单内国家；需先联系拟导师
+  notes: NII / SOKENDAI 信息学专攻 MEXT 奖学金（大学推荐 PGP）。SOKENDAI 已发布 2027 年 10 月入学的推荐指南，截止与名额需看当期 PDF。中国大陆国籍是否在名单内未核实。
+  verify_method: page
+  page_evidence: The applicant must hold a nationality of a country that is specified by
+  verified: 2026-10-19
 - id: kist-hakyeon-joint-phd
   name: KIST 学·研协同研究硕博（统合）课程招生
   url: https://kist.re.kr/ko/notice/recruiting-students.do
@@ -12167,6 +14074,32 @@
   verify_method: page
   page_evidence: 2027년 전기 학ㆍ연 협동연구 석ㆍ박사(통합)과정 모집
   verified: 2026-10-18
+- id: science-tokyo-igp-a
+  name: Science Tokyo 国际研究生项目 IGP-A
+  url: https://admissions.isct.ac.jp/en/013/graduate/programs/igp/igp-a
+  category: doctoral-programs
+  regions:
+  - JP
+  disciplines:
+  - engineering
+  - chem
+  - physics
+  - cs
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  deadline: 2026-11-22
+  deadline_note: 2027 年秋入学批次申请期为 2026 年 9 月 9 日至 11 月 22 日（同意函提交截止 11 月 15 日），结果 2027 年 3 月 3 日通知
+  status: open
+  notes: 东京科学大学（原东工大）国际研究生项目 IGP-A，英文授课，申请前须先获得本校教员担任指导教师。项目本身不直接提供资助；学校仅推荐少量优秀者申请 MEXT 奖学金。
+  verify_method: page
+  page_evidence: Application Guide for IGP(A) commencing in Fall 2027
+  verified: 2026-10-19
 - id: hanyang-gsis-scholarships
   name: 汉阳大学国际生奖学金
   url: https://gsis.hanyang.ac.kr/en/scholarships
@@ -12187,6 +14120,27 @@
   notes: 汉阳大学校级国际生奖学金，包括 HISP（学费减免 50%/70%/100%）等，博士阶段是否适用需核实。未找到 GSIS 专属博士奖学金，GSIS 相关信息需向院系确认。
   verify_method: page
   page_evidence: Monthly stipend plus partial tuition support
+  verified: 2026-10-19
+- id: postech-gift-admission-guide
+  name: POSTECH GIFT 国际研究生招生指南 2026–27
+  url: https://gift.postech.ac.kr/file/2026_27_Admissions_guide_for_international%20students_GIFT.pdf
+  category: university-schemes
+  regions:
+  - KR
+  disciplines:
+  - all
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  requirements: 须为外国国籍（申请人及父母，韩国籍兼有其他国籍者不符合）；需达到 TOEFL/IELTS/TOEIC/TEPS 英语标准；可申请 MS、MS-PhD 或 PhD 路线
+  notes: POSTECH GIFT 2026–27 官方招生指南（PDF），涵盖 MS、MS-PhD 与 PhD 路线。未查到 GIFT 专属奖学金金额与截止日期，需以官方 PDF 与 GIFT 办公室为准。国籍条件可能变化。
+  verify_method: page
+  page_evidence: 1) Applicants and their parents must hold foreign citizenship.
   verified: 2026-10-19
 - id: mila-faq
   name: Mila 招生常见问题（FAQ）
@@ -12239,6 +14193,52 @@
   verify_method: page
   page_evidence: This program provides a comprehensive training experience to prepare postdoctoral fellows for success in a variety of careers in statistical sciences.
   verified: 2026-10-17
+- id: sickkids-becoming-student-fellow
+  name: SickKids 研究培训中心：如何成为研究生或访问研究员
+  url: https://www.sickkids.ca/en/research/research-training-centre/becoming-student-fellow/
+  category: university-schemes
+  regions:
+  - CA
+  disciplines:
+  - bio
+  - med
+  - neuro
+  funding: info
+  levels:
+  - phd
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  stipend: Restracomp 研究生奖学金 $35,000/年（两年）
+  notes: 说明以研究生或研究员身份在 SickKids 研究的步骤，导师需为 SickKids 研究所任命人员；签证与入职可咨询培训中心。
+  verify_method: page
+  page_evidence: Graduate students normally receive a stipend while registered in their graduate program.
+  verified: 2026-10-19
+- id: sfu-postdoc-announcements
+  name: SFU 博士后办公室公告（汇总加拿大博后项目）
+  url: https://www.sfu.ca/postdoctoral-fellows/opportunities---announcements.html
+  category: aggregators
+  regions:
+  - CA
+  disciplines:
+  - all
+  funding: position
+  levels:
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  status: ongoing
+  requirements: 博后办公室不直接受理申请，需先联系 SFU 对应院系；具体资格与截止以各公告原文为准。
+  notes: SFU 博士后办公室公告页，汇总多家加拿大机构的博后资助与岗位信息，按年份更新，部分为旧公告。条件与截止以各原网页为准。
+  verify_method: page
+  page_evidence: 'Azrieli International Postdoctoral Fellowship: Call for Applications'
+  verified: 2026-10-19
 - id: eur-research-master-economics
   name: 伊拉斯谟大学鹿特丹分校 Research Master in Economics（TI 联合培养）
   url: https://www.eur.nl/en/research-master/economics
@@ -12355,6 +14355,53 @@
   verify_method: page
   page_evidence: per year in mid-September with 5 places available for the 4-year programme.
   verified: 2026-10-18
+- id: nanogune-combined-master-phd
+  name: nanoGUNE 硕士 + 博士联合岗位
+  url: https://www.nanogune.eu/es/node/232641
+  category: pathways
+  regions:
+  - ES
+  disciplines:
+  - physics
+  - chem
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  status: closed
+  notes: 学生在同一课题组完成硕士论文后衔接博士；硕士阶段有月度津贴（2025 轮 €350/月）。2025 轮 3 月 13 日截止，2026/2027 轮次未见公告，需到官网核对。
+  verify_method: page
+  page_evidence: After completing the Master, a PhD position will be available and funded
+  verified: 2026-10-19
+- id: quantum-informatics-cdt-faq
+  name: 量子信息 CDT（五校联合，4 年 MRes + PhD）
+  url: https://www.quantuminformatics-cdt.ac.uk/faq/
+  category: doctoral-programs
+  regions:
+  - UK
+  disciplines:
+  - physics
+  - cs
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: unknown
+  deadline_note: 2026 年 9 月入学批次截止 2026-01-08（已过）；官网称 2027/28 入学时间线将于 2026 年 10 月公布，以官网为准。
+  status: closed
+  requirements: 国际申请人的要求与费用以官网 FAQ 为准。
+  notes: 四年制 CDT，部分名额由 EPSRC 资助；国际生费用与名额以官网公告为准。
+  verify_method: page
+  page_evidence: The CDT’s PhD programme comprises four years of funded study.
+  verified: 2026-10-19
 - id: dfe-qub-phd-funding
   name: 北爱尔兰 DfE 博士奖学金（女王大学贝尔法斯特分校）
   url: https://www.qub.ac.uk/Study/AHSS/phd/dfe/
@@ -12570,6 +14617,30 @@
   verify_method: page
   page_evidence: The upcoming deadline for applications is 20 October 2026 (including reference letters).
   verified: 2026-10-18
+- id: nextstep-esrf-ill-cofund
+  name: NEXTSTEP 博士项目（ESRF 与 ILL，MSCA COFUND）
+  url: https://esrf.fr/home/UsersAndScience/the-phd-programme-at-the-esrf/nextstep.html
+  category: doctoral-programs
+  regions:
+  - FR
+  disciplines:
+  - physics
+  - chem
+  - bio
+  funding: position
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline_note: 2026 年第二批截止 3 月 31 日已过；未找到新一轮公告，以官网为准
+  status: closed
+  notes: MSCA COFUND 博士项目，依托 ESRF、ILL 等设施，每个博士岗位资助 36 个月；申请者须满足 MSCA 流动性规则（过去 36 个月在东道国居住不超过 12 个月）。下一批以 ESRF/ILL 官网为准。
+  verify_method: page
+  page_evidence: Each PhD project will be hosted at one of the RI partners and funded for 36 months through the MSCA cofund programme.
+  verified: 2026-10-19
 - id: desy-theory-phd-positions
   name: DESY 理论物理组博士岗位（汉堡）
   url: https://theory-hamburg.desy.de/positions
@@ -12642,6 +14713,31 @@
   verify_method: page
   page_evidence: PhD students may obtain a working contract or a scholarship.
   verified: 2026-10-18
+- id: lmu-life-science-munich-csc
+  name: LMU Life Science Munich 研究生院（CSC 资助名额）
+  url: https://lsm.bio.lmu.de/apply/lsm-application/index.html
+  category: doctoral-programs
+  regions:
+  - DE
+  disciplines:
+  - bio
+  - med
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: 'yes'
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: 2026-10-26
+  deadline_note: 2026 轮名额；往年申请期约 10 月 1 日至 11 月 30 日（2022 轮），以当年公告为准
+  status: open
+  requirements: CSC 名额面向中国籍候选人；DAAD GSSP 名额仅面向非德国籍且在德停留不超过 15 个月者；按要求在线申请
+  notes: LSM 研究生院为中国籍候选人提供 2 个 CSC 资助名额，DAAD GSSP 名额仅面向非德国籍且在德停留不超过 15 个月者。截止与材料以当年公告为准。
+  verify_method: page
+  page_evidence: 'Call for Doctoral Applications 26/27: Portal open until October 26th !'
+  verified: 2026-10-19
 - id: ynu-csc-joint-postdoc
   name: 横滨国立大学 CSC 联合奖学金（访问学者与博士后）
   url: https://global.ynu.ac.jp/en/strategies/csc-scholarship/
@@ -12665,6 +14761,31 @@
   verify_method: page
   page_evidence: YNU will accept researchers from China as Visiting Research Fellows under “CSC-YNU Joint Scholarship Program”
   verified: 2026-10-17
+- id: ndseg-fellowship
+  name: NDSEG Fellowship（美国国防部）
+  url: https://ndseg.org/eligibility
+  category: gov-scholarships
+  regions:
+  - US
+  disciplines:
+  - engineering
+  - math
+  - physics
+  - chem
+  - cs
+  funding: fellowship
+  levels:
+  - phd
+  cn_eligible: 'no'
+  access:
+  - web
+  language: en
+  coverage: unknown
+  requirements: 须为美国公民或国民（双重国籍符合条件）；永久居民及他国公民不符合；录取前需提供公民身份证明。
+  notes: NDSEG 官方资格页：申请人须为美国公民、国民或双重国籍等，非美籍（含中国大陆学生）通常不符合，仅作了解；截止时间以官网当年公告为准。
+  verify_method: page
+  page_evidence: The NDSEG Fellowship Program is open only to applicants who are citizens or nationals of the United States.
+  verified: 2026-10-19
 - id: ford-predoctoral-fellowship-sfsu
   name: Ford Foundation Predoctoral Fellowship（经高校页面介绍）
   url: https://fellowships.sfsu.edu/ford-foundation-predoctoral-fellowships
@@ -12784,6 +14905,27 @@
   verify_method: page
   page_evidence: offers incoming PhD students a comprehensive package of financial support including tuition, health insurance fees, and basic living expenses.
   verified: 2026-10-18
+- id: penn-philosophy-funding
+  name: 宾大哲学系博士资助说明
+  url: https://philosophy.sas.upenn.edu/node/23
+  category: doctoral-programs
+  regions:
+  - US
+  disciplines:
+  - humanities
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  stipend: 至少 $43,050/年（2025–26 学年）
+  notes: 宾大哲学系称研究生院为全部一年级博士新生提供五年资助保障（学费减免、医保与津贴），津贴下限为 43,050 美元（2025–26 学年）；续期取决于学业进展。页面未明确国际生待遇，2026–27 年数额请查系网站或研究生院。
+  verify_method: page
+  page_evidence: Beginning in the 2025-26 academic year, doctoral students in Philosophy will be offered a stipend of at least $43,050.
+  verified: 2026-10-19
 - id: uchicago-social-sciences-fellowship-support
   name: 芝加哥大学社会科学部博士资助（Fellowship Support）
   url: https://socialsciences.uchicago.edu/node/23458
@@ -12919,6 +15061,27 @@
   verify_method: page
   page_evidence: The Duke University Graduate School and the Economics Department provide full funding for PhD students through the fifth year
   verified: 2026-10-18
+- id: northwestern-sesp-hdsp-funding
+  name: 西北大学教育与社会政策学院人类发展博士资助
+  url: https://sesp.northwestern.edu/graduate-professional/human-development-social-policy/phd-human-development-and-social-policy/funding.html
+  category: doctoral-programs
+  regions:
+  - US
+  disciplines:
+  - social
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  requirements: 需被项目录取；国际生需满足研究生院英语要求；国籍限制未在官方页面明确
+  notes: 西北大学人类发展与社会政策博士项目官网称为全额资助、五年制。国际生是否适用同等资助需向研究生院或项目办公室确认。
+  verify_method: page
+  page_evidence: Our policy is to provide full tuition and an academic year stipend for five years, contingent on satisfactory progress towards the degree.
+  verified: 2026-10-19
 - id: cpra-nserc-ucalgary-2026
   name: Canada Postdoctoral Research Award（CPRA，NSERC 方向）2026 校内说明（卡尔加里大学）
   url: https://research.ucalgary.ca/opportunity/2026-2026-canada-postdoctoral-research-award-cpra-nserc
@@ -13043,6 +15206,27 @@
   notes: CPRA 博后奖学金（CIHR）：国际申请人仅限在加拿大机构攻读或完成博士、或正在加拿大从事博后研究者，名额约占 20%。麦克马斯特大学页面的内部截止日 2025-09-10 已过期，需核对 2026 年安排。
   verify_method: page
   page_evidence: Up to $70,000 per annum for two years.
+  verified: 2026-10-19
+- id: nyu-shanghai-sociology-phd
+  name: NYU 上海校区社会学博士
+  url: https://netprogram.shanghai.nyu.edu/en/areas-of-study/sociology
+  category: doctoral-programs
+  regions:
+  - CN
+  disciplines:
+  - social
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  status: open
+  notes: NYU 上海社会学博士项目官网列为当前招生学科之一，资助为 NYU 上海博士奖学金，覆盖学费与杂费、年度津贴、差旅与国际医保。第一年在纽约学习，之后在上海研究；具体截止与国籍条件以官网为准。
+  verify_method: page
+  page_evidence: welcomes applications from outstanding students for doctoral and master’s study in sociology.
   verified: 2026-10-19
 - id: lse-social-policy-phd-studentship
   name: LSE 社会政策系 PhD 奖学金
@@ -13262,6 +15446,30 @@
   verify_method: page
   page_evidence: The PhD application call for this year is now closed. Stay tuned for future opportunities!
   verified: 2026-10-18
+- id: ros-discourse-jobs
+  name: ROS Discourse 招聘分区（jobs）
+  url: https://discourse.openrobotics.org/c/jobs/15
+  category: aggregators
+  regions:
+  - GLOBAL
+  disciplines:
+  - cs
+  - engineering
+  funding: info
+  levels:
+  - phd
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: varies
+  status: ongoing
+  notes: ROS 社区官方招聘分区，机器人实验室和企业发布博士与博后岗位；按时间排序查看最新，需 ROS 技能的岗位较多。
+  verify_method: page
+  page_evidence: Latest Jobs topics - Open Robotics Discourse
+  verified: 2026-10-19
 - id: charles-iuuk-phd-positions
   name: 查尔斯大学 IUUK 博士岗位页（布拉格）
   url: https://www.mff.cuni.cz/cs/iuuk/lide/phd-positions
@@ -13313,6 +15521,31 @@
   verify_method: page
   page_evidence: The Department of Computing provides up to 30 fully-funded
   verified: 2026-10-18
+- id: planning-list-googlegroup
+  name: AI 规划方向邮件列表（planning-list）
+  url: https://groups.google.com/g/planning-list
+  category: people-channels
+  regions:
+  - GLOBAL
+  disciplines:
+  - cs
+  - ai
+  funding: info
+  levels:
+  - phd
+  - postdoc
+  cn_eligible: check
+  access:
+  - email
+  - web
+  language: en
+  coverage: unknown
+  deadline: varies
+  status: ongoing
+  notes: 规划学科（planning）Google Groups 邮件列表，订阅即可，无申请门槛；具体岗位要求以转发的招聘通告为准。
+  verify_method: page
+  page_evidence: This group is for anyone interested in research in Automated Planning.
+  verified: 2026-10-19
 - id: technion-thhi-nanoscience-postdoc-2026
   name: 以色列理工 THHI Rebecca Dratofsky 博士后奖学金
   url: https://thhi.net.technion.ac.il/files/2026/08/Call-for-applications-shaffer-Rebecca-Dratofsky-2026.pdf
@@ -13508,7 +15741,9 @@
   status: open
   requirements: 国际生资格不明确，需联系导师确认
   notes: 2027 入学的 3.5 年 DPhil 合成生物学控制方向奖学金。官方广告称英国学生可获学费加生活费全额资助；国际生仅“可能灵活安排”，需在 2026 年 12 月 2 日前联系导师确认。
-  verified: 2026-10-17
+  verify_method: page
+  page_evidence: This studentship is open to UK students (full award – home fees plus stipend).
+  verified: 2026-10-19
 - id: csbd-dresden-jobs
   name: 德累斯顿系统生物学中心（CSBD）招聘页
   url: https://www.csbdresden.de/join-us/jobs
@@ -13606,6 +15841,31 @@
   verify_method: page
   page_evidence: We regularly have open positions for PhD students and Postdocs.
   verified: 2026-10-18
+- id: purdue-wang-lab-hiring
+  name: 普渡大学 Jianguo Wang 组博士招生页
+  url: https://cs.purdue.edu/homes/csjgwang/hiring
+  category: people-channels
+  regions:
+  - US
+  disciplines:
+  - cs
+  funding: info
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  - email
+  language: en
+  coverage: unknown
+  deadline: varies
+  deadline_note: 页面面向 2027 年春季/秋季入学招生，未列出具体截止日
+  status: open
+  requirements: CS 相关硕士或本科；需提交 TOEFL 成绩；须同时递交 Purdue CS 正式申请并将 Wang 列为首选导师；先发邮件至 csjgwang@purdue.edu
+  notes: 数据库与数据系统方向导师招生页，页面针对 2026 秋季，下一轮需关注更新；资助以导师通知为准，邮件联系。
+  verify_method: page
+  page_evidence: Please also follow the instructions to officially apply for the PhD program of Purdue CS and mention my name as the
+  verified: 2026-10-19
 - id: imdea-networks-job-listings
   name: IMDEA Networks 研究岗位列表（网络与无线通信）
   url: https://networks.imdea.org/es/taxonomy_jobs/research-2
@@ -13631,6 +15891,30 @@
   verify_method: page
   page_evidence: PhD Position in Integrated Sensing and Communications (ISAC)
   verified: 2026-10-18
+- id: rocq-prover-jobs-board
+  name: Rocq 证明助手社区招聘板（形式化验证与编程语言）
+  url: https://discourse.rocq-prover.org/tag/jobs
+  category: aggregators
+  regions:
+  - GLOBAL
+  disciplines:
+  - cs
+  funding: info
+  levels:
+  - phd
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  - rss
+  language: en
+  coverage: unknown
+  deadline: varies
+  status: ongoing
+  notes: Rocq（原 Coq）社区 jobs 标签页，集中发布形式化验证、程序证明与编程语言方向的博士及博后信息。
+  verify_method: page
+  page_evidence: Postdoc position at TU Delft
+  verified: 2026-10-19
 - id: fed-board-dissertation-fellows
   name: 美联储理事会博士论文研究员（Dissertation Fellows）
   url: https://www.federalreserve.gov/careers-dissertation-fellows.htm
@@ -13656,6 +15940,31 @@
   verify_method: page
   page_evidence: The Board offers paid in-residence fellowships for graduate PhD students in economics and finance
   verified: 2026-10-18
+- id: norges-bank-nbap-phd-scholarship
+  name: Norges Bank 学术项目（NBAP）博士奖学金（宏观/金融经济学）
+  url: https://www.norges-bank.no/en/topics/Research/nbap/phd-scholarship/
+  category: fellowships
+  regions:
+  - 'NO'
+  disciplines:
+  - econ
+  funding: fellowship
+  levels:
+  - phd
+  cn_eligible: 'no'
+  access:
+  - web
+  language: en
+  coverage: stipend
+  stipend: NOK 200,000/学年
+  deadline: 2027-04-15
+  deadline_note: 官网招聘页称每年 4 月 15 日截止；2026 轮已过，2027 轮以官网为准
+  status: upcoming
+  requirements: 须为挪威国民，或在挪威连续居住满 5 年的 EEA 国民并满足就业/居留条件；须被海外顶尖经济学博士项目录取
+  notes: NBAP 奖学金资格条款（官方 PDF）限挪威国民及在挪威居住的 EEA 国民，中国大陆学生不符合。
+  verify_method: page
+  page_evidence: The scholarship is 200,000 NOK per academic year.
+  verified: 2026-10-19
 - id: ascsa-graduate-fellowships
   name: 雅典美国古典研究学院（ASCSA）研究生与博后奖学金
   url: https://ascsa.edu.gr/fellowships-and-grants/graduate-and-postdoctoral
@@ -13705,6 +16014,53 @@
   verify_method: page
   page_evidence: Funding for PhD studies in our program can come through different competitions both internal to Durham and among external funding bodies.
   verified: 2026-10-18
+- id: oxford-maths-sa-postdoc-announce
+  name: 牛津随机分析组博后公告列表（sa-postdoc-announce）
+  url: https://lists.maths.ox.ac.uk/mailman/listinfo/sa-postdoc-announce
+  category: discipline
+  regions:
+  - UK
+  disciplines:
+  - math
+  funding: position
+  levels:
+  - postdoc
+  cn_eligible: check
+  access:
+  - email
+  - web
+  language: en
+  coverage: varies
+  deadline: varies
+  status: ongoing
+  notes: 随机分析组博后职位公告邮件列表；归档仅成员可见，需订阅后才能看到。
+  verify_method: page
+  page_evidence: Stochastic Analysis group postdocs announcements list
+  verified: 2026-10-19
+- id: oxford-maths-number-theory-junior-announce
+  name: 牛津数论博士/博后/初级研究员汇总公告列表
+  url: https://lists.maths.ox.ac.uk/mailman/listinfo/number-theory-junior-announce
+  category: discipline
+  regions:
+  - UK
+  disciplines:
+  - math
+  funding: position
+  levels:
+  - phd
+  - postdoc
+  cn_eligible: check
+  access:
+  - email
+  - web
+  language: en
+  coverage: varies
+  deadline: varies
+  status: ongoing
+  notes: 汇总牛津多个数论子列表，可同时看到 DPhil、PDRA 与初级研究员岗位；归档仅成员可见。
+  verify_method: page
+  page_evidence: Number Theory DPhil, PDRA, Junior Researcher Announcements List
+  verified: 2026-10-19
 - id: cambridge-jobs-research-term
   name: 剑桥大学招聘页（研究类固定期限岗位）
   url: https://www.cam.ac.uk/jobs/term/research
@@ -13941,6 +16297,29 @@
   verify_method: page
   page_evidence: Hiroshima University accepts international students with Chinese nationality sponsored by the Chinese Government
   verified: 2026-10-17
+- id: osaka-csc
+  name: 大阪大学 CSC 联合奖学金（博士）
+  url: https://www.osaka-u.ac.jp/en/international/inbound/Scholarships/csc
+  category: university-schemes
+  regions:
+  - JP
+  disciplines:
+  - all
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: 'yes'
+  access:
+  - web
+  language: en
+  coverage: tuition
+  deadline: varies
+  status: ongoing
+  requirements: 中国大陆国籍；须获大阪大学博士录取并纳入 CSC–OU 联合名单
+  notes: 与 CSC 的博士联合培养，约每年选拔 20 名中国学生（暂定数），学费有减免；其他 CSC 资助生通常不能同时享受大阪大学学费免除制度。
+  verify_method: page
+  page_evidence: Approximately 20 Chinese students (tentative number) will be selected by the UOsaka International Affairs Committee for tuition fee support through this system.
+  verified: 2026-10-19
 - id: bergamo-csc
   name: 贝加莫大学 CSC 博士项目
   url: https://www.unibg.it/node/18193
@@ -13965,6 +16344,30 @@
   verify_method: page
   page_evidence: Chinese students may apply for admission to PhD programmes at the University of Bergamo with funding provided by the
   verified: 2026-10-16
+- id: qmul-sbbs-csc
+  name: 女王大学伦敦 SBBS 学院 CSC 博士奖学金
+  url: https://www.qmul.ac.uk/sbbs/postgraduate/phd-programmes/studentships/china-scholarship-council/
+  category: university-schemes
+  regions:
+  - UK
+  disciplines:
+  - bio
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: 'yes'
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: unknown
+  deadline_note: 页面写明 2026 年 9 月入学轮次须在 2026-01-28 前向 QMUL 申请（已过）；2027 轮尚未公布，通常次年 1 月截止。
+  status: closed
+  requirements: 中国大陆国籍；须先获 QMUL 无条件录取，再申请 CSC
+  notes: QMUL 学院 CSC 联合博士：学校负责学费，CSC 负责生活费与往返机票，限中国大陆公民。数学学院页面称目前仅接受自筹或外部资助申请，需向学院确认。
+  verify_method: page
+  page_evidence: Under the scheme, Queen Mary will provide scholarships to cover all tuition fees, whilst the CSC will provide living expenses and one return flight ticket to successful applicants.
+  verified: 2026-10-19
 - id: ubc-4yf-doctoral
   name: UBC Four Year Doctoral Fellowship（4YF）
   url: https://grad.ubc.ca/node/3313
@@ -14135,6 +16538,32 @@
   verify_method: page
   page_evidence: Dalhousie offers or manages a large number of funding opportunities
   verified: 2026-10-18
+- id: mcgill-pharma-stipend
+  name: McGill 药学院研究生最低津贴与学费补助
+  url: https://mcgill.ca/pharma/students/graduate/financial-aid-and-funding/stipends-and-tuition-assistance
+  category: university-schemes
+  regions:
+  - CA
+  disciplines:
+  - bio
+  - chem
+  - med
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: stipend
+  stipend: 2026-27 博士最低生活津贴 $24,821（国际生 PhD2-4 最低总资助 $47,251，含学费）
+  deadline: varies
+  status: ongoing
+  requirements: 全日制博士
+  notes: 页面列出 2026-27 学年最低津贴表；系里提供学费补助（GEF）补偿国际生与魁北克居民的学费差，无需申请。
+  verify_method: page
+  page_evidence: The Department of Pharmacology and Therapeutics guarantees a minimum yearly stipend.
+  verified: 2026-10-19
 - id: her-care-cordis-project
   name: HER-CARE 博士网络 CORDIS 项目页（MSCA DN，15 个博士岗）
   url: https://cordis.europa.eu/project/id/101227105
@@ -14184,6 +16613,30 @@
   verify_method: page
   page_evidence: È indetta una pubblica selezione per titoli e colloquio per il conferimento di n.1 borsa di ricerca
   verified: 2026-10-17
+- id: msca-dn-2026-call-cordis-programme
+  name: CORDIS：MSCA 博士网络 2026 批次（HORIZON-MSCA-2026-DN-01-01）项目页
+  url: https://cordis.europa.eu/programme/id/HORIZON_HORIZON-MSCA-2026-DN-01-01/es
+  category: doctoral-programs
+  regions:
+  - EU
+  disciplines:
+  - all
+  funding: info
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: es
+  coverage: salary
+  deadline: 2026-11-24
+  deadline_note: 2026 批次联合体提交截止 2026-11-24 17:00（布鲁塞尔时间）；个人不能直接申请，须等获资助的博士网络在 EURAXESS 发布岗位
+  status: open
+  requirements: 个人不向欧委会申请；需待获资助网络发布岗位后再申请，学历与语言要求以岗位为准
+  notes: 2026 批次官方项目页（西语版），了解下一轮博士网络结构与时间；2026-11-24 截止是联合体提交方案的截止，个人不能直接申请，获资助网络的岗位将在 2027 年前后发布。
+  verify_method: page
+  page_evidence: MSCA Doctoral Networks are encouraged to lead to Industrial or Joint Doctorates.
+  verified: 2026-10-19
 - id: berkeley-chem-grad-faq
   name: UC Berkeley 化学系研究生常见问题（博士资助）
   url: https://chemistry.berkeley.edu/faq/chemistry-grad-faq
@@ -14253,6 +16706,29 @@
   requirements: GRE 已不要求；需提交成绩单与 3 封推荐信；语言要求以官网为准
   notes: 系页面称博士生可获年度研究生津贴、补贴健康保险和全额学费，页面列出津贴 $38,000/年。另有旧版页面称 2022–23 年为 $34,000，以当年为准。
   verified: 2026-10-18
+- id: nd-physics-graduate
+  name: Notre Dame 物理系研究生页面
+  url: https://physics.nd.edu/graduate/
+  category: university-schemes
+  regions:
+  - US
+  disciplines:
+  - physics
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  stipend: $40,590/年（研究生院 2026–27 理科博士标准，12 个月）
+  deadline: varies
+  status: ongoing
+  notes: 系页面称所有录取博士生获得全额学费与津贴并有医疗保险补贴；研究生院页面给出 2026–27 理科博士 12 个月标准津贴 $40,590。
+  verify_method: page
+  page_evidence: All graduate students receive full tuition support, a competitive stipend, and full medical insurance subsidy.
+  verified: 2026-10-19
 - id: epfl-tml-open-positions
   name: EPFL 机器学习理论实验室（TML）招生页
   url: https://www.epfl.ch/labs/tml/theory-of-machine-learning/open-positions/
@@ -14300,6 +16776,31 @@
   verify_method: page
   page_evidence: The absolute deadline for UK applicants and for overseas applicants who have already secured funding
   verified: 2026-10-17
+- id: queens-iris-join-us
+  name: 女王大学 IRIS 机器人实验室 Join us（博士）
+  url: https://iris.smithengineering.queensu.ca/join-us
+  category: people-channels
+  regions:
+  - CA
+  disciplines:
+  - engineering
+  - cs
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: salary
+  stipend: 约 C$29,500/年（页面所示，以官网为准）
+  deadline: unknown
+  status: closed
+  requirements: 需硕士学位（工程类，如 ECE、生物医学、机电），GPA 高于 85% 并有发表记录；页面称国际生与本国学生均可申请，本国申请人优先；未见截止日期，需直接联系导师确认名额
+  notes: 页面所列博士岗位针对 2026 年 9 月入学，该轮已过；下一轮未见公告。页面称国际生与本国学生均可申请但优先本国申请人，需先联系导师确认名额。
+  verify_method: page
+  page_evidence: IRIS lab is looking for a doctoral student in robotics for September 2026.
+  verified: 2026-10-19
 - id: imprs-trust-admissions
   name: IMPRS-TRUST 可信计算国际博士项目（萨尔大学/凯泽斯劳滕大学）
   url: https://www.imprs-trust.mpg.de/admissions/
@@ -14373,6 +16874,30 @@
   verify_method: page
   page_evidence: All of the departments at DIPF offer the opportunity to conduct doctoral studies.
   verified: 2026-10-18
+- id: lund-psychology-phd-programme
+  name: 隆德大学心理学系博士项目
+  url: https://psy.lu.se/en/education/study-psychology-0/study-phd-programme
+  category: doctoral-programs
+  regions:
+  - SE
+  disciplines:
+  - social
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: varies
+  deadline_note: 各岗位截止不同，在大学招聘系统发布；以当期为准
+  status: ongoing
+  requirements: 需心理学硕士学位；入学取决于获得博士雇员职位或同等外部资金；可能需面试；申请材料含 CV、学习计划与经费计划
+  notes: 隆德大学心理学系博士为约四年全职的带薪雇员职位（240 学分）；页面提供项目说明与岗位搜索入口，具体岗位在 Varbi 系统随时发布，截止各不相同。
+  verify_method: page
+  page_evidence: Postgraduate positions are financed by the department, research projects or by external authorities and organisations.
+  verified: 2026-10-19
 - id: grade-frankfurt-completion-2026
   name: 法兰克福歌德大学 GRADE 国际博士生完成奖学金
   url: https://aktuelles.uni-frankfurt.de/en/?p=87352
@@ -14498,6 +17023,53 @@
   verify_method: page
   page_evidence: Most of our PhD students are considered as employees for the duration of the research.
   verified: 2026-10-17
+- id: research-ireland-eps-postgrad
+  name: Research Ireland 企业伙伴博士计划（EPS Postgraduate）
+  url: https://www.researchireland.ie/funding/enterprise-partnership-postgraduate/
+  category: fellowships
+  regions:
+  - IE
+  disciplines:
+  - all
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  stipend: €25,000/年
+  deadline: 2026-02-24
+  deadline_note: 2026 轮截止 2026 年 2 月 24 日，已关闭；2027 轮是否开放以 researchireland.ie 为准
+  status: closed
+  notes: 企业伙伴博士计划（EPS）2025 轮（2025-04-10 截止，最高约 €34,000/年）已结束。Research Ireland 官网未见 2026 轮公告；以 researchireland.ie 官方页为准。
+  verify_method: page
+  page_evidence: a stipend of €25,000 per annum;
+  verified: 2026-10-19
+- id: research-ireland-eps-postdoc
+  name: Research Ireland 企业伙伴博后计划（EPS Postdoctoral）
+  url: https://research.ie/funding/eps-postdoc/?f=
+  category: postdoc-fellowships
+  regions:
+  - IE
+  disciplines:
+  - all
+  funding: fellowship
+  levels:
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: varies
+  deadline_note: 2025 Partnership Stream 截止 2025 年 7 月 15 日（已过）；2026 轮未确认
+  status: closed
+  notes: 企业伙伴博后计划：2025 轮 Partnership Stream 已截止。官网称 Partnership Stream 将再运行一次，时间未公布，以 researchireland.ie 为准。
+  verify_method: page
+  page_evidence: 'The award will support suitably qualified postdoctoral candidates intending to pursue full-time research in any discipline for two years and comprise:'
+  verified: 2026-10-19
 - id: arm-ecs-southampton-phd
   name: Arm-ECS 全额资助博士岗位（南安普顿大学）
   url: https://www.arm.ecs.soton.ac.uk/jobs/phd-student-southampton/
@@ -14522,6 +17094,28 @@
   notes: Arm 与南安普顿大学 ECS 合作的 3.5 年全额资助博士（EPSRC 资金），部分时间在剑桥 Arm Research；招生页写明仅面向英国申请者，对大陆学生不开放。页面称需在 5 月初前提交，未标注年份，以官网为准。
   verify_method: page
   page_evidence: Fully funded 3.5 yr PhD studentship with annual stipend of at least £15,609 pa (UK applicants only)
+  verified: 2026-10-19
+- id: porsche-industrial-doctorate
+  name: 保时捷博士项目（Doktorarbeit bei Porsche）
+  url: https://www.porsche.com/international/aboutporsche/jobs/students/doctorate/
+  category: fellowships
+  regions:
+  - DE
+  disciplines:
+  - engineering
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: varies
+  status: ongoing
+  notes: 博士课题可在保时捷多个部门开展（主要在魏斯阿赫研发中心），论文在合作大学完成，需大学教授担任导师。是否带薪及国际生条件未核实，以招聘页为准。
+  verify_method: page
+  page_evidence: In principle, doctoral studies can be pursued in almost all areas of the company, with the focus being on the Porsche Development Centre in Weissach.
   verified: 2026-10-19
 - id: ku-social-sciences-industrial-phd
   name: 哥本哈根大学社会科学学院 Industrial PhD
@@ -14573,6 +17167,80 @@
   verify_method: page
   page_evidence: Most graduate students enrolled in the PhD program receive financial support as graduate assistantships.
   verified: 2026-10-19
+- id: mat-sheffield-energy-storage-phd
+  name: 谢菲尔德大学储能全额资助博士（Energy 2050）
+  url: https://sheffield.ac.uk/energy2050/study/phd-opportunities/energy-storage-fully-funded-phd
+  category: doctoral-programs
+  regions:
+  - UK
+  disciplines:
+  - engineering
+  - chem
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: varies
+  deadline_note: 页面标注截止 5 月 1 日（年份未确认），申请经 EPSRC CDT 网站提交
+  status: ongoing
+  requirements: 工程类一等荣誉学位（或同等学历）
+  notes: 包含一年硕士层面的储能课程与企业合作的博士课题，并提供增强型生活津贴；国际生名额以学校公告为准。
+  verify_method: page
+  page_evidence: Industrial PhD opportunities with the CDT in Energy Storage.
+  verified: 2026-10-19
+- id: mat-faraday-institution-phd-training
+  name: 法拉第研究所博士培训项目（电池与储能）
+  url: https://www.faraday.ac.uk/career-development/phd-training-programme/
+  category: doctoral-programs
+  regions:
+  - UK
+  disciplines:
+  - chem
+  - engineering
+  - physics
+  funding: info
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: varies
+  deadline_note: 2026 年 10 月入学一批岗位截止 2026-08-21（已过）；下一批以法拉第研究所官网公告为准
+  status: closed
+  notes: 英国电池研究的国家级培训网络，覆盖 70 名以上直接资助博士，本身不是独立奖学金，需通过英国高校的相关博士岗位申请。
+  verify_method: page
+  page_evidence: Apply for one of 36 PhDs/EngDs in battery science for October 2026 start.
+  verified: 2026-10-19
+- id: mat-unisalento-materials-phd
+  name: 萨伦托大学材料与结构工程及纳米技术博士（含 IIT 资助名额）
+  url: https://international.unisalento.it/studying/phd-programs/materials-and-structural-engineering-and-nanotechnology
+  category: doctoral-programs
+  regions:
+  - IT
+  disciplines:
+  - engineering
+  - chem
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  deadline: varies
+  deadline_note: MUR 公告最近可见为 2025-07-01，以往截止多在 7 月前后；2026 周期未找到，需到学校 bandi 页核实
+  status: closed
+  notes: 每年约 6 个奖学金名额，其中部分由意大利理工学院（IIT）资助；申请前需确认名额是否对外国学生开放。
+  verify_method: page
+  page_evidence: The PhD provides an average of 6 scholarships per year.
+  verified: 2026-10-19
 - id: mat-ubc-chemistry-phd-funding
   name: 英属哥伦比亚大学（UBC）化学博士资助保障
   url: https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-chemistry
@@ -14622,6 +17290,28 @@
   verify_method: page
   page_evidence: Each year, the ED I-MEP² invites applications for a number of doctoral contracts.
   verified: 2026-10-17
+- id: mat-paris-saclay-chemistry-graduate-school
+  name: 巴黎萨克雷大学化学博士项目（Graduate School Chimie）
+  url: https://www.universite-paris-saclay.fr/programme-doctoral-en-chimie-graduate-school-chimie
+  category: doctoral-programs
+  regions:
+  - FR
+  disciplines:
+  - chem
+  funding: info
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: fr
+  coverage: salary
+  deadline: varies
+  status: ongoing
+  notes: 化学博士项目含无机与材料化学等方向，学生通常有 3 年博士合同；需查看具体课题是否带合同。
+  verify_method: page
+  page_evidence: Les doctorant.e.s admis dans le programme doctoral auront un contrat doctoral de droit public.
+  verified: 2026-10-19
 - id: mat-bordeaux-edsc40-funded-theses
   name: 波尔多大学 EDSC 40 带合同博士课题清单（2026/2027）
   url: https://doctorat.u-bordeaux.fr/download_file/view/840d7c6e-e11f-4227-b914-a2dd6a2921d8/2967
@@ -14670,6 +17360,30 @@
   verify_method: page
   page_evidence: CALL FOR APPLICATIONS (2026-2028)
   verified: 2026-10-18
+- id: nawa-zawacka-incoming-2026-27
+  name: NAWA Zawacka 项目（博士生赴波兰，合作院校推荐）
+  url: https://nawa.gov.pl/en/international-cooperation-and-exchange/zawacka-nawa/incoming
+  category: gov-scholarships
+  regions:
+  - PL
+  disciplines:
+  - all
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: stipend
+  deadline: unknown
+  deadline_note: 2026/27 批次公告编号 11/2026，发布于 2026-03-10；须经双边协议下的合作院校推荐，具体截止以合作院校与公告为准，当前是否仍开放未核实。
+  status: open
+  requirements: 须由与波兰有双边协议的合作院校推荐，不直接向 NAWA 投递；公告附录列出合作国家与院校。
+  notes: 资助最长 12 个月。中国学生需先确认所在机构是否在名单内。
+  verify_method: page
+  page_evidence: 'List of countries and territories from which participants may come under the Programme in the academic year 2026/2027:'
+  verified: 2026-10-19
 - id: uea-phd-funding-deadlines-2027
   name: 东英吉利大学（UEA）博士资助截止日期总表
   url: https://www.uea.ac.uk/research/research-with-us/postgraduate-research/latest-phds-and-research-studentships/application-deadlines
@@ -14717,6 +17431,78 @@
   notes: 页面称博士生获全额学费支持和生活津贴，未给金额。方向：单细胞多组学生成模型、AI 辅助药物重定位。
   verify_method: page
   page_evidence: PhD students will receive full tuition support and a living stipend.
+  verified: 2026-10-19
+- id: mcgill-geography-arctic-sea-ice-phd
+  name: McGill Geography · Mallik Mahmud 极地遥感组 · 海冰 SAR 遥感 招生（MSc/PhD）
+  url: https://www.mcgill.ca/geography/graduate/recruitment
+  category: recruiting-posts
+  regions:
+  - CA
+  disciplines:
+  - geo
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: unknown
+  deadline_note: 官网招生页写 Fall 2026 入学，1 月 15 日截止（已过）；下一轮轮次需直接向导师或 McGill 确认。
+  status: closed
+  requirements: 需有遥感数据分析经验与 Python/MATLAB/R 编程能力；MSc 岗位优先加拿大学生，博士岗位国籍限制未明确。
+  notes: 官方招生页称提供全额资助的 MSc 与 PhD 岗位（北极海冰卫星 SAR 监测）。先在 McGill 门户申请，再把 CV 与成绩单发给 PI。
+  verify_method: page
+  page_evidence: Fully-Funded MSc and PhD Positions in Arctic Science.
+  verified: 2026-10-19
+- id: polyu-yu-shen-crypto-phd-2026
+  name: Yu Shen · 香港理工大学计算学系 · 区块链安全/安全多方计算/量子密码 招生
+  url: https://www.iacr.org/jobs/item/4254
+  category: recruiting-posts
+  regions:
+  - HK
+  disciplines:
+  - cs
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: rolling
+  deadline_note: IACR 招聘帖（2026-08-08 发布）称材料按滚动方式评审，直至岗位招满；未见固定截止日期。申请方式为将简历、成绩单和研究陈述发送给沈宇教授。
+  status: rolling
+  notes: PI 为 PolyU 计算学系助理教授。方向：区块链安全与隐私、分布式共识、安全多方计算、量子密码。帖子称 3–4 年全额资助并提供月津贴。申请方式与国际生资格未在检索结果中看到。
+  verify_method: page
+  page_evidence: The PhD positions are fully funded for 3–4 years, with a competitive monthly stipend.
+  verified: 2026-10-19
+- id: sfi-swiss-finance-phd
+  name: Swiss Finance Institute 金融学博士项目（SFI，瑞士多校联合）
+  url: https://sfi.ch/en/phd/apply-now-2022
+  category: doctoral-programs
+  regions:
+  - CH
+  disciplines:
+  - econ
+  - business
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  deadline: varies
+  deadline_note: 平台每年 9 月 1 日起开放；第一轮 1 月 15 日、第二轮 3 月 31 日（据苏黎世大学与卢加诺 USI 页面，需在 sfi.ch 核实当年日期）。
+  status: ongoing
+  requirements: 需已获金融或经济学硕士（或同等学力）；需至少 2 封推荐信、成绩单与英语成绩；申请费 USD 100；国籍限制未在官方页面找到。
+  notes: 瑞士合作高校（苏黎世、日内瓦、洛桑、卢加诺等）联合招收金融学博士。搜索结果称学生可获合作高校提供的奖学金或助教/助研职位，具体金额未在官方页面确认；该页面链接带有 2022 字样，使用时请从 sfi.ch 找到当年申请页。
+  verify_method: page
+  page_evidence: All students in the Swiss Finance Institute PhD program are offered either fellowships or teaching or research assistantships by partner universities.
   verified: 2026-10-19
 - id: charles-junior-fund-postdoc
   name: 查理大学 JUNIOR Fund 博士后研究员项目（捷克）
@@ -14788,7 +17574,9 @@
   status: open
   requirements: 需已有或即将获得理科硕士、尚未获得博士学位，英语 B2 及以上；MSCA 流动性规则：近 36 个月在招聘国居住或主要活动不得超过 12 个月。国籍不限，需逐岗核对流动性条件。
   notes: 欧盟 MSCA 博士网络，15 个带薪全职博士岗位，36 个月，含流动津贴，多国多家宿主机构。方向偏蛋白质科学与癌症药物，化学/生物背景更匹配。信息来自 EURAXESS 新闻页，未找到项目官网。
-  verified: 2026-10-14
+  verify_method: page
+  page_evidence: 'Application deadline: 31 October 2026, 23:59 (Europe/Vienna)'
+  verified: 2026-10-19
 - id: kochi-tech-csc-kut-phd
   name: 高知工科大学（KUT）CSC–KUT 博士奖学金（全日制博士）
   url: https://www.kochi-tech.ac.jp/english/admission/csc_kut_scholarship_program/guideline_full_time_phd_student.html
@@ -15976,6 +18764,30 @@
   verify_method: page
   page_evidence: Stipends are given to the student throughout their degree, given that they demonstrate adequate progress and meet the required program milestones.
   verified: 2026-10-19
+- id: psi-hr-higher-education
+  name: PSI 博士生页面（Doctoral Students）
+  url: https://psi.ch/en/hr/higher-education
+  category: doctoral-programs
+  regions:
+  - CH
+  disciplines:
+  - all
+  funding: info
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: varies
+  deadline_note: 博士岗位由 PSI 与合作大学联合招生，截止时间因岗位而异；页面提供当前在招岗位列表。
+  status: ongoing
+  requirements: 页面未写明国际生资格，需按具体岗位确认学位授予大学及其语言、学历要求。
+  notes: 页面称 PSI 与瑞士及境外大学合作提供 300 多个博士项目。申请时先在在招列表筛选岗位，再查看该岗位的授予大学与资助说明；资助金额页面未写。
+  verify_method: page
+  page_evidence: PSI provides interesting research projects in the natural and engineering sciences in a stimulating environment.
+  verified: 2026-10-19
 - id: abs-positions-news
   name: Animal Behavior Society · Positions & News（Jobs & Postdocs / Grad Positions）
   url: https://www.animalbehaviorsociety.org/web/news.php
@@ -16198,13 +19010,41 @@
   language: en
   coverage: full
   stipend: 至少 $49,614/年（含单人医保与学费，最长 5 年）
-  deadline: unknown
-  deadline_note: 每年一轮，申请截止约 12 月上旬（以 mit.whoi.edu/apply 为准）
+  deadline: 2026-12-01
+  deadline_note: 博士申请截止 12 月 1 日，次年 3 月中旬通知；2027 秋季入学轮以 mit.whoi.edu/apply 为准
   status: upcoming
   requirements: 通过 MIT 研究生申请系统申请；不要求面试，也不要求事先联系导师；个别导师当年可能不招生。
   notes: 海洋学/海洋工程博士项目，录取即全额资助（研究助理或自带奖学金）。国际生资格页面未明说，建议向项目邮箱确认。
   verify_method: page
   page_evidence: Joint Program (JP) students are admitted to the program with full funding (i.e., stipend, health insurance for a single person, and tuition).
+  verified: 2026-10-19
+- id: marum-research-academy-job-lists
+  name: MARUM（不来梅大学海洋环境科学中心）职位汇总页（含德国海洋与地学研究所招聘）
+  url: https://www.marum.de/research-academy/career/job-lists.html
+  category: aggregators
+  regions:
+  - DE
+  disciplines:
+  - geo
+  - bio
+  - eco
+  funding: position
+  levels:
+  - phd
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  - email
+  language: en
+  coverage: unknown
+  deadline: rolling
+  deadline_note: 持续更新，各岗位截止日不同
+  status: ongoing
+  requirements: 各岗位自行规定；页面所列职位以博士后及以上为主，也有博士生岗位。
+  notes: MARUM 研究院的求职汇总页并提供求职邮件列表，汇集德国海洋与地学机构的岗位。具体薪资和国际生资格需看各岗位公告。
+  verify_method: page
+  page_evidence: On this page, we provide a list of links to institutions that frequently offer
   verified: 2026-10-19
 - id: durham-nine-dtp-sport-society
   name: 杜伦大学运动科学系 · ESRC NINE DTP 博士奖学金（Sport & Society 方向，2027 年 10 月入学）
@@ -16229,4 +19069,363 @@
   notes: 运动与社会（社科向）博士，ESRC 资助。须先联系 Sport & Society 方向导师，申请前先向院系确认国际生学费安排。
   verify_method: page
   page_evidence: Stage 1 application deadline is 27 October 2026
+  verified: 2026-10-19
+- id: nwssdtp-official-how-to-apply
+  name: NWSSDTP 西北英格兰社科博士培训联盟（ESRC）官方申请页 · 2027 年 10 月入学
+  url: https://nwssdtp.ac.uk/how-to-apply/
+  category: doctoral-programs
+  regions:
+  - UK
+  disciplines:
+  - social
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: 2027-02-22
+  deadline_note: 2027 年 10 月入学标准奖学金竞赛截止 2027-02-22 17:00（英国时间），逾期不受理
+  status: open
+  requirements: 需先向四校之一申请博士学位；官方 2027 年入学指南称对 Home 与国际（含欧盟）申请人开放，但资助仅覆盖到 Home 学费标准，国际生名额曾有比例上限（较早周期为 30%），请核对最新 studentship guidance
+  notes: ESRC 官方联盟（兰卡斯特/利物浦/曼彻斯特/基尔）申请页。官方 2027 年指南称国际生可申请，但学费仅按 Home 标准资助，国际学费差额由院校另行处理，名额比例以指南为准。
+  verify_method: page
+  page_evidence: 'The NWSSDTP’s fully-funded ESRC studentships cover:'
+  verified: 2026-10-19
+- id: khio-artistic-research-phd-fellowships
+  name: 奥斯陆国立艺术学院 KHiO · 艺术研究博士 Fellow（带薪）招聘
+  url: https://khio.no/en/events/2424
+  category: doctoral-programs
+  regions:
+  - 'NO'
+  disciplines:
+  - humanities
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: salary
+  stipend: NOK 550,800/年（起薪，据公告）
+  deadline: varies
+  deadline_note: 2027 年 10 月 1 日入职的一轮已于 2026-09-01 截止；下一轮预计 2027 年夏秋，以 Jobbnorge 公告为准
+  status: closed
+  requirements: 需艺术硕士或同等学历、数年专业艺术实践及作品集；录用以被艺术研究博士项目录取为前提；公告要求证明挪威语/瑞典语/丹麦语至少 A2 水平，国际生资格需自行核实
+  notes: KHiO 每年在 Jobbnorge 发布 3 年全职的艺术研究博士 Fellow 岗位，入职前有申请说明会。申请材料含表格、学历证明、CV 和作品。
+  verify_method: page
+  page_evidence: Application deadline 1 September 2026.
+  verified: 2026-10-19
+- id: pitt-linguistics-financial-aid
+  name: 匹兹堡大学语言学系研究生资助
+  url: https://linguistics.pitt.edu/graduate/financial-aid
+  category: doctoral-programs
+  regions:
+  - US
+  disciplines:
+  - humanities
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: 'yes'
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: unknown
+  deadline_note: 以系/学院招生页为准
+  status: ongoing
+  requirements: 页面称国际生与美国公民均可申请资助；资助通常可续至最多 5 年，需学业进展良好
+  notes: 系内资助面向国际生与本国生。具体金额与截止日以页面为准。
+  verify_method: page
+  page_evidence: Both international students and U.S. citizens can apply for financial aid.
+  verified: 2026-10-19
+- id: eou-positions-opportunities
+  name: European Ornithologists' Union · 职位与机会公告（鸟类学博士/博后）
+  url: https://eounion.org/announcements/positions-opportunities-available/
+  category: discipline
+  regions:
+  - EU
+  - GLOBAL
+  disciplines:
+  - bio
+  - eco
+  funding: info
+  levels:
+  - phd
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: unknown
+  deadline_note: 以系/学院招生页为准
+  status: ongoing
+  requirements: 各岗位要求以原公告为准
+  notes: 欧洲鸟类学家联盟的岗位公告汇总页，持续发布鸟类生态、迁徙、行为生态方向的博士/博后岗位。资助与国际生资格需在原公告核对。
+  verify_method: page
+  page_evidence: Doctoral Research Position in gut microbiome-host interactions, University of Jyväskylä
+  verified: 2026-10-19
+- id: eawag-academic-education-doctorate
+  name: Eawag · Academic education（在招博士职位列表）
+  url: https://www.eawag.ch/en/teaching/academic-education/
+  category: university-schemes
+  regions:
+  - CH
+  disciplines:
+  - geo
+  - engineering
+  - bio
+  - chem
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: varies
+  deadline_note: 各岗位自行规定,以公告为准
+  status: ongoing
+  requirements: 通常需注册于合作大学（如 ETH、EPFL）；具体看岗位
+  notes: 瑞士联邦水科学与技术研究所官方页，设有当前可申请的博士职位栏目。逐条核对资格。
+  verify_method: page
+  page_evidence: 'Eawag offers ideal conditions for PhD students: dedicated supervision, a modern infrastructure and an inspiring environment for aspiring scientists.'
+  verified: 2026-10-19
+- id: kaust-bese-division
+  name: KAUST · BESE（生物与环境科学与工程）博士项目
+  url: https://bese.kaust.edu.sa/
+  category: doctoral-programs
+  regions:
+  - SA
+  disciplines:
+  - bio
+  - geo
+  - engineering
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: varies
+  deadline_note: 各岗位自行规定,以公告为准
+  status: ongoing
+  requirements: 本科或硕士（理工相关）；具体看 KAUST 统一入口
+  notes: BESE 含环境科学与工程、海洋、植物、生物科学；录取者获 KAUST Fellowship（据 BESE 介绍）。申请走 KAUST 统一入口。
+  verify_method: page
+  page_evidence: We offer master’s and Ph.D. degrees in science and engineering.
+  verified: 2026-10-19
+- id: lanl-postdoc-eligibility-appointments
+  name: Los Alamos National Laboratory 博士后项目 · 资格与聘任说明
+  url: https://lanl.gov/engage/collaboration/postdoctoral-research/becoming-a-postdoc/eligibility-and-appointments
+  category: postdoc-fellowships
+  regions:
+  - US
+  disciplines:
+  - all
+  funding: position
+  levels:
+  - postdoc
+  cn_eligible: 'no'
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: rolling
+  deadline_note: 按岗位发布，随岗位截止，以官网为准
+  status: rolling
+  requirements: 博士学位毕业不超过 5 年，或在入职前完成全部博士要求；页面说明中国（PRC）等国公民如非美国永久居民，被禁止进入相关设施
+  notes: LANL 博后官方资格页。持中国护照且非绿卡者基本无法申请，除非已有美国永久居民身份。
+  verify_method: page
+  page_evidence: Postdoctoral research associate nominations are accepted year round.
+  verified: 2026-10-19
+- id: au-wehi-scientific-jobs
+  name: WEHI 科研岗位招聘页（含博后 Research Officer / Fellowship）
+  url: https://www.wehi.edu.au/careers/scientific-job-opportunities/
+  category: postdoc-fellowships
+  regions:
+  - AU
+  disciplines:
+  - bio
+  - med
+  funding: position
+  levels:
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: rolling
+  deadline_note: 各岗位截止日不同，以页面当期列表为准
+  status: ongoing
+  requirements: 国际申请者资格与签证支持需看具体岗位说明
+  notes: WEHI 官方科研岗位列表，博后岗位（Research Officer）在此发布。需逐条打开确认薪资与国际生资格。
+  verify_method: page
+  page_evidence: Ross Laybutt Fellowship
+  verified: 2026-10-19
+- id: au-florey-working-vacancies
+  name: Florey 研究所（神经科学与精神健康）职位空缺页
+  url: https://florey.edu.au/careers-and-study/working-at-the-florey/
+  category: postdoc-fellowships
+  regions:
+  - AU
+  disciplines:
+  - neuro
+  - med
+  - bio
+  funding: position
+  levels:
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: rolling
+  deadline_note: 各岗位截止日不同，以页面当期列表为准
+  status: ongoing
+  requirements: 国际申请者资格与签证支持需看具体岗位说明
+  notes: Florey 官方招聘入口，页面设有 Current vacancies 栏目。需逐条核实薪资与国际生资格。
+  verify_method: page
+  page_evidence: Explore our current employment opportunities below.
+  verified: 2026-10-19
+- id: au-qimr-positions-vacant
+  name: QIMR Berghofer 职位空缺页（博后 / Research Officer）
+  url: https://www.qimrberghofer.edu.au/careers/positions-vacant/
+  category: postdoc-fellowships
+  regions:
+  - AU
+  disciplines:
+  - med
+  - bio
+  - neuro
+  funding: position
+  levels:
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: rolling
+  deadline_note: 各岗位截止日不同，以页面当期列表为准
+  status: ongoing
+  requirements: 国际申请者资格与签证支持需看具体岗位说明
+  notes: QIMR Berghofer 官方空缺页。需逐条核实薪资与国际生资格。
+  verify_method: page
+  page_evidence: Explore diverse opportunities in our laboratory teams, including roles for technicians, research assistants, post-doctorates, and research fellows.
+  verified: 2026-10-19
+- id: scripps-phd-faq
+  name: Scripps 海洋研究所博士项目 FAQ（录取与资助）
+  url: https://scripps.ucsd.edu/doctoral/frequently-asked-questions
+  category: doctoral-programs
+  regions:
+  - US
+  disciplines:
+  - geo
+  - bio
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: varies
+  deadline_note: 每年申请季一次，具体日期以 Scripps 招生页为准
+  status: ongoing
+  requirements: 申请时选择专业代码与项目；国际生资格以官方页为准
+  notes: 页面称所有 PhD 申请人都会被考虑资助（奖学金、助研等），通常含津贴和学费；具体以官方页为准。
+  verify_method: page
+  page_evidence: At UC San Diego, the general financial support package for first-year Ph.D. students includes a minimum commitment of $37,500 plus tuition and mandatory fees.
+  verified: 2026-10-19
+- id: max-planck-school-cognition-application
+  name: Max Planck School of Cognition · 博士项目申请页（2027 年秋季入学）
+  url: https://cognition.maxplanckschools.org/en/application
+  category: doctoral-programs
+  regions:
+  - DE
+  disciplines:
+  - neuro
+  - ai
+  - bio
+  - physics
+  - humanities
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  stipend: 定向年每月净额 €1,565（另有最多 €100 医保补贴），之后转为公共部门工资合同（FAQ 所述）
+  deadline: 2026-12-01
+  deadline_note: 申请 9/1 开放，2026-12-01 24:00 CEST 截止（含推荐信）；虚拟面试 2027-02-23/24
+  status: open
+  requirements: 学士（快速通道）或硕士均可申请，要求学术背景强；GRE 可选；国际生语言与签证要求请到 FAQ 页核对
+  notes: 四年制，第一年为导向年，含课程和实验室轮转，之后三年做博士研究；受邀面试者报销差旅。
+  verify_method: page
+  page_evidence: A fully funded international doctoral program in Germany
+  verified: 2026-10-19
+- id: mpgc-qm-application-portal
+  name: Max Planck Graduate Center for Quantum Materials (MPGC-QM) · 官方申请页（2027 年秋季入学）
+  url: https://www.quantummaterials.mpg.de/application
+  category: doctoral-programs
+  regions:
+  - DE
+  disciplines:
+  - physics
+  - chem
+  - engineering
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: 2026-12-08
+  deadline_note: 2027 年秋季入学一轮 2026-12-08 截止，只接受在线门户提交
+  status: open
+  requirements: 优秀的学士或硕士学位，专业须与研究方向匹配，页面称任何国家的候选人均可申请；需成绩单、简历、两位推荐人，英语成绩要求见页面
+  notes: 覆盖多个 Max Planck 研究所，选好导师即可申请。
+  verify_method: page
+  page_evidence: The registration for the autumn term 2027 is now open!
+  verified: 2026-10-19
+- id: duke-mems-phd-admissions
+  name: Duke Pratt MEMS(机械工程与材料科学)博士招生页
+  url: https://mems.duke.edu/admissions/phd/
+  category: doctoral-programs
+  regions:
+  - US
+  disciplines:
+  - engineering
+  - physics
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: unknown
+  deadline_note: 页面称须在每年 12 月第一个周一前申请
+  status: open
+  requirements: 国际生资格需自行核对
+  notes: 搜索结果摘要显示该系保证前五年津贴并免学费，含医保。国际生资格和截止日需到官方页确认。
+  verify_method: page
+  page_evidence: Guaranteed pay, 12 months a year, for the first five years
   verified: 2026-10-19

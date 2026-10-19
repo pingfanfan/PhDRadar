@@ -2,17 +2,17 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 综合聚合平台（102）
+# 综合聚合平台（127）
 
 汇总多国、多学科 PhD 职位/项目的平台，日常刷新的首选入口。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [全球（GLOBAL） 34](aggregators.md#r-global) · [英国（UK） 18](aggregators.md#r-uk) · [德国（DE） 13](aggregators.md#r-de) · [欧盟/欧洲（EU） 8](aggregators.md#r-eu) · [美国（US） 6](aggregators.md#r-us) · [法国（FR） 5](aggregators.md#r-fr) · [西班牙（ES） 3](aggregators.md#r-es) · [中国内地（CN） 2](aggregators.md#r-cn) · [韩国（KR） 2](aggregators.md#r-kr) · [荷兰（NL） 2](aggregators.md#r-nl) · [澳大利亚（AU） 1](aggregators.md#r-au) · [加拿大（CA） 1](aggregators.md#r-ca) · [瑞士（CH） 1](aggregators.md#r-ch) · [丹麦（DK） 1](aggregators.md#r-dk) · [中国香港（HK） 1](aggregators.md#r-hk) · [日本（JP） 1](aggregators.md#r-jp) · [新西兰（NZ） 1](aggregators.md#r-nz) · [瑞典（SE） 1](aggregators.md#r-se) · [泰国（TH） 1](aggregators.md#r-th)
+**按地区跳转：** [全球（GLOBAL） 46](aggregators.md#r-global) · [英国（UK） 21](aggregators.md#r-uk) · [德国（DE） 16](aggregators.md#r-de) · [欧盟/欧洲（EU） 9](aggregators.md#r-eu) · [美国（US） 6](aggregators.md#r-us) · [法国（FR） 5](aggregators.md#r-fr) · [西班牙（ES） 3](aggregators.md#r-es) · [加拿大（CA） 2](aggregators.md#r-ca) · [瑞士（CH） 2](aggregators.md#r-ch) · [中国内地（CN） 2](aggregators.md#r-cn) · [丹麦（DK） 2](aggregators.md#r-dk) · [日本（JP） 2](aggregators.md#r-jp) · [韩国（KR） 2](aggregators.md#r-kr) · [荷兰（NL） 2](aggregators.md#r-nl) · [新加坡（SG） 2](aggregators.md#r-sg) · [澳大利亚（AU） 1](aggregators.md#r-au) · [中国香港（HK） 1](aggregators.md#r-hk) · [新西兰（NZ） 1](aggregators.md#r-nz) · [瑞典（SE） 1](aggregators.md#r-se) · [泰国（TH） 1](aggregators.md#r-th)
 
 <a id="r-global"></a>
 
-## 全球（GLOBAL）（34）
+## 全球（GLOBAL）（46）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -46,14 +46,26 @@
 | [MICCAI 医学图像计算职位板](https://miccai.org/index.php/job-board)<br><sub>全球 ｜ 人工智能·工程·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 医学影像与图像计算方向的博士和博后岗位集中地，逐条核对截止与资助。 |
 | [MiTeGen 结构生物学与晶体学招聘板](https://www.mitegen.com/news/job-board/)<br><sub>全球 ｜ 生物/生命科学·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 结构生物学、晶体学与束线相关博士和博后岗位汇总页,可作长期关注入口。岗位有效期较短,每条需核对截止时间和资格。 |
 | [Nature Careers · 生命科学/医学博后全职岗位（直招）](https://www.nature.com/naturecareers/jobs/health-science/postdoctoral/full-time/fixed-term/academia/direct-employer)<br><sub>全球 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>职位各自设定截止日，以岗位页面为准</sub> | ✅ | Nature Careers 生命科学与医学博后直招岗位列表，可按地区与岗位类型筛选。资助条件与工作许可因岗位而异，海外岗位需自备签证或工作许可，申请前逐条核实。 |
+| [Nature Careers 化学博士岗位](https://www.nature.com/naturecareers/jobs/chemistry/phd-position)<br><sub>全球 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 可按国家与雇佣类型筛选化学类博士岗位，含催化、电化学方向；逐条核实资助与国籍限制。 |
+| [Nature Careers 地球科学 PhD 直雇主岗位筛选页](https://www.nature.com/naturecareers/jobs/earth-science/phd/direct-employer/)<br><sub>全球 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>岗位列表持续更新，截止日以各岗位页为准</sub> | ❔ | 只看直接雇主发布的地球科学 PhD 岗，可过滤中介。每条都要核对是否全额资助和国籍限制，截止日以岗位页为准。 |
+| [Nature Careers 生物医学博士与博后岗位（全球）](https://www.nature.com/naturecareers/jobs/biomedicine)<br><sub>全球 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 因岗位而异；国际生条件以各岗位原文为准<br>生物医学岗位总览，可按 PhD、博后筛选，学术与企业岗位混杂，资助条件以原文为准。 |
+| [Nature Careers（PhD）](https://www.nature.com/naturecareers/moreterms/jobtype/101/phd)<br><sub>全球 ｜ 生物/生命科学·化学/材料·物理/天文·医学/公卫·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 自然科学类，质量较高，常见欧洲研究所和美国实验室招生。 |
+| [Nature Careers：环境科学全职博后职位列表](https://www.nature.com/naturecareers/jobs/environmental-science/postdoctoral/full-time/academia/direct-employer)<br><sub>全球 ｜ 地球/环境/海洋·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止时间不一，需逐条核对</sub> | ❔ | **要求：** 以各岗位要求为准，多数要求博士学位<br>全球环境科学全职博后岗位，可按国家筛选。 |
+| [OperationsAcademia 运筹学学术岗位库](https://www.operationsacademia.org/jobs)<br><sub>全球 ｜ 数学/统计·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 汇集运筹与运营管理方向的学术岗位，主要为教职与博士求职者档案，博后岗位较少，需另查 INFORMS/POMS。 |
+| [ORFEUS 地震学论坛招聘板](https://forum.orfeus-eu.org/c/job-announcements/14)<br><sub>全球 ｜ 地球/环境/海洋·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 欧洲地震数据中心的招聘公告板，偏地震学与地球物理；申请前核对资助类型与国际生资格。 |
+| [POLMETH 政治方法论邮件列表](https://polmeth.org/mailing-list)<br><sub>全球 ｜ 社会科学/心理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 政治方法论学会邮件列表（2025 年起由 Penn State 托管），用于发布博士、博后岗位与会议信息；订阅见 polmeth.org。岗位是否带资助需逐条核实。 |
+| [Rocq 证明助手社区招聘板（形式化验证与编程语言）](https://discourse.rocq-prover.org/tag/jobs)<br><sub>全球 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | Rocq（原 Coq）社区 jobs 标签页，集中发布形式化验证、程序证明与编程语言方向的博士及博后信息。 |
+| [ROS Discourse 招聘分区（jobs）](https://discourse.openrobotics.org/c/jobs/15)<br><sub>全球 ｜ 计算机·工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | ROS 社区官方招聘分区，机器人实验室和企业发布博士与博后岗位；按时间排序查看最新，需 ROS 技能的岗位较多。 |
 | [Science Careers](https://jobs.sciencecareers.org/jobs/graduate-student/)<br><sub>全球 ｜ 生物/生命科学·化学/材料·物理/天文·医学/公卫</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 依职位而定；需按职位页核对学位与语言要求<br>AAAS 旗下职位板，可按 “Graduate Student/PhD” 职位类型筛选。 |
 | [Times Higher Education Unijobs](https://www.timeshighereducation.com/unijobs/listings/)<br><sub>全球·英国 ｜ 全学科</sub> | 博士+博后 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | THE 旗下职位板，英联邦高校较多。 |
+| [区域研究协会（Regional Studies Association）博士机会板块](https://www.regionalstudies.org/category_opportunities/phd)<br><sub>全球 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 多数奖项需 RSA 会员身份。<br>RSA 博士相关条目多为学会奖项与研究资助（如 PhD Student Award 500 英镑），并非全额博士岗位；多数需 RSA 会员身份，申请前看截止日期。 |
 | [国际电化学学会（ISE）职位板](https://www.ise-online.org/jobs-positions)<br><sub>全球 ｜ 化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各职位截止日期不同，需在岗位页核实。</sub> | ❔ | **要求：** 以各职位要求为准。<br>电化学、电池与电解水方向的博士和博后职位汇总板，职位来源多样，需逐条核实。 |
+| [数学心理学学会招聘归档](https://www.mathpsych.org/page/newsarchive)<br><sub>全球 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 未公布<br><sub>📋 持续更新</sub> | ❔ | **要求：** 国际生资格以具体公告为准；已见 2025 年利物浦两个博士岗限英国本国（Home）学生。<br>学会新闻与招聘归档（招聘公告在 Job announcements 分类），适合定期检索计算认知方向岗位；搜索结果最新为 2026 年初公告，当前在招需逐条核对。 |
 | [美国生态学会（ESA）职位网站清单](https://esa.org/career-development/job-sites/)<br><sub>全球·美国 ｜ 生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | ESA 整理的生态学求职网站清单，清单本身不发布岗位，需逐个检查各站点。各站的岗位类型与资助情况不同。 |
 
 <a id="r-uk"></a>
 
-## 英国（UK）（18）
+## 英国（UK）（21）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -64,21 +76,24 @@
 | [jobs.ac.uk 博士后职位分类页](https://www.jobs.ac.uk/categories/postdoctoral-researcher-jobs/1)<br><sub>英国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各职位截止日期不同，需逐条查看</sub> | ❔ | **要求：** 一般要求已获得博士学位；国籍与工作签证要求因职位而异<br>英国最大的学术招聘聚合站之一，用于横向检索英国有薪博后；其中部分为短期项目岗而非独立博后基金。 |
 | [jobs.ac.uk 古典学 Studentships / PhDs 分类页](https://www.jobs.ac.uk/categories/classics)<br><sub>英国 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 页面为古典学分类，但所列 23 条中多为其他学科岗位（如物理、计算机科学）；可见部分中古典学博士仅 Warwick 的 Classics and Ancient History MPhil/PhD 一条，截止 15 Jan。 |
 | [jobs.ac.uk 商管类博士岗位搜索页](https://www.jobs.ac.uk/search/business-and-management-studies/phd)<br><sub>英国 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 英国高校商管类博士岗位聚合页，可按 Studentship 筛选；截止日在各页核实。 |
+| [jobs.ac.uk 地质学类目（含 Studentships / PhD）](https://www.jobs.ac.uk/categories/geology)<br><sub>英国 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>滚动列表，各 studentship 截止日期不同。</sub> | ❔ | **要求：** 各 studentship 学历与国际生资格不同，需逐条核对。<br>英国高校地质类 PhD 与博后岗位分类页，可设邮件提醒。中国学生常为国际学费，是否全额资助要看每个 studentship 说明。 |
 | [jobs.ac.uk 微生物学类目（含 Studentships / PhD）](https://jobs.ac.uk/categories/microbiology)<br><sub>英国·全球 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 列表中部分 studentship 可能仅对英国与欧盟学生开放，需逐条核对原岗位页<br>英国与国际微生物学 studentship 和博士岗位分类页。申请前核对是否属于 UKRI 或大学全额奖学金，以及国际生是否可申请。 |
 | [jobs.ac.uk 政治类博士奖学金与岗位](https://jobs.ac.uk/categories/politics)<br><sub>英国 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | 英国高校政治类博士奖学金和岗位的汇总页，可按截止日排序。多数博士奖学金只对英国或欧盟学生开放，国际生需逐条确认，包括 ESRC 居留要求。 |
 | [jobs.ac.uk 教育学与教育研究（含 TEFL）博士搜索](https://www.jobs.ac.uk/search/education-studies-inc-tefl/phd)<br><sub>英国 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止日不同，搜索页按发布时间排列。</sub> | ❔ | **要求：** 国际生资格以各岗位原文为准。<br>已按 PhD 过滤的教育研究（含 TEFL）搜索页，可查看在招博士岗位；需逐条查看岗位原文核实资助。 |
 | [jobs.ac.uk 社会学类别（Studentships / PhDs）](https://www.jobs.ac.uk/categories/sociology)<br><sub>英国 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | jobs.ac.uk 社会学类别页，集中列出博士 studentship 与博后岗位，但混有行政与研究类职位，需筛选 PhD；截止日逐条核对。 |
 | [jobs.ac.uk 统计类职位](https://www.jobs.ac.uk/categories/statistics/1)<br><sub>英国 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 英国高校统计方向的博士与博后岗位分类页，逐条看 fee status 是否面向国际生。 |
 | [jobs.ac.uk（PhD 板块）](https://www.jobs.ac.uk/phd)<br><sub>英国·全球 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | 🟡 | 英国高校官方招聘首选平台，PhD studentship 常同步发布。注意看 “Eligibility” 是否包含 international。 |
+| [SCHEMA Hub · 化学与化学工程博士/博后机会汇总（英国）](https://schemahub.ac.uk/opportunities)<br><sub>英国 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>列表页持续更新，各岗位截止不一；投递前进入原校页面核对。</sub> | ❔ | 英国化学与化工领域的岗位汇总页，覆盖 PhD 与博后机会，适合作为英国化学方向的搜索起点。资助细节须点进原始岗位确认。 |
 | [St Andrews 研究生院资助页（Funding and Scholarships）](https://www.st-andrews.ac.uk/graduate-school/funding/)<br><sub>英国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>📋 持续更新</sub><br><sub>World-Leading Doctoral Scholarships（学生自拟课题）2027–28 入学轮申请截止 2027 年 1 月 20 日；导师指定课题的轮次页面称 2027 年初公布。</sub> | ✅ | **要求：** 需申请圣安德鲁斯博士项目；奖学金面向英国、欧盟及国际新生；部分奖学金绑定导师项目<br>圣安德鲁斯研究生院统一的博士资助总页，链接校级、学院和外部奖项。适合做为初筛入口，再到具体奖学金页核对国籍和学费身份限制。 |
 | [剑桥大学招聘系统中的博士 Studentships 列表](https://www.cam.ac.uk/jobs/term/studentships)<br><sub>英国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub><br><sub>各岗位截止日不同，以广告为准</sub> | ❔ | **要求：** 以各广告为准；国际生须满足各岗位的学历与语言要求<br>剑桥统一招聘系统的 Studentships 分类页，正文列出 20 个 studentship 岗位，多数为博士课题（另含一个兽医临床实习奖学金），截止日各不相同，如 2026-11-03、2026-12-08 等，以各广告为准。 |
 | [剑桥大学招聘页（研究类固定期限岗位）](https://www.cam.ac.uk/jobs/term/research)<br><sub>英国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 国际申请者需办理英国工作许可，学历与经验要求以各岗位为准。<br>剑桥大学官方招聘站按合同期限筛选的研究类岗位，覆盖各院系博后与研究助理；逐岗核对薪资与签证。 |
 | [爱丁堡神经科学中心职位与博士机会汇总](https://edinburghneuroscience.ed.ac.uk/opportunities/jobs-internships-phds)<br><sub>英国 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 爱丁堡神经科学职位与博士机会汇总页。抓取文本中可见的条目只有伦敦国王学院 King's Prize Fellowship（页面日期 26 Oct, 2026），未见爱丁堡本校岗位，需逐条核对。 |
+| [英国政治研究协会（PSA）机会页](https://psa.ac.uk/opportunities)<br><sub>英国 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | PSA 汇集博士资助机构、职位和申请机会信息，适合每月浏览一次。页面本身不是资助，需逐条核对国籍与学费资格。PSA 会员身份可能会影响部分机会的申请。 |
 | [英国社会学会 BSA 社会学职位板](https://www.britsoc.co.uk/opportunities/sociology-vacancies-board.aspx)<br><sub>英国 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 滚动<br><sub>📋 持续更新</sub><br><sub>抓取时（2026-10-17）页面列出的博士/博后相关岗位截止日在 2026-10-18 至 2026-11-15 之间，需逐条以岗位页为准。</sub> | ❔ | 英国社会学职位聚合页，含 PhD studentship 和研究员岗位；需逐条核对截止日。 |
 
 <a id="r-de"></a>
 
-## 德国（DE）（13）
+## 德国（DE）（16）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -89,16 +104,19 @@
 | [Forschung & Lehre 学术招聘市场（与 academics.de 同步）](https://www.forschung-und-lehre.de/akademischer-stellenmarkt)<br><sub>德国·全球 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 岗位各异，以各岗位公告为准，包括学位、语言与申请方式<br>Forschung & Lehre 学术招聘页，每条岗位同步发布到 academics 平台，可在该平台按兴趣筛选。本页未列出具体岗位，博士与博后的截止、学位和语言要求以各岗位公告为准。 |
 | [G-Evol 开放博士岗位列表（明斯特大学）](https://g-evol.uni-muenster.de/?p=14)<br><sub>德国 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面所列岗位截止日期在 2026 年 4 月 6 日或更早（部分为 2025 年），均已过期；页面称后续还会发布岗位，需定期查看。</sub> | ❔ | 页面列出多个博士及博后岗位，分布于明斯特、法兰克福、慕尼黑、哈雷、格赖夫斯瓦尔德、哥廷根等实验室，所列截止日均已过；页面注明后续还会发布新岗位。 |
 | [Hyperspace 天体与物理职位博客（法兰克福大学）](https://hyperspace.uni-frankfurt.de/category/jobs/)<br><sub>德国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | 长期发布全球天体、引力波、粒子物理博士与博后职位，按日期排列；点开原文核实资助与截止日期。 |
+| [MARUM（不来梅大学海洋环境科学中心）职位汇总页（含德国海洋与地学研究所招聘）](https://www.marum.de/research-academy/career/job-lists.html)<br><sub>德国 ｜ 地球/环境/海洋·生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 滚动<br><sub>📋 持续更新</sub><br><sub>持续更新，各岗位截止日不同</sub> | ❔ | **要求：** 各岗位自行规定；页面所列职位以博士后及以上为主，也有博士生岗位。<br>MARUM 研究院的求职汇总页并提供求职邮件列表，汇集德国海洋与地学机构的岗位。具体薪资和国际生资格需看各岗位公告。 |
 | [Neurocure · 柏林神经科学网络博后资助汇总](https://neurocure.de/career/career-support.html)<br><sub>德国 ｜ 神经/认知·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各资助项目截止不同，本页为汇总入口，需逐项核对。</sub> | ❔ | 柏林神经科学网络整理的博后资助清单，适合寻找个人博后资助；资格以各基金会规则为准。 |
+| [Research in Germany 博士岗位招聘门户汇总](https://www.research-in-germany.org/your-goal/phd/job-portals.html)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 官方列出 PhDGermany、EURAXESS 等招聘平台，作为搜索起点。 |
 | [基尔大学化学组整理的博士与博后招聘渠道](https://ravel.pctc.uni-kiel.de/?p=282)<br><sub>德国 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | 化学方向德国招聘渠道清单（GDCh、DPG、FAZ、DHV 等）；页面本身不发布岗位，适合作搜索起点。 |
 | [德国天文学会（AG）招聘登记册 · 天文与天体物理博士/博后](https://astronomische-gesellschaft.de/en/activities/jobregister)<br><sub>德国·欧盟/欧洲 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | 页面为德国天文学会招聘登记册，列出编号至 1633 的岗位（2026-09-29 发布，截止 2026-10-30），同时含大量已过截止日期的条目。AG 办公室仅登记岗位，不作中介，需直接联系岗位方。 |
 | [德国植物学会（DBG）植物科学职位板](https://www.deutsche-botanische-gesellschaft.de/en/job-openings)<br><sub>德国 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | 德国植物学会植物科学岗位板，页面列有博士与博后岗位（如慕尼黑工业大学博士岗“招满为止”、雷根斯堡大学博士岗未标截止、弗赖堡大学博士岗截止 2026 年 10 月 31 日）。多数岗位截止在 2026 年 10–11 月，需随时查看新职位；待遇以各岗位公告为准。 |
 | [德国认知科学学会（GK-EV）职位板](https://www.gk-ev.de/en/job-listings/)<br><sub>德国 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 未公布<br><sub>📋 持续更新</sub> | ❔ | **要求：** 国际生资格以具体公告为准<br>德国认知科学职位汇总，可见 TU Darmstadt 全额资助博士岗和 The Adaptive Mind 集群 4 年期岗位；页面无发布日期，需逐条核实。 |
 | [汉堡大学：博士与博后求职渠道清单](https://www.promovieren.uni-hamburg.de/min/nach-promotion/jobs.html)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各招聘平台与岗位截止不同，需逐条查看</sub> | ❔ | 汉堡大学博士中心整理的德国学术招聘平台清单（EURAXESS、ZEIT 人才库、各学会岗位）；是导航页而非岗位列表。 |
+| [萨尔兰大学科研人员招聘门户（Wissenschaftliches Personal）](https://www.uni-saarland.de/en/verwaltung/stellen/wissenschaftler.html)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>门户持续更新。可见哲学系岗位（TV-L E13，48 个月合同，2027-04 开始）截止 2026-11-02；其他岗位以各公告为准</sub> | ❔ | **要求：** 博士岗位通常需相关硕士学位；按 TV-L 支付，中国籍需办理居留许可<br>萨大所有院系的博士与博后岗位统一入口，NLP/计算机视觉等教席的博士岗通常在这里发布。建议按 LST、MMCI、Informatik 关键词筛选，关注截止日期与是否为全额带薪岗位。 |
 
 <a id="r-eu"></a>
 
-## 欧盟/欧洲（EU）（8）
+## 欧盟/欧洲（EU）（9）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -109,6 +127,7 @@
 | [EURAXESS Jobs](https://euraxess.ec.europa.eu/jobs/search)<br><sub>欧盟/欧洲 ｜ 全学科</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 依各岗位而定，需逐个岗位核实国籍与学位要求<br>欧盟官方研究岗位库，可按 Researcher Profile 筛选 R1（博士岗）。各岗位的资助、国籍与资格差异很大，需逐个核实。 |
 | [EURAXESS 欧洲研究者职位门户](https://euraxess.ec.europa.eu/cs/node/5)<br><sub>欧盟/欧洲 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 视各岗位而定；国际申请人需逐条核实岗位要求与资助<br>页面称 EURAXESS 列有来自 43 个以上国家及其他地区的数千个研究岗位。页面同时列出 Horizon Europe、ERC、MSCA 等欧盟资助项目的入口。 |
 | [Nature Careers 欧洲化学博士岗位筛选页](https://www.nature.com/naturecareers/jobs/chemistry/phd-position/europe/academia)<br><sub>欧盟/欧洲 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 长期有效的欧洲化学博士岗位筛选页，可按国家、全职和固定期限过滤。它是聚合站，申请前要回到原招聘页面核实截止日期和资助条件。 |
+| [Nature Careers 欧洲地球科学 PhD 岗位列表](https://www.nature.com/naturecareers/jobs/earth-science/phd-position/fixed-term/)<br><sub>欧盟/欧洲 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | Nature Careers 地球科学 PhD 固定期限岗位列表页，可按欧洲地区筛选，列表随岗位更新。每个岗位是否全额带薪、是否对欧盟外学生开放，需逐条打开原岗位页核对，列表页本身不作保证。 |
 | [欧洲经济学会（EEA）招聘页面](https://eeassoc.org/node/153)<br><sub>欧盟/欧洲 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 多为预博士或博士后岗位，最短 9 个月；候选人资格与国籍限制以各岗位为准<br>欧洲经济学会官方招聘入口，汇总欧洲经济学 job market 与 JEEH 岗位（预博士与博后为主，最短 9 个月）。EJME 通常在 12 月底集中，各岗位截止以条目为准。 |
 
 <a id="r-us"></a>
@@ -146,6 +165,24 @@
 | [CiTIUS 兴趣表达与职位存档](https://citius.gal/en/talent/job-offers/expressions-of-interest/archive/)<br><sub>西班牙 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 各征集单独公布，需进入具体征集页查看条件。<br>归档页按年份列出 CiTIUS 的兴趣表达（2026 年含 TALENTGAL 博后资助征集，发布于 2026 年 5 月 22 日；MSCA 博后候选人征集发布于 2026 年 3 月 16 日）。页面未显示截止日期，需进入各征集页核对。 |
 | [西班牙皇家化学学会（RSEQ）招聘板（RSS）](https://rseq.org/ofertas-de-empleo/?feed=rss2)<br><sub>西班牙 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | 西班牙皇家化学学会（RSEQ）官方招聘板，页面称只发布已有资金支持的岗位。页面标注发布于 2026-09-10，列有截止日在 2026 年 11 月前后的博士岗位（如 Lancaster 大学 CASE 博士，截止 30/11/2026），部分岗位截止日已过，需逐条核对。 |
 
+<a id="r-ca"></a>
+
+## 加拿大（CA）（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [SFU 博士后办公室公告（汇总加拿大博后项目）](https://www.sfu.ca/postdoctoral-fellows/opportunities---announcements.html)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 博后办公室不直接受理申请，需先联系 SFU 对应院系；具体资格与截止以各公告原文为准。<br>SFU 博士后办公室公告页，汇总多家加拿大机构的博后资助与岗位信息，按年份更新，部分为旧公告。条件与截止以各原网页为准。 |
+| [加拿大地质学会（GAC）招聘页（含研究生岗位）](https://gac.ca/members/employment-postings/)<br><sub>加拿大 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止日不同，以岗位页为准</sub> | ❔ | 页面标题为 The Geological Association of Canada（GAC），声明为 GAC 提供的免费招聘板服务；页面列有 Queen's University 的 MSc 或 PhD 岗位（2027 年 1 月入学，2026 年 7 月 27 日发布）。 |
+
+<a id="r-ch"></a>
+
+## 瑞士（CH）（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [infoclio.ch 瑞士人文社科招聘板](https://www.infoclio.ch/jobs)<br><sub>瑞士 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>🔄 随时可申</sub> | ❔ | 页面为瑞士人文社科岗位列表，每条附截止日期，包括巴塞尔大学古代文明系博士奖学金（截止 2026 年 11 月 15 日）等。多数岗位以德语或法语发布。 |
+| [NeuroLéman（日内瓦湖区神经科学网络）职位列表](https://wp.unil.ch/lemanicneuroscience/job-offers/)<br><sub>瑞士 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止不同；搜索可见的博士与博后岗位多发布于 2025 年 11 月前后，需逐条核对</sub> | ❔ | 汇总 UNIL、EPFL、UNIGE 等神经科学课题组的 PhD 与博后岗位；瑞士合同制博士有薪，资格看岗位原文。 |
+
 <a id="r-cn"></a>
 
 ## 中国内地（CN）（2）
@@ -154,6 +191,24 @@
 | --- | --- | --- | --- | :-: | --- |
 | [Nature Careers · 中国博士后岗位列表](https://www.nature.com/naturecareers/jobs/postdoctoral/china/)<br><sub>中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ✅ | **要求：** 多数岗位要求博士学位；待遇、国籍与资格条件因岗位和雇主而异，以各岗位页面为准<br>汇总中国大陆高校和研究机构直接发布的博后岗位（可按学科筛选，列表持续更新）。岗位条件差异大，部分与人才计划资格挂钩，待遇与截止以各岗位页面为准。 |
 | [高校人才网 · 博士与博士后招聘栏目](https://www.gaoxiaojob.com/column/3.html)<br><sub>中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ✅ | 高校人才网导航设有“高才博士后”栏目（另有 boshihou.gaoxiaojob.com 专站），并在“高校招聘”频道收录各校博士后与博士岗位公告；岗位以原校通知为准。 |
+
+<a id="r-dk"></a>
+
+## 丹麦（DK）（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [NordMedia Network 北欧传媒博士岗位列表](https://nordmedianetwork.org/latest/vacant-positions/)<br><sub>丹麦·瑞典·挪威·芬兰 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>职位板持续更新，可按国家与截止日期筛选，截止以各岗位为准</sub> | ❔ | **要求：** 以各岗位公告为准（学位、签证、教学比例）<br>北欧传播与媒体研究网络（由 Nordicom 与卑尔根大学运营）的职位板，可按国家和截止日期筛选，汇集带薪博士岗位。各岗位资格与签证要求需逐条核实。 |
+| [哥本哈根大学 PhD 岗位列表](https://jobportal.ku.dk/alle-opslag/)<br><sub>丹麦 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 各岗位学历、语言与资格要求不同，需逐条查看公告并确认截止日期<br>哥本哈根大学 KU 招聘门户的全部岗位列表，包含博士（如 PhD fellowship）、博后、教学与行政等岗位；各岗位截止日期以列表及岗位公告为准。 |
+
+<a id="r-jp"></a>
+
+## 日本（JP）（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Nature Careers 亚洲博后职位板](https://www.nature.com/naturecareers/jobs/postdoctoral/asia/phd/academia/direct-employer)<br><sub>日本·韩国·新加坡·中国香港 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | Nature Careers 亚洲直雇博后职位聚合页；检索时可见日本、新加坡、韩国少量职位，多数职位在中国大陆，以官网筛选结果为准。 |
+| [Nature Careers 日本职位板（学术岗位）](https://www.nature.com/naturecareers/jobs/japan)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 博士或博后学历为主，职位为英文招聘；各岗位学历与国籍要求以职位页为准；是否含学费与生活费需逐个确认。<br>日本英文学术岗位综合入口，可按学科和岗位类型筛选；多为带薪研究职位而非全奖学位，申请前确认是否含学费与生活费。 |
 
 <a id="r-kr"></a>
 
@@ -173,6 +228,15 @@
 | [LOT 荷兰语言学研究生院](https://lotschool.nl/)<br><sub>荷兰·比利时 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>无统一截止，各校岗位分别公布。</sub> | ❔ | **要求：** 汇总页面，岗位条件以各校公告为准。<br>LOT（荷兰语言学国家研究生院）首页列出荷兰各校近期语言学博士与博后招聘公告，例如莱顿大学博后截止 2026 年 11 月 1 日，阿姆斯特丹 ACLC 招两名儿童语言博士生。 |
 | [LOT 荷兰语言学研究生院 · MPI 心理语言学所 PhD/博后岗位汇总](https://lotschool.nl/phd-and-postdoc-positions-max-planck-insitute-for-psycholinguistics-mpi/)<br><sub>荷兰 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止不一，页面未统一列出；2026 年 IMPRS 语言学奖学金 1 月 5 日已截止</sub> | ✅ | **要求：** 通常需硕士学位，英语申请；岗位为带薪雇员合同（PhD 多为 4 年）；国际生资格以各岗位页面为准<br>汇总荷兰马普心理语言学所及 LOT 的带薪 PhD/博后岗位（PhD 多为 4 年合同）；2026 年 IMPRS 奖学金已截止，关注后续新岗位。国际生资格投递前逐条查看岗位页。 |
 
+<a id="r-sg"></a>
+
+## 新加坡（SG）（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Nature Careers 亚洲计算机类博后职位筛选页](https://www.nature.com/naturecareers/jobs/computing/postdoctoral/asia/-70-000-99-999/fixed-term/)<br><sub>新加坡·中国香港·日本·韩国·中国内地 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | 按亚洲地区与薪资筛选，适合扫描港、新、日、韩的 AI 岗位。 |
+| [Nature Careers 新加坡博后职位板](https://www.nature.com/naturecareers/jobs/postdoctoral/singapore/phd/)<br><sub>新加坡 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | — | ❔ | 新加坡高校与研究院博后职位聚合，可按学科筛选；各岗位截止与国籍要求回原招聘页核实。 |
+
 <a id="r-au"></a>
 
 ## 澳大利亚（AU）（1）
@@ -181,30 +245,6 @@
 | --- | --- | --- | --- | :-: | --- |
 | [澳大利亚数学学会（AustMS）职位页](https://austms.org.au/resources/austms-careers/)<br><sub>澳大利亚 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 页面可见的博士与博后岗位（UNSW、ANU、昆士兰大学、QUT、墨尔本大学等）截止日在 2026-10-20 至 2026-12-31 之间，抓取时尚未截止；列表较长，正文可能被截断。 |
 
-<a id="r-ca"></a>
-
-## 加拿大（CA）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [加拿大地质学会（GAC）招聘页（含研究生岗位）](https://gac.ca/members/employment-postings/)<br><sub>加拿大 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止日不同，以岗位页为准</sub> | ❔ | 页面标题为 The Geological Association of Canada（GAC），声明为 GAC 提供的免费招聘板服务；页面列有 Queen's University 的 MSc 或 PhD 岗位（2027 年 1 月入学，2026 年 7 月 27 日发布）。 |
-
-<a id="r-ch"></a>
-
-## 瑞士（CH）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [infoclio.ch 瑞士人文社科招聘板](https://www.infoclio.ch/jobs)<br><sub>瑞士 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>🔄 随时可申</sub> | ❔ | 页面为瑞士人文社科岗位列表，每条附截止日期，包括巴塞尔大学古代文明系博士奖学金（截止 2026 年 11 月 15 日）等。多数岗位以德语或法语发布。 |
-
-<a id="r-dk"></a>
-
-## 丹麦（DK）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [哥本哈根大学 PhD 岗位列表](https://jobportal.ku.dk/alle-opslag/)<br><sub>丹麦 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 各岗位学历、语言与资格要求不同，需逐条查看公告并确认截止日期<br>哥本哈根大学 KU 招聘门户的全部岗位列表，包含博士（如 PhD fellowship）、博后、教学与行政等岗位；各岗位截止日期以列表及岗位公告为准。 |
-
 <a id="r-hk"></a>
 
 ## 中国香港（HK）（1）
@@ -212,14 +252,6 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [港中大神经科学研究所（GCNI）招聘动态页](https://gcni.cuhk.edu.hk/news/career/)<br><sub>中国香港 ｜ 神经/认知·生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 未公布<br><sub>📋 持续更新</sub><br><sub>岗位陆续发布，截止以 CUHK 招聘平台为准</sub> | ❔ | **要求：** 须经 CUHK 招聘网站（career.cuhk.edu.hk）申请<br>页面列出当前招聘：Schnupp 实验室博后/研究员/研究助理，Wong 实验室博后/研究员及研究助理，另列有 Assistant Professor 岗位标题；页面未列博士岗位。申请经 CUHK 招聘平台提交，联系邮箱 gcni@cuhk.edu.hk。 |
-
-<a id="r-jp"></a>
-
-## 日本（JP）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [Nature Careers 日本职位板（学术岗位）](https://www.nature.com/naturecareers/jobs/japan)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 博士或博后学历为主，职位为英文招聘；各岗位学历与国籍要求以职位页为准；是否含学费与生活费需逐个确认。<br>日本英文学术岗位综合入口，可按学科和岗位类型筛选；多为带薪研究职位而非全奖学位，申请前确认是否含学费与生活费。 |
 
 <a id="r-nz"></a>
 

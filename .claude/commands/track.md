@@ -5,7 +5,7 @@ argument-hint: [自然语言，如 "findaphd:195793 已投了" / "给 Prof. X �
 
 看板数据在 `applications/tracker.yml`，是申请者的私有数据：**不要提交、不要推送、不要复制进公开数据**（`applications/` 应在 `.gitignore` 中；如果 `git status` 里出现了它，先停下提醒用户）。所有改动都通过 `python scripts/track.py` 完成，不要手改 YAML。
 
-1. **每次先运行提醒**：`python scripts/track.py remind`，把输出原样转述给用户放在回复最前面（截止前 14 / 7 / 1 天、已过期但仍在想投/准备中、套磁 10 天未回复、3 天内的面试）。没有提醒就一句话带过。
+1. **每次先运行提醒**：`python scripts/track.py remind`，把输出原样转述给用户放在回复最前面（截止前 14 / 7 / 1 天、已过期但仍在想投/准备中、套磁 10 天未回复、3 天内的面试、平台上截止日期变了或岗位提前下架）。截止日期变了时问用户后运行 `python scripts/track.py sync` 写回看板（旧日期记进备注）；岗位下架的提醒用户去官网确认，不要自动删除。没有提醒就一句话带过。
 2. **按 `$ARGUMENTS` 和用户的话更新看板**（id 可以是 `_data/postings.yml` 的岗位 id、信源 id 或网址）：
    - 收藏 / 想投：`python scripts/track.py add <id或网址>`；在目录里查不到时要补 `--title` 和 `--url`（可加 `--org`、`--deadline YYYY-MM-DD|rolling|unknown`）。截止日期只写官网上看到的，不确定就不填（记为 unknown）。
    - 换阶段：`python scripts/track.py stage <id> <想投|准备中|已投|面试|结果>`；结果要加 `--result offer|reject|withdraw`；补记过去的日期用 `--date YYYY-MM-DD`；约了面试加 `--interview YYYY-MM-DD`。

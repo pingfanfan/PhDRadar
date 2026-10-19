@@ -271,9 +271,11 @@ body.rec .recp{display:flex}
 .rp-more[open]>summary{margin-bottom:12px}
 .rp-more>div+div,.rp-more>.rp-grid+div{margin-top:12px}
 .rp-foot{display:flex;flex-wrap:wrap;gap:6px 18px;align-items:center}
+.rp-clear2{margin-left:0!important}
 .rp-clear{margin-left:auto;min-height:36px;padding:0 12px;border-radius:10px;border:1px solid var(--line-2);background:var(--surface);color:var(--muted);font-size:13px;cursor:pointer}
 .recsum{padding:12px 14px;border:1px solid var(--line);border-radius:14px;background:var(--surface);font-size:13px;color:var(--muted);line-height:1.65}
 .recsum b{color:var(--ink);font-family:var(--f-mono)}
+.recsum b.tip{font-family:var(--f-body);color:var(--soon)}
 .recsum details{margin-top:4px}
 .recsum summary{cursor:pointer;color:var(--brand-text)}
 .recsum ul{margin:6px 0 0;padding-left:18px}
@@ -347,7 +349,8 @@ body.rec .recp{display:flex}
         <label class="chk"><input type="checkbox" id="rp-only">只看所选国家</label>
         <label class="chk"><input type="checkbox" id="rp-cn">只看官网写明中国学生可申的</label>
         <label class="chk"><input type="checkbox" id="rp-sens">方向可能涉及出口管制 / 安全审查</label>
-        <button type="button" class="rp-clear" id="rp-clear">清除画像</button>
+        <button type="button" class="rp-clear" id="rp-yml" title="下载后放进 fork 的仓库，用 Claude Code 的 /rank 做更细的排序与逐条判断">下载为 profile.yml</button>
+        <button type="button" class="rp-clear rp-clear2" id="rp-clear">清除画像</button>
       </div>
       </details>
     </form>
@@ -379,7 +382,7 @@ const PAGE = 40;
 const TODAY = new Date(new Date().toDateString());
 const HUES = ["#0B6E4F","#1F55B0","#0E7490","#B4380A","#6D28D9","#9F1239","#334155","#A16207","#1E3A8A","#047857","#7C2D12","#4338CA"];
 const st = {view:"now",phd:false,pd:false,cn:false,full:false,soon:false,q:"",region:"",disc:"",shown:PAGE,saved:false,sel:"",day:"",sf:""};
-let DATA = [], SAVED = {};
+let DATA = [], SAVED = {}, BYID = {};
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const isDate = d => /^\d{4}-\d{2}-\d{2}$/.test(d || "");
@@ -496,8 +499,10 @@ function detail(x){
   const facts = [["资助", LABELS.coverage[x.c] || "官网未写明"], ["金额", x.s || "官网未写明"],
     ["截止", d === "rolling" ? "滚动招生" : isDate(d) ? d : (LABELS.deadline[d] || "官网未写明")],
     ["层次", levelText(x)], ["地区", regionText(x) || "—"], ["中国学生", (LABELS.cn[x.e] || LABELS.cn.check)[0]]];
-  const notes = [x.rq, x.dn].filter(Boolean);
   const af = AF_LABELS.filter(([k]) => x.af && x.af[k]);
+  // 有申请须知字段时，去掉旧摘要里重复的“学位要求 / 工作语言 / 开始时间”
+  const rq = af.length && x.rq ? x.rq.split("；").filter(t => !/^(学位要求|工作语言|开始时间)：/.test(t)).join("；") : x.rq;
+  const notes = [rq, x.dn].filter(Boolean);
   return `<button class="back" id="back"><svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>返回列表</button>
   <div class="pane">
     <div class="ph">
@@ -542,6 +547,7 @@ function svbar(base){
   return `<div class="pills" role="group" aria-label="按申请进度筛选">${[["", "全部"], ...STAGES].map(([k, t]) => `<button class="pill" data-sf="${k}" aria-pressed="${st.sf === k}">${t}<span class="mono">${n[k] || 0}</span></button>`).join("")}</div>
     <div class="svx"><button class="keep" id="ics-all" ${ex ? "" : "disabled"} title="${ex ? `把 ${ex} 个截止导出为一个 .ics，截止前 14 天、7 天和 1 天提醒` : "没有可导出的截止日期"}"><svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>导出全部截止到日历${ex ? `<span class="mono">${ex}</span>` : ""}</button>
     <small>${ex ? "只导出有具体日期、尚未截止、进度不是“结果”的收藏；截止前 14 / 7 / 1 天提醒。" : "没有可导出的截止：需要有具体截止日期、尚未截止，且进度不是“结果”。"}</small></div>
+    ${(() => { const gone = Object.keys(SAVED).filter(id => !BYID[id]).length; return gone ? `<p class="fine svj">另有 ${gone} 个收藏已不在列表里（截止、提前结束或撤下），进度仍保存在下载的 JSON 里，可到官网确认。</p>` : ""; })()}
     ${base.length ? `<p class="fine svj"><button class="lnk" id="json-all">下载收藏与进度（JSON）</button>：用 Claude Code 的 <code>/track</code> 管理申请时，运行 <code>python scripts/track.py import-site 文件名</code> 导入。数据只在你的浏览器和电脑里。</p>` : ""}`;
 }
 
@@ -749,6 +755,13 @@ function recDetail(x){
   return `<div><h2>为什么推荐 · 匹配 ${a.score}</h2>${a.reasons.map(r => `<p>${esc(loc(r))}</p>`).join("")}
     <p class="fine">按关键词与条件自动排序，可能有字面巧合；投递前请读官网原文确认方向与资格。</p></div>`;
 }
+// 关键词提示：太常见的建议加更具体的词，一条都没命中的建议换英文 / 同义说法（评测显示关键词质量最影响结果）
+function kwTips(r){
+  const tips = (r.kw_df || []).map(([k, n, lit]) => n === 0 ? `「${esc(k)}」在现在可申请的机会里一条都没出现，${/[\u3400-\u9fff]/.test(k) ? "试试英文写法或同义说法" : "试试同义说法"}`
+    : lit === 0 ? `「${esc(k)}」本身没有出现，只按其中一部分词匹配，结果可能偏宽；${/[\u3400-\u9fff]/.test(k) ? "试试英文写法" : "换个更常见的说法试试"}`
+    : n >= r.considered * 0.015 ? `「${esc(k)}」很常见（${n} 条都提到），再加一个更具体的方向词会更准` : "").filter(Boolean);
+  return tips.length ? `<br><b class="tip">关键词建议：</b>${tips.join("；")}。` : "";
+}
 function recSummary(){
   if (!RULES) return "正在加载排序规则…";
   if (!REC) return "填上研究方向关键词就开始排序。中文关键词会自动匹配英文写法（“机器学习”也会匹配 machine learning）。";
@@ -759,7 +772,7 @@ function recSummary(){
   const near = r.excluded.filter(a => a.hits.length && a.excluded.length === 1 && !/^层次不符|^博后岗位/.test(a.excluded[0])), byIdRec = new Map(DATA.map(x => [x.id, x]));
   return `现在可申请的 <b>${r.considered.toLocaleString()}</b> 条里：命中你关键词的 <b>${r.ranked.length}</b> 条，学科相同但没命中关键词的 <b>${r.related.length}</b> 条，
     被你的条件排除 <b>${r.excluded.length.toLocaleString()}</b> 条，方向不相关 <b>${r.unrelated.toLocaleString()}</b> 条。${disc ? `识别出的学科：${esc(disc)}。` : ""}
-    资格写“待核实”的，投递前请自己读官网确认。
+    资格写“待核实”的，投递前请自己读官网确认。${kwTips(r)}
     ${near.length ? `<details><summary>方向对口、只差一个条件的 ${near.length} 条</summary><ul>${near.slice(0, 8).map(a => `<li><a href="#${encodeURIComponent(a.id)}" data-id="${esc(a.id)}">${esc((byIdRec.get(a.id) || {}).n || a.id)}</a>：${esc(a.excluded[0])}</li>`).join("")}</ul></details>` : ""}
     ${top.length ? `<details><summary>被排除的原因</summary><ul>${top.slice(0, 8).map(([k, n]) => `<li>${esc(k)}：${n} 条</li>`).join("")}</ul></details>` : ""}`;
 }
@@ -803,6 +816,18 @@ function recBind(){
     const b = e.target.closest("[data-rg]"); if (!b) return;
     b.setAttribute("aria-pressed", b.getAttribute("aria-pressed") !== "true"); recUpdate();
   });
+  $("rp-yml").addEventListener("click", () => {
+    // 画像导出为 profile.yml（JSON 字符串本身就是合法的 YAML 标量）；只在本机生成下载，不上传
+    const y = (v, ind) => Array.isArray(v) ? (v.length ? v.map(x => `\n${ind}- ${y(x, ind + "  ")}`).join("") : " []")
+      : v && typeof v === "object" ? Object.entries(v).map(([k, w]) => `\n${ind}${k}:${Array.isArray(w) || (w && typeof w === "object") ? "" : " "}${y(w, ind + "  ")}`).join("")
+      : v === null || v === undefined ? "null" : typeof v === "string" ? JSON.stringify(v) : String(v);
+    const body = "# PhDRadar“为我推荐”导出的画像（" + iso(TODAY) + "）。放进仓库根目录后运行 /setup 补全，再运行 /rank。字段说明见 docs/profile-schema.md\n"
+      + y(profileOf(PROF), "").replace(/^\n/, "") + "\n";
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(new Blob([body], {type: "text/yaml;charset=utf-8"}));
+    a.download = "profile.yml"; document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+  });
   $("rp-clear").addEventListener("click", () => {
     PROF = {}; try { localStorage.removeItem(PKEY); } catch (e) {}
     recFill(); REC = null; render();
@@ -811,6 +836,7 @@ function recBind(){
 bind();
 fetch("assets/catalog.json").then(r => r.json()).then(rows => {
   DATA = rows.map(x => ({...x, _hay: [x.n, x.org, x.in, regionText(x), (x.d || []).map(d => LABELS.discipline[d] || d).join(" "), x.s, x.rq, x.lt, x.af && x.af.dg && x.af.dg[0]].join(" ").toLowerCase()}));
+  DATA.forEach(x => { BYID[x.id] = x; });
   const nNow = DATA.filter(isNow).length, nVer = DATA.filter(x => x.v).length;
   $("n-now").textContent = nNow.toLocaleString(); $("n-ver").textContent = nVer.toLocaleString();
   if (DATA.length > nVer) { $("t-all").hidden = false; $("n-all").textContent = DATA.length.toLocaleString(); }

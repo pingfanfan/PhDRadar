@@ -9,7 +9,8 @@ from __future__ import annotations
 import json
 import re
 
-from collect_postings import MONTH3, Fetcher, _any, _FUNDED, _RESTRICTED, _SCREENING, _SELF_FUNDED, level_of, page_text, \
+import collect_postings as cp
+from collect_postings import MONTH3, Fetcher, _any, _FUNDED, _SELF_FUNDED, level_of, page_text, \
     parse_day
 
 AU = "https://international.au.dk"
@@ -43,8 +44,8 @@ def au_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, st
     return {
         "id": f"aarhus:{jid}", "title": title[:200], "url": url, "org": "Aarhus University", "country": "DK", "place": "",
         "level": level, "deadline": deadline, "quote": m.group(0), "funding_for": "", "amount": (sal.group(0) if sal else "")[:200],
-        "cn": "no" if _any(_RESTRICTED, body) else "check",
-        "flags": ["security-screening"] if _any(_SCREENING, body) else [], "via": "Aarhus University",
+        "cn": cp.cn_of(body),
+        "flags": cp.flags_of(body), "via": "Aarhus University",
     }, "收录"
 
 

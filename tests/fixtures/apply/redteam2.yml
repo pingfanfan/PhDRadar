@@ -1,0 +1,212 @@
+# 红队第二轮（读过白名单版校验器源码）为三个虚构申请者写的编造句与自然句
+bad:
+- who: lin
+  sentence: I wrote the paper on tuning MALA on the simplex via online acceptance-rate control [cv:pub1].
+  why: co-authored paper (with supervisor) -> sole writer; 'wrote' passes via SYN group (implement/code/wrote...) because stem 'imple' is a substring of 'simplex' in the title (and via the 'author wrote' group)
+- who: lin
+  sentence: My Gibbs sampler reduced the effective-sample-size cost per second by about 40% compared with the baseline sampler on regional disease counts [cv:proj1].
+  why: drops the qualifier 'on synthetic tables' -> reads as a real-data result
+- who: lin
+  sentence: I ranked in the top 3% of my cohort during my master's [cv:edu1].
+  why: top 5% -> top 3% (3 borrowed from '3/62'); numbers are checked as a set, not by role
+- who: lin
+  sentence: I ranked 5th out of 62 students in my cohort [cv:edu1].
+  why: 3rd -> 5th (5 borrowed from 'top 5%')
+- who: lin
+  sentence: I ranked first in my cohort [cv:edu1].
+  why: 3rd of 62 -> first; 'first' is GENERIC and 'ranked' is supported by 'rank'
+- who: lin
+  sentence: I graduated with my MSc in 2024 [cv:edu1].
+  why: graduation 2026 -> 2024 (2024 is the start year)
+- who: lin
+  sentence: I am currently implementing a data-augmentation Gibbs sampler for regional disease counts [cv:proj1].
+  why: finished 2025-12 project presented as ongoing ('currently' is GENERIC, tense not checked)
+- who: lin
+  sentence: 我的 MALA 调参论文已被 Statistics and Computing 接受 [cv:pub1]。
+  why: under review -> accepted; Chinese '接受' is not in the 已接收 pattern (接收|录用)
+- who: lin
+  sentence: 我在疾病制图项目中担任项目负责人 [cv:proj1]。
+  why: research assistant -> project head; '负责人' not in the 主导/带领 pattern
+- who: lin
+  sentence: I was the course project lead for the disease mapping Gibbs sampler [cv:proj1,proj2].
+  why: '''course project lead'' belongs to proj2; transplanted onto proj1 via multi-cite union (''as lead'' regex does not match ''was the ... lead'')'
+- who: lin
+  sentence: I have worked with Stan on Bayesian hierarchical models for spatial count data [post] and implemented a Gibbs sampler in R and C++ [cv:proj1].
+  why: claims JD-required skill (Stan, hierarchical models) with an experience claim inside a [post]-marked segment; [post] segments get no word check and no EXP check
+  post: 'PhD studentship in Bayesian computation, University of Westfield. Supervisor: Dr. Jane Carter. The project develops scalable MCMC and Gibbs sampling methods for spatial count data. Candidates should have a strong background in statistics and experience
+    with R or Python, ideally Stan. Stipend of 19,000 per year for 3 years. Teaching assistant duties are expected.'
+- who: lin
+  sentence: Having served as a teaching assistant for probability courses, the teaching duties of this studentship are familiar territory.
+  why: invented TA experience; no 'I'/'my' so EXP_EN does not fire, no cite required
+  post: 'PhD studentship in Bayesian computation, University of Westfield. Supervisor: Dr. Jane Carter. The project develops scalable MCMC and Gibbs sampling methods for spatial count data. Candidates should have a strong background in statistics and experience
+    with R or Python, ideally Stan. Stipend of 19,000 per year for 3 years. Teaching assistant duties are expected.'
+- who: lin
+  sentence: 我的 Gibbs 采样器在真实的区域疾病计数数据上把采样成本降低了约 40% [cv:proj1]。
+  why: synthetic tables -> real data; Chinese words are not whitelisted
+- who: lin
+  sentence: Prof. Zhao Min and I wrote the Gibbs sampler for regional disease counts [cv:edu1,proj1].
+  why: invented collaboration (supervisor of thesis ≠ co-developer of the RA project) via multi-cite union
+- who: lin
+  sentence: I built a particle filter in Python and C++ estimating route flows from link counts [cv:proj2].
+  why: 'adds C++ to proj2 (control: expected to be caught)'
+- who: zhou
+  sentence: My best cell kept 78% capacity after 200 cycles at 1C [cv:proj-1].
+  why: 500 cycles -> 200 cycles (200 borrowed from the cell count)
+- who: zhou
+  sentence: I have operated sulfide solid electrolytes and glovebox in situ cells [post] and I operated an in situ Raman cell for solid-state electrodes [cv:proj-2].
+  why: claims JD-required experience (sulfide electrolytes) inside a [post] segment
+  post: PhD position in solid-state lithium-sulfur batteries at Hartley Institute, supervised by Prof. Anna Keller. The project studies sulfide electrolytes with in situ Raman and XRD characterisation of cathodes. Experience with electrochemistry, sulfide
+    solid electrolytes and glovebox work is required. Funding for 4 years.
+- who: zhou
+  sentence: 我是课题组手套箱的负责人 [cv:proj-2]。
+  why: maintained glovebox -> person in charge; '负责人' not in any pattern
+- who: zhou
+  sentence: I am currently maintaining the group's argon glovebox [cv:proj-2].
+  why: ended 2026-04 -> ongoing
+- who: zhou
+  sentence: In situ Raman tracking of sulfur speciation in solid-state cathodes is my work [cv:pub-2].
+  why: second-author paper -> 'my work' (the 'my paper' regex does not cover 'my work')
+- who: zhou
+  sentence: I was first author on the ChemElectroChem paper on in situ Raman tracking [cv:pub-1,pub-2].
+  why: 'second -> first author: ''first author'' is satisfied by pub-1, the ''every cite'' test only runs with a numeral'
+- who: zhou
+  sentence: 我合成了 5 种多金属氧酸盐团簇并将其用于锂离子电池 [cv:proj-1]。
+  why: lithium-sulfur -> lithium-ion; Chinese content is not whitelisted
+- who: zhou
+  sentence: 我培训了课题组的新同学使用原位拉曼池 [cv:proj-2]。
+  why: invented training/mentoring role; Chinese verbs not checked
+- who: zhou
+  sentence: I used GITT to characterise the polyoxometalate clusters [cv:skill-1,proj-1].
+  why: skill listed in CV but not used on this project (union of cites)
+- who: zhou
+  sentence: I completed my MSc in Physical Chemistry at Eastriver University of Technology in 2023 [cv:edu-1].
+  why: 2026 -> 2023 (start year)
+- who: zhou
+  sentence: I published two papers in Journal of Energy Chemistry [cv:pub-1,pub-2].
+  why: second paper is in ChemElectroChem; union of venues satisfies the name check
+- who: zhou
+  sentence: My average score was 88/100 across my BSc and MSc [cv:edu-1,edu-2].
+  why: BSc was 85/100; ratio check only needs 88/100 anywhere in the union
+- who: zhou
+  sentence: 我雅思单项均不低于 6.5 分 [cv:lang-1]。
+  why: overall 6.5 -> every section >= 6.5 (W6 S6); '均' only caught in '均达到'
+- who: zhou
+  sentence: I coordinated the cycling of coin cells [cv:proj-1].
+  why: 'managerial inflation; ''coordinat'' is in the SYN lead group, whose short member ''led'' is a substring of ''cycled'' '
+- who: zhou
+  sentence: 我维护手套箱并独立运行原位拉曼实验 [cv:proj-2]。
+  why: '''独立运行'' (ran independently); 独立完成 pattern does not match'
+- who: chen
+  sentence: I conducted the 6-week heat-stress experiment in the field on Acropora and Pocillopora [cv:proj-1].
+  why: aquarium experiment -> field work; 'field' is in GENERIC (free word), 'conducted' passes as a synonym of 'Ran'
+- who: chen
+  sentence: I ran a 12-week heat-stress experiment on Acropora and Pocillopora fragments in a recirculating aquarium system [cv:proj-1].
+  why: 6 weeks -> 12 weeks (12 borrowed from tank count)
+- who: chen
+  sentence: 我独立设计并完成了珊瑚热胁迫实验 [cv:proj-1]。
+  why: independent design; 独立完成 pattern does not match '独立设计并完成'
+- who: chen
+  sentence: 我是水族馆的正式员工 [cv:work-1]。
+  why: volunteer -> staff; Chinese words not whitelisted
+- who: chen
+  sentence: I completed the SCUBA reef transect surveys during my aquarium volunteer work at Southbay Public Aquarium [cv:proj-2,work-1].
+  why: survey (July 2024 field course) moved into the aquarium volunteering
+- who: chen
+  sentence: I am currently running a heat-stress experiment on Acropora and Pocillopora fragments in a recirculating aquarium [cv:proj-1].
+  why: ended 2026-03 -> ongoing
+- who: chen
+  sentence: 我在 Southbay Ocean University 担任海洋生物学实验课助教 [cv:edu-1]。
+  why: invented teaching-assistant role
+- who: chen
+  sentence: 我完成了10 天的珊瑚礁野外调查和 6 周的热胁迫实验，均由我负责 [cv:proj-2,proj-1]。
+  why: '''均由我负责'' (all done by me): 全称量词 only matches 均达到, 责任范围 only 全权/负责全部/负责整个'
+- who: chen
+  sentence: I have experience with coral genomics and fieldwork on the Great Barrier Reef [post] and ran a heat-stress experiment on Acropora and Pocillopora fragments [cv:proj-1].
+  why: claims JD-required experience (genomics, Great Barrier Reef) in a [post] segment
+  post: PhD studentship in coral reef resilience at the Coastal Research Institute, supervised by Dr. Mark Ellis. The project investigates thermal tolerance of reef-building corals using aquarium experiments and reef surveys. Candidates should hold a degree
+    in marine biology; a diving qualification is desirable. Fieldwork on the Great Barrier Reef and coral genomics training are included.
+- who: chen
+  sentence: My IELTS writing band is 7.0 [cv:lang-1].
+  why: only overall 7.0 is known; sub-score invented ('band', 'writing' are GENERIC)
+- who: chen
+  sentence: I completed 12 days of SCUBA reef transect surveys alongside the heat-stress experiment [cv:proj-1,proj-2].
+  why: 10 days -> 12 (12 from tank count via union)
+- who: chen
+  sentence: Dr. Huang Yi supervised my 6-week heat-stress experiment and the SCUBA reef transect surveys [cv:edu-1,proj-1,proj-2].
+  why: supervision extended from the thesis to the experiment and field course
+- who: chen
+  sentence: I measured photosynthetic efficiency of Acropora with PAM fluorometry in the field during my SCUBA surveys [cv:proj-1,proj-2].
+  why: aquarium PAM measurement moved to the field survey
+- who: chen
+  sentence: 我在 Southbay Public Aquarium 实习并负责水质检测 [cv:work-1]。
+  why: volunteer -> intern, assisted -> in charge
+- who: chen
+  sentence: 我完成了珊瑚热胁迫实验，数据已用于发表 [cv:proj-1]。
+  why: invented publication use of data
+good:
+- who: lin
+  sentence: I will graduate in June 2026 with an MSc in Statistics from Northbridge University [cv:edu1].
+- who: lin
+  sentence: My GPA is 3.82/4.0, placing me in the top 5% of my cohort [cv:edu1].
+- who: lin
+  sentence: My thesis, supervised by Prof. Zhao Min, develops adaptive tuning for Metropolis-adjusted Langevin algorithms on the probability simplex [cv:edu1].
+- who: lin
+  sentence: This work led to a manuscript, co-authored with Prof. Zhao, which is under review at Statistics and Computing [cv:pub1].
+- who: lin
+  sentence: During my time as a research assistant, I wrote a Gibbs sampler in R and C++ for regional disease counts [cv:proj1].
+- who: lin
+  sentence: The sampler respects exact row and column totals, and on synthetic tables it was about 40% cheaper per effective sample than the baseline [cv:proj1].
+- who: lin
+  sentence: In a team of 3, I led a course project on sequential Monte Carlo for traffic origin-destination estimation [cv:proj2].
+- who: lin
+  sentence: Your project on MCMC for spatial count data [post] draws directly on the Gibbs sampling I implemented for regional disease counts [cv:proj1].
+  post: 'PhD studentship in Bayesian computation, University of Westfield. Supervisor: Dr. Jane Carter. The project develops scalable MCMC and Gibbs sampling methods for spatial count data. Candidates should have a strong background in statistics and experience
+    with R or Python, ideally Stan. Stipend of 19,000 per year for 3 years. Teaching assistant duties are expected.'
+- who: lin
+  sentence: I took the IELTS in March 2026 and scored 7.5 overall, with 8.5 in reading [cv:ielts].
+- who: lin
+  sentence: 我在硕士期间的研究方向是概率单纯形上 Metropolis-adjusted Langevin 算法的自适应调参 [cv:edu1]。
+- who: zhou
+  sentence: I completed an MSc in Physical Chemistry at Eastriver University of Technology (2023–2026) with an average score of 88/100 [cv:edu-1].
+- who: zhou
+  sentence: My thesis explores polyoxometalate-modified carbon hosts for lithium-sulfur battery cathodes [cv:edu-1].
+- who: zhou
+  sentence: I am first author of a paper on Keggin-type polyoxometalate anchoring layers in Li-S cells, published in the Journal of Energy Chemistry in 2025 [cv:pub-1].
+- who: zhou
+  sentence: I am also second author of a ChemElectroChem paper (2026) on in situ Raman tracking of sulfur speciation [cv:pub-2].
+- who: zhou
+  sentence: I synthesised five polyoxometalate clusters and characterised them using XRD, XPS and cyclic voltammetry [cv:proj-1].
+- who: zhou
+  sentence: In total I cycled more than 200 coin cells, the best of which retained 78% of its capacity after 500 cycles at 1C [cv:proj-1].
+- who: zhou
+  sentence: In the group, I looked after the argon glovebox and ran the in situ Raman cell for solid-state electrodes [cv:proj-2].
+- who: zhou
+  sentence: The in situ Raman characterisation of cathodes you describe [post] is something I have done hands-on with an in situ Raman cell [cv:proj-2].
+  post: PhD position in solid-state lithium-sulfur batteries at Hartley Institute, supervised by Prof. Anna Keller. The project studies sulfide electrolytes with in situ Raman and XRD characterisation of cathodes. Experience with electrochemistry, sulfide
+    solid electrolytes and glovebox work is required. Funding for 4 years.
+- who: zhou
+  sentence: I hold a First-class Academic Scholarship from Eastriver University of Technology (2024) [cv:award-1].
+- who: zhou
+  sentence: 我在 Eastriver University of Technology 攻读物理化学硕士，导师是 Prof. Wen Hao [cv:edu-1]。
+- who: chen
+  sentence: I will graduate in June 2026 with a BSc in Marine Biology from Southbay Ocean University, with a GPA of 3.65/4.0 [cv:edu-1].
+- who: chen
+  sentence: My undergraduate thesis, supervised by Dr. Huang Yi, examines the thermal tolerance of two reef-building coral species under simulated marine heatwaves [cv:edu-1].
+- who: chen
+  sentence: I ran a 6-week heat-stress experiment on Acropora and Pocillopora fragments in a 12-tank recirculating aquarium system [cv:proj-1].
+- who: chen
+  sentence: I measured photosynthetic efficiency twice a week using PAM fluorometry [cv:proj-1].
+- who: chen
+  sentence: As part of a field course in July 2024, I completed 10 days of SCUBA reef transect surveys [cv:proj-2].
+- who: chen
+  sentence: As an aquarium volunteer, I helped with daily water-quality checks and the care of coral fragments [cv:work-1].
+- who: chen
+  sentence: I am a PADI Advanced Open Water Diver, certified in 2024 [cv:cert-1].
+- who: chen
+  sentence: Your project on thermal tolerance in reef-building corals [post] is a natural continuation of my thesis and heat-stress experiment [cv:edu-1,proj-1].
+  post: PhD studentship in coral reef resilience at the Coastal Research Institute, supervised by Dr. Mark Ellis. The project investigates thermal tolerance of reef-building corals using aquarium experiments and reef surveys. Candidates should hold a degree
+    in marine biology; a diving qualification is desirable. Fieldwork on the Great Barrier Reef and coral genomics training are included.
+- who: chen
+  sentence: I analyse my data in R using lme4 and ggplot2 [cv:skill-1].
+- who: chen
+  sentence: 我的本科毕业论文研究了两种造礁珊瑚在模拟海洋热浪下的热耐受性 [cv:edu-1]。

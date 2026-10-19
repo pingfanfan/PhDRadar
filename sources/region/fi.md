@@ -2,21 +2,22 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 芬兰（FI） 信源（27）
+# 芬兰（FI） 信源（28）
 
-所有标注了地区 FI 的信源，共 27 条。
+所有标注了地区 FI 的信源，共 28 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 1](fi.md#aggregators) · [各国学术招聘门户与机构职位页 1](fi.md#national-portals) · [高校旗舰奖学金与资助检索 4](fi.md#university-schemes) · [结构化博士项目与研究机构 14](fi.md#doctoral-programs) · [博士后奖学金与项目 5](fi.md#postdoc-fellowships) · [个人信源与社交渠道 1](fi.md#people-channels) · [导师招生帖（社交平台个人发布） 1](fi.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 2](fi.md#aggregators) · [各国学术招聘门户与机构职位页 1](fi.md#national-portals) · [高校旗舰奖学金与资助检索 4](fi.md#university-schemes) · [结构化博士项目与研究机构 14](fi.md#doctoral-programs) · [博士后奖学金与项目 5](fi.md#postdoc-fellowships) · [个人信源与社交渠道 1](fi.md#people-channels) · [导师招生帖（社交平台个人发布） 1](fi.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
-## 综合聚合平台（1）
+## 综合聚合平台（2）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Idrottsforum 北欧体育学术职位](https://idrottsforum.org/tag/lediga-platser/)<br><sub>瑞典·挪威·丹麦·芬兰 ｜ 医学/公卫·生物/生命科学·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>聚合页在招岗位截止：GIH 博士 2026-10-22，挪威 USN 博士与博后 2026-10-18，Högskolan i Gävle 博士 2026-11-08；以原校公告为准。</sub> | ❔ | Idrottsforum 体育研究职位聚合页列有多个在招博士与博后岗位（如 GIH 博士截止 2026 年 10 月 22 日）；新岗位截止以原校公告为准。 |
+| [NordMedia Network 北欧传媒博士岗位列表](https://nordmedianetwork.org/latest/vacant-positions/)<br><sub>丹麦·瑞典·挪威·芬兰 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>职位板持续更新，可按国家与截止日期筛选，截止以各岗位为准</sub> | ❔ | **要求：** 以各岗位公告为准（学位、签证、教学比例）<br>北欧传播与媒体研究网络（由 Nordicom 与卑尔根大学运营）的职位板，可按国家和截止日期筛选，汇集带薪博士岗位。各岗位资格与签证要求需逐条核实。 |
 
 <a id="national-portals"></a>
 

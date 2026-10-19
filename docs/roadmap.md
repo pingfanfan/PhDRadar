@@ -100,6 +100,9 @@
    - 进度（10-19）：`scripts/enrich_postings.py` 上线（读详情页 → 平台固定栏目规则 → Sonnet 子代理按 `research/enrich-prompt.md` 抽取 → 程序校验原句逐字在正文、数字只来自原句），结果在 `_data/posting_fields.yml`，首页详情页“申请须知”逐项可展开原句，卡片显示语言标签。
      可读取的 1575 个在招岗位全部处理完，68% 有学位/语言/材料至少两项（占全部在招 2160 条的 50%）；各字段命中率：学位 81%、材料 60%、年限 61%、申请方式 60%、开始时间 45%、语言 38%、导师 29%、身份限制 13%。
      准确率：独立 Sonnet 审核员抽查 112 个岗位 436 个字段，ok 418 / 小问题 17 / 错 1（已加 Inria 固定栏目规则修正）；人工抽查 20 个岗位全部准确。
+     新平台（10-19 晚）：Workday / Oracle / 联邦劳动局读公开岗位接口正文，CNRS、SuccessFactors、哥本哈根、奥胡斯、MathJobs、EconJobMarket 等读页面；在招 2931 条中可读取的 2349 条 67% 有学位/语言/材料至少两项（占全部 54%）。
+     新平台抽查：独立 Sonnet 审核员 100 个岗位 485 个字段，ok 466 / 小问题 19 / 错 0（小问题多为材料清单漏项、页面自身前后日期不一致）。CNRS 只有 35%：公告多不写语言与材料（统一在 CNRS 门户投递），非抽取遗漏。
+     已知局限：数字校验无法区分 01/02/2027 的日月顺序，靠子代理按所在国写法判断。
      未覆盖：FindAPhD（455 条，本机被拦，只有 Actions 能访问）、Jobbnorge（130 条，详情页靠脚本渲染、无公开接口）；jobs.ac.uk 公告多把要求放在附件 PDF，覆盖只有 25%。
 2. 【冲刺·工程 B 进行中】接入大学招聘系统：先做 Workday 与 SuccessFactors 的通用适配器，再按国家列出高价值学校。
    - 10-19：`scripts/ats.py`（经 `platforms_ats.py` 注册，已在本地默认清单）接入 6 类：Workday（24 个站点：Aalto、NTU、NUS、悉尼、墨尔本、Monash、UQ、UBC、McGill 等）、SuccessFactors（12 所：EPFL、TU Delft、维也纳、赫尔辛基、根特、巴塞尔、FU Berlin、NUS 等）、Oracle Recruiting（DTU、SDU）、PageUp（港大、La Trobe）、ReachMee（Chalmers）、学校自建招聘页（哥本哈根大学）。首轮收录 289 条（Oracle 93、SuccessFactors 125、Workday 52、哥本哈根 36、Chalmers 18）。截止日期只取正文原句（数字日期按同页写法判断日月顺序，判断不了不收）；PageUp 访问稍快就弹 AWS WAF 验证，目前被拦，不绕过。
@@ -117,8 +120,10 @@
    - 10-19：德国联邦劳动局 Jobsuche 接入（`scripts/platforms_de.py`，适配器 `arbeitsagentur`）：bund.dev 文档公开的通用 clientId（请求头 `X-API-Key: jobboerse-jobsuche`，无需 OAuth/申请），旧版 `/pc/v4/jobs` 已 403，改用 `/pc/v6/jobs` + `/pc/v4/jobdetails`；截止日期只从描述原文取（Bewerbungsfrist / 带申请语境的 bis zum，排除合同期），抽样 70 条收 41 条。新平台统一写在 `scripts/platforms_*.py`，collect_postings 自动注册（ADAPTERS / HEADERS / VIA_RANK）。
    - 10-19：新平台（先查 robots.txt、确认截止日期能取到原文）：CNRS Emploi（博士合同 + 研究员 CDD，试跑 243 条）、MathJobs（51）、TAMU 自然资源招聘板（111）、Aarhus University（27）、H-Net（本环境 429，待日常任务验证）、PSI / ESO / IBS（机构招聘页通用适配器）；已加入本地默认清单。调研后不接入：ADUM / APS / HiBrain（robots 全站禁止）、JREC-IN（条款要求转载先获 JST 许可）、PhilJobs / AEA JOE（条款禁止入库或抓取）、Helmholtz（门户无截止日期）、AAS / SIAM / IEEE / ACM / AGU（Cloudflare 拦截）；各校 Workday / SuccessFactors / PageUp 等交给工程 B。
    - 10-19 晚：首轮并入 617 条（CNRS 244、劳动局 119、TAMU 111、MathJobs 49、EconJobMarket 43、Aarhus 27、INFN 9、Pasteur 5、PSI/ESO/IBS 10）。再调研后不接入或暂缓：SISSA（“Open”状态不更新，现无在招博后）、CRG（现无研究型博后）、ICFO / CSIC / CNR（页面无截止日期或只在 PDF）、University Affairs（多为 open until filled）、HigherEdJobs / AcademicKeys / BSC / 卢森堡大学（人机验证拦截）、Chemistry World 与 NeuroJobs（几乎无博士博后或被拦）；法国公务员招聘门户 choisirleservicepublic.gouv.fr 可用但每页 4.5MB、博后占比低，留作候选。
+   - 10-20：接入 FAPESP Oportunidades（巴西圣保罗州研究基金会博士/博后奖学金，首轮 51 条，奖学金额取页面原文）与 LINGUIST List（语言学 RSS，9 条）。调研后暂缓：RIKEN（90 个岗位只有 5 个写日期）、EvolDir（邮件列表自由文本、多为其他平台转帖）、巴塞尔大学（Prospective 招聘系统，可见截止只占 7/12，交给工程 B）、KAUST / MBZUAI / ASA（招聘系统或只有 validThrough）、IMS / SCB（人机验证）。不允许程序访问的平台已补进 `research/outreach.md` 的数据合作申请草稿（JREC-IN、ADUM、PhilJobs、AEA JOE、HiBrain）。
 6. `/rank` 金标准评测（50 个虚构画像）；之后加向量与模型打分。
    - 10-19（产品 C）：50 个画像标注完成（`tests/rank_eval_*`，冻结数据 `tests/rank_eval_catalog.json.gz`）；Claude 逐条判断把前 10 准确率从 70% 提到 91%；向量相似度（多语言 MiniLM）AUC 只有 0.63，不采用。`/setup` 让 Claude 把关键词扩写成 6–8 个中英文说法（召回 +6%，准确率由 Claude 判断兜底）。
+   - 10-20：硬性筛选接入工程 A 的申请须知字段（学位、语言要求原句、开始时间），“加分项”语言与“或协商”的日期不排除；浏览器与 `/rank` 结果仍逐条一致。岗位语言标签写了 B2 及以上的非英语语言也视为要求。为我推荐新增：关键词建议、方向对口只差一个条件的机会、下载为 profile.yml。
 7. 【冲刺·产品 E 进行中】`/apply` 的申请清单与套磁信起草；`/track` 看板与提醒。
    - 10-19：`/apply`（`.claude/commands/apply.md` + `scripts/apply_check.py`）：`prepare` 取岗位原文生成申请清单（材料、推荐信数量、格式字数、截止时刻与时区、申请方式、开始时间、资格、资助，每项附原句），
      `papers` 查导师近期论文（OpenAlex）；起草 / 审稿子代理提示词在 `research/apply-draft-prompt.md`、`research/apply-review-prompt.md`；
@@ -129,4 +134,6 @@
    - 10-19：端到端演示 `docs/apply-demo.md`（3 个虚构申请者 × 3 个真实岗位）：清单 → 导师论文 → 起草 → 校验 → 审稿 → 修改 → 定稿草稿，13 个文件 0 错误；
      红队评测 `scripts/apply_eval.py` 对定稿逐句造编造变体，拦下 343/347（99%）；审稿子代理找出了全部 6 句藏进去的程序查不出的编造。
      校验新增：身份 / 状态 / 角色 / 影响 / 首次 / 结论强度 / 频率 / 全称量词说法须有出处、出处张冠李戴检测、年份区间、缩写首字母。`/track weekly` 有画像时按 `/rank` 规则列新匹配。
+   - 10-19：读过源码的红队写 45 条专门绕过校验的编造，第一版只拦下 8 条；改成白名单（经历句的实词须在所引出处里有，按出处标记分段核对）后拦下 44 条，红队句子进回归测试。
+     网站收藏：下载收藏与进度（JSON，`track.py import-site` 直接导入）；详情页准备清单（材料取自公告原文摘出的材料清单）。公开站 README 介绍 /setup、/rank、/apply、/track。
    - 下一步：真实用户改稿后统计修改比例（`edit-ratio`，目标 < 30%）；中文转述英文事实的对应检查；把 `/apply` 的申请清单接到网站详情页（只用岗位原文，不涉及个人数据）。

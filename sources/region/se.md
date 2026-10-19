@@ -2,21 +2,22 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 瑞典（SE） 信源（41）
+# 瑞典（SE） 信源（48）
 
-所有标注了地区 SE 的信源，共 41 条。
+所有标注了地区 SE 的信源，共 48 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 1](se.md#aggregators) · [各国学术招聘门户与机构职位页 3](se.md#national-portals) · [高校旗舰奖学金与资助检索 8](se.md#university-schemes) · [结构化博士项目与研究机构 18](se.md#doctoral-programs) · [博士后奖学金与项目 4](se.md#postdoc-fellowships) · [企业与基金会 Fellowship 2](se.md#fellowships) · [学科专属信源 3](se.md#discipline) · [个人信源与社交渠道 1](se.md#people-channels) · [选校与申请辅助工具 1](se.md#tools)
+**按分类跳转：** [综合聚合平台 2](se.md#aggregators) · [各国学术招聘门户与机构职位页 3](se.md#national-portals) · [高校旗舰奖学金与资助检索 9](se.md#university-schemes) · [结构化博士项目与研究机构 21](se.md#doctoral-programs) · [博士后奖学金与项目 4](se.md#postdoc-fellowships) · [企业与基金会 Fellowship 2](se.md#fellowships) · [学科专属信源 3](se.md#discipline) · [科研实习与“曲线入口” 1](se.md#pathways) · [个人信源与社交渠道 1](se.md#people-channels) · [导师招生帖（社交平台个人发布） 1](se.md#recruiting-posts) · [选校与申请辅助工具 1](se.md#tools)
 
 <a id="aggregators"></a>
 
-## 综合聚合平台（1）
+## 综合聚合平台（2）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Idrottsforum 北欧体育学术职位](https://idrottsforum.org/tag/lediga-platser/)<br><sub>瑞典·挪威·丹麦·芬兰 ｜ 医学/公卫·生物/生命科学·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>聚合页在招岗位截止：GIH 博士 2026-10-22，挪威 USN 博士与博后 2026-10-18，Högskolan i Gävle 博士 2026-11-08；以原校公告为准。</sub> | ❔ | Idrottsforum 体育研究职位聚合页列有多个在招博士与博后岗位（如 GIH 博士截止 2026 年 10 月 22 日）；新岗位截止以原校公告为准。 |
+| [NordMedia Network 北欧传媒博士岗位列表](https://nordmedianetwork.org/latest/vacant-positions/)<br><sub>丹麦·瑞典·挪威·芬兰 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>职位板持续更新，可按国家与截止日期筛选，截止以各岗位为准</sub> | ❔ | **要求：** 以各岗位公告为准（学位、签证、教学比例）<br>北欧传播与媒体研究网络（由 Nordicom 与卑尔根大学运营）的职位板，可按国家和截止日期筛选，汇集带薪博士岗位。各岗位资格与签证要求需逐条核实。 |
 
 <a id="national-portals"></a>
 
@@ -30,12 +31,13 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（8）
+## 高校旗舰奖学金与资助检索（9）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [KTH 空缺博士岗位汇总（每年约九次发布）](https://www.kth.se/en/studies/phd/become-a-phd-student/vacant-doctoral-positions-1.1411624)<br><sub>瑞典 ｜ 工程·医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub><br><sub>各岗位截止不同，请以 kth.se/lediga-jobb 实时列表为准</sub> | ❔ | KTH 博士岗位总入口，瑞典博士为带薪雇员。KTH 每年约 9 次发布岗位，截止多在 2–3 周内，包括生物医学相关方向，需定期关注。 |
 | [NanoLund（隆德大学纳米科学中心）职位页](https://www.nano.lu.se/about-nanolund/career-opportunities)<br><sub>瑞典 ｜ 物理/天文·工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面列出的岗位截止：2026-10-16（已过）、2026-10-21、2026-10-31，以各岗位招聘系统为准</sub> | ✅ | 页面列出多个在招博士与博后岗位，页面写明博士生与博后均为 full employment contracts（全职雇员合同）。 |
+| [Örebro 大学职位公告（博士岗位入口）](https://oru.se/english/career/available-positions/)<br><sub>瑞典 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 瑞典博士岗位通常为带薪雇员（doctoral employment）。2026 年已发布的博士岗位截止日多在 6–9 月，目前基本关闭；关注 2027 年春季入学的新公告，并核实该岗对非欧盟申请人的工作许可要求。 |
 | [卡罗琳斯卡学院可申请职位列表（博士岗）](https://ki.se/en/about-ki/jobs-at-ki/available-positions-at-ki)<br><sub>瑞典 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 滚动<br><sub>📋 持续更新</sub><br><sub>岗位持续发布，各有截止日</sub> | ❔ | **要求：** 需高级水平学位；通过 Varbi 申请，截止后不能补交材料<br>KI 全部在招职位列表（页面显示共 102 条，首页 25 条），其中包含多个博士岗位，截止日期各不相同，需逐一核实。 |
 | [哥德堡大学全校职位页（博士岗）](https://gu.se/en/work-at-the-university-of-gothenburg/vacancies)<br><sub>瑞典 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>全校职位页随时更新，按截止日期筛选</sub> | 🟡 | 瑞典博士为带薪雇员（四年合同含少量教学），在全校 Vacancies 页按截止日期筛选；非欧盟申请者确认工作许可与英语成绩。 |
 | [斯德哥尔摩大学计算机与系统科学系（DSV）职位页](https://dsv.su.se/english/divisions/department-of-computer-and-systems-sciences/about-the-department/work-with-us)<br><sub>瑞典 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面最近列出的两个岗位（能源市场设计 2026-02-27、数据科学 2026-04-15）均已截止；SU 通常春、秋学期各招一轮，新岗位以本页及 SU 招聘系统为准</sub> | ❔ | **要求：** 需硕士或同等学历<br>瑞典博士为带薪雇员，按项目申请；DSV 的 CS/AI 方向岗位在本页发布。 |
@@ -45,7 +47,7 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（18）
+## 结构化博士项目与研究机构（21）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -64,6 +66,9 @@
 | [斯德哥尔摩大学经济系博士项目（带薪雇员制）](https://www.su.se/english/divisions/department-of-economics/education/courses-and-programmes/applying-to-the-phd-programme-in-economics)<br><sub>瑞典 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2027-01-31**<br><sub>🔜 即将开放</sub><br><sub>2027 入学申请期为 2026 年 12 月 1 日至 2027 年 1 月 31 日（官网申请页）；2026 入学轮已关闭。</sub> | ❔ | **要求：** 需经济学 90 ECTS 学分（或等价知识）并有经济学论文；申请要求 GRE 与推荐信；页面未说明国籍限制，国际生资格以官网为准。<br>博士生为受雇的博士候选人，按薪级发工资，全日制 48 个月；每年录取约 10 人。适合有较强经济学数理与实证基础的申请者。 |
 | [林雪平大学 博士申请说明](https://liu.se/en/research/doctoral-studies/apply-for-doctoral-studies)<br><sub>瑞典 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各博士岗位截止日不同，以学校招聘页（Vacancies / PhD students）公告为准</sub> | ❔ | **要求：** 需完成硕士级学位，或完成至少 240 学分高等教育（其中至少 60 学分为高级水平）或同等知识；另需满足各学科具体入学要求。博士学习为两至四年全职。<br>博士生录取需同时受聘为博士生（有薪），申请岗位即申请入学。截止日各不相同，以学校招聘页为准。 |
 | [林雪平大学计算社会科学研究生院](https://liu.se/en/research/research-school-in-computational-social-science)<br><sub>瑞典 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>📋 持续更新</sub> | ❔ | 页面称由瑞典研究理事会拨款资助，覆盖项目活动期间的住宿与瑞典境内差旅，非瑞典参加者仅有限提供差旅补助。面向瑞典高校博士生，也接受其他国家申请者；两年一届，2025 届申请已关闭。 |
+| [隆德大学医学院 Prospective PhD students（受雇博士岗位）](https://www.lunduniversity.lu.se/admissions/phd-studies)<br><sub>瑞典 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>截止时间以隆德大学招聘门户各岗位公告为准</sub> | ❔ | **要求：** 须获得第三级（博士）入学资格，基础资格通常为硕士或同等学历；具体岗位要求以广告为准<br>隆德大学医学院博士岗位多为带薪受雇博士职位（固定期限，通常 4 年），一般以岗位招聘形式发布。个人凭外部奖学金申请的情形也可能存在，需看具体岗位是否对国际申请人开放。 |
+| [隆德大学博士教育（Doctoral studies）](https://www.lunduniversity.lu.se/study/study-opportunities-lund-university/doctoral-studies)<br><sub>瑞典 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 通过 Varbi 申请；竞争激烈；具体学历与语言要求以岗位公告为准<br>博士多为带薪雇佣，funded 岗位在学校招聘页按 Doctoral students 筛选，经 Varbi 申请。 |
+| [隆德大学心理学系博士项目](https://psy.lu.se/en/education/study-psychology-0/study-phd-programme)<br><sub>瑞典 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止不同，在大学招聘系统发布；以当期为准</sub> | ❔ | **要求：** 需心理学硕士学位；入学取决于获得博士雇员职位或同等外部资金；可能需面试；申请材料含 CV、学习计划与经费计划<br>隆德大学心理学系博士为约四年全职的带薪雇员职位（240 学分）；页面提供项目说明与岗位搜索入口，具体岗位在 Varbi 系统随时发布，截止各不相同。 |
 | [隆德大学性别研究博士培养页](https://www.soc.lu.se/en/doctoral-studies/doctoral-studies-gender)<br><sub>瑞典 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 滚动<br><sub>📋 持续更新</sub><br><sub>博士岗按校方公告发布，无固定截止</sub> | ❔ | 隆德大学性别研究博士培养页。隆德博士生为带薪雇员、免学费。具体岗位截止需到 Varbi 门户核对。 |
 | [隆德大学统计系博士研究生职位](https://lusem.lu.se/organisation/department-statistics/doctoral-studies-department-statistics)<br><sub>瑞典 ｜ 数学/统计·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年在招职位截止为 5 月 31 日或 6 月 10 日，均已过；2027 轮以 lu.varbi.com 为准</sub> | ✅ | 博士生为带薪职位，通常4年全职，部门称一般提供全程经济支持。2026年本轮截止已过（5月31日），可留意该页面的下一轮 Current job openings 与 lu.varbi.com 发布。 |
 | [隆德大学职位库（含 LTH 电气与信息技术系博士岗）](https://lunduniversity.lu.se/vacancies)<br><sub>瑞典 ｜ 工程·计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ✅ | 瑞典博士为带薪雇佣合同，官网称博士教育无学费。职位库为滚动发布，中国学生资格需看各岗位公告，申请通过 lu.varbi.com。 |
@@ -98,6 +103,14 @@
 | [哥德堡大学海洋中心招聘页（Ocean vacancies）](https://www.gu.se/en/ocean/vacancies)<br><sub>瑞典 ｜ 生物/生命科学·生态/进化·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>岗位按批次发布；以学校总招聘页当期公告为准</sub> | ❔ | 哥德堡大学海洋相关招聘在学校总招聘页发布，岗位按批次出现、截止各不相同，以官网当期公告为准。 |
 | [斯德哥尔摩大学语言学系招聘与博士岗位页](https://www.su.se/english/divisions/department-of-linguistics/about-the-department/work-with-us)<br><sub>瑞典 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>博士岗在 Varbi 逐个发布，截止日各不相同；页面所列旧职位已过期。</sub> | ❔ | **要求：** 瑞典博士岗为带薪雇佣，要求以各 Varbi 公告为准。<br>瑞典博士岗为带薪雇佣，一般覆盖四年全时博士学习，职位在 Varbi 投递。页面上的岗位可能已截止，需以 su.varbi.com 当前列表为准。 |
 
+<a id="pathways"></a>
+
+## 科研实习与“曲线入口”（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [KTH × Ericsson 工业博士（SSF 资助）](https://www.kth.se/en/om/nyheter/centrala-nyheter/battre-forskning-i-samspel-med-industripartner-1.1368761)<br><sub>瑞典 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub> | ❔ | SSF 工业博士项目：候选人受雇于合作企业至少 80% 并在高校读博，SSF 资助约一半成本。2026 轮截止 2026-05-13，项目 2027 年 1–6 月开始；未能确认 KTH×Ericsson 的具体项目，以 SSF 与 KTH 公告为准。 |
+
 <a id="people-channels"></a>
 
 ## 个人信源与社交渠道（1）
@@ -105,6 +118,14 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [卡罗林斯卡学院全球公共卫生系博士教育联系页](https://ki.se/en/gph/doctoral-education/contact-doctoral-education-at-the-department-of-global-public-health)<br><sub>瑞典 ｜ 医学/公卫·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | KI 全球公共卫生系博士教育的官方联系入口，可询问在招岗位与国际生资格。 |
+
+<a id="recruiting-posts"></a>
+
+## 导师招生帖（社交平台个人发布）（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Print4Life 博士网络（生物医学增材制造）](https://www.uu.se/en/department/materials-science-and-engineering/research/divisions/biomedical-engineering/biomaterial-systems/print4life)<br><sub>瑞典·西班牙·爱尔兰·葡萄牙·德国·瑞士 ｜ 工程·医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2025 轮岗位（如 Hereon DC12，2025-11-26 截止）已过；当前空缺需查 Uppsala 招聘页</sub> | ❔ | MSCA 博士网络 Print4Life（2025-10 至 2029-09），由 Uppsala 大学协调，多家机构招博士生，岗位为受雇身份。已知 2025 轮岗位已截止，请关注该页及各机构后续岗位。 |
 
 <a id="tools"></a>
 

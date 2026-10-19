@@ -25,3 +25,8 @@ def test_postdoc_full_scholarship_and_placeholders():
     assert ai.check(post, "伯明翰大学数学系博士后岗位，全奖资助，年薪 £38,000，研究纯数学。") == "博后写成全奖"
     assert ai.check(SRC, "Quadram 研究所的 CASE 博士奖学金，与 INSERT 合作，研究海藻健康产品。") == "含禁用词"
     assert ai.check(post, "伯明翰大学数学系博士后岗位，薪资面议，研究纯数学方向的问题。") == "面议无依据"
+
+
+def test_inference_as_research_topic_allowed():
+    assert ai.check(dict(SRC, cn="check", title="Postdoc in causal inference"), "斯坦福大学医学院的博士后职位，研究电子健康记录数据中的因果推断方法。") is None
+    assert ai.check(SRC, "伯明翰大学纯数学方向博士奖学金，据此推断应该对国际生开放申请。") == "含禁用词"

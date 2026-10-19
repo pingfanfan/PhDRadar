@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 捷克（CZ） 信源（18）
+# 捷克（CZ） 信源（19）
 
-所有标注了地区 CZ 的信源，共 18 条。
+所有标注了地区 CZ 的信源，共 19 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [高校旗舰奖学金与资助检索 1](cz.md#university-schemes) · [结构化博士项目与研究机构 11](cz.md#doctoral-programs) · [博士后奖学金与项目 3](cz.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](cz.md#fellowships) · [个人信源与社交渠道 2](cz.md#people-channels)
+**按分类跳转：** [高校旗舰奖学金与资助检索 1](cz.md#university-schemes) · [结构化博士项目与研究机构 12](cz.md#doctoral-programs) · [博士后奖学金与项目 3](cz.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](cz.md#fellowships) · [个人信源与社交渠道 2](cz.md#people-channels)
 
 <a id="university-schemes"></a>
 
@@ -20,7 +20,7 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（11）
+## 结构化博士项目与研究机构（12）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -35,6 +35,7 @@
 | [查理大学国际研究所近代史博士项目（2026/27 全额岗位）](https://ims.fsv.cuni.cz/en/news/phd-programme-modern-history)<br><sub>捷克 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>CZK 25,000/月（净额），全日制 48 个月</sub> | **2026-04-30**<br><sub>⏸ 本轮已截止</sub> | ❔ | 学院近代史博士项目提供 2 个 2026/27 全日制全额资助岗位，月薪 CZK 25,000 净额，学制 48 个月。2026 轮申请已截止；是否对中国学生开放须看招生简章。 |
 | [查理大学国际研究所（IMS）博士生免学费与补助](https://ims.fsv.cuni.cz/en/academics/phd-programs/international-area-studies/funding)<br><sub>捷克 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>全日制约 25,000 捷克克朗/月（2025/26）</sub> | — | ❔ | 查理大学国际研究所博士 2026/27 起免学费，全日制生有保障性收入（2025/26 约 25,000 克朗/月）；联读制无保障收入。旧版页面金额与新页不一致，以最新页面为准。 |
 | [查理大学第一医学院研究生教育页](https://en.lf1.cuni.cz/science-and-research)<br><sub>捷克 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 博士招生细节以学院国际办公室为准；学校层面国际生资格未核实<br>列出招生与奖学金基本规则，资助细节看学院公告。搜索到的学校层面全日制博士月奖学金为约 1–2.5 万捷克克朗，文件较旧，需核实；未找到第一医学院专属国际生奖学金。 |
+| [马萨里克大学医学院 博士研究收入（全日制国际博士）](https://www.med.muni.cz/en/research-and-development/phd-studies/practical-information)<br><sub>捷克 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>CZK 24,960/月（2025/26 学年，全日制国际博士生，医学院页面）</sub> | 各项目不同<br><sub>医学院博士按年入学，截止日期以页面为准。</sub> | ❔ | **要求：** 全日制国际博士生；具体学历要求以医学院公告为准。<br>页面写明全日制国际博士生的博士研究收入标准。 |
 
 <a id="postdoc-fellowships"></a>
 

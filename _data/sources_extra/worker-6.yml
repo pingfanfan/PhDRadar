@@ -220,6 +220,29 @@
   verify_method: page
   page_evidence: The EU Doctoral Networks funded project FrameBio offers 13 PhD positions to begin in 2026.
   verified: 2026-10-18
+- id: regionalstudies-phd-opportunities
+  name: 区域研究协会（Regional Studies Association）博士机会板块
+  url: https://www.regionalstudies.org/category_opportunities/phd
+  category: aggregators
+  regions:
+  - GLOBAL
+  disciplines:
+  - social
+  - humanities
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  status: ongoing
+  requirements: 多数奖项需 RSA 会员身份。
+  notes: RSA 博士相关条目多为学会奖项与研究资助（如 PhD Student Award 500 英镑），并非全额博士岗位；多数需 RSA 会员身份，申请前看截止日期。
+  verify_method: page
+  page_evidence: We are recruiting for a 4 year fully funded PhD position on a HorizonEurope project.
+  verified: 2026-10-19
 - id: camk-doctoral-recruitment-2026
   name: 哥白尼天文中心（CAMK）2026/2027 博士招生（天文学）
   url: https://geoplanetschool.camk.edu.pl/?p=2194
@@ -859,7 +882,9 @@
   status: open
   requirements: 需本科或硕士学位与研究计划；全日制博士可申请 HKPFS 或校内奖学金。
   notes: 香港理工大学管理及市场学系 2027 年 9 月入学研究型博士，HKPFS 津贴约 HK$344,400/年（含学费减免）。学系页截止 2027-01-31，但建议 2026-12-01 前申请；HKPFS 同日截止，需先向 RGC 取得编号再向 PolyU 提交。学院限额招生。
-  verified: 2026-10-13
+  verify_method: page
+  page_evidence: In view of the limited admission quota, applicants are strongly encouraged to apply by 1 December 2026.
+  verified: 2026-10-19
 - id: cityu-sgs-admissions-handbook
   name: 香港城市大学研究生院 · 研究学位招生手册（2026）
   url: https://www.cityu.edu.hk/sgs/files/prospective/rpg/Admissions_Handbook.pdf
@@ -1127,6 +1152,58 @@
   verify_method: page
   page_evidence: 'Call for Applications: Postdoctoral Fellowships at the Hebrew University of Jerusalem - Academic Year 2027-2028'
   verified: 2026-10-18
+- id: ntu-ccds-ipf
+  name: 南洋理工大学计算机学院 国际博士后奖学金（CCDS IPF）
+  url: https://www.ntu.edu.sg/computing/careers-CCDS/ccds-international-postdoctoral-fellowship-(ipf)
+  category: postdoc-fellowships
+  regions:
+  - SG
+  disciplines:
+  - cs
+  - ai
+  funding: fellowship
+  levels:
+  - postdoc
+  cn_eligible: 'no'
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: unknown
+  deadline_note: 官网列出 2025-12-31 截止（已过）；2026 轮以 CCDS-IPF 信息手册为准
+  status: ongoing
+  requirements: 仅限新加坡公民；需在 NTU 计算机学院获聘并赴海外知名高校做约 2 年博后，之后可转助理教授轨道
+  notes: NTU 计算机学院国际博后计划，面向新加坡公民；非新加坡公民不符合资格。
+  verify_method: page
+  page_evidence: Under IPF, the successful candidates will be employed as University staff.
+  verified: 2026-10-19
+- id: ntu-cos-ipf
+  name: 南洋理工大学理学院 国际博士后奖学金（College of Science IPF）
+  url: https://www.ntu.edu.sg/science/research/college-of-science-international-postdoctoral-fellowship
+  category: postdoc-fellowships
+  regions:
+  - SG
+  disciplines:
+  - physics
+  - chem
+  - bio
+  - math
+  funding: fellowship
+  levels:
+  - postdoc
+  cn_eligible: 'no'
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: 2026-12-31
+  deadline_note: 截止日期未确认或各轮不同，以官网为准。
+  status: open
+  requirements: 仅限新加坡公民；需持理学院相关领域博士学位，获聘后赴海外大学做最长约 2 年博后，之后转为 NTU 助理教授轨道。
+  notes: NTU 理学院国际博后奖学金（IPF）仅面向新加坡公民，资助其海外博后研究并在完成后转为 NTU 助理教授。非新加坡公民不符合条件。
+  verify_method: page
+  page_evidence: Applicants are Singapore Citizens.
+  verified: 2026-10-19
 - id: fr-paris-saclay-doctoral-programmes-funding
   name: Université Paris-Saclay 博士项目与资助总览
   url: https://www.universite-paris-saclay.fr/recherche/doctorat-et-hdr/programmes-doctoraux-et-financements
@@ -1514,6 +1591,30 @@
   verify_method: page
   page_evidence: Financial support of PhD students is provided in the form of a research assistantship (RA) and/or teaching assistantship (TA) appointment.
   verified: 2026-10-16
+- id: rutgers-math-non-us-students
+  name: Rutgers 数学系非美国籍学生资助与 I-20 说明
+  url: https://www.math.rutgers.edu/academics/graduate-program/admissions-grad/849-non-u-s-students
+  category: doctoral-programs
+  regions:
+  - US
+  disciplines:
+  - math
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: 'yes'
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: varies
+  deadline_note: 各系截止不同，以院系当年说明为准。
+  status: ongoing
+  requirements: 需提供首年资金证明及后续年度资金计划；入学后资助按年续期，取决于学业进展与经费。
+  notes: 罗格斯大学数学系：页面称系内对几乎所有需要资助的博士生提供助教、奖学金或研究经费，资助通常可满足 I-20 资金要求。页面更新于 2017 年，需以当年说明为准；研究生院 2026 年文件显示 I-20 资金证明账户余额需不少于约 66,759 美元（以当年表格为准）。
+  verify_method: page
+  page_evidence: All international students admitted for Ph.D. studies are provided with financial support
+  verified: 2026-10-19
 - id: tamu-atmos-funding-assistantships
   name: 德州农工大学大气科学研究生资助
   url: https://artsci.tamu.edu/atmos-science/academics/graduate/funding.html
@@ -1811,6 +1912,31 @@
   notes: 学院为博士设定高于全校平均的最低资助，页面所引政策称国内外博士相同；仍需确认具体导师的资金来源。
   verify_method: page
   page_evidence: This minimum amount is $21,000 plus tuition; industrial PhD students do not receive funding support.
+  verified: 2026-10-19
+- id: queens-psych-funding
+  name: 皇后大学心理系研究生资助与奖学金页
+  url: https://www.queensu.ca/psychology/graduate/prospective-students/funding-awards-and-financial-support
+  category: university-schemes
+  regions:
+  - CA
+  disciplines:
+  - social
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: partial
+  stipend: 校方博士前四年保底 $25,000/年；系内 2026-2027 最低 $31,700/年，博士中位约 $39,000
+  deadline: varies
+  deadline_note: 各院系/批次截止不同，以官网公告为准。
+  status: ongoing
+  requirements: 国际生名额有限且逐年变化；官网国际生页称国际生保底资助约 $23,000/年（该页可能过时，大学保底为 $25,000/年）；非加拿大居民学费约为本地生两倍以上
+  notes: 校方对博士前四年有最低资助保障（2025–26 为 $25,000/年，学费另计），心理系另有更高系内标准；国际生名额有限，申请前需确认学费与生活费差额。
+  verify_method: page
+  page_evidence: Queen’s University has a minimum guarantee of funding for full-time doctoral students of $25,000 per year for each of the first four years of full-time study.
   verified: 2026-10-19
 - id: dal-psych-financial-information
   name: 达尔豪斯大学心理与神经科学系研究生资助信息
@@ -2358,6 +2484,33 @@
   verify_method: page
   page_evidence: 'Application deadline: 24 October 2026, 23:59 CET'
   verified: 2026-10-19
+- id: mqv-imprs-qst-doctoral-fellowships
+  name: 慕尼黑量子谷与 IMPRS-QST 博士奖学金
+  url: https://www.munich-quantum-valley.de/doctoral-fellowships
+  category: fellowships
+  regions:
+  - DE
+  disciplines:
+  - physics
+  - cs
+  - chem
+  - engineering
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: 2027-01-11
+  deadline_note: 2027 批次申请期为 2026-10-15 至 2027-01-11，春季评选、2027 年秋季入学。
+  status: open
+  requirements: 需硕士学位或同等学历，且在 2026 年 9 月前完成（以官网为准）。
+  notes: 由 IMPRS-QST 管理的全额资助 3 年博士奖学金。2026 批次申请期为 2025-10-15 至 2026-01-15。下一批次待官网公布，可关注官网并提前联系 PI。
+  verify_method: page
+  page_evidence: Being fully funded for three years, the holders of the fellowship will be welcome in many groups.
+  verified: 2026-10-19
 - id: cispa-postdoc-general
   name: CISPA 博士后岗位（通用页）
   url: https://jobs.cispa.saarland/jobs/detail/3
@@ -2473,6 +2626,29 @@
   notes: HIIT 由阿尔托大学与赫尔辛基大学共建，发布计算机方向博士后职位，岗位由合作导师提供。申请前核对当期公告。
   verify_method: page
   page_evidence: Positions are fully funded including salary and travel/publication costs, salaries follow the host universities’ pay scales.
+  verified: 2026-10-19
+- id: kaist-multimodal-ai-admissions
+  name: KAIST 多模态 AI 实验室招生页
+  url: https://mm.kaist.ac.kr/admissions
+  category: faculty-aggregators
+  regions:
+  - KR
+  disciplines:
+  - ai
+  funding: info
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: unknown
+  deadline_note: 具体学期以页面为准。
+  requirements: 须先有确定的指导教师；需邮件提交 CV，并注明 GPA 与英语成绩；录取以学院说明为准
+  notes: KAIST 多模态 AI 实验室（Joon Son Chung 组）博士申请前须已有确定的指导教师，需通过邮件发送 CV，并附 GPA 与英语成绩；有 CVPR、ICCV、ECCV 等顶会论文者可考虑。奖学金通常随 KAIST 录取一并考虑，以学院说明为准。页面列出的是 2026 年春季信息，需核对当前招生状态。
+  verify_method: page
+  page_evidence: For PhD, you are required to have an advisor at the time of application.
   verified: 2026-10-19
 - id: igbmc-job-offers
   name: IGBMC（斯特拉斯堡）招聘与职位页
@@ -2842,7 +3018,7 @@
   status: open
   requirements: 需满足 PDF 中的硕士学历要求；国际生资格以学校细则为准，未确认。
   notes: 学校自设的博士合同征集，带薪 contrat doctoral。课题须符合学校科研优先方向。根据搜索摘要整理，PDF 未完整核对。
-  verified: 2026-10-13
+  verified: 2026-10-19
 - id: univ-paris-cite-eiffel-doctorat-2027
   name: Université Paris Cité · Bourse Eiffel 博士 2027-2028 批次
   url: https://u-paris.fr/?p=1511672
@@ -2889,6 +3065,30 @@
   verify_method: page
   page_evidence: 'Check out the PhD vacancies on the following pages:'
   verified: 2026-10-18
+- id: ruhr-bochum-developmental-psychology-phd
+  name: 波鸿鲁尔大学 发展心理学博士研究助理（早期儿童情景记忆项目）
+  url: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003809215-S
+  category: discipline
+  regions:
+  - DE
+  disciplines:
+  - social
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: de
+  coverage: salary
+  deadline: 2026-10-26
+  deadline_note: 截止 2026-10-26；2027-01-01 起，至 2030-12-31，开始时间待经费批准。
+  status: open
+  requirements: 硕士学位（心理学或相近领域）；要求流利的德语和英语；开始时间待经费批准。
+  notes: 75% 研究助理职位，可在岗攻读累积式博士，研究方向为早期儿童情景记忆。
+  verify_method: page
+  page_evidence: The position offers the opportunity for scientific qualification through a cumulative PhD.
+  verified: 2026-10-19
 - id: idealab-language-brain-doctorate
   name: IDEALAB 语言与大脑实验研究国际博士项目（波茨坦·格罗宁根·麦考瑞）
   url: https://www.escop.eu/news/news/other/2026-call-for-applications-to-phd-program-international-doctorate-for-experimental-approaches-to-language-and-brain-idealab
@@ -2938,4 +3138,28 @@
   notes: 两个全额博士奖学金名额，合作方为马普心理语言学所、拉德堡德大学与 Donders 研究所。此链接为邮件列表存档，需以 IMPRS 官网为准。
   verify_method: page
   page_evidence: is offering two fully-funded PhD Fellowship for four years (2026-2030)
+  verified: 2026-10-19
+- id: nyu-steinhardt-developmental-psychology-phd
+  name: 纽约大学 Steinhardt 发展心理学博士（申请说明）
+  url: https://steinhardt.nyu.edu/degree/phd-developmental-psychology/how-apply
+  category: doctoral-programs
+  regions:
+  - US
+  disciplines:
+  - social
+  funding: info
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: varies
+  deadline_note: 秋季入学申请通常 12 月 1 日前后截止，以官网当年页面为准。
+  status: upcoming
+  requirements: 需心理学或人类发展相关的本科和/或硕士学位；官网列出秋季入学截止 12 月 1 日
+  notes: NYU Steinhardt 发展心理学博士：官网申请流程页列出秋季入学截止 12 月 1 日（以当年页面为准）。学院资助说明页另列全日制博士资助包，但国际生是否适用未确认。
+  verify_method: page
+  page_evidence: You must have a bachelor's degree and/or a master's degree in Psychology or Human Development in order to apply to this program.
   verified: 2026-10-19

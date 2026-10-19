@@ -116,6 +116,30 @@
 | 页头薪资写 Negotiable / DOE，正文有具体金额 | “The yearly gross salary … is EUR 87306” | 页头无数字时取正文带金额的薪资句 |
 | 写明可申但没认出来 | “open to U.S. and non-U.S. citizens”“from around the globe”“will offer visa sponsorship”“available to UK and International students” | 补进国际生可申句式；撤回第一轮“只写 UK 学费就降为待确认”的规则（页面写明对国际生开放就按页面算） |
 
+## 第三轮（2026-10-19 深夜，扩大到新接入的 14 个平台，100 条）
+
+工程 D 当天接入的平台（CNRS、德国劳动局、TAMU、大学自己的 Workday / SuccessFactors / Oracle / ReachMee、MathJobs、EconJobMarket、
+哥本哈根大学、奥胡斯大学等）首次抽检。87 条可读（Workday / Oracle 详情页是脚本渲染，12 条读不到正文），1 条已下架。
+
+**字段准确率 96.9%（772 个可判字段里 24 个错误）；所有字段都对的记录 69 / 87。**
+
+| 平台 | 样本 | 可读/打不开 | 机构 | 截止 | 资格 | 其余字段 |
+|---|---|---|---|---|---|---|
+| CNRS Emploi | 18 | 17/0（1 已下架） | 100% | 100% | 100% | 100% |
+| 德国劳动局 | 12 | 11/1 | 100% | 100% | 91%(1) | 100% |
+| TAMU | 12 | 12/0 | **33%(8)** | 90%(1) | 75%(3) | 100% |
+| SuccessFactors | 10 | 10/0 | 100% | 100% | 100% | 100% |
+| Oracle Recruiting | 10 | 4/6 | 100% | 100% | 100% | 安全审查 75%(1) |
+| MathJobs | 8 | 8/0 | 100% | **62%(3)** | 88%(1) | 原句 88%(1) |
+| EconJobMarket | 8 | 8/0 | 100% | 88%(1) | 88%(1) | 资助 88%(1) |
+| Workday | 8 | 3/5 | 100% | 100% | 67%(1) | 100% |
+| 哥本哈根 / 奥胡斯 / ReachMee | 14 | 14/0 | 100% | 100% | 93%(1) | 100% |
+
+修正：TAMU 的雇主名其实在标题下的 `<em>` 里，原规则要求括注后紧跟 “Details” 而漏掉 8/12；MathJobs 复用 AJO 解析，
+第一轮给 AJO 加的“正文改写截止”把结构化 Appl Deadline 改成了滚动（第二轮已撤回，重采后修好）；新平台和大学招聘系统的资格、
+安全审查原先只认限本土句，统一改用 `cn_of` / `flags_of`（写明国际生可申 → yes，补 ZRR 等审查句），并补了 “U.S. citizens only”
+“open only to U.S. citizens” 等限本土句式。
+
 ## 尚未解决
 
 - **FindAPhD**（约 670 条，占岗位四分之一）只在公开仓库的 GitHub Actions 上能访问，本环境无法逐条对照原页；交叉核对只覆盖 10 / 50。

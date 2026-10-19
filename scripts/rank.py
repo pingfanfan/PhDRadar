@@ -86,6 +86,32 @@ def parse_start(rq: str) -> date | None:
     return date(int(m[3]), MONTHS[m[2].lower()], int(m[1]))
 
 
+def af(x: dict, key: str) -> tuple[str, str]:
+    """岗位申请须知的结构化字段（工程 A 写入 catalog 的 af）：(中文摘要, 原句)，没有就是空串。"""
+    v = (x.get("af") or {}).get(key) or ["", ""]
+    return (v[0] or "", v[1] if len(v) > 1 and v[1] else "")
+
+
+def parse_af_start(zh: str, en: str, soft) -> date | None:
+    """“2027 年 4 月 1 日”→ date；写了“或协商”“起”“flexible”之类的不算确定日期。"""
+    m = re.search(r"(\d{4}) 年 (\d{1,2}) 月(?: (\d{1,2}) 日)?", zh)
+    if not m or soft.search(zh + " " + en):
+        return None
+    return date(int(m[1]), int(m[2]), int(m[3] or 1))
+
+
+def required_langs(text: str, P: dict) -> list[str]:
+    """原句里“必须会”的非英语语言（英文名）。"""
+    out = []
+    for clause in re.split(r"[.;!\n]|\bbut\b|，|；|。", text):
+        if not P["lang_req"].search(clause) or P["lang_soft"].search(clause) or re.search(r"English or|or English", clause, re.I):
+            continue
+        for en in P["R"]["langs"]:
+            if re.search(r"(?<![A-Za-z])" + en + r"(?![A-Za-z])", clause) and en not in out:
+                out.append(en)
+    return out
+
+
 def parse_number(s: str) -> float | None:
     s = s.replace(" ", "").replace(" ", "")
     if "," in s and "." in s:
@@ -137,6 +163,17 @@ def monthly_eur(s: str) -> float | None:
 
 
 # ---------- 画像 ----------
+
+def known_langs(langs: dict, R: dict) -> list[str]:
+    """画像里会的非英语语言（英文名）：德语 B2 以上，加上 languages.other 里写的（中英文名都认）。"""
+    zh = {v: k for k, v in R["langs"].items()}
+    out = ["German"] if R["cefr"].get(str(langs.get("german") or "").upper().replace("NATIVE", "native"), 0) >= R["cefr"]["B2"] else []
+    for o in langs.get("other") or []:
+        name = str((o.get("lang") if isinstance(o, dict) else o) or "").strip()
+        en = zh.get(name) or next((k for k in R["langs"] if k.lower() == name.lower()), None)
+        if en and en not in out:
+            out.append(en)
+    return out
 
 def prepare(profile: dict, rules: dict | None = None) -> dict:
     """把 profile.yml（或网站表单）整理成排序用的结构。"""
@@ -209,6 +246,9 @@ def prepare(profile: dict, rules: dict | None = None) -> dict:
         "restrict": re.compile(R["restrict"], re.I), "german_re": re.compile(R["german"]),
         "local_re": re.compile(R["local_lang"], re.I), "noise": re.compile(R["noise"], re.I),
         "noise_body": re.compile(R["noise_body"]), "focus": re.compile(R["focus"], re.I),
+        "lang_req": re.compile(R["lang_req"], re.I), "lang_soft": re.compile(R["lang_soft"], re.I),
+        "start_soft": re.compile(R["start_soft"], re.I),
+        "known": known_langs(langs, R),
         "local_ok": any(str((o.get("lang") if isinstance(o, dict) else o) or "").strip().lower() in R["local_langs"]
                         for o in langs.get("other") or []),
     }
@@ -265,28 +305,43 @@ def assess(x: dict, P: dict, today: date) -> dict | None:
         out.append("中国学生不可申请")
     if P["cn"] and P["cn_only"] and e not in ("yes", "partial"):
         out.append("资格待核实（你选了只看中国学生可申）")
-    if P["restrict"].search(title + " " + rq):
+    dg_zh, dg_en = af(x, "dg")
+    lg_zh, lg_en = af(x, "lg")
+    na_zh, na_en = af(x, "na")
+    if P["restrict"].search(title + " " + rq + " " + na_en):
         out.append("公告写明限本国 / 本土学生")
     if not any(lv in P["levels"] for lv in levels):
         out.append("层次不符（岗位是" + "、".join("博后" if lv == "postdoc" else "博士" for lv in levels) + "）")
     elif "phd" not in levels and P["deg"] < 3:
         out.append("博后岗位要求博士学位")
     m = re.search(r"学位要求：([^；]*)", rq)
-    if m and "phd" in levels and P["deg"] < 2 and re.search(r"Master|Magister|Diplom", m[1]) and "Bachelor" not in m[1]:
+    dg = dg_en + " " + dg_zh
+    if "phd" in levels and P["deg"] < 2 and (
+            (m and re.search(r"Master|Magister|Diplom", m[1]) and "Bachelor" not in m[1])
+            or (re.search(r"master|M\.?Sc|MPhil|硕士", dg, re.I) and not re.search(r"bachelor|B\.?Sc|undergraduate|本科|学士", dg, re.I))):
         out.append("要求硕士学位")
-    m = re.search(r"IELTS[^0-9；]{0,30}(\d(?:\.\d)?)", rq)
+    m = re.search(r"IELTS[^0-9；]{0,30}(\d(?:\.\d)?)", rq + " " + lg_en)
     if m and P["ielts"] is not None and float(P["ielts"]) < float(m[1]):
-        out.append(f"雅思要求 {m[1]}（你 {P['ielts']}）")
-    m = re.search(r"TOEFL[^0-9；]{0,30}(\d{2,3})", rq)
+        out.append(f"雅思要求 {m[1]}（你 {float(P['ielts']):g}）")
+    m = re.search(r"TOEFL[^0-9；]{0,30}(\d{2,3})", rq + " " + lg_en)
     if m and P["toefl"] is not None and P["ielts"] is None and float(P["toefl"]) < float(m[1]):
-        out.append(f"托福要求 {m[1]}（你 {P['toefl']}）")
+        out.append(f"托福要求 {m[1]}（你 {float(P['toefl']):g}）")
     if P["german_re"].search(title + " " + rq) and P["german"] < R["cefr"]["B2"]:
         out.append("要求德语")
+    zh_en = {v: k for k, v in R["langs"].items()}
+    for zh, lvl in re.findall(P["R"]["lt_level"], x.get("lt") or ""):
+        en = zh_en[zh]
+        have = P["german"] if en == "German" else (R["cefr"]["C2"] if en in P["known"] else 0)
+        if R["cefr"][lvl] >= R["cefr"]["B2"] and have < R["cefr"][lvl] and not any(zh in o for o in out):
+            out.append(f"要求{zh} {lvl}")
+    for lang in required_langs(lg_en, P):
+        if lang not in P["known"] and not (lang == "German" and "要求德语" in out):
+            out.append(f"要求{P['R']['langs'][lang]}（申请须知原句）")
     if P["local_re"].search(title) and not P["local_ok"]:
         out.append("公告用挪威语 / 瑞典语 / 丹麦语 / 荷兰语发布")
     if n_days is not None and n_days < P["prep"]:
         out.append(f"截止太近（还有 {n_days} 天，少于你设的准备期 {P['prep']} 天）")
-    js = parse_start(rq)
+    js = parse_start(rq) or parse_af_start(*af(x, "sd"), P["start_soft"])
     if js and P["start"] and js < P["start"] - timedelta(days=31):
         out.append(f"开始时间 {js.isoformat()[:7]} 早于你能入学的 {P['start'].isoformat()[:7]}")
     ok = R["coverage_ok"].get(P["min_cov"])
@@ -402,6 +457,7 @@ def rank(rows: list[dict], profile: dict, today: date, rules: dict | None = None
     P = prepare(profile, rules)
     # 先数每个关键词在现在可申请的机会里命中多少条，用来给常见词降权
     df = {kw["k"]: 0 for kw in P["keywords"]}
+    lit_df = {kw["k"]: 0 for kw in P["keywords"]}  # 原词本身出现的条数（词表只覆盖一部分的复合词看这个）
     for x in rows:
         o = x.get("o")
         dl = (o or {}).get("dl") or x.get("dl") or ""
@@ -411,6 +467,8 @@ def rank(rows: list[dict], profile: dict, today: date, rules: dict | None = None
         for kw in P["keywords"]:
             if kw_hits_text(kw, t) or kw_hits_text(kw, b):
                 df[kw["k"]] += 1
+                if kw["lit"] and (find(kw["lit"][0], t) >= 0 or find(kw["lit"][0], b) >= 0):
+                    lit_df[kw["k"]] += 1
     P["kwf"] = {k: specificity(n, P["R"]["weights"]) for k, n in df.items()}
     ranked, related, excluded, unrelated, considered = [], [], [], 0, 0
     by_id = {x["id"]: x for x in rows}
@@ -437,7 +495,9 @@ def rank(rows: list[dict], profile: dict, today: date, rules: dict | None = None
     ranked.sort(key=key)
     related.sort(key=key)
     excluded.sort(key=lambda a: (-a["parts"]["research"], a["id"]))
-    return {"ranked": ranked, "related": related, "excluded": excluded, "unrelated": unrelated, "considered": considered, "disc": P["disc"]}
+    return {"ranked": ranked, "related": related, "excluded": excluded, "unrelated": unrelated, "considered": considered, "disc": P["disc"],
+            # 关键词提示用：[词, 命中条数, 只部分覆盖的复合词原词出现的条数（否则 None）]
+            "kw_df": [[kw["k"], df[kw["k"]], lit_df[kw["k"]] if kw["need_lit"] and kw["concepts"] else None] for kw in P["keywords"]]}
 
 
 # ---------- 输出 ----------
@@ -453,6 +513,12 @@ def render(res: dict, rows: list[dict], profile: dict, today: date, top: int = 3
              f"硬性条件排除 {len(res['excluded'])} 条，方向不相关 {res['unrelated']} 条。",
              "- 只推荐标题或简介命中你关键词的机会；分数 0–100：研究匹配 70（关键词 50 + 学科 20）、资助 10、截止 8、地区 7、资格 5，安全审查降分。资格写“待核实”的，投递前请自己读官网确认。",
              "- 排序只用标题、简介、学科与硬性条件；`/rank` 会再让 Claude 读前几条的原文做判断。信息以官网为准。", ""]
+    tips = [f"「{k}」在现在可申请的机会里一条都没出现，{'试试英文写法或同义说法' if CJK.search(k) else '试试同义说法'}" if n == 0
+            else f"「{k}」本身没有出现，只按其中一部分词匹配，结果可能偏宽；{'试试英文写法' if CJK.search(k) else '换个更常见的说法试试'}" if lit == 0
+            else f"「{k}」很常见（{n} 条都提到），再加一个更具体的方向词会更准" if n >= res["considered"] * 0.015 else ""
+            for k, n, lit in res.get("kw_df", [])]
+    if any(tips):
+        lines += ["**关键词建议**：" + "；".join(t for t in tips if t) + "。", ""]
     for i, a in enumerate(res["ranked"][:top], 1):
         x = by_id[a["id"]]
         head = " — ".join(filter(None, [x["n"], x.get("org")]))

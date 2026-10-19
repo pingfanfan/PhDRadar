@@ -138,7 +138,7 @@ def posting_rows() -> list[dict]:
             if af.get("lg") and lang_tag(af["lg"][0]):
                 r["lt"] = lang_tag(af["lg"][0])
         notes = ([f"资助对象（公告原文）：{p['funding_for']}"] if p.get("funding_for") else []) + \
-            ([p["requirements"]] if p.get("requirements") and not af else [])  # 有结构化字段时不再重复显示旧的要求摘要
+            ([p["requirements"]] if p.get("requirements") else [])  # rank.py 的硬性筛选读这段文字，保留；页面上与申请须知重复的部分由模板去掉
         if notes:
             r["rq"] = "；".join(notes)
         out.append({k: v for k, v in r.items() if v not in (None, "", [])})

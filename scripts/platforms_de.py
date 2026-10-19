@@ -13,7 +13,8 @@ import json
 import re
 from datetime import date, timedelta
 
-from collect_postings import ANY_DATE, DE_MONTHS, MONTH3, Fetcher, _any, _RESTRICTED, _SCREENING, _SELF_FUNDED, page_text, \
+import collect_postings as cp
+from collect_postings import ANY_DATE, DE_MONTHS, MONTH3, Fetcher, _any, _SELF_FUNDED, page_text, \
     parse_day
 
 BA = "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service"
@@ -57,7 +58,12 @@ def ba_deadline(text: str, today: str) -> tuple[str | None, str]:
                 continue
         iso = ba_day(m.group(1))
         if iso and iso <= horizon:
-            return iso, m.group(0).strip()
+            quote = m.group(0).strip()
+            if kw.startswith(("bis ", "spätestens", "by")):  # 只有“bis zum 日期”读不出是申请截止：带上同一句前面的话
+                head = text[max(0, m.start() - 100):m.start()]
+                head = re.split(r"(?<![\d.])[.!?]\s+|\s{2,}", head)[-1].strip()
+                quote = f"{head} {quote}".strip()
+            return iso, quote
     return None, ""
 
 
@@ -106,8 +112,8 @@ def ba_detail(ref: str, url: str, raw: str, today: str) -> tuple[dict | None, st
         "url": f"https://www.arbeitsagentur.de/jobsuche/jobdetail/{ref}",
         "org": re.sub(r"\s+", " ", j.get("firma") or "")[:120], "country": "DE", "place": (loc.get("ort") or "")[:80],
         "level": level, "deadline": deadline, "quote": quote[:160], "funding_for": "", "amount": amount[:200],
-        "cn": "no" if _any(_RESTRICTED, text) else "check",
-        "flags": ["security-screening"] if _any(_SCREENING, text) else [], "via": "Bundesagentur für Arbeit",
+        "cn": cp.cn_of(text),
+        "flags": cp.flags_of(text), "via": "Bundesagentur für Arbeit",
     }, "收录"
 
 

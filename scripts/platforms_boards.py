@@ -6,6 +6,8 @@
   无 robots.txt（404）。
 - EconJobMarket（经济学）：只收 “Postdoctoral Scholar” 类型（博士生 / RA 市场需登录，不收）；岗位页有 “Application deadline: 10 Nov 2026”。
   robots.txt 全部允许。
+- LINGUIST List（语言学）：“Support”（博士奖学金）与 “Jobs” 两个 RSS；公告页有 “Application Deadline: 15-Jan-2027” 字段。
+  robots.txt 只禁止 AdsBot-Google 与 HTTrack。
 - H-Net Job Guide（人文社科）：岗位页有 “Closing Date” 字段；robots.txt 要求 Crawl-delay 5，首次访问需要保存 cookie（Session 自动处理）。
 """
 from __future__ import annotations
@@ -15,7 +17,7 @@ import html as htmllib
 import re
 
 import collect_postings as cp
-from collect_postings import Fetcher, _any, _FUNDED, _RESTRICTED, _SCREENING, _SELF_FUNDED, level_of, page_text, parse_day, \
+from collect_postings import Fetcher, _any, _FUNDED, _SELF_FUNDED, level_of, page_text, parse_day, \
     place_country
 
 # ───────────────────────── MathJobs.org ─────────────────────────
@@ -84,6 +86,9 @@ def tamu_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, 
     # 正文里标题后紧跟雇主名和单位类型括注：“… Purdue University Department of Forestry (State) Details”
     o = re.search(re.escape(head) + r"\s+([^|]{3,150}?)\s+\([A-Za-z /-]{2,25}\)\s+Details", text)
     org = o.group(1) if o else ""
+    if not org:  # 雇主名在标题下的 <em> 里：“Texas A&M - Kingsville (State)”
+        em = re.search(r"</h3>\s*<p>\s*<em>(.*?)</em>", raw, re.S)
+        org = re.sub(r"\s*\([A-Za-z /-]{2,25}\)\s*$", "", page_text(em.group(1))) if em else ""
     level = level_of(title)
     if not level:
         return None, "非博士/博后岗位"
@@ -103,8 +108,7 @@ def tamu_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, 
         "id": f"tamu-rwfm:{jid}", "title": title[:200], "url": url, "org": org[:120],
         "country": place_country(place) or ("US" if re.search(r",\s*[A-Z][a-z]+", place) else ""), "place": place[:80],
         "level": level, "deadline": deadline, "quote": m.group(0), "funding_for": "", "amount": salary[:200],
-        "cn": "no" if _any(_RESTRICTED, body) else "check",
-        "flags": ["security-screening"] if _any(_SCREENING, body) else [], "via": "TAMU Natural Resources Job Board",
+        "cn": cp.cn_of(body), "flags": cp.flags_of(body), "via": "TAMU Natural Resources Job Board",
     }, "收录"
 
 
@@ -153,8 +157,8 @@ def hnet_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, 
     return {
         "id": f"hnet:{jid}", "title": title[:200], "url": url, "org": org[:120], "country": place_country(place),
         "place": place[:80], "level": level, "deadline": deadline, "quote": m.group(0), "funding_for": "",
-        "amount": (pay.group(0).strip() if pay else "")[:200], "cn": "no" if _any(_RESTRICTED, body) else "check",
-        "flags": ["security-screening"] if _any(_SCREENING, body) else [], "via": "H-Net Job Guide",
+        "amount": (pay.group(0).strip() if pay else "")[:200], "cn": cp.cn_of(body),
+        "flags": cp.flags_of(body), "via": "H-Net Job Guide",
     }, "收录"
 
 
@@ -191,11 +195,54 @@ def ejm_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, s
         "id": f"econjobmarket:{jid}", "title": title[:200], "url": url, "org": org[:120],
         "country": cp.country_code(place.rsplit(",", 1)[-1]) if place else "", "place": place[:80], "level": "postdoc",
         "deadline": deadline, "quote": m.group(0), "funding_for": "", "amount": (salary.group(1) if salary else "")[:200],
-        "cn": "no" if _any(_RESTRICTED, ad) else "check",
-        "flags": ["security-screening"] if _any(_SCREENING, ad) else [], "via": "EconJobMarket",
+        "cn": cp.cn_of(ad),
+        "flags": cp.flags_of(ad), "via": "EconJobMarket",
+    }, "收录"
+
+
+# ───────────────────────── LINGUIST List ─────────────────────────
+
+LL_FEEDS = ["https://linguistlist.org/issues/rss/support", "https://linguistlist.org/issues/rss/jobs"]
+
+
+def ll_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+    out: dict[str, str] = {}
+    for feed in LL_FEEDS:
+        for title, link, vol, num in re.findall(r"<item>\s*<title>(.*?)</title>\s*<link>(https://linguistlist\.org/issues/(\d+)/(\d+)/)</link>",
+                                                f.get(feed).text, re.S):
+            if re.search(r"\bph\.?d\b|post-?doc|doctoral", htmllib.unescape(title), re.I):
+                out.setdefault(f"{vol}-{num}", link)
+    return list(out.items())
+
+
+def ll_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
+    text = page_text(raw)
+    subj = re.search(r"Subject:\s*(.{5,250}?)\s+E-mail this message", text)
+    title = subj.group(1) if subj else ""
+    level = "postdoc" if re.search(r"post-?doc", title, re.I) else "phd" if re.search(r"\bph\.?d\b|doctoral", title, re.I) else None
+    if not level:
+        return None, "非博士/博后岗位"
+    m = re.search(r"Application Deadline:\s*(\d{1,2})-([A-Za-z]{3})-(\d{4})", text)
+    if not m or m.group(2).lower() not in cp.MONTH3:
+        return None, "页面无截止日期"
+    deadline = parse_day(f"{m.group(1)} {cp.MONTH3[m.group(2).lower()]} {m.group(3)}")
+    if not deadline or deadline < today:
+        return None, "已截止"
+    body = text[:m.start()]
+    if _any(_SELF_FUNDED, body) or _any(cp.NOT_FUNDED, body) or \
+            not (_any(_FUNDED, body) or re.search(r"stipends|funding|[$€£]\s?\d", body, re.I)):
+        return None, "未写资助或自费"
+    org = re.search(r"Institution/Organization:\s*(.{2,150}?)\s+(?:Department|Web Address|Level|Duties):", text)
+    cur = r"(?:[$€£]|USD|EUR|GBP|CHF|CAD|AUD)"
+    pay = re.search(rf"(?:salary|stipends?)[^.]{{0,80}}?{cur}\s?[\d,.]+[^.]{{0,40}}|{cur}\s?[\d,]{{5,}}[^.]{{0,40}}", body, re.I)
+    return {
+        "id": f"linguistlist:{jid}", "title": title[:200], "url": url, "org": (org.group(1) if org else "")[:120],
+        "country": "", "place": "", "level": level, "deadline": deadline, "quote": m.group(0), "funding_for": "",
+        "amount": (pay.group(0).strip() if pay else "")[:200], "cn": cp.cn_of(body),
+        "flags": cp.flags_of(body), "via": "LINGUIST List",
     }, "收录"
 
 
 ADAPTERS = {"mathjobs": (mj_urls, mj_detail), "tamu-rwfm": (tamu_urls, tamu_detail), "hnet": (hnet_urls, hnet_detail),
-            "econjobmarket": (ejm_urls, ejm_detail)}
-VIA_RANK = {"MathJobs": 2, "TAMU Natural Resources Job Board": 2, "H-Net Job Guide": 2, "EconJobMarket": 2}
+            "econjobmarket": (ejm_urls, ejm_detail), "linguistlist": (ll_urls, ll_detail)}
+VIA_RANK = {"MathJobs": 2, "TAMU Natural Resources Job Board": 2, "H-Net Job Guide": 2, "EconJobMarket": 2, "LINGUIST List": 2}

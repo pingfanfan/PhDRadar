@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 导师招生汇总（指向个人主页的集合）（15）
+# 导师招生汇总（指向个人主页的集合）（17）
 
 把“正在招博士的导师”集中列出的名单、表格和数据库，直接链接到导师个人主页或招生帖。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [美国（US） 5](faculty-aggregators.md#r-us) · [奥地利（AT） 4](faculty-aggregators.md#r-at) · [中国内地（CN） 2](faculty-aggregators.md#r-cn) · [德国（DE） 2](faculty-aggregators.md#r-de) · [加拿大（CA） 1](faculty-aggregators.md#r-ca) · [法国（FR） 1](faculty-aggregators.md#r-fr)
+**按地区跳转：** [美国（US） 5](faculty-aggregators.md#r-us) · [奥地利（AT） 4](faculty-aggregators.md#r-at) · [中国内地（CN） 2](faculty-aggregators.md#r-cn) · [德国（DE） 2](faculty-aggregators.md#r-de) · [加拿大（CA） 1](faculty-aggregators.md#r-ca) · [法国（FR） 1](faculty-aggregators.md#r-fr) · [韩国（KR） 1](faculty-aggregators.md#r-kr) · [荷兰（NL） 1](faculty-aggregators.md#r-nl)
 
 <a id="r-us"></a>
 
@@ -66,4 +66,20 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Inria AVIZ 可视化与人机交互团队招聘页](https://www.aviz.fr/Research/Jobs)<br><sub>法国 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 未公布<br><sub>🟢 开放申请</sub><br><sub>无统一截止日，以各岗位公告为准。</sub> | ❔ | 页面当前列出 2027 年秋季入学的博士岗，包括 Visualization of the Plausibility and Bias for Data Resources used in a Geographic Digital Twin，另一岗位待公布；页面写明 INRIA 博士资助（CORDI）每年 2–5 月申请。 |
+
+<a id="r-kr"></a>
+
+## 韩国（KR）（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [KAIST 多模态 AI 实验室招生页](https://mm.kaist.ac.kr/admissions)<br><sub>韩国 ｜ 人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>具体学期以页面为准。</sub> | ❔ | **要求：** 须先有确定的指导教师；需邮件提交 CV，并注明 GPA 与英语成绩；录取以学院说明为准<br>KAIST 多模态 AI 实验室（Joon Son Chung 组）博士申请前须已有确定的指导教师，需通过邮件发送 CV，并附 GPA 与英语成绩；有 CVPR、ICCV、ECCV 等顶会论文者可考虑。奖学金通常随 KAIST 录取一并考虑，以学院说明为准。页面列出的是 2026 年春季信息，需核对当前招生状态。 |
+
+<a id="r-nl"></a>
+
+## 荷兰（NL）（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [埃因霍温理工大学（TU/e）官方招聘页（博士岗位）](https://jobs.tue.nl/en/vacancies.html)<br><sub>荷兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止不同，以 jobs.tue.nl 为准</sub> | ❔ | TU/e 博士多为带薪雇员合同（约 4 年），按 PhD 筛选可看全校岗位。需逐条核对截止日期与资格。 |
 

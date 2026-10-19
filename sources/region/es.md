@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 西班牙（ES） 信源（55）
+# 西班牙（ES） 信源（58）
 
-所有标注了地区 ES 的信源，共 55 条。
+所有标注了地区 ES 的信源，共 58 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 3](es.md#aggregators) · [各国学术招聘门户与机构职位页 1](es.md#national-portals) · [政府与国家级奖学金 2](es.md#gov-scholarships) · [高校旗舰奖学金与资助检索 10](es.md#university-schemes) · [结构化博士项目与研究机构 20](es.md#doctoral-programs) · [博士后奖学金与项目 7](es.md#postdoc-fellowships) · [企业与基金会 Fellowship 6](es.md#fellowships) · [学科专属信源 4](es.md#discipline) · [个人信源与社交渠道 2](es.md#people-channels)
+**按分类跳转：** [综合聚合平台 3](es.md#aggregators) · [各国学术招聘门户与机构职位页 2](es.md#national-portals) · [政府与国家级奖学金 2](es.md#gov-scholarships) · [高校旗舰奖学金与资助检索 10](es.md#university-schemes) · [结构化博士项目与研究机构 20](es.md#doctoral-programs) · [博士后奖学金与项目 7](es.md#postdoc-fellowships) · [企业与基金会 Fellowship 6](es.md#fellowships) · [学科专属信源 4](es.md#discipline) · [科研实习与“曲线入口” 1](es.md#pathways) · [个人信源与社交渠道 2](es.md#people-channels) · [导师招生帖（社交平台个人发布） 1](es.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
@@ -22,11 +22,12 @@
 
 <a id="national-portals"></a>
 
-## 各国学术招聘门户与机构职位页（1）
+## 各国学术招聘门户与机构职位页（2）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [西班牙 FPU 预博士合同（国家公告）](https://www.ciencia.gob.es/Noticias/2026/junio/novedades-convocatoria.fpu-2026.html)<br><sub>西班牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>约 €32,500/年（含社保，第三方解读，以 BOE 为准）</sub> | 未公布<br><sub>🔜 即将开放</sub><br><sub>2026 年 6 月 11 日官方新闻称新一轮 FPU 将于暑假后发布，页面未列申请期，以 AEI 公告为准</sub> | ❔ | **要求：** 需持有公告所列学位；需已录取或能于 2026/27 学年注册博士项目；全职雇佣合同最长 4 年；外籍申请者资格须以 BOE 正文为准<br>西班牙科学创新部 2026 年 6 月新闻称，FPU 2026 将于暑假后发布并简化申请流程；申请须由所在研发中心与申请人共同提交，合同最长 4 年。 |
+| [马德里大区 I+D+i 就业门户](https://www.comunidad.madrid/info/servicios/educacion/ciencia-e-investigacion/buscador-empleo-idi)<br><sub>西班牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 马德里大区科研就业门户，覆盖大学和研究机构的博士前、博士后岗位。以西语为主，注意是否要求西班牙语。 |
 
 <a id="gov-scholarships"></a>
 
@@ -119,6 +120,14 @@
 | [IMDEA Networks 博士职位列表](https://networks.imdea.org/taxonomy_jobs/phd-student/page/2)<br><sub>西班牙 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub><br><sub>所见 2026 年岗位截止日多已过，当期岗位需看 networks.imdea.org/job/phd</sub> | ❔ | **要求：** 硕士学位并具备编程与无线/网络实验经验（所见岗位要求）；非欧盟资格以各岗位广告为准<br>马德里研究所，网络/6G、安全隐私方向，多由欧盟项目资助；部分已截止，核对非欧盟资格。 |
 | [马德里 IFT 宇宙学组招聘与职位列表](https://projects.ift.uam-csic.es/cosmo/job-offers/)<br><sub>西班牙 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 页面当前列出 JAE-PRE 资助的引力波数据分析博士岗位及 FPI-UAM 资助的引力波与宇宙学博士岗位，并列出 RyC 2026、JdlC 2025 等博后项目；具体截止以各公告为准。 |
 
+<a id="pathways"></a>
+
+## 科研实习与“曲线入口”（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [nanoGUNE 硕士 + 博士联合岗位](https://www.nanogune.eu/es/node/232641)<br><sub>西班牙 ｜ 物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub> | ❔ | 学生在同一课题组完成硕士论文后衔接博士；硕士阶段有月度津贴（2025 轮 €350/月）。2025 轮 3 月 13 日截止，2026/2027 轮次未见公告，需到官网核对。 |
+
 <a id="people-channels"></a>
 
 ## 个人信源与社交渠道（2）
@@ -127,4 +136,12 @@
 | --- | --- | --- | --- | :-: | --- |
 | [IMDEA Networks 研究岗位列表（网络与无线通信）](https://networks.imdea.org/es/taxonomy_jobs/research-2)<br><sub>西班牙 ｜ 计算机·工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>列表页只显示发布日期（如 2026-10-01、2026-10-02），未显示截止日，需进入各岗位页核对。</sub> | ❔ | 列表页可见 2026 年 10 月发布的 PhD（ISAC，6G，页面称 fully funded）与博后（嵌入式系统、无人机与无线通信）岗位；截止日未在列表中显示。 |
 | [阿利坎特神经科学研究所（IN, CSIC-UMH）岗位页](https://in.umh-csic.es/en/the-institute/job-offers/)<br><sub>西班牙 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>🟢 开放申请</sub><br><sub>页面列出的博士岗位截止为 2026 年 10 月 31 日（两个 4 年全职资助博士岗位）；MRI 研究项目的博后/博士岗位截止为 2026 年 11 月 1 日。以各岗位页为准。</sub> | ❔ | 页面列出 IN 各课题组岗位，包括 4 年全职资助博士岗位与 MRI 研究项目的博后/博士岗位。页面未提及 PID2025 项目或 10 月 1 日截止。 |
+
+<a id="recruiting-posts"></a>
+
+## 导师招生帖（社交平台个人发布）（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Print4Life 博士网络（生物医学增材制造）](https://www.uu.se/en/department/materials-science-and-engineering/research/divisions/biomedical-engineering/biomaterial-systems/print4life)<br><sub>瑞典·西班牙·爱尔兰·葡萄牙·德国·瑞士 ｜ 工程·医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2025 轮岗位（如 Hereon DC12，2025-11-26 截止）已过；当前空缺需查 Uppsala 招聘页</sub> | ❔ | MSCA 博士网络 Print4Life（2025-10 至 2029-09），由 Uppsala 大学协调，多家机构招博士生，岗位为受雇身份。已知 2025 轮岗位已截止，请关注该页及各机构后续岗位。 |
 

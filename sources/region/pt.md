@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 葡萄牙（PT） 信源（12）
+# 葡萄牙（PT） 信源（13）
 
-所有标注了地区 PT 的信源，共 12 条。
+所有标注了地区 PT 的信源，共 13 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [各国学术招聘门户与机构职位页 1](pt.md#national-portals) · [政府与国家级奖学金 2](pt.md#gov-scholarships) · [结构化博士项目与研究机构 6](pt.md#doctoral-programs) · [博士后奖学金与项目 2](pt.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](pt.md#fellowships)
+**按分类跳转：** [各国学术招聘门户与机构职位页 1](pt.md#national-portals) · [政府与国家级奖学金 2](pt.md#gov-scholarships) · [结构化博士项目与研究机构 6](pt.md#doctoral-programs) · [博士后奖学金与项目 2](pt.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](pt.md#fellowships) · [导师招生帖（社交平台个人发布） 1](pt.md#recruiting-posts)
 
 <a id="national-portals"></a>
 
@@ -56,4 +56,12 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [INPhINIT “la Caixa” 博士奖学金（Incoming，西班牙/葡萄牙）](https://www.crg.eu/es/node/23039)<br><sub>西班牙·葡萄牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 Incoming 轮已关闭；2027 轮未见公告，需关注 la Caixa 官网。</sub> | ❔ | 官网页面列出 30 个名额、最长 4 年全额资助（含劳务与科研费用、学费）；页面同时给出 2026 年 1 月 28 日与 2 月 18 日两个截止日期，以当期公告为准。 |
+
+<a id="recruiting-posts"></a>
+
+## 导师招生帖（社交平台个人发布）（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Print4Life 博士网络（生物医学增材制造）](https://www.uu.se/en/department/materials-science-and-engineering/research/divisions/biomedical-engineering/biomaterial-systems/print4life)<br><sub>瑞典·西班牙·爱尔兰·葡萄牙·德国·瑞士 ｜ 工程·医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2025 轮岗位（如 Hereon DC12，2025-11-26 截止）已过；当前空缺需查 Uppsala 招聘页</sub> | ❔ | MSCA 博士网络 Print4Life（2025-10 至 2029-09），由 Uppsala 大学协调，多家机构招博士生，岗位为受雇身份。已知 2025 轮岗位已截止，请关注该页及各机构后续岗位。 |
 

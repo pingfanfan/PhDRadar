@@ -149,6 +149,33 @@ def test_local_language_ads():
     assert [a["id"] for a in rank.rank(rows, p, TODAY)["ranked"]] == ["no"]
 
 
+AF_ROWS = [job("ma", "Machine learning PhD", d=["ai"], af={"dg": ["硕士学位", "A Master's degree in computer science"]}),
+            job("fr", "Machine learning PhD", d=["ai"], af={"lg": ["", "Fluency in both French and English is required."]}),
+            job("fr2", "Machine learning PhD", d=["ai"], af={"lg": ["", "Excellent English; French is an asset."]}),
+            job("fr3", "Machine learning PhD", d=["ai"], af={"lg": ["", "Excellent communication skills in English or French."]}),
+            job("early", "Machine learning PhD", d=["ai"], af={"sd": ["2027 年 1 月 1 日", "Start date: 1 January 2027"]}),
+            job("flex", "Machine learning PhD", d=["ai"], af={"sd": ["2027 年 1 月 1 日或协商", "1 January 2027 or as agreed"]}),
+            job("ielts", "Machine learning PhD", d=["ai"], af={"lg": ["", "IELTS 7.5 overall"]}),
+            job("de-c1", "Machine learning PhD", d=["ai"], lt="德语 C1 / 英语 B2"),
+            job("de-a2", "Machine learning PhD", d=["ai"], lt="德语 A2 / 英语 C1"),
+            job("de-list", "Machine learning PhD", d=["ai"], lt="德语、英语")]
+
+
+def test_structured_application_fields():
+    # 工程 A 的申请须知字段 af：学位、语言（“加分项”不算要求）、开始时间（“或协商”不算确定日期）
+    rows = AF_ROWS
+    p = {"research": {"keywords": ["machine learning"]}, "education": [{"degree": "bachelor"}],
+         "target": {"levels": ["phd"], "start": "2027-09"}, "languages": {"ielts": 7.0}}
+    ex = {a["id"]: " ".join(a["excluded"]) for a in rank.rank(rows, p, TODAY)["excluded"]}
+    assert "要求硕士学位" in ex["ma"] and "要求法语" in ex["fr"] and "开始时间 2027-01" in ex["early"] and "雅思要求 7.5" in ex["ielts"]
+    assert not {"fr2", "fr3", "flex", "de-a2", "de-list"} & set(ex)
+    assert "要求德语 C1" in ex["de-c1"]
+    p2 = {**p, "languages": {"ielts": 7.0, "german": "C1"}}
+    assert "de-c1" not in {a["id"] for a in rank.rank(rows, p2, TODAY)["excluded"]}
+    p["languages"]["other"] = [{"lang": "法语", "level": "C1"}]
+    assert "fr" not in {a["id"] for a in rank.rank(rows, p, TODAY)["excluded"]}
+
+
 def test_security_screening_penalty():
     rows = [job("a", "Quantum materials PhD", d=["physics"]),
             job("b", "Quantum materials PhD", d=["physics"], fl=["security-screening"])]
@@ -189,7 +216,7 @@ const r = require(process.argv[1]); const fs = require('fs');
 const inp = JSON.parse(fs.readFileSync(0, 'utf8'));
 const out = inp.profiles.map(p => { const res = r.rank(inp.rows, p, inp.rules, inp.today);
   return {ranked: res.ranked.map(a => [a.id, a.score, a.reasons]), related: res.related.map(a => [a.id, a.score]), excluded: res.excluded.map(a => [a.id, a.excluded]),
-          unrelated: res.unrelated, considered: res.considered, disc: res.disc}; });
+          unrelated: res.unrelated, considered: res.considered, disc: res.disc, kw_df: res.kw_df}; });
 process.stdout.write(JSON.stringify(out));
 """
     inp = json.dumps({"rows": rows, "profiles": profiles, "rules": rules(), "today": today.isoformat()}, ensure_ascii=False)
@@ -204,7 +231,7 @@ def run_py(rows, profiles, today):
         out.append({"ranked": [[a["id"], a["score"], a["reasons"]] for a in res["ranked"]],
                     "related": [[a["id"], a["score"]] for a in res["related"]],
                     "excluded": [[a["id"], a["excluded"]] for a in res["excluded"]],
-                    "unrelated": res["unrelated"], "considered": res["considered"], "disc": res["disc"]})
+                    "unrelated": res["unrelated"], "considered": res["considered"], "disc": res["disc"], "kw_df": res["kw_df"]})
     return out
 
 
@@ -220,6 +247,9 @@ PROFILES = [
 @pytest.mark.skipif(not shutil.which("node"), reason="需要 node")
 def test_js_matches_python_on_fixtures():
     assert run_js(ROWS, PROFILES, TODAY) == run_py(ROWS, PROFILES, TODAY)
+    p = {"research": {"keywords": ["machine learning"]}, "education": [{"degree": "bachelor"}],
+         "target": {"levels": ["phd"], "start": "2027-09"}, "languages": {"ielts": 7.0, "other": ["Swedish"]}}
+    assert run_js(AF_ROWS, [p, PROFILE], TODAY) == run_py(AF_ROWS, [p, PROFILE], TODAY)
 
 
 @pytest.mark.skipif(not shutil.which("node"), reason="需要 node")
@@ -233,3 +263,17 @@ def test_js_matches_python_on_catalog():
     rows = [x for x in json.loads(path.read_text(encoding="utf-8")) if x.get("o")]
     profiles = PROFILES + yaml.safe_load((ROOT / "tests" / "rank_eval_profiles.yml").read_text(encoding="utf-8"))
     assert run_js(rows, profiles, TODAY) == run_py(rows, profiles, TODAY)
+
+
+def test_cli_with_example_profile(tmp_path):
+    # profile.example.yml 能直接跑通 rank.py，写出 Markdown 与 JSON（输出目录用临时目录，不碰 rankings/）
+    rows = ROWS + AF_ROWS
+    cat = tmp_path / "catalog.json"
+    cat.write_text(json.dumps(rows, ensure_ascii=False), encoding="utf-8")
+    p = subprocess.run([sys.executable, str(ROOT / "scripts" / "rank.py"), "--profile", str(ROOT / "profile.example.yml"),
+                        "--catalog", str(cat), "--today", "2026-10-19", "--out", str(tmp_path / "out")],
+                       capture_output=True, text=True, check=True)
+    md = (tmp_path / "out" / "2026-10-19.md").read_text(encoding="utf-8")
+    assert "# 为你排序的机会（2026-10-19）" in md and "被排除的机会" in md
+    data = json.loads((tmp_path / "out" / "2026-10-19.json").read_text(encoding="utf-8"))
+    assert data["date"] == "2026-10-19" and "推荐" in p.stdout

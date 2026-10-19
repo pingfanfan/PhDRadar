@@ -308,10 +308,11 @@ NOT_CLAIM = (r"(am|'m) (writing|interested|applying|excited|keen|glad|happy|grat
              r"plan|intend|can|could|should|may|might|read|noticed|came across|saw|learned of|understand|see|note|wonder|appreciate|"
              r"apply|(have )?(a |one |two |three |some |a few |several )(specific |short |brief |quick )?(questions?|quer(y|ies))|"
              r"(have |had |do |did |am )?(not|never|no|little|limited)\b|haven't|hadn't|didn't|don't|lack|am name\b|name\b|am also|also (hope|would|wish)|welcome|thank|attach|enclose|apologi[sz]e|feel|find|found your|was (glad|excited|pleased) to")
+EXP_EN_NOSUBJ = re.compile(r"^\s*(having|after|since|while|as an?|as the)\s+(served|worked|been|led|completed|studied|interned|taught|published|won|received|developed|built|conducted)\b", re.I)
 EXP_EN = re.compile(r"\b(I|I've|I'd|I'm)\s+(?:(?:also|recently|previously|then|further|additionally|currently|have|had|already|personally)\s+)*(?!(?:also|recently|previously|then|further|additionally|currently|have|had|already|personally|" + NOT_CLAIM + r")\b)[a-z0-9]"
                     r"|\bmy\s+(?!(?:background|interests?|motivation|application|cv|questions?|enquiry|inquiry|email|letter|name|availability|plans?|goals?)\b)(?:[\w'-]+\s+){0,2}?(thesis|dissertation|papers?|publications?|projects?|internships?|research|experience|degree|master'?s|bachelor'?s|msc|bsc|gpa|grades?|ranking|"
                     r"supervisor|advisor|award|skills?|first-author|training|expertise|synthesis|testing|experiments?|measurements?|results?|analys[ie]s|stud(y|ies)|code|models?|data|work on|work with)\b", re.I)
-EXP_ZH = re.compile(r"(我|本人)(曾|在|参与|负责|主导|发表|获得|获|完成|开发|设计|实现|带领|担任|本科|硕士|毕业|就读|研究了|做过|有.{0,6}(经验|基础|积累))"
+EXP_ZH = re.compile(r"(我|本人)(曾|在|参与|负责|主导|发表|获得|获|完成|开发|设计|实现|带领|担任|本科|硕士|毕业|就读|研究了|做过|有.{0,6}(经验|基础|积累))|^曾(担任|在|经|参与|获|负责|主持)|(?<![\w])曾(担任|任|参与|主持)"
                     r"|(我|本人)[^，。,；;！？\s]{0,6}过|我的(硕士|本科|博士|毕业|课题|论文|项目|研究|经历|经验|成绩|排名|技能|背景)"
                     r"|^(已有|我已有|现有)?(方法)?积累[：:]|^已有(方法|技术|经验)")
 HYPE = re.compile(r"\b(passionate|world[- ]class|cutting[- ]edge|groundbreaking|ground-breaking|outstanding|exceptional|excellent|perfect (fit|match)|dream|"
@@ -332,13 +333,13 @@ CLAIMS = [
     ("第一作者", r"\bfirst[- ]author(ed)?\b|\blead author\b|第一作者|一作", r"first[- ]author|lead author|第一作者|一作|共同一作"),
     ("共同第一作者", r"\bco-?first\b|\bequal contribution\b|共同一作|共同第一", r"co-?first|equal contribution|共同一作|共同第一"),
     ("通讯作者", r"\bcorresponding author\b|通讯作者", r"corresponding author|通讯作者"),
-    ("已接收", r"\baccepted\b|\bin press\b|已接收|被接收|录用", r"accepted|in press|接收|录用|published|发表"),
+    ("已接收", r"\baccepted\b|\bin press\b|已接收|被接收|已被.{0,40}接受|录用", r"accepted|in press|接收|录用|published|发表"),
     ("已发表", r"\bpublished\b|\bappeared in\b|已发表|发表于|发表在", r"published|appeared|发表|\b(19|20)\d\d\b.*(journal|proceedings|conference)|accepted"),
     ("口头报告 / 亮点", r"\b(oral|spotlight)( presentation| talk)?\b|口头报告", r"oral|spotlight|口头报告"),
     ("最佳论文", r"\bbest (paper|poster|student paper)\b|最佳论文", r"best (paper|poster|student paper)|最佳论文"),
     ("专利", r"\bpatents?\b|专利", r"patent|专利"),
-    ("主导 / 带领", r"\bI (led|headed|directed|supervised|managed)\b|\bas (the )?(team |project )?lead(er)?\b|主导|主持|带领|领导了", r"\blead\b|\bled\b|leader|\bheaded\b|\bsupervised\b|\bmanaged\b|主导|主持|带领|负责人|组长"),
-    ("独立完成", r"\bindependently\b|\bsingle-handedly\b|\bon my own\b|\bby myself\b|\b(built|designed|wrote|developed|did|ran|implemented|made|created)\b[^.]{0,60}\bmyself\b|\bfrom scratch\b|\b(mostly|largely|entirely) my own\b|\bmy own work\b|\bmain contribution\b|\bsole\b|独立完成|独自|一人完成|主要贡献",
+    ("主导 / 带领", r"\bI (led|headed|directed|supervised|managed)\b|\bas (the )?(team |project |course project )?lead(er)?\b|\bwas (the )?(\w+ ){0,3}(lead|leader|head|coordinator)\b|主导|主持|带领|领导了|负责人|组长|带头", r"\blead\b|\bled\b|leader|\bheaded\b|\bsupervised\b|\bmanaged\b|主导|主持|带领|负责人|组长"),
+    ("独立完成", r"\bindependently\b|\bsingle-handedly\b|\bon my own\b|\bby myself\b|\b(built|designed|wrote|developed|did|ran|implemented|made|created)\b[^.]{0,60}\bmyself\b|\bfrom scratch\b|\b(mostly|largely|entirely) my own\b|\bmy own work\b|\bmain contribution\b|\bsole\b|独立(完成|设计|运行|开展|搭建|负责|操作)|独自|一人完成|主要贡献|均由我|全部由我|都由我",
      r"independent|sole|from scratch|main contribution|独立|独自|主要贡献"),
     ("排名", r"\b(top|ranked|ranking)\b|排名|前\s*\d+\s*%", r"top|rank|排名|前\s*\d"),
     ("奖项 / 奖学金", r"\b(award(ed)?|prize|scholarship|fellowship|medal|honou?r)s?\b|奖学金|获奖|奖项|荣誉", r"award|prize|scholarship|fellowship|medal|honou?r|奖"),
@@ -348,14 +349,25 @@ CLAIMS = [
      r"cit(ed|ation)|adopted|deployed|used by|featured|cover|media|被引|采用|封面|报道"),
     ("首次 / 新颖", r"\bnovel\b|\bnever (been )?(reported|done|seen)\b|\bfor the first time\b|\bfirst to\b|\bpioneer|首次|首创|开创|填补.{0,4}空白",
      r"novel|first time|never|首次|首创"),
-    ("结论强度", r"\b(completely|entirely|fully) (eliminat|solv|prevent|remov|suppress)|\bproved?\b|\bguarantee|\boutperform|\bstate-of-the-art\b|\bsignificantly\b|\bsuperior\b|彻底|完全(消除|解决)|证明了|显著(提升|提高)|优于",
+    ("结论强度", r"\b(completely|entirely|fully) (eliminat|solv|prevent|remov|suppress)|\bproved?\b|\bguarantee|\boutperform|\bstate-of-the-art\b|\bsignificantly\b|\bsuperior\b|彻底|完全(消除|解决)|证明了|显著|明显(提|改|延|降|增)|大幅|极大|优于|翻倍|\bdoubled\b|\bhalved\b|\b\w+fold\b",
      r"complete|entire|eliminat|prov(ed|e)|guarantee|outperform|state-of-the-art|significant|superior|彻底|完全|证明|显著|优于"),
     ("责任范围", r"\b(responsible for|in charge of|oversaw|oversee)\b|全权|负责全部|负责整个", r"responsib|in charge|oversaw|lead|led|manag|负责"),
-    ("全称量词", r"\b(all of (them|which|these|the)|every one|each of (them|the)|without exception|in every case|consistently)\b|全部|所有|均达到|无一例外",
+    ("全称量词", r"\b(all of (them|which|these|the)|all \d+|every one|each of (them|the)|in each (section|case|of)|without exception|in every case|consistently)\b|全部|所有|均达到|均不低于|均(在|为|达)|每项|各项|无一例外|每一",
      r"\ball\b|every|each|consistent|全部|所有|均"),
+    ("成果物", r"\b(posters?|open[- ]source|packages?|software|librar(y|ies)|datasets?|patents?|talks?|preprints?|app|website|tool ?kit)\b|海报|口头报告|软件|代码库|开源|数据集|专利|小程序",
+     None),
+    ("熟练程度", r"\b(extensive|extensively|proficien\w*|expert\w*|advanced|strong command|fluent\w*|mastery|in-depth|deep (knowledge|expertise)|routinely|regularly|frequently|years of)\b|长期|丰富|深厚|娴熟|精通|熟练|扎实|深入",
+     None),
+    ("独占", r"\b(the only|the sole|sole operator|exclusively)\b|唯一", None),
+    ("职位身份", r"\b(teaching assistants?|TA|intern(ship)?s?|staff|employee|technician|engineer|manager|lecturer|tutor|instructor|postdoc)\b|助教|实习|员工|职员|技术员|工程师|讲师|正式",
+     None),
+    ("指导培训他人", r"\b(mentor(ed|ing)?|train(ed|ing)? (new|junior|other|students|colleagues|volunteers)|taught|supervis(ed|ing) (students|juniors|undergraduates))\b|培训了?|指导了?(新|学弟|学妹|本科)|带(过|了)?(新同学|学生)",
+     r"mentor|train|taught|teach|supervis|培训|指导|带教"),
+    ("名次", r"\branked (first|second|third|top|\d+(st|nd|rd|th))\b|\b\d+(st|nd|rd|th) (out )?of \d+|第[一二三四五六七八九十\d]+名|排名第", None),
+    ("论文用途", r"用于(发表|论文)|数据已(发表|用于)|\b(data|results) (were|was|have been) (published|used in)\b", None),
     ("频率", r"\b(every (day|week|month)|daily|weekly|monthly|twice a (day|week|month)|once a (day|week|month)|three times a (day|week))\b|每天|每周|每月|每日",
      None),  # 频率说法原样出现在出处里才行
-    ("研究结论", r"\b(showed|shows|demonstrated|revealed|found) that\b|结果表明|发现了?", r"show|demonstrat|reveal|found|result|kept|reduced|improv|表明|发现|结果"),
+    ("研究结论", r"\b(showed|shows|demonstrated|revealed|found|established|concluded|confirmed) that\b|结果表明|发现了?|结论(是|为)|证实|揭示|得出", r"show|demonstrat|reveal|found|result|kept|reduced|improv|表明|发现|结果"),
 ]
 
 
@@ -382,7 +394,7 @@ def num_norm(n: str) -> str:
 
 
 def numbers_in(text: str) -> set[str]:
-    out = {num_norm(n) for n in NUM_RE.findall(text)}
+    out = {num_norm(n) for n in NUM_RE.findall(text)}  # 不收“L8 R8.5”里贴着字母的分项分：否则总分写成 8.0 也能通过
     for m in re.finditer(r"\b(" + "|".join(list(NUM_WORDS)[2:]) + r")\b", text, re.I):
         out.add(NUM_WORDS[m.group(1).lower()])
     for m in re.finditer(r"(?<!第)([两二三四五六七八九十])(篇|项|个|次|年|门|份|位|届|名)", text):
@@ -535,6 +547,143 @@ def misattributed(body: str, cited: list[str], facts: dict[str, str]) -> str | N
     return None
 
 
+# —— 白名单：带 [cv:…] 的句子里，实词（动词、名词、形容词）的词干必须在所引出处里（同义词组互通）——
+# 黑名单（CLAIMS）挡不住同义改写（ran / coordinated / mentored / set up…），所以经历句反过来要求“出处里有才许写”。
+SYNONYMS = [
+    "implement build built develop code coded program wrote write creat construct set setup install configur establish",
+    "run ran conduct perform carri complet undertak did do done",
+    "measur quantif record monitor track assess",
+    "analy process evaluat comput",
+    "synthe prepar made make fabric",
+    "assist help support contribut",
+    "operat maintain handl",
+    "studi study investig research examin explor",
+    "use used using appli employ utili",
+    "obtain earn receiv award won win achiev score scored hold held gain",
+    "author wrote write draft",
+    "lead led leader coordinat manag supervis direct head",
+    "cycle cycled test tested assembl",
+    "estimat infer",
+    "reduc lower decreas cut",
+    "improv increas boost",
+    "survey transect",
+    "characteri",
+    "rank ranking ranked top placed",
+    "publish published appear appeared",
+]
+SYN = {}
+for _g in SYNONYMS:
+    _ws = set(_g.split())
+    for _w in _ws:
+        SYN.setdefault(_w, set()).update(_ws)
+GENERIC = set("""also about across after alongside another around based before between both closely
+directly during especially final focus focused focusing further including interest interested itself least main mainly
+more most other overall particularly previous previously recent recently related relevant second similar specifically such
+their there these thing those through together toward towards using very well where which while with within would years
+months weeks project projects research work worked experience experiences thesis dissertation degree paper papers study course
+team group school university department cohort student students studentship position advert area areas topic topics
+approach method methods results result background skills skill programme program master masters bachelor bachelors msc bsc
+phd doctoral member aspects aspect part parts kind kinds level levels basic basics hands involved involving include includes
+gave give given role took take taken this that what them they from have been being into onto upon over under than then
+each every some many much several various same different able ability help reading writing listening speaking
+sub-scores subscores band bands section sections overall certificate certification qualification qualifications data use uses
+like start starting date dates close closest only applicant applicants limited learning learn statement technical separately
+score scored scores author authors studies studied among interests enquiry regarding could should might
+january february march april june july august september october november december""".split())
+# 出处常是中文转述 + 英文原句：常见词的中英对应，英文句子里的词在中文出处里出现也算有依据
+BILINGUAL = {"analys": "分析", "analyz": "分析", "coral": "珊瑚", "exper": "实验|经历|经验", "data": "数据", "batter": "电池",
+             "cell": "电池|细胞", "model": "模型", "sampl": "样品|样本|采样", "surve": "调查|调研", "measu": "测|测量", "synth": "合成",
+             "struc": "结构", "simul": "模拟|仿真", "fluor": "荧光", "photo": "光", "therm": "热", "heat": "热", "aquar": "水族|养殖",
+             "volun": "志愿", "maint": "维护", "opera": "操作", "field": "野外|实地", "certi": "证书", "divin": "潜水", "diver": "潜水",
+             "stati": "统计", "first-author": "第一作者|一作|first author", "second-author": "第二作者|二作|second author", "appea": "发表|publish", "ranki": "排名|top", "gpa": "绩点|均分", "stude": "学生", "thesi": "论文", "paper": "论文", "publi": "发表", "schol": "奖学金", "award": "奖",
+             "assis": "协助|助理", "resea": "研究", "super": "导师|prof\\.|dr\\.|supervisor", "proje": "项目|课题", "cours": "课程", "teamw": "团队", "team": "团队|小组"}
+DEGREE_VERBS = {"completed", "complete", "hold", "holding", "obtained", "earned", "graduated", "awarded", "finished", "studied"}
+
+
+def stem_ok(word: str, own_words: set[str], own_text: str) -> bool:
+    w = word.lower()
+    if w in GENERIC or w in STOP or len(w) < 4 and w not in SYN:
+        return True
+    zh = next((v for k, v in BILINGUAL.items() if w.startswith(k)), None)
+    if zh and re.search(zh, own_text):
+        return True
+    if w in DEGREE_VERBS and re.search(r"\b(msc|bsc|ba|ma|meng|beng|mphil|mres|phd|degree|master|bachelor|certificate|diver|licen[cs]e)|学士|硕士|博士|学位|证书", own_text):
+        return True  # “I completed my MSc …”：学位条目本身就是完成 / 获得
+    cands = {w[:5]} | {x[:5] for x in SYN.get(w, ())} | {x[:5] for k, v in SYN.items() if w.startswith(k) for x in v}
+    return any(c in own_words for c in cands)  # 只按词首比：子串会让 simplex 里的 imple、cycled 里的 led 冒充依据
+
+
+def unsupported_words(seg: str, own: str) -> list[str]:
+    """英文实词：出处里（按前 5 个字母的词干或同义词组）找不到的词。"""
+    own_l = own.lower()
+    own_words = {t[:5] for t in re.findall(r"[a-z]{3,}", own_l)}
+    words = [w for t in re.findall(r"(?<![\w-])[A-Za-z][a-z\-]{2,}(?![\w-])", seg) for w in t.split("-") if len(w) >= 3]  # 连字符词拆开比
+    return list(dict.fromkeys(w for w in words if not stem_ok(w, own_words, own_l)))
+
+
+def segments(s: str) -> tuple[list[tuple[str, list[str]]], str]:
+    """按出处标记把句子切成片段：每段文字归它后面紧跟的那个标记；最后一个标记之后的尾巴单独返回（当作没有出处的话检查）。"""
+    out, last, cites = [], 0, list(CITE.finditer(s))
+    for m in cites:
+        out.append((s[last:m.start()], [m.group(0)]))
+        last = m.end()
+    return out, (s[last:] if cites else "")
+
+
+UNIT_ZH = {"week": "周", "month": "月", "day": "天|日", "year": "年", "tank": "缸", "cell": "电池|个", "cycle": "圈|次|循环",
+           "cluster": "团簇|种", "paper": "篇", "student": "名|位|人", "member": "名|位|人", "people": "名|位|人", "sample": "个|份"}
+SECTIONS = {"l": "listening|听力", "r": "reading|阅读", "w": "writing|写作", "s": "speaking|口语"}
+
+
+def digits(text: str) -> str:
+    return re.sub(r"\b(" + "|".join(list(NUM_WORDS)[2:]) + r")\b", lambda m: NUM_WORDS[m.group(1).lower()], text, flags=re.I)
+
+
+def unit_mismatch(text: str, own: str) -> list[str]:
+    """数字要带着出处里的单位：出处是“6-week … 12-tank”，句子写“12 weeks”就不对（只比英文单位；出处是中文时查对应字）。"""
+    own_d = digits(own).lower()
+    out = []
+    for m in re.finditer(r"(?<![\w./])(\d+(?:\.\d+)?)(?:\s*-\s*|\s+)(?:(?:more|than|of|the|my|our)\s+)?([a-z]{3,})", digits(text).lower()):
+        n, unit = m.group(1), m.group(2)
+        if unit in STOP or unit in GENERIC and unit not in ("years", "months", "weeks"):
+            continue
+        hits = [o for o in re.finditer(r"(?<![\w./])" + re.escape(n) + r"(?![\w.]|\.\d)", own_d)]
+        if not hits:
+            continue  # 数字本身不在出处里，另有规则报错
+        u4, zh = unit[:4], next((v for k, v in UNIT_ZH.items() if unit.startswith(k)), None)
+        ok = False
+        for o in hits:
+            after = own_d[o.end():o.end() + 40]
+            before = own_d[max(0, o.start() - 30):o.start()]
+            nxt = re.findall(r"[a-z]{3,}", after)[:3]
+            if any(w.startswith(u4) for w in nxt) or u4 in before.split()[-2:] or any(w.startswith(u4) for w in before.split()[-2:]):
+                ok = True
+            elif zh and re.match(r"\s*(" + zh + ")", after):
+                ok = True
+            elif not re.match(r"\s*-?\s*[a-z]", after) and not (zh is None and re.match(r"\s*[一-鿿]", after)):
+                ok = ok or not nxt[:1] and not re.match(r"\s*[一-鿿]", after)
+        if not ok:
+            out.append(f"{n} {unit}")
+    for m in re.finditer(r"(?<![\w.])(\d+(?:\.\d+)?)\s*(%|percent|个百分点)", text):  # 百分数要和出处里的百分数一致
+        if not re.search(r"(?<![\w.])" + re.escape(m.group(1)) + r"\s*(%|percent)", own_d):
+            out.append(m.group(1) + "%")
+    return out
+
+
+def tense_error(text: str, own: str, today: date | None = None) -> bool:
+    """句子说“正在 / currently”，所引条目却已经结束（结束日期早于今天，且没写在读 / expected）。"""
+    if not re.search(r"\b(currently|now|ongoing|at present|presently|still)\b|正在|目前(在|正)|至今", text, re.I):
+        return False
+    if re.search(r"ongoing|expected|present|至今|在读|预计", own, re.I):
+        return False
+    ends = re.findall(r"((?:19|20)\d\d)-(\d\d)", own)
+    if not ends:
+        return False
+    y, m = max((int(a), int(b)) for a, b in ends)
+    t = today or date.today()
+    return (y, m) < (t.year, t.month)
+
+
 def check_sentence(s: str, facts: dict[str, str], lab: dict[str, str], post: str | None, base: str) -> tuple[list[str], list[str]]:
     errs, warns = [], []
     cited_cv, cited_lab, cited_post = [], [], False
@@ -573,6 +722,15 @@ def check_sentence(s: str, facts: dict[str, str], lab: dict[str, str], post: str
     if not (cited_cv or EXP_EN.search(text) or EXP_ZH.search(text)):  # 不讲经历的句子里，计划用的时长（前 6 个月、Year 1）不算事实
         for m in list(DURATION_RE.finditer(text)) + list(re.finditer(r"\b(\d+|two|three|four)\s+(\w+\s+)?(questions?|quer(y|ies))\b", text, re.I)):
             plan_nums |= numbers_in(m.group(0))
+    for m in re.finditer(r"(?<![A-Za-z])([LRWS])\s?(\d+(?:\.\d+)?)", allowed):  # 雅思分项“L8 R8.5”：句子提到对应分项才算
+        if re.search(SECTIONS[m.group(1).lower()], text, re.I):
+            nums.add(num_norm(m.group(2)))
+    if cited_cv:  # 雅思 / 托福分项分：句子讲某一分项的分数，出处里要有这一分项（“L8 R8.5”）
+        for m in re.finditer(r"\b(listening|reading|writing|speaking)\b[^.;,，。]{0,25}?(\d+(?:\.\d+)?)|(听力|阅读|写作|口语)[^.;,，。]{0,10}?(\d+(?:\.\d+)?)", text, re.I):
+            sec, val = (m.group(1) or m.group(3)), (m.group(2) or m.group(4))
+            letter = {"listening": "L", "reading": "R", "writing": "W", "speaking": "S", "听力": "L", "阅读": "R", "写作": "W", "口语": "S"}[sec.lower()]
+            if not re.search(r"(?<![A-Za-z])" + letter + r"\s?" + re.escape(val) + r"(?![\d.])", allowed):
+                errs.append(f"分项成绩 {sec} {val} 在所引出处里找不到")
     for n in sorted(numbers_in(text) - nums - plan_nums):
         errs.append(f"数字 {n} 不在所引出处里")
     for groups in QUOTED.findall(text):
@@ -593,10 +751,54 @@ def check_sentence(s: str, facts: dict[str, str], lab: dict[str, str], post: str
                 errs.append(f"句子说的是{label}阶段，所引出处里没有{label}")
     if cited_cv:  # 只查申请者自己的经历句；讲导师论文或岗位的句子不受此限
         own = " ".join(facts.get(i, "") for i in cited_cv)
+        counted = len(cited_cv) >= 2 and re.search(r"\b(two|three|four|both|\d+)\s+(\w+[- ])?\w+|[两二三四]\s*[篇项个]", text, re.I)
+        plain = text
+        for nm in proper_names(text):  # “PADI Advanced Open Water Diver”里的 Advanced 不是熟练程度
+            plain = plain.replace(nm, " ")
         for label, said, need in CLAIMS:
-            m = re.search(said, text, re.I)
-            if m and not re.search(need or re.escape(m.group(0)), own, re.I):
+            m = re.search(said, plain, re.I)
+            if not m:
+                continue
+            rx = need or re.escape(m.group(0))
+            if not re.search(rx, own, re.I):
                 errs.append(f"“{label}”的说法在所引出处里找不到" + (f"：{m.group(0)}" if need is None else ""))
+            elif counted and not all(re.search(rx, facts.get(i, ""), re.I) for i in cited_cv):
+                errs.append(f"“{label}”的说法不是每条所引出处都有（“两篇一作”要求两条出处都是一作）")
+    segs, tail = segments(s)
+    for seg, marks in segs:  # 标 [post] / [lab] 的那段只能讲岗位或论文，不能夹带自己的经历
+        if not marks[0].startswith("[cv:") and (EXP_EN.search(seg) or re.search(r"(我|本人)(曾|有|做过|用过|操作过|参与|负责|完成|掌握)", seg)):
+            errs.append(f"{marks[0]} 那一段写了自己的经历：经历要标 [cv:…] 出处")
+    if cited_cv:
+        own_all = " ".join(facts.get(i, "") for i in cited_cv)
+        for m in re.finditer(r"\b(graduated|completed|finished|obtained|received|awarded|earned)\b[^.;]{0,80}?\b(?:in|by)\s+((?:19|20)\d\d)\b|((?:19|20)\d\d)\s*年?毕业", text, re.I):
+            y = m.group(2) or m.group(3)
+            ends = [int(a) for a, _ in re.findall(r"((?:19|20)\d\d)-(\d\d)", own_all)] or [int(a) for a in re.findall(r"(?<!\d)((?:19|20)\d\d)(?!\d)", own_all)]
+            if ends and int(y) != max(ends):
+                errs.append(f"毕业 / 获得年份 {y} 与所引条目的结束年份 {max(ends)} 不符")
+    if tail.strip(" .。,，;；?？!！") and (EXP_EN.search(tail) or EXP_ZH.search(tail)):
+        errs.append("出处标记后面又写了经历：请把这部分也标上出处，或把标记移到句末")
+    for seg, marks in segs:  # 每段只能用它自己那个出处
+        m = CITE.match(marks[0])
+        if m and m.group(1) == "cv":
+            ids = [i.strip() for i in m.group(2).split(",") if i.strip() in facts]
+            if not ids:
+                continue
+            seg_text = re.sub(r"\b(" + "|".join(list(NUM_WORDS)[2:]) + r")\b", lambda m: NUM_WORDS[m.group(1).lower()], URL_RE.sub(" ", seg), flags=re.I)
+            for nm in proper_names(seg_text):
+                seg_text = seg_text.replace(nm, " ")
+            bad = [w for w in unsupported_words(seg_text, " ".join(facts[i] for i in ids) + " " + base) if not re.search(r"[一-鿿]", w)]
+            if bad:  # 词表层面的检查惩罚改写多于拦住编造（第二轮红队），降为“需核对”，交给证据核对（review.yml）
+                warns.append(f"需核对：这些词在 [cv:{','.join(ids)}] 里没出现：{'、'.join(bad[:6])}")
+    if cited_cv:
+        own = " ".join(facts.get(i, "") for i in cited_cv)
+        cv_text = " ".join(seg for seg, marks in segments(s)[0] if marks[0].startswith("[cv:"))
+        for um in unit_mismatch(cv_text, own):
+            errs.append(f"数字与单位和出处对不上：{um}")
+        if tense_error(text, own):
+            errs.append("句子说“正在 / currently”，但所引条目已经结束")
+        if re.search(r"\bmy (own )?(\w+ ){0,2}(paper|publication|article|study|discovery|finding|work)s?\b|\bis my (own )?work\b|\bI (discovered|found|showed|demonstrated|wrote the paper)\b|我的(论文|文章|发现|工作|成果)", text, re.I) \
+                and re.search(r"second[- ]author|third[- ]author|co-?author|第[二三四]作者|二作|三作", own, re.I) and not re.search(r"first[- ]author|第一作者|一作", own, re.I):
+            errs.append("出处不是第一作者论文：要写明作者位次，不能说成“我的论文 / 我发现”")
     if cited_cv and all(i in facts for i in cited_cv):
         why = misattributed(re.sub(r"\[(lab|post)[^\]]*\]", "", body), cited_cv, facts) if not (cited_lab or cited_post) else None
         if why:
@@ -609,7 +811,7 @@ def check_sentence(s: str, facts: dict[str, str], lab: dict[str, str], post: str
     for nm in proper_names(text):  # “I am Lin Xiaozhou”：申请者 / 导师姓名不算经历
         if covered(nm, norm(base), set(norm(base).split())):
             named = named.replace(nm, "name")
-    if not cited_cv and (EXP_EN.search(named) or EXP_ZH.search(text)):
+    if not cited_cv and (EXP_EN.search(named) or EXP_ZH.search(text) or EXP_EN_NOSUBJ.search(text)):
         errs.append("经历句没有标注 [cv:…] 出处")
     if PLACEHOLDER.search(text):
         errs.append(f"有未填的占位符：{PLACEHOLDER.search(text).group(0)}")
@@ -654,6 +856,66 @@ def check_dir(d: Path, facts_data: dict, profile: dict | None = None) -> dict:
     return out
 
 
+# —— 证据核对（第二层）：审稿子代理为每句经历摘出 cv-facts 里的原文作证据，程序核对证据真的在所引出处里 ——
+def sentence_key(s: str) -> str:
+    import hashlib
+    return hashlib.sha1(norm(CITE.sub("", s)).encode()).hexdigest()[:10]
+
+
+def cv_sentences(d: Path, facts: dict[str, str]):
+    """drafts 里所有带 [cv:…] 的句子：(文件, 行, 句子, 所引 id)。"""
+    for f in sorted((d / "drafts").glob("*.md")) if (d / "drafts").exists() else []:
+        for ln, s in split_sentences(f.read_text(encoding="utf-8")):
+            ids = [i.strip() for m in CITE.finditer(s) if m.group(1) == "cv" for i in m.group(2).split(",") if i.strip()]
+            if ids:
+                yield f.name, ln, s, ids
+
+
+def evidence_template(d: Path, facts_data: dict, profile: dict | None = None) -> list[dict]:
+    """生成 / 更新 evidence.yml：保留已填的条目，新句子追加空条目；附上程序的“需核对”提醒给审稿参考。"""
+    facts = fact_index(facts_data)
+    old = {e.get("key"): e for e in (load_yaml(d / "evidence.yml") or []) if isinstance(e, dict)}
+    res = check_dir(d, facts_data, profile)
+    risk = {(name, ln): [w for _, _, w in r["warnings"] if w.startswith("需核对")] for name, r in res.items() for ln, _, _ in r["warnings"]}
+    out = []
+    for name, ln, s, ids in cv_sentences(d, facts):
+        k = sentence_key(s)
+        e = old.get(k) or {"key": k, "verdict": "", "evidence": [], "note": ""}
+        e.update({"file": name, "line": ln, "sentence": CITE.sub("", s).strip(), "cites": ids,
+                  "risks": risk.get((name, ln), [])})
+        out.append({k2: e[k2] for k2 in ("key", "file", "line", "sentence", "cites", "risks", "verdict", "evidence", "note")})
+    return out
+
+
+def evidence_errors(d: Path, facts_data: dict) -> list[tuple[str, int, str, str]]:
+    """每句经历都要有审稿给出的 supported 结论，证据原文逐字出现在所引出处里，并包含句中的数字。"""
+    facts = fact_index(facts_data)
+    got = {e.get("key"): e for e in (load_yaml(d / "evidence.yml") or []) if isinstance(e, dict)}
+    errs = []
+    for name, ln, s, ids in cv_sentences(d, facts):
+        e = got.get(sentence_key(s))
+        if not e:
+            errs.append((name, ln, s, "evidence.yml 里没有这句：先运行 evidence 并让审稿子代理填写"))
+            continue
+        if e.get("verdict") != "supported":
+            errs.append((name, ln, s, f"审稿结论不是 supported（{e.get('verdict') or '未填'}）：{e.get('note', '')}"))
+            continue
+        quotes = [q for q in e.get("evidence") or [] if isinstance(q, str) and q.strip()]
+        own = norm(" ".join(facts.get(i, "") for i in ids))
+        if not quotes:
+            errs.append((name, ln, s, "supported 但没有给出证据原文"))
+        for q in quotes:
+            if len(q) > 200:
+                errs.append((name, ln, s, f"证据太长（{len(q)} 字）：只摘支持这句的那一小段，不要整条粘贴"))
+            elif norm(q) not in own:
+                errs.append((name, ln, s, f"证据不在所引出处 [cv:{','.join(ids)}] 里：“{q[:80]}”"))
+        cv_text = " ".join(seg for seg, marks in segments(s)[0] if marks[0].startswith("[cv:"))
+        missing = numbers_in(cv_text) - numbers_in(" ".join(quotes)) - ({str(len(ids))} if len(ids) >= 2 else set())
+        if quotes and missing:
+            errs.append((name, ln, s, f"句中的数字 {sorted(missing)} 没有出现在证据里"))
+    return errs
+
+
 def report_md(res: dict) -> str:
     n_err = sum(len(r["errors"]) for r in res.values())
     L = [f"# 事实校验：{'通过' if not n_err else f'{n_err} 处问题'}", "",
@@ -670,9 +932,28 @@ def report_md(res: dict) -> str:
     return "\n".join(L)
 
 
+def with_evidence(res: dict, d: Path, facts_data: dict) -> dict:
+    for name, ln, s, why in evidence_errors(d, facts_data):
+        res.setdefault(name, {"errors": [], "warnings": []})["errors"].append((ln, s, "证据核对：" + why))
+    return res
+
+
+def cmd_evidence(args) -> int:
+    d = Path(args.dir)
+    rows = evidence_template(d, load_yaml(find_facts(args.facts)) or {}, load_yaml(ROOT / "profile.yml"))
+    (d / "evidence.yml").write_text("# 审稿子代理填写：verdict 写 supported / unsupported；evidence 逐字摘录 cv-facts 里支持这句的原文（每个数字都要在证据里）\n"
+                                    + yaml.safe_dump(rows, allow_unicode=True, sort_keys=False, width=200), encoding="utf-8")
+    todo = sum(1 for r in rows if r["verdict"] != "supported")
+    print(f"→ {d / 'evidence.yml'}：{len(rows)} 句经历，{todo} 句待审稿填写证据")
+    return 0
+
+
 def cmd_check(args) -> int:
     d = Path(args.dir)
-    res = check_dir(d, load_yaml(find_facts(args.facts)) or {}, load_yaml(ROOT / "profile.yml"))
+    facts_data = load_yaml(find_facts(args.facts)) or {}
+    res = check_dir(d, facts_data, load_yaml(ROOT / "profile.yml"))
+    if args.require_evidence:
+        res = with_evidence(res, d, facts_data)
     (d / "check-report.md").write_text(report_md(res), encoding="utf-8")
     n_err = sum(len(r["errors"]) for r in res.values())
     for name, r in res.items():
@@ -688,8 +969,9 @@ def strip_cites(text: str) -> str:
 
 def cmd_clean(args) -> int:
     d = Path(args.dir)
-    res = check_dir(d, load_yaml(find_facts(args.facts)) or {}, load_yaml(ROOT / "profile.yml"))
-    if any(r["errors"] for r in res.values()) and not args.force:
+    facts_data = load_yaml(find_facts(args.facts)) or {}
+    res = with_evidence(check_dir(d, facts_data, load_yaml(ROOT / "profile.yml")), d, facts_data)  # 定稿必须过证据核对
+    if any(r["errors"] for r in res.values()):  # 没有绕过选项：定稿草稿一定是校验和证据都通过的
         print("校验没通过，先改稿（见 check-report.md）")
         (d / "check-report.md").write_text(report_md(res), encoding="utf-8")
         return 1
@@ -728,11 +1010,11 @@ def main() -> int:
     p.add_argument("--affil")
     p.add_argument("--n", type=int, default=8)
     p.set_defaults(fn=cmd_papers)
-    for name, fn in [("check", cmd_check), ("clean", cmd_clean), ("edit-ratio", cmd_edit_ratio)]:
+    for name, fn in [("check", cmd_check), ("evidence", cmd_evidence), ("clean", cmd_clean), ("edit-ratio", cmd_edit_ratio)]:
         p = sub.add_parser(name)
         p.add_argument("dir")
         p.add_argument("--facts")
-        p.add_argument("--force", action="store_true")
+        p.add_argument("--require-evidence", action="store_true", help="同时核对 evidence.yml（clean 总是核对）")
         p.set_defaults(fn=fn)
     args = ap.parse_args()
     return args.fn(args)

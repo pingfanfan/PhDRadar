@@ -233,7 +233,7 @@ RESTRICT = (r"(UK|Home|EU|European|US|U\.S\.|Australian|Canadian|Domestic)(/UK)?
             r"|EU/EEA (citizens|nationals) only|仅限(本国|本土|英国|美国|欧盟|澳大利亚|加拿大)")
 
 # 德语岗位：标题是德语，或写明工作语言只有德语 / 要求德语
-GERMAN = (r"Doktorand|Wissenschaftliche[rs]? Mitarbeiter|Promotionsstelle|Promotion |Stellenausschreibung"
+GERMAN = (r"Universitätsassistent|Wiss\. Mitarbeiter|Postdoktorand|Doktorand|Wissenschaftliche[rs]? Mitarbeiter|Promotionsstelle|Promotion |Stellenausschreibung"
           r"|Deutschkenntnisse|fluent (in )?German|German language skills (are )?(required|essential)|工作语言：(German|Deutsch)$|工作语言：(German|Deutsch)；")
 
 # 北欧 / 荷兰语公告（只看标题）：用当地语言发布的岗位多半要求当地语言；画像 languages.other 里写了这些语言才保留
@@ -256,6 +256,18 @@ EU = ["AT", "BE", "BG", "HR", "CY", "CZ", "DK", "EE", "FI", "FR", "DE", "GR", "H
 ATAS_DISC = ["physics", "engineering", "chem", "cs", "ai", "math"]
 
 LEVELS = {"bachelor": 1, "master": 2, "phd": 3}
+# 申请须知（工程 A 的结构化字段 af.lg 原句）里“必须会”的语言：同一分句里有要求词、没有“加分 / 优先”之类的词才算
+LANGS = {"German": "德语", "Dutch": "荷兰语", "Swedish": "瑞典语", "Norwegian": "挪威语", "Danish": "丹麦语", "French": "法语",
+         "Finnish": "芬兰语", "Spanish": "西班牙语", "Italian": "意大利语"}
+LANG_REQ = r"required|mandatory|essential|must|necessary|needed|fluen|proficien|command of|excellent|very good|good knowledge"
+LANG_SOFT = (r"plus|asset|advantage|desirable|beneficial|merit|prefer|helpful|welcome|not (required|necessary|mandatory)|optional"
+             r"|not a requirement|willing|learn|bonus|appreciated")
+# 岗位语言标签 lt（如“德语 C1 / 英语 B2”）：写了 B2 及以上等级的非英语语言视为要求；只列语言名、或 A1–B1 的不算
+LT_LEVEL = r"(德语|法语|荷兰语|瑞典语|挪威语|丹麦语|芬兰语|西班牙语|意大利语) ([ABC][12])"
+
+# 开始时间不是确定日期（“或协商”“起”“灵活”）时不拿来排除
+START_SOFT = r"或|协商|灵活|起|之前|以后|最晚|最早|左右|flexib|negotia|agreed|earliest|latest|around"
+
 LOCAL_LANGS = ["norwegian", "swedish", "danish", "dutch", "挪威语", "瑞典语", "丹麦语", "荷兰语", "no", "sv", "da", "nl"]
 CEFR = {"A1": 1, "A2": 2, "B1": 3, "B2": 4, "C1": 5, "C2": 6, "native": 6}
 
@@ -273,4 +285,5 @@ def rules(disc_words: dict[str, str] | None = None) -> dict:
         groups.append(g)
     return {"groups": groups, "stop": STOP, "weights": WEIGHTS, "coverage_ok": COVERAGE_OK,
             "fx": FX, "restrict": RESTRICT, "german": GERMAN, "local_lang": LOCAL_LANG, "noise": NOISE, "siblings": SIBLINGS, "noise_body": NOISE_BODY, "focus": FOCUS, "eu": EU, "atas_disc": ATAS_DISC, "levels": LEVELS,
-            "cefr": CEFR, "local_langs": LOCAL_LANGS, "disc_words": disc_words}
+            "cefr": CEFR, "local_langs": LOCAL_LANGS, "langs": LANGS, "lang_req": LANG_REQ, "lang_soft": LANG_SOFT,
+            "start_soft": START_SOFT, "lt_level": LT_LEVEL, "disc_words": disc_words}

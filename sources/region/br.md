@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 巴西（BR） 信源（6）
+# 巴西（BR） 信源（7）
 
-所有标注了地区 BR 的信源，共 6 条。
+所有标注了地区 BR 的信源，共 7 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [高校旗舰奖学金与资助检索 1](br.md#university-schemes) · [博士后奖学金与项目 5](br.md#postdoc-fellowships)
+**按分类跳转：** [高校旗舰奖学金与资助检索 1](br.md#university-schemes) · [博士后奖学金与项目 6](br.md#postdoc-fellowships)
 
 <a id="university-schemes"></a>
 
@@ -20,10 +20,11 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（5）
+## 博士后奖学金与项目（6）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [CAPES PrInt 国际合作博后（UFSC）](https://ppgbqa.ufsc.br/print-capes-ufsc/?lang=en)<br><sub>巴西 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | — | ❔ | **要求：** 需经 UFSC 的 PrInt 项目推荐，具体资格与名额以 UFSC PROPG 当期公告为准。<br>经国际合作项目推荐的博后与访问学者，需联系高校 PrInt 办公室。 |
 | [CAPES 国内博士后计划（PIPD）](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-no-pais/programa-institucional-de-pos-doutorado-pipd)<br><sub>巴西 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>R$ 5,200/月（部分院校）</sub> | —<br><sub>🔜 即将开放</sub><br><sub>页面日程：PIPD 赴国外博后（PIPD-DRI）第二轮征集 2026 年 11 月 13 日至 12 月 9 日（尚未开始）；第一轮 2026 年 7 月 15–30 日已过。</sub> | ❔ | **要求：** 博士学位（7 年内获得；外国学位需在巴西认证）；部分院校要求巴西国籍；PIPD 由各校自行招募<br>CAPES 博士后计划（PIPD），由巴西高校研究生项目招募。页面日程针对赴国外博后；国内 PIPD 名额由各校自行招募，页面未说明外籍人士资格，需看接收院所公告。 |
 | [ICTP-SAIFR 博士后职位（圣保罗）](https://ictp-saifr.org/?p=625)<br><sub>巴西 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 滚动<br><sub>🔄 随时可申</sub><br><sub>本轮公告于 2026 年 10 月发布，审核自 2026 年 10 月开始，持续至岗位招满</sub> | ✅ | **要求：** 在线申请表需填写个人信息，并提交 CV（含发表列表）、研究计划及 3 位推荐人邮箱；无需提交成绩单<br>FAPESP 资助的两年期博后职位（复杂系统方向）；页面列出年免税薪金 150,840 雷亚尔、搬迁费 12,000 雷亚尔及每年 15,084 雷亚尔科研经费。 |
 | [TWAS-FAPESP 发展中国家博士后奖学金（圣保罗）](https://twas.org/opportunity/twas-fapesp-postdoctoral-fellowship-programme-developing-countries)<br><sub>巴西 ｜ 全学科</sub> | 博后 | 力度未注明 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>2026 轮 9 月 8 日开放；导师初步意向 11 月 1 日截止，完整申请 2027 年 4 月 1 日截止（巴西利亚时间）</sub> | ❔ | **要求：** 博士学位取得不超过 7 年；发展中国家国籍（中国大陆是否符合以官网为准）；须由圣保罗州课题负责人经 SAGe 系统提交，个人不可直接申请；博后为期 12 个月，不可延长<br>TWAS-FAPESP 博后：2026 轮 9 月 8 日开放；导师初步意向 11 月 1 日截止；完整申请 2027 年 4 月 1 日截止（巴西利亚时间午夜）。需发展中国家国籍，中国大陆是否符合以官网为准。 |

@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 比利时（BE） 信源（37）
+# 比利时（BE） 信源（38）
 
-所有标注了地区 BE 的信源，共 37 条。
+所有标注了地区 BE 的信源，共 38 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 1](be.md#aggregators) · [各国学术招聘门户与机构职位页 3](be.md#national-portals) · [政府与国家级奖学金 1](be.md#gov-scholarships) · [高校旗舰奖学金与资助检索 13](be.md#university-schemes) · [结构化博士项目与研究机构 4](be.md#doctoral-programs) · [博士后奖学金与项目 5](be.md#postdoc-fellowships) · [企业与基金会 Fellowship 6](be.md#fellowships) · [学科专属信源 1](be.md#discipline) · [科研实习与“曲线入口” 1](be.md#pathways) · [个人信源与社交渠道 2](be.md#people-channels)
+**按分类跳转：** [综合聚合平台 1](be.md#aggregators) · [各国学术招聘门户与机构职位页 3](be.md#national-portals) · [政府与国家级奖学金 1](be.md#gov-scholarships) · [高校旗舰奖学金与资助检索 13](be.md#university-schemes) · [结构化博士项目与研究机构 4](be.md#doctoral-programs) · [博士后奖学金与项目 5](be.md#postdoc-fellowships) · [企业与基金会 Fellowship 6](be.md#fellowships) · [学科专属信源 1](be.md#discipline) · [科研实习与“曲线入口” 1](be.md#pathways) · [个人信源与社交渠道 3](be.md#people-channels)
 
 <a id="aggregators"></a>
 
@@ -110,10 +110,11 @@
 
 <a id="people-channels"></a>
 
-## 个人信源与社交渠道（2）
+## 个人信源与社交渠道（3）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [ORBEL 比利时运筹学会岗位公告](https://www.orbel.be/news-letter.php?category=2)<br><sub>比利时 ｜ 数学/统计·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ❔ | 常转发 KU Leuven、UGent 等校的运筹学博士岗位（多为 4 年合同）。 |
 | [安特卫普大学 EMAT 电子显微镜组开放职位](https://www.uantwerpen.be/en/research-groups/emat/about-us/open-positions/)<br><sub>比利时 ｜ 物理/天文·化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>📋 持续更新</sub> | ✅ | **要求：** 职位页列有 PhD 与博士后岗位，透射电镜经验为加分项；具体学位要求以各职位页为准<br>页面称 EMAT 持续招聘 PhD 与博士后人员，可直接联系各研究项目负责人；技术岗位也定期开放。 |
 | [安特卫普大学进化与生态组（EvECo）招聘页](https://www.uantwerpen.be/en/research-groups/eveco/organisation/job-opportunities)<br><sub>比利时 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | **2027-03-01**<br><sub>📋 持续更新</sub><br><sub>FWO 博士奖学金年度截止 3 月 1 日，2026 轮已过，下一轮为 2027 年 3 月 1 日；FWO 博后截止 12 月 1 日（据 EvECo 官网）</sub> | ❔ | **要求：** EvECo 页面称 FWO 博士奖学金面向欧盟及欧洲经济区学生，中国学生资格未核实，需向校方和 FWO 确认。<br>博士岗位绑定具体项目，大学仅通过项目公告招博士。EvECo 页面称 FWO 博士奖学金年度截止 3 月 1 日；其他 UAntwerp 页写 2 月 1 日，口径不一，以 FWO 官网为准。 |
 

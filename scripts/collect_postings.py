@@ -106,7 +106,7 @@ SCREENING = _SCREENING + [r"\bZRR\b", r"\bPPST\b", r"protection of (the )?nation
 # 限本土：只付本土学费且国际生自付差额、只限有 Home 学费资格者、需美国公民身份
 RESTRICTED = _RESTRICTED + [
     r"\brestricted to (applicants|candidates|students) (who|with)[^.]{0,60}\b(home|uk|eu|eea|citizen|citizenship|resident)",
-    r"\brequires? u\.?s\.? citizenship\b", r"\bu\.?s\.? citizenship (is )?required\b", r"\bmust be (a )?u\.?s\.? citizens?\b",
+    r"\brequires? u\.?s\.? citizenship\b", r"\bu\.?s\.? citizens? only\b", r"\b(?:restricted|limited|open) (?:only )?to u\.?s\.? citizens\b", r"\bonly (?:to )?u\.?s\.? citizens\b", r"\bu\.?s\.? citizenship (is )?required\b", r"\bmust be (a )?u\.?s\.? citizens?\b",
     r"\binternational[^.]{0,120}\b(pay|cover|fund|meet)\b[^.]{0,60}\bdifference\b",
     r"\bdifference between (the )?(home|uk) and international", r"\bextra costs associated with international",
 ]
@@ -400,10 +400,11 @@ def madgex(name: str):
         loc = re.search(r"Location\s+(.{2,120}?)\s+(?:Salary|Posted|Closing date|Closes)\s", text)
         sal = re.search(r"Salary\s+(.{1,120}?)\s+(?:Posted|Closing date|Closes)\s", text)
         salary = sal.group(1).strip() if sal and sal.group(1).strip() not in ("0", "-") else ""
-        if not re.search(r"\d", salary):  # 页头写 Negotiable / DOE 之类时，用正文里带金额的薪资句
-            bs = re.search(r"(?:salary|stipend|remuneration)[^.]{0,60}?(?:EUR|€|\$|£|USD|CHF)\s?\d[\d,.]*(?:\s?[-–]\s?(?:EUR|€|\$|£)?\s?\d[\d,.]*)?"
-                           r"[^.]{0,30}", text[m.end():m.end() + 8000], re.I)
-            salary = bs.group(0).strip() if bs else ("" if re.match(r"(negotiable|doe|competitive)\b", salary, re.I) else salary)
+        if not re.search(r"\d", salary):  # 页头写 Negotiable / DOE 之类时，用正文里带金额的薪资句（跳过页面上订阅表单的薪资下拉框）
+            bs = next((x for x in re.finditer(
+                r"(?:salary|stipend|remuneration)[^.?]{0,60}?(?:EUR|€|\$|£|USD|CHF)\s?\d[\d,.]*(?:\s?[-–]\s?(?:EUR|€|\$|£)?\s?\d[\d,.]*)?"
+                r"[^.]{0,30}", text[m.end():m.end() + 8000], re.I) if not re.search(r"please select|up to \$\d", x.group(0), re.I)), None)
+            salary = bs.group(0).strip() if bs else salary
         body = text[m.end():m.end() + 8000]
         if _any(_SELF_FUNDED, title + " " + body) or _any(NOT_FUNDED, body) or \
                 (level == "phd" and not (salary or _any(_FUNDED, body))):
@@ -924,7 +925,7 @@ for _mod in sorted(p.stem for p in (ROOT / "scripts").glob("platforms_*.py")):
 # 只有 GitHub Actions 能访问的平台（适配器名 → 岗位的 via 名）：由公开仓库的 postings 工作流采集（-s actions），
 # 每日任务再用 import_postings.py 并回主库；本地默认清单不含它们
 ACTIONS = {"findaphd": "FindAPhD"}
-DEFAULT = "jobs-ac-uk,academictransfer,naturecareers,sciencecareers,physicstoday,the-unijobs,jobbnorge,inspire,ajo,daad,varbi,ethz,inria,mpg,arbeitsagentur,workday,successfactors,oracle,pageup,cnrs,mathjobs,tamu-rwfm,hnet,aarhus,psi,eso,ibs,econjobmarket,reachmee,university,infn,pasteur"
+DEFAULT = "jobs-ac-uk,academictransfer,naturecareers,sciencecareers,physicstoday,the-unijobs,jobbnorge,inspire,ajo,daad,varbi,ethz,inria,mpg,arbeitsagentur,workday,successfactors,oracle,pageup,cnrs,mathjobs,tamu-rwfm,hnet,aarhus,psi,eso,ibs,econjobmarket,reachmee,university,infn,pasteur,fapesp,linguistlist"
 
 
 def expand(sources: str) -> list[str]:

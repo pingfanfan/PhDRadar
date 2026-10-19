@@ -9,7 +9,8 @@ from __future__ import annotations
 
 import re
 
-from collect_postings import Fetcher, _any, _SCREENING, page_text
+import collect_postings as cp
+from collect_postings import Fetcher, page_text
 
 CNRS_SITEMAP = "https://emploi.cnrs.fr/Sitemaps/OffresSiteMapProviderResult.ashx"
 CNRS_LOC = re.compile(r"<loc>\s*(?:https://)?(emploi\.cnrs\.fr/Offres/(?:Doctorant|CDD)/([A-Z0-9]+-[A-Z0-9]+-\d+)/Default\.aspx)\s*</loc>")
@@ -56,7 +57,7 @@ def cnrs_detail(ref: str, url: str, raw: str, today: str) -> tuple[dict | None, 
         "id": f"cnrs:{ref}", "title": title[:200], "url": url, "org": ("CNRS – " + unit if unit else "CNRS")[:120],
         "country": "FR", "place": place.title()[:80], "level": level, "deadline": deadline, "quote": m.group(0),
         "funding_for": "", "amount": pay[:200], "cn": "check",
-        "flags": ["security-screening"] if CNRS_ZRR.search(text) or _any(_SCREENING, text) else [], "via": "CNRS Emploi",
+        "flags": ["security-screening"] if CNRS_ZRR.search(text) else cp.flags_of(text), "via": "CNRS Emploi",
     }, "收录"
 
 

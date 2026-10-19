@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 沙特（SA） 信源（23）
+# 沙特（SA） 信源（24）
 
-所有标注了地区 SA 的信源，共 23 条。
+所有标注了地区 SA 的信源，共 24 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [高校旗舰奖学金与资助检索 5](sa.md#university-schemes) · [结构化博士项目与研究机构 7](sa.md#doctoral-programs) · [博士后奖学金与项目 8](sa.md#postdoc-fellowships) · [企业与基金会 Fellowship 2](sa.md#fellowships) · [科研实习与“曲线入口” 1](sa.md#pathways)
+**按分类跳转：** [高校旗舰奖学金与资助检索 5](sa.md#university-schemes) · [结构化博士项目与研究机构 8](sa.md#doctoral-programs) · [博士后奖学金与项目 8](sa.md#postdoc-fellowships) · [企业与基金会 Fellowship 2](sa.md#fellowships) · [科研实习与“曲线入口” 1](sa.md#pathways)
 
 <a id="university-schemes"></a>
 
@@ -24,13 +24,14 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（7）
+## 结构化博士项目与研究机构（8）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [KAUST ARMS 课题组（油藏建模）全额资助 MS/PhD 招生](https://arms.kaust.edu.sa/)<br><sub>沙特 ｜ 工程·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 滚动<br><sub>🟢 开放申请</sub><br><sub>组页称长期接收申请，具体以 KAUST 招生系统轮次为准</sub> | ❔ | **要求：** 需通过 KAUST 官方招生系统申请<br>页面称 ARMS 组提供全额资助的 MS/PhD 职位，申请须通过 KAUST 官方网站提交；研究方向包括油藏建模与模拟、化学驱、CO2 管理和地热等。 |
 | [KAUST FASTER 课题组（Aamir Farooq）招生页](https://faster.kaust.edu.sa/Join-us)<br><sub>沙特 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 未公布<br><sub>📋 持续更新</sub><br><sub>页面未给出固定截止，以官网或课题组通知为准。</sub> | ❔ | **要求：** 需 CV 和研究兴趣摘要。<br>页面说明 PhD 申请直接发送 CV 和研究兴趣摘要给 PI；正式申请以 KAUST 轮次为准，资助细节与 KAUST 官方 PhD 资助核对。 |
 | [KAUST MURE 项目潜在 MSc/PhD 岗位](https://mure.kaust.edu.sa/pages/positions/prospective-msc-and-phd)<br><sub>沙特 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>📋 持续更新</sub><br><sub>页面未见截止时间，需核对当前轮次</sub> | ❔ | 汇总可申请的硕士与博士岗位入口，资助形式需核对。 |
+| [KAUST · BESE（生物与环境科学与工程）博士项目](https://bese.kaust.edu.sa/)<br><sub>沙特 ｜ 生物/生命科学·地球/环境/海洋·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位自行规定,以公告为准</sub> | ❔ | **要求：** 本科或硕士（理工相关）；具体看 KAUST 统一入口<br>BESE 含环境科学与工程、海洋、植物、生物科学；录取者获 KAUST Fellowship（据 BESE 介绍）。申请走 KAUST 统一入口。 |
 | [KAUST 博士学位项目与全奖说明](https://admissions.kaust.edu.sa/study/phd-degree)<br><sub>沙特 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>USD 25,000–30,000/年（依资格与学业进度而定）</sub> | 各项目不同 | ❔ | **要求：** 需推荐信，由招生办统一审核；录取后自动获得住宿、医保与搬迁支持<br>KAUST 博士录取生自动获得 KAUST Fellowship，包括全额学费、基础住宿、学生医保和搬迁支持，并发放津贴。无需单独申请，国际生细则以官网为准。 |
 | [KAUST 生物科学（Bioscience）博士项目](https://www.kaust.edu.sa/study/biomed/bioscience)<br><sub>沙特 ｜ 生物/生命科学·计算机·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ✅ | 博士生有全额奖学金（学费、住宿、医保、月生活费）；需相关硕士学位；计算生物学可能被分配到 CS 或应用数学项目。 |
 | [KAUST 硕博/博士申请入口](https://admissions.kaust.edu.sa/study/ms-phd-degree)<br><sub>沙特 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>🟢 开放申请</sub><br><sub>2027 秋季申请截止第三方称 2027-01-03，另有来源称优先截止 2026-12-01；官网未直接核实，以官网为准</sub> | ❔ | **要求：** 需相关硕士学位；英语成绩；3 名推荐人<br>KAUST 硕博（MS/PhD）申请入口（官方）。所有录取的硕博学生均获 KAUST Fellowship，涵盖学费、住宿、医保和搬迁支持；有外部资助的学生可能不适用。 |

@@ -111,6 +111,52 @@
   verify_method: page
   page_evidence: MSCA COFUND PICTUS PhD Fellowship Programme
   verified: 2026-10-18
+- id: lzp-latvia-postdoc-1119
+  name: 拉脱维亚科学委员会 1.1.1.9 博后研究项目
+  url: https://www.lzp.gov.lv/en/4th-call-research-applications-under-1119-activity-post-doctoral-research
+  category: postdoc-fellowships
+  regions:
+  - LV
+  disciplines:
+  - all
+  funding: fellowship
+  levels:
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: 2026-05-31
+  status: closed
+  notes: 拉脱维亚科学委员会 1.1.1.9 博后项目，申请主体为拉脱维亚企业或科研机构，项目须在拉脱维亚实施；博士学位须在截止日前 10 年内。第四轮（产业研究）2026 年 2–5 月受理已于 5 月 31 日结束，未见第五轮公告。原记录称本国与外国研究者均可申请，搜索结果未能证实，故改为 check。
+  verify_method: page
+  page_evidence: The application submission period is from 9 February 2026 to 31 May 2026.
+  verified: 2026-10-19
+- id: secihti-estancias-posdoctorales-2026
+  name: 墨西哥 SECIHTI（原 CONAHCYT）博士后驻留征集（Estancias Posdoctorales por México）2026
+  url: https://secihti.mx/wp-content/uploads/2026/07/CONVOCATORIA_2026_EPM-20260702T194137.pdf
+  category: gov-scholarships
+  regions:
+  - MX
+  disciplines:
+  - all
+  funding: fellowship
+  levels:
+  - postdoc
+  cn_eligible: partial
+  access:
+  - web
+  language: es
+  coverage: unknown
+  deadline: 2026-08-28
+  deadline_note: 2026 批次平台截止 2026-08-28，本批已结束；2027 年度批次待官方公布
+  status: closed
+  requirements: 需已持有博士学位；外籍申请人须在墨西哥有临时或永久居留并有有效 CURP；需在 Perfil Único 平台注册
+  notes: 2026 批次面向墨西哥籍或外籍博士，外籍须在墨西哥有居留；驻留须在墨西哥公立高校或研究中心，不含海外驻留。驻留自 2027-02-01 开始，关注 2027 年度批次。
+  verify_method: page
+  page_evidence: A personas de nacionalidad mexicana o extranjera que cuenten con el grado de doctorado, para
+  verified: 2026-10-19
 - id: conicet-pd-cit-2026-bases
   name: 阿根廷 CONICET 博士后奖学金（PD-CIT）2026 征集 bases
   url: https://convocatorias.conicet.gov.ar/wp-content/uploads/sites/3/publico/convocatoria-becas-2026/becas-pd-cit-2027/BASES-PD-CIT-Febrero-2027_558a4e519b664f2d71.pdf
@@ -182,6 +228,27 @@
   verify_method: page
   page_evidence: 'Periodo de inscripción: del 18 al 30 de diciembre de 2025.'
   verified: 2026-10-17
+- id: koc-university-postdoc-fellowship
+  name: Koç 大学博士后奖学金（2026 年 3 月公告）
+  url: https://cdn.ku.edu.tr/cdn/files/mailing/KU/2026/mart/10-3-26/New+Call+-+KU+Postdoctoral+Fellowship.pdf
+  category: postdoc-fellowships
+  regions:
+  - TR
+  disciplines:
+  - all
+  funding: fellowship
+  levels:
+  - postdoc
+  cn_eligible: 'yes'
+  access:
+  - web
+  language: en
+  coverage: unknown
+  status: closed
+  notes: Koç 大学博士后奖学金：3 月批次截止 3 月 31 日已过；第三方称有 11 月 15 日截止的新一轮，未经 Koç 官网确认。要求获博士学位 5 年内，面向国际与国内各学科研究者。
+  verify_method: page
+  page_evidence: 'Deadlines: March 31, 2026'
+  verified: 2026-10-19
 - id: its-global-excellence-phd
   name: ITS（泗水理工学院）Global Excellence 博士奖学金
   url: https://www.its.ac.id/international/experiencing-its/prospective-student/scholarship/global-excellence-scholarship/
@@ -419,6 +486,26 @@
   notes: 按 cycle 公布的 merit 奖学金（第 42 轮 Finance 首年约 €27,000，含学费减免），未获奖学金需交学费；2027 入学通知关注官网。
   verify_method: page
   page_evidence: Financial conditions for the a.y. 2027-2028 intake will be published November 3rd, 2026.
+  verified: 2026-10-19
+- id: sciences-po-econ-doctoral-contract
+  name: Sciences Po 经济学博士（三年带薪博士合同）
+  url: https://www.sciencespo.fr/ecole-doctorale/en/content/doctorate-economics.html
+  category: doctoral-programs
+  regions:
+  - FR
+  disciplines:
+  - econ
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  notes: Sciences Po 经济学博士合同：检索未见 2027 轮公告，以官网为准；第三方站点称税前月薪约 2,100 欧元（未经官网核实）。
+  verify_method: page
+  page_evidence: Sciences Po offers some doctoral contracts with internationally competitive salaries.
   verified: 2026-10-19
 - id: crest-genes-doctoral-contracts
   name: CREST / GENES 博士合同（ENSAE 经济与统计）

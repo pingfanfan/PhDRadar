@@ -2,17 +2,17 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 生态/进化 信源（100）
+# 生态/进化 信源（116）
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 9](eco.md#aggregators) · [政府与国家级奖学金 1](eco.md#gov-scholarships) · [高校旗舰奖学金与资助检索 25](eco.md#university-schemes) · [结构化博士项目与研究机构 38](eco.md#doctoral-programs) · [博士后奖学金与项目 6](eco.md#postdoc-fellowships) · [企业与基金会 Fellowship 3](eco.md#fellowships) · [学科专属信源 10](eco.md#discipline) · [个人信源与社交渠道 5](eco.md#people-channels) · [导师招生帖（社交平台个人发布） 3](eco.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 11](eco.md#aggregators) · [各国学术招聘门户与机构职位页 1](eco.md#national-portals) · [政府与国家级奖学金 1](eco.md#gov-scholarships) · [高校旗舰奖学金与资助检索 27](eco.md#university-schemes) · [结构化博士项目与研究机构 43](eco.md#doctoral-programs) · [博士后奖学金与项目 8](eco.md#postdoc-fellowships) · [企业与基金会 Fellowship 4](eco.md#fellowships) · [学科专属信源 13](eco.md#discipline) · [个人信源与社交渠道 5](eco.md#people-channels) · [导师招生帖（社交平台个人发布） 3](eco.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
-## 综合聚合平台（9）
+## 综合聚合平台（11）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -23,8 +23,18 @@
 | [ESWN 地球与环境科学岗位汇总](https://eswnonline.org/online/earth-and-environmental-science-jobs/)<br><sub>全球 ｜ 地球/环境/海洋·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | ESWN 众包岗位表，非官方岗位源。页面称研究生岗位由 GEMS 共同管理，页面直链为 2025-2026 年度岗位表，并列有以往年度存档。 |
 | [jobRxiv](https://jobrxiv.org/)<br><sub>全球 ｜ 生物/生命科学·化学/材料·物理/天文·神经/认知·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 科研人员职位板，发布博士、博后及科研技术岗位，求职者免费浏览。官网 about/recruit 页列单条发布 $299、3 条 $599，并称付不起者可免费发布（需个案申请）；发布前以结账页为准。PI 直招名额需自行判断。 |
 | [jobs.ac.uk 农业、食品与兽医 PhD 职位板](https://jobs.ac.uk/search/agriculture-food-and-veterinary/phd)<br><sub>英国 ｜ 生物/生命科学·生态/进化·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 依各职位公告：国际生资格与是否含海外学费需逐个职位核对<br>jobs.ac.uk 农业、食品与兽医方向博士职位搜索页，聚合入口而非单个项目，国际生名额需逐个职位核对。 |
+| [MARUM（不来梅大学海洋环境科学中心）职位汇总页（含德国海洋与地学研究所招聘）](https://www.marum.de/research-academy/career/job-lists.html)<br><sub>德国 ｜ 地球/环境/海洋·生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 滚动<br><sub>📋 持续更新</sub><br><sub>持续更新，各岗位截止日不同</sub> | ❔ | **要求：** 各岗位自行规定；页面所列职位以博士后及以上为主，也有博士生岗位。<br>MARUM 研究院的求职汇总页并提供求职邮件列表，汇集德国海洋与地学机构的岗位。具体薪资和国际生资格需看各岗位公告。 |
+| [Nature Careers：环境科学全职博后职位列表](https://www.nature.com/naturecareers/jobs/environmental-science/postdoctoral/full-time/academia/direct-employer)<br><sub>全球 ｜ 地球/环境/海洋·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止时间不一，需逐条核对</sub> | ❔ | **要求：** 以各岗位要求为准，多数要求博士学位<br>全球环境科学全职博后岗位，可按国家筛选。 |
 | [USDA LTAR 农业生态网络岗位页](https://ltar.ars.usda.gov/jobs)<br><sub>美国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 部分 ARS 联邦岗位要求美国公民或永久居民；其他岗位对外国人开放，需逐条核对。<br>页面最近更新为 2026 年 6 月 23 日，列表首条为该日期的教授级岗位；列表中可见的 PhD 助研与博后岗位发布于 2025 年 12 月及之前。 |
 | [美国生态学会（ESA）职位网站清单](https://esa.org/career-development/job-sites/)<br><sub>全球·美国 ｜ 生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | ESA 整理的生态学求职网站清单，清单本身不发布岗位，需逐个检查各站点。各站的岗位类型与资助情况不同。 |
+
+<a id="national-portals"></a>
+
+## 各国学术招聘门户与机构职位页（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [NORCE 研究院职位页（博士与博后岗）](https://karriere.norceresearch.no/en/jobs)<br><sub>挪威 ｜ 工程·计算机·生物/生命科学·地球/环境/海洋·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止日不同，可订阅提醒</sub> | ❔ | **要求：** 需硕士学位；部分岗位需安全审查，国际生须逐条确认<br>挪威产业研究机构，偶有与大学联合的博士岗。 |
 
 <a id="gov-scholarships"></a>
 
@@ -36,7 +46,7 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（25）
+## 高校旗舰奖学金与资助检索（27）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -50,7 +60,6 @@
 | [Germany–CGIAR++ Science and Impact Hub PhD 奖学金](https://hub.cifor-icraf.org/phd-research-scholarship)<br><sub>德国·全球 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€1,800/月，3 年（可申请 €25,000 研究经费）</sub> | 未公布<br><sub>第三方称 2026-11-30 截止，但官方 call 未核实</sub> | ❔ | **要求：** 硕士（农业科学或相关领域）；需与 CGIAR++ 科学家及德国高校教授组成合作团队共同提交申请，官网不做导师匹配。<br>面向农业、粮食与环境研究，需 CGIAR++ 科学家与德国高校教授合作。2026 批次计划招 10 人，截止约 11 月底；是否对中国籍开放看当年 call。 |
 | [icipe 奖学金门户（scholarships.icipe.org，博士与硕士征集汇总）](https://scholarships.icipe.org/calls/5)<br><sub>KE ｜ 工程·生物/生命科学·生态/进化·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>门户按项目逐条列出征集，截止日各不相同；检索时 PhD 栏目无开放征集，需逐条查看。</sub> | ❔ | **要求：** 各项目条件不同，国际生资格需看具体征集页。<br>icipe（国际昆虫生理生态中心，内罗毕）官方奖学金门户，集中发布其 PhD 征集。每条征集需单独核对截止、资助和国籍限制。 |
 | [iDiv 德国综合生物多样性研究中心招聘页](https://www.idiv.de/career/job-openings/)<br><sub>德国 ｜ 生态/进化·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>搜索所见 2026 年岗位（如 Project Assistant，截止 2026-08-13）已过；未确认有开放中的博士岗</sub> | ❔ | iDiv 招聘页当前显示无空缺（Currently no vacancies at iDiv），需持续关注新岗位。 |
-| [NIOO-KNAW 与乌得勒支大学 · 卫星高光谱读取生态系统 博士](https://magnet.me/en/opportunity/1085216/phd-candidate--reading-ecosystems-from-space)<br><sub>荷兰 ｜ 生物/生命科学·生态/进化</sub> | 博士 | 带薪岗位<br><sub>€3,204–€4,051/月（税前，全职）</sub> | **2026-10-18**<br><sub>🟢 开放申请</sub><br><sub>岗位列表称门户截止 2026 年 10 月 18 日，需通过门户提交 CV 与求职信；请尽快申请。</sub> | ❔ | **要求：** 硕士（生态学或环境科学）；需有生态实验或野外经验及遥感经验；通过门户提交 CV、求职信及两名推荐人；国际生资格以原页为准<br>NIOO-KNAW 与乌得勒支大学联合博士岗位（NWO ASCENT 项目），用高光谱卫星数据研究氮沉降对生物多样性与生态系统功能的影响。全职 4 年带薪雇佣，工作地以瓦赫宁根 NIOO-KNAW 为主。 |
 | [UChicago 社会科学学部博士资助](https://socialsciences.uchicago.edu/node/34094)<br><sub>美国 ｜ 社会科学/心理·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>2026–27 学年年化最低 $47,741（每月 $3,978.41，税前）</sub> | — | ✅ | 社会科学学部页称所有入学的在读博士生在整个学程内获得资助，不论国籍或其他因素；资助可来自学校、外部资金或两者结合，包括学费、U-SHIP 医保、研究生服务费及学部奖学金/助教津贴。 |
 | [Wageningen University & Research 博士项目入口](https://www.wur.eu/phd)<br><sub>荷兰 ｜ 生物/生命科学·生态/进化·化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各职位截止不同，以 WUR 职位页为准</sub> | ✅ | WUR 博士项目入口页，列出 18 个开放博士职位并链接职位页；正文未载明国际候选人资格，也未提及 WU-CAAS 中外合作项目的申请限制。 |
 | [伯明翰大学 CENTA 环境科学博士项目](https://www.birmingham.ac.uk/postgraduate/pgr/funding/centa-phds)<br><sub>英国 ｜ 地球/环境/海洋·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 入学轮已关闭；CENTA 官网称下一轮申请窗口预计 2027 年秋季重开</sub> | 🟡 | **要求：** 英国 BSc 二等甲等或 MSc 及格（或同等）；国际生的学费减免名额极少，需确认是否有名额<br>NERC CENTA 博士项目，通常提供学费减免与年度津贴。国际生名额有限，申请前需向项目确认。 |
@@ -63,12 +72,15 @@
 | [埃塞克斯大学 Leverhulme 可持续转型博士中心奖学金](https://www.essex.ac.uk/-/media/documents/directories/fees-and-funding/pgr-terms/sustainable-transitions---leverhulme-doctoral-centre-phd-scholarship-26-27.pdf)<br><sub>英国 ｜ 生态/进化·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-04-13**<br><sub>⏸ 本轮已截止</sub><br><sub>2026-27 轮截止未核实，以当年条款为准</sub> | 🟡 | **要求：** 需全日制在埃塞克斯就读；国际生名额受限，官方文件中数字前后不一，需向校方确认<br>资助覆盖学费减免（含国际生）、生活补助和研究经费，最长四年。国际生名额受限，需阅读 2026-27 条款并联系学院确认。 |
 | [帝国理工格兰瑟姆研究所博士奖学金入口](https://www.imperial.ac.uk/grantham/education/postgraduate-research/grantham-phd-opportunities/)<br><sub>英国 ｜ 地球/环境/海洋·生态/进化·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>£23,805/年（2026/27，伦敦加权）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各项目截止与轮次不同，以官网公告为准；官网 2026 年入学页称国际生需自行补足学费差额</sub> | 🟡 | **要求：** 资助仅覆盖英国本地学费水平，国际生需自行补足学费差额<br>气候与环境相关博士资助入口；国际生须自筹学费差额，各项目轮次不同。 |
 | [杜伦大学 Global Grand Challenges 博士奖学金](https://dur.ac.uk/study/scholarships/postgraduate/global-grand-challenges-studentships-/)<br><sub>英国 ｜ 生态/进化·地球/环境/海洋·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-02-06**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 10 月入学轮截止 2026-02-06，已结束；2027 轮未见公告</sub> | ❔ | **要求：** 面向可按家庭或海外学费身份申请者；海外名额有限。<br>资助含全额学费、免税生活费和研究经费，聚焦气候相关课题。 |
+| [森肯贝格自然博物馆（法兰克福）招聘页](https://museumfrankfurt.senckenberg.de/en/stellenanzeigen/)<br><sub>德国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位单独设截止；所见岗位截止均已过，需定期刷新</sub> | ❔ | 德国森肯贝格自然博物馆（法兰克福）招聘页，常见带薪博士（部分时间）或博后合同，多为 3–4 年；需定期刷新查看新岗位。非欧盟国籍的居留许可须另行核实。 |
+| [罗汉普顿大学 Leverhulme 博士奖学金（含国际名额）](https://roehampton.ac.uk/connected-waters/how-to-apply)<br><sub>英国 ｜ 人文/语言·社会科学/心理·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>Connected Waters 轮 2026 年截止 2 月 25 日已过；2027 轮未确认</sub> | ⛔ | **要求：** Connected Waters 轮有 3 个面向国际申请者的名额（名额有限，资格以官网为准）。<br>Leverhulme 博士奖学金由大学分配，需向罗汉普顿申请；Connected Waters 轮（截止 2025-02-06，已过）约 18 个全日制博士奖学金，其中 3 个面向国际申请者。2027 轮未确认。 |
 | [肯特大学 Leverhulme 'Space for Nature' 博士奖学金](https://www.kent.ac.uk/durrell-institute-conservation-ecology/research/leverhulme-scholars/leverhulme-space-for-nature-doctoral-scholars-phd-1)<br><sub>英国 ｜ 生态/进化·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明<br><sub>£21,805/年（2026/27 UKRI 标准）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮已关闭；2027 轮是否开放未确认，可邮件 LHScholars@kent.ac.uk 咨询</sub> | 🟡 | **要求：** 须为英国 home 身份（英国国籍或定居、预定居、永久居留）；本科一等或二等上（1 或 2.1）学位，或硕士 merit/distinction；国际生名额很少<br>官网称该奖学金面向英国本地（home）学生，仅少量名额可接收国际生；2026 轮已关闭。可邮件 LHScholars@kent.ac.uk 询问未来轮次是否有国际名额。 |
+| [肯特大学 Leverhulme「Space for Nature」博士奖学金（Durrell 保护生态研究所）](https://www.kent.ac.uk/durrell-institute-conservation-ecology/research/leverhulme-scholars/leverhulme-space-for-nature-doctoral-scholars-phd-3)<br><sub>英国 ｜ 生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明<br><sub>£19,237/年（2024/25 RCUK 最低博士津贴，免税；页面数据可能过时）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮已关闭；2027 轮待公布，各页面截止日期说法不一</sub> | 🟡 | **要求：** 以英国本地（home）学生为主，仅少量接收国际生；需满足 Durrell 保护生态研究所博士录取要求<br>Leverhulme「Space for Nature」博士奖学金主要面向英国本地学生，少量名额可接收国际生；学费按本地费率支付，另有 £10,000 研究与培训基金。2026 轮已关闭，下一轮以 Kent 页面公告为准，咨询 LHScholars@kent.ac.uk。 |
 | [莫纳什大学动物行为与进化生态学全额奖学金](https://jobrxiv.org/job/school-of-biological-sciences-monash-university-27778-fully-funded-phd-scholarship-animal-behaviour-evolutionary-ecology/)<br><sub>澳大利亚 ｜ 生态/进化·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>tax-free 生活津贴按 Monash Graduate Research Scholarship 标准（2027 年 AUD 41,100/年）</sub> | **2026-11-15**<br><sub>🟢 开放申请</sub> | ✅ | 面向国内外候选人，要求荣誉学位或含至少 25% 研究内容的硕士（生物、动物学、生态学或相关专业）。申请截止 2026 年 11 月 15 日，2027 年初入学，申请时需选择感兴趣的项目。 |
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（38）
+## 结构化博士项目与研究机构（43）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -87,16 +99,21 @@
 | [IMPRS Global Biogeochemical Cycles（马普生物地球化学所，耶拿）](https://www.uni-jena.de/en/17920/international-max-planck-research-school-for-global-biogeochemical-cycles)<br><sub>德国 ｜ 地球/环境/海洋·生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>页面称每年两轮招生（Twice a year），未列出具体截止日。</sub> | ❔ | **要求：** 英语为主要申请语言；需在线注册并提交申请材料，之后可能有电话或视频面试；具体学历要求以官网为准。<br>耶拿大学与马普生物地球化学所合办的英文博士项目。页面称提供为期 3 年的资助，未写明是否全额；国际生资格未写明。 |
 | [IMPRS Molecular Plant Science（波茨坦，马普分子植物生理所）](https://www.mpimp-golm.mpg.de/7218/About_the_IMPRS)<br><sub>德国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-01-10**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 批次截止 2026-01-10（已关闭）；2027 批次公告待发布，以官网为准</sub> | ✅ | 马普分子植物生理所国际博士研究生院，全额资助博士职位（3 年可延长），需硕士学位。2026 下半年批次已招满，关注 2027 批次。 |
 | [IMPRS-BI（生物智能国际马普研究生院，慕尼黑/Seewiesen）· 官方申请页](https://imprs-bi.mpg.de/51861/How-to-apply)<br><sub>德国 ｜ 神经/认知·生态/进化·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-11-10**<br><sub>🟢 开放申请</sub><br><sub>2026/27 轮截止 2026-11-10（中欧时间 24:00），次年 1 月线上面试；每年秋季开下一轮</sub> | ❔ | **要求：** 硕士为主（入学前须拿到学位）；四年制一等 BSc 或 240 ECTS 一等 BSc 可申请并补修课程；需 2 封推荐信，建议提交 GRE（尤其非欧盟毕业生）<br>官方页说明博士生通常由导师提供相当于 TVöD E13 的工作合同（含医保社保），未给出固定金额；方向含行为、神经生物、连接组学、生态与进化遗传。申请前请核对 Eligibility 页。 |
+| [IMPRS-gBGC（全球生物地球化学循环国际马普研究生院，耶拿）· 申请页](https://www.bgc-jena.mpg.de/en/imprs/apply)<br><sub>德国 ｜ 地球/环境/海洋·生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>每年多轮征集，2026 年具体日期未确认，请以申请页为准</sub> | ✅ | **要求：** 需硕士学历（地球科学、生物地球化学相关方向）；国籍要求以申请页为准<br>马普生物地球化学所与耶拿大学等合办的结构化博士项目，PhD 为全职合同。具体课题见 open-projects 页。 |
 | [IMPRS-QBEE（康斯坦茨大学 × 马普动物行为所）](https://imprs-qbee.mpg.de/91719/phd-guide)<br><sub>德国 ｜ 生态/进化·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>🔜 即将开放</sub><br><sub>往年每年 10 月 1 日开放申请、11 月下旬截止（2025 入学轮截止 2024-11-24）；下一轮 2026 年 11 月前后，未经确认</sub> | ❔ | **要求：** 须硕士或同等学位（入学前须取得学位）；需英语流利并提供语言证明，无需德语<br>页面为 IMPRS-QBEE 博士指南（页面日期 2026-08-20）：博士学位由康斯坦茨大学生物系授予（Dr. rer. nat.），申请与学程管理使用 OpenCampus 平台。页面未列出当前招生轮次与资助细节。 |
+| [IMT 卢卡高等研究院博士招生](https://imtlucca.it/it/node/6088)<br><sub>意大利 ｜ 计算机·生态/进化·神经/认知·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>2021/22 轮约 €15,343/年（税前总额，含免费住宿）；现行额度以官网为准</sub> | — | ✅ | 每年约 36 个全额奖学金名额（最长 4 年含免费住宿），英文授课，通常 6–7 月截止。 |
 | [INRAE 博士招生公告（jobs.inrae.fr）](https://jobs.inrae.fr/en/news/do-your-phd-inrae-see-our-current-offers)<br><sub>法国 ｜ 生物/生命科学·生态/进化·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | — | ✅ | **要求：** 需硕士（M2）或同等学历；须先注册博士学校；多为雇佣合同<br>INRAE 博士岗位多以雇佣合同形式招聘，常与合作伙伴共同资助（含 CIFRE 产业博士）；岗位在 jobs.inrae.fr 发布，可设提醒。具体截止以各岗位公告为准。 |
 | [ISGlobal 博士项目（巴塞罗那，国际名额）](https://isglobal.org/-/isglobal-phd-programme)<br><sub>西班牙 ｜ 医学/公卫·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>2025 轮：毛薪 Y1–Y2 €20,400/年，Y3–Y4 €24,350/年</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>2025 轮国际名额截止 2025-03-01；2026 轮国际 PhD 公告未找到，可写信至 PhD@isglobal.org 询问</sub> | ❔ | **要求：** 2025 轮要求 300 ECTS 硕士学位及良好英语，无国籍限制；不得已持西班牙政府博士奖学金<br>页面显示项目招生开放（Fechas：Abierto - Según cada programa），医学与转化研究子项目每年分四个时段接收申请；页面未给出 2026 轮的具体截止日期。 |
 | [KAUST ARMS 课题组（油藏建模）全额资助 MS/PhD 招生](https://arms.kaust.edu.sa/)<br><sub>沙特 ｜ 工程·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 滚动<br><sub>🟢 开放申请</sub><br><sub>组页称长期接收申请，具体以 KAUST 招生系统轮次为准</sub> | ❔ | **要求：** 需通过 KAUST 官方招生系统申请<br>页面称 ARMS 组提供全额资助的 MS/PhD 职位，申请须通过 KAUST 官方网站提交；研究方向包括油藏建模与模拟、化学驱、CO2 管理和地热等。 |
 | [L'Institut Agro 博士学院与博士项目（法国）](https://en.institut-agro-montpellier.fr/programs/degree-programs/phd/phd-schools)<br><sub>法国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | **要求：** 一般需硕士或同等学历，通常在近四年内获得（可申请例外）；教学语言为法语与英语；资助以 CIFRE、合作博士合同及各项目为准。<br>农业、食品与环境领域，与 INRAE、CIRAD 合作；可找 CIFRE、合作博士合同与 cotutelle，资助以各项目页为准。 |
+| [NERC GW4+ Doctoral Training Partnership](https://www.bristol.ac.uk/study/postgraduate/research/great-western-four-doctoral-training-partnership-nerc/)<br><sub>英国 ｜ 地球/环境/海洋·生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£22,437/年（2027 年 9 月入学，另含科研与培训经费）</sub> | **2027-01-07**<br><sub>🟢 开放申请</sub><br><sub>2026 年 9 月入学轮已关闭；2027 年入学细节预计 2026 年秋季公布</sub> | 🟡 | **要求：** 国际生名额有限；签证费、医疗附加费与搬迁费自理；学位与语言要求以各合作院校为准<br>NERC 环境科学联合博士培养（布里斯托/巴斯/卡迪夫/埃克塞特等）。国际生只有少量名额；全额资助的国际生按英国本土学费标准缴费，签证费和医疗附加费需自理。每年秋季开放下一轮。 |
 | [SWBio 西南生物博士培训伙伴项目列表](https://www.swbio.ac.uk/programme/projects-available)<br><sub>英国 ｜ 生物/生命科学·生态/进化</sub> | 博士 | 全奖 | —<br><sub>🔜 即将开放</sub><br><sub>2026 年 9 月入学已关闭；2027 年 9 月入学项目预计 2026 年 10 月公布</sub> | 🟡 | **要求：** 申请递交给项目所在承办院校；国际生资格以各项目公告为准<br>提供全额资助的四年期博士岗位。2026 年 9 月入学的申请已关闭，页面称 2027 年 9 月入学的项目将于 2026 年 10 月公布，可以提前关注。 |
 | [UC Berkeley 能源与资源集团（ERG）博士招生](https://erg.berkeley.edu/graduate-programs/graduate-admissions)<br><sub>美国 ｜ 工程·生态/进化·社会科学/心理·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>页面称 2027 年秋季入学的申请门户已开放，截止 2026 年 12 月 1 日；截止后不接受申请，除非导师证明有特殊情况。</sub> | ❔ | **要求：** 需美国学士或同等学历（或国际同等学历）；有 2 年以上相关工作经验者优先；每年约 350 人申请，录取约 20 人<br>跨学科能源与环境博士项目，仅秋季入学。页面称资助方案可能与录取通知分开提供，国际生资助条款页面未列。 |
 | [中研院 TIGP-BIODIV 生物多样性与生态进化博士项目](https://tigp-biodiv.biodiv.tw/?p=198)<br><sub>全球 ｜ 生态/进化·生物/生命科学</sub> | 博士 | 仅生活费 | **2027-02-01**<br><sub>🔜 即将开放</sub><br><sub>2027 年秋季入学，申请窗口 2026-11-01 至 2027-02-01，通过 TIGP 线上系统提交</sub> | ❔ | **要求：** 需本科或硕士学位（第三方说明，待官网确认）；英文授课；申请时需指定意向导师；大陆学生赴台申请受相关规定约束，需先核实资格<br>中研院与台湾师大、东海大学合办的生物多样性与生态进化博士项目，2027 年秋季入学。申请窗口 2026-11-01 至 2027-02-01，英文授课，录取者可获至少 3 年研究生奖学金。大陆学生赴台申请受相关规定约束，须先核实资格。 |
 | [乌普萨拉大学 · 进化与生态遗传学博士岗 (UFV-PA 2026/2654)](https://uu.varbi.com/en/what:job/jobID:967249/)<br><sub>瑞典 ｜ 生态/进化·生物/生命科学</sub> | 博士 | 带薪岗位 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>2026 年 11 月 1 日截止，入职时间 2027 年内灵活安排；全职 4 年，按瑞典大学博士工资表聘用，以岗位公告为准。</sub> | ❔ | **要求：** 需硕士学位（进化生物学、生态学、生物信息学或相近专业）；岗位公告未列国籍限制，国际生是否满足需以公告为准。<br>乌普萨拉大学生态与遗传系招聘博士生，课题涉及进化与生态遗传学，偏定量遗传/群体基因组/实验进化。申请需在 uu.varbi.com 提交，材料含 2 页求职信、CV、硕士证书与成绩单、两位推荐人。联系人 David Berger。 |
 | [伦敦 NERC 博士培训伙伴（London NERC DTP）](https://www.brunel.ac.uk/research/research-degrees/phd-studentships/the-london-nerc-doctoral-training-partnership)<br><sub>英国 ｜ 生态/进化·生物/生命科学·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>申请窗口通常 11 月至次年 1 月（9 月入学）；往年截止约 1 月初</sub> | 🟡 | **要求：** 英国荣誉学位二等一或同等；需满足 UKRI-NERC 资格；国际生名额有限<br>页面写明对国内外学生开放，覆盖学费（国际生减免至本地水平）与四年 UKRI 标准生活津贴；国际生名额有限。 |
+| [伦敦自然史博物馆（NHM）博士项目列表](https://www.nhm.ac.uk/our-science/study/postgraduate/phd-opportunities.html)<br><sub>英国 ｜ 生物/生命科学·生态/进化·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各项目截止不同，以页面当期列表为准。</sub> | ❔ | **要求：** 博物馆不授予学位，学生需在合作大学注册；国际生资格以各项目说明为准。<br>NHM 有馆内导师的博士项目都在此页公布，适合找生态、进化、分类方向的项目；需逐条核实资助与国际生条件。 |
+| [南安普顿海洋与地球科学博士（NOC 合作）](https://www.southampton.ac.uk/study/postgraduate-research/ocean-earth-science)<br><sub>英国 ｜ 地球/环境/海洋·生物/生命科学·物理/天文·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | 🟡 | 南安普顿与英国国家海洋中心合作的博士，经 INSPIRE 等 NERC 项目资助；国际生有少量 GSNOCS 奖学金，截止因课题而异。 |
 | [博洛尼亚大学 FishMed 地中海渔业与海洋生物资源博士（2026–27）](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/innovative-technologies-and-sustainable-use-of-mediterranean-sea-fishery-and-biological-resources-fishmed-phd)<br><sub>意大利 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€1,350/月（税后净额）</sub> | **2026-06-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2026–27 轮两批截止（3 月 30 日、6 月 15 日）均已过；下一轮以官网公告为准</sub> | ❔ | 博洛尼亚大学 FishMed 博士项目（Fano 中心，学制 3 年，含 3 个月境外交流），授课语言为英语和意大利语。2026–27 轮两批截止（3 月 30 日、6 月 15 日）均已过；奖学金为每月 €1,350 税后净额，以官网为准。 |
 | [多伦多大学生态与进化生物学（EEB）博士 · 国际生申请](https://eeb.utoronto.ca/education/graduate/graduate-admissions/)<br><sub>加拿大 ｜ 生物/生命科学·生态/进化</sub> | 博士 | 全奖<br><sub>$18,000/年（SGS 基础奖学金，另含学费与 UHIP；币种页面未注明）</sub> | **2026-12-07**<br><sub>🔜 即将开放</sub><br><sub>国际生博士申请截止 2026-12-07，本国生 2027-01-08（EEB 官网）；SGS 申请入口 2026 年 11 月 1 日开放，当前尚未开放。</sub> | ❔ | **要求：** 可从学士直接申请博士，但须先与导师达成意向（导师同意指导并提供资助）；该系不接收国际生读硕士<br>EEB 系国际生博士申请截止 2026-12-07（申请入口 11 月 1 日开放）；需先与导师达成意向并获系内录取。SGS 基础奖学金 $18,000/年加学费，系所可加不可减，请以官网为准。 |
 | [布里斯托大学 Cabot 环境研究所博士机会页](https://www.bristol.ac.uk/cabot/postgraduate-opportunities/phds)<br><sub>英国 ｜ 地球/环境/海洋·生态/进化·工程·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各项目截止不同</sub> | ❔ | 列出环境类博士机会（含 NERC GW4+ DTC、Sustainable Futures 等）；建议先与感兴趣的导师沟通再投递。 |
@@ -113,42 +130,48 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（6）
+## 博士后奖学金与项目（8）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Eawag 博士后奖学金](https://www.eawag.ch/en/about-us/working/eawag-postdoctoral-fellowship/)<br><sub>瑞士 ｜ 生态/进化·工程·生物/生命科学·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2026-04-05**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 4 月 5 日已截止；2027 轮时间待官网公布</sub> | ❔ | **要求：** 博士学位须在申请截止前两年内获得；不得曾与 Eawag 合作<br>两年期博后奖学金，2026 轮已于 4 月 5 日截止，2027 轮时间待官网公布。要求博士在申请截止前两年内获得，且不得曾与 Eawag 合作。 |
 | [NOAA 气候与全球变化博士后奖学金（C&GC，UCAR CPAESS）](https://cpaess.ucar.edu/cgc/class-25)<br><sub>美国 ｜ 地球/环境/海洋·生态/进化·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2026-10-16**<br><sub>🟢 开放申请</sub><br><sub>2026 届申请截止 2026-10-16；非美籍资格以当届公告为准</sub> | ❔ | 面向近 3 年内获博士者，与 NOAA 合作机构导师配对，两年期。2026 届尚待联邦预算决定，历年申请通常秋季开放、次年 1 月截止。是否对非美籍开放以当届 call 为准。 |
+| [NREL 主任博士后奖学金（Director's Postdoctoral Fellowship）](https://www.nlr.gov/careers/directors-fellowship)<br><sub>美国 ｜ 工程·化学/材料·物理/天文·生态/进化·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 未公布<br><sub>🔜 即将开放</sub><br><sub>每年 1 月 1 日至 3 月 31 日开放申请，面试 5–6 月，7 月底至 8 月定录用</sub> | ❔ | **要求：** 需近两年内获博士学位；需获导师提名并共同制定研究计划；国际生需确认美国工作授权<br>NREL（现更名 NLR）主任博士后奖学金，2 年期（可续 1 年）。官网未列出本轮截止日，申请前以招聘页为准。 |
 | [Scripps 海洋研究所博士后奖（Scripps Postdoctoral Scholar Award）](https://apol-recruit.ucsd.edu/JPF04644)<br><sub>美国 ｜ 地球/环境/海洋·生态/进化·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>最低 $74,000/年（另含福利），一次性研究津贴 $6,000</sub> | **2027-01-31**<br><sub>🟢 开放申请</sub><br><sub>2027 轮页面称 2026 年 9 月 4 日开放；2026 年 10 月 16 日为优先评审日（已过），最终截止 2027 年 1 月 31 日（太平洋时间），之后仅在职位未招满时考虑。</sub> | ✅ | **要求：** 需先联系潜在导师，再通过 UCSD 招聘系统提交申请；两年期<br>UCSD Scripps 海洋研究所博士后奖，两年期并提供薪资与津贴；须先联系潜在导师。 |
 | [斯坦福 Doerr 可持续发展学院 Dean's 博士后奖](https://earth.stanford.edu/about-school/dei/postdoctoral-resources/postdoctoral-fellowship-program)<br><sub>美国 ｜ 地球/环境/海洋·生态/进化·工程</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>年薪 $85,000（最长两年），另加 $10,000/年研究与专业发展经费</sub> | **2026-11-30**<br><sub>🟢 开放申请</sub><br><sub>页面称申请截止 2026 年 11 月 30 日（周一），须通过官网门户申请。</sub> | ✅ | 两年期博后，含博后福利与医保；页面称斯坦福教师的提名信不予考虑，也不需要。页面地址已迁至 sustainability.stanford.edu。 |
 | [洪堡国际气候保护奖学金](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/international-climate-protection-fellowship)<br><sub>德国 ｜ 生态/进化·地球/环境/海洋·工程</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面写明 2026 年 2 月 10 日截止的一轮已过；页面称下一轮计划于 2026 年秋季开始，可注册接收开放通知。</sub> | ❔ | 洪堡国际气候保护奖学金面向非欧洲发展中或转型国家、从事气候与资源保护相关工作或研究的未来领导者与博后，须在德国开展研究。页面写明 2026 年 2 月 10 日截止的一轮已过，下一轮计划于 2026 年秋季开放。 |
 | [苏黎世大学 CEES 东欧与欧亚研究员计划](https://www.cees.uzh.ch/en/Fellowship-Program/Current-Call.html)<br><sub>瑞士 ｜ 生态/进化·地球/环境/海洋·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | **2026-10-12**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 年春季学期征集截止 2026 年 10 月 12 日（已过）；页面未给出下一轮时间，以征集页为准。</sub> | ❔ | **要求：** 面向东欧、俄罗斯、高加索或中亚研究的社会科学与人文学者；需研究计划、写作样本与两封推荐信。其他资格条件以征集页为准。<br>页面为 2027 年春季学期征集（约 4 个月驻校，5–6 个名额），资助含生活津贴、差旅与行政费用，并协助在苏黎世找房；仅限在本校就读或任职的申请者。 |
+| [蒙特雷湾水族馆研究所（MBARI）博士后奖学金申请说明](https://www.mbari.org/about/careers/postdoc-fellowships/how-to-apply/)<br><sub>美国 ｜ 生物/生命科学·生态/进化·地球/环境/海洋·工程</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>首年 $77,000、第二年 $82,000（MBARI 页面）</sub> | **2026-12-02**<br><sub>🟢 开放申请</sub><br><sub>官网写明 2026 年 12 月 2 日太平洋时间下午 5 点截止，预计 2 月底前公布结果。</sub> | ❔ | **要求：** 需已获博士学位；需 3–5 封推荐信、博士研究陈述及最多 3 位潜在导师；材料发送至 jobs_postdocs@mbari.org<br>MBARI 两年期博士后奖学金，需已获博士学位，覆盖生物、化学、物理海洋、海洋地质与工程方向。2026 轮申请已关闭。金额以 MBARI 页面为准。 |
 
 <a id="fellowships"></a>
 
-## 企业与基金会 Fellowship（3）
+## 企业与基金会 Fellowship（4）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Simons 生态与进化研究生奖学金（Simons Graduate Fellowships in Ecology and Evolution）](https://www.simonsfoundation.org/grant/simons-graduate-fellowships-in-ecology-and-evolution/)<br><sub>美国 ｜ 生态/进化·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-06-30**<br><sub>⏸ 本轮已截止</sub><br><sub>页面未给出具体截止日期：2026 轮标注为 Closed，2027 轮标注为 Under Review。</sub> | ✅ | **要求：** 须申请或入读美国高校生物/生命科学相关博士项目；已持有生态或进化方向博士学位者，或 2026 年夏季前已入读此类博士项目者不符合条件；无国籍要求<br>页面写明资助面向进入美国博士项目、拟开展生态与进化研究的学生。2026 轮标注已关闭，2027 轮标注为 Under Review。 |
 | [爱尔兰海洋研究所 Cullen 博士奖学金](https://www.marine.ie/site-area/research-funding/research-funding/cullen-scholarship-2025-call)<br><sub>爱尔兰 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>每年约 6 月初截止（2025 轮为 6 月 10 日）；2026 轮未见公告，可邮件 funding@marine.ie 核实</sub> | ❔ | **要求：** 宿主须为爱尔兰岛内高校导师；国际生资格以当年公告为准<br>每轮约 10 个海洋科学博士名额，挂靠 Marine Institute 项目。 |
 | [英国与爱尔兰鱼类学会（FSBI）博士奖学金](https://fsbi.org.uk/phd-studentships-fsbi-3/)<br><sub>英国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>🔜 即将开放</sub><br><sub>每年 1 月 30 日 17:00 GMT 截止（页面写 30 January），逾期不予考虑；以当年公告为准。</sub> | ❔ | **要求：** 需学士学位（一等或上二等荣誉，生物相关学科）；申请时须为 FSBI 付费会员；课题须与鱼类相关<br>页面称学会每年面向会员开放一次 PhD 奖学金竞争，资助四年全额（含学费与生活费）。申请人须为付费会员并计划在英国高校工作（页面列为基本条件）；不符合英国居住条件的学生须自行补足学费差额。 |
+| [韩国极地研究所（KOPRI）访问学者奖学金](https://iasc.info/news/arctic-community-news/1655-kopri-fellowship-program-2026-second-round-call-open)<br><sub>韩国 ｜ 地球/环境/海洋·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 半奖/部分 | **2026-06-18**<br><sub>⏸ 本轮已截止</sub><br><sub>第二轮 2026 年 6 月 18 日截止（已过）；访问期最长 3 个月，含差旅、住宿与生活费；下一轮未公布。</sub> | ⛔ | **要求：** 需 KOPRI 科学家支持；需提交申请表、研究计划、所属机构同意书和支持信。<br>2026 第二轮已于 6 月 18 日截止；北极轨道面向北极国家及北极原住民背景研究者，南极轨道面向智利与新西兰研究者，中国学者不在对象之列（以官方 call 为准）。 |
 
 <a id="discipline"></a>
 
-## 学科专属信源（10）
+## 学科专属信源（13）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Animal Behavior Society · Positions & News（Jobs & Postdocs / Grad Positions）](https://www.animalbehaviorsociety.org/web/news.php)<br><sub>全球 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | 动物行为学会官方公告页，分 Jobs & Postdocs 与 Grad Positions 两类，仅显示近 60 天帖子。各岗位资助与国际生资格需逐条看原帖。 |
 | [ECOLOG-L](https://esa.org/membership/ecolog/)<br><sub>美国·全球 ｜ 生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 依职位而定；列表中的 PhD 岗位多为 RA/TA 或助研名额<br>美国生态学会（ESA）的 ECOLOG-L 邮件列表，主要用于发布研究生与博后岗位。归档需申请口令访问；订阅无需 ESA 会员。当前职位请查看归档。 |
 | [ES_JOBS_NET 地球与环境科学岗位列表（UCAR）](https://mailman.ucar.edu/pipermail/es_jobs_net/)<br><sub>全球·美国 ｜ 地球/环境/海洋·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | UCAR 托管的 es_jobs_net 邮件列表归档页，可按月浏览，最新一项为 2026 年 10 月；岗位以各帖为准。 |
+| [European Ornithologists' Union · 职位与机会公告（鸟类学博士/博后）](https://eounion.org/announcements/positions-opportunities-available/)<br><sub>欧盟/欧洲·全球 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 未公布<br><sub>📋 持续更新</sub><br><sub>以系/学院招生页为准</sub> | ❔ | **要求：** 各岗位要求以原公告为准<br>欧洲鸟类学家联盟的岗位公告汇总页，持续发布鸟类生态、迁徙、行为生态方向的博士/博后岗位。资助与国际生资格需在原公告核对。 |
 | [EvolDir](https://evol.mcmaster.ca/brian/evoldir.html)<br><sub>全球 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub><br><sub>邮件列表持续更新；招生信息以各帖为准</sub> | ❔ | **要求：** 岗位条件以各帖为准<br>进化生物学邮件列表（McMaster 维护）。页面显示站点已迁移至 https://evoldir.net，并含 2026 年 10 月的更新；岗位类内容见 Graduate positions 分类。 |
 | [ISCE 化学生态学职位板](https://chemecol.org/employment/)<br><sub>全球 ｜ 化学/材料·生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 各岗位要求不同，需看具体公告；岗位涵盖教授、博后与博士<br>ISCE 化学生态学职位板，页面公告包括博士岗位（如印第安纳大学、加州大学河滨分校、弗吉尼亚理工大学）以及研究人员类职位。页面日期格式为 MM/DD/YYYY（如 10/17/2026），公告约保留六个月。 |
 | [ISME 国际微生物生态学会职业页](https://isme-microbes.org/public/profiles/careers)<br><sub>全球 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面列出多个博后岗位，截止日期不一：维也纳 RECLESS 博后为 2026-10-31，Wang 实验室与中山大学 Yang 实验室博后均列为 2027-12-31。</sub> | ❔ | 微生物生态方向博后与博士岗，常来自中国、欧美高校实验室。部分截止日期异常，务必核对岗位页真实截止时间与资助来源。 |
+| [MASTS 苏格兰海洋科学网络职位与博士公告](https://masts.ac.uk/news-events-opportunities/vacancies/)<br><sub>英国 ｜ 地球/环境/海洋·生物/生命科学·生态/进化·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>列表随岗位更新；已见岗位截止多已过。</sub> | ❔ | **要求：** 各岗位要求不同，国际生资格需逐条核对。<br>苏格兰海洋科学联盟博士与博后公告汇总。英国国际生资格不一，需看岗位是否提供全额奖学金。 |
 | [哥德堡大学海洋中心招聘页（Ocean vacancies）](https://www.gu.se/en/ocean/vacancies)<br><sub>瑞典 ｜ 生物/生命科学·生态/进化·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>岗位按批次发布；以学校总招聘页当期公告为准</sub> | ❔ | 哥德堡大学海洋相关招聘在学校总招聘页发布，岗位按批次出现、截止各不相同，以官网当期公告为准。 |
 | [布雷斯特欧洲海洋研究所（IUEM）招聘页](https://www-iuem.univ-brest.fr/the-institute/recruitment/?lang=en)<br><sub>法国 ｜ 地球/环境/海洋·生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | —<br><sub>🔄 随时可申</sub> | ❔ | 页面称 IUEM 全年按合同招聘人员并接收各级实习生；页面列出的博后岗位发布于 2025 年 9 月，未见 2026 年开放的博士合同。 |
 | [普利茅斯海洋生物协会（MBA）博士机会页](https://www.mba.ac.uk/phd-opportunities)<br><sub>英国 ｜ 生物/生命科学·地球/环境/海洋·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | MBA 本身不长期发布独立博士岗位，博士机会多经 Marine Research Plymouth（MRP）发布。MRP 2026 年入学的 3.5 年博士奖学金已发布，截止日期需看 MRP 页面。国际生资格以项目说明为准。 |
+| [比较生物学会（SICB）职位与奖学金板](https://sicb.org/jobs-and-fellowships/)<br><sub>美国·全球 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 比较生理与进化生物学方向的职位与奖学金入口，博后较多。以美国岗位为主，中国学生需核对工作许可。 |
 | [美国植物学会（BSA）共享职位板](https://jobs.botany.org)<br><sub>美国·全球 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 页面列出大学教职、研究员、博后、博士助研（Ph.D. Graduate Assistantship）等职位，各岗位截止日期不同。 |
 
 <a id="people-channels"></a>
