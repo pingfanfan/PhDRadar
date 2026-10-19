@@ -235,6 +235,30 @@
   verify_method: page
   page_evidence: Partial postgraduate scholarship which covers tuition fee waived is available for foreign nationals who are interested in pursuing master and doctoral program.
   verified: 2026-10-18
+- id: mahidol-mugr-scholarship
+  name: 玛希隆大学研究生院国际生奖学金（MUGR 2026）
+  url: https://graduate.mahidol.ac.th/download/main/scholarships/pdf/MUGR-Scholarship2026.pdf
+  category: university-schemes
+  regions:
+  - TH
+  disciplines:
+  - all
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: partial
+  deadline: unknown
+  deadline_note: 2026 轮程序截止 1 月 13 日（项目配额）与 3 月 9 日（中央配额）已过；2027 学年通知见研究生院官网
+  status: closed
+  requirements: 面向国际硕博生；部分学院不适用（如 Siriraj、Ramathibodi 医学院、环境与资源研究、热带医学等），以当年公告为准
+  notes: 玛希隆研究生院国际生奖学金，覆盖学费及部分其他费用，部分学院不适用；2026 轮申请已截止，2027 学年通知看研究生院官网。
+  verify_method: page
+  page_evidence: 'Doctoral: up to 25,000 THB/semester'
+  verified: 2026-10-19
 - id: kmutt-intl-scholarships
   name: 泰国 KMUTT 国际生奖学金总页
   url: https://www.kmutt.ac.th/sfa/scholarships-for-international-students/?lang=en
@@ -325,6 +349,77 @@
   verify_method: page
   page_evidence: Koç University invites applications from scholars specializing in the archaeology, art history, history
   verified: 2026-10-18
+- id: mahidol-microbiology-ta-scholarships
+  name: 玛希隆大学微生物系助教奖学金（博士）
+  url: https://microbiology.sc.mahidol.ac.th/scholarships
+  category: university-schemes
+  regions:
+  - TH
+  disciplines:
+  - bio
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: stipend
+  stipend: 助教奖学金 12,000 泰铢/月（每学期最多 5 个月，或 300 泰铢/小时）
+  deadline_note: 助教奖学金通常 6 月申请；需与系里确认
+  status: upcoming
+  requirements: 需学士学位；全额博士岗位要求 IELTS 6（或 TOEFL iBT 79）；名额少，建议先联系导师
+  notes: 系级助教奖学金，博士申请人要求 GPA 3.25 以上，按月发放津贴；名额少，申请前先联系导师。
+  verify_method: page
+  page_evidence: A funding of 12,000 baht per month for a duration of no longer than 5 months per semester
+  verified: 2026-10-19
+- id: icipe-doctorate-capacity-building
+  name: icipe 国际昆虫生理与生态中心博士/博后项目总页
+  url: https://www.icipe.org/capacity_building/doctorate
+  category: doctoral-programs
+  regions:
+  - KE
+  disciplines:
+  - bio
+  - eco
+  funding: mixed
+  levels:
+  - phd
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: unknown
+  deadline_note: 2026 年 9 月入学批次已结束（二手来源）；下一轮未查到
+  status: closed
+  requirements: 学士与硕士均需达到二等上（Upper Second）及以上、自然科学相关背景；须同时向 icipe 与 DAAD 申请；2026 轮二手信息限撒哈拉以南非洲国籍
+  notes: 内罗毕 icipe 博士项目通过 ARPPIS-DAAD 等渠道招收，2026 年 9 月入学批次已结束。二手来源显示 2026 轮限撒哈拉以南非洲国籍，官方页未能直接访问，cn_eligible 保持 check，以当期公告为准。
+  verify_method: page
+  page_evidence: 'Two-year fellowships: PDFs are attached to on-going'
+  verified: 2026-10-19
+- id: bocconi-phd-econ-fin-fellowships
+  name: Bocconi 博士奖学金与费用说明（经济/金融）
+  url: https://unibocconi.it/en/programs/phd/admission-phd-programs/financial-matters
+  category: university-schemes
+  regions:
+  - IT
+  disciplines:
+  - econ
+  - business
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  notes: 按 cycle 公布的 merit 奖学金（第 42 轮 Finance 首年约 €27,000，含学费减免），未获奖学金需交学费；2027 入学通知关注官网。
+  verify_method: page
+  page_evidence: Financial conditions for the a.y. 2027-2028 intake will be published November 3rd, 2026.
+  verified: 2026-10-19
 - id: crest-genes-doctoral-contracts
   name: CREST / GENES 博士合同（ENSAE 经济与统计）
   url: https://crest.science/?p=11510

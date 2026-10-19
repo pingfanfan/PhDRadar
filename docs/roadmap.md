@@ -97,7 +97,12 @@
 2026-10-19 至北京时间 10-22 零点冲刺：14 个云端会话并行（见 `research/workers.yml` 的 `sprint`）：核实 1–4、研究 1–4、工程 A/B/D、产品 C/E、数据 F，覆盖下面第 1–7 项；冲刺期间每日“路线图推进”任务只做冲刺未覆盖的事。
 
 1. 【冲刺·工程 A 进行中】岗位结构化字段：学位、语言、材料清单、开始时间、资助年限（先覆盖 jobs.ac.uk、FindAPhD、AcademicTransfer、Varbi、DAAD）。
+   - 进度（10-19）：`scripts/enrich_postings.py` 上线（读详情页 → 平台固定栏目规则 → Sonnet 子代理按 `research/enrich-prompt.md` 抽取 → 程序校验原句逐字在正文、数字只来自原句），结果在 `_data/posting_fields.yml`，首页详情页“申请须知”逐项可展开原句，卡片显示语言标签。
+     可读取的 1575 个在招岗位全部处理完，68% 有学位/语言/材料至少两项（占全部在招 2160 条的 50%）；各字段命中率：学位 81%、材料 60%、年限 61%、申请方式 60%、开始时间 45%、语言 38%、导师 29%、身份限制 13%。
+     准确率：独立 Sonnet 审核员抽查 112 个岗位 436 个字段，ok 418 / 小问题 17 / 错 1（已加 Inria 固定栏目规则修正）；人工抽查 20 个岗位全部准确。
+     未覆盖：FindAPhD（455 条，本机被拦，只有 Actions 能访问）、Jobbnorge（130 条，详情页靠脚本渲染、无公开接口）；jobs.ac.uk 公告多把要求放在附件 PDF，覆盖只有 25%。
 2. 【冲刺·工程 B 进行中】接入大学招聘系统：先做 Workday 与 SuccessFactors 的通用适配器，再按国家列出高价值学校。
+   - 10-19：`scripts/ats.py`（经 `platforms_ats.py` 注册，已在本地默认清单）接入 6 类：Workday（24 个站点：Aalto、NTU、NUS、悉尼、墨尔本、Monash、UQ、UBC、McGill 等）、SuccessFactors（12 所：EPFL、TU Delft、维也纳、赫尔辛基、根特、巴塞尔、FU Berlin、NUS 等）、Oracle Recruiting（DTU、SDU）、PageUp（港大、La Trobe）、ReachMee（Chalmers）、学校自建招聘页（哥本哈根大学）。首轮收录 289 条（Oracle 93、SuccessFactors 125、Workday 52、哥本哈根 36、Chalmers 18）。截止日期只取正文原句（数字日期按同页写法判断日月顺序，判断不了不收）；PageUp 访问稍快就弹 AWS WAF 验证，目前被拦，不绕过。
 3. 【冲刺·核实 1–4 进行中】全部信源用更强的模型重新核实一遍（失效 → 资格待核实 → 缺字段 → 最久未核实）。
 4. 【冲刺·产品 C 进行中】`profile.yml` 结构与 `/setup` 命令；`/rank` 硬性筛选 + 关键词匹配版；网站“为我推荐”。
    - 10-19：画像结构 `docs/profile-schema.md` + `profile.example.yml`（真实画像、简历要点、排序结果写进 .gitignore）；`/setup`、`/rank` 命令；
@@ -105,11 +110,15 @@
      `tests/test_rank.py` 用构造画像验证筛选与排序，并在全部现在可申请的岗位上核对两边结果一致。
    - 10-19：评测 `docs/rank-eval.md`（`scripts/rank_eval.py`，画像与人工标注在 `tests/rank_eval_*.yml`）：20 个调规则画像前 10 准确率 81%，
      10 个留出画像 74%（第二组写完后不再改规则：79%）。规则改为只推荐命中关键词的机会、同义词与更窄的词分开、学科冲突丢弃、方法类词用在别的学科打折等 11 项。
+   - 10-19：网站“为我推荐”标签页（`#rec`）：关键词、层次、学历、最低资助、截止准备期、雅思 / 托福 / 德语、国家偏好、只看中国学生可申、敏感方向；
+     画像只存 localStorage（`phdradar-profile`），浏览器里用 `assets/rank.js` 按与 `/rank` 相同的规则排序，卡片写明匹配分、命中的关键词与条件，学科相同但未命中关键词的单列为“相关性较弱”。
 5. 【冲刺·工程 D 进行中】根据 GitHub Actions 上的可访问性结果，把只在 Actions 上能访问的信源和平台改在 Actions 上采集；研究德国联邦劳动局开放接口当前的访问方式。
    - 10-19：`collect_postings.py -s actions` 采集 `ACTIONS` 清单（只有 Actions 能访问的平台，目前 FindAPhD），postings 工作流默认用它；`import_postings.py` 默认一次并回清单里全部平台（逐平台比较采集时间）。
    - 10-19：德国联邦劳动局 Jobsuche 接入（`scripts/platforms_de.py`，适配器 `arbeitsagentur`）：bund.dev 文档公开的通用 clientId（请求头 `X-API-Key: jobboerse-jobsuche`，无需 OAuth/申请），旧版 `/pc/v4/jobs` 已 403，改用 `/pc/v6/jobs` + `/pc/v4/jobdetails`；截止日期只从描述原文取（Bewerbungsfrist / 带申请语境的 bis zum，排除合同期），抽样 70 条收 41 条。新平台统一写在 `scripts/platforms_*.py`，collect_postings 自动注册（ADAPTERS / HEADERS / VIA_RANK）。
    - 10-19：新平台（先查 robots.txt、确认截止日期能取到原文）：CNRS Emploi（博士合同 + 研究员 CDD，试跑 243 条）、MathJobs（51）、TAMU 自然资源招聘板（111）、Aarhus University（27）、H-Net（本环境 429，待日常任务验证）、PSI / ESO / IBS（机构招聘页通用适配器）；已加入本地默认清单。调研后不接入：ADUM / APS / HiBrain（robots 全站禁止）、JREC-IN（条款要求转载先获 JST 许可）、PhilJobs / AEA JOE（条款禁止入库或抓取）、Helmholtz（门户无截止日期）、AAS / SIAM / IEEE / ACM / AGU（Cloudflare 拦截）；各校 Workday / SuccessFactors / PageUp 等交给工程 B。
+   - 10-19 晚：首轮并入 617 条（CNRS 244、劳动局 119、TAMU 111、MathJobs 49、EconJobMarket 43、Aarhus 27、INFN 9、Pasteur 5、PSI/ESO/IBS 10）。再调研后不接入或暂缓：SISSA（“Open”状态不更新，现无在招博后）、CRG（现无研究型博后）、ICFO / CSIC / CNR（页面无截止日期或只在 PDF）、University Affairs（多为 open until filled）、HigherEdJobs / AcademicKeys / BSC / 卢森堡大学（人机验证拦截）、Chemistry World 与 NeuroJobs（几乎无博士博后或被拦）；法国公务员招聘门户 choisirleservicepublic.gouv.fr 可用但每页 4.5MB、博后占比低，留作候选。
 6. `/rank` 金标准评测（50 个虚构画像）；之后加向量与模型打分。
+   - 10-19（产品 C）：50 个画像标注完成（`tests/rank_eval_*`，冻结数据 `tests/rank_eval_catalog.json.gz`）；Claude 逐条判断把前 10 准确率从 70% 提到 91%；向量相似度（多语言 MiniLM）AUC 只有 0.63，不采用。`/setup` 让 Claude 把关键词扩写成 6–8 个中英文说法（召回 +6%，准确率由 Claude 判断兜底）。
 7. 【冲刺·产品 E 进行中】`/apply` 的申请清单与套磁信起草；`/track` 看板与提醒。
    - 10-19：`/apply`（`.claude/commands/apply.md` + `scripts/apply_check.py`）：`prepare` 取岗位原文生成申请清单（材料、推荐信数量、格式字数、截止时刻与时区、申请方式、开始时间、资格、资助，每项附原句），
      `papers` 查导师近期论文（OpenAlex）；起草 / 审稿子代理提示词在 `research/apply-draft-prompt.md`、`research/apply-review-prompt.md`；
@@ -117,3 +126,7 @@
      兼容产品 C 的 cv-facts 格式（`facts` 列表），顶层可加 `name`/`email` 供落款。
    - 10-19：`/track`（`.claude/commands/track.md` + `scripts/track.py`）：`applications/tracker.yml` 五阶段看板，截止前 14/7/1 天与套磁 10 天未回提醒、每周摘要、导出 .ics、导入网站收藏。
    - 10-19：网站“我的收藏”加申请进度（想投 / 准备中 / 已投 / 面试 / 结果，存浏览器本地）、按进度筛选、“导出全部截止到日历”（截止前 14/7/1 天提醒）。
+   - 10-19：端到端演示 `docs/apply-demo.md`（3 个虚构申请者 × 3 个真实岗位）：清单 → 导师论文 → 起草 → 校验 → 审稿 → 修改 → 定稿草稿，13 个文件 0 错误；
+     红队评测 `scripts/apply_eval.py` 对定稿逐句造编造变体，拦下 343/347（99%）；审稿子代理找出了全部 6 句藏进去的程序查不出的编造。
+     校验新增：身份 / 状态 / 角色 / 影响 / 首次 / 结论强度 / 频率 / 全称量词说法须有出处、出处张冠李戴检测、年份区间、缩写首字母。`/track weekly` 有画像时按 `/rank` 规则列新匹配。
+   - 下一步：真实用户改稿后统计修改比例（`edit-ratio`，目标 < 30%）；中文转述英文事实的对应检查；把 `/apply` 的申请清单接到网站详情页（只用岗位原文，不涉及个人数据）。

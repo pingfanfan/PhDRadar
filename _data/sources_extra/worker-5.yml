@@ -286,6 +286,32 @@
   verify_method: page
   page_evidence: 'Graduate Student Handbook – Department of Animal Sciences Updated: 12/10/2024'
   verified: 2026-10-17
+- id: massey-phyllis-grey-pg-fellowship
+  name: 梅西大学 Phyllis Irene Grey 兽医科学研究生奖学金
+  url: https://www.massey.ac.nz/study/scholarships-and-awards/phyllis-irene-grey-fellowships-in-veterinary-science-postgraduate/
+  category: university-schemes
+  regions:
+  - NZ
+  disciplines:
+  - med
+  - bio
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: partial
+  stipend: 最高 NZ$3,000/年
+  deadline: 2027-05-01
+  deadline_note: 官网目前显示本轮已关闭，下一轮以官网为准
+  status: closed
+  requirements: 限女性研究生，需已在梅西兽医科学相关课程就读或录取
+  notes: 面向女性兽医科学研究生的小额奖学金，每年通常 1 名；国际生是否可申请以官网为准。
+  verify_method: page
+  page_evidence: Applications open 1 February 2027 and close 1 May 2027.
+  verified: 2026-10-19
 - id: nioo-reading-ecosystems-space-phd
   name: NIOO-KNAW 与乌得勒支大学 · 卫星高光谱读取生态系统 博士
   url: https://magnet.me/en/opportunity/1085216/phd-candidate--reading-ecosystems-from-space
@@ -434,6 +460,31 @@
   verify_method: page
   page_evidence: POSTGRADUATE RESEARCH IN ECOLOGY & BIODIVERSITY
   verified: 2026-10-18
+- id: hokkaido-lfs-igp-scholarship
+  name: 北海道大学生命科学研究科 IGP 特别名额（国际博士奖学金）
+  url: https://www.lfsci.hokudai.ac.jp/en/info/?p=2323
+  category: university-schemes
+  regions:
+  - JP
+  disciplines:
+  - bio
+  - eco
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: unknown
+  deadline_note: 页面所见为 2026 年 10 月入学轮（须在 2025-11-10 前联系导师，2025-12-10 前由导师递交 IGP 办公室）；2027 年 10 月入学轮页面未见，请以官网为准
+  status: closed
+  requirements: 面向国际学生（生命科学方向），英语授课；须先与拟指导教师取得联系并获同意与推荐，由导师于 12 月 10 日前将材料交 IGP 办公室；学位与语言要求以官网为准。
+  notes: 北海道大学生命科学研究科 IGP 文部科学省（MEXT）特别名额，面向 2027 年 10 月入学的国际博士生，5 名，3 年期；需先与实验室匹配并取得导师推荐。第三方称月津贴 145,000 日元并免学费，未经官网核实。
+  verify_method: page
+  page_evidence: 3-year scholarships for 5 doctoral students and 2-year scholarships for 3 master’s students are available for international students
+  verified: 2026-10-19
 - id: antwerp-eveco-job-opportunities
   name: 安特卫普大学进化与生态组（EvECo）招聘页
   url: https://www.uantwerpen.be/en/research-groups/eveco/organisation/job-opportunities
@@ -581,6 +632,30 @@
   verify_method: page
   page_evidence: The PhD scholarships are available in all fields and areas of research at the Faculty of Arts.
   verified: 2026-10-19
+- id: lund-gender-studies-doctoral
+  name: 隆德大学性别研究博士培养页
+  url: https://www.soc.lu.se/en/doctoral-studies/doctoral-studies-gender
+  category: doctoral-programs
+  regions:
+  - SE
+  disciplines:
+  - social
+  - humanities
+  funding: info
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: rolling
+  deadline_note: 博士岗按校方公告发布，无固定截止
+  status: ongoing
+  notes: 隆德大学性别研究博士培养页。隆德博士生为带薪雇员、免学费。具体岗位截止需到 Varbi 门户核对。
+  verify_method: page
+  page_evidence: Lund University offers PhD studies in all eight faculties.
+  verified: 2026-10-19
 - id: edinburgh-sps-doctoral-college-scholarship
   name: 爱丁堡大学社会与政治科学院博士学院奖学金
   url: https://www.sps.ed.ac.uk/students/postgraduate/prospective/scholarships/sps-awards/edinburgh-doctoral-college-scholarships
@@ -607,6 +682,30 @@
   verify_method: page
   page_evidence: The scholarship application system for academic year 2027/28 is now open and will close at 23:59 GMT on Tuesday 2nd February 2027.
   verified: 2026-10-17
+- id: manchester-mae-pgrta-dse516
+  name: 曼彻斯特大学机械与航空航天工程 PGRTA 增强型博士岗
+  url: https://www.jobs.ac.uk/job/DSE516/mechanical-and-aerospace-engineering-pgrtas-enhanced-phd-studentship
+  category: university-schemes
+  regions:
+  - UK
+  disciplines:
+  - engineering
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: 2026-11-15
+  deadline_note: 摘要称截止 2026-11-15，需在岗位页核对
+  status: open
+  requirements: 资格按 Home 学费标准判定，国际生能否申请需在岗位页核实
+  notes: 教学助理与博士奖学金结合的岗位，摘要称年薪约 £28,832 且学费全免，需承担教学；国际生资格是关键问题，申请前务必确认。
+  verify_method: page
+  page_evidence: 'Mechanical and Aerospace Engineering PGRTAs: Enhanced PhD Studentship'
+  verified: 2026-10-19
 - id: hku-civil-transport-phd-page
   name: 香港大学土木工程系交通方向教授招生页
   url: https://www.civil.hku.hk/kejintao/opportunies.html
@@ -1188,6 +1287,31 @@
   verify_method: page
   page_evidence: This PhD position is financed by the Villum Young Investigator grant “Understanding C*-algebras by inducing symmetries” held by Johannes Christensen.
   verified: 2026-10-17
+- id: iarc-postdoc-fellowships-call
+  name: IARC 癌症研究博士后奖学金（里昂，WHO）
+  url: https://www.iarc.who.int/news-events/call-for-applications-for-iarc-postdoctoral-fellowships-is-now-open/
+  category: postdoc-fellowships
+  regions:
+  - FR
+  disciplines:
+  - med
+  - bio
+  funding: fellowship
+  levels:
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: unknown
+  deadline_note: 2026–2027 轮已于 2025-05-10 截止，官网显示已关闭；下一轮时间未公布
+  status: closed
+  requirements: 需博士学位；仅限低收入及中低收入国家国籍，中国大陆是否在名单内需以官网为准；需英语科研交流能力及两封推荐信
+  notes: IARC（WHO 癌症研究机构）里昂两年期癌症研究博士后奖学金，面向低收入与中低收入国家研究者。2026–2027 轮已于 2025 年 5 月截止，下一轮时间未公布。中国大陆是否属于资格国家名单需以官网为准。
+  verify_method: page
+  page_evidence: The deadline for applications is midnight CEST on 9 May 2025.
+  verified: 2026-10-19
 - id: iarc-visiting-postdoc-opportunities
   name: IARC 访问学者与博士后机会页（WHO）
   url: https://www.iarc.who.int/visiting-scientist-and-postdoctoral-opportunities/
@@ -1238,6 +1362,32 @@
   verify_method: page
   page_evidence: The University will offer PhD scholarships for students starting their PhD research at the University in the 2027-2028 academic session.
   verified: 2026-10-17
+- id: edinburgh-global-health-policy-phd
+  name: 爱丁堡全球卫生政策博士（GHPU）
+  url: https://ghpu.sps.ed.ac.uk/phd-global-health-policy/
+  category: doctoral-programs
+  regions:
+  - UK
+  disciplines:
+  - social
+  - med
+  - econ
+  funding: info
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  deadline: varies
+  deadline_note: 以 Edinburgh 申请门户与当期奖学金截止为准
+  status: ongoing
+  requirements: 国际生申请学院奖学金需同时申请 Edinburgh Global Research Scholarship，或证明可支付全额海外学费
+  notes: 学院奖学金名额有限，国际生通常需自证学费来源。官网列出的 ESRC studentship 仅限英国或欧盟居民；学院级奖学金按英国/欧盟学费标准发放。应先看能否拿到 Edinburgh Global Research Scholarship，并尽早申请。
+  verify_method: page
+  page_evidence: The School of Social and Political Science has numerous funding opportunities for the PhD in Global Health Policy.
+  verified: 2026-10-19
 - id: isglobal-phd-programme
   name: ISGlobal 博士项目（巴塞罗那，国际名额）
   url: https://isglobal.org/-/isglobal-phd-programme
@@ -1317,6 +1467,33 @@
   verify_method: page
   page_evidence: In 2026, there will be 28 doctoral positions and a further 28 postdoctoral positions to be filled.
   verified: 2026-10-17
+- id: mpic-ai-molecular-phd-postdoc
+  name: 马普化学研究所（MPIC）AI 驱动分子建模博士/博后岗位（Yafang Cheng 组）
+  url: https://www.mpic.de/6076793/phd-postdoc-opportunity?c=3559221
+  category: doctoral-programs
+  regions:
+  - DE
+  disciplines:
+  - chem
+  - physics
+  - geo
+  funding: position
+  levels:
+  - phd
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: rolling
+  deadline_note: 公告为滚动招聘
+  status: rolling
+  requirements: 研究内容涉及量子化学、机器学习与大气化学
+  notes: 大气分子建模岗位，研究大气有机反应与气溶胶形成机理；博士合同初始 3 年。
+  verify_method: page
+  page_evidence: Open PhD and Postdoc positions are available at the Max Planck Institute for Chemistry (MPIC)
+  verified: 2026-10-19
 - id: bristol-cabot-phds
   name: 布里斯托大学 Cabot 环境研究所博士机会页
   url: https://www.bristol.ac.uk/cabot/postgraduate-opportunities/phds
@@ -1565,6 +1742,33 @@
   verify_method: page
   page_evidence: Inquiries about Ph.D. and Postdoctoral positions in the Meyer lab are welcome at any time.
   verified: 2026-10-18
+- id: mpi-fkf-job-openings
+  name: MPI 固体研究所（斯图加特）招聘页
+  url: https://www.fkf.mpg.de/258433/09_Job_Openings
+  category: discipline
+  regions:
+  - DE
+  disciplines:
+  - physics
+  - chem
+  - engineering
+  funding: position
+  levels:
+  - phd
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: varies
+  deadline_note: 各岗位截止不一；第三方称 IMPRS-CMS 两个申请期为 1–2 月与 8–9 月，2026 秋季轮已于 9 月 30 日截止
+  status: ongoing
+  requirements: 硕士或同等学历（物理、化学、材料等），英文能力
+  notes: 博士岗位多为全额资助的雇员合同，与 IMPRS-CMS 联动，可按岗位直接申请。
+  verify_method: page
+  page_evidence: 'Applications can only be filed via E-mail to:'
+  verified: 2026-10-19
 - id: imprs-stns-halle-nise
   name: IMPRS-STNS 博士项目（马普微结构物理研究所 NISE 部门，哈勒）
   url: https://www.mpi-halle.mpg.de/nise/open-positions
@@ -1743,6 +1947,30 @@
   verify_method: page
   page_evidence: Yes. Currently, we can support five entering students each year with tuition plus a 12-month stipend.
   verified: 2026-10-17
+- id: lbj-phd-funding
+  name: UT Austin LBJ 公共事务学院博士项目资助说明
+  url: https://lbj.utexas.edu/tuition-and-funding
+  category: doctoral-programs
+  regions:
+  - US
+  disciplines:
+  - social
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: partial
+  deadline: unknown
+  deadline_note: 奖学金随录取审核自动评选，无单独截止
+  status: ongoing
+  requirements: 录取时自动参与优绩与需求类奖学金评选，名额有限；国际生学费差异需向项目确认
+  notes: 博士申请者在录取审核中自动参与奖学金评选，分生活费津贴与学费减免两类，不要只依赖津贴支付全部学费；匿名论坛称多数为部分资助，可信度低。
+  verify_method: page
+  page_evidence: The LBJ School typically guarantees five years of funding for doctoral students admitted to the program.
+  verified: 2026-10-19
 - id: che-intl-scholarship-programs
   name: 以色列高教委（CHE）国际生奖学金项目总目录
   url: https://che.org.il/en/international-students/scholarship-programs-international-students/
@@ -2089,7 +2317,9 @@
   deadline_note: 截止 2026-11-02；每年秋季招生
   status: open
   notes: 马普智能系统研究所与 ETH 联合的 CLS 博士岗位，申请前到岗位页核对截止。
-  verified: 2026-10-16
+  verify_method: page
+  page_evidence: Fellowships are fully funded
+  verified: 2026-10-19
 - id: fraunhofer-promovieren-guide
   name: Fraunhofer《Promovieren mit Fraunhofer》博士说明（官方 PDF）
   url: https://fraunhofer.de/content/dam/zv/de/jobs-karriere/Promovieren-mit-Fraunhofer.pdf
@@ -2314,6 +2544,30 @@
   verify_method: page
   page_evidence: The application plattform is open now!
   verified: 2026-10-18
+- id: mit-sfs-overview-funding
+  name: MIT 学生财务服务处：博士资助总览（院系分配制）
+  url: https://sfs.mit.edu/graduate-students/funding-and-aid-2/departmental-funding
+  category: university-schemes
+  regions:
+  - US
+  disciplines:
+  - all
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  deadline: varies
+  deadline_note: 申请截止由各院系设定；资助在录取后由院系分配，无单独的资助申请。
+  status: ongoing
+  requirements: 页面未就国籍设限；国际生资格以各院系录取 offer 为准。
+  notes: MIT 没有全校统一的博士资助保证，多数博士生通过助研/助教（RA/TA）获得学费、医保与薪资，资助在录取后由院系分配，金额因系与年份而异（如化工系页面列出 2026–27 学年月津贴 4,590 美元）。具体以各系页面为准。
+  verify_method: page
+  page_evidence: Many academic departments provide financial support for graduate students, and funding varies significantly across disciplines.
+  verified: 2026-10-19
 - id: fordham-gsas-stipends
   name: Fordham 文理研究生院（GSAS）津贴与奖学金表
   url: https://www.fordham.edu/graduate-school-of-arts-and-sciences/financial-support/stipends-and-scholarships/
@@ -2469,6 +2723,31 @@
   verify_method: page
   page_evidence: IRB-DRIVE will offer 10 four-year fellowships to outstanding doctoral candidates
   verified: 2026-10-18
+- id: hku-mpidr-joint-phd-placement
+  name: 香港大学 × 马普人口研究所（MPIDR）联合博士培养项目
+  url: https://web.socsc.hku.hk/hku-max-planck-joint-educational-placement-programme/
+  category: doctoral-programs
+  regions:
+  - HK
+  - DE
+  disciplines:
+  - social
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: stipend
+  deadline: 2026-12-01
+  deadline_note: 2027-28 申请截止 2026-12-01 23:59（香港时间）；需分别提交港大申请表 A 与联合项目表 B。
+  status: open
+  requirements: 需先按港大博士申请流程提交申请，再通过项目网站申请并引用港大申请编号；国际生资格与语言要求以当年页面为准。
+  notes: 港大阶段获 Postgraduate Scholarship（基础每月 HK$19,135），在 MPIDR 的两年为年薪毛额 EUR40,617，并豁免 MPIDR 学费。
+  verify_method: page
+  page_evidence: A prestigious 4-year PhD position offered jointly by The University of Hong Kong (HKU) and the Max Planck Institute for Demographic Research (MPIDR).
+  verified: 2026-10-19
 - id: imperial-schmidt-ai-in-science-postdoc
   name: Eric and Wendy Schmidt AI in Science 博士后（帝国理工学院，Wave 6）
   url: https://www.imperial.ac.uk/ix-ai-in-science/ai-in-science-fellowships/
@@ -2494,6 +2773,32 @@
   verify_method: page
   page_evidence: Wave 6 Applications are now closed.
   verified: 2026-10-18
+- id: daad-ifi-postdoc-ai-cs
+  name: DAAD IFI 研究奖学金（AI 与计算机科学国际流动项目，博后线）
+  url: https://static.daad.de/media/daad_de/im-ausland-studieren-forschen-lehren/forschen-im-ausland/250605_daad_ifi_flyer_a5_engl.pdf
+  category: postdoc-fellowships
+  regions:
+  - GLOBAL
+  disciplines:
+  - ai
+  - cs
+  funding: fellowship
+  levels:
+  - postdoc
+  cn_eligible: 'no'
+  access:
+  - web
+  - email
+  language: en
+  coverage: unknown
+  deadline: unknown
+  deadline_note: 官方 flyer 未给出截止日；以 daad.de/ifi 当期公告为准。
+  status: ongoing
+  requirements: DAAD flyer 所述为德国早期职业研究者赴合作机构短期研究，中国大陆学生不符合。
+  notes: DAAD 的 AI 与计算机科学国际研究停留项目，博后线在合作研究所开展个人项目（ICSI 伯克利、Mila 蒙特利尔、NII 东京，据 DAAD 2025 年 flyer）；面向德国研究者外派，非面向海外申请人。资助金额未写明，未填写。
+  verify_method: page
+  page_evidence: until 30.06.2029
+  verified: 2026-10-19
 - id: hanken-doctoral-funding-routes
   name: Hanken 商学院博士资助方式说明（Financing doctoral studies）
   url: https://www.hanken.fi/node/19317
@@ -2748,6 +3053,30 @@
   verify_method: page
   page_evidence: The application deadline is 24 June 2026
   verified: 2026-10-17
+- id: mpifg-postdoctoral-program-2027
+  name: 马普社会研究所（MPIfG）博士后项目 2027
+  url: https://career.mpifg.de/jobposting/f1a23704941b57f4027f3ade1c690267f800ee0b0
+  category: postdoc-fellowships
+  regions:
+  - DE
+  disciplines:
+  - social
+  funding: position
+  levels:
+  - postdoc
+  cn_eligible: 'yes'
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: 2026-12-11
+  deadline_note: 原标注的 2027 轮 12 月 11 日截止未能核实；项目每年秋季征集，以官方岗位页为准。
+  status: open
+  requirements: 须在社会学、政治学或经济学获得博士学位，且博士毕业不超过入职前三年；页面称面向各国国籍申请。
+  notes: 德国科隆的马普研究所岗位制博后，适合经济社会学、比较政治经济学方向的申请者。薪资与合同年限以官方页面为准。
+  verify_method: page
+  page_evidence: The deadline for applications is December 11, 2026 (12:00 pm UTC+1).
+  verified: 2026-10-19
 - id: gatech-ae-postdoc-fellowship
   name: Georgia Tech 航空航天学院 AE Post-Doc Fellowship（博士后研究员计划）
   url: https://ae.gatech.edu/post-doc-fellows
@@ -3198,6 +3527,31 @@
   requirements: 需硕士学位（进化生物学、生态学、生物信息学或相近专业）；岗位公告未列国籍限制，国际生是否满足需以公告为准。
   notes: 乌普萨拉大学生态与遗传系招聘博士生，课题涉及进化与生态遗传学，偏定量遗传/群体基因组/实验进化。申请需在 uu.varbi.com 提交，材料含 2 页求职信、CV、硕士证书与成绩单、两位推荐人。联系人 David Berger。
   verified: 2026-10-18
+- id: made4manufacturing-cdt
+  name: MADE4Manufacturing EPSRC CDT（谢菲尔德，EngD/PhD 全奖）
+  url: https://sheffield.ac.uk/made4manufacturing/how-apply
+  category: doctoral-programs
+  regions:
+  - UK
+  disciplines:
+  - engineering
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  stipend: £28,000/年（免税）；另有 £35,000 四年科研与差旅经费
+  deadline: unknown
+  deadline_note: 2026 年 9 月入学的项目招生已开放，截止日期未查到，以各项目页为准。
+  status: open
+  requirements: 一等或强二等荣誉学位（BEng/MEng）；雅思 6.5（单项不低于 6.0）；国际生只能申请标明对国际生开放的项目，每人最多申请 3 个项目。
+  notes: 谢菲尔德 AMRC 与大学联合的 EPSRC 博士培训中心，取代原 Industrial Doctorate Centre in Machining Science。学费与津贴全覆盖，但并非所有项目都对非英国学生开放，需逐个项目核对资格。
+  verify_method: page
+  page_evidence: Our PhD and EngD projects are now open for applications, for a September 2027 start.
+  verified: 2026-10-19
 - id: cornell-cvm-dvm-phd-research-award
   name: 康奈尔兽医学院 DVM 攻读 PhD 研究奖学金（Graduate Research Award）
   url: https://www.vet.cornell.edu/education/graduate-studies/phd-program/admissions/dvms-seeking-phd/graduate-research-award

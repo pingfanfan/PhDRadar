@@ -49,6 +49,7 @@ WORKDAY = [  # (学校, 站点地图, 国家)
     ("Murdoch University", "https://murdoch.wd3.myworkdayjobs.com/MurdochCareers/siteMap.xml", "AU"),
     ("Australian Catholic University", "https://acu.wd108.myworkdayjobs.com/ACUCareers/siteMap.xml", "AU"),
     ("Carleton University", "https://carleton.wd1.myworkdayjobs.com/CarletonCareers/siteMap.xml", "CA"),
+    ("EMBL", "https://embl.wd103.myworkdayjobs.com/EMBL/siteMap.xml", "DE"),
 ]
 # SAP SuccessFactors 招聘站（Career Site Builder）：入口是站点根，岗位清单读 /sitemap.xml。
 SUCCESSFACTORS = [  # (学校, 站点, 国家)
@@ -64,6 +65,8 @@ SUCCESSFACTORS = [  # (学校, 站点, 国家)
     ("UCLouvain", "https://jobs.uclouvain.be", "BE"),
     ("National University of Singapore", "https://careers.nus.edu.sg", "SG"),
     ("Singapore University of Technology and Design", "https://careers.sutd.edu.sg", "SG"),
+    ("A*STAR", "https://careers.a-star.edu.sg", "SG"),
+    ("CSIRO", "https://jobs.csiro.au", "AU"),
 ]
 
 # Oracle Recruiting Cloud：候选人站点的公开接口（站点本身无 robots.txt）。
@@ -75,6 +78,12 @@ ORACLE = [  # (学校, 主机, 站点编号, 国家)
 PAGEUP = [  # (学校, 列表页, 国家)
     ("The University of Hong Kong", "https://jobs.hku.hk/en/listing/", "HK"),
     ("La Trobe University", "https://jobs.latrobe.edu.au/en/listing/", "AU"),
+]
+
+# ReachMee：学校页面里嵌入的外部招聘站（参数取自学校页面引用的 customerjs 脚本）。
+REACHMEE = [  # (学校, 站点, 查询参数, 国家)
+    ("Chalmers University of Technology", "https://web103.reachmee.com/ext/I003/304",
+     "site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c", "SE"),
 ]
 
 # 学校自建的招聘页：列表页上的岗位链接 + 岗位页（标题取 <h1>）。
@@ -92,7 +101,7 @@ LEVEL_PHD = re.compile(r"pr(?:a|ä|ae|e)[\s-]?doc|doktorand|promotion|doctorant|
 LEVEL_POSTDOC = re.compile(r"postdoktorand|post[\s-]?doc", re.I)
 SENIOR = re.compile(r"\b(senior|principal|lead|chief)\b", re.I)  # 高级研究员不是博后
 # 除 _FUNDED 外，大学雇佣合同常见的薪资写法
-PAY = _FUNDED + [r"\bremuneration\b", r"\bpay\s+(scale|grade|range|band|level)\b", r"\bsalary\s+(scale|range|band|grade)\b",
+PAY = _FUNDED + [r"\b(full[\s-]time|temporary|fixed[\s-]term)\s+(employment|contract)\b", r"\bremuneration\b", r"\bpay\s+(scale|grade|range|band|level)\b", r"\bsalary\s+(scale|range|band|grade)\b",
                  r"\b(gehalt|vergütung|entgelt|palkka|salaire|lohn)\b", r"\b(AUD|HKD|SGD|CHF|EUR|CAD|USD|DKK|SEK|NOK)\s?\$?\d",
                  r"[€$£]\s?\d{1,3}(?:[,.\s]\d{3})+", r"\b\d{1,3}(?:[,.\s]\d{3})+\s?(€|EUR|CHF|DKK|SEK|NOK)\b"]
 AMOUNT = re.compile(r"(?:salary|stipend|remuneration|pay)[^.]{0,100}?(?:[€$£]|AUD|HKD|SGD|CHF|EUR|CAD|USD|DKK|SEK|NOK)\s?\$?"
@@ -114,7 +123,7 @@ def num_order(text: str) -> str:
     orders = {"DMY" if int(a) > 12 else "MDY" for a, b in re.findall(r"\b(\d{1,2})[/-](\d{1,2})[/-]\d{4}\b", text)
               if int(a) > 12 or int(b) > 12} - {""}
     return orders.pop() if len(orders) == 1 else ""
-DAY_MONTH = r"(\d{1,2})(?:st|nd|rd|th)?\s+(?:of\s+)?([A-Za-z]{3,9})\b(?!,?\s+\d{4})"  # 没写年份的 “1 November”
+DAY_MONTH = r"(?:(\d{1,2})(?:st|nd|rd|th)?\s+(?:of\s+)?([A-Za-z]{3,9})|([A-Za-z]{3,9})\s+(\d{1,2})(?:st|nd|rd|th)?)\b(?!,?\s+\d{4})"  # 没写年份的 “1 November”“November 20”
 
 
 def deadline(text: str, end_date: str = "") -> tuple[str | None, str]:
@@ -146,12 +155,13 @@ def deadline(text: str, end_date: str = "") -> tuple[str | None, str]:
         from datetime import date
         end = date.fromisoformat(end_date[:10])
         for m in re.finditer(kw + r"[^.\d]{0,40}?" + DAY_MONTH, text, re.I):
-            month = cp.MONTHS.get(cp.MONTH3.get(m.group(2).lower()[:3], m.group(2)).lower())
+            dd, mon = (m.group(1), m.group(2)) if m.group(1) else (m.group(4), m.group(3))
+            month = cp.MONTHS.get(cp.MONTH3.get(mon.lower()[:3], mon).lower())
             if not month:
                 continue
             for y in (end.year - 1, end.year, end.year + 1):
                 try:
-                    day = date(y, month, int(m.group(1)))
+                    day = date(y, month, int(dd))
                 except ValueError:
                     continue
                 if abs((day - end).days) <= 3:
@@ -254,7 +264,7 @@ def wd_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, st
 # ───────────────────────── SAP SuccessFactors 招聘站（Career Site Builder） ─────────────────────────
 # /sitemap.xml 列出在招岗位 /job/<地点-标题>/<编号>/；岗位页用 microdata（itemprop="title" / "description"）。
 
-SF_LOC = re.compile(r"<loc>\s*(https://[^<\s]+/job/([^<\s/]+)/(\d+)/)\s*</loc>")
+SF_LOC = re.compile(r"<(?:loc|link)>\s*(https://[^<\s]+/job/([^<\s/]+)/(\d+)/)\s*</(?:loc|link)>")  # 个别站点（CSIRO）的 sitemap.xml 实为 RSS
 _SF_SCHOOL: dict[str, tuple[str, str]] = {}
 
 
@@ -373,14 +383,44 @@ def pu_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
 
 
 def pu_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
-    if "awsWafCookie" in raw[:3000]:
-        return None, "被拦截（WAF 验证）"
+    if "awsWafCookie" in raw[:3000]:  # 被 AWS WAF 验证拦截：整个适配器停下，不做绕过
+        raise RuntimeError("被 AWS WAF 人机验证拦截，停止")
     school, country = _PU.get(jid, ("", ""))
     title = cp.page_text(_itemprop(raw, "title"))
     d = raw.find('id="job-content"')
     e = raw.find('id="search-results"', d)
     text = cp.page_text(raw[d:e if e > d else d + 120000]) if d >= 0 else cp.page_text(raw)
     return row("pageup", jid, url, title, school, country, "", text, "PageUp", today)
+
+
+# ───────────────────────── ReachMee（*.reachmee.com/ext） ─────────────────────────
+
+# 链接后面的表格单元里有隐藏的结构化截止日期（<span data-order="1" style="display:none">2026-11-14</span>）
+RM_LINK = re.compile(r"<a href='([^']+/job\?[^']*job_id=(\d+))'[^>]*>(.*?)</a>(.{0,400}?display:none\">(\d{4}-\d{2}-\d{2}))?", re.S)
+_RM: dict[str, tuple[str, str, str]] = {}  # 岗位 id → (学校, 国家, 列表上的截止日期)
+
+
+def rm_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+    out: dict[str, str] = {}
+    for school, base, query, country in REACHMEE:
+        try:
+            raw = f.get(f"{base}/main?{query}").text
+        except Exception as e:  # noqa: BLE001
+            print(f"[reachmee] {school} 列表失败：{type(e).__name__}")
+            continue
+        for href, num, label, _, listed in RM_LINK.findall(raw):
+            if SLUG.search(cp.page_text(label)):
+                jid = f"{base.rsplit('/', 2)[-2]}-{base.rsplit('/', 1)[-1]}-{num}"
+                out.setdefault(jid, htmllib.unescape(href))
+                _RM[jid] = (school, country, listed)
+    return list(out.items())
+
+
+def rm_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
+    school, country, listed = _RM.get(jid, ("", "", ""))
+    h1 = re.search(r"<h1[^>]*>(.*?)</h1>", raw, re.S)
+    return row("reachmee", jid, url, cp.page_text(h1.group(1)) if h1 else "", school, country, "", cp.page_text(raw),
+               "ReachMee", today, listed)
 
 
 # ───────────────────────── 学校自建招聘页（列表页 + 岗位页） ─────────────────────────
@@ -413,7 +453,7 @@ def ls_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, st
 
 
 ADAPTERS = {"workday": (wd_urls, wd_detail), "successfactors": (sf_urls, sf_detail), "oracle": (orc_urls, orc_detail),
-            "pageup": (pu_urls, pu_detail), "university": (ls_urls, ls_detail)}
-VIA_RANK = {"Workday": 3, "SuccessFactors": 3, "Oracle Recruiting": 3, "PageUp": 3, **{s[0]: 3 for s in LISTS}}
+            "pageup": (pu_urls, pu_detail), "reachmee": (rm_urls, rm_detail), "university": (ls_urls, ls_detail)}
+VIA_RANK = {"Workday": 3, "SuccessFactors": 3, "Oracle Recruiting": 3, "PageUp": 3, "ReachMee": 3, **{s[0]: 3 for s in LISTS}}
 
 import collect_postings as cp  # noqa: E402 放在末尾：collect_postings 末尾经 platforms_ats.py 导入本模块时，要先看到 ADAPTERS

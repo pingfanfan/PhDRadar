@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 爱尔兰（IE） 信源（14）
+# 爱尔兰（IE） 信源（15）
 
-所有标注了地区 IE 的信源，共 14 条。
+所有标注了地区 IE 的信源，共 15 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [政府与国家级奖学金 2](ie.md#gov-scholarships) · [高校旗舰奖学金与资助检索 7](ie.md#university-schemes) · [结构化博士项目与研究机构 1](ie.md#doctoral-programs) · [博士后奖学金与项目 2](ie.md#postdoc-fellowships) · [企业与基金会 Fellowship 2](ie.md#fellowships)
+**按分类跳转：** [政府与国家级奖学金 2](ie.md#gov-scholarships) · [高校旗舰奖学金与资助检索 8](ie.md#university-schemes) · [结构化博士项目与研究机构 1](ie.md#doctoral-programs) · [博士后奖学金与项目 2](ie.md#postdoc-fellowships) · [企业与基金会 Fellowship 2](ie.md#fellowships)
 
 <a id="gov-scholarships"></a>
 
@@ -21,12 +21,13 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（7）
+## 高校旗舰奖学金与资助检索（8）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [UCD 艺术史与文化政策学院 Ad Astra 博士奖学金](https://www.ucd.ie/arthistory/newsandevents/ucdphdstudentships)<br><sub>爱尔兰 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€22,000/年（另含 €4,000/年研究经费）</sub> | 未公布<br><sub>搜索未见截止日；申请前见 PDF 或联系 arthistory.culturalpolicy@ucd.ie 确认当年是否开放。</sub> | ✅ | 当前可见为创意与文化产业方向 Ad Astra 博士奖学金（Benjamin Anderson 指导），面向欧盟与非欧盟申请者，全额学费减免，最长 4 年全日制；截止日期未公布。 |
 | [戈尔韦大学 Hardiman 博士奖学金](https://universityofgalway.ie/hardiman-scholarships/)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€25,000/年</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 入学批次申请已关闭（截止为 2026 年 2 月 6 日 17:00 爱尔兰时间），申请人已获通知结果；页面未见 2027 入学批次公告。</sub> | ❔ | **要求：** 需一等荣誉或二等一级学位或同等学历，国际生资格以页面为准。<br>四年制全额资助博士奖：每年生活津贴 €25,000 加学费全免，面向 2026 年 9 月 1 日入学者。申请需指定一名导师（导师表须在截止前提交），并提交申请表与两份学术推荐信。 |
+| [爱尔兰高威大学 · 研究岗位与带奖博士招聘页（含 Research Ireland 资助中心课题）](https://www.universityofgalway.ie/about-us/jobs/research/)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止日不同，滚动发布，需逐条查看</sub> | ❔ | **要求：** 以各岗位公告为准<br>高威大学官方研究岗位列表，常有 Research Ireland 资助中心的博士课题和博后岗位。各岗位国际生资格与津贴以单条职位说明为准。 |
 | [都柏林圣三一学院 CSC 联合奖学金](https://tcd.ie/study/international/scholarships/postgraduate/csc)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 轮已结束（官网称 2026 年 3 月公布学院入围结果，之后由导师代为向 CSC 申请）；2027/28 轮待公告</sub> | ✅ | **要求：** 须已获 TCD 无条件录取，且尚未持有博士学位；须为中国大陆公民或永居者（不含港澳台）<br>TCD 免学费；CSC 提供生活费和机票（页面未提及保险）。资助仅限中国大陆公民或永居者（不含港澳台），页面未列出名额数量，先由学院筛选。 |
 | [都柏林圣三一学院 TRDA 院系博士奖学金](https://tcd.ie/graduatestudies/awards/trda-school-based)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€25,000/年（津贴）+ 学费减免，共四年</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面未给出申请截止日期；2026-27 名额已分配给各院系，需直接联系拟申请院系，院系通常于入学前六月底前决定分配。</sub> | ✅ | **要求：** 欧盟与非欧盟新入学全日制研究博士均可申请；名额每院系每年一个，由院系决定分配，非保证获得<br>每院系每年一个 TRDA，津贴 €25,000/年加学费减免，共四年；名额由院系决定分配，非保证获得。页面未列明截止日期。 |
 | [都柏林圣三一学院法学院博士研究奖](https://www.tcd.ie/law/programmes/postgraduate/research-programmes/scholarship-opportunities/)<br><sub>爱尔兰 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€25,000/年</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面针对 2026 年 9 月入学的新生；2027 年入学批次的截止日期待公布。</sub> | ✅ | **要求：** 全日制新入学博士生，欧盟与非欧盟学生均可获得学费全免及年津贴。<br>法学院两项博士奖（TRDA 及法学院博士研究奖）每项四年，年津贴 €25,000 并免全部学费，欧盟与非欧盟学生均可申请。页面所列 2026 年 9 月入学批次的个人陈述截止日为 2026 年 5 月 15 日，2027 年批次页面未公布。 |

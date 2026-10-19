@@ -2,20 +2,21 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 西班牙（ES） 信源（48）
+# 西班牙（ES） 信源（55）
 
-所有标注了地区 ES 的信源，共 48 条。
+所有标注了地区 ES 的信源，共 55 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 2](es.md#aggregators) · [各国学术招聘门户与机构职位页 1](es.md#national-portals) · [政府与国家级奖学金 2](es.md#gov-scholarships) · [高校旗舰奖学金与资助检索 10](es.md#university-schemes) · [结构化博士项目与研究机构 18](es.md#doctoral-programs) · [博士后奖学金与项目 6](es.md#postdoc-fellowships) · [企业与基金会 Fellowship 4](es.md#fellowships) · [学科专属信源 3](es.md#discipline) · [个人信源与社交渠道 2](es.md#people-channels)
+**按分类跳转：** [综合聚合平台 3](es.md#aggregators) · [各国学术招聘门户与机构职位页 1](es.md#national-portals) · [政府与国家级奖学金 2](es.md#gov-scholarships) · [高校旗舰奖学金与资助检索 10](es.md#university-schemes) · [结构化博士项目与研究机构 20](es.md#doctoral-programs) · [博士后奖学金与项目 7](es.md#postdoc-fellowships) · [企业与基金会 Fellowship 6](es.md#fellowships) · [学科专属信源 4](es.md#discipline) · [个人信源与社交渠道 2](es.md#people-channels)
 
 <a id="aggregators"></a>
 
-## 综合聚合平台（2）
+## 综合聚合平台（3）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [CINBIO（西班牙维戈）· 职位汇总](https://cinbio.es/en/job-opportunities/?est=1)<br><sub>西班牙 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 滚动<br><sub>📋 持续更新</sub><br><sub>综合岗位板块：TALENTGAL 2026 招募 5 月 20 日至 7 月 23 日（已截止）；MSCA PF 2026 意向书 6 月 30 日（已截止）；以板块当期岗位为准</sub> | ❔ | **要求：** 博士岗位通常需硕士或博士学位，博后需博士学位；需确认居留与工作许可<br>西班牙 CINBIO 研究中心的岗位列表，含博士与博后的 2026 年招聘。西班牙岗位多为有薪合同，中国籍需确认居留要求，建议直接联系对应课题组。 |
 | [CiTIUS 兴趣表达与职位存档](https://citius.gal/en/talent/job-offers/expressions-of-interest/archive/)<br><sub>西班牙 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 各征集单独公布，需进入具体征集页查看条件。<br>归档页按年份列出 CiTIUS 的兴趣表达（2026 年含 TALENTGAL 博后资助征集，发布于 2026 年 5 月 22 日；MSCA 博后候选人征集发布于 2026 年 3 月 16 日）。页面未显示截止日期，需进入各征集页核对。 |
 | [西班牙皇家化学学会（RSEQ）招聘板（RSS）](https://rseq.org/ofertas-de-empleo/?feed=rss2)<br><sub>西班牙 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | 西班牙皇家化学学会（RSEQ）官方招聘板，页面称只发布已有资金支持的岗位。页面标注发布于 2026-09-10，列有截止日在 2026 年 11 月前后的博士岗位（如 Lancaster 大学 CASE 博士，截止 30/11/2026），部分岗位截止日已过，需逐条核对。 |
 
@@ -55,14 +56,16 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（18）
+## 结构化博士项目与研究机构（20）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [CEMFI 经济学博士项目 · 招生与奖学金（马德里）](https://www.cemfi.es/programs/phd/admissions.asp)<br><sub>西班牙 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 未公布<br><sub>📋 持续更新</sub><br><sub>资助资格截止日往年为 1 月底，下一轮请以官网为准</sub> | ✅ | **要求：** 奖学金/免学费按学术成绩授予，不限国籍；申请表中勾选资助意向，不影响录取<br>官方招生页说明奖学金和/或学费减免按学术成绩发放，各国籍学生均可申请；自有名额有限，建议同时申请外部奖学金。未见官方公布金额，申请前向招生办确认。 |
 | [CNIC 预博士项目（马德里心血管研究中心）](https://cnic.es/es/node/191)<br><sub>西班牙 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>⏸ 本轮已截止</sub><br><sub>INPhINIT 2026 轮 2026-01-28 截止；CNIC 某预博士岗位 2026-09-17 截止（已过）；2027 轮未公布</sub> | ❔ | 页面写明该项目资助博士培训的相关学费、论文印刷费和意外保险，前提是未被外部奖学金覆盖；页面未给出国籍条件与本轮截止日期。 |
 | [CNIO 博士项目（马德里国家癌症研究中心）](https://www.cnio.es/en/education-and-career-development/career-development-programmes/phd-programme/)<br><sub>西班牙 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>2026 批次已截止；聚合站称 2027 轮截止约 2 月 28 日，未在 cnio.es 核实</sub> | ❔ | **要求：** 生物医学相关学位；需突出的学业成绩与科研经历<br>CNIO 博士项目：主要资助渠道为 la Caixa 基金会 Severo Ochoa 国际博士奖学金，另有课题组招聘。2027 轮公告未能核实，需先查官网。 |
 | [CRG 国际博士项目 2027 批次（巴塞罗那）](https://www.crg.eu/ca/node/1414765)<br><sub>西班牙 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-11-22**<br><sub>🟢 开放申请</sub> | ❔ | 官网 2027 批次页面称申请截止为 2026 年 11 月 22 日，并列有 2026 年 10 月 21 日、11 月 12 日两场申请工作坊；页面未显示国籍限制。 |
 | [CRG 国际博士项目（巴塞罗那）](https://www.crg.eu/en/node/1229780)<br><sub>西班牙 ｜ 生物/生命科学·计算机·神经/认知·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-11-22**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 轮官网截止 2026-11-22（23:59 CET）；官网页面显示目前关闭、称 2026 年 9 月重开，以官网为准</sub> | ✅ | **要求：** 需生物医学相关本科及硕士，预计 2027 年 9 月前完成学位；须在线申请，最多可选两个课题组<br>页面标题为 2026 轮招生，显示当前已关闭并称 2026 年 9 月重开以接收通知；页面可见的截止日为 2025 年 11 月 30 日。申请表中最多可选两个课题组。 |
+| [CRG-BGI 联合国际博士项目（巴塞罗那 CRG × 深圳 BGI，生信/组学/AI）](https://www.crg.eu/en/node/973056)<br><sub>西班牙·中国内地 ｜ 生物/生命科学·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>🔜 即将开放</sub><br><sub>CRG 与华大 BGI 联合招生、双导师制；2027 轮时间未确认，请查 crg.eu 招生页。</sub> | ❔ | **要求：** 需硕士或同等学历、可用英语学习；中国籍资格与名额限制未确认，需看当轮公告。<br>生物信息、组学技术与 AI 交叉方向的双导师博士项目。BGI 2024 年公告称四年全额资助，CRG 2025 轮称提供 4 个 CRG-BGI 奖学金；2027 轮资助细节未核实。 |
 | [ELLIS 阿利坎特单元博士项目](https://ellisalicante.org/phd/)<br><sub>西班牙 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ✅ | 页面称 ELLIS PhD 与博士后项目面向全球优秀青年研究者，每年秋季有中央申请，仅约 5–10% 合格申请者被录取。博士须由两名不同欧洲国家的 ELLIS 导师共同指导，并到交流机构至少停留 6 个月，交流通常部分由接收机构资助。页面未说明阿利坎特单元的资金细节，申请前需向导师确认。 |
 | [ESADE 管理科学 MRes+PhD 奖学金](https://www.esade.edu/research-programmes/en/programmes/mres-in-management-sciences/admissions-and-scholarships)<br><sub>西班牙 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>MRes 每年生活津贴 €17,406；PhD 第 1–2 年每年 €19,007，第 3 年 €20,365（页面所述 25-26 轮 Talent 奖学金标准）</sub> | **2026-01-23**<br><sub>⏸ 本轮已截止</sub><br><sub>页面所述 2026 年 9 月入学批次截止 2026-01-23；下一轮以官网公告为准。</sub> | ❔ | **要求：** 须完成至少 240 ECTS 学分的学位（个别优秀者 180 ECTS 可入 MRes）；商管学位，或其他学科学位但需至少 18 学分商管课程；需提交研究计划（≤3 页）、两封推荐信、英语水平证明；无需工作经验。<br>Esade 管理科学 MRes（两年）加 PhD（三年）全额资助项目，Talent 奖学金含学费减免与生活津贴，不可与其他奖学金或工作并存（页面所述 25-26 学年 12 个名额）。 |
 | [ICFO 光子科学研究所国际博士奖学金（巴塞罗那）](https://jobs.icfo.eu/?detail=634)<br><sub>西班牙 ｜ 物理/天文·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>🔄 随时可申</sub><br><sub>Severo Ochoa 博士奖学金按批次开放，每批截止以 jobs.icfo.eu 为准</sub> | ✅ | **要求：** 需理科或工程相关硕士（入学前取得）；建议先联系课题组负责人<br>页面称录取的博士生均获全额资助；页面列出的当前开放征集仅为本科及硕士实习项目，未见开放中的博士奖学金批次，需以官网为准。 |
@@ -80,36 +83,40 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（6）
+## 博士后奖学金与项目（7）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Beatriu de Pinós 博士后奖学金（IEB 巴塞罗那经济学院/UB 推荐）](https://ieb.ub.edu/call-for-applications-beatriu-de-pinos-postdoctoral-fellowship-sponsorship-2025/)<br><sub>西班牙 ｜ 经济/金融·社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2025 周期 IEB/UB 内部截止 2026 年 2 月 2 日，AGAUR 官方截止 2026 年 2 月 4 日（已关闭）；下一周期以新公告为准</sub> | ✅ | **要求：** 博士学位须在 2018 年 1 月 1 日至 2023 年 12 月 31 日间取得；须在国外至少有 2 年博后经历；须由接收研究组的教授提交，并经 IEB/UB 内部预选（将 CV 与意向书发送至 ieb.calls@ub.edu）<br>AGAUR 资助的 3 年期非终身轨博后，由 IEB/UB 预选后提交 AGAUR 官方申请。 |
 | [Beatriz Galindo 高层次人才合同（西班牙，2026）](https://www.boe.es/boe/dias/2026/01/13/pdfs/BOE-B-2026-678.pdf)<br><sub>西班牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-02-12**<br><sub>⏸ 本轮已截止</sub><br><sub>BOE 2026-01-13 公告的 2026 年征集，申请期为公告次日起 30 个自然日，即 2026-02-12 截止（按页面规则推算，原记录的 2 月 27 日与页面不符）；下一轮以西班牙科学部官网为准。</sub> | ❔ | **要求：** 申请时须在西班牙境外科研机构或大学任职；junior 与 senior（需 7 年以上海外经验）两种模式，合同 4 年<br>面向在海外工作的研究者争取西班牙大学 4 年教职合同；由西班牙大学提交申请，需提前联系目标大学。 |
 | [Ikerbasque Research Fellows（巴斯克科学基金会，博士后五年合同）](https://calls.ikerbasque.net/)<br><sub>西班牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 未公布<br><sub>⏸ 本轮已截止</sub> | ❔ | **要求：** 博士学位需在指定窗口内获得；需东道机构接收函；五年合同<br>页面显示 2026 年 Research Fellows 共 15 个五年期博后职位（由巴斯克政府、欧盟与东道机构资助），本轮已关闭；需东道机构接收函。页面未写明下一轮时间，请关注 calls.ikerbasque.net。 |
+| [IMDEA Nanociencia MSCA 博士后奖学金 2026（马德里）](https://nanociencia.imdea.org/projects-office/msca-postdoctoral-fellowships-2026)<br><sub>西班牙 ｜ 物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | **2026-09-09**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 9 月 9 日截止，已截止；下一轮随欧盟 MSCA-PF 2027 年公告，关注 IMDEA 项目办公室及内部截止</sub> | ✅ | IMDEA Nanociencia MSCA 博后：需满足 MSCA 移动性规则（不得在东道国长期居住），需与西班牙东道机构联合申请，学历要求以欧盟官方指南为准。2026 轮已截止。 |
 | [西班牙 Juan de la Cierva 2026](https://www.ciencia.gob.es/Convocatorias/2026/JDC2026.html)<br><sub>西班牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2026-11-26**<br><sub>🔜 即将开放</sub><br><sub>官方页面：研究者申请期 2026-11-12 至 2026-11-26 14:00（半岛时间）；研究中心申请期至 2026-12-03</sub> | ❔ | **要求：** 博士学位须在 2024-01-01 至 2026-12-31 之间取得（符合中断条件可顺延）；须申请读博单位以外的 R&D 中心；外国人资格需核对 BOE 原文（未核实）<br>官方页面（2026 年 9 月发布）列出 Juan de la Cierva 2026 申请期；申请由研发中心提交并包含申请人，评审考虑学术履历与团队质量。国际生资格页面未写，保持 check。 |
 | [西班牙 Ramón y Cajal 2026](https://www.ciencia.gob.es/Convocatorias/2026/RYC26.html)<br><sub>西班牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-12-10**<br><sub>🔜 即将开放</sub><br><sub>申请窗口 2026-11-10 至 2026-12-10（14:00 半岛时间），当前尚未开放。</sub> | ✅ | **要求：** 博士学位获得于 2016-01-01 至 2024-12-31 之间（有例外条款）；西班牙籍与外国研究者均可申请。<br>AEI 发布的 Ramón y Cajal 2026 年度公告，面向西班牙籍及外国研究人员；页面显示申请窗口为 2026 年 11 月 10 日至 12 月 10 日 14:00（半岛时间），页面标注为 Próxima（即将开放）。 |
 | [西班牙 Ramón y Cajal 2026 博后合同（BOE 公告）](https://www.boe.es/boe/dias/2026/09/26/pdfs/BOE-B-2026-31264.pdf)<br><sub>西班牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>最低税前年薪 €40,000（据 CSIF 报道）</sub> | **2026-12-10**<br><sub>🔜 即将开放</sub><br><sub>2026 轮申请窗口为 2026-11-10 至 2026-12-10 14:00（西班牙半岛时间），以 BOE 公告为准。</sub> | ❔ | **要求：** 博士学位须于 2016-01-01 至 2024-12-31 之间获得（据报道，例外见公告）；非欧盟申请人需确认工作与居留许可<br>BOE 2026-09-26 刊登的是该征集的摘要（BDNS 918641），总额上限 240,000,000 欧元，申请窗口为 11 月 10 日至 12 月 10 日。正文摘录中未见合同年限与薪资。 |
 
 <a id="fellowships"></a>
 
-## 企业与基金会 Fellowship（4）
+## 企业与基金会 Fellowship（6）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [DIPC Severo Ochoa 博士岗（圣塞巴斯蒂安）](https://dipc.ehu.eus/en/dipc/join-us/phd-student-positions-within-the-framework-of-the-severo-ochoa-program-2)<br><sub>西班牙 ｜ 物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-02-28**<br><sub>⏸ 本轮已截止</sub><br><sub>本轮 2026-02-28 截止，已结束；Severo Ochoa 博士岗按年发布，下一轮以 DIPC 官网为准</sub> | ❔ | **要求：** 面向近期毕业的物理相关学生；国际生资格未核实，以官网为准<br>DIPC Severo Ochoa 博士岗页面列出 2026/03 至 2026/08 共六个岗位，截止日 2026-02-28，本轮已结束。下一轮需关注 DIPC 官网，国际生资格未核实。 |
 | [ICM-CSIC INPhINIT 博士候选人接收公告（巴塞罗那）](https://www.icm.csic.es/en/calls/looking-phd-candidates-hosting-offers-inphinit-fellowships-programme-0)<br><sub>西班牙 ｜ 化学/材料·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-02-18**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮宿主 offer 截止 2026-02-18（已关闭）；下一轮待公布</sub> | ✅ | 宿主单位（ICM-CSIC）发布博士候选人需求；2026 年 INPhINIT 轮次已截止，需联系课题组后通过 INPhINIT 统一申请。 |
+| [IFAE 粒子与天体物理研究所博士奖学金](https://www.ifae.es/careers/phd-fellowships)<br><sub>西班牙 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>INPhINIT incoming 2026 轮已于 2026-01-28 截止；下一轮以官网为准。</sub> | 🟡 | **要求：** INPhINIT incoming 路线要求申请人近三年内在西班牙居住或工作不超过 12 个月，且未曾攻读博士；需先获得 IFAE 研究线导师支持<br>IFAE 提供多条博士资助：INPhINIT incoming（la Caixa，面向近三年未在西班牙居住超过 12 个月者）、Severo Ochoa 博士奖学金（面向西班牙及海外候选人），以及西班牙和加泰罗尼亚预博士合同。国际生可申请的路线以各自公告为准。 |
 | [INPhINIT “la Caixa” 博士奖学金（Incoming，西班牙/葡萄牙）](https://www.crg.eu/es/node/23039)<br><sub>西班牙·葡萄牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 Incoming 轮已关闭；2027 轮未见公告，需关注 la Caixa 官网。</sub> | ❔ | 官网页面列出 30 个名额、最长 4 年全额资助（含劳务与科研费用、学费）；页面同时给出 2026 年 1 月 28 日与 2 月 18 日两个截止日期，以当期公告为准。 |
 | [IRB Barcelona 国际博士奖学金](https://www.irbbarcelona.org/ca/careers/young-scientists/irb-barcelona-international-phd-fellowships-2026)<br><sub>西班牙 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面显示本轮（2026-2027 学年）已关闭（Call closed），正文未给出截止日期；下一轮以官网为准。</sub> | ❔ | 生命科学与生物医学国际博士奖学金，2026-2027 学年最多提供 15 个博士奖学金名额，页面显示本轮已关闭。学历条件：非欧洲高等教育区大学的学位须可在西班牙获得相应博士入学资格。 |
 | [巴塞罗那经济学院（BSE）la Caixa Severo Ochoa 国际博士奖学金](https://bse.eu/la-caixa-severo-ochoa-international-doctoral-fellowships)<br><sub>西班牙 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€18,069/年（第1-2年）；€26,700/年（第3-4年）</sub> | 未公布<br><sub>第三方页面显示“下一截止 19 March”，年份未确认，以官网为准</sub> | ❔ | **要求：** 须同时被录取到 BSE 的 GPEFM 或 IDEA 博士项目；国籍限制未确认<br>BSE 页面列出 la Caixa Severo Ochoa 奖学金：第1–2年 €18,069/年 + 研究费 €1,500；第3–4年 €26,700/年 + €1,700。需同时录取 BSE 的 GPEFM 或 IDEA 博士项目。国籍资格未确认，截止日以官网为准。 |
 
 <a id="discipline"></a>
 
-## 学科专属信源（3）
+## 学科专属信源（4）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [CiQUS 圣地亚哥大学化学研究中心招聘页](https://ciqus.usc.gal/es/formacion-y-empleo/vacantes)<br><sub>西班牙 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止不同，需逐条核对。</sub> | ❔ | 页面列出一项开放中的博士岗位征集（6 Predoctoral Research Opportunities，截止 2026-10-30）；“Ofertas cerradas”之后列出的征集均已关闭。 |
 | [IFT 马德里（UAM-CSIC）预博士合同与奖学金页](https://www.ift.uam-csic.es/categoria-oferta/predoctorales)<br><sub>西班牙 ｜ 物理/天文·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ❔ | 页面列出的 PIX2026（4 个博士岗位，截止 2026 年 10 月 5 日）与 JAE-PRE（截止 2026 年 8 月 21 日）等岗位均标注为 Closed；页面所见无开放中的博士岗位。 |
+| [IMDEA Networks 博士职位列表](https://networks.imdea.org/taxonomy_jobs/phd-student/page/2)<br><sub>西班牙 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub><br><sub>所见 2026 年岗位截止日多已过，当期岗位需看 networks.imdea.org/job/phd</sub> | ❔ | **要求：** 硕士学位并具备编程与无线/网络实验经验（所见岗位要求）；非欧盟资格以各岗位广告为准<br>马德里研究所，网络/6G、安全隐私方向，多由欧盟项目资助；部分已截止，核对非欧盟资格。 |
 | [马德里 IFT 宇宙学组招聘与职位列表](https://projects.ift.uam-csic.es/cosmo/job-offers/)<br><sub>西班牙 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 页面当前列出 JAE-PRE 资助的引力波数据分析博士岗位及 FPI-UAM 资助的引力波与宇宙学博士岗位，并列出 RyC 2026、JdlC 2025 等博后项目；具体截止以各公告为准。 |
 
 <a id="people-channels"></a>

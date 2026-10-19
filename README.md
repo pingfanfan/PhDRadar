@@ -17,12 +17,12 @@
 - **只收核实过的。** 每一条都由程序打开官网正文核对，附官网原句和核对日期；核不实的不收。
 - **只看现在能投的。** “现在可申请”清单按截止日期排序，截止后自动下架。
 - **为中国学生标注资格。** 官网写明国际生可以拿资助的标“中国学生可申”；官网没写的标“资格待核实”，不猜。
-- **简洁好用。** 网页版像招聘网站一样：搜索、按地区 / 层次 / 学科筛选、看详情、收藏想投的机会，手机上也能用。
+- **简洁好用。** 网页版像招聘网站一样：搜索、按地区 / 层次 / 学科筛选、看详情、收藏想投的机会并记录申请进度、一键把收藏的截止日期导入日历（截止前 14 / 7 / 1 天提醒），手机上也能用。
 
 <!-- STATS:START -->
-**热门地区：** [美国](sources/region/us.md) 407 · [英国](sources/region/uk.md) 310 · [德国](sources/region/de.md) 298 · [中国香港](sources/region/hk.md) 134 · [加拿大](sources/region/ca.md) 133 · [法国](sources/region/fr.md) 121 · [全球](sources/region/global.md) 107 · [瑞士](sources/region/ch.md) 89 · [日本](sources/region/jp.md) 80 · [澳大利亚](sources/region/au.md) 77 · [荷兰](sources/region/nl.md) 66 · [欧盟/欧洲](sources/region/eu.md) 58 · [全部 →](SOURCES.md#按国家--地区)
+**热门地区：** [美国](sources/region/us.md) 457 · [英国](sources/region/uk.md) 405 · [德国](sources/region/de.md) 341 · [加拿大](sources/region/ca.md) 170 · [中国香港](sources/region/hk.md) 151 · [法国](sources/region/fr.md) 137 · [全球](sources/region/global.md) 124 · [瑞士](sources/region/ch.md) 97 · [日本](sources/region/jp.md) 88 · [澳大利亚](sources/region/au.md) 86 · [荷兰](sources/region/nl.md) 76 · [欧盟/欧洲](sources/region/eu.md) 63 · [全部 →](SOURCES.md#按国家--地区)
 
-**学科：** [全学科](sources/discipline/all.md) 684 · [生物/生命科学](sources/discipline/bio.md) 411 · [工程](sources/discipline/engineering.md) 358 · [计算机](sources/discipline/cs.md) 340 · [物理/天文](sources/discipline/physics.md) 289 · [社会科学/心理](sources/discipline/social.md) 262 · [医学/公卫](sources/discipline/med.md) 253 · [化学/材料](sources/discipline/chem.md) 221 · [人文/语言](sources/discipline/humanities.md) 201 · [人工智能](sources/discipline/ai.md) 192 · [数学/统计](sources/discipline/math.md) 166 · [经济/金融](sources/discipline/econ.md) 120 · [神经/认知](sources/discipline/neuro.md) 109 · [地球/环境/海洋](sources/discipline/geo.md) 103 · [商科/管理](sources/discipline/business.md) 83 · [生态/进化](sources/discipline/eco.md) 78
+**学科：** [全学科](sources/discipline/all.md) 764 · [生物/生命科学](sources/discipline/bio.md) 483 · [工程](sources/discipline/engineering.md) 417 · [计算机](sources/discipline/cs.md) 385 · [物理/天文](sources/discipline/physics.md) 329 · [社会科学/心理](sources/discipline/social.md) 320 · [医学/公卫](sources/discipline/med.md) 295 · [化学/材料](sources/discipline/chem.md) 269 · [人文/语言](sources/discipline/humanities.md) 243 · [人工智能](sources/discipline/ai.md) 226 · [数学/统计](sources/discipline/math.md) 195 · [经济/金融](sources/discipline/econ.md) 141 · [神经/认知](sources/discipline/neuro.md) 129 · [地球/环境/海洋](sources/discipline/geo.md) 124 · [生态/进化](sources/discipline/eco.md) 100 · [商科/管理](sources/discipline/business.md) 93
 <!-- STATS:END -->
 
 ## 怎么核实的
@@ -34,6 +34,19 @@
 
 > [!WARNING]
 > 奖学金政策、国籍限制和截止日期每年都在变，所有信息以官方页面为准；截止时间注意时区。
+
+## 用 Claude Code 帮你申请（可选）
+
+fork 本仓库后在 [Claude Code](https://claude.com/claude-code) 里使用。你的画像、简历和文书只存在你自己的电脑上（已写进 `.gitignore`），不会上传或提交。
+
+| 命令 | 做什么 |
+| --- | --- |
+| `/setup` | 从简历生成画像 `profile.yml` 与简历要点 `cv-facts.yml`（只记录简历里写了的事实） |
+| `/rank` | 按画像给现在可申请的机会排序：硬性条件不符的直接排除并说明原因，其余打分并给出理由 |
+| `/apply` | 对选中的一个机会：从岗位原文摘申请清单（材料、推荐信、字数、截止时区），起草套磁信、cover letter、研究计划要点、简历调整建议 |
+| `/track` | 申请看板（想投 → 准备中 → 已投 → 面试 → 结果），截止与套磁跟进提醒、每周摘要、导出日历 |
+
+`/apply` 起草的每一句经历都必须标出 `cv-facts.yml` 里的出处，程序逐句核对数字、机构、论文题目、奖项和“一作 / 已接收 / 主导”这类说法，再由另一个审稿代理查夸大与不符（见[演示与评测](docs/apply-demo.md)）。**AI 只起草，修改和发送由你本人完成。**
 
 ## 信源分类
 

@@ -16,7 +16,7 @@ import importlib
 import json
 import re
 import sys
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 
 import yaml
@@ -110,7 +110,11 @@ RESTRICTED = _RESTRICTED + [
     r"\binternational[^.]{0,120}\b(pay|cover|fund|meet)\b[^.]{0,60}\bdifference\b",
     r"\bdifference between (the )?(home|uk) and international", r"\bextra costs associated with international",
 ]
-INTERNATIONAL = _INTERNATIONAL + [r"\bfrom any country\b"]
+INTERNATIONAL = _INTERNATIONAL + [
+    r"\bfrom any country\b", r"\bavailable to (uk|home) and international (students|applicants)\b", r"\bfrom around the (globe|world)\b",
+    r"\bopen to u\.?s\.? and non-u\.?s\.? citizens\b", r"\bnon-(italian|german|french|spanish|swiss|dutch|eu) (citizens|nationals)\b",
+    r"\b(offer|offers|provide|provides|eligible for)\s+(visa\s+)?sponsorship\b", r"\bvisa sponsorship (is |will be )?(available|provided|offered)\b",
+]
 # 不是已落实资助的岗位：竞争性奖学金的意向征集、资助尚未落实、按时薪的远程合同工
 NOT_FUNDED = [
     r"expressions? of interest[^.]{0,160}\b(fellowships?|programmes?|programs?)\b",
@@ -120,7 +124,7 @@ NOT_FUNDED = [
     r"\bremote contract\b", r"\bpay rate:?\s*\$\d+", r"\bmore projects than funded (opportunities|places|studentships)\b",
 ]
 ROLLING = re.compile(r"[^.]{0,120}(?:until (?:the |a )?(?:position|post|positions|vacancy|role|job)s? (?:is |are |has been |have been )?filled|"
-                     r"on a rolling basis|open until filled|no deadline for (?:the )?application)[^.]{0,60}", re.I)
+                     r"on a rolling basis|open until filled|no deadline for (?:the )?application|no closing dates?)[^.]{0,60}", re.I)
 
 
 def cn_of(text: str) -> str:
@@ -132,13 +136,26 @@ def flags_of(text: str) -> list[str]:
     return ["security-screening"] if _any(SCREENING, text) else []
 
 
+SOFT = re.compile(r"encourag|priority|begin|letters? of (?:recommendation|reference)|(?:reference|recommendation) letters?|referees?|"
+                  r"letters[^.]{0,20}(?:received|submitted)", re.I)
+
+
 def refine_deadline(deadline: str, quote: str, body: str, today: str) -> tuple[str, str]:
-    """平台页头的截止日常是广告下架日：正文另写了（今天以后的）申请截止就以正文为准，取最早的一个；
+    """平台页头的截止日常是广告下架日：正文另写了（今天以后的）硬性申请截止就以正文为准，取最早的一个；
+    “建议 / 优先考虑 / 推荐信截止”这类软日期不覆盖页头；正文的硬性截止都已过（200 天内，排除旧模板残留）→ 返回该过期日期；
     正文没写任何截止日期、只说招满为止 / 滚动审核 → rolling；其余保持页头。"""
     found = all_deadlines(body)
-    future = sorted(d for d in found if d[0] >= today)
+    def soft(d: tuple[str, str]) -> bool:  # 连同日期句前面 50 个字一起看（“encouraged to apply by …”）
+        i = body.find(d[1])
+        return bool(SOFT.search(body[max(0, i - 50):i + len(d[1])] if i >= 0 else d[1]))
+
+    hard = [d for d in found if not soft(d)]
+    future = sorted(d for d in hard if d[0] >= today)
     if future:
         return future[0] if future[0][0] != deadline else (deadline, quote)
+    recent = [d for d in hard if (date.fromisoformat(today) - date.fromisoformat(d[0])).days <= 200]
+    if recent:
+        return max(recent)
     if not found:
         m = ROLLING.search(body)
         if m:
@@ -246,10 +263,6 @@ def jac_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, s
         # 页头标签只写 UK Students，但正文写明国际生也可（按国际学费资助 / 不论居住身份）：标签不可靠，改为待确认
         if cn == "no" and re.search(r"international (rates?|fees?)|regardless of (their )?(residential status|nationality)", head, re.I):
             cn = "check"
-        # 标签含国际生但资助只写英国 / Home 学费、没提国际学费：国际生可能要自付差额，改为待确认
-        if cn == "yes" and re.search(r"\b(uk|home)\b[^.]{0,30}(tuition )?fees?", amount + " " + head, re.I) \
-                and not re.search(r"international[^.]{0,30}fees?|fees?[^.]{0,30}international (rate|level)|overseas fee", amount + " " + head, re.I):
-            cn = "check"
     else:
         cn = cn_of(head)
     if _any(RESTRICTED, head):  # 正文写明国际生自付差额 / 限本土
@@ -316,6 +329,8 @@ def at_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, st
     if _any(NOT_FUNDED, text):
         return None, "未写资助或自费"
     deadline, quote = refine_deadline(deadline, m.group(0), text[m.end():], today)
+    if deadline != "rolling" and deadline < today:  # 正文写的申请截止已过
+        return None, "已截止"
     org = ld.get("hiringOrganization") or {}
     return {
         "id": f"academictransfer:{jid}",
@@ -385,11 +400,17 @@ def madgex(name: str):
         loc = re.search(r"Location\s+(.{2,120}?)\s+(?:Salary|Posted|Closing date|Closes)\s", text)
         sal = re.search(r"Salary\s+(.{1,120}?)\s+(?:Posted|Closing date|Closes)\s", text)
         salary = sal.group(1).strip() if sal and sal.group(1).strip() not in ("0", "-") else ""
+        if not re.search(r"\d", salary):  # 页头写 Negotiable / DOE 之类时，用正文里带金额的薪资句
+            bs = re.search(r"(?:salary|stipend|remuneration)[^.]{0,60}?(?:EUR|€|\$|£|USD|CHF)\s?\d[\d,.]*(?:\s?[-–]\s?(?:EUR|€|\$|£)?\s?\d[\d,.]*)?"
+                           r"[^.]{0,30}", text[m.end():m.end() + 8000], re.I)
+            salary = bs.group(0).strip() if bs else ("" if re.match(r"(negotiable|doe|competitive)\b", salary, re.I) else salary)
         body = text[m.end():m.end() + 8000]
         if _any(_SELF_FUNDED, title + " " + body) or _any(NOT_FUNDED, body) or \
                 (level == "phd" and not (salary or _any(_FUNDED, body))):
             return None, "未写资助或自费"
         deadline, quote = refine_deadline(deadline, m.group(0), body, today)
+        if deadline != "rolling" and deadline < today:  # 正文写的申请截止已过
+            return None, "已截止"
         ld = job_posting(raw)
         lloc = ld.get("jobLocation") or {}
         lloc = lloc[0] if isinstance(lloc, list) and lloc else lloc
@@ -500,6 +521,8 @@ def inspire_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | Non
     if _any(_SELF_FUNDED, body) or _any(NOT_FUNDED, body) or (level == "phd" and not _any(_FUNDED, body)):
         return None, "未写资助或自费"
     deadline, quote = refine_deadline(deadline, f"Deadline: {deadline}", body, today)
+    if deadline != "rolling" and deadline < today:  # 正文写的申请截止已过
+        return None, "已截止"
     insts = m.get("institutions") or []
     countries = {_INSPIRE_COUNTRY.get((i.get("record") or {}).get("$ref", ""), "") for i in insts} - {""}
     return {
@@ -550,7 +573,7 @@ def ajo_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, s
     body = text[d:d + 8000] if d >= 0 else it.get("desc", "")
     if _any(_SELF_FUNDED, body) or _any(NOT_FUNDED, body) or (level == "phd" and not _any(_FUNDED, body)):
         return None, "未写资助或自费"
-    deadline, quote = refine_deadline(deadline, m.group(0), body, today)
+    quote = m.group(0)  # Appl Deadline 是雇主填写的结构化字段，不用正文改写
     pay = re.match(r"\[([^\]]{3,150})\]", it.get("desc", ""))  # 雇主在简介开头括注的薪资
     return {
         "id": f"ajo:{jid}", "title": title[:200], "url": url,
@@ -688,6 +711,8 @@ DEADLINE_KW = r"(?:application deadline|submit your application(?: online)? by|d
               r"(?:submitted|received) (?:no later than|by)|no later than|" \
               r"bewerbungsfrist|bewerbungsschluss|date limite de candidature|deadline)"
 ANY_DATE = r"(\d{4}-\d{2}-\d{2}|\d{1,2}(?:st|nd|rd|th)?\.?\s+[A-Za-zäé]{3,9}\.?,?\s+\d{4}|[A-Za-z]{3,9}\.?\s+\d{1,2}(?:st|nd|rd|th)?,?\s+\d{4}|\d{1,2}\.\d{1,2}\.\d{4})"
+# “审核持续到 2027 年 1 月 13 日或招满为止”：带具体日期的 until 也是截止
+UNTIL_KW = r"(?:continue|accepted|considered|reviewed|open|received)[^.\d]{0,40}?\buntil\s+(?:the\s+)?"
 DE_MONTHS = {"januar": "January", "februar": "February", "märz": "March", "april": "April", "mai": "May", "juni": "June",
              "juli": "July", "august": "August", "september": "September", "oktober": "October", "november": "November",
              "dezember": "December"}
@@ -702,8 +727,8 @@ def find_deadline(text: str) -> tuple[str | None, str]:
 def all_deadlines(text: str) -> list[tuple[str, str]]:
     """正文里所有“截止关键词 + 日期”，按出现顺序返回 (ISO 日期, 原文片段)。"""
     out = []
-    for m in re.finditer(DEADLINE_KW + r"[^.\d]{0,60}?" + ANY_DATE, text, re.I):
-        raw = m.group(1)
+    for m in re.finditer(DEADLINE_KW + r"[^.\d]{0,60}?" + ANY_DATE + "|" + UNTIL_KW + ANY_DATE, text, re.I):
+        raw = m.group(1) or m.group(2)
         if re.fullmatch(r"\d{1,2}\.\d{1,2}\.\d{4}", raw):
             d, mo, y = raw.split(".")
             iso = f"{y}-{int(mo):02d}-{int(d):02d}"
@@ -732,6 +757,9 @@ INSTITUTES = {  # 适配器名: (列表页, 岗位链接正则（相对或绝对
             "PSI Jobs", "Paul Scherrer Institut", "CH"),
     "eso": (["https://recruitment.eso.org/"], r'href="(/jobs/(20\d{2}_\d{4}))"', "https://recruitment.eso.org", "ESO Recruitment",
             "European Southern Observatory", "", r"<h1 style='font-size: 40px;'>(.*?)</h1>"),
+    "pasteur": (["https://research.pasteur.fr/en/jobs/?type=post-doc", "https://research.pasteur.fr/en/jobs/?type=phd-student"],
+                r'href="https://research\.pasteur\.fr(/en/job/([a-z0-9-]+)/)"', "https://research.pasteur.fr", "Institut Pasteur Jobs",
+                "Institut Pasteur", "FR"),
     # 列表链接带 jsessionid，详情页地址按编号重拼；标题在表格的 Title 一栏
     "ibs": (["https://www.ibs.re.kr/prog/recruit/eng/sub04_01/list.do"], r'href="(/prog/recruit/eng/sub04_01/view\.do)[^"]*?idx=(\d+)"',
             "https://www.ibs.re.kr{path}?idx={jid}", "IBS Recruitment", "Institute for Basic Science", "KR",
@@ -765,6 +793,8 @@ def institute(name: str):
         if not future:
             return None, "已截止"
         deadline, quote = future[0]
+        if deadline > (date.fromisoformat(today) + timedelta(days=400)).isoformat():  # 一年多以后的“截止”多是占位日期
+            return None, "页面无截止日期"
         if _any(NOT_FUNDED, text):
             return None, "未写资助或自费"
         sal = re.search(r"(?:monthly gross salary|salary)[^.]{0,80}?(?:€|EUR|CHF)\s?[\d.,]+[^.]{0,30}", text, re.I) or \
@@ -894,7 +924,7 @@ for _mod in sorted(p.stem for p in (ROOT / "scripts").glob("platforms_*.py")):
 # 只有 GitHub Actions 能访问的平台（适配器名 → 岗位的 via 名）：由公开仓库的 postings 工作流采集（-s actions），
 # 每日任务再用 import_postings.py 并回主库；本地默认清单不含它们
 ACTIONS = {"findaphd": "FindAPhD"}
-DEFAULT = "jobs-ac-uk,academictransfer,naturecareers,sciencecareers,physicstoday,the-unijobs,jobbnorge,inspire,ajo,daad,varbi,ethz,inria,mpg,arbeitsagentur,workday,successfactors,oracle,pageup,cnrs,mathjobs,tamu-rwfm,hnet,aarhus,psi,eso,ibs,econjobmarket,university"
+DEFAULT = "jobs-ac-uk,academictransfer,naturecareers,sciencecareers,physicstoday,the-unijobs,jobbnorge,inspire,ajo,daad,varbi,ethz,inria,mpg,arbeitsagentur,workday,successfactors,oracle,pageup,cnrs,mathjobs,tamu-rwfm,hnet,aarhus,psi,eso,ibs,econjobmarket,reachmee,university,infn,pasteur"
 
 
 def expand(sources: str) -> list[str]:
@@ -954,7 +984,8 @@ def dedupe(rows: list[dict]) -> tuple[list[dict], int]:
 
 # 第二遍：不同平台上标题足够具体、机构一致的岗位，截止日期不同也是同一个（平台各自写广告下架日）
 GENERIC = re.compile(r"\b(post|doc|postdoc|postdoctoral|doctoral|research|researcher|associate|fellow|fellowship|scientist|scholar|"
-                     r"student|candidate|positions?|opportunity|m|f|d|x|w|lab|laboratory|department|division|group)\b")
+                     r"student|candidate|positions?|opportunity|m|f|d|x|w|lab|laboratory|department|division|group|university|assistant|"
+                     r"predoctoral|pre|scientific|project|phd|two|year|years)\b")
 
 
 def specific_title(title: str) -> str:

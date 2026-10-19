@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 科研实习与“曲线入口”（27）
+# 科研实习与“曲线入口”（31）
 
 暑研/访问项目，常是拿到导师认可、进而获得全奖 offer 的关键路径。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [瑞士（CH） 8](pathways.md#r-ch) · [英国（UK） 4](pathways.md#r-uk) · [丹麦（DK） 3](pathways.md#r-dk) · [法国（FR） 3](pathways.md#r-fr) · [荷兰（NL） 3](pathways.md#r-nl) · [全球（GLOBAL） 2](pathways.md#r-global) · [比利时（BE） 1](pathways.md#r-be) · [德国（DE） 1](pathways.md#r-de) · [中国香港（HK） 1](pathways.md#r-hk) · [沙特（SA） 1](pathways.md#r-sa)
+**按地区跳转：** [瑞士（CH） 8](pathways.md#r-ch) · [英国（UK） 5](pathways.md#r-uk) · [丹麦（DK） 3](pathways.md#r-dk) · [法国（FR） 3](pathways.md#r-fr) · [荷兰（NL） 3](pathways.md#r-nl) · [加拿大（CA） 2](pathways.md#r-ca) · [全球（GLOBAL） 2](pathways.md#r-global) · [比利时（BE） 1](pathways.md#r-be) · [德国（DE） 1](pathways.md#r-de) · [中国香港（HK） 1](pathways.md#r-hk) · [沙特（SA） 1](pathways.md#r-sa) · [美国（US） 1](pathways.md#r-us)
 
 <a id="r-ch"></a>
 
@@ -27,13 +27,14 @@
 
 <a id="r-uk"></a>
 
-## 英国（UK）（4）
+## 英国（UK）（5）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Innovate UK 知识转移伙伴计划（KTP）2026-27 第一轮](https://iuk-business-connect.org.uk/opportunities/knowledge-transfer-partnership-ktp-2026-2027-round-1/)<br><sub>英国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | **2026-04-01**<br><sub>⏸ 本轮已截止</sub><br><sub>本页为 2026–27 第一轮，截止 2026-04-01 11:00；页面称未赶上本轮的机构可申请之后的轮次，具体轮次以官网为准。</sub> | ❔ | **要求：** 国际生需持有英国工作签证或具备合法工作权利（以 Innovate UK 要求为准）<br>高校与企业合作的 KTP 计划，Associate 在企业完成 12–36 个月项目，以雇员身份工作，不是传统博士。国际生需具备英国工作权利（以 Innovate UK 要求为准）。 |
 | [LSE 经济绩效中心（CEP）预博士研究助理](https://cep.lse.ac.uk/_new/about/work/)<br><sub>英国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-10-18**<br><sub>🟢 开放申请</sub><br><sub>页面写明申请截止为 2026 年 10 月 18 日（英国时间 23:59），即今日截止。</sub> | ❔ | **要求：** 要求经济学、统计或其他定量学科本科学位（入职前完成），熟练使用 STATA 或 R，并能在无密切监督下独立工作。<br>LSE 经济绩效中心（CEP）招募固定期限一年（可延长至两年）的研究助理，薪资 £36,513 至 £41,565，截止 2026 年 10 月 18 日。页面称兼职研究助理仅面向在英国的研究生，且需已有英国工作权利。 |
 | [利兹大学国际博士学院（医学研究，4 年制含基础训练）](https://medicinehealth.leeds.ac.uk/leeds-institute-research-st-james/doc/international-phd-academy-medical-research)<br><sub>英国 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>每年 9 月入学一次，名额 5 个（官网）；2027 年批次申请截止未确认。</sub> | ❔ | **要求：** 需至少 2:1（或同等）相关学科学位；IELTS 6.5（单项不低于 6.0）。页面列出的申请者为自费（个人、政府或雇主资助均可），需自付海外学费、实验耗材与生活费。<br>利兹大学国际博士学院（医学研究）为 4 年制，首年为基础训练；页面称每年 9 月中旬入学，名额 5 个。 |
+| [剑桥心理学系研究生申请与资助指南（PDF）](https://www.psychol.cam.ac.uk/files/2025-26_postgraduate_application_and_funding_guide.pdf)<br><sub>英国 ｜ 神经/认知·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>2025–26 指南中的截止日已过；2026–27 或 2027–28 版本尚未出现</sub> | 🟡 | 剑桥心理学博士资助路线（剑桥信托、Gates、学院及研究理事会资金等）与时间表指南。此为 2025–26 版，使用时请换成最新学年版本。 |
 | [英格兰银行博士实习（PhD Internship）](https://www.bankofengland.co.uk/careers/future-talent/phds)<br><sub>英国 ｜ 经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>£30,000/年（伦敦，按比例）；利兹 £27,000/年</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮已关闭；官网称可登记 2027 年机会，未见 2027 截止日期</sub> | ❔ | **要求：** 需在读博士，学科须与中央银行政策相关；2026 轮申请已关闭，官网可登记 2027 年机会<br>英格兰银行约 12 周带薪博士实习，伦敦或利兹混合办公。2026 年申请已关闭，可在官网登记 2027 年机会。 |
 
 <a id="r-dk"></a>
@@ -65,6 +66,15 @@
 | [伊拉斯谟大学鹿特丹分校 Research Master in Economics（TI 联合培养）](https://www.eur.nl/en/research-master/economics)<br><sub>荷兰 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>🔜 即将开放</sub><br><sub>EUR 页面显示欧洲经济区（EEA）申请截止为 5 月 1 日；页面未显示非欧经济区的截止日，请以官网为准。</sub> | ❔ | **要求：** 研究型硕士；非荷兰学位申请者的 GRE 要求本次核查未在官方页面确认；语言与推荐信要求以官网为准<br>伊拉斯谟大学鹿特丹分校与 Tinbergen Institute 合办的两年制经济学研究型硕士（硕士层级，属博士路径而非博士职位），多数学生继续读博。各来源截止日不一致，GRE 要求未经核实，申请前以 tinbergen.nl 与 eur.nl 为准。 |
 | [伊拉斯谟大学鹿特丹（EUR）未来博士候选人页面](https://eur.nl/en/research/phd-erasmus-university-rotterdam/phd-vacancies)<br><sub>荷兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 硕士（研究型）；英语需达 CEFR C1；个别岗位要求 GRE/GMAT<br>EUR 博士入口页，列出各学院博士岗位与申请流程；按学院进入 vacancies 页核对截止日期。 |
 | [莱顿大学博士名额与入学说明](https://www.universiteitleiden.nl/en/humanities/graduate-school/admission-to-the-graduate-school)<br><sub>荷兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>带薪岗位示例 €2,541–3,247/月（毛薪，2024 年某岗位公告）</sub> | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 需荷兰大学硕士学位或同等学历（特殊情况院长可豁免）；合同博士须先找到可全程指导的人文学院教授。<br>莱顿大学人文学院博士招生说明，区分受雇（带薪）、合同（奖学金）和自筹博士。页面列出博士年费：低档 400 欧元/年，高档 2800 欧元/年，适用类别以页面说明为准。 |
+
+<a id="r-ca"></a>
+
+## 加拿大（CA）（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Mila 硕博招生与导师匹配入口](https://mila.quebec/en/research-masters-and-phd)<br><sub>加拿大 ｜ 人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>页面称导师匹配申请每年 10 月 15 日至 12 月 1 日开放；另需单独申请所属大学的 PhD 项目。</sub> | ❔ | **要求：** 非加拿大公民或永久居民，获批导师匹配后需另办工作许可；需另行申请所属大学的 PhD 项目<br>Mila 导师匹配窗口每年 10 月 15 日至 12 月 1 日，最多可选 3 位教授，但仍需另行申请其所属大学。页面不公布统一资助金额，需以导师课题资金和大学奖学金为准。 |
+| [Mitacs Accelerate（加拿大企业合作研究实习）](https://research.mcmaster.ca/funding/mitacs-accelerate-program/)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 滚动<br><sub>🔄 随时可申</sub><br><sub>全年滚动申请，需在项目开始前至少 16 周提交完整材料</sub> | 🟡 | **要求：** 须为已被加拿大高校录取的全日制研究生；国际生须来自 Mitacs 合作国家并持有有效学生签证<br>已被加拿大高校录取的博士生可在企业做带薪研究实习，由 Mitacs 与企业共同出资，全年滚动申请；常被导师用来补足博士资助。 |
 
 <a id="r-global"></a>
 
@@ -106,4 +116,12 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [KFUPM 国际生申请入口](https://kfupm.edu.sa/study/international-students/fees-and-scholarships)<br><sub>沙特 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>官网未给统一截止日期，第三方站点说法不一，以招生页为准</sub> | ✅ | **要求：** GPA 约 3.00/4.00（合作页面所载，需向学校确认）；学历与英语要求以官网为准<br>KFUPM 官网称所有博士项目对国际生提供综合奖学金：免学费，提供免费家具公寓（含水电）、往返机票、医疗与餐补。津贴按奖学金类别发放，官网未公布具体金额。 |
+
+<a id="r-us"></a>
+
+## 美国（US）（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [MERL 三菱电机研究实验室博士实习](https://merl.com/internship/openings.php)<br><sub>美国 ｜ 人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止日不同，以各条公告为准</sub> | ❔ | **要求：** 面向在读博士生（多为高年级），需在机械、电气、计算机或机器人相关专业就读；岗位要求以各条公告为准，国籍限制未见说明<br>MERL 博士生实习，面向高年级博士生，多为 3 个月左右现场实习（部分 3–6 个月）。各岗位截止日不同，无统一截止，以各条公告为准。 |
 

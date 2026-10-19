@@ -1,6 +1,7 @@
 # /rank 评测的人工标注（产品 C 会话 2026-10-19 逐条判断）：1 = 按这个画像，这条值得出现在前 10；0 = 不该推荐。
 # 判断标准见 docs/rank-eval.md。按机会 id 记录，数据更新后只需补标新出现的条目。
 p01-rl:
+  "ethz-robotx-phd-fellowship-2027": 1
   naturecareers:12864918: 1   # 面向机器人的基础模型
   eth-srl-soft-robotics-open-positions: 1
   findaphd:199507: 1   # 人机交互（机器人）
@@ -17,10 +18,19 @@ p01-rl:
   findaphd:199473: 1   # 机器人增材制造与远程修复（机器人方向）
   cambridge-mlg-advanced-ml-phd: 1
 p03-medimg:
+  "findaphd:199629": 1
+  "findaphd:199775": 0
+  "findaphd:198200": 0
+  "tum-cbi-open-positions": 1
+  "au-tech-mass-spec-imaging-phd": 0
   findaphd:199522: 0   # 鱼类视频的深度学习，领域不对
   findaphd:199381: 1   # 光学相干断层成像定量分析药物反应（成像分析）
   academictransfer:363906: 1
 p04-cogneuro:
+  "findaphd:199381": 0
+  "findaphd:198200": 0
+  "academictransfer:363906": 0
+  "tum-cbi-open-positions": 0
   findaphd:199867: 1
   jobs-ac-uk:DSP806: 0 # 公共卫生决策，不是认知神经科学
 p05-ecology:
@@ -32,6 +42,7 @@ p05-ecology:
   academictransfer:364516: 1
   academictransfer:363880: 0 # 基础设施“生态系统”是比喻
 p06-battery:
+  "findaphd:198707": 0
   jobs-ac-uk:DTF339: 1
   jobs-ac-uk:DTH265: 1
   jobs-ac-uk:DTH797: 1
@@ -43,6 +54,8 @@ p06-battery:
   academictransfer:364795: 1
   varbi:979451: 1
 p07-quantum:
+  "varbi:968923": 1
+  "varbi:968936": 1
   varbi:973731: 1      # 量子传感理论
   academictransfer:364651: 0 # 磷化铟光子集成电路外延，材料工程
   findaphd:198703: 1
@@ -56,6 +69,8 @@ p07-quantum:
   hamburg-quantum-universe-jobs: 0 # 粒子物理 / 宇宙学集群
   findaphd:199802: 1   # 量子多体（量子物理理论）
 p08-astro-postdoc:
+  "inspire:3204329": 1
+  "inspire:3202250": 0
   inspire:3214634: 1
   inspire:3214821: 1
   ajo:32772: 1
@@ -84,8 +99,12 @@ p10-epi:
   findaphd:199886: 1
   findaphd:199921: 0   # 植物病害流行学
 p11-civil:
+  "findaphd:199071": 0
   jobs-ac-uk:DTB804: 1
 p12-plant:
+  "findaphd:198675": 0
+  "findaphd:199732": 0
+  "findaphd:199401": 0
   findaphd:199742: 1
   findaphd:198470: 1
   findaphd:199833: 1
@@ -137,6 +156,16 @@ p17-robotics:
   eth-srl-soft-robotics-open-positions: 1
   academictransfer:363887: 1
 p18-supplychain:
+  "mannheim-baor-phd": 1
+  "findaphd:199705": 0
+  "jobs-ac-uk:DTE714": 1
+  "findaphd:198488": 0
+  "findaphd:199922": 0
+  "findaphd:199520": 0
+  "inria:2026-10584": 0
+  "findaphd:199548": 0
+  "lancaster-lums-phd-funding": 1
+  "findaphd:199244": 0
   academictransfer:364630: 1
 p19-hydro-postdoc:
   jobs-ac-uk:DTG228: 1
@@ -144,6 +173,7 @@ p19-hydro-postdoc:
   jobs-ac-uk:DTG845: 0 # 气候宏观计量经济学
   academictransfer:364498: 1
 p20-semiconductor:
+  "findaphd:198703": 0
   findaphd:198709: 1
   findaphd:200109: 1
   academictransfer:364651: 1
@@ -153,6 +183,7 @@ p20-semiconductor:
   academictransfer:362809: 1
 # —— 留出画像（第一组）：只标注一次。h01 没有推荐结果 ——
 h02-biostat:
+  "jobs-ac-uk:DTG258": 0
   warwick-stats-cdt-funding: 1
   jobs-ac-uk:DTE714: 1
   varbi:965375: 1
@@ -181,6 +212,9 @@ h04-urban:
   academictransfer:364630: 1
   xjtlu-xjtu-uol-joint-doctorate: 0
 h05-polymer:
+  "findaphd:198707": 0
+  "findaphd:198330": 0
+  "sni-phd-school-basel": 1
   jobs-ac-uk:DTG803: 1
   findaphd:199714: 1
   findaphd:199877: 0   # RNA 聚合酶
@@ -188,6 +222,7 @@ h05-polymer:
   findaphd:199892: 1
 # —— 留出画像（第二组）：只标注一次 ——
 h06-bioinfo:
+  "findaphd:199289": 1
   findaphd:199396: 1
   findaphd:199732: 0   # 染色体短臂与基因组不稳定（湿实验为主）
   findaphd:199401: 0   # 合子基因组激活的三维调控（湿实验为主）
@@ -204,6 +239,7 @@ h07-pv:
   findaphd:199711: 1
   findaphd:199793: 1   # 钙钛矿半导体光谱（对钙钛矿方向对口）
 h08-psych:
+  "findaphd:199869": 0
   varbi:959326: 1
   varbi:969959: 1
   varbi:972169: 1
@@ -220,3 +256,203 @@ h10-history:
   naturecareers:12865085: 1
   naturecareers:12865087: 1
   naturecareers:12865092: 1
+# —— 第三组 g31–g50：独立子代理按同一判断标准标注（不看分数），产品 C 会话抽查 6 个画像、约九成同意 ——
+g31-hci:
+  "cmu-hcii-phd-fellowship": 1
+  "iitmandi-chci": 1
+g34-catalysis:
+  "jobs-ac-uk:DTH265": 1
+  "findaphd:199898": 0   # 酶催化生物转化，偏生物化学，非多相催化
+  "findaphd:199901": 0   # 均相不对称催化/超分子，方向不符
+  "jobs-ac-uk:DTH797": 1
+  "findaphd:199218": 0   # 废催化剂回收的技术经济工艺，非催化研究
+  "findaphd:199453": 1
+  "findaphd:199454": 1
+g37-glaciology:
+  "findaphd:199915": 0
+  "findaphd:192351": 0
+  "jobbnorge:308403": 0
+  "varbi:972418": 0
+  "varbi:972886": 0
+  "academictransfer:364728": 0
+  "varbi:980849": 0
+  "academictransfer:364124": 1
+g41-pharm:
+  "findaphd:199803": 0   # 果蝇饮食药理，非药物递送
+  "findaphd:198707": 0   # 纳米孔检测纳米团簇，生命起源/材料方向
+  "findaphd:199714": 0   # 有机溶剂膜分离，化工方向
+  "findaphd:199876": 1
+  "hkbu-chinese-medicine-phd": 0   # 中医药方向，需中医药背景
+  "findaphd:199381": 0   # 光学成像定量药物反应，偏物理成像
+  "findaphd:199745": 0   # 骨骼肌收缩检测，组织工程/安全药理
+  "findaphd:199913": 0   # 骨骼肌收缩检测，组织工程/安全药理
+  "findaphd:200031": 0   # 纳米生物传感器监测，非药物递送
+  "findaphd:198330": 0   # 燃料电池纳米催化剂，"纳米"字面重合
+  "findaphd:199395": 1
+  "academictransfer:363906": 0   # 超声造影诊断成像，偏工程成像
+  "findaphd:199405": 0   # GLP-1免疫代谢，偏免疫生物学
+  "findaphd:199925": 0   # 信号通路研究，偏细胞生物学
+  "cuhk-phd-pharmacy": 1
+g45-finance:
+  "jobs-ac-uk:DTH145": 1
+  "smu-dedman-econ-phd-funding": 1
+  "ed-economics-phd-fees-funding": 1
+  "su-economics-phd-employed": 1
+  "findaphd:199218": 0
+  "findaphd:197930": 1
+  "hkbu-accounting-econ-phd": 1
+  "jobs-ac-uk:DTB803": 1
+  "bse-upf-economics-phd-track": 1
+  "naturecareers:12865085": 0   # 经济金融史，历史学方向
+  "naturecareers:12865087": 0   # 经济金融史，历史学方向
+  "naturecareers:12865092": 0   # 经济金融史，历史学方向
+  "aarhus-econ-vacancies": 1
+g48-ml-postdoc:
+  "cispa-cristal-lab-trustworthy-ai-phd-postdoc": 1
+  "jobs-ac-uk:DTG032": 0
+  "varbi:978010": 0
+  "naturecareers:12865100": 0
+  "naturecareers:12865341": 0   # 计算蛋白质组学，需生物背景
+  "jobs-ac-uk:DTB413": 0   # 生物医学实验室的AI应用，非可信AI
+  "naturecareers:12865041": 0   # 生物医学研究所AI应用，非可信AI
+  "inspire:3158953": 0   # 对撞机实验ML，需物理背景
+  "academictransfer:364207": 0   # 沙丘风场预测，地学应用
+  "jobs-ac-uk:DTE954": 1
+  "inria:2026-10485": 0   # 稀疏代码并行化，HPC系统方向
+  "the-unijobs:386492": 1
+  "ntu-presidential-postdoc-ppf": 1
+  "polyu-xiao-huang-ai-lab": 1
+  "naturecareers:12864558": 0   # 表观基因组学，需生物背景
+  "naturecareers:12865301": 0   # 癌症生物统计，需生物医学背景
+  "inspire:3214896": 0   # 量子机器学习，需物理背景
+  "inspire:3214918": 0   # 质子治疗量子ML，需物理背景
+  "the-unijobs:416307": 0   # 计算催化，需化学背景
+g32-security:
+  "findaphd:199869": 1
+  "jobbnorge:309937": 1
+  "findaphd:198716": 1
+  "cispa-cristal-lab-trustworthy-ai-phd-postdoc": 1
+g35-structbio:
+  "findaphd:198561": 0   # 蛋白/RNA稳态细胞机制，非结构生物学
+  "findaphd:199479": 1
+  "findaphd:199486": 1
+  "findaphd:199843": 0   # 共翻译组装，偏分子/细胞生物学而非结构解析
+  "findaphd:199882": 1
+  "findaphd:200050": 0   # 小麦蛋白利用效率，农业方向
+  "findaphd:198211": 0   # 骨关节炎疼痛蛋白，医学方向
+  "findaphd:199069": 0   # 靶向蛋白降解发现抗生素，化学生物学
+  "findaphd:198808": 0   # 血液蛋白与心脏病，临床医学
+  "findaphd:199290": 0   # 蛋白条形码基因工程，合成生物学
+  "findaphd:199775": 0   # 荧光非天然氨基酸成像，非结构生物学
+  "findaphd:199384": 0   # 工程蛋白防寄生虫，应用方向
+  "findaphd:198528": 0   # RNA结合蛋白与癌症，分子生物学
+  "findaphd:199258": 0   # 蛋白翻译错误，非结构方向
+  "findaphd:199847": 1
+g38-hydrogen:
+  "jobs-ac-uk:DTH797": 1
+  "jobs-ac-uk:DTF339": 0
+  "findaphd:192526": 0
+  "findaphd:200158": 0
+  "findaphd:200193": 0
+  "varbi:979451": 0
+  "academictransfer:364795": 1
+  "findaphd:199849": 0   # 生物质能源，非氢能/燃料电池
+  "findaphd:194476": 1
+  "academictransfer:363887": 0   # 控制理论“基于能量的学习”，字面巧合
+g43-sociology:
+  "varbi:978489": 0   # 中亚伊斯兰伦理与治理，非移民与不平等
+  "varbi:980150": 0   # 女性法律能动性，法律社会学，非移民主题
+  "varbi:980246": 0   # 宗教安全化，政治/法律社会学
+  "cambridge-sociology-phd-2027": 1
+  "varbi:980250": 0   # 公民伊斯兰与治理，非移民与不平等
+g46-math:
+  "epfl-amcv-openings": 1
+  "academictransfer:364266": 1
+g49-linguistics-cn:
+  "findaphd:200035": 1
+g33-cv:
+  "findaphd:195280": 1
+  "insait-cv-phd-openings": 1
+  "mpi-inf-cv-direct-application": 1
+  "findaphd:195282": 1
+g36-micro:
+  "findaphd:199625": 1
+  "findaphd:199069": 1
+  "findaphd:199772": 0   # 偏饮食-肠道免疫生理，非细菌致病/耐药
+  "findaphd:199791": 1
+  "findaphd:199836": 1
+  "findaphd:199853": 1
+  "findaphd:199857": 1
+  "findaphd:199859": 1
+  "findaphd:199878": 1
+  "findaphd:199891": 1
+  "findaphd:198209": 0   # 主体是 MAIT 免疫细胞研究，属免疫学
+  "findaphd:198457": 1
+  "jobs-ac-uk:DTE950": 1
+  "findaphd:199054": 0   # 组织免疫与免疫记忆，属免疫学
+  "findaphd:199798": 1
+g39-power:
+  "ee-stanford-phd-admissions": 1
+  "varbi:975824": 0   # 信号处理方向，非电力系统
+  "varbi:967690": 1
+  "academictransfer:363997": 1
+  "findaphd:198488": 1
+  "imperial-eee-phd": 1
+  "jobbnorge:308793": 1
+  "berkeley-erg-phd-admissions": 1
+g44-polisci:
+  "berkeley-public-policy-phd": 1
+  "varbi:978489": 0   # 法律社会学/伊斯兰伦理，非比较政治与公共政策
+  "academictransfer:364513": 0   # 地下水照护的政治生态/人类学研究
+  "academictransfer:364514": 0   # 地下水照护的政治生态/人类学研究
+  "oslomet-camelot-phd-climate-governance": 1
+  "jobs-ac-uk:DTD355": 1
+  "varbi:980250": 0   # 法律社会学/宗教研究，非比较政治与公共政策
+  "ru-phd-decolonising-reparations-2026": 1
+g47-particle-postdoc:
+  "inspire:3179805": 1
+  "inspire:3212701": 1
+  "inspire:3200072": 1
+  "ajo:32848": 1
+  "inspire:3210872": 1
+  "inspire:3213918": 1
+  "inspire:3214978": 0   # 中微子与重味唯象理论，非对撞机实验
+  "inspire:3187727": 0   # 理论核物理/强子物理
+  "inspire:3211332": 0   # 理论粒子/天体粒子/引力
+  "inspire:3211735": 0   # 理论粒子物理
+  "inspire:3211328": 1
+  "ajo:32772": 0   # 理论宇宙学
+  "inspire:3205036": 0   # 理论宇宙学
+  "ajo:33012": 0   # 理论粒子物理
+  "inspire:3179554": 0   # 中微子与暗物质，非对撞机
+  "inspire:3210121": 1
+  "inspire:3205300": 1
+  "inspire:3208407": 0   # 理论组（弦论/宇宙学）
+  "inspire:3212678": 1
+g50-agri-econ:
+  "jobs-ac-uk:DTD355": 1
+  "naturecareers:12865085": 0
+  "naturecareers:12865087": 0
+  "academictransfer:364694": 0  # 山地与下游农业的生态联系（自然科学）
+  "academictransfer:364728": 1  # 农业与森林景观中气候政策的影响评估
+  "findaphd:198470": 0   # 豆科氮素动态，属农学/植物科学而非经济
+  "findaphd:199914": 0   # 作物抗逆生物学，需植物科学背景
+  "findaphd:200050": 0   # 小麦蛋白利用效率，属植物生物学
+  "jobs-ac-uk:DTH145": 1
+  "findaphd:198677": 0   # 基因疗法健康经济学，与农业食品无关
+  "smu-dedman-econ-phd-funding": 1
+  "ed-economics-phd-fees-funding": 1
+  "aarhus-econ-vacancies": 0   # 当前仅计量经济博后岗位
+  "findaphd:199520": 0   # 卫星遥感估算叶片含水量，属遥感/植物科学
+  "jobs-ac-uk:DTG063": 0   # 野生甜菜生态适应，属植物生态学
+  "jobs-ac-uk:DTB803": 0   # 商学院金融方向
+  "su-economics-phd-employed": 1
+  "findaphd:199218": 0   # 化工催化剂回收技术经济，与农业无关
+  "findaphd:199833": 0   # 植物微生物组实验进化，属生物学
+  "bse-upf-economics-phd-track": 1
+# 产品 C 会话补标（修规则后新出现的条目）
+g40-aero:
+  "findaphd:198023": 0
+  "findaphd:198024": 0
+g42-mentalhealth:
+  "jobs-ac-uk:DTG258": 0

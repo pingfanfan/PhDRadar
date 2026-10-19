@@ -8,7 +8,7 @@ argument-hint: [前 N 条做判断，默认 10] [--top 30]
 3. 运行 `python scripts/rank.py --top 30`（`$ARGUMENTS` 里有 `--top` 就照用）。它写出：
    - `rankings/<今天>.md`：前 30 条，每条三行理由 + 官网链接；被排除的按原因统计，并列出方向对口但被排除的；
    - `rankings/<今天>.json`：前 50 条的完整数据（含岗位简介 `in`、申请须知 `rq`、官网原句 `o.q`）。
-4. **Claude 判断**（N 取 `$ARGUMENTS` 里的数字，默认 10）：读 `rankings/<今天>.json` 的前 N 条，结合 `profile.yml` 的
+4. **Claude 判断**（N 取 `$ARGUMENTS` 里的数字，默认 15；评测显示这一步把前 10 的准确率从约 70% 提到约 90%，见 docs/rank-eval.md，不要跳过）：读 `rankings/<今天>.json` 的前 N 条，结合 `profile.yml` 的
    `research.interests`、`publications`、`projects`，对每条写**一句话判断**：
    - 方向真的对口吗（关键词命中可能只是字面巧合，例如 “imaging” 用在显微成像而非医学影像）；
    - 申请者哪段经历最相关（只引用 `cv-facts.yml` / `profile.yml` 里有的）；

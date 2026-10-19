@@ -60,6 +60,8 @@
 ```yaml
 source: cv.pdf               # 来自哪份简历
 extracted: 2026-10-19
+name: 张三                   # 可选：简历上的姓名与邮箱，/apply 起草的文书落款用（只写简历里有的）
+email: zhangsan@example.com
 facts:
   - id: edu-1
     type: education          # education / publication / project / award / skill / work / language / other

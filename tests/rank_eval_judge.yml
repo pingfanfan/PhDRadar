@@ -1,0 +1,400 @@
+# /rank 的“Claude 判断”实验：独立子代理只读画像与候选（规则前 15）的标题、简介，给 worth / maybe / no（不看标注）。见 docs/rank-eval.md
+p01-rl:
+  findaphd:199629: 'no'
+  naturecareers:12864918: worth
+  findaphd:199437: maybe
+  cambridge-mlg-advanced-ml-phd: maybe
+  eth-srl-soft-robotics-open-positions: maybe
+  findaphd:199473: 'no'
+  mpi-inf-cv-direct-application: maybe
+  inria:2026-10416: 'no'
+  cmu-ml-phd-program: worth
+  epfl-lions-positions: worth
+  findaphd:200032: 'no'
+  findaphd:190632: 'no'
+  findaphd:199141: 'no'
+  findaphd:199802: 'no'
+  polyu-xiao-huang-ai-lab: maybe
+p05-ecology:
+  varbi:972418: 'no'
+  varbi:972886: 'no'
+  academictransfer:364728: maybe
+  academictransfer:364694: maybe
+  varbi:980849: 'no'
+  academictransfer:364516: worth
+  academictransfer:363880: 'no'
+p08-astro-postdoc:
+  inspire:3214634: worth
+  inspire:3214821: maybe
+  ajo:32772: worth
+  inspire:3205036: worth
+  jobs-ac-uk:DTC350: worth
+  inspire:3208407: maybe
+  ajo:33123: worth
+  inspire:3204682: maybe
+  stsci-brinson-prize-fellowship: worth
+  inspire:3205033: worth
+  inspire:3179554: maybe
+  inspire:3204329: maybe
+  inspire:3202250: maybe
+  inspire:3171411: worth
+  ajo:32878: maybe
+p11-civil:
+  jobs-ac-uk:DTB804: worth
+p15-ocean:
+  findaphd:199519: 'no'
+  inria:2026-10436: maybe
+  academictransfer:364124: worth
+  inria:2026-10352: worth
+p18-supplychain:
+  academictransfer:364630: worth
+h02-biostat:
+  warwick-stats-cdt-funding: worth
+  jobs-ac-uk:DTE714: maybe
+  varbi:965375: maybe
+  findaphd:199633: maybe
+  jobs-ac-uk:DSZ158: 'no'
+  jane-street-grf: maybe
+  varbi:980849: 'no'
+  the-unijobs:416463: maybe
+  daad:10367: 'no'
+  epfl-idephics-open-positions: 'no'
+h05-polymer:
+  jobs-ac-uk:DTG803: maybe
+  findaphd:199714: worth
+  findaphd:199892: worth
+h08-psych:
+  varbi:959326: maybe
+  varbi:969959: maybe
+  varbi:972169: maybe
+g31-hci:
+  cmu-hcii-phd-fellowship: worth
+  iitmandi-chci: worth
+g34-catalysis:
+  jobs-ac-uk:DTH265: maybe
+  findaphd:199898: 'no'
+  findaphd:199901: 'no'
+  jobs-ac-uk:DTH797: worth
+  findaphd:199218: 'no'
+  findaphd:199453: worth
+  findaphd:199454: maybe
+g37-glaciology:
+  academictransfer:364124: worth
+g41-pharm:
+  findaphd:199803: 'no'
+  findaphd:198707: 'no'
+  findaphd:199714: 'no'
+  findaphd:199876: worth
+  hkbu-chinese-medicine-phd: 'no'
+  findaphd:199381: 'no'
+  findaphd:199745: 'no'
+  findaphd:199913: 'no'
+  findaphd:200031: maybe
+  findaphd:198330: 'no'
+  findaphd:199395: maybe
+  academictransfer:363906: maybe
+  findaphd:199405: 'no'
+  findaphd:199925: 'no'
+  cuhk-phd-pharmacy: worth
+g45-finance:
+  findaphd:197930: maybe
+  hkbu-accounting-econ-phd: maybe
+  jobs-ac-uk:DTB803: worth
+  bse-upf-economics-phd-track: worth
+  naturecareers:12865085: 'no'
+  naturecareers:12865087: 'no'
+  naturecareers:12865092: 'no'
+  aarhus-econ-vacancies: maybe
+g48-ml-postdoc:
+  naturecareers:12865341: 'no'
+  jobs-ac-uk:DTB413: 'no'
+  naturecareers:12865041: 'no'
+  inspire:3158953: 'no'
+  academictransfer:364207: 'no'
+  jobs-ac-uk:DTE954: worth
+  inria:2026-10485: 'no'
+  the-unijobs:386492: maybe
+  ntu-presidential-postdoc-ppf: maybe
+  polyu-xiao-huang-ai-lab: maybe
+  naturecareers:12864558: 'no'
+  naturecareers:12865301: 'no'
+  inspire:3214896: 'no'
+  inspire:3214918: 'no'
+  the-unijobs:416307: 'no'
+p03-medimg:
+  findaphd:199522: 'no'
+  findaphd:199381: maybe
+  academictransfer:363906: maybe
+p06-battery:
+  jobs-ac-uk:DTH265: worth
+  jobs-ac-uk:DTH797: maybe
+  jobs-ac-uk:DTF339: worth
+  findaphd:199453: maybe
+  findaphd:192526: worth
+  findaphd:200158: maybe
+  findaphd:200193: worth
+  academictransfer:364795: maybe
+  varbi:979451: worth
+  findaphd:199844: 'no'
+  academictransfer:364547: maybe
+p09-econ:
+  jobs-ac-uk:DTH145: worth
+  smu-dedman-econ-phd-funding: worth
+  ed-economics-phd-fees-funding: worth
+  aarhus-econ-vacancies: maybe
+  jobs-ac-uk:DTB803: maybe
+  findaphd:199218: 'no'
+  findaphd:198677: maybe
+  bse-upf-economics-phd-track: worth
+  cbs-economics-doctoral-fellowships-mpi: worth
+  jobs-ac-uk:DTD355: worth
+  su-economics-phd-employed: worth
+  erasmus-ese-phd: worth
+  naturecareers:12865085: maybe
+  naturecareers:12865087: maybe
+  naturecareers:12865092: maybe
+p12-plant:
+  findaphd:198470: maybe
+  findaphd:199838: maybe
+  findaphd:199857: 'no'
+  findaphd:199881: maybe
+  findaphd:199895: 'no'
+  findaphd:199914: maybe
+  findaphd:200050: worth
+  findaphd:199833: maybe
+  findaphd:199517: 'no'
+  findaphd:199715: maybe
+  findaphd:199742: maybe
+  findaphd:199111: maybe
+  findaphd:199384: 'no'
+  findaphd:199520: 'no'
+  jobs-ac-uk:DTG063: worth
+p16-cancer:
+  findaphd:199488: maybe
+  findaphd:198212: worth
+  findaphd:198214: worth
+  findaphd:198748: worth
+  findaphd:198200: maybe
+  findaphd:199831: maybe
+  findaphd:198746: maybe
+  findaphd:199266: 'no'
+  findaphd:199758: 'no'
+  findaphd:199772: 'no'
+  findaphd:200113: maybe
+  findaphd:199390: maybe
+  findaphd:199405: maybe
+  findaphd:199838: 'no'
+  findaphd:198198: maybe
+p19-hydro-postdoc:
+  jobs-ac-uk:DTG228: maybe
+  naturecareers:12865368: maybe
+  jobs-ac-uk:DTG845: 'no'
+  academictransfer:364498: worth
+h03-neuro:
+  findaphd:199788: worth
+  findaphd:199815: 'no'
+  findaphd:199867: maybe
+  findaphd:198883: 'no'
+  jobs-ac-uk:DTB928: worth
+  findaphd:199487: 'no'
+  findaphd:199875: 'no'
+  findaphd:198674: 'no'
+  findaphd:198705: 'no'
+  academictransfer:364471: worth
+  inria:2026-10454: maybe
+  academictransfer:364479: maybe
+  findaphd:199071: 'no'
+  findaphd:199089: worth
+  findaphd:199099: worth
+h06-bioinfo:
+  findaphd:199396: worth
+  findaphd:199732: maybe
+  findaphd:199401: maybe
+  findaphd:199111: worth
+  findaphd:199902: worth
+  findaphd:198674: 'no'
+  jobs-ac-uk:DTG073: maybe
+  varbi:970261: worth
+  varbi:971439: worth
+  findaphd:198677: 'no'
+  imprs-genome-science-goettingen: worth
+  findaphd:200049: worth
+  daad:10428: worth
+  academictransfer:364486: worth
+h09-fluids:
+  findaphd:199657: worth
+g32-security:
+  findaphd:199869: maybe
+  jobbnorge:309937: maybe
+  findaphd:198716: maybe
+  cispa-cristal-lab-trustworthy-ai-phd-postdoc: maybe
+g35-structbio:
+  findaphd:198561: maybe
+  findaphd:199479: maybe
+  findaphd:199486: worth
+  findaphd:199843: maybe
+  findaphd:199882: maybe
+  findaphd:200050: 'no'
+  findaphd:198211: 'no'
+  findaphd:199069: maybe
+  findaphd:198808: 'no'
+  findaphd:199290: 'no'
+  findaphd:199775: 'no'
+  findaphd:199384: maybe
+  findaphd:198528: 'no'
+  findaphd:199258: 'no'
+  findaphd:199847: worth
+g38-hydrogen:
+  findaphd:199849: maybe
+  findaphd:194476: maybe
+  academictransfer:363887: 'no'
+g43-sociology:
+  varbi:978489: 'no'
+  varbi:980150: maybe
+  varbi:980246: 'no'
+  cambridge-sociology-phd-2027: worth
+  varbi:980250: 'no'
+g46-math:
+  epfl-amcv-openings: worth
+  academictransfer:364266: worth
+g49-linguistics-cn:
+  findaphd:200035: worth
+p04-cogneuro:
+  findaphd:199867: worth
+  jobs-ac-uk:DSP806: maybe
+p07-quantum:
+  academictransfer:364748: worth
+  findaphd:198710: worth
+  findaphd:198703: maybe
+  findaphd:198709: 'no'
+  findaphd:200109: 'no'
+  findaphd:200163: maybe
+  hamburg-quantum-universe-jobs: 'no'
+  findaphd:199789: maybe
+  academictransfer:364651: 'no'
+  jobs-ac-uk:DTC201: 'no'
+  varbi:973731: maybe
+  findaphd:199802: 'no'
+  varbi:968923: maybe
+  varbi:968936: maybe
+  mpgc-qm-phd-2026: 'no'
+p10-epi:
+  jobs-ac-uk:DSP806: maybe
+  findaphd:199886: worth
+  findaphd:199921: 'no'
+p14-education:
+  findaphd:200034: worth
+  uk-shu-sheffield-institute-of-education-phd: worth
+  jobs-ac-uk:DTH004: maybe
+  oslomet-lui-educational-sciences-phd: maybe
+  aei-fpu-2026-predoctoral-contract: maybe
+p17-robotics:
+  findaphd:199606: maybe
+  jobs-ac-uk:DTF871: maybe
+  findaphd:199629: 'no'
+  findaphd:199507: maybe
+  naturecareers:12864918: worth
+  eth-srl-soft-robotics-open-positions: maybe
+  ethz-robotx-phd-fellowship-2027: worth
+  findaphd:199437: maybe
+  findaphd:199473: maybe
+  academictransfer:363887: maybe
+p20-semiconductor:
+  findaphd:198709: worth
+  findaphd:200109: maybe
+  academictransfer:364651: maybe
+  findaphd:200181: worth
+  findaphd:199793: 'no'
+  academictransfer:363551: maybe
+  academictransfer:362809: worth
+h04-urban:
+  uts-urban-planning-phd: worth
+  academictransfer:364660: 'no'
+  xjtlu-xjtu-uol-joint-doctorate: maybe
+h07-pv:
+  findaphd:199453: maybe
+  findaphd:198182: maybe
+  findaphd:199711: worth
+  findaphd:199793: maybe
+h10-history:
+  jobs-ac-uk:DTG674: maybe
+  gerda-henkel-promotionsfoerderung: worth
+  basel-bgsh-starter-scholarships-2027: worth
+  findaphd:199396: 'no'
+  findaphd:199525: 'no'
+  hkbu-history-rpg: maybe
+  jobs-ac-uk:DTD355: maybe
+  naturecareers:12865085: 'no'
+  naturecareers:12865087: 'no'
+  naturecareers:12865092: 'no'
+g33-cv:
+  findaphd:195280: maybe
+  insait-cv-phd-openings: worth
+  mpi-inf-cv-direct-application: worth
+  findaphd:195282: maybe
+g36-micro:
+  findaphd:199625: maybe
+  findaphd:199069: worth
+  findaphd:199772: maybe
+  findaphd:199791: maybe
+  findaphd:199836: worth
+  findaphd:199853: maybe
+  findaphd:199857: maybe
+  findaphd:199859: maybe
+  findaphd:199878: maybe
+  findaphd:199891: maybe
+  findaphd:198209: maybe
+  findaphd:198457: maybe
+  jobs-ac-uk:DTE950: worth
+  findaphd:199054: maybe
+  findaphd:199798: worth
+g39-power:
+  ee-stanford-phd-admissions: maybe
+  varbi:975824: 'no'
+  varbi:967690: worth
+  academictransfer:363997: worth
+  findaphd:198488: worth
+  imperial-eee-phd: maybe
+  jobbnorge:308793: worth
+  berkeley-erg-phd-admissions: maybe
+g44-polisci:
+  berkeley-public-policy-phd: worth
+  varbi:978489: maybe
+  academictransfer:364513: maybe
+  academictransfer:364514: maybe
+  oslomet-camelot-phd-climate-governance: worth
+  jobs-ac-uk:DTD355: worth
+  varbi:980250: maybe
+  ru-phd-decolonising-reparations-2026: maybe
+g47-particle-postdoc:
+  inspire:3210872: maybe
+  inspire:3213918: maybe
+  inspire:3214978: 'no'
+  inspire:3187727: 'no'
+  inspire:3211332: 'no'
+  inspire:3211735: 'no'
+  inspire:3211328: maybe
+  ajo:32772: 'no'
+  inspire:3205036: 'no'
+  ajo:33012: 'no'
+  inspire:3179554: maybe
+  inspire:3210121: worth
+  inspire:3205300: maybe
+  inspire:3208407: 'no'
+  inspire:3212678: maybe
+g50-agri-econ:
+  findaphd:198470: 'no'
+  findaphd:199914: 'no'
+  findaphd:200050: 'no'
+  jobs-ac-uk:DTH145: maybe
+  findaphd:198677: 'no'
+  smu-dedman-econ-phd-funding: maybe
+  ed-economics-phd-fees-funding: maybe
+  aarhus-econ-vacancies: 'no'
+  findaphd:199520: 'no'
+  jobs-ac-uk:DTG063: 'no'
+  jobs-ac-uk:DTB803: 'no'
+  su-economics-phd-employed: maybe
+  findaphd:199218: 'no'
+  findaphd:199833: 'no'
+  bse-upf-economics-phd-track: maybe

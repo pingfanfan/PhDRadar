@@ -11,7 +11,7 @@ argument-hint: [自然语言，如 "findaphd:195793 已投了" / "给 Prof. X �
    - 换阶段：`python scripts/track.py stage <id> <想投|准备中|已投|面试|结果>`；结果要加 `--result offer|reject|withdraw`；补记过去的日期用 `--date YYYY-MM-DD`；约了面试加 `--interview YYYY-MM-DD`。
    - 套磁：`python scripts/track.py contact <id> --to "Prof. X" [--date YYYY-MM-DD] [--note "..."]`；收到回复：`python scripts/track.py reply <id> [--to "Prof. X"]`。
    - 看全部：`python scripts/track.py board`（五列 Markdown 看板，带截止剩余天数与待办）。
-3. **网站收藏导入**：用户在 PhDRadar 网站上点的“收藏”和状态存在浏览器本地。让用户在网站页面打开浏览器控制台（F12 → Console），运行下面这一行，内容会复制到剪贴板，再粘贴保存成 JSON 文件（例如 `applications/site.json`）：
+3. **网站收藏导入**：用户在 PhDRadar 网站上点的“收藏”和申请进度存在浏览器本地。让用户打开网站的“我的收藏”，点“下载收藏与进度（JSON）”，把下载的文件放进 `applications/`。旧版网站没有这个按钮时，也可以在浏览器控制台（F12 → Console）运行下面这一行，内容会复制到剪贴板，再粘贴保存成 JSON 文件（例如 `applications/site.json`）：
 
    ```js
    copy(JSON.stringify({saved:JSON.parse(localStorage['phdradar-saved']||'{}'),status:JSON.parse(localStorage['phdradar-status']||'{}')}))

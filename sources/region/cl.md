@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 智利（CL） 信源（5）
+# 智利（CL） 信源（6）
 
-所有标注了地区 CL 的信源，共 5 条。
+所有标注了地区 CL 的信源，共 6 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [政府与国家级奖学金 2](cl.md#gov-scholarships) · [高校旗舰奖学金与资助检索 1](cl.md#university-schemes) · [结构化博士项目与研究机构 1](cl.md#doctoral-programs) · [博士后奖学金与项目 1](cl.md#postdoc-fellowships)
+**按分类跳转：** [政府与国家级奖学金 2](cl.md#gov-scholarships) · [高校旗舰奖学金与资助检索 1](cl.md#university-schemes) · [结构化博士项目与研究机构 1](cl.md#doctoral-programs) · [博士后奖学金与项目 2](cl.md#postdoc-fellowships)
 
 <a id="gov-scholarships"></a>
 
@@ -37,9 +37,10 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（1）
+## 博士后奖学金与项目（2）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [智利 FONDECYT 博士后（Concurso Postdoctorado 2027）](https://uchile.cl/convocatorias/243091/concurso-fondecyt-de-postdoctorados-2027)<br><sub>智利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-08-27**<br><sub>⏸ 本轮已截止</sub><br><sub>页面显示 2027 轮 FONDECYT 申请于 2026-09-08 截止（本轮已结束）；下一轮以 ANID 公告为准。</sub> | ⛔ | **要求：** 页面（3.4）：项目须由智利籍或在智利有永久居留的外国研究者执行；博士学位须在 2023-01-01 至 2026-09-03 之间取得。<br>智利 ANID FONDECYT 2027 博后竞赛。有学界评论称 2027 bases 仅接受在智利有永久居留者，但检索未能读取 bases 原文，故不直接标为不可申请，待核实。 |
 | [智利圣地亚哥大学 DICYT 2027 博士后竞赛](https://dicyt.usach.cl/wp-content/uploads/2026/08/BASES-POSTDOCTORADO-2027.pdf)<br><sub>智利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2027-08-14**<br><sub>🔜 即将开放</sub><br><sub>bases 第 1.10 条：报名期 2027 年 7 月 9 日至 8 月 14 日 16:00（智利大陆时间）</sub> | ❔ | **要求：** bases 称项目可由智利人或外国人承担，但须能完成整个执行期；其余资格要求以 2027 bases 原文为准。<br>圣地亚哥大学（USACH）DICYT 校内博士后竞赛，与 FONDECYT 不同。报名前须核对最新 bases PDF，外国人资格以原文为准。 |
 

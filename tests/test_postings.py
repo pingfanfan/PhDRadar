@@ -267,7 +267,7 @@ def test_jobs_ac_uk_home_fee_difference_is_restricted():
     assert row["cn"] == "no"
     uk_fees = JAC_PAGE.replace("International tuition fees and an annual stipend", "UK tuition fees and an annual stipend") \
                       .replace("Both UK and international applicants are eligible.", "")
-    assert cp.jac_detail("D", "u", uk_fees, TODAY)[0]["cn"] == "check"
+    assert cp.jac_detail("D", "u", uk_fees, TODAY)[0]["cn"] == "yes"  # 页头写明含国际生、正文没写自付差额：按页面说的算
     label_uk = JAC_PAGE.replace(", EU Students, International Students", "").replace(
         "Both UK and international applicants are eligible.", "Studentships cover fees at home or international rates.")
     assert cp.jac_detail("E", "u", label_uk, TODAY)[0]["cn"] == "check"
@@ -409,3 +409,42 @@ def test_econjobmarket_detail():
     assert why == "收录" and row["deadline"] == "2026-11-18" and row["org"] == "Ifo Institute" and row["country"] == "DE"
     assert row["amount"] == "68,200 EUR"
     assert b.ejm_detail("1", "u", page.replace("Postdoctoral Scholar", "Assistant Professor"), TODAY)[0] is None
+
+
+def test_until_date_is_deadline():
+    t = "Review of applications will start as soon as possible and continue until January 13, 2027, or until the post is filled."
+    assert cp.refine_deadline("2026-12-01", "q", t, TODAY) == ("2027-01-13", "continue until January 13, 2027")
+    assert cp.refine_deadline("2026-12-01", "q", "Applications will be considered until the position is filled.", TODAY)[0] == "rolling"
+
+
+def test_infn_and_pasteur_detail():
+    import platforms_it as it
+    page = ("<html><body>Dettaglio bando Numero 29226 Anno 2026 Titolo Selezione per il conferimento di n. 1 Incarico Post-Doc "
+            "scientifico Numero posti 1 Tipo Incarico Post-Doc Data bando 16-10-2026 Data scadenza 26-10-2026 Bando (PDF)</body></html>")
+    row, why = it.infn_detail("4699", "u", page, TODAY)
+    assert why == "收录" and row["id"] == "infn:29226" and row["deadline"] == "2026-10-26" and row["quote"] == "Data scadenza 26-10-2026"
+    prize = page.replace("Incarico Post-Doc scientifico", "Premio nazionale").replace("Tipo Incarico Post-Doc", "Tipo Borsa")
+    assert it.infn_detail("1", "u", prize, TODAY) == (None, "非博士/博后岗位")
+    rp = "<html><h1>Postdoc position in aging</h1><body>Application Deadline 30 Nov 2026 Funding is available.</body></html>"
+    row, why = cp.ADAPTERS["pasteur"][1]("x", "u", rp, TODAY)
+    assert why == "收录" and row["deadline"] == "2026-11-30" and row["level"] == "postdoc"
+    far = rp.replace("30 Nov 2026", "31 Dec 2027")  # 一年多以后的占位日期不算截止
+    assert cp.ADAPTERS["pasteur"][1]("x", "u", far, TODAY) == (None, "页面无截止日期")
+
+
+def test_soft_dates_and_expired_body_deadline():
+    hdr = "2026-11-23"
+    soft = "Applicants are encouraged to apply by October 20th, 2026. Late applications may continue to be reviewed."
+    assert cp.refine_deadline(hdr, "q", soft, TODAY) == (hdr, "q")
+    letters = "Applications by November 1, 2026 and ensure that 3 letters of recommendation are received by November 8, 2026."
+    assert cp.refine_deadline("2026-10-31", "q", "Deadline: November 1, 2026. " + letters, TODAY)[0] == "2026-11-01"
+    assert cp.refine_deadline(hdr, "q", "Application Deadline: September 6, 2026", TODAY)[0] == "2026-09-06"  # 正文截止已过
+    assert cp.refine_deadline(hdr, "q", "applications received before 23 February 2025 will be considered", TODAY) == (hdr, "q")  # 旧模板残留
+    assert cp.refine_deadline(hdr, "q", "Applications are open at any time - there are no closing dates.", TODAY)[0] == "rolling"
+
+
+def test_more_open_eligibility_phrases():
+    for t in ["The program is open to U.S. and non-U.S. citizens.", "We seek exceptional graduates from around the globe.",
+              "The Broad Institute will offer visa sponsorship for this opportunity.", "available to UK and International students"]:
+        assert cp.cn_of(t) == "yes", t
+    assert cp.cn_of("Visa sponsorship is not available for this position.") == "check"

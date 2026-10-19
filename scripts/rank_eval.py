@@ -27,11 +27,25 @@ def main() -> int:
     ap.add_argument("--today", default="2026-10-19")
     ap.add_argument("--only", default="")
     ap.add_argument("--top", type=int, default=10)
+    ap.add_argument("--catalog", default=str(ROOT / "tests" / "rank_eval_catalog.json.gz"),
+                    help="默认用评测时冻结的数据（2026-10-19 现在可申请的 2631 条），换成 assets/catalog.json 就是今天的数据")
+    ap.add_argument("--keywords", default="", help="用另一份关键词替换画像里的（如 tests/rank_eval_keywords_expanded.yml）")
     a = ap.parse_args()
     profiles = yaml.safe_load((ROOT / "tests" / "rank_eval_profiles.yml").read_text(encoding="utf-8"))
+    if a.keywords:
+        kw = yaml.safe_load(Path(a.keywords).read_text(encoding="utf-8"))
+        for p in profiles:
+            if p["id"] in kw:
+                p["research"] = {**p.get("research", {}), "keywords": kw[p["id"]]}
     lf = ROOT / "tests" / "rank_eval_labels.yml"
     labels = (yaml.safe_load(lf.read_text(encoding="utf-8")) if lf.exists() else None) or {}
-    rows = json.loads((ROOT / "assets" / "catalog.json").read_text(encoding="utf-8"))
+    import gzip
+
+    cat = Path(a.catalog)
+    rows = json.loads(gzip.open(cat, "rt", encoding="utf-8").read() if cat.suffix == ".gz" else cat.read_text(encoding="utf-8"))
+    jf = ROOT / "tests" / "rank_eval_judge.yml"
+    judge = (yaml.safe_load(jf.read_text(encoding="utf-8")) if jf.exists() else None) or {}
+    jstats = {"rules": [0, 0], "judge": [0, 0]}  # 有判断记录的画像：规则前 10 / 规则前 15 里 Claude 判为 worth 或 maybe 的前 10
     by_id = {x["id"]: x for x in rows}
     today = date.fromisoformat(a.today)
     stats = {False: [0, 0, 0], True: [0, 0, 0]}  # 调规则用的画像 / 留出画像：命中、总数、未标注
@@ -45,6 +59,13 @@ def main() -> int:
         u = sum(1 for r in top if r["id"] not in lab)
         st = stats[bool(p.get("heldout"))]
         st[0], st[1], st[2] = st[0] + g, st[1] + len(top), st[2] + u
+        J = judge.get(p["id"])
+        if J:
+            kept = [r for r in res["ranked"][:15] if J.get(r["id"]) in ("worth", "maybe")][:a.top]
+            for name, seq in (("rules", top), ("judge", kept)):
+                seq = [r for r in seq if r["id"] in lab]
+                jstats[name][0] += sum(lab[r["id"]] for r in seq)
+                jstats[name][1] += len(seq)
         print(f"\n## {p['id']}（{p.get('note', '')}）推荐 {len(res['ranked'])} · 排除 {len(res['excluded'])} · 不相关 {res['unrelated']}"
               f" · 前 {len(top)} 条命中 {g}" + (f"，未标注 {u}" if u else ""))
         for r in top:
@@ -55,6 +76,9 @@ def main() -> int:
         if total:
             print(f"\n{'留出画像' if held else '调规则用的画像'}前 {a.top} 准确率：{good}/{total} = {good / total:.0%}"
                   + (f"（另有 {unlabeled} 条未标注）" if unlabeled else ""))
+    (rg, rt), (jg, jt) = jstats["rules"], jstats["judge"]
+    if rt and jt:
+        print(f"\n有 Claude 判断记录的画像：只用规则 {rg}/{rt} = {rg / rt:.0%}；规则前 15 再经 Claude 判断（保留 worth / maybe）{jg}/{jt} = {jg / jt:.0%}")
     return 0
 
 

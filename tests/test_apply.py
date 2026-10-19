@@ -131,7 +131,7 @@ def test_fact_index_ids_and_sections():
 
 def test_checklist_quotes_original(tmp_path):
     cl = ac.extract_checklist(POSTING)
-    assert "简历 CV" in cl["materials"] and "成绩单与学位证明" in cl["materials"]
+    assert "简历 CV" in cl["materials"] and "成绩单与学位证明" in cl["materials"] and "求职信 / 动机信" in cl["materials"]  # short statement saying …
     assert cl["references"] == ["2"]
     assert any("no more than one page" in s for s in cl["format"])
     assert any("23:59 GMT" in s for s in cl["deadline_time"])
@@ -306,3 +306,24 @@ def test_quantifier_overclaim():
     good = "I assembled and cycled more than 200 coin cells; the best cell kept 78% capacity after 500 cycles at 1C [cv:proj-1]."
     assert ac.check_sentence(bad, facts, {}, None, "")[0]
     assert ac.check_sentence(good, facts, {}, None, "")[0] == []
+
+
+@pytest.mark.parametrize("sentence,ok", [
+    ("I have two specific questions.", True),
+    ("I am Lin Xiaozhou.", True),
+    ("I have not worked on diffusion limits.", True),       # 如实说明缺口
+    ("I have no experience with Stan, but I hope to learn.", True),
+    ("I completed my MSc at Northbridge University in June 2026 [cv:edu1].", True),
+    ("I have two papers.", False),
+    ("I am a final-year student.", False),
+])
+def test_identity_gaps_and_questions(sentence, ok):
+    errs, _ = ac.check_sentence(sentence, ac.fact_index(LIN), {}, None, "Lin Xiaozhou lin.xz@example.com")
+    assert (errs == []) == ok, errs
+
+
+def test_degree_level_must_match_citation():
+    facts = ac.fact_index(yaml.safe_load((FIX / "zhou-muyang.yml").read_text(encoding="utf-8")))
+    assert ac.check_sentence("我的硕士课题是多金属氧酸盐修饰的碳载体 [cv:edu-2]。", facts, {}, None, "")[0]
+    assert ac.check_sentence("我的硕士课题是多金属氧酸盐修饰的碳载体 [cv:edu-1]。", facts, {}, None, "")[0] == []
+    assert ac.check_sentence("During my BSc I studied chemistry [cv:edu-1].", facts, {}, None, "")[0]

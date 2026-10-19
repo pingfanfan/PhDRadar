@@ -21,6 +21,7 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 import apply_check as ac  # noqa: E402
 
+ADVICE = re.compile(r"放在|列出|写明|突出|保留|压缩|删去|删掉|注明|建议|应当|应该|不要|可以写|按原样")
 FAKE_ORGS = ["Imperial College London", "Tsinghua University", "Max Planck Institute for Intelligent Systems", "Nature Communications"]
 FAKE_AWARDS = [" and received the Best Poster Award at the 2025 Annual Meeting", "，并获得国家优秀青年科研奖"]
 
@@ -73,7 +74,7 @@ def mutate_swap(s: str, ids: list[str]) -> str | None:
 def supported(orig: str, variant: str, own: str) -> bool:
     """变体新加的身份 / 角色说法，出处本来就支持（例如出处写了 project lead）→ 不算编造。"""
     added = [need for _, said, need in ac.CLAIMS if re.search(said, variant, re.I) and not re.search(said, orig, re.I)]
-    return bool(added) and all(re.search(need, own, re.I) for need in added)
+    return all(re.search(need, own, re.I) for need in added)  # 没加新说法（原句已有）也不算编造
 
 
 def variants(s: str, i: int, ids: list[str]) -> dict[str, str | None]:
@@ -117,8 +118,9 @@ def main() -> int:
             if not re.search(r"\[cv:", s):
                 continue
             own = " ".join(idx.get(i.strip(), "") for m in re.finditer(r"\[cv:\s*([^\]]+)\]", s) for i in m.group(1).split(","))
+            advice = f.name == "cv-advice.md" and ADVICE.search(s)  # 简历建议句（“放在前面”“单独列出”）本身不陈述经历
             for kind, v in variants(s, k, ids).items():
-                if not v or v == s:
+                if not v or v == s or (advice and kind in ("uncited", "swap")):
                     continue
                 if kind in ("status", "role", "award") and supported(s, v, own):
                     continue  # 出处本来就支持这种说法（例如出处写了 project lead），不算编造

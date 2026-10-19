@@ -1,0 +1,411 @@
+# 关键词扩写实验：子代理扮演 /setup，只读画像背景，为每个画像写的 6–8 个中英文关键词（见 docs/rank-eval.md）
+p01-rl:
+- 强化学习
+- 机器人学习
+- reinforcement learning
+- robot learning
+- deep reinforcement learning
+- robot manipulation
+- embodied AI
+p02-nlp:
+- 自然语言处理
+- 大模型
+- natural language processing
+- NLP
+- large language models
+- LLMs
+- computational linguistics
+p03-medimg:
+- 医学影像
+- MRI
+- medical imaging
+- medical image analysis
+- deep learning for medical imaging
+- image segmentation
+- biomedical imaging
+p04-cogneuro:
+- 认知神经科学
+- fMRI
+- cognitive neuroscience
+- episodic memory
+- neuroimaging
+- EEG
+- brain imaging
+p05-ecology:
+- 生态
+- 生物多样性
+- 气候变化
+- biodiversity
+- ecology
+- climate change ecology
+- ecosystem
+- species distribution
+p06-battery:
+- 电池
+- 电化学
+- 储能
+- battery
+- lithium-ion
+- electrochemistry
+- energy storage
+- battery materials
+p07-quantum:
+- 量子光学
+- 光子
+- quantum optics
+- quantum photonics
+- single photon
+- cold atoms
+- quantum technologies
+p08-astro-postdoc:
+- 天体物理
+- astrophysics
+- cosmology
+- galaxy evolution
+- galaxy formation
+- extragalactic
+- postdoctoral research associate astrophysics
+p09-econ:
+- 计量经济学
+- 劳动经济学
+- econometrics
+- labour economics
+- labor economics
+- applied microeconomics
+- labour market
+p10-epi:
+- 流行病学
+- 传染病
+- epidemiology
+- infectious disease
+- infectious disease modelling
+- global health
+- public health
+p11-civil:
+- 土木工程
+- 结构工程
+- structural engineering
+- civil engineering
+- concrete
+- reinforced concrete
+- structural health monitoring
+p12-plant:
+- 作物基因组
+- 植物生物学
+- crop genomics
+- plant genomics
+- crop genetics
+- plant breeding
+- wheat
+p13-linguistics:
+- 二语习得
+- 心理语言学
+- second language acquisition
+- psycholinguistics
+- bilingualism
+- language learning
+- applied linguistics
+p14-education:
+- 学习科学
+- 教育技术
+- learning sciences
+- educational technology
+- technology-enhanced learning
+- digital learning
+- education research
+p15-ocean:
+- 物理海洋
+- 遥感
+- oceanography
+- physical oceanography
+- ocean remote sensing
+- satellite remote sensing
+- ocean circulation
+p16-cancer:
+- 肿瘤免疫
+- 癌症
+- cancer immunology
+- tumour immunology
+- immunotherapy
+- tumour microenvironment
+- T cells
+p17-robotics:
+- 机器人
+- 自动驾驶
+- robotics
+- autonomous vehicles
+- autonomous driving
+- motion planning
+- control engineering
+p18-supplychain:
+- 供应链
+- 运营管理
+- supply chain management
+- operations management
+- logistics
+- operations research
+p19-hydro-postdoc:
+- 水文
+- 洪水
+- hydrology
+- flood risk
+- flood modelling
+- hydrological modelling
+- climate change impacts
+- hydroclimate
+p20-semiconductor:
+- 半导体
+- 集成电路
+- semiconductor devices
+- integrated circuit design
+- chip design
+- microelectronics
+- VLSI
+- analog circuit design
+h01-compchem:
+- 计算化学
+- 分子模拟
+- computational chemistry
+- DFT
+- density functional theory
+- molecular dynamics
+- molecular simulation
+h02-biostat:
+- 生物统计
+- 因果推断
+- biostatistics
+- causal inference
+- statistical methods
+- clinical trials
+- medical statistics
+h03-neuro:
+- 神经科学
+- 电生理
+- systems neuroscience
+- electrophysiology
+- neural circuits
+- in vivo recording
+- neuronal dynamics
+h04-urban:
+- 城市规划
+- 交通
+- urban mobility
+- transport planning
+- transport
+- urban planning
+- sustainable mobility
+h05-polymer:
+- 高分子
+- 二维材料
+- polymer
+- polymer science
+- 2D materials
+- graphene
+- nanocomposites
+h06-bioinfo:
+- 生物信息
+- 单细胞
+- 基因组
+- bioinformatics
+- single-cell
+- single-cell RNA-seq
+- genomics data analysis
+- computational biology
+h07-pv:
+- 钙钛矿
+- 光伏
+- perovskite
+- perovskite solar cells
+- solar cells
+- photovoltaics
+- thin-film solar
+h08-psych:
+- 发展心理学
+- 儿童认知
+- developmental psychology
+- child development
+- cognitive development
+- infant cognition
+- children
+h09-fluids:
+- 流体力学
+- 湍流
+- fluid dynamics
+- fluid mechanics
+- CFD
+- turbulence
+- direct numerical simulation
+h10-history:
+- 中世纪史
+- 档案研究
+- medieval history
+- medieval
+- archives
+- manuscripts
+- archival research
+g31-hci:
+- 人机交互
+- 无障碍
+- human-computer interaction
+- HCI
+- accessibility
+- wearable
+- wearable computing
+- assistive technology
+g32-security:
+- 网络安全
+- 系统安全
+- cyber security
+- systems security
+- privacy
+- software security
+- privacy-preserving
+g33-cv:
+- 计算机视觉
+- 三维视觉
+- computer vision
+- 3D vision
+- 3D reconstruction
+- scene understanding
+- neural rendering
+g34-catalysis:
+- 催化
+- 二氧化碳转化
+- heterogeneous catalysis
+- CO2 conversion
+- CO2 reduction
+- electrocatalysis
+- catalysis
+g35-structbio:
+- 结构生物学
+- 冷冻电镜
+- structural biology
+- cryo-EM
+- cryo-electron microscopy
+- protein structure
+- macromolecular complexes
+g36-micro:
+- 微生物
+- 抗生素耐药
+- microbiology
+- antimicrobial resistance
+- AMR
+- bacterial pathogens
+- bacterial pathogenesis
+- antibiotic resistance
+g37-glaciology:
+- 冰川
+- 极地
+- glaciology
+- glacier
+- ice sheet
+- sea ice
+- polar climate
+- Antarctic
+g38-hydrogen:
+- 氢能
+- 燃料电池
+- hydrogen
+- fuel cells
+- hydrogen energy
+- electrolysis
+- green hydrogen
+g39-power:
+- 电力系统
+- 新能源并网
+- power systems
+- power electronics
+- renewable integration
+- grid integration
+- smart grid
+g40-aero:
+- 航空航天
+- 气动
+- 推进
+- aerospace engineering
+- aerodynamics
+- propulsion
+- gas turbine
+g41-pharm:
+- 药物递送
+- 纳米药物
+- drug delivery
+- nanomedicine
+- nanoparticles
+- pharmaceutics
+- targeted delivery
+g42-mentalhealth:
+- 心理健康
+- 青少年
+- youth mental health
+- adolescent mental health
+- adolescent
+- depression
+- clinical psychology
+g43-sociology:
+- 社会学
+- 移民
+- 不平等
+- sociology
+- migration
+- inequality
+- social stratification
+g44-polisci:
+- 政治学
+- 比较政治
+- 公共政策
+- political science
+- comparative politics
+- public policy
+- governance
+g45-finance:
+- 资产定价
+- 金融计量
+- asset pricing
+- financial econometrics
+- empirical finance
+- finance
+- financial economics
+g46-math:
+- 偏微分方程
+- 数值分析
+- 应用数学
+- partial differential equations
+- PDEs
+- numerical analysis
+- applied mathematics
+- finite element
+g47-particle-postdoc:
+- 粒子物理
+- 对撞机
+- particle physics
+- experimental particle physics
+- collider
+- LHC
+- ATLAS
+- CMS
+g48-ml-postdoc:
+- 可信 AI
+- 可解释性
+- trustworthy AI
+- interpretability
+- explainable AI
+- machine learning
+- robustness
+- AI safety
+g49-linguistics-cn:
+- 汉语语言学
+- 语料库
+- 语言学
+- Chinese linguistics
+- corpus linguistics
+- corpus
+- Mandarin Chinese
+g50-agri-econ:
+- 农业经济
+- 可持续农业
+- agricultural economics
+- food systems
+- sustainable agriculture
+- food security
+- agri-food

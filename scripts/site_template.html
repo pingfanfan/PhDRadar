@@ -150,6 +150,17 @@ main.in{padding-top:18px;padding-bottom:64px;display:flex;gap:18px;align-items:f
 .svx .keep{min-height:42px;padding:0 14px;font-weight:700}
 .keep:disabled{opacity:.5;cursor:not-allowed}
 .svx small{flex:1 1 180px;font-size:12.5px;color:var(--muted)}
+.svj{margin:0}
+.lnk{border:0;background:none;padding:0;color:var(--brand-text);text-decoration:underline;cursor:pointer;font-size:inherit}
+.svj code{font-family:var(--f-mono);font-size:12px;background:var(--soft);padding:0 4px;border-radius:4px;overflow-wrap:anywhere}
+.prepl{display:flex;flex-direction:column;gap:2px;padding:14px 16px;border:1px solid var(--line);border-radius:12px}
+.prepl h2{display:flex;align-items:baseline;gap:8px}
+.prepl h2 .mono{font-size:13px;color:var(--muted);font-weight:500}
+.prepl label{display:flex;align-items:flex-start;gap:10px;min-height:40px;padding:8px 0;border-top:1px solid var(--line);font-size:14.5px;cursor:pointer}
+.prepl label:first-of-type{border-top:0}
+.prepl input{flex:none;width:20px;height:20px;margin:1px 0 0;accent-color:var(--brand)}
+.prepl input:checked+span{color:var(--muted);text-decoration:line-through}
+.prepl .fine{margin-top:6px}
 .stw{display:flex;flex-direction:column;gap:8px}
 .stw .lab{display:flex;flex-wrap:wrap;justify-content:space-between;gap:4px 12px;font-size:13px;color:var(--muted)}
 .stw .lab b{color:var(--ink);font-size:13.5px}
@@ -233,6 +244,50 @@ footer .in{padding-top:16px;padding-bottom:28px;display:flex;flex-direction:colu
   a.tab{display:none}
   .savebtn{margin-left:auto;min-height:36px;padding:0 10px;white-space:nowrap}
 }
+/* 为我推荐：画像表单（只存在浏览器本地）+ 按匹配度排序的卡片，卡片写明命中了哪些词与条件 */
+[hidden]{display:none!important}
+body.rec .search,body.rec .hero .pills,body.rec #heat{display:none}
+.recp{display:none;flex-direction:column;gap:14px;padding:18px 18px 16px;border:1px solid var(--line);border-radius:14px;background:var(--surface);max-width:980px}
+body.rec .recp{display:flex}
+.rp-head{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 14px}
+.rp-head h2{margin:0;font-size:17px;font-weight:900}
+.rp-head p{margin:0;font-size:13px;color:var(--muted)}
+.recp label>span,.rp-lab{display:block;font-size:12.5px;color:var(--muted);margin-bottom:4px}
+.recp input:not([type=checkbox]),.recp select{width:100%;min-height:44px;border:1px solid var(--line-2);border-radius:10px;padding:0 12px;font:inherit;font-size:15px;color:var(--ink);background:var(--surface)}
+.recp input:focus,.recp select:focus{outline:2px solid var(--brand);outline-offset:0;border-color:var(--brand)}
+.rp-kw input{border:1.5px solid var(--ink)!important}
+.rp-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px}
+.rp-grid fieldset{border:0;margin:0;padding:0;min-width:0}
+.rp-grid legend{font-size:12.5px;color:var(--muted);margin-bottom:4px;padding:0}
+.chks{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;min-height:44px}
+.chk{display:inline-flex;align-items:center;gap:7px;font-size:14px;color:var(--ink-2);cursor:pointer;min-height:36px}
+.chk input{width:18px;height:18px;accent-color:var(--brand);margin:0}
+.rp-regions{display:flex;flex-wrap:wrap;gap:6px}
+.rp-regions .pill{min-height:34px;padding:0 12px}
+.rp-more{display:flex;flex-direction:column;gap:14px}
+.rp-more>summary{cursor:pointer;font-size:14px;font-weight:700;color:var(--brand-text);min-height:32px;display:flex;align-items:center;gap:8px}
+.rp-more>summary span{font-weight:400;color:var(--muted);font-size:12.5px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.rp-more[open]>summary span{display:none}
+.rp-more[open]>summary{margin-bottom:12px}
+.rp-more>div+div,.rp-more>.rp-grid+div{margin-top:12px}
+.rp-foot{display:flex;flex-wrap:wrap;gap:6px 18px;align-items:center}
+.rp-clear{margin-left:auto;min-height:36px;padding:0 12px;border-radius:10px;border:1px solid var(--line-2);background:var(--surface);color:var(--muted);font-size:13px;cursor:pointer}
+.recsum{padding:12px 14px;border:1px solid var(--line);border-radius:14px;background:var(--surface);font-size:13px;color:var(--muted);line-height:1.65}
+.recsum b{color:var(--ink);font-family:var(--f-mono)}
+.recsum details{margin-top:4px}
+.recsum summary{cursor:pointer;color:var(--brand-text)}
+.recsum ul{margin:6px 0 0;padding-left:18px}
+.why{display:flex;flex-direction:column;gap:2px;margin-top:4px;padding:8px 10px;border-radius:9px;background:var(--proof);font-size:13px;line-height:1.5;color:var(--proof-ink)}
+.why b{font-family:var(--f-mono);font-size:12.5px;color:var(--brand-text)}
+.why span{color:var(--ink-2);overflow-wrap:anywhere}
+.why small{font-size:12px;overflow-wrap:anywhere}
+.why.weak{background:var(--soft);color:var(--muted)}
+.why.weak b{color:var(--muted)}
+@media (max-width:860px){
+  .recp{padding:14px 12px}
+  .rp-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+  .rp-clear{margin-left:0}
+}
 </style>
 </head>
 <body>
@@ -241,6 +296,7 @@ footer .in{padding-top:16px;padding-bottom:28px;display:flex;flex-direction:colu
     <a class="brand" href="./"><i aria-hidden="true">奖</i><b>PhDRadar</b><small>海外带奖博士 / 博后</small></a>
     <nav aria-label="主导航">
       <button class="tab" data-view="now" aria-current="true">现在可申请<span class="mono" id="n-now"></span></button>
+      <button class="tab" data-view="rec" aria-current="false">为我推荐</button>
       <button class="tab" data-view="ver" aria-current="false">全部已核对<span class="mono" id="n-ver"></span></button>
       <button class="tab" data-view="all" aria-current="false" id="t-all" hidden>全部信源<span class="mono" id="n-all"></span></button>
       <a class="tab" href="docs/guide-cn.html">申请指南</a>
@@ -272,13 +328,37 @@ footer .in{padding-top:16px;padding-bottom:28px;display:flex;flex-direction:colu
       <span class="trust">每条都打开官网核对过 · 截止后自动下架 · 更新于 __DATE__</span>
     </div>
     <div class="heat" id="heat" aria-label="未来 5 周截止日历"></div>
+    <form class="recp" id="recp" autocomplete="off" aria-label="我的画像">
+      <div class="rp-head"><h2>为我推荐</h2><p>填几项条件，按研究方向的匹配度排序，每条写明命中了什么。画像只存在你的浏览器里，不会上传。</p></div>
+      <label class="rp-kw"><span>研究方向关键词（中英文都可，用逗号或顿号分开，3–6 个最好）</span>
+        <input id="rp-kw" type="text" placeholder="如：医学影像、深度学习、MRI"></label>
+      <details class="rp-more" id="rp-more" open><summary>更多条件<span id="rp-brief"></span></summary>
+      <div class="rp-grid">
+        <fieldset><legend>层次</legend><div class="chks"><label class="chk"><input type="checkbox" id="rp-phd" checked>博士</label><label class="chk"><input type="checkbox" id="rp-pd">博后</label></div></fieldset>
+        <label><span>入学前的最高学历</span><select id="rp-deg"><option value="bachelor">本科</option><option value="master" selected>硕士</option><option value="phd">博士</option></select></label>
+        <label><span>最低资助</span><select id="rp-fund"><option value="any">不限</option><option value="partial">至少部分资助</option><option value="full" selected title="官网没写资助的也保留">全奖 / 带薪</option><option value="confirmed">写明全奖 / 带薪</option></select></label>
+        <label><span>截止至少还有</span><select id="rp-prep"><option value="7">7 天</option><option value="14" selected>14 天</option><option value="30">30 天</option><option value="60">60 天</option></select></label>
+        <label><span>雅思总分</span><input id="rp-ielts" type="number" step="0.5" min="0" max="9" inputmode="decimal" placeholder="没有就留空"></label>
+        <label><span>托福总分</span><input id="rp-toefl" type="number" step="1" min="0" max="120" inputmode="numeric" placeholder="没有就留空"></label>
+        <label><span>德语</span><select id="rp-de"><option value="">不会 / B2 以下</option><option value="B2">B2 及以上</option></select></label>
+      </div>
+      <div><span class="rp-lab">国家偏好（可多选；选了的排前面）</span><div class="rp-regions" id="rp-regions"></div></div>
+      <div class="rp-foot">
+        <label class="chk"><input type="checkbox" id="rp-only">只看所选国家</label>
+        <label class="chk"><input type="checkbox" id="rp-cn">只看官网写明中国学生可申的</label>
+        <label class="chk"><input type="checkbox" id="rp-sens">方向可能涉及出口管制 / 安全审查</label>
+        <button type="button" class="rp-clear" id="rp-clear">清除画像</button>
+      </div>
+      </details>
+    </form>
   </div>
 </section>
 
 <main class="in">
   <section class="list" aria-label="机会列表">
-    <div class="lhead"><span><strong id="shown">…</strong> 个机会<span id="sv"></span></span><span>按截止日期分组</span></div>
+    <div class="lhead"><span><strong id="shown">…</strong> 个机会<span id="sv"></span></span><span id="sortnote">按截止日期分组</span></div>
     <div class="svbar" id="svbar" hidden></div>
+    <div class="recsum" id="recsum" hidden></div>
     <div id="cards" style="display:flex;flex-direction:column;gap:10px"></div>
     <button class="more" id="more" hidden>加载更多</button>
   </section>
@@ -292,6 +372,7 @@ footer .in{padding-top:16px;padding-bottom:28px;display:flex;flex-direction:colu
   </div>
 </footer>
 
+<script src="assets/rank.js"></script>
 <script>
 const LABELS = __LABELS__;
 const PAGE = 40;
@@ -318,7 +399,23 @@ const stageTag = id => { const v = stageOf(id); return `<span class="tag stt s-$
 function setStage(id, s, r){
   const v = {s, t: iso(new Date())};
   if (s === "result") { const r0 = r || (STATUS[id] && STATUS[id].s === "result" && STATUS[id].r); if (r0) v.r = r0; }
+  if (STATUS[id] && STATUS[id].c) v.c = STATUS[id].c;  // 准备清单的勾选随进度保留
   STATUS[id] = v; persistStatus();
+}
+// 准备清单：材料来自公告原文摘出的材料清单（x.af.dc）；公告没列时给常见材料并说明
+function prepItems(x){
+  const docs = x.af && x.af.dc ? x.af.dc[0].split(/[、，,；;]/).map(t => t.trim()).filter(Boolean) : [];
+  const base = docs.length ? docs.map(d => "准备" + d) : ["准备简历 CV", "准备成绩单与学位证明", "准备动机信 / 个人陈述"];
+  return {fromPost: docs.length > 0, items: [...base, "联系推荐人，告知截止日期", "确认截止时刻与时区", "（可选）给导师发套磁信"]};
+}
+function prepList(x){
+  const v = stageOf(x.id);
+  if (!SAVED[x.id] || !["want", "prep"].includes(v.s)) return "";
+  const {fromPost, items} = prepItems(x), c = (STATUS[x.id] && STATUS[x.id].c) || {};
+  const done = items.filter((_, i) => c[i]).length;
+  return `<div class="prepl"><h2>准备清单 <span class="mono">${done} / ${items.length}</span></h2>
+    ${items.map((t, i) => `<label><input type="checkbox" data-ck="${i}" data-sid="${esc(x.id)}" ${c[i] ? "checked" : ""}><span>${esc(t)}</span></label>`).join("")}
+    <p class="fine">${fromPost ? "材料来自公告原文摘录（见下方“申请须知”）" : "公告里没摘到材料清单，以上是常见材料"}，提交前请再读一遍官网要求。勾选只保存在你的浏览器里。</p></div>`;
 }
 
 const isNow = x => !!x.o && (!isDate(x.o.dl) || days(x.o.dl) >= 0);
@@ -377,6 +474,7 @@ function card(x){
         <span class="org">${esc([x.org, regionText(x)].filter(Boolean).join(" · "))}</span>
         <span class="pay">${esc(payText(x))}</span>
         ${x.in ? `<span class="intro">${esc(x.in)}</span>` : ""}
+        ${recWhy(x)}
         <span class="tags">${saved ? stageTag(x.id) : ""}<span class="tag">${esc(levelText(x))}</span><span class="tag ${cnYes(x) ? "yes" : ""}">${esc(cnYes(x) ? "中国学生可申" : (LABELS.cn[x.e] || LABELS.cn.check)[0])}</span>${screened(x) ? '<span class="tag warn">留意安全审查</span>' : ""}${x.lt ? `<span class="tag lang">语言 ${esc(x.lt)}</span>` : ""}${discTags(x)}</span>
         <span class="due ${tone}">${esc(dt)}</span>
       </span>
@@ -418,7 +516,9 @@ function detail(x){
     </div>
     <div class="facts">${facts.map(([k, v]) => `<div><span>${k}</span><b>${esc(v)}</b></div>`).join("")}</div>
     <div class="pb">
+      ${prepList(x)}
       ${quote ? `<div><h2>官网原句</h2><div class="proof"><svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5 9-10"/></svg><div><q>${esc(quote)}</q><small>${esc(checked || "")} 打开${x.via ? ` ${esc(x.via)} 公告` : "官网"}${what}</small></div></div></div>` : ""}
+      ${recDetail(x)}
       ${screened(x) ? `<div class="alert"><h2>留意安全审查</h2><p>公告原文提到出口管制、ATAS 或知识安全审查等要求。中国大陆学生可能需要额外审查，部分方向可能受限，投递前请先读原文确认。</p></div>` : ""}
       ${af.length || notes.length ? `<div><h2>申请须知</h2>${af.length ? `<div class="af">${af.map(([k, label]) => `<details><summary><span>${label}</span><b>${esc(x.af[k][0])}</b><i>原句</i></summary><q>${esc(x.af[k][1])}</q></details>`).join("")}</div>` : ""}${notes.map(n => `<p${af.length ? ' style="margin-top:10px"' : ""}>${esc(n)}</p>`).join("")}${af.length ? `<p class="fine" style="margin-top:8px">以上由程序从公告原文摘录，点开可看原句；没列出的项目公告里没写，请以官网为准。</p>` : ""}</div>` : ""}
       ${x.al ? `<p class="fine">同一岗位也发布在：${x.al.map((u, i) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(new URL(u).hostname.replace(/^www\./, ""))}</a>`).join("、")}</p>` : ""}
@@ -441,7 +541,8 @@ function svbar(base){
   const ex = exportable().length;
   return `<div class="pills" role="group" aria-label="按申请进度筛选">${[["", "全部"], ...STAGES].map(([k, t]) => `<button class="pill" data-sf="${k}" aria-pressed="${st.sf === k}">${t}<span class="mono">${n[k] || 0}</span></button>`).join("")}</div>
     <div class="svx"><button class="keep" id="ics-all" ${ex ? "" : "disabled"} title="${ex ? `把 ${ex} 个截止导出为一个 .ics，截止前 14 天、7 天和 1 天提醒` : "没有可导出的截止日期"}"><svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>导出全部截止到日历${ex ? `<span class="mono">${ex}</span>` : ""}</button>
-    <small>${ex ? "只导出有具体日期、尚未截止、进度不是“结果”的收藏；截止前 14 / 7 / 1 天提醒。" : "没有可导出的截止：需要有具体截止日期、尚未截止，且进度不是“结果”。"}</small></div>`;
+    <small>${ex ? "只导出有具体日期、尚未截止、进度不是“结果”的收藏；截止前 14 / 7 / 1 天提醒。" : "没有可导出的截止：需要有具体截止日期、尚未截止，且进度不是“结果”。"}</small></div>
+    ${base.length ? `<p class="fine svj"><button class="lnk" id="json-all">下载收藏与进度（JSON）</button>：用 Claude Code 的 <code>/track</code> 管理申请时，运行 <code>python scripts/track.py import-site 文件名</code> 导入。数据只在你的浏览器和电脑里。</p>` : ""}`;
 }
 
 function group(x){
@@ -455,6 +556,16 @@ function group(x){
   return `${+d.slice(0, 4) === TODAY.getFullYear() ? "" : `${d.slice(0, 4)} 年 `}${+d.slice(5, 7)} 月截止`;
 }
 function cardsHtml(list){
+  if (recOn()) {
+    let last = "";
+    return list.slice(0, st.shown).map(x => {
+      const g = REC.hit.has(x.id) ? `命中你的关键词 · 按匹配度排序<small>${REC.res.ranked.length}</small>`
+        : `学科相同、但没有命中你的关键词（相关性较弱）<small>${REC.res.related.length}</small>`;
+      const head = g === last ? "" : `<h3 class="grp">${g}</h3>`;
+      last = g;
+      return head + card(x);
+    }).join("");
+  }
   const counts = {};
   list.forEach(x => { const g = group(x); counts[g] = (counts[g] || 0) + 1; });
   let last = "";
@@ -520,15 +631,21 @@ function heat(){
     <div class="strip"><div class="sg">${mo.join("")}${cells.join("")}${wk.join("")}</div></div>`;
 }
 function render(keepScroll){
-  heat();
-  const base = filtered(), list = st.saved && st.sf ? base.filter(x => stageOf(x.id).s === st.sf) : base;
+  document.body.classList.toggle("rec", st.view === "rec" && !st.saved);
+  $("sortnote").textContent = recOn() || (st.view === "rec" && !st.saved) ? "按匹配度排序" : "按截止日期分组";
+  $("recsum").hidden = !(st.view === "rec" && !st.saved);
+  if (st.view === "rec" && !st.saved) $("recsum").innerHTML = recSummary();
+  else heat();
+  const base = st.view === "rec" && !st.saved ? recList() : filtered(), list = st.saved && st.sf ? base.filter(x => stageOf(x.id).s === st.sf) : base;
   $("svbar").hidden = !st.saved;
   $("svbar").innerHTML = st.saved ? svbar(base) : "";
   if (!list.some(x => x.id === st.sel) && innerWidth > 860) st.sel = list[0] ? list[0].id : "";
   $("shown").textContent = list.length.toLocaleString();
   $("sv").textContent = st.saved ? " · 我的收藏" : "";
   $("cards").innerHTML = list.length ? cardsHtml(list)
-    : `<div class="empty">${st.saved ? (st.sf && base.length ? "这个进度下还没有收藏。" : "还没有收藏。点卡片右上角的书签收藏想投的机会。") : "没有符合条件的机会，试试放宽筛选。"}</div>`;
+    : `<div class="empty">${st.saved ? (st.sf && base.length ? "这个进度下还没有收藏。" : "还没有收藏。点卡片右上角的书签收藏想投的机会。")
+      : st.view === "rec" ? (REC ? "没有命中你关键词的机会。换个说法（加英文、同义词），或放宽国家、资助、截止条件试试。" : "在上面填研究方向关键词，就会按你的条件排序。")
+      : "没有符合条件的机会，试试放宽筛选。"}</div>`;
   $("more").hidden = list.length <= st.shown;
   $("aside").innerHTML = detail(DATA.find(x => x.id === st.sel));
   $("n-saved").textContent = Object.keys(SAVED).length;
@@ -544,6 +661,8 @@ function closeDetail(){ document.body.classList.remove("detail"); }
 function bind(){
   document.querySelectorAll(".tab[data-view]").forEach(b => b.addEventListener("click", () => {
     st.view = b.dataset.view; st.saved = false; st.shown = PAGE;
+    if (st.view === "rec") recStart();
+    try { localStorage.setItem("phdradar-view", st.view); } catch (e) {}
     document.querySelectorAll(".tab[data-view]").forEach(t => t.setAttribute("aria-current", t === b));
     $("saved").setAttribute("aria-pressed", "false"); render();
   }));
@@ -560,13 +679,27 @@ function bind(){
     if (dd) { st.day = st.day === dd.dataset.day ? "" : dd.dataset.day; st.shown = PAGE; render(); return; }
     const c = e.target.closest("[data-ics]");
     if (c) { const x = DATA.find(y => y.id === c.dataset.ics); if (x) ics(x); return; }
+    if (e.target.closest("#json-all")) {
+      const a = document.createElement("a");
+      a.href = URL.createObjectURL(new Blob([JSON.stringify({saved: SAVED, status: STATUS, exported: iso(TODAY)}, null, 1)], {type: "application/json"}));
+      a.download = `phdradar-saved-${iso(TODAY)}.json`; document.body.appendChild(a); a.click(); a.remove();
+      setTimeout(() => URL.revokeObjectURL(a.href), 1000); return;
+    }
     if (e.target.closest("#ics-all")) { const l = exportable(); if (l.length) icsDownload(l, `phdradar-saved-${iso(TODAY)}.ics`); return; }
     const sf = e.target.closest("[data-sf]");
     if (sf) { st.sf = sf.dataset.sf; st.shown = PAGE; render(); return; }
+    const ck = e.target.closest("[data-ck]");
+    if (ck) {
+      const v = STATUS[ck.dataset.sid] || (STATUS[ck.dataset.sid] = {s: "want", t: iso(new Date())});
+      v.c = v.c || {}; if (ck.checked) v.c[ck.dataset.ck] = 1; else delete v.c[ck.dataset.ck];
+      if (ck.checked && v.s === "want") { v.s = "prep"; v.t = iso(new Date()); }  // 开始勾选 = 进入准备中
+      persistStatus(); render(true); const pn = document.querySelector("#aside .pane"); if (pn) pn.style.animation = "none"; return;
+    }
     const sg = e.target.closest("[data-stage]");
     if (sg) { setStage(sg.dataset.sid, sg.dataset.stage, sg.dataset.res); render(true); const pn = document.querySelector("#aside .pane"); if (pn) pn.style.animation = "none"; return; }
     const p = e.target.closest("[data-id]"), s = e.target.closest("[data-save]");
     if (s) { const id = s.dataset.save; if (SAVED[id]) { delete SAVED[id]; delete STATUS[id]; } else { SAVED[id] = 1; setStage(id, "want"); } persist(); persistStatus(); render(); return; }
+    if (p && p.tagName === "A") e.preventDefault();  // 推荐摘要里的链接：不让浏览器改地址触发 popstate
     if (p) openDetail(p.dataset.id);
     if (e.target.closest("#back")) { if (pushed) { pushed = false; history.back(); } else closeDetail(); }
   });
@@ -575,6 +708,104 @@ function bind(){
 function fill(id, counts, names){
   Object.entries(counts).sort((a, b) => b[1] - a[1]).forEach(([k, n]) => {
     const o = document.createElement("option"); o.value = k; o.textContent = `${names[k] || k}（${n}）`; $(id).appendChild(o);
+  });
+}
+// —— 为我推荐：画像存在 localStorage（phdradar-profile），排序规则与 /rank 相同（assets/rank.js + assets/rank-rules.json）——
+const PKEY = "phdradar-profile";
+let PROF = {}, RULES = null, REC = null, recTimer = 0;
+try { PROF = JSON.parse(localStorage.getItem(PKEY) || "{}") || {}; } catch (e) { PROF = {}; }
+const recOn = () => st.view === "rec" && !st.saved && !!REC;
+const kwList = s => String(s || "").split(/[,，、;；\n]+/).map(k => k.trim()).filter(Boolean).slice(0, 8);
+function profileOf(f){
+  const lv = [f.phd !== false && "phd", f.pd && "postdoc"].filter(Boolean);
+  return {nationality: "CN", education: [{degree: f.deg || "master", status: "completed"}],
+    research: {keywords: kwList(f.kw)}, target: {levels: lv.length ? lv : ["phd"]},
+    languages: {ielts: f.ielts ? +f.ielts : null, toefl: f.toefl ? +f.toefl : null, german: f.de || null},
+    countries: {prefer: f.rg || [], accept: f.only ? (f.rg || []) : []},
+    funding: {min_coverage: f.fund || "full"}, deadline: {min_prep_days: f.prep == null ? 14 : +f.prep},
+    eligibility: {cn_only: !!f.cn}, sensitive_field: !!f.sens};
+}
+function recRun(){
+  REC = null;
+  if (!RULES || !DATA.length || !kwList(PROF.kw).length) return;
+  const res = PhDRank.rank(DATA, profileOf(PROF), RULES, iso(TODAY));
+  REC = {res, by: new Map(res.ranked.concat(res.related).map(a => [a.id, a])), hit: new Set(res.ranked.map(a => a.id))};
+}
+function recList(){
+  if (!REC) return [];
+  const byId = new Map(DATA.map(x => [x.id, x]));
+  return REC.res.ranked.concat(REC.res.related.slice(0, 40)).map(a => byId.get(a.id)).filter(Boolean);
+}
+function recWhy(x){
+  if (!recOn()) return "";
+  const a = REC.by.get(x.id);
+  if (!a) return "";
+  const strip = s => s.replace(/^[^：]+：/, "").replace(/\b[A-Z]{2,6}\b/g, c => LABELS.region[c] || c);
+  return `<span class="why${REC.hit.has(x.id) ? "" : " weak"}"><b>匹配 ${a.score}</b><span>${esc(strip(a.reasons[0]))}</span><small>${esc(strip(a.reasons[1]))} · ${esc(strip(a.reasons[2]))}</small></span>`;
+}
+function recDetail(x){
+  if (!recOn() || !REC.by.has(x.id)) return "";
+  const a = REC.by.get(x.id), loc = s => s.replace(/\b[A-Z]{2,6}\b/g, c => LABELS.region[c] || c);
+  return `<div><h2>为什么推荐 · 匹配 ${a.score}</h2>${a.reasons.map(r => `<p>${esc(loc(r))}</p>`).join("")}
+    <p class="fine">按关键词与条件自动排序，可能有字面巧合；投递前请读官网原文确认方向与资格。</p></div>`;
+}
+function recSummary(){
+  if (!RULES) return "正在加载排序规则…";
+  if (!REC) return "填上研究方向关键词就开始排序。中文关键词会自动匹配英文写法（“机器学习”也会匹配 machine learning）。";
+  const r = REC.res, counts = {};
+  r.excluded.forEach(a => a.excluded.forEach(t => { const k = t.replace(/[（(].*$/, ""); counts[k] = (counts[k] || 0) + 1; }));
+  const top = Object.entries(counts).sort((p, q) => q[1] - p[1]);
+  const disc = (r.disc || []).map(d => LABELS.discipline[d] || d).join("、");
+  const near = r.excluded.filter(a => a.hits.length && a.excluded.length === 1 && !/^层次不符|^博后岗位/.test(a.excluded[0])), byIdRec = new Map(DATA.map(x => [x.id, x]));
+  return `现在可申请的 <b>${r.considered.toLocaleString()}</b> 条里：命中你关键词的 <b>${r.ranked.length}</b> 条，学科相同但没命中关键词的 <b>${r.related.length}</b> 条，
+    被你的条件排除 <b>${r.excluded.length.toLocaleString()}</b> 条，方向不相关 <b>${r.unrelated.toLocaleString()}</b> 条。${disc ? `识别出的学科：${esc(disc)}。` : ""}
+    资格写“待核实”的，投递前请自己读官网确认。
+    ${near.length ? `<details><summary>方向对口、只差一个条件的 ${near.length} 条</summary><ul>${near.slice(0, 8).map(a => `<li><a href="#${encodeURIComponent(a.id)}" data-id="${esc(a.id)}">${esc((byIdRec.get(a.id) || {}).n || a.id)}</a>：${esc(a.excluded[0])}</li>`).join("")}</ul></details>` : ""}
+    ${top.length ? `<details><summary>被排除的原因</summary><ul>${top.slice(0, 8).map(([k, n]) => `<li>${esc(k)}：${n} 条</li>`).join("")}</ul></details>` : ""}`;
+}
+function recBrief(){
+  const f = PROF, fund = {any: "资助不限", partial: "至少部分资助", full: "全奖 / 带薪", confirmed: "写明全奖 / 带薪"};
+  const bits = [[f.phd !== false && "博士", f.pd && "博后"].filter(Boolean).join("、"), fund[f.fund || "full"],
+    f.ielts && `雅思 ${f.ielts}`, f.toefl && `托福 ${f.toefl}`, (f.rg || []).map(r => LABELS.region[r] || r).join("、"), f.cn && "只看可申"];
+  $("rp-brief").textContent = "：" + bits.filter(Boolean).join(" · ");
+}
+function recFill(){
+  const f = PROF, v = (id, val) => { const el = $(id); if (el.type === "checkbox") el.checked = !!val; else el.value = val == null ? "" : val; };
+  v("rp-kw", f.kw || ""); v("rp-phd", f.phd !== false); v("rp-pd", f.pd); v("rp-deg", f.deg || "master"); v("rp-fund", f.fund || "full");
+  v("rp-prep", f.prep == null ? 14 : f.prep); v("rp-ielts", f.ielts); v("rp-toefl", f.toefl); v("rp-de", f.de || "");
+  v("rp-only", f.only); v("rp-cn", f.cn); v("rp-sens", f.sens);
+  document.querySelectorAll("#rp-regions [data-rg]").forEach(b => b.setAttribute("aria-pressed", (f.rg || []).includes(b.dataset.rg)));
+}
+function recRead(){
+  const c = id => $(id).checked, t = id => $(id).value.trim();
+  PROF = {kw: $("rp-kw").value, phd: c("rp-phd"), pd: c("rp-pd"), deg: t("rp-deg"), fund: t("rp-fund"), prep: +t("rp-prep"),
+    ielts: t("rp-ielts"), toefl: t("rp-toefl"), de: t("rp-de"), only: c("rp-only"), cn: c("rp-cn"), sens: c("rp-sens"),
+    rg: [...document.querySelectorAll("#rp-regions [data-rg][aria-pressed=true]")].map(b => b.dataset.rg)};
+  try { localStorage.setItem(PKEY, JSON.stringify(PROF)); } catch (e) {}
+}
+function recUpdate(){ recRead(); recBrief(); clearTimeout(recTimer); recTimer = setTimeout(() => { recRun(); st.shown = PAGE; render(); }, 250); }
+function recStart(){
+  if (RULES) { recRun(); return; }
+  fetch("assets/rank-rules.json").then(r => r.json()).then(j => { RULES = j; recRun(); if (st.view === "rec") render(); })
+    .catch(() => { $("recsum").textContent = "排序规则加载失败，请刷新页面。"; });
+}
+function recBind(){
+  const rc = {};
+  DATA.filter(isNow).forEach(x => (x.r || []).forEach(r => rc[r] = (rc[r] || 0) + 1));
+  $("rp-regions").innerHTML = Object.entries(rc).sort((a, b) => b[1] - a[1]).slice(0, 18)
+    .map(([k]) => `<button type="button" class="pill" data-rg="${esc(k)}" aria-pressed="false">${esc(LABELS.region[k] || k)}</button>`).join("");
+  recFill(); recBrief();
+  if (innerWidth <= 860 && kwList(PROF.kw).length) $("rp-more").open = false;
+  $("recp").addEventListener("input", recUpdate);
+  $("recp").addEventListener("change", recUpdate);
+  $("recp").addEventListener("submit", e => { e.preventDefault(); recUpdate(); });
+  $("rp-regions").addEventListener("click", e => {
+    const b = e.target.closest("[data-rg]"); if (!b) return;
+    b.setAttribute("aria-pressed", b.getAttribute("aria-pressed") !== "true"); recUpdate();
+  });
+  $("rp-clear").addEventListener("click", () => {
+    PROF = {}; try { localStorage.removeItem(PKEY); } catch (e) {}
+    recFill(); REC = null; render();
   });
 }
 bind();
@@ -586,6 +817,12 @@ fetch("assets/catalog.json").then(r => r.json()).then(rows => {
   const rc = {}, dc = {};
   DATA.filter(x => x.v).forEach(x => { (x.r || []).forEach(r => rc[r] = (rc[r] || 0) + 1); (x.d || []).forEach(d => d !== "all" && (dc[d] = (dc[d] || 0) + 1)); });
   fill("region", rc, LABELS.region); fill("disc", dc, LABELS.discipline);
+  recBind();
+  let lastView = "";
+  try { lastView = localStorage.getItem("phdradar-view") || ""; } catch (e) {}
+  if (location.hash === "#rec" || (kwList(PROF.kw).length && lastView === "rec")) {
+    st.view = "rec"; document.querySelectorAll(".tab[data-view]").forEach(t => t.setAttribute("aria-current", t.dataset.view === "rec")); recStart();
+  }
   const h = decodeURIComponent(location.hash.slice(1));
   if (h && DATA.some(x => x.id === h)) { st.sel = h; if (!isNow(DATA.find(x => x.id === h))) { st.view = "ver"; document.querySelectorAll(".tab[data-view]").forEach(t => t.setAttribute("aria-current", t.dataset.view === "ver")); } }
   render();

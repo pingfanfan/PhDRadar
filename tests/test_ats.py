@@ -121,4 +121,53 @@ def test_pageup():
     row, why = ats.pu_detail("jobs.hku.hk-537680", "https://jobs.hku.hk/en/job/537680/postdoctoral-fellow", page, TODAY)
     assert why == "收录" and row["deadline"] == "2026-11-30" and row["level"] == "postdoc" and row["country"] == "HK"
     waf = '<html><script>window.awsWafCookieDomainList = [];</script></html>'
-    assert ats.pu_detail("x", "u", waf, TODAY) == (None, "被拦截（WAF 验证）")
+    try:
+        ats.pu_detail("x", "u", waf, TODAY)
+        raise AssertionError("WAF 验证页应当让适配器停下")
+    except RuntimeError:
+        pass
+
+
+class _Page:
+    def __init__(self, text):
+        self.text = text
+
+
+class _Fetch:
+    def __init__(self, text):
+        self.page = _Page(text)
+
+    def get(self, url):
+        return self.page
+
+
+def test_reachmee():
+    listing = """<tr><td>20260357</td><td><a href='https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=x&job_id=15133'
+class='btn btn-link'>Doctoral student in Material Science</a></td><td><span class='show-mobile'>Application deadline:</span>
+<span data-order="1" style="display:none">2026-11-20</span> 20/11/2026</td></tr><tr><td>20260495</td>
+<td><a href='https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=x&job_id=15131' class='btn btn-link'>
+Avdelningsadministratör</a></td></tr>"""
+    saved = ats.REACHMEE[:]
+    ats.REACHMEE[:] = [("Chalmers University of Technology", "https://web103.reachmee.com/ext/I003/304", "site=5", "SE")]
+    try:
+        out = ats.rm_urls(_Fetch(listing), 1)
+    finally:
+        ats.REACHMEE[:] = saved
+    assert [jid for jid, _ in out] == ["I003-304-15133"]
+    page = """<h1>Doctoral student in Material Science</h1><p>A starting salary of 35,725 SEK per month.</p>
+<p>We welcome your application no later than November 20 For questions, please contact</p>"""
+    row, why = ats.rm_detail("I003-304-15133", out[0][1], page, TODAY)
+    # 原句没写年份：与列表上的结构化截止日期一致才借用年份
+    assert why == "收录" and row["deadline"] == "2026-11-20" and row["quote"] == "application no later than November 20"
+    assert row["org"] == "Chalmers University of Technology" and row["country"] == "SE" and row["level"] == "phd"
+
+
+def test_university_list_page():
+    listing = """<a href="/all-vacancies/?show=170609">PhD fellowship in Plant Nutrition</a>
+<a href="/all-vacancies/?show=170610">Head of Section, Finance</a>"""
+    out = ats.ls_urls(_Fetch(listing), 1)
+    assert out == [("ku-170609", "https://employment.ku.dk/all-vacancies/?show=170609")]
+    page = """<h1>PhD fellowship in Plant Nutrition</h1><p>The salary is in accordance with the collective agreement.</p>
+<p>Application deadline: The deadline for applications is 23 October 2026, 23:59 CET.</p>"""
+    row, why = ats.ls_detail("ku-170609", out[0][1], page, TODAY)
+    assert why == "收录" and row["deadline"] == "2026-10-23" and row["via"] == "University of Copenhagen"

@@ -144,3 +144,10 @@ def test_inria_rules():
     assert r["apply_via"]["value"].startswith("在线系统")
     assert "start" not in r  # 开始日期栏目常过期，不用规则
     assert all(ep.check_field(k, v, ep.norm(b)) is None for k, v in r.items())
+
+
+def test_french_and_german_number_words():
+    q = "Contrat de trois ans à partir de janvier 2027"
+    assert ep.check_field("duration", {"value": "3 年，2027 年 1 月起", "quote": q}, ep.norm(q)) is None
+    q = "Die Stelle ist auf drei Jahre befristet"
+    assert ep.check_field("duration", {"value": "3 年", "quote": q}, ep.norm(q)) is None

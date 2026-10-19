@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 葡萄牙（PT） 信源（11）
+# 葡萄牙（PT） 信源（12）
 
-所有标注了地区 PT 的信源，共 11 条。
+所有标注了地区 PT 的信源，共 12 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [各国学术招聘门户与机构职位页 1](pt.md#national-portals) · [政府与国家级奖学金 2](pt.md#gov-scholarships) · [结构化博士项目与研究机构 6](pt.md#doctoral-programs) · [博士后奖学金与项目 1](pt.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](pt.md#fellowships)
+**按分类跳转：** [各国学术招聘门户与机构职位页 1](pt.md#national-portals) · [政府与国家级奖学金 2](pt.md#gov-scholarships) · [结构化博士项目与研究机构 6](pt.md#doctoral-programs) · [博士后奖学金与项目 2](pt.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](pt.md#fellowships)
 
 <a id="national-portals"></a>
 
@@ -42,10 +42,11 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（1）
+## 博士后奖学金与项目（2）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [Champalimaud 基金会职位列表（博后与研究岗）](https://fchampalimaud.org/taxonomy/term/161?page=0)<br><sub>葡萄牙 ｜ 神经/认知·医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 按课题组发布博后岗位，每个岗位有独立 call 编号，投递须填写 call 编号。截止时间以各岗位页为准，本页列表不保证当前仍开放。 |
 | [FCT CEEC Individual 科研合同（葡萄牙）](https://www.fct.pt/en/8-a-edicao-do-concurso-estimulo-ao-emprego-cientifico-individual-para-400-contratos/)<br><sub>葡萄牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-02-02**<br><sub>⏸ 本轮已截止</sub><br><sub>第 8 届申请期延长至 2026-02-02，已截止；第 9 届以 FCT 公告为准</sub> | ✅ | **要求：** PhD 学位（任意国籍）；需葡萄牙机构接收；通过 myFCT 申请<br>面向任何国籍博士，需葡萄牙机构接收，约 400 个研究员合同，通常年初截止。 |
 
 <a id="fellowships"></a>

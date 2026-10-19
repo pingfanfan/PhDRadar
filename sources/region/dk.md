@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 丹麦（DK） 信源（41）
+# 丹麦（DK） 信源（47）
 
-所有标注了地区 DK 的信源，共 41 条。
+所有标注了地区 DK 的信源，共 47 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 2](dk.md#aggregators) · [各国学术招聘门户与机构职位页 4](dk.md#national-portals) · [高校旗舰奖学金与资助检索 8](dk.md#university-schemes) · [结构化博士项目与研究机构 12](dk.md#doctoral-programs) · [博士后奖学金与项目 2](dk.md#postdoc-fellowships) · [企业与基金会 Fellowship 3](dk.md#fellowships) · [学科专属信源 1](dk.md#discipline) · [科研实习与“曲线入口” 3](dk.md#pathways) · [个人信源与社交渠道 2](dk.md#people-channels) · [导师招生帖（社交平台个人发布） 4](dk.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 2](dk.md#aggregators) · [各国学术招聘门户与机构职位页 4](dk.md#national-portals) · [高校旗舰奖学金与资助检索 10](dk.md#university-schemes) · [结构化博士项目与研究机构 13](dk.md#doctoral-programs) · [博士后奖学金与项目 5](dk.md#postdoc-fellowships) · [企业与基金会 Fellowship 3](dk.md#fellowships) · [学科专属信源 1](dk.md#discipline) · [科研实习与“曲线入口” 3](dk.md#pathways) · [个人信源与社交渠道 2](dk.md#people-channels) · [导师招生帖（社交平台个人发布） 4](dk.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
@@ -32,14 +32,16 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（8）
+## 高校旗舰奖学金与资助检索（10）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [丹麦技术大学（DTU）PhD 雇员制薪资说明](https://www.dtu.dk/english/Education/PhD/Intro/Salary)<br><sub>丹麦 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 滚动<br><sub>📋 持续更新</sub><br><sub>各岗位各自设截止，页面本身不是招生公告；请到具体岗位页核实。</sub> | ❔ | **要求：** PhD 生以雇员身份受聘（丹麦 PhD fellow 制度）；国籍与学历资格需看具体岗位招聘条件。<br>大学级官方页面，说明 PhD fellow 为雇员、有薪资（金额以当年页面为准，未入库）。国际生资格页面未说明。 |
 | [哥本哈根大学人文学院博士奖学金申请流程与时间表](https://phd.humanities.ku.dk/how-to-obtain-a-phd-scholarship/application-process-and-timeline/)<br><sub>丹麦 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>各年截止不同；通常 9 月 1 日入学，4–5 月面试，录取后签署入学与雇佣函；以 UCPH 当期公告为准</sub> | ❔ | 页面为哥本哈根大学人文学院博士奖学金申请流程说明：公开征集（open calls）每年一次，12 月发布岗位广告、2 月截止，3 月初筛、4–5 月面试，5 月发放录取与雇佣函，9 月 1 日入学。专项征集（specific calls）在截止前 6–8 周发布广告。 |
 | [哥本哈根大学社会科学学院 Industrial PhD](https://socialsciences.ku.dk/research/industrialphd/)<br><sub>丹麦 ｜ 社会科学/心理·经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>最高 DKK 17,000/月（丹麦创新基金会对学生薪资的补贴上限）</sub> | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 页面为社会科学学院工业博士（Industrial PhD）说明页：该计划培养能理解企业研发业务的研究人员，学位在本院攻读。申请截止与方式见丹麦创新基金会（Innovation Fund Denmark）页面，本页不列具体课题。 |
+| [哥本哈根大学艺术与文化研究系 嘉士伯基金会资助博士/博后岗位](https://artsandculturalstudies.ku.dk/research/funding/new-carlsberg-foundation-research-funding-2018/)<br><sub>丹麦 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位<br><sub>薪资资助最高 DKK 2,000,000（基金会与合作机构共同出资，页面所示）</sub> | **2026-10-05**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 2026-10-05 12:00 截止（已过）；2027 轮通常在秋季，未公布。</sub> | ❔ | **要求：** 个人不能直接申请 PhD/博后名额，需由博物馆或展览机构与大学合作提出；有意者需联系院系。<br>哥本哈根大学艺术与文化研究系（IKK）的新嘉士伯基金会资助博士与博后岗位。基金会仅允许博物馆和展览机构申请 PhD/博后名额，个人应关注院系合作公告；2026 轮截止 10 月 5 日。 |
 | [哥本哈根大学药物研究学院资助与奖学金页](https://dra.ku.dk/grants/)<br><sub>丹麦 ｜ 医学/公卫·化学/材料·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** DRA 面向药学科学领域博士生；具体资助条件以各公告为准，国际生资格未确认<br>DRA 资助页入口。检索结果显示 DRA Scholarships 是面向硕士阶段优秀学生的预科培养，并非博士资助；博士资助多以课题组公告发布。页面所列 Lundbeck 金额适用阶段需逐条核对。 |
+| [奥胡斯大学国际研究人员岗位页](https://international.au.dk/research/researcher-positions)<br><sub>丹麦 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | 🟡 | 国际研究者总入口，各研究生院博士岗截止不同，需进对应页面核对。 |
 | [奥胡斯大学工程与技术科学研究生院博士岗位入口](https://phd.tech.au.dk/for-applicants/apply-here/)<br><sub>丹麦 ｜ 工程·计算机·人工智能·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各项目截止日不同，页面列出 2026/10/10 至 2026/12/01 的岗位，以各岗位页为准。</sub> | ❔ | **要求：** 需工程或相关专业硕士学位；丹麦博士为带薪雇员<br>AU 工程学院的博士岗位统一在此发布，按具体项目申请、带薪。 |
 | [奥胡斯大学数学系空缺岗位页](https://math.au.dk/en/about/vacancies/phd)<br><sub>丹麦 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>最新一轮截止 2026 年 11 月 1 日，2027 年 2 月 1 日起始</sub> | ❔ | 奥胡斯大学数学系带薪博士岗位（Mathematics and Stochastics），官网博士招聘页可见 2026 年 11 月 1 日截止的一轮；薪资、学历与国际生资格以岗位公告为准。 |
 | [奥胡斯大学文学院 4+4 博士奖学金公开征集（含人类学）](https://phd.arts.au.dk/applicants/open-and-specific-calls/deadline/phd-open-call-e2026-uk)<br><sub>丹麦 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-10-01**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 秋轮截止 10 月 1 日（已过）；仅接受 4+4 奖学金。2027 年初下一轮未见公告，需看官网。</sub> | ❔ | **要求：** 硕士学位或同等学历；入学日取决于硕士学分<br>丹麦文学院 4 年博士奖学金，学科含人类学、全球研究；社会学未单列。入学日 2027-02-01 或 03-01；截止与下一轮需到官网核实。 |
@@ -47,10 +49,11 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（12）
+## 结构化博士项目与研究机构（13）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [DARA (Danish Advanced Research Academy) 博士奖学金 · 诺和诺德基金会资助](https://www.daracademy.dk/fellowships)<br><sub>丹麦 ｜ 工程·物理/天文·化学/材料·生物/生命科学·医学/公卫·计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>🔜 即将开放</sub><br><sub>公开招募每年两轮（约 2 月与约 8 月截止）；上一轮 2025/26 冬季轮截止 2026-02-20，下一轮以官网为准</sub> | ❔ | **要求：** 需符合丹麦 4+4 或 5+3 博士入学模式，并自行联系丹麦高校教授作为主导师；DARA 不负责匹配导师<br>诺和诺德基金会资助的国家级博士学院，面向技术、自然、医学等学科。各轮资助比例不同（有的写全额，有的写覆盖 80%），以当轮页面为准。 |
 | [DTU 健康技术学院博士学校（PhD School at DTU Health Tech）](https://www.healthtech.dtu.dk/education/phd-school)<br><sub>丹麦 ｜ 工程·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止不同；如 AI-augmented sense-making in digital phenotyping 岗位截止 2026 年 10 月 18 日</sub> | ❔ | **要求：** 各岗位要求不同，如部分岗位要求两年制（120 ECTS）硕士或同等学历；语言与其他条件以各岗位公告为准<br>DTU 健康技术学院博士学校入口，列出多个在招博士岗位。岗位以带薪全职博士职位形式发布，资格与截止以各岗位公告为准。国际生资格未在官方页面核实。 |
 | [DTU 博士申请指南](https://www.dtu.dk/english/education/phd/applicant)<br><sub>丹麦 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 滚动<br><sub>📋 持续更新</sub><br><sub>页面说明 DTU 博士全年可入学，岗位截止日期各不相同。</sub> | ❔ | **要求：** 需硕士或同等学历，以 DTU 指南为准。<br>DTU 博士项目在 vacant positions 列表发布，能源方向岗位可在 DTU Energy 岗位页查看。 |
 | [Pioneer Centre for AI（丹麦）博士招聘](https://www.aicentre.dk/phd-openings/)<br><sub>丹麦 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>🔜 即将开放</sub><br><sub>页面未列具体截止日；DARA 每年两轮（页面称 2 times per year），以 DARA 官网为准</sub> | ❔ | Pioneer Centre for AI 教员定期发布 PhD 岗位（页面称为全职、12 个月有薪职位）；另列出愿意考虑 DARA 申请者的教员，需先以项目构想直接联系，且须在截止日前至少 1 个月达成同意。 |
@@ -66,12 +69,15 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（2）
+## 博士后奖学金与项目（5）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [DFF 国际博士后资助（丹麦独立研究基金）](https://dff.dk/media/1yjno2gi/call-for-proposals-for-independent-research-2026.pdf)<br><sub>丹麦 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2026-11-05**<br><sub>🟢 开放申请</sub><br><sub>2026 年 11 月 5 日截止（DFF 2026 年公告页）；具体时刻以官方 PDF 为准。</sub> | ❔ | **要求：** 需博士学位；博士学位来源及移居等资格细则以官方 PDF 为准，本次未核实。<br>DFF 国际博士后资助（丹麦独立研究基金），最高 DKK 1,550,000（不含管理费），期限 2 年。截止 2026-11-05 12:00。资格（尤其博士学位来源）以官方 PDF 为准，中国大陆申请人需先核实是否符合。 |
 | [Lundbeck Foundation 博后（LF Postdocs，神经科学）](https://www.thetransmitter.org/funding-opportunity/lf-postdocs-danish-neuroscience/)<br><sub>丹麦 ｜ 神经/认知·生物/生命科学·医学/公卫</sub> | 博后 | 全奖<br><sub>最高 DKK 300 万（3 年，含家庭与差旅津贴）</sub> | **2026-11-19**<br><sub>🟢 开放申请</sub><br><sub>完整申请截止约为 2026 年 11 月 19 日（聚合站数据，需以基金会官网为准）</sub> | ❔ | **要求：** 博士毕业不超过 4–5 年（说法不一）；必须变更研究环境：国际学者到丹麦机构工作，须有丹麦宿主机构<br>丹麦 Lundbeck 基金会博后，含国际人才来丹麦类别，博士毕业 4 年内；2026 截止日期未确认，以 lundbeckfond.dk 为准。 |
 | [NNF-IAS 健康与可持续发展研究员（北欧四所高等研究院联合博后）](https://www.swedishcollegium.se/fellowships/nnf-ias-fellowship-programme-on-health-and-sustainability)<br><sub>瑞典·丹麦·芬兰·挪威 ｜ 医学/公卫·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-10-01**<br><sub>⏸ 本轮已截止</sub><br><sub>第一轮截止 2026-10-01 已过；2027 年 9 月 1 日起入职，下一轮时间以官网为准。</sub> | ❔ | **要求：** 面向任何国籍、各学科的研究者；博士毕业后有 2–10 年工作经验（博士阶段不计）；申请截止前两年内在优先国家居住或主要工作超过 12 个月者不符合条件。<br>北欧四所高等研究院（丹麦 AIAS、挪威 CAS、芬兰 HCAS、瑞典 SCAS）联合的跨学科研究员项目，主题为健康与可持续发展，全职有薪、需迁往北欧宿主研究所工作。 |
+| [丹麦 DFF 国际博士后资助](https://dff.dk/en/apply-for-funding/see-what-you-can-apply-for/current-funding-opportunities/instruments/2026/november/dff-international-postdoctoral-grant-e26/)<br><sub>丹麦 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明<br><sub>最高 DKK 1,550,000（不含间接费用，2 年）</sub> | **2026-11-05**<br><sub>🟢 开放申请</sub><br><sub>2026 年 11 月征集，截止 11 月 5 日 12:00</sub> | ⛔ | **要求：** 博士学位须来自丹麦机构，且在截止日前 3 年内获得；需海外执行至少连续 12 个月<br>DFF 国际博后资助，2 年项目，需在海外连续执行至少 12 个月。博士学位须来自丹麦机构，非丹麦博士申请人不符合资格，故标记为 no；截止 2026 年 11 月 5 日 12:00。 |
+| [嘉士伯基金会国际化博士后](https://carlsbergfondet.dk/en/applicant/internationalisation-fellowships)<br><sub>丹麦 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2027-04-01**<br><sub>🔜 即将开放</sub><br><sub>2026 轮截止 2026-04-01（已结束）；2027 轮日期官网未公布</sub> | ⛔ | **要求：** 博士学位须来自丹麦、格陵兰或法罗群岛的研究机构；需在海外研究机构与丹麦机构之间完成研究<br>2–3 年，可在海外机构工作并回丹麦机构结束，由丹麦机构管理经费。2026-04-01 截止，下一轮预计 2027 年初。 |
 
 <a id="fellowships"></a>
 

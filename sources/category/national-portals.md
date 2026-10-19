@@ -2,17 +2,17 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 各国学术招聘门户与机构职位页（57）
+# 各国学术招聘门户与机构职位页（63）
 
 某个国家/研究机构体系内的官方或主流职位库，欧洲带薪 PhD 大多首发在这里。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [德国（DE） 13](national-portals.md#r-de) · [法国（FR） 9](national-portals.md#r-fr) · [丹麦（DK） 4](national-portals.md#r-dk) · [比利时（BE） 3](national-portals.md#r-be) · [荷兰（NL） 3](national-portals.md#r-nl) · [瑞典（SE） 3](national-portals.md#r-se) · [日本（JP） 2](national-portals.md#r-jp) · [卢森堡（LU） 2](national-portals.md#r-lu) · [英国（UK） 2](national-portals.md#r-uk) · [阿根廷（AR） 1](national-portals.md#r-ar) · [奥地利（AT） 1](national-portals.md#r-at) · [澳大利亚（AU） 1](national-portals.md#r-au) · [加拿大（CA） 1](national-portals.md#r-ca) · [瑞士（CH） 1](national-portals.md#r-ch) · [西班牙（ES） 1](national-portals.md#r-es) · [欧盟/欧洲（EU） 1](national-portals.md#r-eu) · [芬兰（FI） 1](national-portals.md#r-fi) · [全球（GLOBAL） 1](national-portals.md#r-global) · [中国香港（HK） 1](national-portals.md#r-hk) · [克罗地亚（HR） 1](national-portals.md#r-hr) · [匈牙利（HU） 1](national-portals.md#r-hu) · [挪威（NO） 1](national-portals.md#r-no) · [葡萄牙（PT） 1](national-portals.md#r-pt) · [中国台湾（TW） 1](national-portals.md#r-tw) · [美国（US） 1](national-portals.md#r-us)
+**按地区跳转：** [德国（DE） 14](national-portals.md#r-de) · [法国（FR） 9](national-portals.md#r-fr) · [丹麦（DK） 4](national-portals.md#r-dk) · [比利时（BE） 3](national-portals.md#r-be) · [日本（JP） 3](national-portals.md#r-jp) · [荷兰（NL） 3](national-portals.md#r-nl) · [瑞典（SE） 3](national-portals.md#r-se) · [英国（UK） 3](national-portals.md#r-uk) · [奥地利（AT） 2](national-portals.md#r-at) · [加拿大（CA） 2](national-portals.md#r-ca) · [瑞士（CH） 2](national-portals.md#r-ch) · [卢森堡（LU） 2](national-portals.md#r-lu) · [阿根廷（AR） 1](national-portals.md#r-ar) · [澳大利亚（AU） 1](national-portals.md#r-au) · [西班牙（ES） 1](national-portals.md#r-es) · [欧盟/欧洲（EU） 1](national-portals.md#r-eu) · [芬兰（FI） 1](national-portals.md#r-fi) · [全球（GLOBAL） 1](national-portals.md#r-global) · [中国香港（HK） 1](national-portals.md#r-hk) · [克罗地亚（HR） 1](national-portals.md#r-hr) · [匈牙利（HU） 1](national-portals.md#r-hu) · [挪威（NO） 1](national-portals.md#r-no) · [葡萄牙（PT） 1](national-portals.md#r-pt) · [中国台湾（TW） 1](national-portals.md#r-tw) · [美国（US） 1](national-portals.md#r-us)
 
 <a id="r-de"></a>
 
-## 德国（DE）（13）
+## 德国（DE）（14）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -22,6 +22,7 @@
 | [DAAD 中国办公室 · 德国资助项目检索（面向中国学生）](https://daad.org.cn/de/foerderung-finden/foerderprogramme-in-deutschland)<br><sub>德国·中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ✅ | DAAD 中国办事处整理的赴德资助入口,可按学科与学历筛选,含 CAS-DAAD 联合博士奖学金等。各项目截止日需进入项目页确认。 |
 | [DAAD 奖学金数据库](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ✅ | 选择国籍 China、学位 Doctoral candidates 可列出所有可申奖学金。 |
 | [DFG 2026 年新设研究训练组（GRK）公告](https://www.dfg.de/de/aktuelles/neuigkeiten-themen/pressemitteilungen/2026/pressemitteilung-nr-16)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各新 GRK 的岗位截止日各异，通常在开课前 3–6 个月公布</sub> | ❔ | **要求：** 以各 GRK 岗位公告为准<br>DFG 2026 年 6 月 1 日新闻稿：批准新设 10 所研究训练组（GRK），自 2026 年秋季起首期资助 5 年，合计约 7000 万欧元（含 22% 的间接费）。页面列出各 GRK 的高校与研究主题。 |
+| [Fraunhofer Jobs](https://www.fraunhofer.de/en/jobs-and-career.html)<br><sub>德国 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 以各研究所岗位描述为准；博士候选人通常为受雇合同；可向研究所投递自发申请<br>德国弗劳恩霍夫应用研究机构，博士候选人由各研究所以雇佣合同聘用（公共部门薪资，通常 3 年，可延至 6 年），需向具体研究所投递。 |
 | [Fraunhofer《Promovieren mit Fraunhofer》博士说明（官方 PDF）](https://fraunhofer.de/content/dam/zv/de/jobs-karriere/Promovieren-mit-Fraunhofer.pdf)<br><sub>德国 ｜ 工程·计算机·物理/天文·化学/材料·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各研究所岗位各自截止，没有统一批次</sub> | ❔ | Fraunhofer 官方说明：博士通常在研究所与大学合作框架下完成，申请对应具体研究所岗位而非中央奖学金。 |
 | [Helmholtz Association Jobs](https://helmholtz.de/en/career)<br><sub>德国 ｜ 物理/天文·工程·地球/环境/海洋·生物/生命科学·医学/公卫·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 德国最大科研联合会（DLR、KIT、DESY、Jülich 等 18 个中心）。部分涉及敏感技术的岗位有出口管制审查。 |
 | [Leibniz Association Jobs](https://www.leibniz-gemeinschaft.de/en/careers/jobs)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ✅ | **要求：** 岗位门户，部分岗位仅德语发布；学历与语言要求以各岗位为准。<br>莱布尼茨联合会近百个研究所，社科、经济、生命科学方向岗位较多。 |
@@ -67,6 +68,16 @@
 | [Ghent University Vacancies](https://www.ugent.be/en/work/scientific)<br><sub>比利时 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面列出 10 个博士岗位（100% 全职），截止日期从 2026-10-21 至 2026-12-07 不等，以各岗位说明为准。</sub> | ✅ | 根特大学（Ghent University）博士研究员（Doctoral fellows）岗位页，列出 10 个全职博士岗位及各自的申请截止时间。 |
 | [KU Leuven Jobsite](https://www.kuleuven.be/personeel/jobsite/en)<br><sub>比利时 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | KU Leuven 职位门户首页，按学术人员、博士（PhDs）、管理与专业人员等分类列出岗位，并提供博士求职信息页；本页不列具体博士岗位，需在门户中筛选 PhD。 |
 
+<a id="r-jp"></a>
+
+## 日本（JP）（3）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [EURAXESS Japan（欧日科研职位与流动信息）](https://japan.euraxess.org)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 欧盟与日本的研究人员流动门户，汇集日本的研究职位、MSCA 资助的博士岗位与合作资助项目信息。这是信息入口而非单一资助，每个职位需核对截止日期与申请条件。 |
+| [JREC-IN Portal（日本 JST 研究职位门户）](https://jrecin.jst.go.jp/)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 可切换英文界面，注册与浏览免费；部分岗位要求日语，需逐条确认语言要求<br>日本最大研究职位库，有英文界面，以博后/教职为主，也有带薪博士生岗位；部分要求日语。 |
+| [Study in Japan：MEXT 2027 年度使馆推荐（研究生）入口](https://studyinjapan.go.jp/en/smap-stopj-applications-research.html)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2027 年入学使馆推荐报名多在 2026 年 4–5 月，初审 5–7 月已结束；2028 年入学轮次预计 2027 年 4–5 月启动（未官方确认）。</sub> | ✅ | **要求：** 需通过中国使馆初审（材料、笔试、面试）并取得日本大学暂定录取函；以使馆公告为准。<br>日本政府官方门户，MEXT 使馆推荐总入口；中国申请者在中国使馆教育处确认本地初审时间，通常前一年 5–7 月. |
+
 <a id="r-nl"></a>
 
 ## 荷兰（NL）（3）
@@ -87,14 +98,42 @@
 | [Varbi（瑞典高校招聘系统）](https://varbi.com/en/)<br><sub>瑞典 ｜ 全学科</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 博士岗位为受雇合同；国际申请人须按岗位核实工作许可；学位与语言要求以各岗位公告为准<br>瑞典多数大学（隆德、乌普萨拉、斯德哥尔摩大学等）用 Varbi 发布 “Doctoral student” 岗位；也可直接看各校 vacancies 页面。 |
 | [卡罗林斯卡学院职位空缺](https://ki.se/en/vacancies)<br><sub>瑞典 ｜ 医学/公卫·神经/认知·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 博士岗位需满足通用要求（硕士或同等学历，或 240 ECTS 含 60 ECTS 高阶课程）及专项要求；英语需达到瑞典高中 English B 水平；须按 KI 入学指引认证资格。国籍限制未见<br>KI 官方职位空缺页，列出博士与博士后等在招岗位及各自截止日期（如 PhD Position Translational Neuroscience，2026-10-21），可按部门筛选。 |
 
-<a id="r-jp"></a>
+<a id="r-uk"></a>
 
-## 日本（JP）（2）
+## 英国（UK）（3）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
-| [JREC-IN Portal（日本 JST 研究职位门户）](https://jrecin.jst.go.jp/)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 可切换英文界面，注册与浏览免费；部分岗位要求日语，需逐条确认语言要求<br>日本最大研究职位库，有英文界面，以博后/教职为主，也有带薪博士生岗位；部分要求日语。 |
-| [Study in Japan：MEXT 2027 年度使馆推荐（研究生）入口](https://studyinjapan.go.jp/en/smap-stopj-applications-research.html)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2027 年入学使馆推荐报名多在 2026 年 4–5 月，初审 5–7 月已结束；2028 年入学轮次预计 2027 年 4–5 月启动（未官方确认）。</sub> | ✅ | **要求：** 需通过中国使馆初审（材料、笔试、面试）并取得日本大学暂定录取函；以使馆公告为准。<br>日本政府官方门户，MEXT 使馆推荐总入口；中国申请者在中国使馆教育处确认本地初审时间，通常前一年 5–7 月. |
+| [AHRC Doctoral Landscape Award 分配名单](https://www.ukri.org/publications/ahrc-doctoral-landscape-award-allocations/)<br><sub>英国 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | 🟡 | **要求：** 需先在 50 所获分配高校中找到具体名额，再到各校研究生院申请；国际生资格在 UKRI 页面未见说明，需逐校确认。<br>AHRC 向 50 所高校分配人文艺术博士名额（每校 5 年约 15 个，首批 2026 年 10 月入学）。需先查名单，再到各校研究生院申请；国际生资格未在 UKRI 页面找到官方说明，需逐校确认。 |
+| [ESRC Doctoral Training Partnerships（社科）](https://www.ukri.org/publications/esrc-postgraduate-funding-guide/esrc-postgraduate-funding-guidance/)<br><sub>英国 ｜ 社会科学/心理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>UKRI 标准约 £20,780/年（2025/26；2026/27 待确认）</sub> | 各项目不同<br><sub>📋 持续更新</sub> | 🟡 | **要求：** 国际生名额约占各 DTP 的 30% 以内，通常仅覆盖本地学费标准，国际学费差额需另行补足；一般须先被所在院校录取并获推荐。<br>15 个社科博士培养联盟，奖学金向各 DTP 申请，通常与录取同步。 |
+| [UKRO：MSCA Doctoral Networks 指南](https://www.ukro.ac.uk/funding-and-guidance/msca/doctoral-networks/)<br><sub>英国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ✅ | 英国国家联络点说明，岗位在 EURAXESS 发布；用于找英国高校参与的 DN 博士岗，同样适用流动性规则。 |
+
+<a id="r-at"></a>
+
+## 奥地利（AT）（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [ISTA 全额资助博士岗（奥地利留学门户）](https://studyinaustria.at/en/news/article/2025/12/new-fully-funded-phd-positions-at-ista)<br><sub>奥地利 ｜ 计算机·数学/统计·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 9 月入学批次截止 2026-01-08（已过）；下一批次按规律预计 2027 年 1 月前后，待 ISTA 官网公布</sub> | ✅ | ISTA 为国际博士项目，覆盖十余个学科，提供全额资助的五年合同并含全额财务支持；2026 年 9 月入学批次申请截止日期为 2026 年 1 月 8 日。 |
+| [维也纳医科大学（MedUni Wien）在招岗位总页](https://www.meduniwien.ac.at/web/en/karriere/offene-stellen/)<br><sub>奥地利 ｜ 医学/公卫·生物/生命科学·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>博士岗按 Kennzahl 陆续发布；所见 2026 年岗位多已截止，以在招页为准</sub> | ❔ | 含医学数据科学与 AI 等博士岗，医学院博士岗多为受雇形式，国籍限制以岗位为准。 |
+
+<a id="r-ca"></a>
+
+## 加拿大（CA）（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [CIFAR 泛加拿大 AI 战略门户](https://www.cifar.ca/ai)<br><sub>加拿大 ｜ 人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | 国家 AI 战略入口，经 Amii、Mila、Vector 资助研究生与博后；非申请页，找岗位需进各研究所门户. |
+| [加拿大政府国际学生奖学金入口](https://www.scholarships.gc.ca/)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 依具体奖学金而定；门户列出面向非加拿大人的项目，多数需由加拿大院校代为申请，资格以各项目页为准。<br>加拿大政府国际奖学金门户，列出面向非加拿大人的奖学金；部分项目需由加拿大院校代为申请，目录可能不完整。 |
+
+<a id="r-ch"></a>
+
+## 瑞士（CH）（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [EPFL Doctoral School](https://www.epfl.ch/education/phd/)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>CHF 55,225/年（首年毛薪，2026 年起，含第 13 月薪）</sub> | —<br><sub>📋 持续更新</sub> | ✅ | **要求：** 需先被博士项目录取后才能受聘为博士助理（doctoral assistant）；外国硕士注册费 CHF 150；非 EU/EFTA 国籍从实习转为聘用受限，具体以 EPFL 官网为准。<br>页面称学院下设 22 个博士项目，博士学习通常约四年；页面未说明薪资、资助或岗位细节，需以官网为准。 |
+| [ETH Zurich Jobs](https://jobs.ethz.ch/)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 通常需硕士或相当学历；ETH 无统一博士岗位库，需先联系目标教授或课题组<br>苏黎世联邦理工（ETH）没有统一的博士岗位库：博士职位由各教授自行招募，博士生通常具有 ETH 在职身份。官方建议直接联系相关课题组，并可查看 jobs.ethz.ch 上的公开岗位。 |
 
 <a id="r-lu"></a>
 
@@ -105,15 +144,6 @@
 | [卢森堡 FNR PRIDE 博士培养单元](https://fnr.lu/funding-instruments/pride)<br><sub>卢森堡 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | **2025-10-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2025 轮 DTU 全文截止 2025-10-15；未查到 2026 轮公告，关注 FNR 页面；个人申请须按各 DTU 公开岗位</sub> | ✅ | **要求：** 按各 DTU 公开岗位要求申请；岗位为 4 年博士雇佣合同<br>FNR 主要博士资助项目 PRIDE：由博士培养单元（DTU）作为申请主体获得成批博士岗位，每个博士岗含 4 年博士雇佣合同与培训流动津贴；候选人直接向获资助的 DTU 申请岗位。2025 轮全文截止 2025 年 10 月 15 日。 |
 | [卢森堡国家研究基金 FNR · AFdoc 博士资助计划（2026 首轮）](https://www.fnr.lu/?p=86405)<br><sub>卢森堡 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>最高年度薪资资助 EUR 54,574（按 2026 年 6 月 1 日薪级指数，含雇主费用、社保与养老金）</sub> | **2026-11-25**<br><sub>🟢 开放申请</sub><br><sub>首轮 2026 年 11 月 25 日 14:00（CET）截止；后续轮次以官网为准</sub> | ❔ | **要求：** 需证明与卢森堡有关联（如在卢累计 5 年以上教育或居住）；未获博士学位；博士须在海外公立授予博士学位机构或卢企合作项目中完成<br>卢森堡 FNR 的 AFdoc 博士资助计划，首轮 2026 年 11 月 25 日 14:00（CET）截止；自 2027 年起每年两轮（4 月与 11 月截止）。页面要求申请人与卢森堡有关联，承办机构须为海外公立博士授予机构或获认可的卢森堡研发企业；资助覆盖雇用薪资，不含学费。 |
 
-<a id="r-uk"></a>
-
-## 英国（UK）（2）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [AHRC Doctoral Landscape Award 分配名单](https://www.ukri.org/publications/ahrc-doctoral-landscape-award-allocations/)<br><sub>英国 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | 🟡 | **要求：** 需先在 50 所获分配高校中找到具体名额，再到各校研究生院申请；国际生资格在 UKRI 页面未见说明，需逐校确认。<br>AHRC 向 50 所高校分配人文艺术博士名额（每校 5 年约 15 个，首批 2026 年 10 月入学）。需先查名单，再到各校研究生院申请；国际生资格未在 UKRI 页面找到官方说明，需逐校确认。 |
-| [UKRO：MSCA Doctoral Networks 指南](https://www.ukro.ac.uk/funding-and-guidance/msca/doctoral-networks/)<br><sub>英国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ✅ | 英国国家联络点说明，岗位在 EURAXESS 发布；用于找英国高校参与的 DN 博士岗，同样适用流动性规则。 |
-
 <a id="r-ar"></a>
 
 ## 阿根廷（AR）（1）
@@ -122,14 +152,6 @@
 | --- | --- | --- | --- | :-: | --- |
 | [CONICET 年度博士与博后奖学金总入口（2026 bases）](https://www.conicet.gov.ar/publicacion-de-las-bases-de-la-convocatoria-de-becas-2026/)<br><sub>阿根廷 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮博士内部奖学金申请期为 7 月 27 日至 8 月 21 日（已截止）；博后申请期为 2027 年 2 月 18 日至 3 月 5 日，起始 2027 年 8 月 1 日。</sub> | ❔ | **要求：** 需为大学毕业生，阿根廷籍与外国籍均可申请（检索摘要称，细则以 2026 bases 为准）；博士类奖学金须在 CONEAU 认证的博士项目中进行；外籍获奖者需自行办理入境手续，CONICET 不承担机票与移民费用。<br>页面列出 2026 年博士内部奖学金（7 月 27 日至 8 月 21 日）及博士完成期奖学金（至 8 月 14 日）的申请期，获奖自 2027 年 4 月 1 日起；2027 年博后申请期为 2 月 18 日至 3 月 5 日。 |
 
-<a id="r-at"></a>
-
-## 奥地利（AT）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [ISTA 全额资助博士岗（奥地利留学门户）](https://studyinaustria.at/en/news/article/2025/12/new-fully-funded-phd-positions-at-ista)<br><sub>奥地利 ｜ 计算机·数学/统计·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 9 月入学批次截止 2026-01-08（已过）；下一批次按规律预计 2027 年 1 月前后，待 ISTA 官网公布</sub> | ✅ | ISTA 为国际博士项目，覆盖十余个学科，提供全额资助的五年合同并含全额财务支持；2026 年 9 月入学批次申请截止日期为 2026 年 1 月 8 日。 |
-
 <a id="r-au"></a>
 
 ## 澳大利亚（AU）（1）
@@ -137,22 +159,6 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Study Australia 奖学金检索](https://www.studyaustralia.gov.au/en/plan-your-studies/scholarships)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ✅ | 澳大利亚政府官方奖学金检索（Study in Australia 门户），收录政府、院校及其他机构奖学金；澳洲 PhD 主要资金来源仍是各校 RTP 奖学金。具体金额与资格以各项目页面为准。 |
-
-<a id="r-ca"></a>
-
-## 加拿大（CA）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [加拿大政府国际学生奖学金入口](https://www.scholarships.gc.ca/)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 依具体奖学金而定；门户列出面向非加拿大人的项目，多数需由加拿大院校代为申请，资格以各项目页为准。<br>加拿大政府国际奖学金门户，列出面向非加拿大人的奖学金；部分项目需由加拿大院校代为申请，目录可能不完整。 |
-
-<a id="r-ch"></a>
-
-## 瑞士（CH）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [EPFL Doctoral School](https://www.epfl.ch/education/phd/)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>CHF 55,225/年（首年毛薪，2026 年起，含第 13 月薪）</sub> | —<br><sub>📋 持续更新</sub> | ✅ | **要求：** 需先被博士项目录取后才能受聘为博士助理（doctoral assistant）；外国硕士注册费 CHF 150；非 EU/EFTA 国籍从实习转为聘用受限，具体以 EPFL 官网为准。<br>页面称学院下设 22 个博士项目，博士学习通常约四年；页面未说明薪资、资助或岗位细节，需以官网为准。 |
 
 <a id="r-es"></a>
 

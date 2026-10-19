@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 沙特（SA） 信源（22）
+# 沙特（SA） 信源（23）
 
-所有标注了地区 SA 的信源，共 22 条。
+所有标注了地区 SA 的信源，共 23 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [高校旗舰奖学金与资助检索 5](sa.md#university-schemes) · [结构化博士项目与研究机构 7](sa.md#doctoral-programs) · [博士后奖学金与项目 8](sa.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](sa.md#fellowships) · [科研实习与“曲线入口” 1](sa.md#pathways)
+**按分类跳转：** [高校旗舰奖学金与资助检索 5](sa.md#university-schemes) · [结构化博士项目与研究机构 7](sa.md#doctoral-programs) · [博士后奖学金与项目 8](sa.md#postdoc-fellowships) · [企业与基金会 Fellowship 2](sa.md#fellowships) · [科研实习与“曲线入口” 1](sa.md#pathways)
 
 <a id="university-schemes"></a>
 
@@ -53,10 +53,11 @@
 
 <a id="fellowships"></a>
 
-## 企业与基金会 Fellowship（1）
+## 企业与基金会 Fellowship（2）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [KAUST 伊斯兰开发银行（IDB）博士奖学金](https://www.kaust.edu.sa/en/study/idb-kaust-scholarship)<br><sub>沙特 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ⛔ | **要求：** 仅限伊斯兰开发银行成员国公民，35 岁以下，需在本国学术或研究机构全职工作并获机构提名，且已获 KAUST 博士录取。<br>只面向伊斯兰开发银行成员国公民且需机构提名，中国大陆学生一般无资格，仅供核对。 |
 | [KAUST 数值计算组博士奖学金与招聘](https://numerics.kaust.edu.sa/openings.html)<br><sub>沙特 ｜ 数学/统计·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 未公布 | ✅ | **要求：** 需数学（应用或纯）、物理、工程或相关学位，并具备优秀的英语读写与口头表达能力；申请时发邮件联系导师，并附研究样例。<br>页面写明：Ph.D. 学生可获得有竞争力的津贴，并含住房与保险；未提及学费。申请时发邮件联系导师，再通过 KAUST 招生系统提交。 |
 
 <a id="pathways"></a>

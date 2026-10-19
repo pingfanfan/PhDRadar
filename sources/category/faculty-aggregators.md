@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 导师招生汇总（指向个人主页的集合）（14）
+# 导师招生汇总（指向个人主页的集合）（15）
 
 把“正在招博士的导师”集中列出的名单、表格和数据库，直接链接到导师个人主页或招生帖。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [美国（US） 5](faculty-aggregators.md#r-us) · [奥地利（AT） 4](faculty-aggregators.md#r-at) · [中国内地（CN） 2](faculty-aggregators.md#r-cn) · [德国（DE） 2](faculty-aggregators.md#r-de) · [法国（FR） 1](faculty-aggregators.md#r-fr)
+**按地区跳转：** [美国（US） 5](faculty-aggregators.md#r-us) · [奥地利（AT） 4](faculty-aggregators.md#r-at) · [中国内地（CN） 2](faculty-aggregators.md#r-cn) · [德国（DE） 2](faculty-aggregators.md#r-de) · [加拿大（CA） 1](faculty-aggregators.md#r-ca) · [法国（FR） 1](faculty-aggregators.md#r-fr)
 
 <a id="r-us"></a>
 
@@ -50,6 +50,14 @@
 | --- | --- | --- | --- | :-: | --- |
 | [ELLIS Institute Tübingen · 开放岗位](https://institut-tue.ellis.eu/jobs)<br><sub>德国 ｜ 人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各 PI 岗位截止不一；博士项目（ELLIS、CLS、IMPRS、MPI-AIX）通常秋季开放、10 月至 11 月中旬截止</sub> | ❔ | ELLIS Tübingen 统一岗位页，汇总各 PI 的博士与博后招聘。搜索到的 Core Cognition 岗位截止日为 2026 年 10 月 1 日，已过期；ELLIS、CLS、IMPRS 等博士项目通常秋季开放、10–11 月截止。德国岗位多为雇员合同，国籍限制未见明文，需逐个确认资助与截止日。 |
 | [KIT 信息系统研究所（DBIS）博士研究员 数据科学方向](https://dbis.ipd.kit.edu/english/2814_3353.php)<br><sub>德国 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 未公布<br><sub>页面无日期，需向课题组确认。</sub> | ❔ | KIT 信息系统研究所（Klemens Böhm 教授）招聘 researcher/PhD student（数据科学方向）。页面称薪资（TV-L 13）足以覆盖德国生活开销，申请材料须发至指定邮箱。 |
+
+<a id="r-ca"></a>
+
+## 加拿大（CA）（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [McGill CIM Arbel 组博后与 PhD 职位](https://cim.mcgill.ca/~arbel/positions)<br><sub>加拿大 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | PI 页面确认列有博士与博后职位。博士岗需通过 ECE 系正式申请并指定 Arbel 为首选导师。页面未见具体资助金额，以确认为准。 |
 
 <a id="r-fr"></a>
 

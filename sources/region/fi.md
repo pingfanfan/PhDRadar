@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 芬兰（FI） 信源（24）
+# 芬兰（FI） 信源（27）
 
-所有标注了地区 FI 的信源，共 24 条。
+所有标注了地区 FI 的信源，共 27 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 1](fi.md#aggregators) · [各国学术招聘门户与机构职位页 1](fi.md#national-portals) · [高校旗舰奖学金与资助检索 3](fi.md#university-schemes) · [结构化博士项目与研究机构 13](fi.md#doctoral-programs) · [博士后奖学金与项目 4](fi.md#postdoc-fellowships) · [个人信源与社交渠道 1](fi.md#people-channels) · [导师招生帖（社交平台个人发布） 1](fi.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 1](fi.md#aggregators) · [各国学术招聘门户与机构职位页 1](fi.md#national-portals) · [高校旗舰奖学金与资助检索 4](fi.md#university-schemes) · [结构化博士项目与研究机构 14](fi.md#doctoral-programs) · [博士后奖学金与项目 5](fi.md#postdoc-fellowships) · [个人信源与社交渠道 1](fi.md#people-channels) · [导师招生帖（社交平台个人发布） 1](fi.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
@@ -28,17 +28,18 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（3）
+## 高校旗舰奖学金与资助检索（4）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [CHARM-EU 联盟 · Opportunities and calls 机会与征集页](https://charm-eu.eu/news-events/opportunities-and-calls/)<br><sub>欧盟/欧洲·挪威·芬兰·匈牙利·德国·法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>2026 年夏校（6 月 8–12 日，芬兰 Turku）及多数博士征集已截止；2027 周期待联盟发布</sub> | ❔ | CHARM-EU 联盟统一发布博士夏/冬校、博士流动与 MSCA 征集等信息。2026 年多数博士类征集已截止，适合订阅联盟通讯以跟进 2027 年周期；博士岗位需回到各成员校招聘页核实。 |
 | [于韦斯屈莱大学职位页（博士研究员岗）](https://www.jyu.fi/en/about-us/work-with-us/current-vacancies-at-the-university-of-jyvaskyla)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面列出的博士研究员岗截止日分别为 2026-10-31（Business and Economics，5–8 人）、2026-11-01（LIDE 项目）、2026-11-06（Exercise Physiology，2 人）、2026-11-15（Evolutionary Biology）。</sub> | ❔ | **要求：** 需硕士学位；需另行申请博士 study right<br>页面列有多个博士研究员岗（含 LIDE 项目岗），截止日在 2026 年 10 月底至 11 月中旬，以各岗位页为准。 |
+| [赫尔辛基大学校资助博士研究员岗位说明页](https://studies.helsinki.fi/instructions/article/university-funded-doctoral-researcher-positions)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请期 8 月 24 日至 9 月 7 日已结束；每年一轮，12 月公布结果；2027 轮待公告</sub> | 🟡 | **要求：** 需先与拟任导师沟通并共同准备申请；本轮仅为受雇岗位，还需另申请校内博士学籍<br>说明申请条件与流程（每年一次、通常 8–9 月开放，最长四年）；需学籍申请并与导师签协议。 |
 | [阿尔托大学博士研究员岗位页（博士教育试点）](https://www.aalto.fi/en/doctoralpilot/open-positions)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>🔜 即将开放</sub><br><sub>岗位按旗舰项目和领域分批发布，截止日见各岗位</sub> | ❔ | **要求：** 博士研究员岗位（雇佣合同）与博士课程录取需分别申请<br>页面写明目前试点中暂无开放岗位，岗位发布后会陆续加到本页。 |
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（13）
+## 结构化博士项目与研究机构（14）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -53,15 +54,17 @@
 | [尤韦斯屈莱大学（JYU）博士项目招生（秋季/春季两轮）](https://www.jyu.fi/fi/tohtorikoulutus/hae-tohtorikoulutukseen)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026 秋季轮申请期 9 月 1–30 日已截止；下一轮预计 2027 年 4 月 1 日起申请，以官网为准</sub> | ❔ | **要求：** 需相关硕士学位（或海外相当学历），提交研究计划与博士学习计划，并须先联系 JYU 潜在导师；受薪博士岗位另有各自公告<br>芬兰尤韦斯屈莱大学博士项目入学（研究权）申请，每年秋季与春季两轮。2026 秋季轮已截止；下一轮预计 2027 年 4 月开始。入学与受薪博士岗位是两条路径，需单独确认；未见针对国际生的官方资格声明。 |
 | [赫尔辛基大学 ELOISA 生态、进化与环境可持续博士项目](https://www.helsinki.fi/en/admissions-and-education/apply-doctoral-programmes/doctoral-programmes/doctoral-programme-ecology-evolution-and-environmental-sustainability-society)<br><sub>芬兰 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | **2026-11-16**<br><sub>🔜 即将开放</sub><br><sub>申请窗口 2026 年 11 月 3–16 日（ELOISA 招生页）；后续窗口 2027 年 1 月 12–25 日、4 月 2–15 日。以学校页面为准。</sub> | ❔ | **要求：** 需第二周期（硕士）学位或相当学历，且学位须与研究主题相关；须证明芬兰语、瑞典语或英语能力；评审看研究计划的主题契合度、四年内完成的可行性与研究经历。<br>岗位多为大学资助的带薪博士研究员；同校岗位页称税前约 €2,600/月，仅供参考。 |
 | [赫尔辛基大学 PEEX 地球系统建模国际博士项目](https://www.atm.helsinki.fi/peex/index.php/portfolio-items/international-phd-program-on-earth-system-modelling/)<br><sub>芬兰 ｜ 地球/环境/海洋·数学/统计·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-09-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年申请截止 9 月 15 日（已过）；页面称为年度征集。</sub> | ❔ | 赫尔辛基大学大气科学系与 PEEX 合作的国际地球系统建模博士项目页；资助金额与截止需官网核实。 |
+| [赫尔辛基大学博士学院大规模博士研究员招聘（含 RESDOC）](https://www.helsinki.fi/en/news/university/university-helsinki-doctoral-school-opens-nearly-200-doctoral-researcher-positions)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | 🟡 | 四年固定期限带薪合同，免学费，每年约 8–9 月开放一次；申请前需已签导师协议并另申学籍。2026 RESDOC 8-31 已截止，关注下一轮。 |
 | [赫尔辛基大学博士生院统一资助的博士研究员职位](https://www.helsinki.fi/en/research/doctoral-school/university-funded-doctoral-researcher-positions)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-09-07**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年统一窗口 8 月 24 日至 9 月 7 日已截止；下一轮时间未查到</sub> | ❔ | **要求：** 需通过所在博士项目的正式申请与录取；需与导师达成协议；国际申请人资格未在搜索结果中核实<br>赫尔辛基大学博士学院统一资助的有薪博士研究员（雇员身份，约四年）。2026 年统一窗口已于 9 月 7 日截止，2027 年 1 月入职的岗位同日截止；RESDOC（MSCA）30 个岗位截止 2026 年 8 月 31 日，也已过期。 |
 | [阿尔托大学 MEC 资助博士试点项目（2024-2027）](https://aalto.fi/en/doctoralpilot)<br><sub>芬兰 ｜ 工程·化学/材料·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>试点按院系分批招募，岗位为带薪博士合同且免学费；不同 Aalto 页面对岗位是否已招满说法不一，申请前以官网为准</sub> | ❔ | 芬兰教育部资助的博士试点，覆盖材料、纳米与工程；需先联系 Aalto 导师，获批后为带薪博士位，开放时间按院系安排。 |
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（4）
+## 博士后奖学金与项目（5）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [HIIT（赫尔辛基信息技术研究所）计算机科学博士后岗位](https://www.hiit.fi/hiit-postdoctoral-fellow-positions-in-computer-science)<br><sub>芬兰 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>最近一轮截止 2026-10-04（已过）；下一轮以 hiit.fi 为准。</sub> | ❔ | **要求：** 刚取得或即将取得博士学位；需由合作导师支持申请。<br>HIIT 由阿尔托大学与赫尔辛基大学共建，发布计算机方向博士后职位，岗位由合作导师提供。申请前核对当期公告。 |
 | [NNF-IAS 健康与可持续发展研究员（北欧四所高等研究院联合博后）](https://www.swedishcollegium.se/fellowships/nnf-ias-fellowship-programme-on-health-and-sustainability)<br><sub>瑞典·丹麦·芬兰·挪威 ｜ 医学/公卫·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-10-01**<br><sub>⏸ 本轮已截止</sub><br><sub>第一轮截止 2026-10-01 已过；2027 年 9 月 1 日起入职，下一轮时间以官网为准。</sub> | ❔ | **要求：** 面向任何国籍、各学科的研究者；博士毕业后有 2–10 年工作经验（博士阶段不计）；申请截止前两年内在优先国家居住或主要工作超过 12 个月者不符合条件。<br>北欧四所高等研究院（丹麦 AIAS、挪威 CAS、芬兰 HCAS、瑞典 SCAS）联合的跨学科研究员项目，主题为健康与可持续发展，全职有薪、需迁往北欧宿主研究所工作。 |
 | [芬兰研究理事会 Academy Research Fellowship 2026](https://www.aka.fi/en/research-funding/apply-for-funding/calls-for-applications/apply-now2/2026-academy-research-fellowships-all-research-fields/)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面所示 2026 冬季轮于 2025-11-12 16:15（芬兰时间）截止，已结束；页面未给出下一轮（秋季轮）的时间。</sub> | ❔ | **要求：** 通常要求首个博士学位证书日期在申请截止所在年份起算的 2–7 年内；2026 冬季轮例外：首个博士学位证书日期须在 2019-01-01 至 2024-01-31 之间。<br>芬兰研究理事会早期研究员资助，资助期 2026-09-01 至 2030-08-31 共 4 年，可覆盖本人工资、可能的研究团队工资及其他研究费用，最高 70 万欧元。页面称外国研究者（已在或将在芬兰科研界工作者）也可申请。 |
 | [芬兰科学院 Academy Research Fellow](https://www.aka.fi/en/about-the-rcf/whats-new/press-releases/2026/advance-information-on-rcf-call-schedules-for-autumn-2026/)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2026-11-11**<br><sub>🔜 即将开放</sub><br><sub>2026 秋季轮 10 月 14 日开放、11 月 11 日截止（页面标 TBC），以正式公告为准</sub> | ❔ | **要求：** 需博士学位；学位获得日期等资格以当轮公告为准（上一轮要求 2019 年 1 月 1 日至 2024 年 1 月 31 日间获博士）<br>芬兰科学院 2026 秋季征集日程预告：相关征集 call 文本计划 9 月 24 日发布，征集 10 月 14 日开放、11 月 11 日截止（均标 TBC）。资助金额与资格以正式 call 文本为准。 |

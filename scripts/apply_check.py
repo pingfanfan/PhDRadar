@@ -101,7 +101,7 @@ NUM_WORDS = {w: str(i) for i, w in enumerate(
     "seventeen eighteen nineteen twenty".split())}
 CHECK_ITEMS = [  # (清单项, 原文匹配规则)
     ("简历 CV", r"\b(curriculum vitae|CV|r[ée]sum[ée])\b"),
-    ("求职信 / 动机信", r"\b(cover(ing)? letter|motivation(al)? letter|letter of motivation|personal statement|statement of purpose|letter of intent)\b"),
+    ("求职信 / 动机信", r"\b(cover(ing)? letter|motivation(al)? letter|letter of motivation|personal statement|statement of purpose|letter of intent|(short |brief |one-page |supporting )?statement\s*(\([^)]*\)\s*)?(of|saying|explaining|describing|outlining|setting out)|supporting statement)\b"),
     ("研究计划 / 研究陈述", r"\b(research (proposal|statement|plan)|project proposal|statement of research)\b"),
     ("成绩单与学位证明", r"\b(transcripts?|diploma|degree certificates?|academic records?|grades?)\b"),
     ("推荐信 / 推荐人", r"\b(references?|referees?|recommendation letters?|letters? of (recommendation|reference)|reference letters?)\b"),
@@ -306,10 +306,11 @@ NOT_CLAIM = (r"(am|'m) (writing|interested|applying|excited|keen|glad|happy|grat
              r"looking|hoping|curious|attaching|enclosing|reaching|contacting|sure|not sure|passionate|fascinated|motivated|drawn|delighted|"
              r"honou?red|pleased|particularly|very|really|truly|deeply|most)|would|will|'d|'ll|hope|look|believe|think|wish|want|"
              r"plan|intend|can|could|should|may|might|read|noticed|came across|saw|learned of|understand|see|note|wonder|appreciate|"
-             r"apply|am also|also (hope|would|wish)|welcome|thank|attach|enclose|apologi[sz]e|feel|find|found your|was (glad|excited|pleased) to")
+             r"apply|(have )?(a |one |two |three |some |a few |several )(specific |short |brief |quick )?(questions?|quer(y|ies))|"
+             r"(have |had |do |did |am )?(not|never|no|little|limited)\b|haven't|hadn't|didn't|don't|lack|am name\b|name\b|am also|also (hope|would|wish)|welcome|thank|attach|enclose|apologi[sz]e|feel|find|found your|was (glad|excited|pleased) to")
 EXP_EN = re.compile(r"\b(I|I've|I'd|I'm)\s+(?:(?:also|recently|previously|then|further|additionally|currently|have|had|already|personally)\s+)*(?!(?:also|recently|previously|then|further|additionally|currently|have|had|already|personally|" + NOT_CLAIM + r")\b)[a-z0-9]"
-                    r"|\bmy (own |main |recent |previous |current |master'?s |bachelor'?s |undergraduate |graduate |research |imaging |lab |laboratory |practical |technical |hands-on |programming )?"
-                    r"(thesis|dissertation|papers?|publications?|projects?|internships?|research|experience|degree|master'?s|bachelor'?s|msc|bsc|gpa|grades?|ranking|supervisor|advisor|award|skills?|first-author|training|expertise)\b", re.I)
+                    r"|\bmy\s+(?!(?:background|interests?|motivation|application|cv|questions?|enquiry|inquiry|email|letter|name|availability|plans?|goals?)\b)(?:[\w'-]+\s+){0,2}?(thesis|dissertation|papers?|publications?|projects?|internships?|research|experience|degree|master'?s|bachelor'?s|msc|bsc|gpa|grades?|ranking|"
+                    r"supervisor|advisor|award|skills?|first-author|training|expertise|synthesis|testing|experiments?|measurements?|results?|analys[ie]s|stud(y|ies)|code|models?|data|work on|work with)\b", re.I)
 EXP_ZH = re.compile(r"(我|本人)(曾|在|参与|负责|主导|发表|获得|获|完成|开发|设计|实现|带领|担任|本科|硕士|毕业|就读|研究了|做过|有.{0,6}(经验|基础|积累))"
                     r"|(我|本人)[^，。,；;！？\s]{0,6}过|我的(硕士|本科|博士|毕业|课题|论文|项目|研究|经历|经验|成绩|排名|技能|背景)"
                     r"|^(已有|我已有|现有)?(方法)?积累[：:]|^已有(方法|技术|经验)")
@@ -355,6 +356,14 @@ CLAIMS = [
     ("频率", r"\b(every (day|week|month)|daily|weekly|monthly|twice a (day|week|month)|once a (day|week|month)|three times a (day|week))\b|每天|每周|每月|每日",
      None),  # 频率说法原样出现在出处里才行
     ("研究结论", r"\b(showed|shows|demonstrated|revealed|found) that\b|结果表明|发现了?", r"show|demonstrat|reveal|found|result|kept|reduced|improv|表明|发现|结果"),
+]
+
+
+# 学位层次：句子说“硕士 / 本科 / 博士”，所引出处必须是同一层次（防止把本科的事写到硕士名下）
+DEGREES = [
+    ("硕士", r"硕士|研究生阶段|\bmaster'?s\b|\bM\.?Sc\b|\bM\.?Eng\b|\bMPhil\b|\bMRes\b|\bM\.?A\.?\b(?= (in|degree))"),
+    ("本科", r"本科|学士|\bbachelor'?s\b|\bundergraduate\b|\bB\.?Sc\b|\bB\.?Eng\b|\bB\.?A\.?\b(?= (in|degree))"),
+    ("博士", r"博士(?!后|生岗位|项目|奖学金)|\bdoctoral (thesis|research|studies)\b|\bmy PhD\b"),
 ]
 
 
@@ -562,7 +571,7 @@ def check_sentence(s: str, facts: dict[str, str], lab: dict[str, str], post: str
             errs.append(f"年份区间 {a}–{b} 与所引出处不符")
     plan_nums: set[str] = set()
     if not (cited_cv or EXP_EN.search(text) or EXP_ZH.search(text)):  # 不讲经历的句子里，计划用的时长（前 6 个月、Year 1）不算事实
-        for m in DURATION_RE.finditer(text):
+        for m in list(DURATION_RE.finditer(text)) + list(re.finditer(r"\b(\d+|two|three|four)\s+(\w+\s+)?(questions?|quer(y|ies))\b", text, re.I)):
             plan_nums |= numbers_in(m.group(0))
     for n in sorted(numbers_in(text) - nums - plan_nums):
         errs.append(f"数字 {n} 不在所引出处里")
@@ -577,6 +586,11 @@ def check_sentence(s: str, facts: dict[str, str], lab: dict[str, str], post: str
     for m in NAME_ZH.finditer(text):
         if norm(m.group(0)) not in allowed_n:
             errs.append(f"专有名词不在所引出处里：{m.group(0)}")
+    if cited_cv and not cited_post and not cited_lab:
+        own = " ".join(facts.get(i, "") for i in cited_cv)
+        for label, rx in DEGREES:
+            if re.search(rx, text, re.I) and not re.search(rx, own, re.I):
+                errs.append(f"句子说的是{label}阶段，所引出处里没有{label}")
     if cited_cv:  # 只查申请者自己的经历句；讲导师论文或岗位的句子不受此限
         own = " ".join(facts.get(i, "") for i in cited_cv)
         for label, said, need in CLAIMS:
@@ -591,7 +605,11 @@ def check_sentence(s: str, facts: dict[str, str], lab: dict[str, str], post: str
         for label, said, _ in CLAIMS[:9]:  # 一作、已接收、最佳论文、主导等强说法，没有出处不许写
             if re.search(said, text, re.I):
                 errs.append(f"“{label}”的说法没有标注出处")
-    if not cited_cv and (EXP_EN.search(text) or EXP_ZH.search(text)):
+    named = text
+    for nm in proper_names(text):  # “I am Lin Xiaozhou”：申请者 / 导师姓名不算经历
+        if covered(nm, norm(base), set(norm(base).split())):
+            named = named.replace(nm, "name")
+    if not cited_cv and (EXP_EN.search(named) or EXP_ZH.search(text)):
         errs.append("经历句没有标注 [cv:…] 出处")
     if PLACEHOLDER.search(text):
         errs.append(f"有未填的占位符：{PLACEHOLDER.search(text).group(0)}")

@@ -153,6 +153,32 @@
   verify_method: page
   page_evidence: Doctoral Researcher in Evolutionary Biology
   verified: 2026-10-18
+- id: dsv-su-work-with-us
+  name: 斯德哥尔摩大学计算机与系统科学系（DSV）职位页
+  url: https://dsv.su.se/english/divisions/department-of-computer-and-systems-sciences/about-the-department/work-with-us
+  category: university-schemes
+  regions:
+  - SE
+  disciplines:
+  - cs
+  - ai
+  funding: position
+  levels:
+  - phd
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: varies
+  deadline_note: 页面最近列出的两个岗位（能源市场设计 2026-02-27、数据科学 2026-04-15）均已截止；SU 通常春、秋学期各招一轮，新岗位以本页及 SU 招聘系统为准
+  status: ongoing
+  requirements: 需硕士或同等学历
+  notes: 瑞典博士为带薪雇员，按项目申请；DSV 的 CS/AI 方向岗位在本页发布。
+  verify_method: page
+  page_evidence: Stockholm University’s website lists all vacancies for PhD students, researchers and technical/administrative staff.
+  verified: 2026-10-19
 - id: tlu-dt-junior-research-fellow-2026
   name: 塔林大学数字技术学院 2026/27 补充招生（Junior Research Fellow）
   url: https://www.tlu.ee/en/dt/applying-phd-school-digital-technologies
@@ -346,7 +372,9 @@
   status: open
   requirements: 需英语流利（不要求德语或法语）；兼顾助教与教学职责
   notes: 曼海姆大学 Stolletz 教授生产管理组的博士助研岗，商业分析与运筹学方向，研究排队网络等随机系统的性能分析与优化。
-  verified: 2026-10-13
+  verify_method: page
+  page_evidence: invites applications for a Ph.D. position in cooperation with SKEMA Business School, Paris,
+  verified: 2026-10-19
 - id: cuhk-stat-hkpfs-2024
   name: 香港中文大学统计学系 HKPFS 说明
   url: https://www.sta.cuhk.edu.hk/HKPFS/2024-HKPFS-in-Statistics_v1.pdf
@@ -646,6 +674,32 @@
   verify_method: page
   page_evidence: 'Regular MPhil-PhD students: HK$19,100 - HK$19,660 per month'
   verified: 2026-10-17
+- id: marburg-ag-schihada-phd
+  name: 马尔堡大学 Schihada 课题组博士岗位（Emmy Noether 项目）
+  url: https://www.uni-marburg.de/de/fb16/ipc/ag-schihada/stellen
+  category: recruiting-posts
+  regions:
+  - DE
+  disciplines:
+  - med
+  - chem
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: de
+  coverage: salary
+  stipend: 65% 岗位，TV-H E13（约 3 年，可延长 1 年）
+  deadline: varies
+  deadline_note: 2026 年秋季有一个博士岗位；上一批公告截止为 2025 年 11 月 16 日，2026 批次截止未确认
+  status: ongoing
+  requirements: 需生物、药学或生化相关背景，有哺乳动物细胞培养、分子克隆、FRET/BRET 等经验，英语良好；先邮件联系导师
+  notes: Emmy Noether 资助的带薪博士岗位；申请前先邮件联系课题组。
+  verify_method: page
+  page_evidence: Zum Herbst 2025 und zum Herbst 2026 ist jeweils eine Doktorandenstelle (65% TV-H E13; 3 Jahre mit der Möglichkeit der Verlängerung um ein Jahr)
+  verified: 2026-10-19
 - id: jsps-fy2027-standard-guideline
   name: JSPS 外国人研究者访日博士后奖学金（标准项目，FY2027 指南）
   url: https://www.rpd.titech.ac.jp/jsps_tokken/english/kakenhi/d_index.html
@@ -670,6 +724,31 @@
   verify_method: page
   page_evidence: Application for FY 2027 JSPS Postdoctoral Fellowship for Research in Japan
   verified: 2026-10-18
+- id: medunivienna-phd-psb-2026
+  name: 维也纳医科大学 2026 年博士岗位公告
+  url: https://www.meduniwien.ac.at/web/fileadmin/content/serviceeinrichtungen/personalabteilung/stellenausschreibungen/2026/Personalmitteilungsblatt14_010426_PhD-Studentships.pdf
+  category: doctoral-programs
+  regions:
+  - AT
+  disciplines:
+  - med
+  - bio
+  funding: position
+  levels:
+  - phd
+  cn_eligible: 'yes'
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: varies
+  deadline_note: 2026 年春季轮截止 2026-04-26，已结束；每学期一轮，下一轮（秋季，第三方称 2026-11-22，未经官方确认）以官网为准
+  status: closed
+  requirements: 相关硕士学位并满足入学标准；通过门户选至多三个项目，需两封推荐信；官方称欢迎全球申请者
+  notes: 维也纳医科大学每学期的全资助 PhD 岗位公告（约 24 个转化医学与技术研究岗位），博士生为大学雇员、学费通常减免；官方称欢迎全球合格申请者。
+  verify_method: page
+  page_evidence: As a PhD candidate, you will be employed by the university and receive a competitive salary.
+  verified: 2026-10-19
 - id: nyu-law-economics-postgraduate-fellowship
   name: NYU 法与经济中心博士后（Post-Graduate）研究员
   url: https://www.law.nyu.edu/centers/laweconomics/post-graduate-fellowship
@@ -918,6 +997,30 @@
   verify_method: page
   page_evidence: The University of Vermont offers a variety of funding opportunities to graduate students, including academic appointments, scholarships,
   verified: 2026-10-17
+- id: fwf-hertha-firnberg-postdoc
+  name: FWF Hertha Firnberg 女性博士后职业项目（奥地利）
+  url: https://projektservice-mathematik.univie.ac.at/news/news/call-fwf-hertha-firnberg-programme/
+  category: postdoc-fellowships
+  regions:
+  - AT
+  disciplines:
+  - all
+  funding: fellowship
+  levels:
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: unknown
+  deadline_note: 每年一轮，具体截止以 FWF 当年公告为准；2026 轮未确认
+  status: ongoing
+  requirements: 仅限女性研究者；需已取得博士学位并有国际发表记录；项目须在奥地利机构执行，中国籍是否可申请看当年 FWF 规则
+  notes: FWF 的女性职业发展项目，博士后阶段与高级阶段合计最多 6 年；Elise Richter 已停止接收新申请。
+  verify_method: page
+  page_evidence: Highly qualified female scientists of any scientific discipline, who have completed their university studies
+  verified: 2026-10-19
 - id: oead-ernst-mach-faq
   name: Ernst Mach 奖学金（OeAD，全球，奥地利短期研究）FAQ
   url: https://oead.at/de/studieren-forschen-lehren/stipendien-und-forschungsfoerderung/ernst-mach-stipendien/faq-ernst-mach-stipendium-weltweit
@@ -944,6 +1047,30 @@
   verify_method: page
   page_evidence: 'Achtung: diese FAQs beziehen sich auf die aktuelle Antragsrunde für das akademische Jahr 2027/28'
   verified: 2026-10-17
+- id: eastbio-bbsrc-2027-recruitment
+  name: EastBio BBSRC DTP 2027 入学招生（爱丁堡，导师提名制）
+  url: https://biology.ed.ac.uk/eastbio/eastbio-recruitment/information-supervisors
+  category: doctoral-programs
+  regions:
+  - UK
+  disciplines:
+  - bio
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: 2026-11-16
+  deadline_note: 学生申请 2026-11-16 截止，导师提名 2027-01-18，面试约 2027-03-08 当周；须由导师提名
+  status: open
+  requirements: 学生不能自行申请，须由导师提名；国际生按本国学费标准资助且名额有上限（UKRI 规定）；不含签证和医保附加费用
+  notes: EastBio BBSRC DTP 2027 招生：导师项目提案截止 2026-09-21 中午（已过）；学生申请截止约 2026-11-16（据候选人指南，待 EastBio 官方确认），导师提名与面试时间以 2027 指南为准。
+  verify_method: page
+  page_evidence: EastBio recruitment for an October 2027 start with begin with a call for projects opening on 10 August 2026.
+  verified: 2026-10-19
 - id: sheffield-ahrc-dla-2027
   name: 谢菲尔德大学 AHRC Doctoral Landscape Award（2027/28 入学）
   url: https://sheffield.ac.uk/postgraduate/phd/scholarships/ahrc-dla
@@ -1896,6 +2023,30 @@
   verify_method: page
   page_evidence: Lancement de la campagne de recrutement en septembre 2026.
   verified: 2026-10-18
+- id: ephe-psl-aap-contrat-doc-2026
+  name: EPHE-PSL 博士合同征集（2026 年 6 月）
+  url: https://www.ephe.psl.eu/sites/default/files/2026-06/AAP_PG_contrat_doc_HN_06_2026.pdf
+  category: university-schemes
+  regions:
+  - FR
+  disciplines:
+  - humanities
+  - social
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: fr
+  coverage: salary
+  deadline: 2026-06-29
+  status: closed
+  requirements: 需硕士或同等学历（学位需在当年 9 月前完成）；提交 4 页以内研究计划、CV 与导师推荐信；经面试选拔
+  notes: EPHE-PSL 博士合同为三年劳动合同。2026 年通用征集截止 2026-05-04 已关闭，下一轮请关注官网。第三方资料称所有国籍均可申请，但官方 PDF 未核实。
+  verify_method: page
+  page_evidence: Le montant brut de la rémunération mensuelle s’élève à 2300 €.
+  verified: 2026-10-19
 - id: cuhk-joint-phd-mainland-partners
   name: 香港中文大学 内地战略合作院校联合培养博士计划（Joint PhD Training Scheme）
   url: https://www.oalmr.cuhk.edu.hk/en/cuhk-programmes/joint-phd-training-scheme-with-mainland-strategic-partners/
@@ -1944,3 +2095,160 @@
   verify_method: page
   page_evidence: with three years of student admission from 2026 to 2028, and is now calling for 10 PhD candidates
   verified: 2026-10-17
+- id: cemfi-phd-admissions
+  name: CEMFI 经济学博士项目 · 招生与奖学金（马德里）
+  url: https://www.cemfi.es/programs/phd/admissions.asp
+  category: doctoral-programs
+  regions:
+  - ES
+  disciplines:
+  - econ
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: 'yes'
+  access:
+  - web
+  language: en
+  coverage: varies
+  deadline: unknown
+  deadline_note: 资助资格截止日往年为 1 月底，下一轮请以官网为准
+  status: ongoing
+  requirements: 奖学金/免学费按学术成绩授予，不限国籍；申请表中勾选资助意向，不影响录取
+  notes: 官方招生页说明奖学金和/或学费减免按学术成绩发放，各国籍学生均可申请；自有名额有限，建议同时申请外部奖学金。未见官方公布金额，申请前向招生办确认。
+  verify_method: page
+  page_evidence: We offer scholarships and/or tuition waivers on an academic-merit basis to students of all nationalities.
+  verified: 2026-10-19
+- id: luiss-phd-admissions
+  name: Luiss Guido Carli 博士项目招生入口（Data Science / Economics / Law & Business / Management / Politics）
+  url: https://phd.luiss.it/ammissione/
+  category: doctoral-programs
+  regions:
+  - IT
+  disciplines:
+  - econ
+  - business
+  - social
+  - cs
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  deadline: varies
+  deadline_note: 各项目每年单独发布招生公告，2026/27 届 Politics 1 月 23 日、Management/Economics 3 月 13 日截止；下一轮预计 2027 年初
+  status: upcoming
+  requirements: 需硕士学位或同等学历、研究计划、CV；具体国际生要求以各项目 call 为准
+  notes: 意大利私立名校 Luiss 英文授课博士项目，各项目有独立 call 页，申请前逐一核对奖学金数额与国际生资格。
+  verify_method: page
+  page_evidence: To apply for our PhD Programs, you must present your candidacy within the period established by the Call for Applications, which may vary from program to program.
+  verified: 2026-10-19
+- id: cornell-vet-bbs-phd-funding
+  name: Cornell 兽医学院 BBS 博士项目 · 资助说明
+  url: https://www.vet.cornell.edu/education/biomedical-biological-sciences-bbs-phd-program/current-students/funding
+  category: doctoral-programs
+  regions:
+  - US
+  disciplines:
+  - bio
+  - med
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  stipend: 最低 $47,548/年（2025-26）；官网另页写 $48,912/年（疑为 2026-27）
+  deadline: 2026-12-01
+  deadline_note: 每年 12 月 1 日截止
+  status: open
+  requirements: 国际生资格页面未见明确说明，请查招生 FAQ
+  notes: 官方页写明录取学生全程资助（学费、医保、津贴），申请即视为申请资助。适合动物/比较医学方向，先到 FAQ 核对国际生要求。
+  verify_method: page
+  page_evidence: All students who are admitted to the Biomedical & Biological Sciences (BBS) Graduate Program are admitted with funding.
+  verified: 2026-10-19
+- id: galway-research-jobs-phd-studentships
+  name: 爱尔兰高威大学 · 研究岗位与带奖博士招聘页（含 Research Ireland 资助中心课题）
+  url: https://www.universityofgalway.ie/about-us/jobs/research/
+  category: university-schemes
+  regions:
+  - IE
+  disciplines:
+  - all
+  funding: position
+  levels:
+  - phd
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  deadline: varies
+  deadline_note: 各岗位截止日不同，滚动发布，需逐条查看
+  status: ongoing
+  requirements: 以各岗位公告为准
+  notes: 高威大学官方研究岗位列表，常有 Research Ireland 资助中心的博士课题和博后岗位。各岗位国际生资格与津贴以单条职位说明为准。
+  verify_method: page
+  page_evidence: 'There are 2 types of categories listed on this page: Research jobs and funded PhD Scholarships advertised by supervisors.'
+  verified: 2026-10-19
+- id: dara-danish-advanced-research-academy
+  name: DARA (Danish Advanced Research Academy) 博士奖学金 · 诺和诺德基金会资助
+  url: https://www.daracademy.dk/fellowships
+  category: doctoral-programs
+  regions:
+  - DK
+  disciplines:
+  - engineering
+  - physics
+  - chem
+  - bio
+  - med
+  - cs
+  - ai
+  funding: fellowship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  deadline: varies
+  deadline_note: 公开招募每年两轮（约 2 月与约 8 月截止）；上一轮 2025/26 冬季轮截止 2026-02-20，下一轮以官网为准
+  status: upcoming
+  requirements: 需符合丹麦 4+4 或 5+3 博士入学模式，并自行联系丹麦高校教授作为主导师；DARA 不负责匹配导师
+  notes: 诺和诺德基金会资助的国家级博士学院，面向技术、自然、医学等学科。各轮资助比例不同（有的写全额，有的写覆盖 80%），以当轮页面为准。
+  verify_method: page
+  page_evidence: DARA PhD Fellowships are open to all qualified candidates irrespective of age, gender, race, ethnicity, disability, nationality,
+  verified: 2026-10-19
+- id: huji-leonard-davis-postdoc
+  name: 希伯来大学 Leonard Davis 国际关系研究所博士后（安全、国际政治经济、外交）
+  url: https://en.davis.huji.ac.il/node/3185924
+  category: postdoc-fellowships
+  regions:
+  - IL
+  disciplines:
+  - social
+  funding: fellowship
+  levels:
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: stipend
+  stipend: 最高 90,000 ILS/年
+  deadline: unknown
+  deadline_note: 2026-27 轮截止 2026-02-05；通常每年初截止，下一轮以官方页为准
+  status: upcoming
+  requirements: 国际申请人资格请核对官方页
+  notes: 方向为国际安全、国际政治经济、外交政策。本轮已截止，约 2027 年初开下一轮。
+  verify_method: page
+  page_evidence: 'Application Deadline: February 5, 2026'
+  verified: 2026-10-19

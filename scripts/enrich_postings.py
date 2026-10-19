@@ -73,11 +73,13 @@ WORD_NUM = {w: str(i) for i, w in enumerate(
 WORD_NUM.update({"half": "0.5", "thirteen": "13", "fifteen": "15", "twenty": "20", "thirty": "30",
                  "forty": "40", "fifty": "50", "sixty": "60", "hundred": "100", "thousand": "1000"})
 WORD_NUM.update(dict(zip("first second third fourth fifth sixth seventh eighth ninth tenth".split(), map(str, range(1, 11)))))
-# 瑞典语 / 挪威语 / 丹麦语 / 德语 / 荷兰语公告里的数字词（Varbi、Jobbnorge、德国大学常见）
-for words in ("en ett två tre fyra fem sex sju åtta nio tio", "en ett to tre fire fem seks sju åtte ni ti",
-              "ein eine zwei drei vier fünf sechs sieben acht neun zehn", "een twee drie vier vijf zes zeven acht negen tien"):
-    WORD_NUM.update({w: str(i) for i, w in enumerate(words.split(), start=1) if w not in ("en", "ein", "eine", "een", "ni", "to", "sex")})
-WORD_NUM.update({"två": "2", "andra": "2", "tredje": "3", "fjärde": "4", "zweite": "2", "dritte": "3"})
+# 瑞典语 / 挪威语 / 丹麦语 / 德语 / 荷兰语 / 法语公告里的 2–10（1 的写法与冠词同形，不收）
+for words in ("två tre fyra fem sex sju åtta nio tio", "to tre fire fem seks sju åtte ni ti",
+              "zwei drei vier fünf sechs sieben acht neun zehn", "twee drie vier vijf zes zeven acht negen tien",
+              "deux trois quatre cinq six sept huit neuf dix"):
+    WORD_NUM.update({w: str(i) for i, w in enumerate(words.split(), start=2) if w not in ("to", "ni", "sex")})
+WORD_NUM.update({"två": "2", "andra": "2", "tredje": "3", "fjärde": "4", "zweite": "2", "dritte": "3",
+                 "deuxième": "2", "troisième": "3", "six": "6"})
 MONTH_NUM = {m: str(i + 1) for i, m in enumerate(
     "january february march april may june july august september october november december".split())}
 MONTH_NUM.update({m[:3]: n for m, n in MONTH_NUM.items()} | {"sept": "9"})
@@ -102,7 +104,7 @@ def numbers(text: str) -> set[str]:
 
 def quote_numbers(quote: str) -> set[str]:
     out = numbers(quote)
-    for w in re.findall(r"[a-zäöåüéèû]+", quote.lower()):
+    for w in re.findall(r"[a-zäöåüéèûà]+", quote.lower()):
         if w in WORD_NUM:
             out.add(WORD_NUM[w])
         if w in MONTH_NUM:
@@ -259,8 +261,10 @@ def load_yaml(p: Path, default):
 
 
 def save(data: dict) -> None:
-    OUT.write_text(yaml.safe_dump(dict(sorted(data.items())), allow_unicode=True, width=200, sort_keys=False),
+    tmp = OUT.with_suffix(".yml.tmp")  # 先写临时文件再改名：读取方不会读到写了一半的文件
+    tmp.write_text(yaml.safe_dump(dict(sorted(data.items())), allow_unicode=True, width=200, sort_keys=False),
                    encoding="utf-8")
+    tmp.replace(OUT)
 
 
 def cache_path(pid: str) -> Path:
@@ -287,10 +291,45 @@ def inspire_text(f: Fetcher, url: str) -> str:
     return " ".join(p for p in parts if p)
 
 
+def ats_text(f: Fetcher, p: dict) -> str | None:
+    """详情页靠脚本渲染的招聘系统：读采集器用的同一个公开岗位接口（见 scripts/ats.py、platforms_de.py）。"""
+    import base64
+    import ats
+
+    url = p["url"]
+    if p["via"] == "Workday":
+        info = f.get(ats.wd_api(url)).json().get("jobPostingInfo") or {}
+        return " ".join(x for x in (info.get("title"), page_text(info.get("jobDescription") or "")) if x)
+    if p["via"] == "Oracle Recruiting":
+        m = re.match(r"(https://[^/]+)/hcmUI/CandidateExperience/[a-z]{2}/sites/([\w-]+)/job/(\w+)", url)
+        if not m:
+            return None
+        items = f.get(ats.ORC_DETAIL.format(host=m.group(1), site=m.group(2), id=m.group(3))).json().get("items") or []
+        d = items[0] if items else {}
+        return page_text(" ".join(d.get(k) or "" for k in ("Title", "ExternalDescriptionStr", "ExternalResponsibilitiesStr",
+                                                             "ExternalQualificationsStr", "ShortDescriptionStr")))
+    if p["via"] == "Bundesagentur für Arbeit":
+        from platforms_de import BA, BA_KEY
+        ref = url.rstrip("/").rsplit("/", 1)[-1]
+        j = f.get(f"{BA}/pc/v4/jobdetails/{base64.b64encode(ref.encode()).decode()}", headers=BA_KEY).json()
+        desc = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", j.get("stellenangebotsBeschreibung") or "")
+        return " ".join(x for x in (j.get("stellenangebotsTitel"), page_text(re.sub(r"[*_#\\]+", " ", desc))) if x)
+    return None
+
+
 def page_body(f: Fetcher, p: dict) -> str:
     if p["via"] == "INSPIRE-HEP Jobs":
         return inspire_text(f, p["url"])[:MAX_TEXT]
-    return body_of(p["via"], page_text(f.get(p["url"]).text))
+    if p["via"] in ("Workday", "Oracle Recruiting", "Bundesagentur für Arbeit"):
+        return (ats_text(f, p) or "")[:MAX_TEXT]
+    text = page_text(f.get(p["url"]).text)
+    if p["via"] not in BODY:  # 没配起止标记的平台：从标题第二次出现处开始（第一次多在 <title> 或导航里）
+        key = (p.get("title") or "")[:40]
+        first = text.find(key) if key else -1
+        second = text.find(key, first + 1) if first >= 0 else -1
+        if second > 0:
+            text = text[second:]
+    return body_of(p["via"], text)
 
 
 def cmd_fetch(args) -> int:
@@ -469,6 +508,26 @@ def cmd_rules(args) -> int:
     return 0
 
 
+def cmd_recheck(args) -> int:
+    """校验规则收紧后，对已写入的字段按缓存正文重新校验，不通过的删除。"""
+    data = load_yaml(OUT, {})
+    stats: dict[str, int] = {}
+    for pid, rec in data.items():
+        if not cache_path(pid).exists():
+            continue
+        bn = norm(cache_path(pid).read_text(encoding="utf-8"))
+        for k in [k for k in FIELDS if k in rec]:
+            why = check_field(k, rec[k], bn)
+            if why:
+                stats[why.split("：")[0]] = stats.get(why.split("：")[0], 0) + 1
+                if args.verbose:
+                    print(f"  ✗ {pid} {k}: {why} | {rec[k]}")
+                del rec[k]
+    save(data)
+    print(f"删除 {sum(stats.values())} 个字段 {stats}")
+    return 0
+
+
 def cmd_stats(args) -> int:
     today = args.today or date.today().isoformat()
     data = load_yaml(OUT, {})
@@ -507,9 +566,11 @@ def main() -> int:
     a.add_argument("--dry-run", action="store_true")
     a.add_argument("-v", "--verbose", action="store_true")
     sub.add_parser("rules")
+    a = sub.add_parser("recheck")
+    a.add_argument("-v", "--verbose", action="store_true")
     sub.add_parser("stats")
     args = ap.parse_args()
-    return {"fetch": cmd_fetch, "bundle": cmd_bundle, "apply": cmd_apply, "rules": cmd_rules, "stats": cmd_stats}[args.cmd](args)
+    return {"fetch": cmd_fetch, "bundle": cmd_bundle, "apply": cmd_apply, "rules": cmd_rules, "recheck": cmd_recheck, "stats": cmd_stats}[args.cmd](args)
 
 
 if __name__ == "__main__":

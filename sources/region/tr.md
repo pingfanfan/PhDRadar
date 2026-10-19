@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 土耳其（TR） 信源（6）
+# 土耳其（TR） 信源（7）
 
-所有标注了地区 TR 的信源，共 6 条。
+所有标注了地区 TR 的信源，共 7 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [政府与国家级奖学金 2](tr.md#gov-scholarships) · [高校旗舰奖学金与资助检索 2](tr.md#university-schemes) · [结构化博士项目与研究机构 1](tr.md#doctoral-programs) · [企业与基金会 Fellowship 1](tr.md#fellowships)
+**按分类跳转：** [政府与国家级奖学金 2](tr.md#gov-scholarships) · [高校旗舰奖学金与资助检索 2](tr.md#university-schemes) · [结构化博士项目与研究机构 1](tr.md#doctoral-programs) · [企业与基金会 Fellowship 1](tr.md#fellowships) · [学科专属信源 1](tr.md#discipline)
 
 <a id="gov-scholarships"></a>
 
@@ -43,4 +43,12 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Koç 大学安纳托利亚文明研究常规 Fellowship（Fundit）](https://fundit.fr/en/calls/koc-university-regular-fellowships-anatolian-civilization-studies)<br><sub>土耳其 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 仅生活费 | 未公布<br><sub>页面为 2025 轮征集：在线申请已于 2025 年关闭，推荐信截止 12 月 15 日；2026–27 轮未在该页看到。</sub> | ✅ | **要求：** 博士候选人（已通过资格考试）或博后/资深学者，领域为安纳托利亚考古、艺术史、历史等；需在伊斯坦布尔居住约 9 个月<br>Koç 大学 ANAMED 安纳托利亚文明研究常规 fellowship，面向已通过资格考试的博士候选人及博后/资深学者，驻伊斯坦布尔 9 个月。页面为 2025 年征集页（申请已关闭），2026–27 轮征集请查 ANAMED 官网。 |
+
+<a id="discipline"></a>
+
+## 学科专属信源（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [博阿齐奇大学生物医学工程研究所全额资助博士岗位](https://bme.bogazici.edu.tr/en/announcements/open-positions-fully-funded-graduate-students/4064)<br><sub>土耳其 ｜ 工程·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub> | ❔ | 博阿齐奇大学生物医学工程研究所公告页。其中 TÜBİTAK 2232-A 博士学者征集截止日为 2026 年 6 月 11 日，已关闭。Tahirbegi 实验室 2025 年 12 月发布的全额资助硕博岗位状态未知，需直接联系导师。 |
 

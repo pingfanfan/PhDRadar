@@ -64,7 +64,7 @@ python scripts/probe_sources.py          # 真实核查信源 + 试跑抓取器�
 - **全量核实冲刺**：8 个专职核实员会话（`/verify-sources k 8 截止日期`，每小时一轮、每轮 4 个 Haiku 子代理共 80 条）按序号分片核实全部信源，分片清空后自动停用。
 - 研究员与核实员会话每天轮换重开（`research/workers.yml` 记录当前会话与定时任务）。
 - **每日岗位更新**（北京时间）：09:23 公开仓库 PhDRadar 的 `postings` 工作流用 `-s actions` 采集只对 GitHub Actions 开放的平台（`collect_postings.ACTIONS`，目前是 FindAPhD）；11:17 本地任务依次运行
-  `collect_postings.py`（本地默认清单；新平台的适配器写在 `scripts/platforms_*.py`，自动注册）→ `import_postings.py`（一次并回 `ACTIONS` 里的全部平台）→ `discover.py`（在招导师线索）→ 为新岗位写简介（`research/intro-prompt.md` + `apply_intros.py`）→
+  `collect_postings.py`（本地默认清单；新平台的适配器写在 `scripts/platforms_*.py`，自动注册；大学自己的招聘系统 Workday / SuccessFactors / Oracle / PageUp / ReachMee 的通用适配器与学校清单在 `scripts/ats.py`，加学校只改清单）→ `import_postings.py`（一次并回 `ACTIONS` 里的全部平台）→ `discover.py`（在招导师线索）→ 为新岗位写简介（`research/intro-prompt.md` + `apply_intros.py`）→
   新岗位的申请须知字段（`enrich_postings.py fetch` → `bundle --dir D` → 每批派一个 Sonnet 子代理按 `research/enrich-prompt.md` 写 `D/out-*.yml` → `apply --dir D`，结果在 `_data/posting_fields.yml`）→
   `access_report.py`（平台接入状态与核对过信源能否打开，写 `docs/access.md`）→ `build_site.py` → 提交 → `make_public.py` 同步公开站。
 - `/review-discoveries`：人工/Claude 审核自动发现的在招导师与候选信源。
