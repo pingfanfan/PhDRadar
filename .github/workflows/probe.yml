@@ -2,6 +2,7 @@ name: probe-sources
 
 # 真实访问每个信源链接、试跑每个抓取器，生成 reports/source-health.md
 # 省 Actions 分钟数：不再随每次推送触发（每次要访问约 5000 个链接），改为每周一、周四各一次；需要时可手动运行。
+# 只在公开仓库 PhDRadar 上运行（公开仓库的 Actions 不计分钟数）；全部信源每天的可访问性见 docs/access.md。
 on:
   schedule:
     - cron: "17 3 * * 1,4"
@@ -16,6 +17,7 @@ permissions:
 
 jobs:
   probe:
+    if: github.repository == 'pingfanfan/PhDRadar'
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:

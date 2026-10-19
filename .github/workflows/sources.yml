@@ -2,6 +2,7 @@ name: sources
 
 # 省 Actions 分钟数：研究员/核实员每小时推送几十次，逐次推送触发会耗尽免费额度（私有仓库每月 2000 分钟）。
 # 他们提交前已在本地跑过测试与校验；这里改为每 6 小时统一生成一次阅读页面与导出数据。
+# 只在公开仓库 PhDRadar 上运行（公开仓库的 Actions 不计分钟数）；私有仓库由每日巡检在本地生成。
 on:
   schedule:
     - cron: "37 */6 * * *"
@@ -13,6 +14,7 @@ permissions:
 
 jobs:
   validate:
+    if: github.repository == 'pingfanfan/PhDRadar'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

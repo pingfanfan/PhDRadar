@@ -22,7 +22,8 @@
 - 信源数据在 `_data/sources.yml`（分类 + 主体条目）和 `_data/sources_extra/*.yml`（各研究员追加的条目列表），由 `catalog.py` 合并读取。
   阅读页面（`SOURCES.md` 总目录、`sources/` 下按分类/地区/学科的分页、README 中 STATS 区块、`docs/assets/` 首页 SVG 横幅与导航卡片）和 `data/export/` 数据集
   由巡检会话（每天）或 GitHub Actions（每 6 小时的 `sources` 工作流）统一生成（`scripts/build_sources.py` + `scripts/export_data.py`），不要手动编辑，研究员/核实员也不要提交这些文件。
-  **Actions 免费额度有限**（私有仓库每月 2000 分钟）：工作流已改为定时运行，不再随每次推送触发；不要新增“每次推送都跑”的工作流。
+  **Actions 免费额度有限**（私有仓库每月 2000 分钟）：私有仓库不再有定时工作流；sources / probe / postings / access 只在公开仓库 PhDRadar 上运行（公开仓库不计分钟数，用 `if: github.repository == 'pingfanfan/PhDRadar'` 限定），
+  discover / scrape 只保留手动触发。不要新增在私有仓库定时或随推送运行的工作流。
 - 字段含义见 `CONTRIBUTING.md`，完整数据结构（含 coverage/stipend/deadline/status/requirements 等机会字段，供 agent 使用）见 `docs/schema.md`。`cn_eligible` 和挪威地区代码 `'NO'` 必须加引号（YAML 布尔值陷阱）。
 - 新增信源前先 `grep` 检查 URL/名称是否已存在；URL 必须是 https，并尽量指向 PhD/带奖筛选页。
 - 不确定中国大陆学生能否申请时标 `'check'`，不要猜。政策类说明要能在官方页面找到出处。
@@ -49,7 +50,7 @@ python scripts/probe_sources.py          # 真实核查信源 + 试跑抓取器�
 
 ## 持续发现（长期自动运行）
 
-- `scripts/discover.py`（GitHub Actions 每天运行）：轮换扫描 CSRankings 教授主页、Bluesky 招生帖作者、GitHub 新汇总仓库、AIOpenings 自填表、`_data/faculty.yml` 关注导师主页 → `data/discovery/*.json` 与 `reports/discovery.md`。
+- `scripts/discover.py`（每日岗位更新任务里在本地运行；私有仓库的 Actions 额度有限，不再定时跑）：轮换扫描 CSRankings 教授主页、Bluesky 招生帖作者、GitHub 新汇总仓库、AIOpenings 自填表、`_data/faculty.yml` 关注导师主页 → `data/discovery/*.json` 与 `reports/discovery.md`。
 - `/research-sources k 6`（6 个研究员会话并行、各自每小时一轮）：按 `research/slices.yml` 分配切片派 Haiku 子代理搜索新信源，结果存 `research/inbox/`，经 `scripts/merge_sources.py --target worker-k` 去重写入各自的 extra 文件；产出少的切片不用硬凑数量；确实枯竭的切片才会被拆细或新建，用来覆盖尚未触及的国家、学科、平台。
   一轮对话内所有子代理共享 200 次网页搜索额度，所以每轮做 2 个研究切片 + 1 批核实。
 - **不确定的信息要核实**：`scripts/verify_queue.py` 按“失效链接 → cn_eligible 'check' → 最久未核实”生成队列，
@@ -57,7 +58,7 @@ python scripts/probe_sources.py          # 真实核查信源 + 试跑抓取器�
 - **全量核实冲刺**：8 个专职核实员会话（`/verify-sources k 8 截止日期`，每小时一轮、每轮 4 个 Haiku 子代理共 80 条）按序号分片核实全部信源，分片清空后自动停用。
 - 研究员与核实员会话每天轮换重开（`research/workers.yml` 记录当前会话与定时任务）。
 - **每日岗位更新**（北京时间）：09:23 公开仓库 PhDRadar 的 `postings` 工作流采集 FindAPhD（它只对 GitHub Actions 开放）；11:17 本地任务依次运行
-  `collect_postings.py`（其余平台）→ `import_postings.py`（并回 FindAPhD）→ 为新岗位写简介（`research/intro-prompt.md` + `apply_intros.py`）→
+  `collect_postings.py`（其余平台）→ `import_postings.py`（并回 FindAPhD）→ `discover.py`（在招导师线索）→ 为新岗位写简介（`research/intro-prompt.md` + `apply_intros.py`）→
   `access_report.py`（平台接入状态与核对过信源能否打开，写 `docs/access.md`）→ `build_site.py` → 提交 → `make_public.py` 同步公开站。
 - `/review-discoveries`：人工/Claude 审核自动发现的在招导师与候选信源。
 - 所有自动任务都直接推送到 `main`，推送前务必 `git pull --rebase`。
