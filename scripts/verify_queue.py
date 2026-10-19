@@ -11,6 +11,7 @@
 from __future__ import annotations
 
 import argparse
+import json
 import zlib
 import re
 import sys
@@ -45,10 +46,17 @@ def all_sources(k: int, n: int) -> list[dict]:
 
 def dead_ids() -> dict[str, str]:
     report = ROOT / "reports" / "source-health.md"
-    if not report.exists():
-        return {}
-    return {m.group(1): m.group(2).strip()
-            for m in re.finditer(r"\| `([^`]+)`[^|]*\| ❌ \| ([^|]*)\|", report.read_text(encoding="utf-8"))}
+    dead = {} if not report.exists() else {
+        m.group(1): m.group(2).strip()
+        for m in re.finditer(r"\| `([^`]+)`[^|]*\| ❌ \| ([^|]*)\|", report.read_text(encoding="utf-8"))}
+    access = ROOT / "reports" / "access.json"  # 每日可访问性检查（access_report.py）的结果更新，以它为准
+    if access.exists():
+        for sid, v in (json.loads(access.read_text(encoding="utf-8")).get("sources") or {}).items():
+            if v.get("status") == "dead":
+                dead[sid] = v.get("detail", "")
+            else:
+                dead.pop(sid, None)
+    return dead
 
 
 def main() -> int:

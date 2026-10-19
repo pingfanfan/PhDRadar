@@ -56,6 +56,9 @@ python scripts/probe_sources.py          # 真实核查信源 + 试跑抓取器�
   核实子代理按 `research/verify-prompt.md` 给出 keep/update/delete 与证据，`scripts/apply_verification.py` 写回数据。
 - **全量核实冲刺**：8 个专职核实员会话（`/verify-sources k 8 截止日期`，每小时一轮、每轮 4 个 Haiku 子代理共 80 条）按序号分片核实全部信源，分片清空后自动停用。
 - 研究员与核实员会话每天轮换重开（`research/workers.yml` 记录当前会话与定时任务）。
+- **每日岗位更新**（北京时间）：09:23 公开仓库 PhDRadar 的 `postings` 工作流采集 FindAPhD（它只对 GitHub Actions 开放）；11:17 本地任务依次运行
+  `collect_postings.py`（其余平台）→ `import_postings.py`（并回 FindAPhD）→ 为新岗位写简介（`research/intro-prompt.md` + `apply_intros.py`）→
+  `access_report.py`（平台接入状态与核对过信源能否打开，写 `docs/access.md`）→ `build_site.py` → 提交 → `make_public.py` 同步公开站。
 - `/review-discoveries`：人工/Claude 审核自动发现的在招导师与候选信源。
 - 所有自动任务都直接推送到 `main`，推送前务必 `git pull --rebase`。
 

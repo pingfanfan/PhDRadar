@@ -1,7 +1,11 @@
 name: postings
 
-# 采集招聘平台上的具体岗位（scripts/collect_postings.py）。只手动触发，不随推送运行，省 Actions 分钟数。
+# 采集招聘平台上的具体岗位（scripts/collect_postings.py）。不随推送运行。
+# 每天定时采集 FindAPhD（它拦截其他服务器，只有 Actions 能访问）；只在公开仓库运行（公开仓库的 Actions 不计分钟数），
+# 结果提交到公开仓库的 _data/postings.yml，由每日任务用 scripts/import_postings.py 并回主库。
 on:
+  schedule:
+    - cron: "23 1 * * *"
   workflow_dispatch:
     inputs:
       sources:
@@ -22,6 +26,7 @@ permissions:
 
 jobs:
   collect:
+    if: github.event_name == 'workflow_dispatch' || github.repository == 'pingfanfan/PhDRadar'
     runs-on: ubuntu-latest
     timeout-minutes: 150
     concurrency:
@@ -41,7 +46,7 @@ jobs:
           done
       - name: 采集
         run: |
-          python scripts/collect_postings.py -s "${{ inputs.sources }}" --max-details "${{ inputs.max_details }}" \
+          python scripts/collect_postings.py -s "${{ inputs.sources || 'findaphd' }}" --max-details "${{ inputs.max_details || '3000' }}" \
             --save-samples 40 $([ "${{ inputs.dry_run }}" = "true" ] && echo --dry-run) | tee -a "$GITHUB_STEP_SUMMARY"
       - uses: actions/upload-artifact@v4
         if: always()
@@ -56,11 +61,11 @@ jobs:
           path: _data/postings.yml
           if-no-files-found: ignore
       - name: 提交
-        if: inputs.dry_run != 'true' && inputs.commit == 'true'
+        if: github.event_name == 'schedule' || (inputs.dry_run != 'true' && inputs.commit == 'true')
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add _data/postings.yml 2>/dev/null || exit 0
           git diff --cached --quiet && exit 0
-          git commit -m "岗位采集：${{ inputs.sources }}"
+          git commit -m "岗位采集：${{ inputs.sources || 'findaphd' }}"
           git pull --rebase && git push
