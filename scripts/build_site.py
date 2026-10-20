@@ -7,6 +7,7 @@
     index.html            首页（静态 HTML，模板见 scripts/site_template.html）
     assets/catalog.json   首页加载的精简数据（全部信源，已核对条目带官网原句）
     assets/rank-rules.json “为我推荐”的排序规则（来自 scripts/rank_rules.py，浏览器端 assets/rank.js 使用）
+    feeds/                RSS 订阅源与订阅说明页（scripts/build_feeds.py）
 """
 from __future__ import annotations
 
@@ -168,6 +169,8 @@ def main() -> int:
                 r["in"] = intros[r["id"]]
     (ROOT / "assets").mkdir(exist_ok=True)
     (ROOT / "assets" / "catalog.json").write_text(json.dumps(rows, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    from build_feeds import write_feeds
+    n_feeds = write_feeds(rows, ROOT)
     from rank_rules import rules as rank_rules
     (ROOT / "assets" / "rank-rules.json").write_text(json.dumps(rank_rules(DISC_WORDS), ensure_ascii=False, separators=(",", ":")),
                                                      encoding="utf-8")
@@ -184,7 +187,7 @@ def main() -> int:
     }.items():
         page = page.replace(key, val)
     (ROOT / "index.html").write_text(page, encoding="utf-8")
-    print(f"首页：现在可申请 {sum(1 for r in rows if r.get('o'))} · 已核对 {len(verified)} / 全部 {len(rows)} 条 → index.html, assets/catalog.json")
+    print(f"首页：现在可申请 {sum(1 for r in rows if r.get('o'))} · 已核对 {len(verified)} / 全部 {len(rows)} 条 → index.html, assets/catalog.json；订阅源 {n_feeds} 个 → feeds/")
     return 0
 
 
