@@ -725,7 +725,7 @@ def check_sentence(s: str, facts: dict[str, str], lab: dict[str, str], post: str
     for m in re.finditer(r"(?<![A-Za-z])([LRWS])\s?(\d+(?:\.\d+)?)", allowed):  # 雅思分项“L8 R8.5”：句子提到对应分项才算
         if re.search(SECTIONS[m.group(1).lower()], text, re.I):
             nums.add(num_norm(m.group(2)))
-    if cited_cv:  # 雅思 / 托福分项分：句子讲某一分项的分数，出处里要有这一分项（“L8 R8.5”）
+    if cited_cv and re.search(r"IELTS|TOEFL|PTE|Duolingo|雅思|托福|band|sub-?scores?|分项|单项", text, re.I):  # 雅思 / 托福分项分：出处里要有这一分项（“L8 R8.5”）
         for m in re.finditer(r"\b(listening|reading|writing|speaking)\b[^.;,，。]{0,25}?(\d+(?:\.\d+)?)|(听力|阅读|写作|口语)[^.;,，。]{0,10}?(\d+(?:\.\d+)?)", text, re.I):
             sec, val = (m.group(1) or m.group(3)), (m.group(2) or m.group(4))
             letter = {"listening": "L", "reading": "R", "writing": "W", "speaking": "S", "听力": "L", "阅读": "R", "写作": "W", "口语": "S"}[sec.lower()]
@@ -770,7 +770,7 @@ def check_sentence(s: str, facts: dict[str, str], lab: dict[str, str], post: str
             errs.append(f"{marks[0]} 那一段写了自己的经历：经历要标 [cv:…] 出处")
     if cited_cv:
         own_all = " ".join(facts.get(i, "") for i in cited_cv)
-        for m in re.finditer(r"\b(graduated|completed|finished|obtained|received|awarded|earned)\b[^.;]{0,80}?\b(?:in|by)\s+((?:19|20)\d\d)\b|((?:19|20)\d\d)\s*年?毕业", text, re.I):
+        for m in re.finditer(r"\b(graduated|completed|finished|obtained|received|awarded|earned)\b[^.;]{0,80}?\b(?:in|by)\s+((?:19|20)\d\d)\b(?!\s*[–—-]|\s*(to|至)\s*\d)|((?:19|20)\d\d)\s*年?毕业", text, re.I):
             y = m.group(2) or m.group(3)
             ends = [int(a) for a, _ in re.findall(r"((?:19|20)\d\d)-(\d\d)", own_all)] or [int(a) for a in re.findall(r"(?<!\d)((?:19|20)\d\d)(?!\d)", own_all)]
             if ends and int(y) != max(ends):
@@ -910,7 +910,9 @@ def evidence_errors(d: Path, facts_data: dict) -> list[tuple[str, int, str, str]
             elif norm(q) not in own:
                 errs.append((name, ln, s, f"证据不在所引出处 [cv:{','.join(ids)}] 里：“{q[:80]}”"))
         cv_text = " ".join(seg for seg, marks in segments(s)[0] if marks[0].startswith("[cv:"))
-        missing = numbers_in(cv_text) - numbers_in(" ".join(quotes)) - ({str(len(ids))} if len(ids) >= 2 else set())
+        qtext = " ".join(quotes)
+        in_quotes = numbers_in(qtext) | {num_norm(n) for n in re.findall(r"(?<=[A-Za-z])\d+(?:\.\d+)?", qtext)}  # 证据里的“R8.5”算 8.5
+        missing = numbers_in(cv_text) - in_quotes - ({str(len(ids))} if len(ids) >= 2 else set())
         if quotes and missing:
             errs.append((name, ln, s, f"句中的数字 {sorted(missing)} 没有出现在证据里"))
     return errs

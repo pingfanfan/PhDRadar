@@ -1,10 +1,10 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-10-19。共 **471** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-10-20。共 **467** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
-- [30 天内截止](#30-天内截止)（127）
-- [之后截止](#之后截止)（227）
+- [30 天内截止](#30-天内截止)（125）
+- [之后截止](#之后截止)（225）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（65）
 - [即将开放](#即将开放)（52）
 
@@ -12,9 +12,6 @@
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-19 | [剑桥英语系 Leverhulme 早期职业奖学金](https://www.english.cam.ac.uk/leverhulme-early-career-fellowships-2027) | 英国 | 博后 | 带薪岗位 | ✅ 可申 | 剑桥英语系校内遴选材料须于 2026 年 10 月 19 日前提交至系协调员，之后 Leverhulme 全国竞赛申请于 2027 年 2 月 18 日 16:00 提交。<br>官网原句：“by 19 October 2026” |
-| 2026-10-19 | [DKFZ International PhD Program（德国癌症研究中心国际博士项目）](https://www.dkfz.de/en/career/international-phd-program) | 德国 | 博士 | 全奖（学费＋生活费） | ❔ 官网未写明 | 在线申请当前开放，正文写截止 2026 年 10 月 19 日，距今日仅剩一天。<br>官网原句：“is currently open for applications - the application deadline is” |
-| 2026-10-19 | [昆士兰大学 Graduate School Scholarship](https://scholarships.uq.edu.au/scholarship/graduate-school-scholarships-uqgss-%E2%80%93-includes-rtp) | 澳大利亚 | 博士 | 半奖 / 部分资助 | 🟡 部分可申 | 国际生轮次（2027 年第四季度或 2028 年初入学）完整申请截止 2026-10-19，需先提交 EOI 并由学院提名，截止在一天之后。<br>官网原句：“Monday 19 October 2026” |
 | 2026-10-20 | [Aalto 大学 MSCA 博士网络岗：电推进太阳风帆任务设计](https://www.aalto.fi/en/open-positions/doctoral-researcher-msca-doctoral-network-position-electric-solar-wind-sail-mission-design) | 芬兰 | 博士 | 带薪岗位 | ❔ 官网未写明 | 页面写 Application closes on 20.10.2026，距今仅 2 天；MSCA 博士网络岗，需满足流动性规则。<br>官网原句：“Application closes on 20.10.2026” |
 | 2026-10-20 | [杜伦大学国际生奖学金总览（博士）](https://www.dur.ac.uk/study/scholarships/postgraduate/) | 英国 | 博士 | 视项目而定 | ❔ 官网未写明 | Commonwealth PhD Scholarships（2027 入学）申请截止 2026-10-20 16:00 GMT；页面写面向发展中英联邦国家申请人，中国大陆申请人资格未在页面确认。<br>官网原句：“20 October 2026 16:00 GMT” |
 | 2026-10-20 | [ESO 博士生研习计划（ESO Studentship）](https://recruitment.eso.org/jobs/2026_0055) | 德国、智利 | 博士 | 官网未写明 | ❔ 官网未写明 | 2026/27 欧洲轮申请截止 2026 年 10 月 20 日（含推荐信），须已在读天文相关博士并与 ESO 员工天文学家协调<br>官网原句：“is 20 October 2026 (including reference letters)” |
@@ -35,7 +32,7 @@
 | 2026-10-27 | [ETH AI Center Post-Doc Fellowship 2027（ETH Zurich）](https://jobs.ethz.ch/job/view/12137) | 瑞士 | 博后 | 带薪岗位 | ❔ 官网未写明 | 2027 轮博后奖学金，截止 2026-10-27 16:00 CET，仅接受在线门户申请。<br>官网原句：“The deadline for applications is October 27, 2026 (16:00 CET).” |
 | 2026-10-27 | [HHMI Gilliam Fellowship（博士生，生物与生物医学）](https://www.hhmi.org/node/2541) | 美国 | 博士 | 带薪岗位 | ✅ 可申 | 2027 轮申请截止 2026-10-27 23:59（美东）；需与 PhD 导师共同申请，仅限在读二、三年级博士生。<br>官网原句：“Tuesday, October 27, 2026 at 11:59 PM ET” |
 | 2026-10-28 | [奥胡斯大学 Perfusion PET 成像工具博士项目 · 招生](https://phd.health.au.dk/for-applicants/opencalls/phd-project-building-tools-for-perfusion-pet) | 丹麦 | 博士 | 全奖（学费＋生活费） | ❔ 官网未写明 | 页面写截止 2026-10-28 23:59（丹麦时间），三年全额资助岗位，计划 2027-01-01 入学；页面未写国际申请人资格。<br>官网原句：“28 October 2026 at 23:59” |
-| 2026-10-28 | [NASA Hubble Fellowship Program（NHFP）2027 届](https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/applications-for-the-2027-nasa-hubble-fellowship-program/) | 美国 | 博后 | 官网未写明 | ❔ 官网未写明 | 2027 届 NHFP 申请截止 2026-10-28；页面称向任何国籍开放，需 2023-01-01 后完成或将完成天文/物理相关博士学位。<br>官网原句：“Due 28 October 2026” |
+| 2026-10-28 | [NASA Hubble Fellowship Program（NHFP）2027 届](https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/applications-for-the-2027-nasa-hubble-fellowship-program/) | 美国 | 博后 | 官网未写明 | ✅ 可申 | 2027 届 NHFP 申请截止 2026-10-28；页面称向任何国籍开放，需 2023-01-01 后完成或将完成天文/物理相关博士学位。<br>官网原句：“Due 28 October 2026” |
 | 2026-10-28 | [杜伊斯堡-埃森大学化学系招聘页](https://www.uni-due.de/chemistry/news/vacancies/) | 德国 | 博士 | 带薪岗位 | ❔ 官网未写明 | Werdelmann 基金博士岗位公告写明申请截止为 2026 年 10 月 28 日。<br>官网原句：“AUSSCHREIBUNG bis zum 28. OKTOBER 2026” |
 | 2026-10-29 | [剑桥大学 Yusuf Hamied 化学系招聘页](https://www.ch.cam.ac.uk/jobs) | 英国 | 博士、博后 | 视项目而定 | ❔ 官网未写明 | 当前列表含博士奖学金 MA51367（PhD Studentship），截止 2026-10-29；其余职位截止在 10 月 20 日至 11 月 12 日之间。<br>官网原句：“Oct 29th 2026” |
 | 2026-10-30 | [Bristol Practice-Oriented AI CDT](https://www.bristol.ac.uk/cdt/practice-oriented-ai/) | 英国 | 博士 | 全奖（学费＋生活费） | 🟡 部分可申 | 正文称正在接受 2027 年 9 月入学的申请，第一轮截止 2026 年 10 月 30 日，第二轮 2027 年 2 月 26 日，最终轮 2027 年 5 月 14 日。<br>官网原句：“We are now accepting applications for September 2027 entry.” |
@@ -139,12 +136,12 @@
 | 2026-11-16 | [都灵理工大学第 42 周期博士招生第二批次](https://www.polito.it/didattica/dottorato-di-ricerca-e-scuola-di-specializzazione/ammissione-al-dottorato/ammissione/bando-di-concorso) | 意大利 | 博士 | 视项目而定 | ❔ 官网未写明 | 第二批 2026-10-15 开放，2026-11-16 14:00（CET）截止；有奖学金与无奖学金岗位分列，需逐项确认。<br>官网原句：“Una volta presa visione del bando è possibile fare domanda attraverso la procedura” |
 | 2026-11-17 | [剑桥法学 PhD 资助入口](https://www.postgraduate.study.cam.ac.uk/courses/directory/lwlwpdlaw/finance) | 英国 | 博士 | 官网未写明 | 🟡 部分可申 | 正文显示 2027 年 10 月入学的申请于 2026-09-09 开放，截止 2026-11-17；Gates Cambridge 美国轮截止 2026-12-08。<br>官网原句：“Application deadline Nov. 17, 2026” |
 | 2026-11-17 | [岭南大学 MSoDA 博士后（26/241/JAC）](https://www.jobs.ac.uk/job/DSZ284/postdoctoral-fellow-msoda) | 中国香港 | 博后 | 带薪岗位 | ❔ 官网未写明 | 页面写明 2026 年 11 月 17 日到期，全职固定期限合同最长两年；要求社会学或计算社会科学相关博士学位，未列具体薪酬。<br>官网原句：“17th November 2026” |
+| 2026-11-19 | [Lundbeck Foundation 博后（LF Postdocs，神经科学）](https://www.thetransmitter.org/funding-opportunity/lf-postdocs-danish-neuroscience/) | 丹麦 | 博后 | 全奖（学费＋生活费） | ❔ 官网未写明 | 正文显示状态 OPEN（2026-10-16 更新），截止 2026-11-19；要求博士在 5 年内取得或 6 个月内完成，国际学者需在丹麦宿主机构工作。<br>官网原句：“Applications close on November 19, 2026.” |
 
 ## 之后截止
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-19 | [Lundbeck Foundation 博后（LF Postdocs，神经科学）](https://www.thetransmitter.org/funding-opportunity/lf-postdocs-danish-neuroscience/) | 丹麦 | 博后 | 全奖（学费＋生活费） | ❔ 官网未写明 | 正文显示状态 OPEN（2026-10-16 更新），截止 2026-11-19；要求博士在 5 年内取得或 6 个月内完成，国际学者需在丹麦宿主机构工作。<br>官网原句：“Applications close on November 19, 2026.” |
 | 2026-11-20 | [巴塞尔历史研究生院（BGSH）Starter Scholarship（2027 年 4 月开始）](https://jobs.unibas.ch/offene-stellen/starter-scholarships-of-the-basel-graduate-school-of-history/43646da9-a53a-4dba-86dc-b823a312cefb) | 瑞士 | 博士 | 仅生活费 | ❔ 官网未写明 | 2027 年 4 月开始的一年期 starter scholarship，CHF 32,000 分两期发放；申请时须列出一名 BGSH 导师作为拟定导师。<br>官网原句：“Deadline for applications: 20 November 2026” |
 | 2026-11-20 | [纽伯里图书馆（Newberry Library）长期研究员](https://www.newberry.org/long-term-fellowships) | 美国 | 博后 | 仅生活费 | ❔ 官网未写明 | 2027-28 长期研究员项目已开放申请，截止 2026-11-20，经 SlideRoom 提交，每月津贴 5000 美元，须已获博士学位。<br>官网原句：“Deadline: November 20, 2026” |
 | 2026-11-20 | [东北大学 JF-CIJS-EAJS 日本研究博士生奖学金](https://cijs.oii.tohoku.ac.jp/en/fellowship/detail---id-178.html) | 欧盟/欧洲、日本 | 博士 | 仅生活费 | 🟡 部分可申 | 2027 年征集期至 2026-11-20（日本时间）；需在欧洲高校攻读人文社科博士，并由申请人、推荐人与日语评审在截止前提交表格<br>官网原句：“before the deadline of November 20, 2026 in Japan Standard Time.” |
@@ -271,7 +268,6 @@
 | 2026-12-09 | [CMU 计算机科学系（CSD）博士招生与资助](https://csd.cmu.edu/academics/doctoral/admissions) | 美国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 博士申请 2026-09-09 开放，最终截止 2026-12-09 15:00 EST；11-18 为仅省费用的早申请截止；国内外学生基础资助相同。<br>官网原句：“December 9, 2026 (3 p.m. EST)” |
 | 2026-12-10 | [北海道大学生命科学院 IGP MEXT 奖学金（2027 年 10 月入学）](https://altair.sci.hokudai.ac.jp/grad/igpoverview/special-quota.php) | 日本 | 博士 | 全奖（学费＋生活费） | ❔ 官网未写明 | 2027 年 10 月入学的 IGP 文部科学省奖学金页面标注现已开放（2026-04-27 更新）；需先于 11 月 10 日前联系意向导师，导师于 12 月 10 日前向 IGP 办公室提交材料。<br>官网原句：“Application for the MEXT scholarship: IGP special quota for admission in October 2027 is Open NOW!!!” |
 | 2026-12-10 | [萨塞克斯大学 AHRC Doctoral Landscape Award（艺术与人文）](https://www.sussex.ac.uk/study/fees-funding/phd-funding/view/1963-AHRC-Doctoral-Landscape-Award-PhD-Scholarships-for-research-in-Arts-and-Humanities) | 英国 | 博士 | 半奖 / 部分资助 | 🟡 部分可申 | 2027 年秋入学的 AHRC DLA 奖学金，须同时在 PG Apply 提交 Sussex 博士申请，截止 2026-12-10 16:00；国际生只覆盖 Home 学费，差额需自付。<br>官网原句：“10 December 2026 16:00” |
-| 2026-12-10 | [萨塞克斯大学 AHRC DLA（Stuart Hall 基金会）博士奖学金](https://www.sussex.ac.uk/study/fees-funding/phd-funding/view/1964-AHRC-Doctoral-Landscape-Award-Stuart-Hall-Foundation-Studentships) | 英国 | 博士 | 半奖 / 部分资助 | ❔ 官网未写明 | 2027 年 10 月入学的 AHRC DLA Stuart Hall 奖学金截止 2026-12-10 16:00；Stuart Hall 名额限英国常住的黑人及少数族裔背景申请人，中国申请者通常不符合。<br>官网原句：“10 December 2026 16:00” |
 | 2026-12-10 | [华威大学 CSC 联合博士奖学金（2027 轮）](https://warwick.ac.uk/services/dc/schols_fund/2027/) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 华威 2027 年秋季 PGR 奖学金，CSC 类别；课程申请 12 月 7 日、奖学金申请 12 月 10 日（16:59 GMT）截止；CSC 资格以页面为准。<br>官网原句：“The call for applications will open on 5 October 2026” |
 | 2026-12-11 | [悉尼大学跨国音乐交流博士研究奖学金（Sydney Conservatorium）](https://www.sydney.edu.au/scholarships/a/transnational-musical-exchange.html) | 澳大利亚 | 博士 | 全奖（学费＋生活费） | 🟡 部分可申 | 页面写开放日 24 September 2026、截止 11 December 2026；页面称国际生可获学费与标准生活津贴，需先选定 ARC 项目团队导师。<br>官网原句：“11 December 2026” |
 | 2026-12-13 | [ICTP 数学博士后（的里雅斯特，2026 轮）](https://2022.ictp.it/opportunity/mathematics-postdoctoral-positions-2026) | 意大利 | 博后 | 仅生活费 | ❔ 官网未写明 | 2027 年起始的两年期数学博后，截止 2026-12-13；页面写明优先考虑来自并在发展中国家工作的候选人。<br>官网原句：“ICTP's Mathematics section is now accepting applications for postdoctoral fellowships that would start in 2027.” |

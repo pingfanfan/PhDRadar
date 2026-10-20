@@ -2,21 +2,22 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 捷克（CZ） 信源（19）
+# 捷克（CZ） 信源（20）
 
-所有标注了地区 CZ 的信源，共 19 条。
+所有标注了地区 CZ 的信源，共 20 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [高校旗舰奖学金与资助检索 1](cz.md#university-schemes) · [结构化博士项目与研究机构 12](cz.md#doctoral-programs) · [博士后奖学金与项目 3](cz.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](cz.md#fellowships) · [个人信源与社交渠道 2](cz.md#people-channels)
+**按分类跳转：** [高校旗舰奖学金与资助检索 2](cz.md#university-schemes) · [结构化博士项目与研究机构 12](cz.md#doctoral-programs) · [博士后奖学金与项目 3](cz.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](cz.md#fellowships) · [个人信源与社交渠道 2](cz.md#people-channels)
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（1）
+## 高校旗舰奖学金与资助检索（2）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [捷克科学院招聘公告总入口（含 ERC 项目岗位）](https://avcr.cz/en/about-us/career/selection-procedures)<br><sub>捷克 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 捷克科学院各研究所招聘公告汇总，ERC 资助的博士与博后会在各研究所发布；以原公告截止为准。 |
+| [查理大学数学与物理学院奖学金](https://mff.cuni.cz/en/admissions/scholarships)<br><sub>捷克 ｜ 数学/统计·物理/天文·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>起点 10,500 CZK/月</sub> | 未公布<br><sub>页面未给出博士奖学金截止日，以学院当期公告为准</sub> | ❔ | **要求：** 博士在读生可获学院博士奖学金及研究奖学金；国际生申请条件需在官网核实<br>数学物理学院博士生月奖学金页面；国际生是否可申请及申请时间需在页面核实。 |
 
 <a id="doctoral-programs"></a>
 

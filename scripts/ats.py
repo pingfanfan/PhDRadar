@@ -68,6 +68,7 @@ SUCCESSFACTORS = [  # (学校, 站点, 国家)
     ("A*STAR", "https://careers.a-star.edu.sg", "SG"),
     ("CSIRO", "https://jobs.csiro.au", "AU"),
     ("University of Toronto", "https://jobs.utoronto.ca", "CA"),
+    ("Fraunhofer-Gesellschaft", "https://jobs.fraunhofer.de", "DE"),
 ]
 
 # Oracle Recruiting Cloud：候选人站点的公开接口（站点本身无 robots.txt）。
@@ -117,6 +118,48 @@ LISTS = [  # (学校, 列表页或站点地图, 岗位链接正则：(路径, �
     ("Istituto Italiano di Tecnologia", "https://app.ncoreplat.com/sitemap.xml",
      r"<loc>https://app\.ncoreplat\.com(/jobposition/(\d+)/[a-z0-9-]+/istituto-italiano-di-tecnologia)</loc>",
      "https://app.ncoreplat.com", "IT"),
+    # b-ite 招聘站：站点地图只有哈希链接，(?#全部) 表示不按链接文字筛选，逐个读岗位页
+    ("LMU Munich", "https://job-portal.lmu.de/sitemap.xml.gz",
+     r"(?#全部)<loc>https://job-portal\.lmu\.de(/jobposting/([0-9a-f]+))</loc>", "https://job-portal.lmu.de", "DE"),
+    ("Universität Hamburg", "https://stellen.uni-hamburg.de/sitemap.xml.gz",
+     r"(?#全部)<loc>https://stellen\.uni-hamburg\.de(/jobposting/([0-9a-f]+))</loc>", "https://stellen.uni-hamburg.de", "DE"),
+    ("Forschungszentrum Jülich", "https://recruiting.fz-juelich.de/sitemap.xml.gz",
+     r"(?#全部)<loc>https://recruiting\.fz-juelich\.de(/jobposting/([0-9a-f]+))</loc>", "https://recruiting.fz-juelich.de", "DE"),
+    # d.vinci 招聘站
+    ("Karlsruhe Institute of Technology (KIT)", "https://jobs.pse.kit.edu/sitemap.xml",
+     r"<loc>https://jobs\.pse\.kit\.edu(/en/jobs/(\d+)/[a-z0-9-]+)</loc>", "https://jobs.pse.kit.edu", "DE"),
+    ("German Cancer Research Center (DKFZ)", "https://jobs.dkfz.de/sitemap.xml",
+     r"<loc>https://jobs\.dkfz\.de(/en/jobs/(\d+)/[a-z0-9-]+)</loc>", "https://jobs.dkfz.de", "DE"),
+    # Refline（ETH 领域研究所）：robots.txt 允许
+    *[(name, f"https://apply.refline.ch/{cid}/search.html?form.buttons.listAll=1&lang=en",
+       rf'href="https://apply\.refline\.ch(/({cid}/\d+)/pub/\d+/index\.html)"', "https://apply.refline.ch", "CH")
+      for name, cid in (("Paul Scherrer Institute (PSI)", 673278), ("Eawag", 673277), ("Empa", 673276), ("WSL", 273855))],
+    ("Technical University of Munich (TUM)", "https://portal.mytum.de/jobs/asRss",
+     r"<link>https://portal\.mytum\.de(/jobs/wissenschaftler/(NewsArticle_\d+_\d+))</link>", "https://portal.mytum.de", "DE"),
+    ("RWTH Aachen University", [f"https://www.rwth-aachen.de/cms/root/wir/Karriere/~buym/RWTH-Jobportal/?page={n}" for n in range(1, 5)],
+     r'href="(/go/id/kbag/file/(V\d+)/)"', "https://www.rwth-aachen.de", "DE"),
+    ("Leibniz Association", "https://www.leibniz-gemeinschaft.de/en/careers/jobs",
+     r'href="(/en/careers/jobs/detail/job/show/Job/([a-z0-9-]+))"', "https://www.leibniz-gemeinschaft.de", "DE"),
+    ("Helmholtz-Zentrum Dresden-Rossendorf (HZDR)", ["https://www.hzdr.de/db/!JobList?pNid=490&pSelCat=6",
+                                                     "https://www.hzdr.de/db/!JobList?pNid=490&pSelCat=14"],
+     r'href="(Cms\?pNid=490&(?:amp;)?pOid=(\d+)&(?:amp;)?pContLang=en)"', "https://www.hzdr.de/db/", "DE", r"<title>(.*?)</title>"),
+    ("Medical University of Vienna", "https://www.meduniwien.ac.at/web/karriere/offene-stellen/",
+     r'href="(/web/karriere/offene-stellen/personalmitteilungsblatt-[^"]*kennzahl-(\d+)/\d+/)"', "https://www.meduniwien.ac.at", "AT",
+     r"<h2[^>]*>(.*?)</h2>"),
+    ("University of Innsbruck", "https://lfuonline.uibk.ac.at/public/karriereportal.home?lang=de",
+     r'href="https://lfuonline\.uibk\.ac\.at(/public/karriereportal\.details\?asg_id_in=(\d+))"', "https://lfuonline.uibk.ac.at", "AT",
+     r"<title>(.*?)</title>"),
+    ("WU Vienna", "https://jobs.wu.ac.at/job-offers.html", r'href="https://jobs\.wu\.ac\.at(/[A-Za-z0-9-]+-j(\d+)\.html)"',
+     "https://jobs.wu.ac.at", "AT"),
+    ("GFZ Helmholtz Centre for Geosciences", "https://www.gfz.de/en/career/job-offers",
+     r'href="(/en/career/job-offers/details/(\d+))"', "https://www.gfz.de", "DE", r"<title>(.*?)(?::\s*GFZ)?</title>"),
+    # INRAE：站点地图只有编号链接（/ot-<n>），多数是实习，按岗位页标题筛
+    ("INRAE", "https://jobs.inrae.fr/sitemap.xml", r"(?#全部)<loc>https://jobs\.inrae\.fr(/(ot-\d+))</loc>", "https://jobs.inrae.fr", "FR"),
+    ("University of Bologna", "https://bandi.unibo.it/ricerca/incarichi-post-doc/RSS",
+     r'rdf:about="https://bandi\.unibo\.it(/s/apos7/([a-z0-9-]+))"', "https://bandi.unibo.it", "IT"),
+    # prospective.ch 公开接口（JSON 里的 directlink 指向学校招聘页）
+    ("University of Zurich", "https://ohws.prospective.ch/public/v1/medium/1002007/jobs?lang=en&offset=0&limit=500",
+     r'"directlink"\s*:\s*"https://jobs\.uzh\.ch(/job-vacancies/([a-z0-9-]+/[0-9a-f-]+))"', "https://jobs.uzh.ch", "CH"),
 ]
 
 # 标题 / 链接里的博士、博后关键词（含芬兰语、荷兰语、法语、德语常见写法）
@@ -126,10 +169,11 @@ SLUG = re.compile(r"ph\.?d|doctoral|doctorate|doctorand|promovend|post-?doc|post
 # level_of 认不出的其他语言写法：奥地利的 prae doc（博士生职位）、德语 Doktorand / Promotion、法语 doctorant
 LEVEL_PHD = re.compile(r"pr(?:a|ä|ae|e)[\s-]?doc|doktorand|promotion|doctorant|doctorat|väitöskirjatutkija", re.I)
 LEVEL_POSTDOC = re.compile(r"postdoktorand|post[\s-]?doc", re.I)
+WIMI = re.compile(r"wiss(?:\.|enschaftlich\w*)\s*(?:/r|\*r|:r)?\s*Mitarbeiter", re.I)
 SENIOR = re.compile(r"\b(senior|principal|lead|chief)\b|part[\s-]time", re.I)  # 高级研究员不是博后；兼职岗位不收
 # 除 _FUNDED 外，大学雇佣合同常见的薪资写法
 PAY = _FUNDED + [r"\b(full[\s-]time|temporary|fixed[\s-]term)\s+(employment|contract)\b", r"\bremuneration\b", r"\bpay\s+(scale|grade|range|band|level)\b", r"\bsalary\s+(scale|range|band|grade)\b",
-                 r"\b(gehalt|vergütung|entgelt|palkka|salaire|lohn)\b", r"\b(AUD|HKD|SGD|CHF|EUR|CAD|USD|DKK|SEK|NOK)\s?\$?\d",
+                 r"\b(gehalt|vergütung|entgelt|palkka|salaire|lohn|rémunération|compenso|importo|retribuzione|salario|retribución)\b", r"\b(AUD|HKD|SGD|CHF|EUR|CAD|USD|DKK|SEK|NOK)\s?\$?\d",
                  r"[€$£]\s?\d{1,3}(?:[,.\s]\d{3})+", r"\b\d{1,3}(?:[,.\s]\d{3})+\s?(€|EUR|CHF|DKK|SEK|NOK)\b"]
 AMOUNT = re.compile(r"(?:salary|stipend|remuneration|pay)[^.]{0,100}?(?:[€$£]|AUD|HKD|SGD|CHF|EUR|CAD|USD|DKK|SEK|NOK)\s?\$?"
                     r"\d[\d,.\s]*[^.]{0,40}", re.I)
@@ -138,7 +182,17 @@ AMOUNT = re.compile(r"(?:salary|stipend|remuneration|pay)[^.]{0,100}?(?:[€$£]
 # find_deadline 之外，大学招聘页常见的截止写法（如 DTU “must be submitted no later than 4 November 2026”）
 EXTRA_KW = (r"(?:(?:submitted|received|apply|applications?)\s+(?:\w+\s+){0,3}?(?:no later than|by|before|on or before|until)|"
             r"apply for this (?:vacancy|position)[^.]{0,100}?(?:until|up to and including|before|by)|(?:accepted|considered)\s+until|due date|bewerbungsende|closing at|closes on|last (?:application|closing) date|application period ends|"
-            r"ansøgningsfrist|sista ansökningsdag|søknadsfrist|hakuaika päättyy|viimeinen hakupäivä)")
+            r"ansøgningsfrist|sista ansökningsdag|søknadsfrist|hakuaika päättyy|viimeinen hakupäivä|"
+            r"scadenza|date limite|ouvert jusqu'au|fecha l[ií]mite|plazo de (?:solicitud|presentaci[oó]n))")
+# 法语、意大利语、西班牙语月份 → 英文（德语月份 find_deadline 自己会换）
+ROMANCE_MONTHS = {"janvier": "January", "février": "February", "fevrier": "February", "mars": "March", "avril": "April",
+                  "mai": "May", "juin": "June", "juillet": "July", "août": "August", "aout": "August", "septembre": "September",
+                  "octobre": "October", "novembre": "November", "décembre": "December", "decembre": "December",
+                  "gennaio": "January", "febbraio": "February", "marzo": "March", "aprile": "April", "maggio": "May",
+                  "giugno": "June", "luglio": "July", "agosto": "August", "settembre": "September", "ottobre": "October",
+                  "dicembre": "December", "enero": "January", "febrero": "February", "abril": "April", "mayo": "May",
+                  "junio": "June", "julio": "July", "septiembre": "September", "octubre": "October", "noviembre": "November",
+                  "diciembre": "December"}
 GAP = r"([^.\d]{0,60}?)"  # 关键词与日期之间的文字；含 start / begin 的是开始日期，不是截止
 NOT_DEADLINE = re.compile(r"start|begin|commenc|from\b", re.I)
 DATE_OF = r"(\d{1,2}(?:st|nd|rd|th)?\s+of\s+[A-Za-z]{3,9},?\s+\d{4})"  # “25th of October 2026”
@@ -153,7 +207,7 @@ def num_order(text: str) -> str:
 DAY_MONTH = r"(?:(\d{1,2})(?:st|nd|rd|th)?\s+(?:of\s+)?([A-Za-z]{3,9})|([A-Za-z]{3,9})\s+(\d{1,2})(?:st|nd|rd|th)?)\b(?!,?\s+\d{4})"  # 没写年份的 “1 November”“November 20”
 
 
-def deadline(text: str, end_date: str = "") -> tuple[str | None, str]:
+def deadline(text: str, end_date: str = "", order_hint: str = "") -> tuple[str | None, str]:
     """截止日期 + 原句（正文里最先出现的那处）。end_date 是招聘系统里的结构化下架日期：原句只写日月时，与它相差 3 天内才借用它的年份。"""
     text = re.sub(r"(\d)\s+(st|nd|rd|th)\b", r"\1\2", text)  # “November 12 th 2026”
     kw = rf"(?:{cp.DEADLINE_KW}|{EXTRA_KW})"
@@ -161,10 +215,12 @@ def deadline(text: str, end_date: str = "") -> tuple[str | None, str]:
     for m in re.finditer(kw + GAP + "(?:" + cp.ANY_DATE + "|" + DATE_OF + ")", text, re.I):
         if NOT_DEADLINE.search(m.group(1)):
             continue
-        iso, _ = cp.find_deadline("deadline " + (m.group(2) or m.group(3).replace(" of ", " ").replace(",", "")))
+        day = m.group(2) or m.group(3).replace(" of ", " ").replace(",", "")
+        day = re.sub(r"[A-Za-zÀ-ÿ]+", lambda w: ROMANCE_MONTHS.get(w.group(0).lower().rstrip("."), w.group(0)), day)
+        iso, _ = cp.find_deadline("deadline " + day)
         if iso:
             found.append((m.start(), iso, m.group(0).strip()))
-    order = num_order(text)
+    order = num_order(text) or order_hint
     for m in re.finditer(kw + GAP + NUM_DATE, text, re.I):
         d, mo, y = (int(x) for x in m.groups()[-3:])
         if order == "MDY":
@@ -202,19 +258,27 @@ REF = re.compile(r"\b(?:Job ID|Stellen ID|Reference(?: number)?|Referenz|Anf\.-K
 
 
 def row(adapter: str, jid: str, url: str, title: str, org: str, country: str, place: str, text: str, via: str,
-        today: str, end_date: str = "") -> tuple[dict | None, str]:
+        today: str, end_date: str = "", order_hint: str = "") -> tuple[dict | None, str]:
     """通用收录判断：博士 / 博后 + 截止原句 + 写明资助。text 是岗位正文（纯文本）。"""
     title, text = re.sub(r"\s+", " ", title.replace("\xad", "")).strip(), text.replace("\xad", "")  # 去掉软连字符
     level = None if SENIOR.search(title) else cp.level_of(title) or \
         (None if cp.NOT_TARGET.search(title) else "postdoc" if LEVEL_POSTDOC.search(title) else
          "phd" if LEVEL_PHD.search(title) else None)
+    # 德国常见的“Wissenschaftliche/r Mitarbeiter/in”：正文要求已完成博士 → 博后；写明可以读博（Promotion）→ 博士
+    if not level and WIMI.search(title) and not cp.NOT_TARGET.search(title):
+        level = "postdoc" if re.search(r"abgeschlossene[nr]?\s+Promotion|\bpromoviert|Doktortitel|completed\s+(?:a\s+)?(?:PhD|doctorate)|"
+                                       r"PhD\s+(?:degree\s+)?(?:is\s+)?required", text, re.I) else \
+            "phd" if re.search(r"(?:Möglichkeit|Gelegenheit)\s+zur\s+(?:Promotion|Weiterqualifikation)|zur\s+Promotion|Promotionsstelle|"
+                               r"Promotionsvorhaben|Promotionsabsicht|Promotion\s+(?:ist|wird)|promovieren|Dissertation|"
+                               r"pursue\s+a\s+(?:PhD|doctorate)|"
+                               r"PhD\s+(?:project|student|position|thesis)|doctoral\s+(?:studies|thesis|candidate)", text, re.I) else None
     # 只写 Research Associate / Research Fellow 的标题，正文要求博士学位才算博后（否则多是研究助理类职位）
-    if level == "postdoc" and not re.search(r"post[\s-]?doc", title, re.I) and \
+    if level == "postdoc" and not re.search(r"post[\s-]?doc", title, re.I) and not WIMI.search(title) and \
             not re.search(r"\bph\.?\s?d\b|doctoral degree|doctorate", text, re.I):
         level = None
     if not level:
         return None, "非博士/博后岗位"
-    day, quote = deadline(text, end_date)
+    day, quote = deadline(text, end_date, order_hint)
     if not day:
         return None, "页面无截止日期"
     if day < today:
@@ -331,9 +395,9 @@ def sf_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, st
         m = re.search(r"<title>\s*(.*?)\s+(?:Job Details|Stellendetails|Détails de l'offre)", raw, re.S)
         title = cp.page_text(m.group(1)) if m else ""
     # 正文 + 自定义字段（截止日期常在描述之外，如 FU Berlin “Bewerbungsende: 09.11.2026”）；到“相似岗位”为止
-    text = cp.page_text(raw)
-    i = text.find(title) if title else -1
-    text = text[i if i >= 0 else 0:]
+    # 从页面里的岗位标题元素开始读（不从 <title> 和搜索栏开始，搜索栏里有“Promotionsabsicht”之类的筛选项）
+    i = max(raw.find('itemprop="title"'), raw.find('id="main-job-title-heading"'))
+    text = cp.page_text(raw[i if i >= 0 else 0:])
     end = SF_END.search(text)
     text = text[:end.start()] if end else text
     place = cp.page_text(_itemprop(raw, "addressLocality") or _itemprop(raw, "streetAddress"))
@@ -457,31 +521,53 @@ _LS: dict[str, tuple[str, str, str]] = {}  # 岗位 id → (学校, 国家, 标�
 
 
 def ls_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+    import gzip
     out: dict[str, str] = {}
     for school, listing, link_re, prefix, country, *title_re in LISTS:
-        try:
-            raw = f.get(listing).text
-        except Exception as e:  # noqa: BLE001
-            print(f"[university] {school} 列表失败：{type(e).__name__}")
-            continue
-        # 列表页：只读链接文字（或整行可点的表格行）像博士 / 博后岗位的；站点地图：看链接本身
-        blocks = [raw] if listing.endswith(".xml") else [b.group(0) for b in re.finditer(r"<(a|tr)\b[^>]*>.*?</\1>", raw, re.S)]
-        for block in blocks:
-            for m in re.finditer(link_re, block):
-                if SLUG.search(m.group(1) if block is raw else cp.page_text(block)):
-                    jid = f"{prefix.split('//')[1].split('.')[1]}-{m.group(2)}"
-                    out.setdefault(jid, prefix + htmllib.unescape(m.group(1)))
-                    _LS[jid] = (school, country, title_re[0] if title_re else r"<h1[^>]*>(.*?)</h1>")
+        for page in [listing] if isinstance(listing, str) else listing:  # 可以是多页列表
+            try:
+                r = f.get(page)
+                body = getattr(r, "content", b"")
+                raw = gzip.decompress(body).decode("utf-8", "replace") if body[:2] == b"\x1f\x8b" else r.text
+            except Exception as e:  # noqa: BLE001
+                print(f"[university] {school} 列表失败：{type(e).__name__}")
+                continue
+            # 站点地图 / RSS / Atom（链接正则以 < 开头）：看链接本身；列表页：只读链接文字（或整行可点的表格行）像博士 / 博后岗位的
+            feed = link_re.lstrip("(?#全部)").startswith(("<", '"'))
+            blocks = [raw] if feed else [b.group(0) for b in re.finditer(r"<(a|tr|li)\b[^>]*>.*?</\1>", raw, re.S)]
+            for block in blocks:
+                for m in re.finditer(link_re, block):
+                    label = m.group(0) if feed else cp.page_text(block)
+                    if feed and "<item" in raw:  # RSS：看所在条目的标题
+                        item = raw.rfind("<item", 0, m.start())
+                        label = raw[item:m.end()] if item >= 0 else label
+                    if "(?#全部)" in link_re or SLUG.search(label):
+                        host = (prefix + m.group(1)).split("//")[1].split("/")[0].split(".")
+                        jid = f"{host[1] if len(host) > 2 else host[0]}-{m.group(2)}"
+                        out.setdefault(jid, prefix + htmllib.unescape(m.group(1)))
+                        _LS[jid] = (school, country, title_re[0] if title_re else r"<h1[^>]*>(.*?)</h1>")
     return list(out.items())
+
+
+GENERIC_TITLE = re.compile(r"^(contact|kontakt|job offers?|jobs?|stellenangebote?|vacanc(?:y|ies)|careers?)$", re.I)
 
 
 def ls_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
     school, country, title_re = _LS.get(jid, ("", "", r"<h1[^>]*>(.*?)</h1>"))
-    t = re.search(title_re, raw, re.S)
-    if t and re.search(r"JavaScript is (disabled|required)", t.group(1), re.I):
+    # 第一个非空、不是“Contact / Job offer”这类栏目名的标题
+    # 优先像岗位名的（如 TUM 页面的第一个 <h1> 是校名）
+    cands = [m for m in re.finditer(title_re, raw, re.S)
+             if cp.page_text(m.group(1)) and not GENERIC_TITLE.match(cp.page_text(m.group(1)))]
+    t = next((m for m in cands if SLUG.search(cp.page_text(m.group(1))) or WIMI.search(cp.page_text(m.group(1)))),
+             cands[0] if cands else None)
+    title = cp.page_text(t.group(1)) if t else ""
+    if re.search(r"JavaScript is (disabled|required)", title, re.I):
         return None, "页面要脚本才显示（可能被拦）"
-    return row("university", jid, url, cp.page_text(t.group(1)) if t else "", school, country, "", cp.page_text(raw),
-               school, today)
+    # 正文从页面里的标题开始读，避开导航菜单（如 RWTH 菜单里的“Promotion von A bis Z”）；标题取自 <title> 时从 <body> 读
+    start = t.start() if t and "<title" not in title_re else max(raw.find("<body"), 0)
+    # 学校自己的页面（非美加）：同页看不出日月顺序时按 日/月/年 读（招聘系统的英文界面才会用 月/日/年）
+    return row("university", jid, url, title, school, country, "", cp.page_text(raw[start:]),
+               school, today, order_hint="" if country in ("US", "CA") else "DMY")
 
 
 ADAPTERS = {"workday": (wd_urls, wd_detail), "successfactors": (sf_urls, sf_detail), "oracle": (orc_urls, orc_detail),

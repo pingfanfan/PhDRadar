@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 政府与国家级奖学金（104）
+# 政府与国家级奖学金（118）
 
 中国政府（CSC）及各留学目的地政府提供的博士奖学金。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [法国（FR） 14](gov-scholarships.md#r-fr) · [日本（JP） 13](gov-scholarships.md#r-jp) · [英国（UK） 11](gov-scholarships.md#r-uk) · [加拿大（CA） 9](gov-scholarships.md#r-ca) · [德国（DE） 9](gov-scholarships.md#r-de) · [澳大利亚（AU） 5](gov-scholarships.md#r-au) · [波兰（PL） 3](gov-scholarships.md#r-pl) · [新加坡（SG） 3](gov-scholarships.md#r-sg) · [美国（US） 3](gov-scholarships.md#r-us) · [瑞士（CH） 2](gov-scholarships.md#r-ch) · [智利（CL） 2](gov-scholarships.md#r-cl) · [爱沙尼亚（EE） 2](gov-scholarships.md#r-ee) · [西班牙（ES） 2](gov-scholarships.md#r-es) · [中国香港（HK） 2](gov-scholarships.md#r-hk) · [爱尔兰（IE） 2](gov-scholarships.md#r-ie) · [韩国（KR） 2](gov-scholarships.md#r-kr) · [葡萄牙（PT） 2](gov-scholarships.md#r-pt) · [土耳其（TR） 2](gov-scholarships.md#r-tr) · [阿根廷（AR） 1](gov-scholarships.md#r-ar) · [奥地利（AT） 1](gov-scholarships.md#r-at) · [AZ 1](gov-scholarships.md#r-az) · [比利时（BE） 1](gov-scholarships.md#r-be) · [全球（GLOBAL） 1](gov-scholarships.md#r-global) · [匈牙利（HU） 1](gov-scholarships.md#r-hu) · [以色列（IL） 1](gov-scholarships.md#r-il) · [印度（IN） 1](gov-scholarships.md#r-in) · [冰岛（IS） 1](gov-scholarships.md#r-is) · [意大利（IT） 1](gov-scholarships.md#r-it) · [墨西哥（MX） 1](gov-scholarships.md#r-mx) · [马来西亚（MY） 1](gov-scholarships.md#r-my) · [荷兰（NL） 1](gov-scholarships.md#r-nl) · [挪威（NO） 1](gov-scholarships.md#r-no) · [塞尔维亚（RS） 1](gov-scholarships.md#r-rs) · [UY 1](gov-scholarships.md#r-uy)
+**按地区跳转：** [法国（FR） 14](gov-scholarships.md#r-fr) · [日本（JP） 14](gov-scholarships.md#r-jp) · [英国（UK） 11](gov-scholarships.md#r-uk) · [加拿大（CA） 10](gov-scholarships.md#r-ca) · [德国（DE） 9](gov-scholarships.md#r-de) · [美国（US） 6](gov-scholarships.md#r-us) · [澳大利亚（AU） 5](gov-scholarships.md#r-au) · [波兰（PL） 4](gov-scholarships.md#r-pl) · [新加坡（SG） 3](gov-scholarships.md#r-sg) · [土耳其（TR） 3](gov-scholarships.md#r-tr) · [阿根廷（AR） 2](gov-scholarships.md#r-ar) · [瑞士（CH） 2](gov-scholarships.md#r-ch) · [智利（CL） 2](gov-scholarships.md#r-cl) · [爱沙尼亚（EE） 2](gov-scholarships.md#r-ee) · [西班牙（ES） 2](gov-scholarships.md#r-es) · [全球（GLOBAL） 2](gov-scholarships.md#r-global) · [中国香港（HK） 2](gov-scholarships.md#r-hk) · [匈牙利（HU） 2](gov-scholarships.md#r-hu) · [爱尔兰（IE） 2](gov-scholarships.md#r-ie) · [韩国（KR） 2](gov-scholarships.md#r-kr) · [葡萄牙（PT） 2](gov-scholarships.md#r-pt) · [斯洛伐克（SK） 2](gov-scholarships.md#r-sk) · [奥地利（AT） 1](gov-scholarships.md#r-at) · [AZ 1](gov-scholarships.md#r-az) · [比利时（BE） 1](gov-scholarships.md#r-be) · [以色列（IL） 1](gov-scholarships.md#r-il) · [印度（IN） 1](gov-scholarships.md#r-in) · [冰岛（IS） 1](gov-scholarships.md#r-is) · [意大利（IT） 1](gov-scholarships.md#r-it) · [墨西哥（MX） 1](gov-scholarships.md#r-mx) · [马来西亚（MY） 1](gov-scholarships.md#r-my) · [荷兰（NL） 1](gov-scholarships.md#r-nl) · [挪威（NO） 1](gov-scholarships.md#r-no) · [塞尔维亚（RS） 1](gov-scholarships.md#r-rs) · [瑞典（SE） 1](gov-scholarships.md#r-se) · [中国台湾（TW） 1](gov-scholarships.md#r-tw) · [UY 1](gov-scholarships.md#r-uy)
 
 <a id="r-fr"></a>
 
@@ -23,7 +23,7 @@
 | [IP Paris 与 CSC 联合博士资助项目](https://www.ip-paris.fr/en/education/international/cooperation-china)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | —<br><sub>页面写申请时段为 11 月 8 日至次年 1 月 6 日（正文写 2025 年），导师课题需在每年 10 月 15 日前提交至 ADUM；以当年官网为准。</sub> | ✅ | **要求：** 中国大陆国籍；需先获 IP Paris 博士录取，再走 CSC 与学校双重流程<br>面向中国学生的 CSC–IP Paris 合作博士项目：须先获 IP Paris 博士录取，再通过 CSC 申请资助；官网称每年约 30 名中国学生可获 CSC 资助，资金细则与当年时间以官网为准。 |
 | [Paris-Saclay 大学 · CSC 联合博士项目 2026–2027 征集通知（PDF）](https://www.universite-paris-saclay.fr/sites/default/files/2025-06/appel_csc_2026-2027_fr.pdf)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€1,350/月（页面所载）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026–27 轮学校初审节点（2026 年 2–3 月）已过；2027–28 轮征集待发布，以学校 CSC 页面为准</sub> | ✅ | **要求：** 仅限中国公民（据 2025–26 文件，中国硕士在读生亦可）；所有 CSC 申请须经学校统一征集<br>Paris-Saclay 与 CSC 的联合博士征集文件，仅限中国公民，CSC 申请须通过该校统一征集。2027–2028 批次请关注学校站点。 |
 | [Polytech Côte d'Azur 中国学生 CSC 博士资助](https://polytech.univ-cotedazur.eu/research/phd-funding)<br><sub>法国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>每年 4 月前备齐申请材料（导师提交 ZIP 包），CSC 评审 4–5 月，结果 6 月底公布（页面所列日程）</sub> | ✅ | Polytech Côte d'Azur 面向已获硕士学位的中国学生的 CSC 资助博士，全博士 36–48 个月，联合培养 6–24 个月；学费由实验室或大学尽量减免，CSC 提供生活费，需找到 Polytech 导师共同申请。官网申请材料需在 4 月前备齐，以当年日程为准。 |
-| [Université Paris Cité · Bourse Eiffel 博士 2027-2028 批次](https://u-paris.fr/?p=1511672)<br><sub>法国 ｜ 全学科</sub> | 博士 | 半奖/部分 | **2026-11-02**<br><sub>🟢 开放申请</sub><br><sub>据搜索摘要，博士申请在巴黎城市大学提交的时间为 2026-10-12 至 2026-11-02；请以校方页面为准。</sub> | 🟡 | **要求：** 外国籍（非法国国籍），35 岁以下；须先与拟合作导师联系并由接收院校提名，学生不能直接申请<br>Eiffel 为法国政府奖学金的院校征集渠道，名额由学校提名、数量有限。2027 轮博士申请 2026-10-12 至 2026-11-02，经学校统一提交至 Campus France；12 月 1–4 日通知预选结果。月津贴金额以 Campus France 或 Paris Cité 2027 页面为准。 |
+| [Université Paris Cité · Bourse Eiffel 博士 2027-2028 批次](https://u-paris.fr/?p=1511672)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>2000 欧元/月，免学费</sub> | **2026-11-02**<br><sub>🟢 开放申请</sub><br><sub>据搜索摘要，博士申请在巴黎城市大学提交的时间为 2026-10-12 至 2026-11-02；请以校方页面为准。</sub> | 🟡 | **要求：** 外国籍（非法国国籍），35 岁以下；须先与拟合作导师联系并由接收院校提名，学生不能直接申请<br>Eiffel 为法国政府奖学金的院校征集渠道，名额由学校提名、数量有限。2027 轮博士申请 2026-10-12 至 2026-11-02，经学校统一提交至 Campus France；12 月 1–4 日通知预选结果。月津贴金额以 Campus France 或 Paris Cité 2027 页面为准。 |
 | [巴黎城市大学 · CSC 博士征集 2026（PDF）](https://u-paris.fr/doctorat/wp-content/uploads/sites/10/2026/03/Appel_CSC_2026_CED-1.pdf)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>约 €1,350 净/月（页面所载）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请 3 月 13 日开放，3 月 24 日 18:00 截止（已过）；2027 轮通常次年 3 月前后开放，未见公告</sub> | ✅ | 巴黎城市大学 CSC 博士：仅限中国公民，适用所有学科；由 CSC 发放生活费（约 €1,350/月）；外语水平须满足研究团队工作语言要求。2026 轮已截止。 |
 | [巴黎高师（ENS-PSL）与国家留学基金委合作博士名额](https://ens.psl.eu/en/une-formation-d-exception/formations/echanges-internationaux/other-exchange-programs-and)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€1,350/月（页面 2025–26 所载）</sub> | 未公布<br><sub>🔜 即将开放</sub><br><sub>2027–28 轮：ENS 博士生申请截止 2027 年 2 月 8 日（12 月 7 日起接收），CSC 平台申请约 2027 年 3 月中下旬（页面所列日程）</sub> | ✅ | **要求：** 最长 4 年；合作项目 20 名博士生名额（页面所载）<br>ENS–CSC 博士合作：中国公民或永久居民，最长 4 年，月津贴约 €1,350（ENS 2024 年公告所载）；名额在 ENS 集团内由 ENS 与 CSC 共同遴选；博士毕业须回国。 |
 | [法国 Eiffel 卓越奖学金（Campus France）](https://www.campusfrance.org/en/eiffel-scholarship-program-of-excellence)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2027–28 轮：各法国高校校内提交截止不同（如巴黎城市大学博士 10 月 12 日至 11 月 2 日、Assas 10 月 19 日至 11 月 5 日），Campus France 国家提交截止约 2027 年 1 月 6 日，以 Campus France 官网为准。</sub> | ❔ | **要求：** 需硕士学位，博士申请者年龄不超过 35 岁；学生不能直接向 Campus France 申请，须由法国高校提交。<br>2026–27 轮已于 1 月 8 日截止。2027–28 轮已开放：巴黎城市大学内部申请为 10 月 12 日至 11 月 2 日，Assas 大学为 10 月 19 日至 11 月 5 日，Campus France 最终期限约为 2027 年 1 月；申请须由法国高校提交，博士生资助需与法国高校的共培养协议挂钩，以 Campus France 官网为准。 |
@@ -33,7 +33,7 @@
 
 <a id="r-jp"></a>
 
-## 日本（JP）（13）
+## 日本（JP）（14）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -42,6 +42,7 @@
 | [JST SPRING（博士生支援项目）](https://www.jst.go.jp/jisedai/spring/en/)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>⏸ 本轮已截止</sub> | 🟡 | **要求：** 需在日本大学攻读博士并通过所在大学申请；2025 年后新选拔的外国留学生不发放生活费，仅可获研究费，以学校最新通知为准<br>JST SPRING 资助在日本读博士的学生，经所在大学申请。据 JST 2025 年 8 月公告，文部科学省决定不再向新选拔的外国留学生发放生活费，外国学生仅可获研究费（已获选者不受影响）；2027 财年细则未在官网核实，以学校通知为准。 |
 | [NAIST 文部科学省（MEXT）奖学金申请指南（博士）](https://www.naist.jp/en/international_students/prospective_students/financial_support/mext_application_guidelines.html)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>¥145,000/月（博士，2025 年度参考，以当年为准）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>使馆初筛约 7 月，博士入学约 10 月；每年以当年指南为准</sub> | ❔ | **要求：** 需硕士学位（或经校方预筛认可）；具备日语或英语交流能力；需先联系实验室导师；须经使馆或大学推荐<br>NAIST 博士生 MEXT 奖学金，免学费与入学费，月额约 ¥145,000（2025 年度参考），含往返机票。需经使馆或大学推荐，名额有限，需提前与导师联系；中国大陆申请渠道以使馆通知为准。 |
 | [东京大学 Global Komaba 使馆推荐 MEXT 研究生（2027 入学）说明](https://www.globalkomaba.c.u-tokyo.ac.jp/en/inbound/admissions/2027_ER_EN.html)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-09-01**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 年入学材料截止 2026-09-01（已过）；2028 年轮次未见公告</sub> | ❔ | **要求：** 须先通过驻外日本使馆/领事馆初选（使馆推荐路线）；需选定拟指导教授<br>使馆推荐路线操作说明，先以研究生身份入学再考入学考试；2027 年度申请 2026-09-01 已过期，关注 2028 入学通知. |
+| [东京科学大学 MEXT 大学推荐（一般/优先）博士](https://www.titech.ac.jp/english/international-student-exchange/prospective-students/scholarships/mext-university-general)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>摘要称一般 MEXT 大学推荐申请约在每年 9 月中旬至 11 月下旬，对应次年 10 月入学；以当年官网为准</sub> | ❔ | **要求：** 需通过学校推荐；学历与国籍条件以当年 MEXT 指南和学校公告为准，中国大陆学生需先核实；搜索未找到 Science Tokyo 2027 年官方指南<br>页面称 MEXT 不再受理 2026 年起的一般类（General）大学推荐，仅余优先类（Priority）名额，且 75% 以上被推荐者来自 MEXT 指定国家；津贴最高 148,000 日元/月，申请期为入学前一年 9 月中旬至 11 月下旬。 |
 | [东京科学大学博士生支援项目（FY2026 起替代 SPRING）](https://www.spring-boost.i.isct.ac.jp/en/topics/135427/)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>180,000 日元/月（研究奖励金，年 2,160,000 日元）另加年 300,000 日元研究经费</sub> | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 为本校博士课程学生提供的支援；国际生资格以该校公告为准，搜索未见国籍限制<br>SPRING 2025 年度结束，FY2026 起由东京科学大学自有的博士生支援项目承接（SPRING 受援者自动转入）。该校称 FY2027 计划维持同等规模，FY2028 起新计划待定。2027 入学条件以该校公告为准，国际生资格未核实，保留 check。 |
 | [京都大学 MEXT 奖学金说明](https://www.kyoto-u.ac.jp/en/education-campus/procedures/scholarships/mext.html)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>使馆路线通常前一年 4–5 月进行初筛，具体以日本驻华使馆公告为准。</sub> | ✅ | **要求：** 博士阶段；须经驻华使馆 MEXT 选拔（笔试+面试）或大学推荐；中国学生在使馆路线下的名额与截止以当年 MEXT 与使馆公告为准。<br>京都大学 MEXT 奖学金说明页：中国学生的第一轮初审由中国教育部负责，之后需取得京大教授的临时录取函；具体日程与名额以中国教育部及京大官网公告为准。 |
 | [京都大学理学研究科 MEXT 奖学金申请说明](https://www.sci.kyoto-u.ac.jp/en/admissions/mext)<br><sub>日本 ｜ 物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>以当年 MEXT 指南为准（学费全免加月额补助）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>使馆推荐需约 1–1.5 年前开始准备；使馆初筛通常夏季，以当年指南为准（2027 批次窗口已过）</sub> | ❔ | **要求：** 需先联系目标导师取得预录取（provisional acceptance）；可经驻外使领馆推荐或大学推荐申请<br>京都大学理学研究科 MEXT 奖学金入学说明，覆盖学费与月生活费。理学研究科多经使馆推荐录取，需先联系导师；2027 批次窗口已过，下一轮以使馆通知与校方页面为准。 |
@@ -71,7 +72,7 @@
 
 <a id="r-ca"></a>
 
-## 加拿大（CA）（9）
+## 加拿大（CA）（10）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -82,6 +83,7 @@
 | [安大略研究生奖学金 OGS（国际生名额，2026-27 学年）](https://csb.utoronto.ca/wp-content/uploads/2025/12/2026-2027-CSB-OGS-information.pdf)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | —<br><sub>⏸ 本轮已截止</sub><br><sub>该页（U of T 细胞与系统生物学系）2026-27 轮：一般申请截止 2026-04-15，国际生截止 2026-03-11（均已过）。</sub> | 🟡 | 安省研究生奖学金国际名额：每学期 C$5,000，全年最高 C$15,000；须为在安大略就读的全日制博士并持有效学习许可，由院系提名。 |
 | [安大略研究生奖学金（OGS）国际生配额](https://gradstudents.carleton.ca/ogs/)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | **2026-11-16**<br><sub>🔜 即将开放</sub><br><sub>Carleton 校内学生申请截止 2026-11-16 23:59；推荐信截止 2026-12-02；2027 年 4 月公布结果</sub> | 🟡 | 安省研究生奖学金（OGS）：最高 CAD 15,000/年（每学期最多 5,000）；国际生需持安大略省学习许可并全日制就读，名额受省级配额限制，由院系提名。截止日取自 Carleton，其他院校不同。 |
 | [阿尔伯塔研究生卓越奖学金（AGES）](https://studentaid.alberta.ca/scholarships/alberta-graduate-excellence-scholarship/)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | 🟡 | 政策手册称国际生在阿省合格院校全日制就读可申，1.1–1.5 万加元，由学校推荐；个别学校页面写仅限公民/永居，以所在校为准。 |
+| [魁北克外国学生卓越奖学金（PBEEE）](https://frq.gouv.qc.ca/app/uploads/2026/07/pbeee_2027-2028_instructions_preselection.pdf)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | —<br><sub>🔜 即将开放</sub><br><sub>2027–28 周期：须先由魁北克高校或 CCTT 网络预选，各校预选截止不同；FRQ 正式申请截止以当期文件为准</sub> | ❔ | **要求：** 须由魁北克大学预选；面向外国学生与研究人员；以 FRQNT 最新文件为准<br>魁北克 PBEEE 卓越国际研究奖学金：须由魁北克大学或 CCTT 网络预选；部分指定国家有名额配额，公民身份与居留资格以 FRQ 文件为准。 |
 | [魁北克外国学生博士奖学金 PBEEE（FRQNT，2026-27 批次）](https://frq.gouv.qc.ca/app/uploads/2025/07/8.pbeee_2026-2027_vf-approuvee_abida-1.pdf)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>博士奖学金年额 25 000 $（前 9 个学期），延期后为 12 000 $（最后 3 个学期）；最长 12 个学期，累计最高 87 000 $；另免除高额学费并提供医保</sub> | **2025-12-02**<br><sub>⏸ 本轮已截止</sub> | ✅ | **要求：** 须先经大学预选；非加拿大公民或永久居民<br>由魁北克政府出资、FRQ 管理的外国学生博士奖学金。页面称设面向所有国家学生的开放类别，并设 Québec-Chine 专项（1C）。2026-27 批次申请截止为 2025 年 12 月 2 日（16:00）。 |
 | [魁北克政府国际生博士卓越奖学金（PBEEE）](https://frq.gouv.qc.ca/en/program/merit-scholarship-program-for-foreign-students-pbeee-2026-2027/)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>博士研究奖学金每年 CAD 25,000（前 9 个学期），另免除外国学生高额学费及 RAMQ 医保费用</sub> | 未公布<br><sub>页面所列 2026-2027 项目日期：高校预选送交 FRQ 2025-10-23，候选人提交 2025-12-02，CSC 预选 2026-03-31 前</sub> | 🟡 | **要求：** 须为非加拿大公民或永久居民的国际生；需已被魁北克高校博士项目录取。<br>通用名额对所有国家学生开放，另设面向中国、巴西、印度、以色列等的专项名额，名额有限。博士研究奖学金约 CAD 25,000/年（旧数据，需核实）。 |
 
@@ -101,6 +103,19 @@
 | [莱布尼茨研究生院（Leibniz Graduate Schools）奖学金](https://www.research-in-germany.org/en/research-funding/funding-programmes/leibniz-graduate-schools-and-leibniz-sciencecampi.html)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>奖学金每月 1,150–1,450 欧元；或工作合同（通常兼职，全职约每月 4,400 欧元税前）</sub> | 各项目不同<br><sub>各研究生院或研究所各自招生，无统一截止日</sub> | ❔ | **要求：** 需相当于德国硕士的优秀大学学位，并具备所属研究生院相应学科的学术资格（或在 6 个月内达到）；申请直接提交相应莱布尼茨研究所<br>页面称奖学金按资格发放，最长 3 年；工作合同通常 2–3 年并可延长。各研究所或研究生院单独发布岗位与截止日。页面未写明国籍限制。 |
 | [莱比锡大学 GSGAS DAAD 研究生院奖学金（GSSP）](https://sozphil.uni-leipzig.de/fileadmin/Fakult%C3%A4t_SozPhil/CfA_DAAD_Graduate_School_Scholarship_Programme_2025.pdf)<br><sub>德国 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€1,300/月（含保险与研究津贴，最长 48 个月）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 批次截止 2025-11-15（已过）；下一轮以 GSGAS 官网或联系人为准</sub> | 🟡 | **要求：** 国际申请者（未在德国居住超过 15 个月）；硕士毕业不超过 6 年；每轮名额很少，需先经 GSGAS 推荐，再由 DAAD 决定<br>莱比锡大学 GSGAS DAAD 研究生院奖学金（GSSP）博士月补助约 1300 欧元（含保险与研究津贴），两步申请。2026 批次已结束，下一轮时间以 GSGAS 官网为准。原链接为 2025 年 PDF 公告。 |
 
+<a id="r-us"></a>
+
+## 美国（US）（6）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [DOE Computational Science Graduate Fellowship（经高校页面介绍）](https://onsa.asu.edu/scholarship/doe-computational-science-graduate-fellowship)<br><sub>美国 ｜ 计算机·工程·数学/统计·物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>最近一轮 2025-01-16 截止；2027 年度以 Krell 当年公告为准</sub> | ⛔ | **要求：** 须为美国公民或永久居民；需全职攻读美国高校博士<br>据 Krell 官方 FAQ，申请人须为美国公民或永久居民，中国大陆学生不符合资格。 |
+| [DOE 科学办公室研究生研究项目（SCGSR）资格页](https://science.osti.gov/wdts/scgsr/Eligibility)<br><sub>美国 ｜ 物理/天文·化学/材料·地球/环境/海洋·工程·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ⛔ | **要求：** 申请时须为美国公民或永久居民；F-1 学生不符合；须在美国高校全日制攻读 PhD 且已获候选资格<br>申请人须为美国公民或永久居民，F-1 不符合，中国大陆学生无法申请；列出仅供了解限制. |
+| [NDSEG Fellowship（美国国防部）](https://ndseg.org/eligibility)<br><sub>美国 ｜ 工程·数学/统计·物理/天文·化学/材料·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ⛔ | **要求：** 须为美国公民或国民（双重国籍符合条件）；永久居民及他国公民不符合；录取前需提供公民身份证明。<br>NDSEG 官方资格页：申请人须为美国公民、国民或双重国籍等，非美籍（含中国大陆学生）通常不符合，仅作了解；截止时间以官网当年公告为准。 |
+| [NIGMS T32 培训项目常见问题（受训者资格）](https://www.nigms.nih.gov/training/instpostdoc/Pages/t32-postdoc-faqs)<br><sub>美国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各 T32 培训项目由院校自行设定截止日期；本 FAQ 无统一截止</sub> | ⛔ | **要求：** T32 受训者须为美国公民、非公民国民或永久居民；持临时签证者不符合。<br>FAQ 明确 T32 受训者须在任命时为美国公民、非公民国民或永久居民；持临时签证、庇护/难民身份或 DACA 的人员不能获得 NRSA 类支持。中国大陆学生的资金需依靠导师、院系或校级奖学金，申请前可据此筛选学校。 |
+| [NIGMS 预博士基础生物医学 T32 培训项目（各校名单入口）](https://www.nigms.nih.gov/training/instpredoc/Pages/default)<br><sub>美国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ⛔ | NIGMS 资助的 T32 项目（PAR-23-228）覆盖 12 个基础生物医学方向，各校按方向竞争名额。多数受训者须为美国公民、非公民国民或永久居民，持学生签证者通常拿不到 T32 津贴；但有些学校设非 T32 名额，可在录取后问项目。 |
+| [NSF GRFP（仅作提醒）](https://www.nsfgrfp.org/)<br><sub>美国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ⛔ | **要求：** 仅限美国公民、国民或永久居民，中国大陆学生不符合；申请时不得持有博士学位，申请窗口限读研第 1–2 年。<br>仅限美国公民/永久居民。美国 PhD 的资助通常来自录取院系（TA/RA/Fellowship），不依赖政府奖学金。 |
+
 <a id="r-au"></a>
 
 ## 澳大利亚（AU）（5）
@@ -115,12 +130,13 @@
 
 <a id="r-pl"></a>
 
-## 波兰（PL）（3）
+## 波兰（PL）（4）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Bekker NAWA 项目（波兰国家学术交流署，博士生与青年学者）](https://nawa.gov.pl/en/nawa/news/call-for-applications-for-the-bekker-nawa-programme-now-open)<br><sub>波兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | **2026-05-29**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年一轮申请截止为 2026-05-29 15:00（波兰时间）；页面未说明下一轮时间，需以 NAWA 公告为准。</sub> | ❔ | **要求：** 页面称面向波兰科学与学术机构的研究人员，博士生可通过在合作单位完成部分博士教育或收集研究材料参与；申请须全部用英文撰写，经 NAWA ICT 系统提交。<br>NAWA（波兰国家学术交流署）Bekker 项目本轮征集，资助赴合作单位开展研究，项目开始时间为 2027 年 3 月 1 日至 10 月 1 日之间；申请已于 2026-05-29 截止。 |
 | [NAWA Zawacka 项目（博士生赴波兰，合作院校推荐）](https://nawa.gov.pl/en/international-cooperation-and-exchange/zawacka-nawa/incoming)<br><sub>波兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 未公布<br><sub>🟢 开放申请</sub><br><sub>2026/27 批次公告编号 11/2026，发布于 2026-03-10；须经双边协议下的合作院校推荐，具体截止以合作院校与公告为准，当前是否仍开放未核实。</sub> | ❔ | **要求：** 须由与波兰有双边协议的合作院校推荐，不直接向 NAWA 投递；公告附录列出合作国家与院校。<br>资助最长 12 个月。中国学生需先确认所在机构是否在名单内。 |
+| [NAWA Zawacka 项目（外国学生与博士生来波兰，2026/27 入境公告）](https://www.nawa.gov.pl/images/ZAWACKA-NAWA/2026/ENG_Zawacka-NAWA-Announcement---Incoming-Offer-for-2026-2027-No.-11_2026-dated-March-10-2026.pdf)<br><sub>波兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 未公布<br><sub>📋 持续更新</sub><br><sub>2026/27 入境公告 No. 11/2026（2026-03-10 发布）；截止日期以公告附录为准。</sub> | ❔ | **要求：** 据公告经双边协议框架下的合作院校推荐/遴选，不能个人直接申请；学历与语言以公告为准<br>可申请博士学院学习或博士生科研访问；资助形式与金额见公告。申请前先确认国内合作院校名额。 |
 | [波兰 NCN PRELUDIUM（未取得博士学位者）](https://ncn.gov.pl/en/ogloszenia/konkursy/preludium25)<br><sub>波兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-06-16**<br><sub>⏸ 本轮已截止</sub><br><sub>PRELUDIUM 25 轮 2026 年 6 月 16 日 14:00 已截止；2027 轮待 ncn.gov.pl 公告</sub> | ❔ | **要求：** 申请时未取得博士学位；外籍申请者资格以 NCN 当期指南为准<br>12–36 个月项目，最高约 21 万兹罗提；2026 轮 6-16 截止，关注 2027 轮，外国申请者资格看 NCN 指南. |
 
 <a id="r-sg"></a>
@@ -133,15 +149,24 @@
 | [A*STAR 国家科学奖学金（NSS PhD）](https://www.a-star.edu.sg/scholarships/home/scholarships/national-science-scholarship-(phd))<br><sub>新加坡 ｜ 生物/生命科学·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>🔜 即将开放</sub><br><sub>申请窗口以官网为准</sub> | ⛔ | **要求：** 官网限定新加坡公民；须本科一等或良好学位及海外博士录取<br>新加坡全额 PhD 奖学金，含生物信息学，需研究实习并承担服务期。资格与下一轮时间以官网为准。 |
 | [新加坡 A*STAR 研究生奖学金（AGS）](https://www.a-star.edu.sg/scholarships/home/scholarships/ags--scholarship)<br><sub>新加坡 ｜ 工程·计算机·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>国际生月津贴 $3,600（STEM）/ $5,000（专项方向），币种页面未注明</sub> | —<br><sub>🔜 即将开放</sub><br><sub>页面列两个申请窗口：11 月 1 日至次年 2 月 1 日，以及 6 月 1 日至 8 月 10 日；以官网当年公告为准。</sub> | 🟡 | **要求：** 非新加坡公民/永久居民须已完成或即将完成新加坡自主大学学位，并获该校博士录取；非 SPR 须履行约 3 年在新加坡的服务承诺<br>覆盖 STEM、计算、量子、半导体四条线，资助最长 4 年博士，含学费、月津贴及最长 12 个月海外实习。非新加坡公民须获新加坡自主大学（如 NUS、NTU、SMU 等）博士录取，即只能通过在新加坡就读的路线申请。官方页面列出两个申请窗口：11 月 1 日至次年 2 月 1 日，以及 6 月 1 日至 8 月 1 日；以官网为准。 |
 
-<a id="r-us"></a>
+<a id="r-tr"></a>
 
-## 美国（US）（3）
+## 土耳其（TR）（3）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
-| [DOE Computational Science Graduate Fellowship（经高校页面介绍）](https://onsa.asu.edu/scholarship/doe-computational-science-graduate-fellowship)<br><sub>美国 ｜ 计算机·工程·数学/统计·物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>最近一轮 2025-01-16 截止；2027 年度以 Krell 当年公告为准</sub> | ⛔ | **要求：** 须为美国公民或永久居民；需全职攻读美国高校博士<br>据 Krell 官方 FAQ，申请人须为美国公民或永久居民，中国大陆学生不符合资格。 |
-| [DOE 科学办公室研究生研究项目（SCGSR）资格页](https://science.osti.gov/wdts/scgsr/Eligibility)<br><sub>美国 ｜ 物理/天文·化学/材料·地球/环境/海洋·工程·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ⛔ | **要求：** 申请时须为美国公民或永久居民；F-1 学生不符合；须在美国高校全日制攻读 PhD 且已获候选资格<br>申请人须为美国公民或永久居民，F-1 不符合，中国大陆学生无法申请；列出仅供了解限制. |
-| [NDSEG Fellowship（美国国防部）](https://ndseg.org/eligibility)<br><sub>美国 ｜ 工程·数学/统计·物理/天文·化学/材料·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ⛔ | **要求：** 须为美国公民或国民（双重国籍符合条件）；永久居民及他国公民不符合；录取前需提供公民身份证明。<br>NDSEG 官方资格页：申请人须为美国公民、国民或双重国籍等，非美籍（含中国大陆学生）通常不符合，仅作了解；截止时间以官网当年公告为准。 |
+| [TÜBİTAK 2215 国际研究生奖学金（土耳其，博士）](https://fens.sabanciuniv.edu/en/announcements/detail/48738)<br><sub>土耳其 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | — | ❔ | **要求：** 面向国际学生；2026 年征集未确认，申请前以官网公告为准<br>TÜBİTAK 2215 国际研究生奖学金，面向在土耳其攻读研究生的国际学生，含月津贴、学费上限与学生本人医保。未找到 2026 年征集，金额以官网为准。 |
+| [TÜBİTAK 2216 国际研究者研究奖学金](https://tubitak.gov.tr/en/scholarships/postdoctoral/international-scholarships/2216-research-fellowship-programme-international-researchers)<br><sub>土耳其 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 仅生活费 | —<br><sub>⏸ 本轮已截止</sub><br><sub>通用 2216 官网显示当前不接受申请；下一轮以 TÜBİTAK 公告为准</sub> | ✅ | **要求：** 须为外国公民，已注册境外博士项目，需土耳其大学或研究机构邀请；截止时不超过 35 岁；提供月津贴、差旅与医保，最长 36 个月<br>面向外国籍国际博士生与青年博士后到土耳其研究，提供月津贴、差旅与医保，最长 36 个月。通用 2216 当前关闭，请关注 TÜBİTAK 下一轮公告。 |
+| [土耳其政府奖学金 Türkiye Scholarships（PhD）](https://www.turkiyeburslari.gov.tr/sayfa/fully-funded-phd-scholarships-in-turkiye-for-international-students-102)<br><sub>土耳其 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>官网 PhD 奖学金页面面向国际学生；搜索结果中可见的截止日期为旧周期（2024 年 2 月 20 日），2026/27 轮截止日未确认，以 turkiyeburslari.gov.tr 当年公告为准。</sub> | ✅ | **要求：** 面向国际申请人，只能通过官网在线申请；年龄与学业成绩门槛以当年公告为准（检索到的旧说明有年龄上限，不可直接沿用）。<br>页面列明官方奖学金覆盖学费、月津贴、住宿、医保，并含一年土耳其语课程；页面称多数申请通过相应大学或奖学金门户在线提交，主要申请窗口通常在早春或秋季开放，以当年公告为准。 |
+
+<a id="r-ar"></a>
+
+## 阿根廷（AR）（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [CONICET 博士内部奖学金（Becas Internas Doctorales）2026 轮](https://www.conicet.gov.ar/tag/convocatoria-becas-2026/)<br><sub>阿根廷 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-08-21**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请期 7 月 27 日至 8 月 21 日（已截止），自 2027 年 4 月 1 日起生效；下一轮预计 2027 年夏季</sub> | ❔ | **要求：** 需已获学士学位，或申请时仅欠不超过 5 门课；外籍获奖者须按规定办理入境手续；CONICET 不承担机票与移民费用；外籍资格以 2026 bases 为准<br>阿根廷国家科研机构博士奖学金，需在阿根廷境内读博，语言为西语；外国人资格与金额以当年官方 bases 为准。 |
+| [布宜诺斯艾利斯省 CIC × 莫龙大学合作博士奖学金 UM26](https://www.cic.gba.gob.ar/wp-content/uploads/2026/05/UM-Bases-Becas-Cofinanciadas-CIC-UM26.pdf)<br><sub>阿根廷 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-05-31** | ⛔ | **要求：** 仅限布宜诺斯艾利斯省国立大学的毕业生；工作须在莫龙大学开展；申请经 SIGEVA 系统提交<br>CIC 与莫龙大学合作的单一名额博士奖学金（UM26），仅面向布宜诺斯艾利斯省国立大学毕业生，研究须在莫龙大学完成。中国大陆申请人基本不符合资格；截止日与金额需看 bases。 |
 
 <a id="r-ch"></a>
 
@@ -179,6 +204,15 @@
 | [FPU 大学教师培养预博士合同（西班牙科学与创新部 / AEI）](https://www.aei.gob.es/en/announcements/announcements-finder/ayudas-contratos-fpu-2026/convocatoria)<br><sub>西班牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-11-12**<br><sub>🔜 即将开放</sub><br><sub>个人申请表截止 2026-11-12 14:00（半岛时间）；研究中心提交截止 2026-11-20 14:00（半岛时间）。</sub> | ❔ | **要求：** 需持附件 III.1 所列学位，并在 2026/27 注册或获得西班牙博士项目录取（可在申请后、合同签订前完成）；外国学位需学历等效认证；国籍条件未核实<br>西班牙科学与创新部 AEI 官网公告（2026 年 9 月 29 日发布）：FPU 2026 预博士合同；个人表格期限为 2026 年 10 月 20 日至 11 月 12 日 14:00，研究中心提交期限为 11 月 20 日 14:00（半岛时间）。页面未写明国籍条件。 |
 | [UPV-CSC 联合博士奖学金 · 瓦伦西亚理工大学](https://www.upv.es/entidades/vic/en/csc-joint-scholarship-program/)<br><sub>西班牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026-27 轮申请截止 2026-02-20（页面所示），已结束；下一轮待 UPV 公布</sub> | ✅ | **要求：** 限中国国籍；2026 年 9 月 15 日前取得硕士学位或同等学历；满足所申请博士项目的录取要求；英语或西班牙语 B2 以上；满足 CSC 资助要求；学成后须回国<br>瓦伦西亚理工大学与国家留学基金委合作，最多 10 个全额博士资助；学校免注册费，CSC 提供月津贴（含医保）及往返经济舱机票。2026-27 轮申请截止为 2026 年 2 月 20 日，已结束。 |
 
+<a id="r-global"></a>
+
+## 全球（GLOBAL）（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [CNPq/CAPES/MRE 公共征集 16/2026 · PEC-PG 外国学生硕博奖学金（巴西）](https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-16-2026/ChamadaPblica_CNPq_CAPES_MRE_16_2026_2717524.pdf)<br><sub>全球 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 未公布<br><sub>🔜 即将开放</sub><br><sub>本轮由院校先申请名额，学生待获批院校公布遴选；以公告为准</sub> | ❔ | **要求：** 须来自 PEC-PG 参与国清单的外国公民；由获批的巴西院校/项目遴选学生，不能直接向 CNPq 申请<br>PEC-PG 是巴西政府给发展中国家学生的读博奖学金。中国是否在参与国名单上须在外交部/CAPES 页面核实；金额以公告为准。 |
+| [韩国国际交流财团（KF）韩国学研究生奖学金](https://en.kf.or.kr/?menuno=3793)<br><sub>全球 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>按地区安排：北美与欧洲由个人通过 apply.kf.or.kr 申请，北美窗口通常为每年 1–2 月；2027 轮以官网公告为准。</sub> | ❔ | **要求：** 面向在海外大学攻读韩国学相关硕博的非韩国籍申请人；中国籍是否符合未确认。<br>KF 为海外韩国学硕博生提供的奖学金，博士最长可资助 3 年，不能与其他韩国机构资助叠加；金额未见，需看当年公告。 |
+
 <a id="r-hk"></a>
 
 ## 中国香港（HK）（2）
@@ -187,6 +221,15 @@
 | --- | --- | --- | --- | :-: | --- |
 | [CUHK 研究生院 HKPFS 宣传册](https://www.gs.cuhk.edu.hk/download/HKPFS_Leaflet.pdf)<br><sub>中国香港 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>🔜 即将开放</sub> | ✅ | CUHK HKPFS 2027–2028 宣传册，列出学费豁免、生活津贴、住宿津贴及会议与研究差旅津贴；CUHK 欢迎 2027–2028 学年的 HKPFS 申请。 |
 | [香港博士研究生奖学金计划（HKPFS）](https://cerg1.ugc.edu.hk/hkpfs/index.html)<br><sub>中国香港 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>HKD 28,700/月（另有每年差旅津贴）</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>2026 年 9 月 1 日开放申请；RGC 初步申请 12 月 1 日截止，之后需向院校提交正式申请。</sub> | ✅ | **要求：** 新入学全日制博士生；需先在 HKPFS 系统取得参考号再申请院校；已在读博士者不可申请。<br>页面写明 2026/27 学年年津贴 HK$344,400（约每月 HK$28,700），另有每年 HK$14,400 会议与研究差旅津贴（最多三年）；2027/28 学年将授出 400 个博士奖学金。 |
+
+<a id="r-hu"></a>
+
+## 匈牙利（HU）（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Stipendium Hungaricum 2026/27 申请公告（匈牙利政府奖学金，含博士）](https://stipendiumhungaricum.hu/news/application-is-on-for-the-2026-2027-stipendium-hungaricum-scholarship/)<br><sub>匈牙利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-01-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 轮截止 2026-01-15 已过；2027/28 轮未见公告，以官网为准。</sub> | ❔ | **要求：** 须符合项目学历和语言条件；博士阶段需在线注册后按院校要求提交材料。<br>匈牙利政府 Stipendium Hungaricum 项目，覆盖学费与生活补助，博士项目可申请。 |
+| [匈牙利 Stipendium Hungaricum 博士项目（ELTE 页面）](https://wwwold.elte.hu/en/stipendium-hungaricum)<br><sub>匈牙利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 博士轮 2026 年 1 月 15 日已截止；2027/28 轮官方公告未找到，通常 11 月前后开放，以 Tempus / 官网为准</sub> | ❔ | 匈牙利政府奖学金（Stipendium Hungaricum）博士项目，通常 2+2 年。资格依据双边教育协议与国籍，并非所有国家都可申请。2026/27 博士轮截止 2026 年 1 月 15 日已过；2027/28 轮官方公告尚未找到，请以官网与 Tempus 公告为准。 |
 
 <a id="r-ie"></a>
 
@@ -215,22 +258,14 @@
 | [FCT 2026 博士奖学金竞赛官方公告（葡萄牙）](https://www.fct.pt/wp-content/uploads/2026/02/2026_02_23_Nota_de_Impensa_Concurso-Bolsas-de-Doutoramento-2026.pdf)<br><sub>葡萄牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请期为 3 月 2–31 日（FCT 新闻稿，2026-02-23），已结束；2027 轮待 FCT 公告</sub> | ❔ | FCT 新闻稿（2026-02-23）称 2026 年博士奖学金竞赛共 1,600 个奖学金，其中一般线 1,000 个、非学术环境 600 个，申请期为 3 月 2 日至 31 日。外国申请者资格未在该文件中说明，以正式公告为准。 |
 | [葡萄牙 FCT 博士奖学金（2026 轮，一般线与非学术线）](https://www.fct.pt/en/concursos/concurso-bolsas-de-doutoramento-2026-linha-de-candidatura-especifica-em-ambiente-nao-academico/)<br><sub>葡萄牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 3 月 2–31 日已截止（一般线与非学术线）；2027 轮日期未公布</sub> | ❔ | **要求：** 需已录取或符合攻读博士学位的入学条件；须有葡萄牙或外国学术接收机构，并与非学术机构合作，在同一非学术接收机构、在葡萄牙开展至少 12 个月（可连续或累计）的工作；外国学位需提交认定或转换证明。<br>FCT 2026 年博士奖学金竞赛非学术线已截止，计划资助 1,600 个奖学金，其中 600 个在非学术环境；临时结果于 2026 年 7 月 31 日公布。页面称可在 FCT 列出的非学术机构中寻找接收机构，并直接联系对方制定工作计划。 |
 
-<a id="r-tr"></a>
+<a id="r-sk"></a>
 
-## 土耳其（TR）（2）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [TÜBİTAK 2216 国际研究者研究奖学金](https://tubitak.gov.tr/en/scholarships/postdoctoral/international-scholarships/2216-research-fellowship-programme-international-researchers)<br><sub>土耳其 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 仅生活费 | —<br><sub>⏸ 本轮已截止</sub><br><sub>通用 2216 官网显示当前不接受申请；下一轮以 TÜBİTAK 公告为准</sub> | ✅ | **要求：** 须为外国公民，已注册境外博士项目，需土耳其大学或研究机构邀请；截止时不超过 35 岁；提供月津贴、差旅与医保，最长 36 个月<br>面向外国籍国际博士生与青年博士后到土耳其研究，提供月津贴、差旅与医保，最长 36 个月。通用 2216 当前关闭，请关注 TÜBİTAK 下一轮公告。 |
-| [土耳其政府奖学金 Türkiye Scholarships（PhD）](https://www.turkiyeburslari.gov.tr/sayfa/fully-funded-phd-scholarships-in-turkiye-for-international-students-102)<br><sub>土耳其 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>官网 PhD 奖学金页面面向国际学生；搜索结果中可见的截止日期为旧周期（2024 年 2 月 20 日），2026/27 轮截止日未确认，以 turkiyeburslari.gov.tr 当年公告为准。</sub> | ✅ | **要求：** 面向国际申请人，只能通过官网在线申请；年龄与学业成绩门槛以当年公告为准（检索到的旧说明有年龄上限，不可直接沿用）。<br>页面列明官方奖学金覆盖学费、月津贴、住宿、医保，并含一年土耳其语课程；页面称多数申请通过相应大学或奖学金门户在线提交，主要申请窗口通常在早春或秋季开放，以当年公告为准。 |
-
-<a id="r-ar"></a>
-
-## 阿根廷（AR）（1）
+## 斯洛伐克（SK）（2）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
-| [CONICET 博士内部奖学金（Becas Internas Doctorales）2026 轮](https://www.conicet.gov.ar/tag/convocatoria-becas-2026/)<br><sub>阿根廷 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-08-21**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请期 7 月 27 日至 8 月 21 日（已截止），自 2027 年 4 月 1 日起生效；下一轮预计 2027 年夏季</sub> | ❔ | **要求：** 需已获学士学位，或申请时仅欠不超过 5 门课；外籍获奖者须按规定办理入境手续；CONICET 不承担机票与移民费用；外籍资格以 2026 bases 为准<br>阿根廷国家科研机构博士奖学金，需在阿根廷境内读博，语言为西语；外国人资格与金额以当年官方 bases 为准。 |
+| [斯洛伐克国家奖学金计划（NSP，博士/研究）](https://scholarships.sk)<br><sub>斯洛伐克 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 仅生活费 | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>2026/27 轮已截止；各来源截止日不一，下一轮预计 2027 年初开放（推测），以 scholarships.sk 公告为准</sub> | ❔ | **要求：** 面向国际硕博生、大学教员、研究人员和艺术家；需导师推荐信等材料<br>由 SAIA 管理的短期访学资助（不是学位项目），申请通过 scholarships.sk。 |
+| [斯洛伐克教育部双边奖学金（含中国名额）](https://www.minedu.sk/data/att/b40/34776.b2a337.pdf)<br><sub>斯洛伐克 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同 | 🟡 | **要求：** 个人直接申请无效，需通过中国政府或指定机构推荐<br>斯洛伐克教育部的双边奖学金名单中列入中国，但申请必须通过中方渠道，可先询问国家留学基金委或所在学校的推荐渠道。 |
 
 <a id="r-at"></a>
 
@@ -255,22 +290,6 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [布鲁塞尔自由大学 VUB CSC 博士项目](https://www.vub.be/en/international/csc)<br><sub>比利时 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-01-31**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 秋季入学轮：VUB 网上预申请截止 2026-01-31，CSC 截止 2026-03-31；2027 轮以校方最新页面为准。</sub> | ✅ | **要求：** 须为中国国籍并符合国家留学基金委（CSC）要求；需先联系导师并在线预申请；以校方页面为准<br>涵盖全博士及联合培养博士两类。CSC 提供月生活津贴和国际机票，校方承担学费及（全博士）医疗保险。需尽早与导师沟通。 |
-
-<a id="r-global"></a>
-
-## 全球（GLOBAL）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [韩国国际交流财团（KF）韩国学研究生奖学金](https://en.kf.or.kr/?menuno=3793)<br><sub>全球 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>按地区安排：北美与欧洲由个人通过 apply.kf.or.kr 申请，北美窗口通常为每年 1–2 月；2027 轮以官网公告为准。</sub> | ❔ | **要求：** 面向在海外大学攻读韩国学相关硕博的非韩国籍申请人；中国籍是否符合未确认。<br>KF 为海外韩国学硕博生提供的奖学金，博士最长可资助 3 年，不能与其他韩国机构资助叠加；金额未见，需看当年公告。 |
-
-<a id="r-hu"></a>
-
-## 匈牙利（HU）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [匈牙利 Stipendium Hungaricum 博士项目（ELTE 页面）](https://wwwold.elte.hu/en/stipendium-hungaricum)<br><sub>匈牙利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 博士轮 2026 年 1 月 15 日已截止；2027/28 轮官方公告未找到，通常 11 月前后开放，以 Tempus / 官网为准</sub> | ❔ | 匈牙利政府奖学金（Stipendium Hungaricum）博士项目，通常 2+2 年。资格依据双边教育协议与国籍，并非所有国家都可申请。2026/27 博士轮截止 2026 年 1 月 15 日已过；2027/28 轮官方公告尚未找到，请以官网与 Tempus 公告为准。 |
 
 <a id="r-il"></a>
 
@@ -343,6 +362,22 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [塞尔维亚政府奖学金 World in Serbia](https://welcometoserbia.gov.rs/scholarships)<br><sub>塞尔维亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>RSD 18,000/月（2026–2028 项目说明所载）</sub> | — | ❔ | 世界在塞尔维亚（World in Serbia）项目面向不结盟运动成员或观察员国家的学生（约 127 国，多为亚非拉），提供住宿、餐食、医疗保险和月津贴，博士阶段包括在内。中国是否在名单内未核实，不能依据第三方网站判断，需查官方文件或询问塞尔维亚驻华使馆。 |
+
+<a id="r-se"></a>
+
+## 瑞典（SE）（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [瑞典战略研究基金会（SSF）研究所博士生项目 FID26](https://strategiska.se/app/uploads/sites/2/fid26_en.pdf)<br><sub>瑞典 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-11-30**<br><sub>🟢 开放申请</sub><br><sub>FID26 截止 2026 年 11 月 30 日 14:00（以 SSF 官网活动页为准）</sub> | ❔ | **要求：** 须受雇于瑞典研究机构（至少 80% 聘用），尚未被博士项目录取；研究方向为自然科学、医学或技术<br>SSF 研究所博士生项目 FID26 招募文件。计划资助 8 个项目，每项 SEK 3.25 百万。博士生须受雇于瑞典研究机构，执行 4–5 年。截止日期请以 PDF 为准。 |
+
+<a id="r-tw"></a>
+
+## 中国台湾（TW）（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [台湾教育部台湾奖学金 2026 指南（官方 PDF）](https://www.roc-taiwan.org/uploads/sites/109/2026/01/2026_Taiwan_Scholarship_Program_Guidelines.pdf)<br><sub>中国台湾 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>⏸ 本轮已截止</sub><br><sub>截止日由驻外代表处和各高校分别设定；搜索未找到 2027 入学批次公告，以台湾驻外代表处公告为准</sub> | ⛔ | **要求：** 须先获台湾高校录取再经代表处申请；中国大陆、香港、澳门籍不适用；学费上限 NT$40,000，超出部分自付；学位期间资助总计最长 5 年<br>台湾奖学金（教育部）：官方 2026 指南明确排除中国大陆、香港、澳门学生，中国大陆籍不适用；覆盖学费（上限 NT$40,000）并发放月生活费。 |
 
 <a id="r-uy"></a>
 

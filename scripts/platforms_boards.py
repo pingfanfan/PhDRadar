@@ -8,6 +8,11 @@
   robots.txt 全部允许。
 - LINGUIST List（语言学）：“Support”（博士奖学金）与 “Jobs” 两个 RSS；公告页有 “Application Deadline: 15-Jan-2027” 字段。
   robots.txt 只禁止 AdsBot-Google 与 HTTrack。
+- EGU Jobs（欧洲地球科学联合会招聘板）：岗位页有结构化字段 “Application deadline 3 November 2026” 与 “Salary”；
+  robots.txt 只禁止 /admin/ 等后台路径。写 “Open until the position is filled” 的不收。
+- ELLIS Jobs（欧洲 AI 研究网络）：岗位卡与详情页写 “Apply by 22/10/26” 和 “Career Stage: PhD|Postdoc”；robots.txt 全部允许。
+- FENS Job Market（欧洲神经科学学会）：详情页有 “Position: … Deadline: 29 October 2026”；robots.txt 只禁止 /wp-admin/。
+  正文写明没有截止日期（“no deadline”）的不收。
 - H-Net Job Guide（人文社科）：岗位页有 “Closing Date” 字段；robots.txt 要求 Crawl-delay 5，首次访问需要保存 cookie（Session 自动处理）。
 """
 from __future__ import annotations
@@ -243,6 +248,144 @@ def ll_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, st
     }, "收录"
 
 
+# ───────────────────────── EGU Jobs ─────────────────────────
+
+EGU = "https://www.egu.eu"
+
+
+def egu_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+    seen: dict[str, str] = {}
+    for page in range(1, max_pages + 1):
+        found = re.findall(r'href="(/jobs/(\d+)/([a-z0-9-]+)/)"', f.get(f"{EGU}/jobs/?limit=50&page={page}").text)
+        for path, jid, slug in found:
+            if jid not in seen and re.search(r"ph-?d|doctoral|doctorate|post-?doc|studentship", slug):
+                seen[jid] = EGU + path
+        if len({j for _, j, _ in found}) < 50:  # 每页 50 条，不满一页就是最后一页
+            break
+    return list(seen.items())
+
+
+def egu_field(raw: str, label: str) -> str:
+    m = re.search(rf'text-md-right">{label}</div>\s*<div class="col-md-9">(.*?)</div>', raw, re.S)
+    return re.sub(r"\s+", " ", page_text(m.group(1))).strip() if m else ""
+
+
+def egu_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
+    title = egu_field(raw, "Position")
+    level = level_of(title) or ("postdoc" if re.search(r"post-?doc", title, re.I) else None)
+    if not level:
+        return None, "非博士/博后岗位"
+    when = egu_field(raw, "Application deadline")
+    deadline = parse_day(when)
+    if not deadline:
+        return None, "页面无截止日期"
+    if deadline < today:
+        return None, "已截止"
+    salary = egu_field(raw, "Salary")
+    text = page_text(raw)
+    if _any(_SELF_FUNDED, text) or _any(cp.NOT_FUNDED, text) or not (re.search(r"\d", salary) or _any(_FUNDED, text)):
+        return None, "未写资助或自费"
+    emp = re.search(r'text-md-right">Employer</div>.*?<p>(.*?)</p>', raw, re.S)
+    place = egu_field(raw, "Location")
+    return {
+        "id": f"egu:{jid}", "title": title[:200], "url": url, "org": (page_text(emp.group(1)) if emp else "")[:120],
+        "country": place_country(place), "place": place[:80], "level": level, "deadline": deadline,
+        "quote": f"Application deadline {when}", "funding_for": "", "amount": salary[:200],
+        "cn": cp.cn_of(text), "flags": cp.flags_of(text), "via": "EGU Jobs",
+    }, "收录"
+
+
+# ───────────────────────── ELLIS Jobs ─────────────────────────
+
+ELLIS = "https://ellis.eu"
+
+
+def ellis_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+    seen: dict[str, str] = {}
+    for page in range(1, max_pages + 1):
+        found = re.findall(r'href="(?:https://ellis\.eu)?(/research/jobs/(\d{4}-\d{2}-\d{2}-[a-z0-9-]+))"',
+                           f.get(f"{ELLIS}/research/jobs?page={page}").text)
+        new = [(p, slug) for p, slug in dict.fromkeys(found) if slug not in seen]
+        for path, slug in new:
+            if re.search(r"ph-?d|doctoral|post-?doc", slug):
+                seen[slug] = ELLIS + path
+        if not new:
+            break
+    return list(seen.items())
+
+
+def ellis_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
+    h1 = re.search(r"<h1[^>]*>(.*?)</h1>", raw, re.S)
+    title = re.sub(r"\s+", " ", page_text(h1.group(1))).strip() if h1 else ""
+    text = page_text(raw)
+    stage = re.search(r"Career Stage:\s*(PhD|Postdoc)\b", text)
+    if not stage:
+        return None, "非博士/博后岗位"
+    m = re.search(r"Apply by (\d{2})/(\d{2})/(\d{2})\b", text)
+    if not m:
+        return None, "页面无截止日期"
+    deadline = f"20{m.group(3)}-{m.group(2)}-{m.group(1)}"
+    if deadline < today:
+        return None, "已截止"
+    body = text[stage.end():]
+    if _any(_SELF_FUNDED, body) or _any(cp.NOT_FUNDED, body) or not (_any(_FUNDED, body) or re.search(r"fully funded|funded position", body, re.I)):
+        return None, "未写资助或自费"
+    org = re.search(r"\bat (?:the )?(.{3,100})$", title)
+    return {
+        "id": f"ellis:{jid[:60]}", "title": title[:200], "url": url, "org": (org.group(1) if org else "")[:120], "country": "",
+        "place": "", "level": "postdoc" if stage.group(1) == "Postdoc" else "phd", "deadline": deadline, "quote": m.group(0),
+        "funding_for": "", "amount": "", "cn": cp.cn_of(body), "flags": cp.flags_of(body), "via": "ELLIS Jobs",
+    }, "收录"
+
+
+# ───────────────────────── FENS Job Market ─────────────────────────
+
+FENS = "https://www.fens.org/careers/job-market"
+
+
+def fens_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+    seen: dict[str, str] = {}
+    for page in range(1, max_pages + 1):
+        ids = dict.fromkeys(re.findall(r"/careers/job-market/job/(\d+)", f.get(FENS if page == 1 else f"{FENS}/page/{page}").text))
+        new = [i for i in ids if i not in seen]
+        for i in new:
+            seen[i] = f"{FENS}/job/{i}"
+        if not new:
+            break
+    return list(seen.items())
+
+
+def fens_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
+    text = page_text(raw)
+    head = re.search(r"Job ID: \d+ (.{5,250}?) Position: (.{3,60}?) Deadline: ([A-Za-z0-9 ,]{6,30}?) (?=[A-Z][a-z]+(?: [A-Z][a-z]+)*:)", text)
+    if not head:
+        return None, "页面无截止日期"
+    title, position, when = head.group(1), head.group(2), head.group(3)
+    level = "postdoc" if re.search(r"post-?doc", position, re.I) else "phd" if re.search(r"ph\.?\s?d", position, re.I) else None
+    if not level:
+        return None, "非博士/博后岗位"
+    body = text[head.end():]
+    if re.search(r"\bno (?:application )?deadline\b", body, re.I):  # 字段写了日期、正文却说没有截止：不收
+        return None, "页面无截止日期"
+    deadline = parse_day(when)
+    if not deadline:
+        return None, "页面无截止日期"
+    if deadline < today:
+        return None, "已截止"
+    if _any(_SELF_FUNDED, body) or _any(cp.NOT_FUNDED, body) or (level == "phd" and not _any(_FUNDED, body)):  # 博后是雇佣岗位
+        return None, "未写资助或自费"
+    inst = re.search(r"Institution:\s*(.{2,120}?)\s+Department:", text)
+    country = re.search(r"Country:\s*([A-Z][A-Za-z ]{2,40}?)\s+Institution:", text)
+    city = re.search(r"City:\s*(.{2,60}?)\s+Country:", text)
+    return {
+        "id": f"fens:{jid}", "title": title[:200], "url": url, "org": (inst.group(1) if inst else "")[:120],
+        "country": cp.country_code(country.group(1)) if country else "", "place": (city.group(1) if city else "")[:80],
+        "level": level, "deadline": deadline, "quote": f"Deadline: {when}", "funding_for": "", "amount": "",
+        "cn": cp.cn_of(body), "flags": cp.flags_of(body), "via": "FENS Job Market",
+    }, "收录"
+
+
 ADAPTERS = {"mathjobs": (mj_urls, mj_detail), "tamu-rwfm": (tamu_urls, tamu_detail), "hnet": (hnet_urls, hnet_detail),
-            "econjobmarket": (ejm_urls, ejm_detail), "linguistlist": (ll_urls, ll_detail)}
-VIA_RANK = {"MathJobs": 2, "TAMU Natural Resources Job Board": 2, "H-Net Job Guide": 2, "EconJobMarket": 2, "LINGUIST List": 2}
+            "econjobmarket": (ejm_urls, ejm_detail), "linguistlist": (ll_urls, ll_detail),
+            "egu": (egu_urls, egu_detail), "ellis": (ellis_urls, ellis_detail), "fens": (fens_urls, fens_detail)}
+VIA_RANK = {"MathJobs": 2, "TAMU Natural Resources Job Board": 2, "H-Net Job Guide": 2, "EconJobMarket": 2, "LINGUIST List": 2, "EGU Jobs": 2, "ELLIS Jobs": 1, "FENS Job Market": 2}

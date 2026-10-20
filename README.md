@@ -20,9 +20,9 @@
 - **简洁好用。** 网页版像招聘网站一样：搜索、按地区 / 层次 / 学科筛选、看详情、收藏想投的机会并记录申请进度、一键把收藏的截止日期导入日历（截止前 14 / 7 / 1 天提醒），手机上也能用。
 
 <!-- STATS:START -->
-**热门地区：** [美国](sources/region/us.md) 548 · [英国](sources/region/uk.md) 490 · [德国](sources/region/de.md) 372 · [加拿大](sources/region/ca.md) 194 · [中国香港](sources/region/hk.md) 163 · [法国](sources/region/fr.md) 148 · [全球](sources/region/global.md) 146 · [日本](sources/region/jp.md) 117 · [瑞士](sources/region/ch.md) 107 · [澳大利亚](sources/region/au.md) 95 · [荷兰](sources/region/nl.md) 86 · [欧盟/欧洲](sources/region/eu.md) 71 · [全部 →](SOURCES.md#按国家--地区)
+**热门地区：** [美国](sources/region/us.md) 670 · [英国](sources/region/uk.md) 569 · [德国](sources/region/de.md) 421 · [加拿大](sources/region/ca.md) 227 · [法国](sources/region/fr.md) 172 · [全球](sources/region/global.md) 166 · [中国香港](sources/region/hk.md) 165 · [日本](sources/region/jp.md) 139 · [瑞士](sources/region/ch.md) 125 · [荷兰](sources/region/nl.md) 103 · [澳大利亚](sources/region/au.md) 103 · [意大利](sources/region/it.md) 93 · [全部 →](SOURCES.md#按国家--地区)
 
-**学科：** [全学科](sources/discipline/all.md) 861 · [生物/生命科学](sources/discipline/bio.md) 573 · [工程](sources/discipline/engineering.md) 505 · [计算机](sources/discipline/cs.md) 450 · [物理/天文](sources/discipline/physics.md) 397 · [社会科学/心理](sources/discipline/social.md) 378 · [医学/公卫](sources/discipline/med.md) 332 · [化学/材料](sources/discipline/chem.md) 327 · [人文/语言](sources/discipline/humanities.md) 279 · [人工智能](sources/discipline/ai.md) 260 · [数学/统计](sources/discipline/math.md) 232 · [经济/金融](sources/discipline/econ.md) 161 · [地球/环境/海洋](sources/discipline/geo.md) 158 · [神经/认知](sources/discipline/neuro.md) 156 · [生态/进化](sources/discipline/eco.md) 116 · [商科/管理](sources/discipline/business.md) 112
+**学科：** [全学科](sources/discipline/all.md) 1047 · [生物/生命科学](sources/discipline/bio.md) 662 · [工程](sources/discipline/engineering.md) 574 · [计算机](sources/discipline/cs.md) 514 · [物理/天文](sources/discipline/physics.md) 463 · [社会科学/心理](sources/discipline/social.md) 452 · [医学/公卫](sources/discipline/med.md) 396 · [化学/材料](sources/discipline/chem.md) 370 · [人文/语言](sources/discipline/humanities.md) 331 · [人工智能](sources/discipline/ai.md) 300 · [数学/统计](sources/discipline/math.md) 272 · [经济/金融](sources/discipline/econ.md) 194 · [地球/环境/海洋](sources/discipline/geo.md) 191 · [神经/认知](sources/discipline/neuro.md) 166 · [生态/进化](sources/discipline/eco.md) 136 · [商科/管理](sources/discipline/business.md) 131
 <!-- STATS:END -->
 
 ## 怎么核实的
@@ -46,7 +46,7 @@ fork 本仓库后在 [Claude Code](https://claude.com/claude-code) 里使用。�
 | `/apply` | 对选中的一个机会：从岗位原文摘申请清单（材料、推荐信、字数、截止时区），起草套磁信、cover letter、研究计划要点、简历调整建议 |
 | `/track` | 申请看板（想投 → 准备中 → 已投 → 面试 → 结果），截止与套磁跟进提醒、每周摘要、导出日历 |
 
-`/apply` 起草的每一句经历都必须标出 `cv-facts.yml` 里的出处，程序逐句核对数字、机构、论文题目、奖项和“一作 / 已接收 / 主导”这类说法，再由另一个审稿代理查夸大与不符（见[演示与评测](docs/apply-demo.md)）。**AI 只起草，修改和发送由你本人完成。**
+`/apply` 起草的每一句经历都必须标出 `cv-facts.yml` 里的出处：程序逐句核对数字、机构、论文题目、奖项和“一作 / 已接收 / 主导”这类说法；另一个审稿代理再为每句经历从你的简历要点里逐字摘出证据，程序验证证据真实存在，没有证据的句子不能定稿（两轮红队评测见[演示与评测](docs/apply-demo.md)）。**AI 只起草，修改和发送由你本人完成。**
 
 ## 信源分类
 

@@ -215,6 +215,8 @@ sources:
   verified: 2026-10-19
   coverage: unknown
   status: ongoing
+  verify_method: page
+  page_evidence: Post-doctoral Fellow in the School of Chinese Medicine
 - id: academicjobsonline
   name: Academic Jobs Online
   url: https://academicjobsonline.org/ajo/jobs
@@ -987,6 +989,25 @@ sources:
   requirements: 新入学全日制博士生；需先在 HKPFS 系统取得参考号再申请院校；已在读博士者不可申请。
   verify_method: page
   page_evidence: 400 PhD Fellowships will be awarded in the 2027/28 academic year
+- id: nsf-grfp
+  name: NSF GRFP（仅作提醒）
+  url: https://www.nsfgrfp.org/
+  category: gov-scholarships
+  regions:
+  - US
+  disciplines:
+  - all
+  funding: fellowship
+  cn_eligible: 'no'
+  access:
+  - web
+  language: en
+  notes: 仅限美国公民/永久居民。美国 PhD 的资助通常来自录取院系（TA/RA/Fellowship），不依赖政府奖学金。
+  verified: 2026-10-19
+  requirements: 仅限美国公民、国民或永久居民，中国大陆学生不符合；申请时不得持有博士学位，申请窗口限读研第 1–2 年。
+  coverage: unknown
+  verify_method: page
+  page_evidence: 'Five-year award with three years of financial support:'
 - id: gates-cambridge
   name: Gates Cambridge Scholarship
   url: https://www.gatescambridge.org/
@@ -1115,6 +1136,27 @@ sources:
   deadline: 2026-10-06
   verify_method: page
   page_evidence: Knight-Hennessy Scholars is a fully-endowed, multidisciplinary leadership development program for graduate students at Stanford University.
+- id: unsw-scientia
+  name: UNSW Scientia PhD Scholarship
+  url: https://www.unsw.edu.au/research/hdr/find-a-project/scientia-phd-projects
+  category: university-schemes
+  regions:
+  - AU
+  disciplines:
+  - all
+  funding: scholarship
+  cn_eligible: 'no'
+  access:
+  - web
+  language: en
+  notes: 官方页面称 Scientia 博士奖学金面向本地（domestic）申请者，国际生（含中国大陆学生）不在此列。Global Mobility Grant 为已获奖学金者的一次性国际活动经费，不是独立申请途径。
+  verified: 2026-10-19
+  levels:
+  - phd
+  status: upcoming
+  coverage: full
+  verify_method: page
+  page_evidence: UNSW is looking for high-quality domestic applicants to work on a supervisor-defined PhD project with embedded global mobility opportunities.
 - id: ubc-awards
   name: UBC Graduate Awards
   url: https://www.grad.ubc.ca/scholarships-awards-funding
@@ -1403,6 +1445,52 @@ sources:
   stipend: 年度 $85,000（最多两年，含学费、生活费、差旅与设备）
   verify_method: page
   page_evidence: Applications are currently closed for the 2026 cycle.
+- id: msr-phd-fellowship
+  name: Microsoft Research Fellowship（原 PhD Fellowship）
+  url: https://www.microsoft.com/en-us/research/academic-program/2026-microsoft-research-fellowship/
+  category: fellowships
+  regions:
+  - GLOBAL
+  disciplines:
+  - cs
+  - ai
+  funding: fellowship
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  notes: 微软研究院 Fellowship：金额按地区拨付学校（美加 $47,000，欧洲 $27,000，其他地区 $17,000）。资格按大学所在地区划定，有搜索结果称官方名单中未见中国大陆高校，但未取得官方原文，中国大陆高校是否在名单内需向官网核实。2026 轮提案截止 2025-12-16 已关闭。
+  verified: 2026-10-19
+  status: closed
+  coverage: varies
+  deadline_note: 2026 轮提案 2025-12-16 截止（已关闭）；2027 轮未见公告，关注官网
+  requirements: 面向教授、在读博士与博士后，以研究课题提案申请；国际生资格依研究挑战与地区而定，需看当轮官网说明
+  deadline: 2025-12-16
+  verify_method: page
+  page_evidence: Call for Proposals | Closed November 2025
+- id: msra-fellowship
+  name: 微软学者奖学金（MSRA Fellowship）
+  url: https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/
+  category: fellowships
+  regions:
+  - GLOBAL
+  disciplines:
+  - cs
+  - ai
+  funding: fellowship
+  cn_eligible: 'yes'
+  access:
+  - web
+  language: zh
+  notes: 面向亚太地区高校在读博士（含港澳、新加坡、日韩等）。2022 年后未见新一轮公告，申请前请确认是否仍在运行。
+  verified: 2026-10-19
+  coverage: unknown
+  stipend: 奖金 USD 10,000（2022 轮公布值）
+  deadline_note: 官网可见的最近一轮为 2022 年 6 月截止；2026 年轮次未确认，申请前请邮件核实
+  requirements: 官网资格页称面向在中国大陆、香港、日本、韩国、新加坡或台湾高校在读的博士生；2022 年后未见新一轮公告，申请前请核实是否仍在运行。
+  status: closed
+  verify_method: page
+  page_evidence: The Microsoft Research Asia Fellowship Program aims to empower and encourage PhD students in the Asia-Pacific region to realize their potential in computer science-related research.
 - id: apple-aiml
   name: Apple Scholars in AI/ML
   url: https://machinelearning.apple.com/updates/apple-scholars-aiml-2026
@@ -1982,6 +2070,30 @@ sources:
   deadline_note: 2026 年秋入学的国家公派博士招生公告发布于 2025 年 8 月 4 日；2027 轮未找到，关注官网公告
   verify_method: page
   page_evidence: 'Applicants must be Chinese nationals who:'
+- id: ml-news
+  name: ML-news（Machine Learning News）Google Group
+  url: https://groups.google.com/g/ML-news/about
+  category: discipline
+  regions:
+  - GLOBAL
+  disciplines:
+  - ai
+  - cs
+  funding: info
+  levels:
+  - phd
+  - postdoc
+  cn_eligible: check
+  access:
+  - email
+  - web
+  language: en
+  notes: IMLS 管理的机器学习讨论组（Google Group），用于发布会议、征稿与招聘公告；需申请加入，帖子经版主审核后才会发出。
+  verified: 2026-10-19
+  coverage: unknown
+  status: ongoing
+  verify_method: page
+  page_evidence: This group serves as a forum for notices and announcements of interest to the machine learning community.
 - id: sigchi-chi-jobs
   name: SIGCHI CHI-JOBS 招聘列表
   url: https://sigchi.org/operations/listserv/
@@ -2382,6 +2494,29 @@ sources:
   status: ongoing
   verify_method: page
   page_evidence: PhD Position in Decision Making Under Uncertainty, Neuchatel, Switzerland
+- id: tum-bioinfo-jobs
+  name: TUM 生物信息岗位页（jobs-bioinfo 列表）
+  url: https://www.cs.cit.tum.de/en/bio/projects/jobs/
+  category: discipline
+  regions:
+  - DE
+  - EU
+  disciplines:
+  - bio
+  funding: info
+  levels:
+  - phd
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  notes: TUM 生物信息组岗位页。核查时页面显示暂无开放博士岗位，并指向慕尼黑 jobs-bioinfo 邮件列表获取通知。
+  verified: 2026-10-19
+  coverage: varies
+  status: closed
+  verify_method: page
+  page_evidence: Currently, we do not have any open PhD positions.
 - id: ccl-jobs
   name: CCL 计算化学岗位页
   url: https://ccl.net/jobs
@@ -2541,6 +2676,29 @@ sources:
   requirements: 可切换英文界面，注册与浏览免费；部分岗位要求日语，需逐条确认语言要求
   verify_method: page
   page_evidence: イノベーション創出を担う研究人材のためのキャリア支援ポータルサイト
+- id: ssar-herp-labs
+  name: SSAR 两栖爬行实验室招生表
+  url: https://ssarherps.org/herp-lab-recruiting/
+  category: faculty-aggregators
+  regions:
+  - US
+  - GLOBAL
+  disciplines:
+  - eco
+  - bio
+  funding: info
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  notes: SSAR 两栖爬行学科导师自填招生表（Google Sheet），含硕士、博士与博后岗位，2026 年 5 月发布 2027–2028 学年征集。官网两处给出的表格链接不一致，使用前到 herp-lab-recruiting 页面确认当期表格；资助与国际生资格以各实验室公告为准。
+  verified: 2026-10-19
+  coverage: unknown
+  status: ongoing
+  deadline: varies
+  deadline_note: 各实验室岗位截止各不相同，以表格中每条为准；2027–2028 学年表格已于 2026 年 5 月征集
+  verify_method: page
+  page_evidence: The form populates a view-only spreadsheet that prospective applicants can use to find labs that match their interests.
 - id: aicentre-dk-phd
   name: Pioneer Centre for AI（丹麦）博士招聘
   url: https://www.aicentre.dk/phd-openings/
@@ -2869,6 +3027,27 @@ sources:
   requirements: 国际生名额约占各 DTP 的 30% 以内，通常仅覆盖本地学费标准，国际学费差额需另行补足；一般须先被所在院校录取并获推荐。
   verify_method: page
   page_evidence: ESRC provides studentships for full-time or part-time postgraduate study.
+- id: mrc-dtp
+  name: UKRI 博士 studentship 申请指南（含 MRC DTP）
+  url: https://www.ukri.org/what-we-do/developing-people-and-skills/find-studentships-and-doctoral-training/get-a-studentship-to-fund-your-doctorate/
+  category: national-portals
+  regions:
+  - UK
+  disciplines:
+  - med
+  - bio
+  funding: scholarship
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  notes: UKRI（含 MRC）博士 studentship 申请说明：UKRI 不直接招生，需向各 DTP/大学申请；UKRI 只覆盖本土学费，国际生名额通常不超过 30%，学费差额需另找资助。
+  verified: 2026-10-19
+  coverage: partial
+  status: ongoing
+  requirements: 国际生名额通常不超过 30%；需向各 DTP 或大学申请；UKRI 资助不覆盖国际学费，差额需另找资助
+  verify_method: page
+  page_evidence: Students cannot apply directly to UKRI.
 - id: uzh-doctoral-programs
   name: 苏黎世大学博士项目总览
   url: https://www.grc.uzh.ch/en/counseling/orientation-phd/doctoralprograms.html
@@ -3387,6 +3566,27 @@ sources:
   requirements: 国际生且全日制注册于博士项目即自动获发（页面所示）；价值与期限随多种因素变化，以官网详细条款为准
   verify_method: page
   page_evidence: to all international students who are registered full-time in a doctoral program.
+- id: ualberta-min-funding
+  name: 阿尔伯塔大学博士最低资助保障
+  url: https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/minimum-guaranteed-funding-for-phd-students.html
+  category: university-schemes
+  regions:
+  - CA
+  disciplines:
+  - all
+  funding: info
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  notes: 全日制博士 4 年至少 10 万加元；已有足额外部资助（如 CSC）者不适用。
+  verified: 2026-10-19
+  coverage: varies
+  stipend: 至少 CAD 100,000/四年（第一年至少 CAD 25,000）
+  status: ongoing
+  requirements: 仅限全日制博士；已有每年 CAD 25,000 及以上外部资助（如 CSC）者不适用；以 offer 信载明为准。
+  verify_method: page
+  page_evidence: Working professionals are not eligible for the minimum guaranteed funding offer.
 - id: duke-phd-funding
   name: 杜克大学博士五年资助保障
   url: https://gradschool.duke.edu/financial-support/phd-financial-support/
@@ -3687,6 +3887,28 @@ sources:
   requirements: 学生不能直接申请；需在 9 所参与院校之一读博，由院系提名
   verify_method: page
   page_evidence: Amazon is announcing its new AI PhD Fellowship program, which will provide two years of funding for more than 100 PhD students at nine universities
+- id: ukri-ai-cdt
+  name: UKRI AI Centres for Doctoral Training（英国 AI 博士培训中心总入口）
+  url: https://www.ukri.org/opportunity/ukri-centres-for-doctoral-training-in-artificial-intelligence/
+  category: doctoral-programs
+  regions:
+  - UK
+  disciplines:
+  - ai
+  funding: position
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  notes: 英国 UKRI AI 博士培训中心（CDT）的统一资助征集已关闭，各中心自行招生。国际生可以申请但名额有限，学费与津贴政策需进入各 CDT 页面核实。
+  verified: 2026-10-19
+  status: closed
+  coverage: varies
+  deadline_note: UKRI 征集已关闭；各 CDT 自行招生，截止日期以各中心招生页为准。
+  requirements: 各中心自设国际生名额，需逐个核对；学费覆盖因中心而异
+  stipend: £20,780/年（2025/26 标准，据 Northumbria CDT 页面；2026/27 以各中心为准）
+  verify_method: page
+  page_evidence: CDTs will train five cohorts of students doing a four-year doctorate or equivalent.
 - id: ox-foai-cdt
   name: Oxford EIT CDT in Fundamentals of AI
   url: https://www.eitcdt.ox.ac.uk/foaicdt
@@ -3800,6 +4022,30 @@ sources:
   status: open
   verify_method: page
   page_evidence: Nomination for January 2027 Intake
+- id: tohoku-nextgen-ai-doctoral
+  name: 东北大学（日本）下一代 AI 博士支援项目
+  url: https://pgd.tohoku.ac.jp/data/rpc/nextai/2026.4E_Application%20Guidelines%20for%20doctoral%20course%20students.pdf
+  category: university-schemes
+  regions:
+  - JP
+  disciplines:
+  - ai
+  funding: scholarship
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  notes: 东北大学下一代 AI 博士支援项目。2026 年 4 月入学批次约 18 个名额，月津贴 26 万日元，另有年研究经费 78 万日元；申请者需有在日本引领 AI 领域发展的志向，通过指定表单提交。该批次已结束，下一批次未确认。
+  verified: 2026-10-19
+  status: closed
+  coverage: stipend
+  stipend: 月 26 万日元（另年研究经费 78 万日元）
+  deadline_note: 2026 年 4 月入学批次申请截止 2026-01-23（已过）；2026 年 10 月批次未查到公告，可联系 kyom-lgs@grp.tohoku.ac.jp 确认
+  requirements: 博士课程 1 年级；需有引领 AI 领域发展的志向；通过指定表单提交。
+  levels:
+  - phd
+  verify_method: page
+  page_evidence: Incentive Stipend (covers living expenses) JPY 260,000/month
 - id: csiro-ai-for-missions-phd
   name: CSIRO AI for Missions 博士奖学金（澳大利亚）
   url: https://www.csiro.au/en/careers/Scholarships-student-opportunities/Postgraduate-programs-and-Scholarships/AI-for-Missions-PhD-Program
@@ -3994,6 +4240,29 @@ sources:
   requirements: 需通过 LSGNT 申请门户并提交 EDI 表格；无申请费；2027 入学共 9 个资助名额，国际生名额有限
   verify_method: page
   page_evidence: A joint venture of Imperial College, King's College London and University College London with funding from EPSRC as an EPSRC Centre for Doctoral Training.
+- id: mfc-cdt-climate-maths
+  name: MFC CDT（未来气候数学 CDT）
+  url: https://mfccdt.ac.uk/
+  category: doctoral-programs
+  regions:
+  - UK
+  disciplines:
+  - math
+  - geo
+  funding: position
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  notes: Imperial、Reading 等合作的 EPSRC 气候数学 CDT，全额含学费与生活费；国际生名额有限，部分合作校不招海外生，需按轮次核对。
+  verified: 2026-10-19
+  coverage: full
+  status: rolling
+  deadline: rolling
+  deadline_note: 官网称名额按滚动方式录取，Reading 无截止日；2027/28 轮细节未查到，以 mfccdt.ac.uk 为准。
+  requirements: 需数学或相关学科硕士或同等背景；国际生名额有限，以 How To Apply 页面为准
+  verify_method: page
+  page_evidence: We offer fully funded PhD studentships, including London weighting, with some opportunities available for international students not eligible for home fees.
 - id: imperial-compmath-phd
   name: Imperial 计算数学 PhD 机会
   url: https://www.imperial.ac.uk/a-z-research/computational-mathematics/phd-opportunities/
@@ -4453,6 +4722,33 @@ sources:
   verify_method: page
   page_evidence: Applications for the FY 2027 Special Postdoctoral Researcher (SPDR) Program have been closed.
   stipend: 月薪 550,000 日元（3 年固定期限合同，另有年度研究经费）
+- id: nature-careers-postdoc
+  name: Nature Careers（博士后）
+  url: https://www.nature.com/naturecareers/jobs/postdoctoral
+  category: aggregators
+  regions:
+  - GLOBAL
+  disciplines:
+  - bio
+  - chem
+  - physics
+  - med
+  - geo
+  funding: position
+  levels:
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  - email
+  language: en
+  notes: 自然科学博士后岗位，可订阅邮件提醒。
+  verified: 2026-10-19
+  coverage: unknown
+  status: ongoing
+  deadline: varies
+  verify_method: page
+  page_evidence: Browse postdoc jobs | Nature Careers
 - id: mathjobs
   name: MathJobs（AMS）
   url: https://www.mathjobs.org/jobs

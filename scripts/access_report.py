@@ -36,6 +36,16 @@ REMOTE = "https://raw.githubusercontent.com/pingfanfan/PhDRadar/main/reports/acc
 RANK = {"ok": 0, "warn": 1, "dead": 2}
 JSON_OUT = ROOT / "reports" / "access.json"
 
+def _ats_lists() -> tuple:
+    """scripts/ats.py 里学校自建招聘页的 via 名（每所学校一个）；读不到就退回哥本哈根大学。"""
+    try:
+        sys.path.insert(0, str(Path(__file__).resolve().parent))
+        import ats
+        return tuple(s[0] for s in ats.LISTS)
+    except Exception:  # noqa: BLE001
+        return ("University of Copenhagen",)
+
+
 # 权威招聘平台：(名称, 页面, 程序要读的岗位页样例, 接入方式, 岗位清单里的 via 名, 未接入时的原因)
 PLATFORMS = [
     ("FindAPhD", "https://www.findaphd.com/", "https://www.findaphd.com/phds/project/x/?p100000", "站点地图 + 岗位页（在 GitHub Actions 上采集）", "FindAPhD",
@@ -106,14 +116,20 @@ PLATFORMS = [
      "siteNumber=CX_1,limit=1", "候选人站点的公开接口", "Oracle Recruiting", ""),
     ("PageUp（大学招聘系统：港大、La Trobe）", "https://jobs.hku.hk/en/listing/", "https://jobs.hku.hk/en/listing/",
      "列表页 + 岗位页（每 4 秒一次）", "PageUp", "列表页能读，但岗位页对程序访问一律弹 AWS WAF 人机验证（HTTP 202）；不绕过，遇到就停"),
-    ("哥本哈根大学招聘页", "https://employment.ku.dk/all-vacancies/", "https://employment.ku.dk/all-vacancies/",
-     "列表页 + 岗位页", "University of Copenhagen", ""),
+    ("学校自建招聘页（理大、剑桥、ANU、哥本哈根、RWTH、TUM、苏黎世大学等）", "https://employment.ku.dk/all-vacancies/",
+     "https://employment.ku.dk/all-vacancies/", "各校列表页 / 站点地图 + 岗位页", _ats_lists(), ""),
     ("INFN（意大利国家核物理研究院）", "https://jobs.dsi.infn.it/", "https://jobs.dsi.infn.it/dettagli_job.php?id=1", "列表页 + 公告页（博后合同）",
      "INFN Jobs", ""),
     ("Institut Pasteur", "https://research.pasteur.fr/en/jobs/", "https://research.pasteur.fr/en/job/x/", "列表页 + 岗位页", "Institut Pasteur Jobs", ""),
     ("FAPESP Oportunidades（巴西圣保罗州研究基金会）", "https://fapesp.br/oportunidades/", "https://fapesp.br/oportunidades/x/1/",
      "列表页 + 公告页（博士 / 博后奖学金）", "FAPESP Oportunidades", ""),
     ("LINGUIST List（语言学）", "https://linguistlist.org/", "https://linguistlist.org/issues/37/1/", "RSS + 公告页", "LINGUIST List", ""),
+    ("EGU Jobs（欧洲地球科学联合会）", "https://www.egu.eu/jobs/", "https://www.egu.eu/jobs/1/x/", "列表页 + 岗位页（结构化截止字段）", "EGU Jobs", ""),
+    ("ELLIS Jobs（欧洲 AI 研究网络）", "https://ellis.eu/research/jobs", "https://ellis.eu/research/jobs/x", "列表页 + 岗位页", "ELLIS Jobs", ""),
+    ("FENS Job Market（神经科学）", "https://www.fens.org/careers/job-market", "https://www.fens.org/careers/job-market/job/1",
+     "列表页 + 岗位页", "FENS Job Market", ""),
+    ("Universität Innsbruck 招聘门户", "https://lfuonline.uibk.ac.at/public/karriereportal.home?rubrik_in=PSP",
+     "https://lfuonline.uibk.ac.at/public/karriereportal.details?asg_id_in=1", "列表页 + 岗位页", "Universität Innsbruck", ""),
     ("ADUM（法国博士论文岗位）", "https://adum.fr/", "https://adum.fr/as/ed/proposition.pl", "", "",
      "robots.txt 对所有程序 Disallow: /"),
     ("JREC-IN Portal（日本）", "https://jrecin.jst.go.jp/", "https://jrecin.jst.go.jp/seek/SeekJorSearch", "", "",
@@ -164,7 +180,7 @@ def check_platforms() -> list[dict]:
         name, home, sample, method, via, why, *extra = row
         headers = extra[0] if extra else None
         ok, robots = robots_allows(sample)
-        return {"name": name, "url": home, "method": method, "connected": bool(via), "postings": live.get(via, 0) if via else 0,
+        return {"name": name, "url": home, "method": method, "connected": bool(via), "postings": sum(live.get(v, 0) for v in (via if isinstance(via, tuple) else (via,))) if via else 0,
                 "robots": robots, "robots_ok": ok, "page": page_status(sample if headers else home, headers), "why": why}
 
     with ThreadPoolExecutor(max_workers=8) as pool:

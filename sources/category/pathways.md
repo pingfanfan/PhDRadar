@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 科研实习与“曲线入口”（38）
+# 科研实习与“曲线入口”（45）
 
 暑研/访问项目，常是拿到导师认可、进而获得全奖 offer 的关键路径。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [瑞士（CH） 8](pathways.md#r-ch) · [英国（UK） 5](pathways.md#r-uk) · [法国（FR） 4](pathways.md#r-fr) · [荷兰（NL） 4](pathways.md#r-nl) · [丹麦（DK） 3](pathways.md#r-dk) · [加拿大（CA） 2](pathways.md#r-ca) · [德国（DE） 2](pathways.md#r-de) · [全球（GLOBAL） 2](pathways.md#r-global) · [美国（US） 2](pathways.md#r-us) · [比利时（BE） 1](pathways.md#r-be) · [西班牙（ES） 1](pathways.md#r-es) · [中国香港（HK） 1](pathways.md#r-hk) · [日本（JP） 1](pathways.md#r-jp) · [沙特（SA） 1](pathways.md#r-sa) · [瑞典（SE） 1](pathways.md#r-se)
+**按地区跳转：** [瑞士（CH） 8](pathways.md#r-ch) · [荷兰（NL） 5](pathways.md#r-nl) · [英国（UK） 5](pathways.md#r-uk) · [美国（US） 5](pathways.md#r-us) · [法国（FR） 4](pathways.md#r-fr) · [丹麦（DK） 3](pathways.md#r-dk) · [比利时（BE） 2](pathways.md#r-be) · [加拿大（CA） 2](pathways.md#r-ca) · [德国（DE） 2](pathways.md#r-de) · [全球（GLOBAL） 2](pathways.md#r-global) · [阿联酋（AE） 1](pathways.md#r-ae) · [西班牙（ES） 1](pathways.md#r-es) · [芬兰（FI） 1](pathways.md#r-fi) · [中国香港（HK） 1](pathways.md#r-hk) · [日本（JP） 1](pathways.md#r-jp) · [沙特（SA） 1](pathways.md#r-sa) · [瑞典（SE） 1](pathways.md#r-se)
 
 <a id="r-ch"></a>
 
@@ -25,6 +25,18 @@
 | [Summer@EPFL](https://summer.epfl.ch/)<br><sub>瑞士 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>CHF 1,800/月（按实际时长折算，另报销差旅）</sub> | —<br><sub>每年申请一次，截止日为 12 月 1 日之前最近的周日；据此推算 2027 届约 2026 年 11 月 29 日，未见官方 2027 公告，以 summer.epfl.ch 为准</sub> | ✅ | **要求：** 计算机、计算机工程、电信或电气工程相关专业在读；需为本科二年级及以上或硕士在读<br>EPFL 计算机学院暑研项目，每年申请一次，月津贴 CHF 1,800（按实际时长折算，另报销差旅），竞争激烈。截止日期据学院规则推算，需以官网 2027 届公告为准。 |
 | [国际清算银行（BIS）博士研究奖学金](https://www.bis.org/careers/graduate_page.htm)<br><sub>瑞士 ｜ 经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮截止于 2025 年 11 月 24 日（第三方信息）；2027 轮通常夏末公告，关注官网</sub> | ✅ | BIS 博士研究奖学金为巴塞尔短期研究驻留（约 3–11 个月），含工资、医保与差旅等；需在读经济、金融或相关领域博士，BIS 材料称欢迎全球申请者。通常夏末开放、秋季截止。 |
 
+<a id="r-nl"></a>
+
+## 荷兰（NL）（5）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [AcademicTransfer · 荷兰读博指南（带薪岗位 vs 奖学金岗位）](https://research.academictransfer.com/pursuing-a-phd-in-the-netherlands)<br><sub>荷兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | — | ❔ | 荷兰主要博士招聘平台的官方指南，区分带薪 PhD（学校雇佣）与自带奖学金的 bursary 岗位。筛选 paid 类型可聚焦全奖岗位。 |
+| [伊拉斯谟大学鹿特丹分校 Research Master in Economics（TI 联合培养）](https://www.eur.nl/en/research-master/economics)<br><sub>荷兰 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>🔜 即将开放</sub><br><sub>EUR 页面显示欧洲经济区（EEA）申请截止为 5 月 1 日；页面未显示非欧经济区的截止日，请以官网为准。</sub> | ❔ | **要求：** 研究型硕士；非荷兰学位申请者的 GRE 要求本次核查未在官方页面确认；语言与推荐信要求以官网为准<br>伊拉斯谟大学鹿特丹分校与 Tinbergen Institute 合办的两年制经济学研究型硕士（硕士层级，属博士路径而非博士职位），多数学生继续读博。各来源截止日不一致，GRE 要求未经核实，申请前以 tinbergen.nl 与 eur.nl 为准。 |
+| [伊拉斯谟大学鹿特丹（EUR）未来博士候选人页面](https://eur.nl/en/research/phd-erasmus-university-rotterdam/phd-vacancies)<br><sub>荷兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 硕士（研究型）；英语需达 CEFR C1；个别岗位要求 GRE/GMAT<br>EUR 博士入口页，列出各学院博士岗位与申请流程；按学院进入 vacancies 页核对截止日期。 |
+| [莱顿大学博士名额与入学说明](https://www.universiteitleiden.nl/en/humanities/graduate-school/admission-to-the-graduate-school)<br><sub>荷兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>带薪岗位示例 €2,541–3,247/月（毛薪，2024 年某岗位公告）</sub> | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 需荷兰大学硕士学位或同等学历（特殊情况院长可豁免）；合同博士须先找到可全程指导的人文学院教授。<br>莱顿大学人文学院博士招生说明，区分受雇（带薪）、合同（奖学金）和自筹博士。页面列出博士年费：低档 400 欧元/年，高档 2800 欧元/年，适用类别以页面说明为准。 |
+| [马斯特里赫特大学 CSC 博士奖学金页](https://www.maastrichtuniversity.nl/csc-scholarships)<br><sub>荷兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>UM 称与 CSC 的合作协议 2024 年 9 月到期未续，目前不接收新的 CSC 博士申请；新协议谈判中</sub> | ❔ | 马斯特里赫特大学与 CSC 的博士合作目前暂停：校方称现行协议已到期，暂不接收新申请，恢复时间未知，申请前请联系 UM China Team。 |
+
 <a id="r-uk"></a>
 
 ## 英国（UK）（5）
@@ -37,6 +49,18 @@
 | [剑桥心理学系研究生申请与资助指南（PDF）](https://www.psychol.cam.ac.uk/files/2025-26_postgraduate_application_and_funding_guide.pdf)<br><sub>英国 ｜ 神经/认知·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>2025–26 指南中的截止日已过；2026–27 或 2027–28 版本尚未出现</sub> | 🟡 | 剑桥心理学博士资助路线（剑桥信托、Gates、学院及研究理事会资金等）与时间表指南。此为 2025–26 版，使用时请换成最新学年版本。 |
 | [英格兰银行博士实习（PhD Internship）](https://www.bankofengland.co.uk/careers/future-talent/phds)<br><sub>英国 ｜ 经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>£30,000/年（伦敦，按比例）；利兹 £27,000/年</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮已关闭；官网称可登记 2027 年机会，未见 2027 截止日期</sub> | ❔ | **要求：** 需在读博士，学科须与中央银行政策相关；2026 轮申请已关闭，官网可登记 2027 年机会<br>英格兰银行约 12 周带薪博士实习，伦敦或利兹混合办公。2026 年申请已关闭，可在官网登记 2027 年机会。 |
 
+<a id="r-us"></a>
+
+## 美国（US）（5）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [J-PAL 博士前研究助理项目](https://www.povertyactionlab.org/node/8136334)<br><sub>美国 ｜ 经济/金融·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>岗位分批发布；2025 年春夏入职的一轮已过，检索时未找到开放中的博士前岗位。</sub> | ❔ | **要求：** 需学士或硕士学位；多为美国岗位，需具备工作授权（以岗位页为准）。<br>发展经济学与社会科学实验研究的 1–2 年带薪 RA 岗位，岗位多在美国，需确认工作签证。 |
+| [MERL 三菱电机研究实验室博士实习](https://merl.com/internship/openings.php)<br><sub>美国 ｜ 人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止日不同，以各条公告为准</sub> | ❔ | **要求：** 面向在读博士生（多为高年级），需在机械、电气、计算机或机器人相关专业就读；岗位要求以各条公告为准，国籍限制未见说明<br>MERL 博士生实习，面向高年级博士生，多为 3 个月左右现场实习（部分 3–6 个月）。各岗位截止日不同，无统一截止，以各条公告为准。 |
+| [NBER 非 NBER 岗位 Pre-doc / RA 公告](https://nber.org/jobs/nonnberjobs.html)<br><sub>美国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | — | ❔ | 美国经济学界 pre-doc 与 RA 带薪岗位（1–3 年），国际生资格由各雇主决定，需确认美国工作授权。 |
+| [德州农工建筑学院 Pathways 博士通道](https://www.arch.tamu.edu/academics/graduate-programs/pathways-program/)<br><sub>美国 ｜ 工程·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2027-02-15**<br><sub>🟢 开放申请</sub> | ❔ | 德州农工大学建筑学院 Pathways 项目：现行官网描述为全额资助的短期工作坊并配教师导师；旧版称完成后可竞争博士奖学金，现行页面未见该表述。国际生资格未明确。 |
+| [斯坦福 SIEPR 预博士研究员项目](https://siepr.stanford.edu/programs/siepr-predoctoral-research-fellows-program/apply-siepr-predoctoral-research-fellows)<br><sub>美国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-10-08**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 年 7 月入职轮次已开放申请，完整考虑截止 2026-10-08（已过）</sub> | 🟡 | **要求：** 需完成或即将完成学士/硕士学位；需美国合法工作资格（可申请 J-1，不接受 H-1B）<br>SIEPR 预博士研究员（全职、可续一年）。2026 轮 1 月 28 日截止，已关闭；预计 2027 年 1 月再开放。官网称提供学费（最多 5 学分）、医保与津贴；需美国工作授权，J-1 可能担保。 |
+
 <a id="r-fr"></a>
 
 ## 法国（FR）（4）
@@ -48,17 +72,6 @@
 | [格勒诺布尔阿尔卑斯大学 EDSTEP 博士经费类型说明（合同博士 / CIFRE）](https://edstep.univ-grenoble-alpes.fr/apply/financing-your-phd/)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | — | ❔ | 页面列出 UGA/USMB 每年分配的两类合同博士（竞争性合同与 IDEX 定向合同）及 CIFRE（企业雇用 3 年）。页面未给出 CIFRE 金额与选拔月份；页面写 CIFRE 最低月薪为 €1,957 毛薪（2007 年 9 月起的数字，页面更新于 2024 年 2 月）。 |
 | [里昂大学 ED205 EDISS 申请博士的导师承诺信说明](https://ediss.universite-lyon.fr/navigation/how-to-apply-for-a-phd-/obtaining-a-commitment-letter-/)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>随申请者与导师的沟通进度而定，没有统一截止日期。</sub> | ❔ | **要求：** 以 EDISS 申请指南为准。<br>页面说明 EDISS 申请博士时如何取得导师承诺信，并列出常规博士合同、定向合同、CDSN、FRM 及中法联合博士项目（CSC）等资助渠道的申请方式。 |
 
-<a id="r-nl"></a>
-
-## 荷兰（NL）（4）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [伊拉斯谟大学鹿特丹分校 Research Master in Economics（TI 联合培养）](https://www.eur.nl/en/research-master/economics)<br><sub>荷兰 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>🔜 即将开放</sub><br><sub>EUR 页面显示欧洲经济区（EEA）申请截止为 5 月 1 日；页面未显示非欧经济区的截止日，请以官网为准。</sub> | ❔ | **要求：** 研究型硕士；非荷兰学位申请者的 GRE 要求本次核查未在官方页面确认；语言与推荐信要求以官网为准<br>伊拉斯谟大学鹿特丹分校与 Tinbergen Institute 合办的两年制经济学研究型硕士（硕士层级，属博士路径而非博士职位），多数学生继续读博。各来源截止日不一致，GRE 要求未经核实，申请前以 tinbergen.nl 与 eur.nl 为准。 |
-| [伊拉斯谟大学鹿特丹（EUR）未来博士候选人页面](https://eur.nl/en/research/phd-erasmus-university-rotterdam/phd-vacancies)<br><sub>荷兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 硕士（研究型）；英语需达 CEFR C1；个别岗位要求 GRE/GMAT<br>EUR 博士入口页，列出各学院博士岗位与申请流程；按学院进入 vacancies 页核对截止日期。 |
-| [莱顿大学博士名额与入学说明](https://www.universiteitleiden.nl/en/humanities/graduate-school/admission-to-the-graduate-school)<br><sub>荷兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>带薪岗位示例 €2,541–3,247/月（毛薪，2024 年某岗位公告）</sub> | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 需荷兰大学硕士学位或同等学历（特殊情况院长可豁免）；合同博士须先找到可全程指导的人文学院教授。<br>莱顿大学人文学院博士招生说明，区分受雇（带薪）、合同（奖学金）和自筹博士。页面列出博士年费：低档 400 欧元/年，高档 2800 欧元/年，适用类别以页面说明为准。 |
-| [马斯特里赫特大学 CSC 博士奖学金页](https://www.maastrichtuniversity.nl/csc-scholarships)<br><sub>荷兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>UM 称与 CSC 的合作协议 2024 年 9 月到期未续，目前不接收新的 CSC 博士申请；新协议谈判中</sub> | ❔ | 马斯特里赫特大学与 CSC 的博士合作目前暂停：校方称现行协议已到期，暂不接收新申请，恢复时间未知，申请前请联系 UM China Team。 |
-
 <a id="r-dk"></a>
 
 ## 丹麦（DK）（3）
@@ -68,6 +81,15 @@
 | [Aarhus University 产业博士（Industrial PhD）说明页](https://phd.au.dk/phd-fellowships-and-scholarships/industrial-phd)<br><sub>丹麦 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面未列出具体截止日期；企业向 Innovation Fund Denmark 申请，候选人须同时向研究生院申请，以官方规定为准。</sub> | ❔ | **要求：** 需与企业签订雇佣合同并在丹麦大学攻读博士；国际生的学历认可、签证与语言要求未确认，请向 AU 研究生院核实。<br>奥胡斯大学产业博士入口页：说明候选人与企业的雇佣关系、企业向 Innovation Fund Denmark 提交申请以及 GSTS 录取流程。资助金额未在官方页核实，以 IFD 当年规定为准。 |
 | [Innovation Fund Denmark 工业博士（Industrial PhD）](https://innovationsfonden.dk/en/programmes/industrial-researcher/industrial-phd)<br><sub>丹麦 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>最高 DKK 17,000/月（创新基金补贴的薪资部分，项目 3 年）</sub> | —<br><sub>抓取的页面为 2020 年 Industrial PhD（全领域·私营部门）征集，申请截止 2020 年 9 月 17 日（已过）；2026 年当期截止以创新基金官网为准。</sub> | ❔ | **要求：** 候选人需完成硕士学位，论文成绩至少 10，本科与硕士综合平均 8.2 或仅硕士 9.5（丹麦评分制）；合作企业需在丹麦设有地域部门。<br>丹麦工业博士：企业雇佣候选人并在大学注册，项目为三年，创新基金对企业薪资给予补贴，最高 DKK 17,000/月。页面未见针对国际生的资格声明。 |
 | [奥胡斯大学文学院博士雇员薪资与合同说明](https://phd.arts.au.dk/financing/salary-and-employment/)<br><sub>丹麦 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>约 DKK 31,641–38,213/月（税前，视工龄）；页面表格标注 2026 年 8 月 1 日水平为 DKK 31,845–38,458.64</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面未列出具体公开征集截止日期。</sub> | ❔ | **要求：** 3 年研究生学院 PhD 资助要求硕士（120 ECTS）在征集规定日期前完成<br>页面称 5+3 博士为正式雇员，税前月薪约 DKK 31,641–38,213（视工龄）；2026 年 8 月 1 日水平的博士补贴为 DKK 18,971/年。 |
+
+<a id="r-be"></a>
+
+## 比利时（BE）（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [KU Leuven 博士岗位说明（Jobsite PhD 信息页）](https://www.kuleuven.be/personeel/jobsite/phd/phd-informatie)<br><sub>比利时 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 说明 KU Leuven 博士两条路：申请带博士目标的雇员岗位，或由导师提交 FWO 等资助申请。页面为荷兰语。 |
+| [ULB · 法语区比利时科研职业机会指南（PDF）](https://www.ulb.be/medias/fichier/research-career-opportunities-in-french-speaking-belgium_1741880839221-pdf)<br><sub>比利时 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 滚动<br><sub>📋 持续更新</sub><br><sub>无统一截止日，持续更新。</sub> | ❔ | **要求：** 以各校及各资助规定为准。<br>ULB 发布的法语区比利时（ULB、UCLouvain、ULiège、UNamur、UMONS 等）科研职业路径指南（2025 年 3 月文件），可用来理解博士与博后合同形式和资助渠道。 |
 
 <a id="r-ca"></a>
 
@@ -96,22 +118,13 @@
 | [Google DeepMind 学生研究员 / 实习（博士在读）](https://deepmind.google/careers/internships/)<br><sub>全球 ｜ 计算机·人工智能·数学/统计·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 需在读本科、硕士或博士项目；带薪，12–24 周，每周五天，在谷歌办公室现场工作。<br>官方页面现写 2026–2027 周期可申请（Apply for the 2026-2027 cycle），申请按学位层次（本科、硕士、博士）和地点组织。 |
 | [J-PAL 通用实地研究助理（多国岗位）](https://www.povertyactionlab.org/careers/general-field-research-associate-job-105607)<br><sub>全球 ｜ 经济/金融·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2027-01-13**<br><sub>🟢 开放申请</sub><br><sub>早期批 2026-09-08 至 10-09 已结束；2026-11-25 全面开放；截止 2027-01-13，以岗位页为准</sub> | ❔ | **要求：** 学士或硕士学位，专业为经济学、社会科学、公共政策或相关领域；需受过微观经济学、计量经济学、统计学与高等数学训练；需流利英语。<br>页面显示最早开始日期为 2027 年 5 月 1 日，起始时间为 2027 年夏季（具体日期待定）；岗位派驻地多为发展中国家，国家列为 Multiple。 |
 
-<a id="r-us"></a>
+<a id="r-ae"></a>
 
-## 美国（US）（2）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [J-PAL 博士前研究助理项目](https://www.povertyactionlab.org/node/8136334)<br><sub>美国 ｜ 经济/金融·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>岗位分批发布；2025 年春夏入职的一轮已过，检索时未找到开放中的博士前岗位。</sub> | ❔ | **要求：** 需学士或硕士学位；多为美国岗位，需具备工作授权（以岗位页为准）。<br>发展经济学与社会科学实验研究的 1–2 年带薪 RA 岗位，岗位多在美国，需确认工作签证。 |
-| [MERL 三菱电机研究实验室博士实习](https://merl.com/internship/openings.php)<br><sub>美国 ｜ 人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止日不同，以各条公告为准</sub> | ❔ | **要求：** 面向在读博士生（多为高年级），需在机械、电气、计算机或机器人相关专业就读；岗位要求以各条公告为准，国籍限制未见说明<br>MERL 博士生实习，面向高年级博士生，多为 3 个月左右现场实习（部分 3–6 个月）。各岗位截止日不同，无统一截止，以各条公告为准。 |
-
-<a id="r-be"></a>
-
-## 比利时（BE）（1）
+## 阿联酋（AE）（1）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
-| [KU Leuven 博士岗位说明（Jobsite PhD 信息页）](https://www.kuleuven.be/personeel/jobsite/phd/phd-informatie)<br><sub>比利时 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 说明 KU Leuven 博士两条路：申请带博士目标的雇员岗位，或由导师提交 FWO 等资助申请。页面为荷兰语。 |
+| [NYU 阿布扎比全球博士生奖学金申请流程](https://nyuad.nyu.edu/en/academics/graduate-and-phd/phd-programs/global-phd-student-fellowship-in-civil-engineering/application-process.html)<br><sub>阿联酋·美国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>🟢 开放申请</sub><br><sub>2027 年秋季入学的截止未公布；NYU 各学院页面一般为 12 月初至中旬，以对应学院当年页面为准</sub> | ❔ | **要求：** 需以纽约 NYU 对应学院博士身份申请并注明对阿布扎比研究的兴趣；仅秋季入学；工程类需入学前获得相关硕士学位<br>NYUAD 全球博士奖学金没有单独申请通道，需以纽约 NYU 对应学院的博士身份申请，并在申请中注明对阿布扎比研究的兴趣。仅秋季入学。 |
 
 <a id="r-es"></a>
 
@@ -120,6 +133,14 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [nanoGUNE 硕士 + 博士联合岗位](https://www.nanogune.eu/es/node/232641)<br><sub>西班牙 ｜ 物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub> | ❔ | 学生在同一课题组完成硕士论文后衔接博士；硕士阶段有月度津贴（2025 轮 €350/月）。2025 轮 3 月 13 日截止，2026/2027 轮次未见公告，需到官网核对。 |
+
+<a id="r-fi"></a>
+
+## 芬兰（FI）（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Study in Finland 博士申请入口](https://www.studyinfinland.fi/doctoral-admissions)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 芬兰政府留学网站的博士申请入口，说明博士学习由大学开设、通常约 4 年，芬兰大学博士学费对所有国籍学生免费。生活费需自备，除非有岗位、奖学金或资助；具体资助以各大学博士项目页为准。 |
 
 <a id="r-hk"></a>
 

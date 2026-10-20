@@ -487,3 +487,25 @@ def test_linguistlist_detail():
     assert why == "收录" and row["deadline"] == "2027-01-15" and row["org"] == "University of Alberta" and row["level"] == "phd"
     assert row["amount"].startswith("stipends ($25,000")
     assert b.ll_detail("1", "u", page.replace("Application Deadline: 15-Jan-2027", ""), TODAY) == (None, "页面无截止日期")
+
+
+def test_export_controlled_and_own_funding():
+    assert cp.flags_of("Ability to work with export-controlled technologies is required.") == ["security-screening"]
+    assert cp._any(cp.NOT_FUNDED, "Anställningen förutsätter att den sökande medför egen finansiering.")
+    assert cp._any(cp.NOT_FUNDED, "Applicants must bring their own funding.")
+
+
+def test_dedupe_org_spelled_differently():
+    a = {"id": "arbeitsagentur:1", "title": "PhD Student: DNA break signature in cancers", "org": "Deutsches Krebsforschungszentrum",
+         "deadline": "2026-10-28", "url": "u1", "via": "Bundesagentur für Arbeit", "cn": "check"}
+    b = dict(a, id="naturecareers:2", org="German Cancer Research Center in the Helmholtz Association", url="u2", via="Nature Careers")
+    assert cp.dedupe([a, b])[1] == 1
+    c = {"id": "sciencecareers:3", "title": "Postdoctoral Research in Cancer Immunology and Immune Engineering",
+         "org": "UT Southwestern Medical Center - Center for Immunology", "deadline": "2026-11-30", "url": "u3", "via": "Science Careers", "cn": "check"}
+    d = dict(c, id="naturecareers:4", org="The University of Texas Southwestern Medical Center", deadline="2026-12-31", url="u4", via="Nature Careers")
+    assert cp.dedupe([c, d])[1] == 1
+    # 同名课题、不同机构、截止差很多：不合并
+    e = {"id": "findaphd:5", "title": "Investigating pathogenic mechanisms and therapeutic targets of mtDNA mutations",
+         "org": "Medical Research Council (Cambridge)", "deadline": "2026-12-08", "url": "u5", "via": "FindAPhD", "cn": "yes"}
+    f = dict(e, id="jobs-ac-uk:6", org="University of Birmingham", deadline="2027-01-29", url="u6", via="jobs.ac.uk")
+    assert cp.dedupe([e, f])[1] == 0

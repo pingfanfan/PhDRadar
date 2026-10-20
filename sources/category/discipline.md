@@ -2,17 +2,17 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 学科专属信源（118）
+# 学科专属信源（142）
 
 按学科划分的邮件列表、职位板，往往比综合平台更早、更全。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [全球（GLOBAL） 33](discipline.md#r-global) · [美国（US） 25](discipline.md#r-us) · [英国（UK） 17](discipline.md#r-uk) · [德国（DE） 8](discipline.md#r-de) · [欧盟/欧洲（EU） 7](discipline.md#r-eu) · [荷兰（NL） 5](discipline.md#r-nl) · [加拿大（CA） 4](discipline.md#r-ca) · [西班牙（ES） 4](discipline.md#r-es) · [瑞典（SE） 3](discipline.md#r-se) · [奥地利（AT） 2](discipline.md#r-at) · [中国香港（HK） 2](discipline.md#r-hk) · [新加坡（SG） 2](discipline.md#r-sg) · [澳大利亚（AU） 1](discipline.md#r-au) · [比利时（BE） 1](discipline.md#r-be) · [瑞士（CH） 1](discipline.md#r-ch) · [丹麦（DK） 1](discipline.md#r-dk) · [法国（FR） 1](discipline.md#r-fr) · [土耳其（TR） 1](discipline.md#r-tr)
+**按地区跳转：** [全球（GLOBAL） 35](discipline.md#r-global) · [美国（US） 34](discipline.md#r-us) · [英国（UK） 22](discipline.md#r-uk) · [德国（DE） 13](discipline.md#r-de) · [欧盟/欧洲（EU） 7](discipline.md#r-eu) · [荷兰（NL） 5](discipline.md#r-nl) · [瑞典（SE） 5](discipline.md#r-se) · [加拿大（CA） 4](discipline.md#r-ca) · [西班牙（ES） 4](discipline.md#r-es) · [奥地利（AT） 2](discipline.md#r-at) · [瑞士（CH） 2](discipline.md#r-ch) · [中国香港（HK） 2](discipline.md#r-hk) · [新加坡（SG） 2](discipline.md#r-sg) · [澳大利亚（AU） 1](discipline.md#r-au) · [比利时（BE） 1](discipline.md#r-be) · [丹麦（DK） 1](discipline.md#r-dk) · [法国（FR） 1](discipline.md#r-fr) · [土耳其（TR） 1](discipline.md#r-tr)
 
 <a id="r-global"></a>
 
-## 全球（GLOBAL）（33）
+## 全球（GLOBAL）（35）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -41,7 +41,9 @@
 | [ISCE 化学生态学职位板](https://chemecol.org/employment/)<br><sub>全球 ｜ 化学/材料·生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 各岗位要求不同，需看具体公告；岗位涵盖教授、博后与博士<br>ISCE 化学生态学职位板，页面公告包括博士岗位（如印第安纳大学、加州大学河滨分校、弗吉尼亚理工大学）以及研究人员类职位。页面日期格式为 MM/DD/YYYY（如 10/17/2026），公告约保留六个月。 |
 | [ISME 国际微生物生态学会职业页](https://isme-microbes.org/public/profiles/careers)<br><sub>全球 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面列出多个博后岗位，截止日期不一：维也纳 RECLESS 博后为 2026-10-31，Wang 实验室与中山大学 Yang 实验室博后均列为 2027-12-31。</sub> | ❔ | 微生物生态方向博后与博士岗，常来自中国、欧美高校实验室。部分截止日期异常，务必核对岗位页真实截止时间与资助来源。 |
 | [learning-theory（学习理论 Google Group）](https://groups.google.com/g/learning-theory)<br><sub>全球 ｜ 人工智能·计算机·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 学习理论社区列表，会出现 PhD 招生帖。 |
+| [ML-news（Machine Learning News）Google Group](https://groups.google.com/g/ML-news/about)<br><sub>全球 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | IMLS 管理的机器学习讨论组（Google Group），用于发布会议、征稿与招聘公告；需申请加入，帖子经版主审核后才会发出。 |
 | [Nature Careers 化学博后筛选页](https://www.nature.com/naturecareers/jobs/chemistry/postdoctoral/fixed-term/phd/)<br><sub>全球 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 按化学、博后、固定期限筛选，德国、中国等地较多，补充化学博后检索。 |
+| [Optica WORKinOPTICS 职位板](https://www.optica.org/en-us/careers)<br><sub>全球·美国 ｜ 物理/天文·工程</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 光学与光子学职位板，以产业岗为主，学术博后可按关键词筛选。 |
 | [PhilJobs](https://philjobs.org/)<br><sub>全球 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 哲学职位板，含欧洲带薪 PhD 岗位。 |
 | [Physics Today Jobs](https://jobs.physicstoday.org/)<br><sub>全球·美国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 物理学职位板，可搜 “PhD”。 |
 | [SfN NeuroJobs](https://www.sfn.org/neurojobs)<br><sub>全球 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 美国神经科学学会职位板。 |
@@ -52,31 +54,40 @@
 
 <a id="r-us"></a>
 
-## 美国（US）（25）
+## 美国（US）（34）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [AGU Career Center](https://findajob.agu.org/)<br><sub>美国·全球 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | AGU 职业中心，页面显示约 479 个地球与空间科学在招职位，可按学科、地点和部门类型筛选；职位条件与资助以各岗位发布为准。 |
 | [ECOLOG-L](https://esa.org/membership/ecolog/)<br><sub>美国·全球 ｜ 生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 依职位而定；列表中的 PhD 岗位多为 RA/TA 或助研名额<br>美国生态学会（ESA）的 ECOLOG-L 邮件列表，主要用于发布研究生与博后岗位。归档需申请口令访问；订阅无需 ESA 会员。当前职位请查看归档。 |
 | [MathJobs（AMS）](https://www.mathjobs.org/jobs)<br><sub>美国·全球 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 北美数学博士后与教职岗位多在 MathJobs 投递，截止日期因职位而异，常见在 10 月底至 12 月前后。 |
+| [Stanford 生物工程系研究生资助与奖学金](https://bioengineering.stanford.edu/admissions/financial-aid)<br><sub>美国 ｜ 生物/生命科学·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>录取即自动考虑院系博士奖学金；其他奖学金截止以官网为准。</sub> | ❔ | **要求：** 需先申请斯坦福生物工程博士项目（录取时自动考虑院系奖学金）；国际生资格以官网为准。<br>生物工程博士资助页,录取即自动考虑大学研究生奖学金。Knight-Hennessy 需单独申请,中国大陆学生需核对资格。 |
 | [UC Davis 农业与资源经济系博士资助](https://are.ucdavis.edu/phd/prospective-students/financial-support/)<br><sub>美国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ✅ | **要求：** 国际生需获 PhD 录取；非居民学费（NRT）报销需按期进入候选人阶段（第四年前）；具体以 ARE 页面为准<br>录取博士生近年获 5 年资助，并明确国际生非居民学费在一定期限内由系里承担。（金额以官网当期为准） |
 | [UW-Madison 社会学系博士资助](https://sociology.wisc.edu/prospective-students/departmental-funding/)<br><sub>美国 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ✅ | 页面称研究生岗位（助教、项目助理、研究助理、奖学金等）以学术潜力和岗位匹配为依据，不看经济需求；大学支付学费并承担约 90% 医保保费，另付津贴。院系保证的五年资助可由外部奖学金替代其中部分年限。 |
 | [亚利桑那大学计算机系研究生资助](https://www2.cs.arizona.edu/graduate/aid.html)<br><sub>美国 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>TA/RA 最低 $15,000/学年（含学费减免与医保；页面未注明年份）</sub> | — | ❔ | 亚利桑那大学计算机系博士资助：新入学博士生首年资助有保障（TA/RA 最低 $15,000/学年，另含学费减免与医保），之后视学业进展；国际生需另提交财务担保表。系网站措辞不完全一致，以系里当期说明为准。 |
 | [佐治亚理工 ECE 研究生资助](https://ece.gatech.edu/current-students/graduate/financial-assistance)<br><sub>美国 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 页面称助研/助教为主要资助来源（超过 50% 的全日制研究生），并提供较低学费；贷款仅限美国公民和永久居民。<br>页面称约 50% 的一年级博士生由助教职位资助，直至找到提供助研职位的导师；页面未说明所有博士生均获全额资助。 |
 | [佐治亚理工物理系财务支持](https://physics.gatech.edu/node/6015)<br><sub>美国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$35,504/年（学院财务支持页当期数据）</sub> | — | ✅ | **要求：** 需申请并获博士录取；国际申请者可获 Amelio Fellowship（每年额外 $5,500，最多 4 年）<br>博士生均获学费减免，并通过助教、研究助理或奖学金获得资助；当期研究生 stipend 约 $35,504/年，学生仍需支付约 $1,400/学期费用。国际申请者可申请 Amelio Fellowship。金额以官网当期为准。 |
+| [佛罗里达大学政治学系资助](https://polisci.ufl.edu/graduate/financial-aid)<br><sub>美国 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | — | ❔ | **要求：** 非英语国家申请者担任助教需通过佛州要求的口语测试（SPEAK 或 iBT 口语部分），分数以官网为准<br>政治学博士多数通过助教或助研获资助，相关岗位含学费减免；官网未给出津贴金额，需向政治学系研究生办公室确认。 |
+| [佛罗里达大学机械与航天系资助](https://mae.ufl.edu/students/graduate/funding/)<br><sub>美国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ❔ | 系页面称所有 MAE 博士生获全额支持，含年度津贴、学费与医保；2025-2026 学年最低年津贴为 32,000 美元，每年可能调整。 |
 | [俄亥俄州立大学天文系博士资助](https://astronomy.osu.edu/grad/prospective-students/funding-your-phd)<br><sub>美国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>页面标注 12 月 10 日截止（年份印刷有误），2027 年秋季轮以系内通知为准</sub> | ❔ | OSU 天文系保证录取生获得资助（大学奖学金、助教或研究助理职位），通常需担任至少一学期助教，前提是保持学业进度；国际生可申请 Fulbright 等外部奖学金，金额以官网当期为准。 |
 | [俄亥俄州立大学德语系录取与资助](https://germanic.osu.edu/graduate-program-german-0/funding)<br><sub>美国 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ✅ | **要求：** MA 与 PhD 录取者均获全额资助（学费减免、津贴、100% 医保补贴）；未按国籍区分<br>德语系官网称所有录取的 MA 与 PhD 学生学习期间获全额资助（学费与学杂费减免、津贴、100% 健康保险补贴），通过 Fellowship 与 Graduate Teaching Associateship 提供；可另申请 DAAD、Fulbright 等延长资助。资助年限与金额以官网当期为准。 |
+| [俄勒冈州立大学药学院博士资助](https://pharmacy.oregonstate.edu/programs-admissions/phd-program/funding)<br><sub>美国 ｜ 医学/公卫·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ❔ | 博士助理（GTA/GRA/Fellow）一般获学费全免、90% 强制学费与医保费用减免及月 stipend，学生自付余下 10%。药学院另有 NIH T32 培训项目，每年约 4-5 名研究生获全额学费与 stipend。stipend 具体金额页面未给出，国际生资格以官网为准。 |
 | [堪萨斯大学商学院博士资助](https://business.ku.edu/graduate-programs/phd/funding)<br><sub>美国 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$38,000/年（Self Graduate Fellowship，2026 年秋入学）</sub> | **2027-01-10**<br><sub>目录称每年 1 月 10 日截止（仅秋季入学）；第三方称 12 月 15 日为优先截止，以官网为准</sub> | 🟡 | 所有博士生获全额学费与费用及助理职位或 fellowship 资助，并有补贴医保，至少 4 年。John E. Young 奖学金仅限美国公民或永居者；Self Fellowship 为择优提名制。 |
 | [堪萨斯大学地质系资助](https://geo.ku.edu/financial-support)<br><sub>美国 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$32,000–$35,000/年（含学费、费用与生活费）</sub> | 未公布<br><sub>申请即自动参加系内奖学金与助理职位评选；页面未给出具体截止日，国际生资格需向系确认</sub> | ❔ | 页面称堪萨斯大学地质系为新入学硕士和博士生提供一年期奖学金与助理职位，每项约 $32,000–35,000，含学费、费用与生活费；学业进展合理时可保障至博士第四年。所有申请者自动参与系内评选，页面未给出截止日期。 |
 | [堪萨斯大学社会福利学院博士资助](https://socwel.ku.edu/academics/phd/phd-funding)<br><sub>美国 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | **2027-01-06**<br><sub>🟢 开放申请</sub><br><sub>2027 年秋季入学；申请 2026-10-01 开放，优先截止 2027-01-06。</sub> | ❔ | 堪萨斯大学社会福利学院博士项目官网：2027 年秋季招生，申请 2026 年 10 月 1 日开放，优先截止 2027 年 1 月 6 日。官网称博士生享有四年学费支持（需全日制且学业良好），并可申请 GRA/GTA 岗位（约 50% 助理职位，含津贴）。 |
+| [宾州州立大学农业与生物工程系博士职位公告](https://abe.psu.edu/graduateprograms/job-postings)<br><sub>美国 ｜ 工程·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub><br><sub>助研职位多由教授个人发布；系内录取截止为秋季入学 12 月 1 日、春季入学 8 月 1 日，具体以岗位为准</sub> | ❔ | 全额资助博士助研岗位公告，页面不一定实时更新，需确认截止与国际生资格。 |
 | [宾州州立大学政治学系资助](https://polisci.la.psu.edu/?p=373)<br><sub>美国 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ❔ | **要求：** 未找到国际生单独条款，国际生条件需向系确认<br>录取博士生获五年期助理或奖学金支持，含月津贴、全额学费奖学金及医保 80% 保费补贴；官网未列出具体津贴金额。 |
 | [宾州州立大学生物系研究生资助](https://science.psu.edu/bio/grad/financial-support)<br><sub>美国 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>🔜 即将开放</sub><br><sub>杰出申请者奖学金申请截止在 12 月中旬前后（两版页面分别写 12 月 10 日与 12 月 15 日，以当年官网为准）</sub> | 🟡 | **要求：** 博士生获五年资助（生活津贴加全额学费），需保持良好学术状态；国际生担任助教须通过英语口语测试<br>宾州州立大学生物系官网：博士生保证五年资助，包括助教、研究助理或奖学金，全额学费与生活津贴，第六年视情况提供；国际生担任助教需通过英语口语测试。金额以官网当期为准。 |
+| [密歇根大学机器人学研究生资助](https://robotics.umich.edu/academics/graduate/admissions/funding-for-graduate-students)<br><sub>美国 ｜ 工程·计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ❔ | 密歇根大学机器人学博士生通常获得完整资助包（stipend、学费与注册费、医疗牙科福利），本科入学 5 年、相关硕士入学 4 年；GSRA 需自行联系导师，GSI 公开招聘。国际生资格与导师确认。 |
 | [密歇根州立大学心理学系博士录取与资助](https://psychology.msu.edu/academics/graduate/doctoral/admission)<br><sub>美国 ｜ 社会科学/心理·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>🟢 开放申请</sub> | ✅ | **要求：** 本科 GPA 3.20 以上（最后两年）；需心理学专业或相关课程（含统计）；无需提交资金证明<br>2027–28 学年（Fall 2027）申请已开放；各研究方向分别录取，组织心理学与社会/人格方向本轮不招生。页面称对所有录取申请者提供资助。 |
 | [明尼苏达大学社会学系研究生资助](https://cla.umn.edu/sociology/graduate/funding)<br><sub>美国 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>约 $23,000/年（9 个月 TA，平均；每周约 20 小时）</sub> | 各项目不同<br><sub>🔄 随时可申</sub><br><sub>博士申请截止以系当年招生公告为准；录取者享五年资助保障</sub> | ✅ | **要求：** 录取博士生享五年资助保障（需学业进展达标）；含学费减免与医保保费优惠；国际生学费与国内不同<br>录取研究生均有五年资助；国际生学费与国内不同，申请时注意区分。（金额以官网当期为准） |
 | [普渡大学教育学院研究生资助](https://education.purdue.edu/students/graduate-students/graduate-funding/)<br><sub>美国 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>📋 持续更新</sub><br><sub>部分奖项由系提名：教师提名截止为每年 1 月第二个周五；其余由各系决定</sub> | ❔ | 教育类博士 fellowship 与 assistantship 说明；国际生资格按项目核实。（金额以官网当期为准） |
 | [比较生物学会（SICB）职位与奖学金板](https://sicb.org/jobs-and-fellowships/)<br><sub>美国·全球 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 比较生理与进化生物学方向的职位与奖学金入口，博后较多。以美国岗位为主，中国学生需核对工作许可。 |
+| [爱荷华大学工学院研究生资助](https://engineering.uiowa.edu/graduate-funding)<br><sub>美国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ❔ | 爱荷华大学工学院博士生多通过助研、助教与奖学金获得资助。土木与环境工程系页面称起薪 $29,000/年起，含全额学费与医保；学院 Dean's Fellowship 21,500 美元仅面向新入学博士生。国际生的学费待遇需向系确认。 |
+| [爱荷华大学微生物系财务支持](https://microbiology.medicine.uiowa.edu/financial-support)<br><sub>美国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>📋 持续更新</sub> | ❔ | 爱荷华大学微生物学博士资助 2026–27：年津贴 $36,350，另有健康保险补贴 $5,244，学费与强制费用全免；博士生按学业进展续资助，通常约 5 年；国际生条款申请前确认。 |
 | [爱荷华州立大学经济系博士资助](https://www.econ.iastate.edu/funding-and-costs-grad-students)<br><sub>美国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | — | ✅ | 页面称首年半职（每周 20 小时）助教津贴为每学年 $23,000（9 个月）；博士半职助教可获相当于居民学费 100% 的学费奖学金（需 GPA 不低于 3.0），助教按居民学费计费，每学期约 $500 学生费用自付。 |
 | [犹他大学人口健康科学博士资助](https://medicine.utah.edu/population-health-sciences/phd/funding)<br><sub>美国 ｜ 医学/公卫·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>2026–27 学年兼职研究助理（每周 20 小时）年津贴 $33,280；暑期可增至 $41,600</sub> | —<br><sub>📋 持续更新</sub> | ✅ | 犹他大学人口健康科学博士：申请者在录取过程中自动匹配资助，无单独资助申请；页面称提供全额学费、GSHIP 医保及研究助理年度津贴，国际生与本地生同样参与资助匹配。 |
+| [石溪大学生态与进化系学费与资助](https://www.stonybrook.edu/ecoevo/academic-programs/phd-tuition-funding.html)<br><sub>美国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>助教 $30,000/9 个月；助研最低 $40,667/12 个月（以校方当期为准）</sub> | — | ❔ | **要求：** 国际生是否同等享有助教/助研资助需向系确认；NSF GRFP 仅限美国公民、国民或永久居民<br>全日制博士生享全额学费与医保，系里保证最长 5 年资助；金额以官网当期为准，国际生条件待向系确认。 |
 | [罗格斯大学物理系研究生支持](https://physics.rutgers.edu/academics/graduate-program/graduate-student-support)<br><sub>美国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ❔ | Rutgers 物理系称，依据学院政策与工会合同，博士生至少获 5 年资助；工会材料称正式 5 年条款适用于 2024 年秋及以后入学者，现行合同后续未定，金额与国际生条款以官网当期为准。 |
 | [美国植物学会（BSA）共享职位板](https://jobs.botany.org)<br><sub>美国·全球 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 页面列出大学教职、研究员、博后、博士助研（Ph.D. Graduate Assistantship）等职位，各岗位截止日期不同。 |
 | [芝加哥大学社会科学 division 博士资助说明](https://socialsciences.uchicago.edu/node/22814)<br><sub>美国 ｜ 社会科学/心理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ✅ | 芝加哥大学社会科学 Division 页面称，所有入学博士生在整个学程内获资助，不论国籍：全额学费奖学金、学生医保（本人）、学生服务费及生活津贴；各系标准见 Division 网站。 |
@@ -84,7 +95,7 @@
 
 <a id="r-uk"></a>
 
-## 英国（UK）（17）
+## 英国（UK）（22）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -95,31 +106,41 @@
 | [伯明翰大学空间研究与引力波博士招生页](https://www.sr.bham.ac.uk/phd/index.php)<br><sub>英国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>🔄 随时可申</sub> | ❔ | 覆盖引力波天文与仪器方向，部分为 STFC 全奖名额。招生页称 STFC 名额面向英国学生并要求 2:1 以上学位，国际生资助以具体岗位为准；需向 PhD 联络员确认下一轮。 |
 | [剑桥大学卡文迪许实验室量子材料组博士岗位](https://quantum-materials.phy.cam.ac.uk/openings/)<br><sub>英国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 需先联系导师（页面列出 Suchitra Sebastian 等联系人）再申请剑桥博士；国际生资格与资金以岗位说明为准。<br>需先联系导师再申请剑桥物理系博士。全额资助多依赖剑桥奖学金或项目经费，中国学生资格以各岗位说明为准。 |
 | [剑桥工程生物学研究机会页](https://www.engbio.cam.ac.uk/opportunities)<br><sub>英国 ｜ 生物/生命科学·工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 汇总合成生物与工程生物学 PhD、博后机会，逐条核实资助与国际生资格。 |
+| [圣安德鲁斯大学地理与可持续发展学院研究生（PGR）页](https://www.st-andrews.ac.uk/geography-sustainable-development/prospective/pgr)<br><sub>英国 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£19,775/年（2025–26 竞赛）</sub> | 各项目不同<br><sub>🔜 即将开放</sub><br><sub>2025–26 竞赛申请窗口于 2026-02-09 关闭；2026–27 竞赛未见公告，关注次年年初</sub> | 🟡 | **要求：** 奖学金按竞赛名额发放；不含续期费、签证费、IHS、英语考试费与家属费用<br>列出面向 UK、EU 与国际新生的博士奖学金入口，需逐项看是否对中国大陆学生开放。 |
 | [布里斯托大学天体物理博士名额页](https://www.bristol.ac.uk/physics/research/astrophysics/postgrad/phd-studentships/)<br><sub>英国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-01-19**<br><sub>🟢 开放申请</sub><br><sub>页面写明截止日期为 2027 年 1 月 19 日，入学约 2027 年 9 月。</sub> | ❔ | **要求：** 通常需一等或上二等荣誉学位（物理或相关专业）；申请时需在个人陈述中写明感兴趣的项目编号。<br>页面称 2026–27 招生轮次正在接收申请，资助名额由 STFC 及校方提供，为期 3.5–4 年。页面称欢迎英国或海外学生申请，但未说明国际生获得名额的具体条件。 |
 | [帝国理工材料系博士课题列表](https://www.imperial.ac.uk/engineering/departments/materials/study/materialsphd/phdprojects/)<br><sub>英国 ｜ 工程·化学/材料·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>UKRI 标准生活津贴（页面称 2026–27 年为 £23,805/年）</sub> | — | ❔ | **要求：** 需先与系内课题导师联系并获同意；需持或将获硕士学位，且本科为英国 2:1 以上（Upper Second Class Honours）水平<br>页面列出系内全额资助博士课题（含 DLA），资助包括学费及按 UKRI 标准的生活津贴，最长 42 个月。申请限英国或享受本地学费资格的候选人，国际生可申请但资助名额较少。 |
 | [普利茅斯海洋生物协会（MBA）博士机会页](https://www.mba.ac.uk/phd-opportunities)<br><sub>英国 ｜ 生物/生命科学·地球/环境/海洋·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | MBA 本身不长期发布独立博士岗位，博士机会多经 Marine Research Plymouth（MRP）发布。MRP 2026 年入学的 3.5 年博士奖学金已发布，截止日期需看 MRP 页面。国际生资格以项目说明为准。 |
 | [杜伦大学天文与宇宙学研究生机会页](https://astro.dur.ac.uk/postgraduate_opportunities.html)<br><sub>英国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | **2026-12-15**<br><sub>🟢 开放申请</sub><br><sub>页面称无正式截止日，但 2026 年 12 月 15 日前提交的完整申请将获得最充分考虑（针对 2027 年 10 月入学）；STFC 建议 12 月 15 日前提交，CSC 建议 2026 年 12 月初前提交。</sub> | ❔ | 2027 年 10 月入学的博士与理学硕士科研资助：STFC 博士奖学金（学费与生活费，通常 3.5 年）、CSC 名额（学费与 3.5 年生活津贴），另有自筹或其他来源资金的学生。 |
 | [爱丁堡大学核物理研究生项目页](https://www.ph.ed.ac.uk/nuclear-physics/postgraduate-studies)<br><sub>英国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>🔜 即将开放</sub><br><sub>页面称 studentship 申请截止通常在 1 月底至 2 月初；页面所列 STFC 名额初始截止为 2026 年 1 月 16 日（已过）；页面未列 2027 年 1 月 22 日的截止日，需核实。</sub> | ❔ | 页面（2026 年 9 月 15 日更新）列有 PhD 课题与 studentship 信息，系里可直接提供 STFC 名额；PLANET 博士项目仅面向 home fee status 学生。 |
+| [牛津 OCIAM 研究人员公告列表](https://lists.maths.ox.ac.uk/mailman/listinfo/ociam-research-staff-announce)<br><sub>英国 ｜ 数学/统计·工程·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 牛津工业与应用数学中心博后、JRF、SRF 等研究人员岗位公告邮件列表，适合应用数学、计算科学方向；归档仅成员可见。 |
+| [牛津大学社会学系资助页](https://www.sociology.ox.ac.uk/funding)<br><sub>英国 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£20,780/年（2025-26）</sub> | —<br><sub>📋 持续更新</sub> | 🟡 | **要求：** 需在牛津研究生申请中选择 ESRC Grand Union DTP 并另交 DTP 申请表；DTP 向国际生的名额有上限（约 30%）；签证与医疗附加费不在资助范围内<br>牛津大学社会学系 ESRC Grand Union DTP 奖学金，覆盖学费与生活费。国际生可申请但名额有限，故为部分开放。截止日以课程和 DTP 当期要求为准。 |
+| [牛津数学研究所 PDRA 岗位公告列表（pdra-announce）](https://lists.maths.ox.ac.uk/mailman/listinfo/pdra-announce)<br><sub>英国 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 牛津数学研究所转发的博后研究助理岗位邮件列表，岗位多为有薪固定期限合同；归档仅成员可见，订阅可能需审批。 |
 | [牛津数论博士/博后/初级研究员汇总公告列表](https://lists.maths.ox.ac.uk/mailman/listinfo/number-theory-junior-announce)<br><sub>英国 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 汇总牛津多个数论子列表，可同时看到 DPhil、PDRA 与初级研究员岗位；归档仅成员可见。 |
 | [牛津随机分析组博后公告列表（sa-postdoc-announce）](https://lists.maths.ox.ac.uk/mailman/listinfo/sa-postdoc-announce)<br><sub>英国 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 随机分析组博后职位公告邮件列表；归档仅成员可见，需订阅后才能看到。 |
 | [皇家霍洛威经济学 SEDarc 奖学金](https://www.royalholloway.ac.uk/research-and-education/subjects/economics/studying-here/postgraduate-research-phds/sedarc-economics)<br><sub>英国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£21,237/年（官网所列 2024/25 费率），3.5 年</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 SEDarc 校内截止 2026-01-15 已关闭；2027 轮以官网为准</sub> | ✅ | SEDarc 经济学博士奖学金（3.5 年），官网称资助包含生活津贴以及英国和国际学生的学费；竞争性名额。申请需先申请 RHUL 经济学博士项目，研究计划经内部评审并匹配导师后再准备 SEDarc 资助申请。 |
 | [英国 Economics Network 经济学职位板](https://economicsnetwork.ac.uk/jobs)<br><sub>英国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 列出英国及国际经济学研究与教学岗位，适合查博后，按截止日期过滤并核实工作签证要求。 |
+| [萨塞克斯大学发展研究所（IDS）博士项目](https://www.sussex.ac.uk/study/phd/degrees/development-studies-ids-phd)<br><sub>英国 ｜ 社会科学/心理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>2027 年入学 SEDarc 截止日期未查到，以 Sussex 官网为准</sub> | ❔ | 萨塞克斯大学 IDS 发展研究博士项目，海外全日制学费 2025/26 为 £22,575/年（IDS 页面）。ESRC SEDarc 2027 年 9 月入学奖学金截止日期待官方公布。中国大陆学生资格待核实。 |
 | [诺森比亚大学太阳与空间物理全奖博士机会](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/solar-and-space-physics/fully-funded-phd-opportunities/)<br><sub>英国 ｜ 物理/天文·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£20,780/年（2025/26 参考值）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 6 月 1 日截止（已过），2027 轮待公告</sub> | ✅ | STFC 资助的太阳与空间物理全奖博士名额，含学费与生活津贴（2025/26 年 £20,780/年）。2026 轮 6 月 1 日已截止；国际生学费差额需按校方规定确认，关注官网下一轮公告。 |
 
 <a id="r-de"></a>
 
-## 德国（DE）（8）
+## 德国（DE）（13）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Fraunhofer IEE · 博士论文与博士岗位招聘页](https://iee.fraunhofer.de/en/career.html)<br><sub>德国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 通常需优秀硕士成绩；需先获大学接受博士课题并与研究所商定；国际生资格与语言要求未确认<br>弗劳恩霍夫 IEE 招聘页，含博士论文与博士岗位入口。页面未列出当前开放的博士岗位与截止日期，请定期查看。 |
 | [GSI 亥姆霍兹重离子研究中心博士论文与岗位页](https://www.gsi.de/work/forschung/theses)<br><sub>德国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 各岗位条件不同，国际生资格需看具体招聘与合作大学的要求。<br>列出 GSI 的博士课题与合作大学博士岗位,核物理与 FAIR 相关方向。学位由合作大学授予,确认入学要求与国际生资格。 |
+| [ML4Q 量子招聘板（波恩与于利希）](https://ml4q.de/jobs/)<br><sub>德国 ｜ 物理/天文·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 未公布<br><sub>📋 持续更新</sub><br><sub>各岗位截止不一，见招聘板</sub> | ❔ | 汇总波恩与于利希的量子相关岗位，可筛选博士与博后。 |
 | [MPI 固体研究所（斯图加特）招聘页](https://www.fkf.mpg.de/258433/09_Job_Openings)<br><sub>德国 ｜ 物理/天文·化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止不一；第三方称 IMPRS-CMS 两个申请期为 1–2 月与 8–9 月，2026 秋季轮已于 9 月 30 日截止</sub> | ❔ | **要求：** 硕士或同等学历（物理、化学、材料等），英文能力<br>博士岗位多为全额资助的雇员合同，与 IMPRS-CMS 联动，可按岗位直接申请。 |
+| [TUM 生物信息岗位页（jobs-bioinfo 列表）](https://www.cs.cit.tum.de/en/bio/projects/jobs/)<br><sub>德国·欧盟/欧洲 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>⏸ 本轮已截止</sub> | ❔ | TUM 生物信息组岗位页。核查时页面显示暂无开放博士岗位，并指向慕尼黑 jobs-bioinfo 邮件列表获取通知。 |
+| [奥尔登堡大学招聘门户（ICBM 海洋研究博士岗位入口）](https://uol.de/stellen)<br><sub>德国 ｜ 生物/生命科学·地球/环境/海洋·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | —<br><sub>📋 持续更新</sub><br><sub>搜索时未见开放的 ICBM 博士岗位；门户持续更新，需先确认资金并找到导师</sub> | ❔ | 奥尔登堡大学 ICBM 海洋相关博士岗位通过大学招聘门户发布，也接受自拟课题申请（需先确认资金并找到导师）。搜索未找到当前开放的 ICBM 博士岗位，请定期查看门户。 |
 | [奥格斯堡大学计算机视觉/具身 AI 组（Stückler 组）招聘页](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/ips/open-positions/)<br><sub>德国 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | **2026-07-24**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 7 月 24 日截止，本轮已关闭；页面接受主动申请邮件</sub> | ❔ | **要求：** 需计算机、电气、应用数学或物理相关硕士；按 TV-L E13 支付<br>计算机视觉与具身 AI 方向的三年期研究助理/博士岗（TV-L E13），此前一轮截止为 2026 年 7 月，已关闭。页面长期有效，建议关注后续新岗位。 |
 | [弗莱堡大学机器人学习实验室（Valada 组）招生页](https://rl.informatik.uni-freiburg.de/open-positions)<br><sub>德国 ｜ 人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 滚动<br><sub>🔄 随时可申</sub><br><sub>页面称申请持续接收，直至岗位招满。</sub> | ❔ | **要求：** 需计算机、机器人、机器学习或计算机视觉等相关硕士，具备 PyTorch 经验，C++ 加分；不要求德语，公告称欢迎国际候选人（来自邮件列表与 ELLIS 公告）<br>页面列出博士与博士后岗位，薪资为 TV-L E13 至 E14（100%）；页面称欢迎国际候选人，不要求德语。 |
 | [波茨坦大学计算语言学实验室（CLP）岗位页](https://clp.ling.uni-potsdam.de/positions/)<br><sub>德国 ｜ 人文/语言·计算机</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 滚动<br><sub>🟢 开放申请</sub> | ❔ | 页面注明 2026 年博士岗已招满，当前仅一个博后岗位：100% TVL-13，初期 3 年，与 DFKI Berlin 合作，项目为 FLICA。岗位招满为止，评审已于 2026 年 7 月开始。 |
+| [波茨坦气候影响研究所（PIK）招聘页](https://www.pik-potsdam.de/en/people/career)<br><sub>德国 ｜ 地球/环境/海洋·生态/进化·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 未公布<br><sub>📋 持续更新</sub><br><sub>已见岗位 2026-08-23 截止，已过；新岗位在 jobs 页发布，无统一截止日</sub> | ❔ | **要求：** 德国带薪合同；具体学历、语言与国籍要求以各岗位公告为准<br>PIK 官方招聘页，博士与博后岗位为德国带薪合同；已知多数 2026 岗位已截止，请长期跟踪新发布。国籍与签证要求以岗位说明为准。 |
 | [波鸿鲁尔大学 发展心理学博士研究助理（早期儿童情景记忆项目）](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003809215-S)<br><sub>德国 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-10-26**<br><sub>🟢 开放申请</sub><br><sub>截止 2026-10-26；2027-01-01 起，至 2030-12-31，开始时间待经费批准。</sub> | ❔ | **要求：** 硕士学位（心理学或相近领域）；要求流利的德语和英语；开始时间待经费批准。<br>75% 研究助理职位，可在岗攻读累积式博士，研究方向为早期儿童情景记忆。 |
 | [莱布尼茨天体物理研究所（AIP Potsdam）岗位页](https://www.aip.de/en/career/jobs)<br><sub>德国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面列出：X 射线天文博后 2026-10-31；光纤科学家 2026-12-01；tenure-track 科学家 2026-12-15；探测器博后页面未列截止日；以岗位页为准</sub> | ❔ | **要求：** 以各岗位公告为准；博后多为 TV-L 工资标准下约 1–2 年的项目制岗位<br>德国波茨坦天体物理研究所（AIP）岗位页，列有博后、科学家和 tenure-track 岗位，截止日各不相同（见截止说明）；申请前核对每个岗位的截止日期。 |
+| [马普信息学所逻辑自动化组职位](https://mpi-inf.mpg.de/departments/automation-of-logic/offers)<br><sub>德国 ｜ 计算机·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | — | ❔ | 马普信息学所逻辑自动化组（Christoph Weidenbach）当前列出两个博后岗位，为带薪职位，未显示截止日。博士招生经 IMPRS-TRUST，需查看该项目当期公告。 |
 
 <a id="r-eu"></a>
 
@@ -147,6 +168,18 @@
 | [特文特大学流体物理组职位页](https://pof.tnw.utwente.nl/vacancies)<br><sub>荷兰 ｜ 物理/天文·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>🟢 开放申请</sub> | ✅ | 特文特大学流体物理组（Lohse 组）职位页，列出博士岗位（如多组分体系的熔化与溶解、自推进向列液滴等）；页面无发布日期，需逐条核对截止日期。荷兰大学博士通常为带薪雇员，具体以岗位为准。 |
 | [莱顿天文台博士申请与岗位说明](https://local.strw.leidenuniv.nl/jobs/phd/)<br><sub>荷兰 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-11-15**<br><sub>🟢 开放申请</sub><br><sub>2026 轮截止 11 月 15 日（页面所载，含推荐信）；申请通过莱顿在线申请系统提交，当前轮次已开放。</sub> | ❔ | **要求：** 需硕士学位或同等学历；通过莱顿在线申请系统提交申请与推荐信<br>莱顿天文台博士招生页：本轮为统一招生（several PhD positions），另有 de Sitter 奖学金项目，按同一流程与截止日期申请。 |
 
+<a id="r-se"></a>
+
+## 瑞典（SE）（5）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [ELLIIT 瑞典信息技术战略计划博士岗位征集](https://elliit.se/research/calls-and-recruitment)<br><sub>瑞典 ｜ 工程·计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-05-13**<br><sub>⏸ 本轮已截止</sub><br><sub>第 H 轮（2027–2031 年项目）提交截止 2026 年 5 月 13 日已过；下一轮以 elliit.se 公告为准</sub> | ❔ | ELLIIT 第 H 轮征集 2027–2031 年博士项目提案，每个项目资助 1 名博士生，由 PI 与共同 PI 分属两所不同大学提交，项目须为新增活动。截止日期以官方 Call H 页面为准。 |
+| [哥德堡大学海洋中心招聘页（Ocean vacancies）](https://www.gu.se/en/ocean/vacancies)<br><sub>瑞典 ｜ 生物/生命科学·生态/进化·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>岗位按批次发布；以学校总招聘页当期公告为准</sub> | ❔ | 哥德堡大学海洋相关招聘在学校总招聘页发布，岗位按批次出现、截止各不相同，以官网当期公告为准。 |
+| [斯德哥尔摩大学动物学系招聘页](https://su.se/department-of-zoology/about-the-department/work-with-us)<br><sub>瑞典 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>官网页面称动物学系当前无空缺博士岗；关注 su.varbi.com 新一轮发布</sub> | ❔ | 动物学系岗位页（最后更新 2026-10-12）当前列出一个博士后岗位（猛犸象古基因组学），未列博士岗位。 |
+| [斯德哥尔摩大学气象系（MISU）岗位页](https://www.su.se/english/divisions/department-of-meteorology/about-the-department/work-with-us)<br><sub>瑞典 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | **2026-11-03**<br><sub>🟢 开放申请</sub> | ❔ | 学系称所有博士岗位统一在校方官网（Varbi 系统）发布，属带薪职位。该页面快照写明暂无空缺，但称 2026 年至少会招一个岗位，需定期查看。国际生资格以各岗位公告为准。 |
+| [斯德哥尔摩大学语言学系招聘与博士岗位页](https://www.su.se/english/divisions/department-of-linguistics/about-the-department/work-with-us)<br><sub>瑞典 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>博士岗在 Varbi 逐个发布，截止日各不相同；页面所列旧职位已过期。</sub> | ❔ | **要求：** 瑞典博士岗为带薪雇佣，要求以各 Varbi 公告为准。<br>瑞典博士岗为带薪雇佣，一般覆盖四年全时博士学习，职位在 Varbi 投递。页面上的岗位可能已截止，需以 su.varbi.com 当前列表为准。 |
+
 <a id="r-ca"></a>
 
 ## 加拿大（CA）（4）
@@ -169,16 +202,6 @@
 | [IMDEA Networks 博士职位列表](https://networks.imdea.org/taxonomy_jobs/phd-student/page/2)<br><sub>西班牙 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub><br><sub>所见 2026 年岗位截止日多已过，当期岗位需看 networks.imdea.org/job/phd</sub> | ❔ | **要求：** 硕士学位并具备编程与无线/网络实验经验（所见岗位要求）；非欧盟资格以各岗位广告为准<br>马德里研究所，网络/6G、安全隐私方向，多由欧盟项目资助；部分已截止，核对非欧盟资格。 |
 | [马德里 IFT 宇宙学组招聘与职位列表](https://projects.ift.uam-csic.es/cosmo/job-offers/)<br><sub>西班牙 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 页面当前列出 JAE-PRE 资助的引力波数据分析博士岗位及 FPI-UAM 资助的引力波与宇宙学博士岗位，并列出 RyC 2026、JdlC 2025 等博后项目；具体截止以各公告为准。 |
 
-<a id="r-se"></a>
-
-## 瑞典（SE）（3）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [ELLIIT 瑞典信息技术战略计划博士岗位征集](https://elliit.se/research/calls-and-recruitment)<br><sub>瑞典 ｜ 工程·计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-05-13**<br><sub>⏸ 本轮已截止</sub><br><sub>第 H 轮（2027–2031 年项目）提交截止 2026 年 5 月 13 日已过；下一轮以 elliit.se 公告为准</sub> | ❔ | ELLIIT 第 H 轮征集 2027–2031 年博士项目提案，每个项目资助 1 名博士生，由 PI 与共同 PI 分属两所不同大学提交，项目须为新增活动。截止日期以官方 Call H 页面为准。 |
-| [哥德堡大学海洋中心招聘页（Ocean vacancies）](https://www.gu.se/en/ocean/vacancies)<br><sub>瑞典 ｜ 生物/生命科学·生态/进化·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>岗位按批次发布；以学校总招聘页当期公告为准</sub> | ❔ | 哥德堡大学海洋相关招聘在学校总招聘页发布，岗位按批次出现、截止各不相同，以官网当期公告为准。 |
-| [斯德哥尔摩大学语言学系招聘与博士岗位页](https://www.su.se/english/divisions/department-of-linguistics/about-the-department/work-with-us)<br><sub>瑞典 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>博士岗在 Varbi 逐个发布，截止日各不相同；页面所列旧职位已过期。</sub> | ❔ | **要求：** 瑞典博士岗为带薪雇佣，要求以各 Varbi 公告为准。<br>瑞典博士岗为带薪雇佣，一般覆盖四年全时博士学习，职位在 Varbi 投递。页面上的岗位可能已截止，需以 su.varbi.com 当前列表为准。 |
-
 <a id="r-at"></a>
 
 ## 奥地利（AT）（2）
@@ -187,6 +210,15 @@
 | --- | --- | --- | --- | :-: | --- |
 | [因斯布鲁克 IQOQI · Ferlaino 组 2026 博士与博后招聘页](https://www.erbium.at/FF/join-us/postdoc-phd-openings-2026/)<br><sub>奥地利 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位<br><sub>约 €2,832.10/月（税前，PhD，页面称全年 14 次发放）</sub> | 滚动<br><sub>🔄 随时可申</sub><br><sub>页面称 2026 年 7 月 15 日起开始审核申请，直至岗位招满。</sub> | ❔ | **要求：** 实验原子物理或量子气体背景；需 CV、动机信、成绩单及推荐人<br>2026 年 Ferlaino 组（量子气体显微镜与光镊平台）博士与博后招聘页；申请邮件发至 Ferlaino-Opening@uibk.ac.at，标题注明 2026 PhD application 或 2026 Postdoc application。 |
 | [萨尔茨堡大学 Z_GIS · 最新招聘与新闻页](https://www.plus.ac.at/zgis/news/)<br><sub>奥地利 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | Z_GIS 的新闻页会发布研究员与博士岗位，是地理信息方向最直接的入口。搜索结果中的博士类岗位多已过期，请定期查看并注意奥地利职位的国籍与语言要求。 |
+
+<a id="r-ch"></a>
+
+## 瑞士（CH）（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [EPFL Galatea 实验室岗位（超快激光与物质相互作用博士）](https://www.epfl.ch/labs/galatea/jobs)<br><sub>瑞士 ｜ 物理/天文·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>📋 持续更新</sub><br><sub>页面称 2026 年将开放两个博士岗位，截止日以岗位页为准</sub> | ❔ | **要求：** 需被 EPFL 某博士项目（EDPO、EDAM 或 EDPY）录取<br>页面称 2026 年将开放两个博士岗位，须先被 EDPO、EDAM 或 EDPY 之一录取；博后页写明当前无空缺。页面未给出截止日。 |
+| [NCCR SPIN 岗位页（瑞士自旋量子网络）](https://www.nccr-spin.ch/open-positions)<br><sub>瑞士 ｜ 物理/天文·化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 未公布<br><sub>📋 持续更新</sub><br><sub>官网未列固定截止日，岗位以各 PI 发布为准</sub> | ❔ | 官网说明：希望以博士生或博后身份加入的请直接联系相关 PI；页面列有巴塞尔量子光电子组的博后岗位。 |
 
 <a id="r-hk"></a>
 
@@ -221,14 +253,6 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [根特大学复合材料研究组博士岗位页](https://composites.ugent.be/PhD_job_vacancies_PhD_job_positions_composites.html)<br><sub>比利时 ｜ 工程·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>税后起薪约 2600 EUR/月（页面所示，三个博士岗位均标注）。</sub> | — | ✅ | **要求：** 需持硕士学位；岗位为全职，博士期限 4 年（页面所示）。<br>根特大学 UGent-MMS 复合材料研究组官网岗位页（2026-10-18 更新）标注 Fall 2026 共 7 个博士与博后岗位，正文详述 3 个博士岗位；页面未显示申请截止日期，需以岗位说明为准。 |
-
-<a id="r-ch"></a>
-
-## 瑞士（CH）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [EPFL Galatea 实验室岗位（超快激光与物质相互作用博士）](https://www.epfl.ch/labs/galatea/jobs)<br><sub>瑞士 ｜ 物理/天文·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>📋 持续更新</sub><br><sub>页面称 2026 年将开放两个博士岗位，截止日以岗位页为准</sub> | ❔ | **要求：** 需被 EPFL 某博士项目（EDPO、EDAM 或 EDPY）录取<br>页面称 2026 年将开放两个博士岗位，须先被 EDPO、EDAM 或 EDPY 之一录取；博后页写明当前无空缺。页面未给出截止日。 |
 
 <a id="r-dk"></a>
 

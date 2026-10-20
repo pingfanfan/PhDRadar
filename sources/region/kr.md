@@ -2,20 +2,21 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 韩国（KR） 信源（33）
+# 韩国（KR） 信源（37）
 
-所有标注了地区 KR 的信源，共 33 条。
+所有标注了地区 KR 的信源，共 37 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 4](kr.md#aggregators) · [政府与国家级奖学金 2](kr.md#gov-scholarships) · [高校旗舰奖学金与资助检索 13](kr.md#university-schemes) · [结构化博士项目与研究机构 1](kr.md#doctoral-programs) · [博士后奖学金与项目 3](kr.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](kr.md#fellowships) · [个人信源与社交渠道 4](kr.md#people-channels) · [导师招生帖（社交平台个人发布） 4](kr.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 1](kr.md#faculty-aggregators)
+**按分类跳转：** [综合聚合平台 5](kr.md#aggregators) · [政府与国家级奖学金 2](kr.md#gov-scholarships) · [高校旗舰奖学金与资助检索 15](kr.md#university-schemes) · [结构化博士项目与研究机构 1](kr.md#doctoral-programs) · [博士后奖学金与项目 4](kr.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](kr.md#fellowships) · [个人信源与社交渠道 4](kr.md#people-channels) · [导师招生帖（社交平台个人发布） 4](kr.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 1](kr.md#faculty-aggregators)
 
 <a id="aggregators"></a>
 
-## 综合聚合平台（4）
+## 综合聚合平台（5）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [Nature Careers · 亚洲物理学博士岗位列表](https://www.nature.com/naturecareers/jobs/physics/asia/full-time/phd/)<br><sub>中国香港·新加坡·日本·韩国·中国内地 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 滚动<br><sub>📋 持续更新</sub><br><sub>列表持续更新，截止日需逐岗位查看</sub> | ❔ | **要求：** 检索结果以教职和博后岗位为主，博士生岗位较少；中国大陆学生资格以各岗位要求为准<br>聚合页，汇总亚洲（含中国、港新日韩）全职物理岗位。检索结果中博士生岗位较少，多为教职与博后；是否全奖及中国大陆资格须逐条核对。 |
 | [Nature Careers 亚洲博后职位板](https://www.nature.com/naturecareers/jobs/postdoctoral/asia/phd/academia/direct-employer)<br><sub>日本·韩国·新加坡·中国香港 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | Nature Careers 亚洲直雇博后职位聚合页；检索时可见日本、新加坡、韩国少量职位，多数职位在中国大陆，以官网筛选结果为准。 |
 | [Nature Careers 亚洲计算机类博后职位筛选页](https://www.nature.com/naturecareers/jobs/computing/postdoctoral/asia/-70-000-99-999/fixed-term/)<br><sub>新加坡·中国香港·日本·韩国·中国内地 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | 按亚洲地区与薪资筛选，适合扫描港、新、日、韩的 AI 岗位。 |
 | [Nature Careers 韩国 · 博士后全职岗位](https://www.nature.com/naturecareers/jobs/postdoctoral/south-korea/full-time/phd)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 页面当前列出 1 个全职、固定期限的博后岗位（IBS 系统神经科学，薪资按内部薪级规定）。合同年限需打开职位页确认。 |
@@ -32,7 +33,7 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（13）
+## 高校旗舰奖学金与资助检索（15）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -45,8 +46,10 @@
 | [UNIST 蔚山科技院研究生招生](https://adm-g.unist.ac.kr/admg-eng/admission/graduate-admissions.do)<br><sub>韩国 ｜ 计算机·工程·物理/天文·化学/材料·生物/生命科学·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>博士最低约 KRW 13,200,000/年（政府资助轨道）；约 KRW 20,880,000/年（大学资助轨道）</sub> | —<br><sub>春秋两季招生，具体截止以官网当年公告为准</sub> | ✅ | **要求：** 需满足学业与进度要求以维持津贴；学费由 RA/TA 职位覆盖<br>官网 FAQ 称所有学生均获 RA/TA 奖学金，覆盖全部学费并提供月津贴（页面未列金额）；申请流程全程在线。 |
 | [亚洲大学（Ajou University）研究生奖学金（BK21 与校内奖学金）](https://ajou.ac.kr/esr_en/graduate/scholarship-system.do)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>博士创意研究奖学金 1,600,000 韩元/月；博士挑战研究奖学金 1,100,000 韩元/月（BK21 项目）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>以学校每年的研究生招生简章为准。</sub> | ✅ | **要求：** 官方页面未给出国际生具体学历与语言门槛，需看研究生院招生简章。<br>官方页面列出 BK21 博士创意研究奖学金每月 160 万韩元、博士挑战研究奖学金每月 110 万韩元等具体金额，国际学生按同样方式发放月度津贴；学费减免按学校规定执行。BK21 期间博士阶段最多可领取 8 个学期，一般规定为 6 个学期。 |
 | [延世大学 Yonsei Frontier Lab 博士后研究员（非韩国籍）](https://yfl.yonsei.ac.kr/yfl/programs/programs02.do)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>最低博士后年度津贴 5,200 万韩元</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>当前轮次截止日未确认，以 Yonsei Frontier Lab 官网为准</sub> | ✅ | **要求：** 非韩国籍；在读博士（预计当年毕业）或申请时 7 年内获博士；理工科近 2 年发表 2 篇以上论文（人文社科需 JCR Q1 论文 1 篇以上）；需新村/国际校区全职教授推荐；医学、牙科、护理及 Mirae 校区不在范围<br>延世前沿实验室博后资助，每年 2 月和 8 月各一轮，对非韩国籍学者开放；申请前先确认目标课题组。 |
+| [成均馆大学研究生国际生奖学金](https://admission-global.skku.edu/eng/grad/scholarship_grad.html)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | 各项目不同 | 🟡 | 成均馆大学入学奖学金（人文社科按首学期学费 10%–100%）、STEM 奖学金（需教授推荐，最高 100% 学费）及学期成绩奖学金（依 GPA 约 20%–50%）；各院系与年份细则不一，申请前需向学校确认。 |
 | [汉阳大学国际生奖学金](https://gsis.hanyang.ac.kr/en/scholarships)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | — | ❔ | **要求：** GPA 需按百分制折算达到 80 分以上（HISP 条件）；语言类减免需 TOPIK 5–6 或 TOEFL iBT 90+ / IELTS 6.5+（相关截止已过）<br>汉阳大学校级国际生奖学金，包括 HISP（学费减免 50%/70%/100%）等，博士阶段是否适用需核实。未找到 GSIS 专属博士奖学金，GSIS 相关信息需向院系确认。 |
 | [韩国天文研究院（KASI）UST 博士招生公告列表](https://www.kasi.re.kr/eng/post/eng_USTNews)<br><sub>韩国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>页面称博士奖学金提供约每月 1600 美元的有竞争力薪酬（2025 年 9 月发布的 2026A 批次公告）；前 3 年提供校园住宿。</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面 2026A 批次申请窗口为 9 月 22 日至 10 月 16 日（17:00 KST），公告发布于 2025 年 9 月，现已截止；页面未列下一批次时间。</sub> | ✅ | **要求：** 本科学位者可申请本博连读，硕士学位者可直接申请博士；需联系对应研究方向的导师。<br>KASI 通过 UST 招收直博与本博连读学生并提供薪酬，页面 2026A 批次已截止；研究方向每批次不同，申请前需联系对应导师。 |
+| [首尔大学总统奖学金（SNU President Fellowship）](https://oia.snu.ac.kr/node/4736)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-03-30**<br><sub>⏸ 本轮已截止</sub><br><sub>官方指南所见为 Spring 2026 批次，申请窗口已过；下一轮以 SNU 官网为准。</sub> | ❔ | **要求：** 须为发展中国家重点大学在职教师或研究人员，持硕士或以上学位且未获博士学位；国别资格以当年公告为准，中国大陆是否适用未确认。<br>首尔大学总统奖学金（SPF），面向发展中国家重点大学在职教师。资助范围与中国大陆资格未经官方核实，cn_eligible 保持 check。 |
 | [高丽大学 GKS 研究生奖学金页面](https://graduate2.korea.ac.kr/scholarship/gkscholarships.html)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>每月生活费 1,000,000 韩元，另有学费全免与研究费等</sub> | 未公布<br><sub>GKS-G 2027 尚未正式公布（第三方称）；大学通道以高丽大学及 NIIED 公告为准</sub> | ❔ | **要求：** 以 NIIED 当年指南为准；需在 studyinkorea.go.kr 完成线上申请<br>页面列出研究生项目：学费由东道大学与 NIIED 承担，每月生活费 1,000,000 韩元；申请人及父母须为指南所列国家公民，韩国国籍不可申请。 |
 | [高丽大学商学院博士奖学金](https://biz.korea.ac.kr/eng/msphd/scholarship.html)<br><sub>韩国 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>博士候选人奖学金 40 万韩元/月（最长 6 学期）；研究奖学金 130 万韩元/月（最长 10 学期）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>以商学院每年公告为准</sub> | ❔ | **要求：** 摘要未说明国际生资格，以官网为准<br>高丽大学商学院英文博士项目，两档奖学金金额据学院官网页面；国际生资格与选拔方式需以官网为准。 |
 
@@ -60,10 +63,11 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（3）
+## 博士后奖学金与项目（4）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [APCTP Young Scientist Training (YST) 理论物理博士后（韩国浦项）](https://www.apctp.org/bbs/board.php?bo_table=recruit&wr_id=81)<br><sub>韩国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 未公布<br><sub>🔜 即将开放</sub><br><sub>2026 年一轮已于 2026-03-02 截止；往年冬春季发布，下一轮预计 2027 年初，需关注 APCTP 招聘公告板</sub> | ❔ | **要求：** 理论物理各方向；入职前至少 3 个月已获博士学位；需申请表、CV、论文列表、研究陈述和两封推荐信<br>亚太理论物理中心（APCTP，POSTECH）博后项目，合同 2+1 年。页面未见国籍限制。 |
 | [IBS Young Scientist Fellowship (YSF) / Junior CI · 韩国基础科学研究院](https://ibs.re.kr/ysf/juniorci)<br><sub>韩国 ｜ 物理/天文·化学/材料·生物/生命科学·数学/统计·神经/认知·地球/环境/海洋·工程</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 各项目不同<br><sub>🔜 即将开放</sub><br><sub>往年约 11–12 月截止（2025 年一轮为 12 月 5 日）；下一轮请留意 IBS 官网公告</sub> | ❔ | **要求：** Ph.D. 获得时间有近年限制（以当年公告为准）；任期 3 年，可视评审延长；搜索结果未写国籍限制<br>IBS 为韩国国家级基础科学研究院，YSF 是面向青年博士后的独立研究基金（含薪资），由申请人选择意向研究中心递交；另有 Junior CI 通道面向 YSF 之后的青年 PI。金额与截止以当年公告为准。 |
 | [IBS 复杂系统理论物理中心（PCS，韩国）访问研究员](https://pcs.ibs.re.kr/PCS_Visitors_Program/PCS_Opportunities.html)<br><sub>韩国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 滚动<br><sub>🔄 随时可申</sub> | ❔ | **要求：** 需合并为一个 PDF：求职信、CV 及 2–4 页研究计划，另需 2 位推荐人<br>IBS 复杂系统理论物理中心（PCS）访问研究员与博士职位，申请持续接收，页面称无截止日期。页面称博士职位一般为三年，薪资与经验相称；材料合并为一个 PDF 发送至 pcs@ibs.re.kr。 |
 | [KAIST InnoCORE 全球博士后计划（AI+S&T）](https://ksi.kaist.ac.kr/m03_01/16)<br><sub>韩国 ｜ 人工智能·工程·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>2025 年公告：年基本薪酬 USD 66,000</sub> | 未公布<br><sub>📋 持续更新</sub><br><sub>2025 公告页可见；2026 批次截止日未核实，请以 KAIST 官网为准。</sub> | ❔ | **要求：** 需博士学位；2026 批次具体资格未核实。<br>韩国 KAIST 等院校的全球博后计划，面向海外博士。目前可见 2025 公告页，申请前需看当期官方公告。 |

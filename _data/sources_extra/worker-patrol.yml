@@ -133,6 +133,31 @@
   verify_method: page
   page_evidence: The application submission period is from 9 February 2026 to 31 May 2026.
   verified: 2026-10-19
+- id: unicamp-pppd-imecc-2026
+  name: Unicamp 数学研究所（IMECC）博后研究员 PPPD 2026 征集
+  url: https://prpg.unicamp.br/arquivo/uploads/edital-pppd-imecc-2026/
+  category: postdoc-fellowships
+  regions:
+  - BR
+  disciplines:
+  - math
+  funding: fellowship
+  levels:
+  - postdoc
+  cn_eligible: 'yes'
+  access:
+  - web
+  language: pt
+  coverage: stipend
+  stipend: R$ 12,570/月（12 个月，不可续）
+  deadline: 2026-04-17
+  deadline_note: 报名起止日期以 IMECC 2026 PPPD 修订版 edital PDF 为准，本次检索未见具体日期
+  status: closed
+  requirements: 需 Lattes 简历；项目须属数学、应用数学或统计方向，并提交每周不少于 8 小时的教学计划；外籍资格以 PDF 为准
+  notes: IMECC 2026 PPPD 征集（修订版）提供 4 个博后奖学金名额，覆盖数学、应用数学、统计三个研究生项目，月额 R$ 12,570，为期 12 个月不可续；报名日期与外籍资格需查 PDF 全文。
+  verify_method: page
+  page_evidence: 3.1. Os processos de seleção estão abertos a candidatos brasileiros e estrangeiros.
+  verified: 2026-10-19
 - id: secihti-estancias-posdoctorales-2026
   name: 墨西哥 SECIHTI（原 CONAHCYT）博士后驻留征集（Estancias Posdoctorales por México）2026
   url: https://secihti.mx/wp-content/uploads/2026/07/CONVOCATORIA_2026_EPM-20260702T194137.pdf
@@ -228,6 +253,96 @@
   verify_method: page
   page_evidence: 'Periodo de inscripción: del 18 al 30 de diciembre de 2025.'
   verified: 2026-10-17
+- id: um-cic-cofinanciadas-2026
+  name: 布宜诺斯艾利斯省 CIC × 莫龙大学合作博士奖学金 UM26
+  url: https://www.cic.gba.gob.ar/wp-content/uploads/2026/05/UM-Bases-Becas-Cofinanciadas-CIC-UM26.pdf
+  category: gov-scholarships
+  regions:
+  - AR
+  disciplines:
+  - all
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: 'no'
+  access:
+  - web
+  language: es
+  coverage: unknown
+  deadline: 2026-05-31
+  requirements: 仅限布宜诺斯艾利斯省国立大学的毕业生；工作须在莫龙大学开展；申请经 SIGEVA 系统提交
+  notes: CIC 与莫龙大学合作的单一名额博士奖学金（UM26），仅面向布宜诺斯艾利斯省国立大学毕业生，研究须在莫龙大学完成。中国大陆申请人基本不符合资格；截止日与金额需看 bases。
+  verify_method: page
+  page_evidence: 'Período de inscripción: desde el 19 al 31 de mayo de 2026'
+  verified: 2026-10-19
+- id: tubitak-2215-graduate-scholarship
+  name: TÜBİTAK 2215 国际研究生奖学金（土耳其，博士）
+  url: https://fens.sabanciuniv.edu/en/announcements/detail/48738
+  category: gov-scholarships
+  regions:
+  - TR
+  disciplines:
+  - all
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: partial
+  requirements: 面向国际学生；2026 年征集未确认，申请前以官网公告为准
+  notes: TÜBİTAK 2215 国际研究生奖学金，面向在土耳其攻读研究生的国际学生，含月津贴、学费上限与学生本人医保。未找到 2026 年征集，金额以官网为准。
+  verify_method: page
+  page_evidence: A monthly stipend of 1.800 Turkish Liras (TL) for PhD students
+  verified: 2026-10-19
+- id: tobb-etu-full-scholarship
+  name: TOBB 经济与技术大学（ETÜ）研究生全额奖学金
+  url: https://www.etu.edu.tr/en/uluslararasi/sayfa/ogrenim-ucreti-ve-burs-olanaklari-2
+  category: university-schemes
+  regions:
+  - TR
+  disciplines:
+  - all
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: unknown
+  requirements: 需联系目标院系确认国际生奖学金资格；学校页面称目前对国际生暂无宿舍或补充奖学金
+  notes: 学校官网页：全额奖学金包括月生活津贴，或部分津贴加住宿；按学术成绩、科研项目或校内任职分配，需联系院系确认。
+  verify_method: page
+  page_evidence: Awarded to outstanding graduate students who actively contribute to the academic, research, and educational activities of their department.
+  verified: 2026-10-19
+- id: ozyegin-gsb-phd-scholarship
+  name: 奥兹耶金大学（Özyeğin）商学院博士全额奖学金
+  url: https://library.ozyegin.edu.tr/en/phd-business/scholarship-opportunities
+  category: university-schemes
+  regions:
+  - TR
+  disciplines:
+  - business
+  - econ
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  stipend: 2026-27 页面数据：月津贴分三档 70,000 / 58,000 / 45,000 土耳其里拉
+  deadline: unknown
+  deadline_note: 2026 秋季申请截止 7 月 17 日（已过）；2027 轮未公布
+  status: closed
+  notes: 商学院博士通常获 100% 学费减免并发放分档月津贴，另有住宿或交通补贴、私人医疗保险等；2025-26 数字可能已变。2026 秋季申请截止 7 月 17 日已过，下一轮待学院公告。国际生资格未见官方明确声明，保持 check。
+  verify_method: page
+  page_evidence: The students accepted to the doctorate program at Özyeğin University Graduate School of business are usually offered a 100% tuition waiver.
+  verified: 2026-10-19
 - id: koc-university-postdoc-fellowship
   name: Koç 大学博士后奖学金（2026 年 3 月公告）
   url: https://cdn.ku.edu.tr/cdn/files/mailing/KU/2026/mart/10-3-26/New+Call+-+KU+Postdoctoral+Fellowship.pdf
@@ -302,6 +417,29 @@
   verify_method: page
   page_evidence: Partial postgraduate scholarship which covers tuition fee waived is available for foreign nationals who are interested in pursuing master and doctoral program.
   verified: 2026-10-18
+- id: unair-knb-scholarship
+  name: Airlangga 大学 KNB 奖学金（发展中国家国际生）
+  url: https://global.unair.ac.id/kemitraan-negara-berkembang-knb
+  category: university-schemes
+  regions:
+  - ID
+  disciplines:
+  - all
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: 2026-03-31
+  status: closed
+  requirements: 需为发展中国家国民（官方名单未找到中国）；需取得印尼政府 KNB 推荐函（通常经驻外使领馆办理）；2027 窗口以官网为准
+  notes: 印尼 KNB（发展中国家伙伴）奖学金，需为发展中国家国民（中国是否在名单内未核实）并取得印尼政府 KNB 推荐函。2026 窗口 2 月 2 日至 3 月 31 日已关闭，6 月公布结果；2027 窗口预计 2027 年初开放，官方尚未公布。
+  verify_method: page
+  page_evidence: for prospective international students from developing countries who wish to pursue Bachelor’s, Master’s, or Doctoral degrees in Indonesia.
+  verified: 2026-10-19
 - id: mahidol-mugr-scholarship
   name: 玛希隆大学研究生院国际生奖学金（MUGR 2026）
   url: https://graduate.mahidol.ac.th/download/main/scholarships/pdf/MUGR-Scholarship2026.pdf
@@ -392,6 +530,31 @@
   verify_method: page
   page_evidence: 'Scholarship Opportunity: PhD Programme at Prince of Songkla University (PSU), Thailand'
   verified: 2026-10-17
+- id: ugm-oia-scholarship-list
+  name: 加查马达大学（UGM）国际事务办公室奖学金列表
+  url: https://oia.ugm.ac.id/category/scholarship/
+  category: aggregators
+  regions:
+  - ID
+  disciplines:
+  - all
+  funding: info
+  levels:
+  - phd
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: unknown
+  deadline_note: 2026 轮（ANSO-CAS-TWAS/UNESCO 博士）UGM 于 2025-12-31 发布，1 月 31 日截止已过；2027 轮待公布
+  status: closed
+  requirements: GPA 3.0/4.0；英语或中文熟练；CAS-ANSO 项目规定正在中国高校攻读博士者不符合博士项目资格
+  notes: UGM 国际办公室奖学金分类，含 ANSO-CAS-TWAS/UNESCO 等博士征集，需逐条核对截止时间与资格。
+  verify_method: page
+  page_evidence: The Ernst Mach Grant – ASEA-UNINET offers scholarships for full PhD studies
+  verified: 2026-10-19
 - id: koc-anatolian-fellowship-fundit
   name: Koç 大学安纳托利亚文明研究常规 Fellowship（Fundit）
   url: https://fundit.fr/en/calls/koc-university-regular-fellowships-anatolian-civilization-studies
@@ -465,6 +628,52 @@
   notes: 内罗毕 icipe 博士项目通过 ARPPIS-DAAD 等渠道招收，2026 年 9 月入学批次已结束。二手来源显示 2026 轮限撒哈拉以南非洲国籍，官方页未能直接访问，cn_eligible 保持 check，以当期公告为准。
   verify_method: page
   page_evidence: 'Two-year fellowships: PDFs are attached to on-going'
+  verified: 2026-10-19
+- id: tse-doctoral-program
+  name: 图卢兹经济学院（TSE）博士项目
+  url: https://www.tse-fr.eu/doctoral-program?lang=en
+  category: doctoral-programs
+  regions:
+  - FR
+  disciplines:
+  - econ
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: unknown
+  deadline_note: 未找到 2027 年博士申请截止；Campus France 页称博士路径面向硕士二年级申请者，多在 11 月至次年 3 月申请，以 TSE 官网为准
+  notes: 美式结构（两年课程 + 科研），名额与当年资助挂钩，竞争激烈；可同时关注 Eiffel 奖学金（常见 11 月窗口）。
+  verify_method: page
+  page_evidence: Studies are funded from the Master 2 ETE level upwards and can extend to 5 years
+  verified: 2026-10-19
+- id: su-phd-economics-stockholm
+  name: 斯德哥尔摩大学经济学博士项目（与 IIES 合作）
+  url: https://www.su.se/english/divisions/department-of-economics/education/courses-and-programmes/phd-programme-in-economics
+  category: doctoral-programs
+  regions:
+  - SE
+  disciplines:
+  - econ
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: unknown
+  deadline_note: 页面称每年 12 月初开放申请、1 月中旬截止
+  status: upcoming
+  requirements: 需第二周期（硕士级）学位；经济学课程至少 90 ECTS，学位论文至少 15 ECTS；GRE 5 年内有效；2 封推荐信
+  notes: 瑞典博士通常为带薪雇员职位，约 4 年；申请窗口多在 12 月初至 1 月中旬。
+  verify_method: page
+  page_evidence: Application opens in early December, and closes in mid-January every year.
   verified: 2026-10-19
 - id: bocconi-phd-econ-fin-fellowships
   name: Bocconi 博士奖学金与费用说明（经济/金融）

@@ -2,21 +2,22 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 奥地利（AT） 信源（38）
+# 奥地利（AT） 信源（49）
 
-所有标注了地区 AT 的信源，共 38 条。
+所有标注了地区 AT 的信源，共 49 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [各国学术招聘门户与机构职位页 3](at.md#national-portals) · [政府与国家级奖学金 1](at.md#gov-scholarships) · [高校旗舰奖学金与资助检索 1](at.md#university-schemes) · [结构化博士项目与研究机构 19](at.md#doctoral-programs) · [博士后奖学金与项目 7](at.md#postdoc-fellowships) · [学科专属信源 2](at.md#discipline) · [导师招生帖（社交平台个人发布） 1](at.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 4](at.md#faculty-aggregators)
+**按分类跳转：** [各国学术招聘门户与机构职位页 4](at.md#national-portals) · [政府与国家级奖学金 1](at.md#gov-scholarships) · [高校旗舰奖学金与资助检索 3](at.md#university-schemes) · [结构化博士项目与研究机构 23](at.md#doctoral-programs) · [博士后奖学金与项目 8](at.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](at.md#fellowships) · [学科专属信源 2](at.md#discipline) · [个人信源与社交渠道 2](at.md#people-channels) · [导师招生帖（社交平台个人发布） 1](at.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 4](at.md#faculty-aggregators)
 
 <a id="national-portals"></a>
 
-## 各国学术招聘门户与机构职位页（3）
+## 各国学术招聘门户与机构职位页（4）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [ISTA 全额资助博士岗（奥地利留学门户）](https://studyinaustria.at/en/news/article/2025/12/new-fully-funded-phd-positions-at-ista)<br><sub>奥地利 ｜ 计算机·数学/统计·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 9 月入学批次截止 2026-01-08（已过）；下一批次按规律预计 2027 年 1 月前后，待 ISTA 官网公布</sub> | ✅ | ISTA 为国际博士项目，覆盖十余个学科，提供全额资助的五年合同并含全额财务支持；2026 年 9 月入学批次申请截止日期为 2026 年 1 月 8 日。 |
+| [OeAD 上海科学合作处（奥地利学术交流处）](https://oead.at/en/to-austria/science-cooperation-offices/shanghai)<br><sub>奥地利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | 奥地利学术交流机构在上海的合作处，是中国学生赴奥读博与做博后的咨询入口；具体奖学金以 OeAD 当年公告为准。 |
 | [OeAD 奥地利奖学金项目汇总](https://oead.at/en/news/article/2025/11/oead-scholarship-programmes-and-further-grants-to-austria-for-2026-2027)<br><sub>奥地利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>2026/27 批次已截止；Ernst Mach 全球奖学金 2027/28 学年申请截止 2026 年 12 月 1 日（Study in Austria 公告；部分聚合站显示 2027 年 2 月 1 日，以 oead.at 为准）。</sub> | ❔ | **要求：** 面向奥地利境外高校的博士生、硕士生、博后与研究人员（Ernst Mach 全球项目）；各子项目资格不同，需逐项核对。<br>OeAD 奥地利奖学金项目汇总页，含 Ernst Mach 全球奖学金等博士与博后研修项目；多数项目每年征集一次，以各项目当期公告为准。 |
 | [维也纳医科大学（MedUni Wien）在招岗位总页](https://www.meduniwien.ac.at/web/en/karriere/offene-stellen/)<br><sub>奥地利 ｜ 医学/公卫·生物/生命科学·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>博士岗按 Kennzahl 陆续发布；所见 2026 年岗位多已截止，以在招页为准</sub> | ❔ | 含医学数据科学与 AI 等博士岗，医学院博士岗多为受雇形式，国籍限制以岗位为准。 |
 
@@ -30,15 +31,17 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（1）
+## 高校旗舰奖学金与资助检索（3）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [TU Wien 招聘门户（含 Doctoral College）](https://jobs.tuwien.ac.at/)<br><sub>奥地利 ｜ 计算机·工程·数学/统计·物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ✅ | **要求：** 硕士或同等学位（相关理工方向）；具体资格以各岗位公告为准；部分岗位限制此前在 TU Wien 任博士候选人的时长<br>页面为 TU Wien 招聘门户首页，列出 Current vacancies at the TU Wien，并称申请只接受在线提交；正文未列出具体博士或博后岗位、Prae-Doc 或 Doctoral College 项目，也未给截止日期。 |
+| [因斯布鲁克大学 博士奖学金](https://www.uibk.ac.at/en/research/research-funding/phd/doctoral-scholarship/)<br><sub>奥地利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€1,150/月（2026 年第三批，最长 24 个月）</sub> | **2026-10-09**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年第三批申请期为 2026-08-24 至 2026-10-09（已过）；下一轮预计 2026 年底/2027 年初公布</sub> | ❔ | **要求：** 须已在因斯布鲁克大学注册博士课程并有注册论文；看重学术记录与科研成果，优先与校内重点研究领域或项目相关者<br>面向已注册博士生的奖学金，不是直接招生岗位。官网显示每月 1,120 欧元，最长 24 个月；具体申请窗口以官网为准。 |
+| [维也纳大学理工科博士岗位招聘（Doctoral Recruitment STEM）](https://careers.univie.ac.at/en/praedoc/stem-call/)<br><sub>奥地利 ｜ 计算机·数学/统计·物理/天文·化学/材料·生物/生命科学·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-03-27**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 STEM 征集截止 2026 年 3 月 27 日（已过），下一轮以官网公告为准</sub> | ✅ | **要求：** 需相关学科硕士或同等学位；申请材料须用英文；欢迎持外国学位者申请。<br>维也纳大学统一公开招聘的全额资助博士岗位（带薪雇佣），涵盖理工与生命科学。截止日期与资格以官网公告为准。 |
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（19）
+## 结构化博士项目与研究机构（23）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -48,12 +51,15 @@
 | [FWF doc.funds · 奥地利结构化博士项目资助](https://www.fwf.ac.at/en/funding/portfolio/careers/docfunds)<br><sub>奥地利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub> | ❔ | 页面称 doc.funds 面向奥地利有博士授予权的高校，由至少 5 名研究人员组成的联合体申请，资助期最长 48 个月，用于 5–10 名博士生的人员费用。页面显示当前无在审申请，评审批准计划于 2026 年 11 月下旬。 |
 | [IGNIDTE 医学影像与图像引导治疗 MSCA COFUND 博士项目（因斯布鲁克大学）](https://ignidte.i-med.ac.at/)<br><sub>奥地利 ｜ 医学/公卫·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>🟢 开放申请</sub><br><sub>因斯布鲁克大学新闻称博士岗位征集预计 2026 年 10 月开放；截止日期与申请入口未核实，以官网项目页为准。</sub> | ❔ | **要求：** 一般需硕士学位；MSCA COFUND 项目通常对国际申请人开放，但流动性与语言要求须以正式招聘公告为准。<br>MSCA COFUND 博士项目（医学院与因斯布鲁克大学合办，2026-04-01 启动，共 12 名博士生，因大学 4 个名额），全职带薪，含欧洲合作机构短期 secondment。工资数额页面未见，留空。 |
 | [Institute of Science and Technology Austria（ISTA）](https://phd.pages.ist.ac.at/)<br><sub>奥地利 ｜ 计算机·数学/统计·物理/天文·生物/生命科学·化学/材料·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-01-08**<br><sub>🔜 即将开放</sub><br><sub>2027 年 9 月入学：申请截止 2027-01-08 15:00 CET；申请门户预计 2026 年 10 月下旬开放</sub> | ✅ | **要求：** 本科已完成第二学年或硕士；需 CV、研究陈述、成绩单及 3 位推荐人，材料英文<br>奥地利科学与技术研究所，统一博士项目、第一年轮转，全资助；每年约 1 月截止。 |
+| [IST Austria 全额资助博士项目（OeAD 公告）](https://oead.at/en/news/article/2025/12/new-fully-funded-phd-positions-at-ista)<br><sub>奥地利 ｜ 数学/统计·计算机·物理/天文·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ✅ | 五年合同含完整经费，面向国际申请者。2026 秋季批次 1 月已截止，关注下一轮（以 ISTA 官网为准）。 |
 | [IST Austria 博士招生与申请说明](https://phd.pages.ist.ac.at/phd-application-admission/)<br><sub>奥地利 ｜ 生物/生命科学·化学/材料·物理/天文·数学/统计·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2027-01-08**<br><sub>🔜 即将开放</sub><br><sub>2027 届申请门户预计 2026 年 10 月下旬开放，申请截止 2027 年 1 月 8 日 15:00（CET），推荐信截止 2027 年 1 月 12 日 23:59（CET）。</sub> | ❔ | **要求：** 英文授课；需提交 CV、1–2 页研究陈述、英文及原文成绩单，并提供 3 位推荐人<br>IST Austria 博士项目每年只受理一次申请。申请材料包括 CV、研究陈述、成绩单与 3 位推荐人；2026 届门户已关闭。 |
 | [IST Austria 博士项目（全额资助）](https://phd.pages.ista.ac.at/?p=6578)<br><sub>奥地利 ｜ 物理/天文·数学/统计·计算机·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-01-08**<br><sub>🔜 即将开放</sub><br><sub>2027 轮申请截止 2027-01-08 15:00 CET，推荐人截止 2027-01-12（官网）；官网称门户于 2026 年 10 月下旬开放，当前尚未开放。</sub> | ❔ | **要求：** 学士或硕士学历（至少完成学士第二学年）；需英文 CV、1–2 页研究陈述（可列最多 3 个研究组）、英文及原文成绩单，以及 3 位推荐人。<br>官网称 2027 届申请门户将于 10 月下旬开放，申请截止 2027 年 1 月 8 日 15:00（CET），推荐人截止 1 月 12 日。 |
 | [JKU 林茨理工研究所（LIT）博士学院资助征集](https://www.jku.at/en/linz-institute-of-technology/research/lit-calls/)<br><sub>奥地利 ｜ 工程·计算机·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面当前无开放征集；可见的最近一轮为第 14 轮 LIT Call 2025（截止 2025 年 5 月 21 日）。2026 年征集的截止日页面上未见，以 LIT 办公室通知为准。</sub> | ❔ | **要求：** 须由至少两名可指导博士生的 JKU 研究人员组队申请；资助可支持至多 4 名博士生/年（视资源而定）。<br>页面为 LIT 定期研究项目征集页，当前无开放征集，列有历届获批项目。页面未说明是否专门面向博士生。 |
 | [Max Perutz Labs 博士奖学金（维也纳生物中心）](https://www.maxperutzlabs.ac.at/education/max-perutz-phd-fellowships)<br><sub>奥地利 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>📋 持续更新</sub><br><sub>最近一次公告的截止日为 2021 年 3 月 31 日；本轮日期未见，以官网为准</sub> | ❔ | **要求：** 面向已在 Max Perutz Labs 读博不超过 1.5 年且已开过首次导师委员会会议的博士生（据 2021 年公告）；并非外部新申请人入口<br>Max Perutz 博士奖学金由维也纳大学与维也纳医科大学资助，标准博士合同最长 3 年，另有每年至多 €500 差旅费。申请者须已在 Max Perutz Labs 就读，不是面向外部新生的入口；以官网当前公告为准。 |
 | [MSCA 博士网络 FlexCAT：15 个博士岗位（β-catenin / 无序蛋白与癌症药物发现，多国）](https://euraxess.ec.europa.eu/worldwide/india/news/europe-15-phd-positions-available-msca-flexcat-doctoral-network)<br><sub>欧盟/欧洲·奥地利·德国 ｜ 生物/生命科学·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>2026 年 10 月 31 日 23:59（维也纳时间）截止，经格拉茨医科大学博士招生门户申请；各岗位要求以单个岗位描述为准。</sub> | ❔ | **要求：** 需已有或即将获得理科硕士、尚未获得博士学位，英语 B2 及以上；MSCA 流动性规则：近 36 个月在招聘国居住或主要活动不得超过 12 个月。国籍不限，需逐岗核对流动性条件。<br>欧盟 MSCA 博士网络，15 个带薪全职博士岗位，36 个月，含流动津贴，多国多家宿主机构。方向偏蛋白质科学与癌症药物，化学/生物背景更匹配。信息来自 EURAXESS 新闻页，未找到项目官网。 |
+| [TU Wien BioDevX（生物传感器与医疗器械）博士岗位页](https://www.tuwien.at/en/doc/biodevx-vorbereitung/open-positions)<br><sub>奥地利 ｜ 工程·生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>最低 €2,832.10/月（税前，30 小时/周，每年 14 次）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>TU Wien 页面仍显示 BioDevX 博士学院的 10 个岗位（4 年、2026 年 9 月起），未见截止日；是否已关闭未能确认，以岗位页与 jobs.tuwien.ac.at 公告为准。</sub> | ❔ | **要求：** 满足博士学院岗位学历要求；截止日不得在 TU Wien 担任博士职位超过 12 个月<br>BioDevX 博士学院岗位（30 小时/周，最低 €2,832.10/月税前，每年 14 次），计划 2026 年 9 月起。该批次岗位仍在页面上，关闭状态未确认，申请前请核对公告。 |
 | [因斯布鲁克大学 DUNE（Euclid 弱引力透镜）PhD 职位](https://www.uibk.ac.at/en/astro/staff/open-positions/sfb-phd-positions/)<br><sub>奥地利 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>以页面公布为准。</sub> | ❔ | **要求：** 以职位页要求为准。<br>因斯布鲁克大学 SFB DUNE 项目的四个博士职位：A 为弱引力透镜与本征对齐，B 为星系团计数与弱引力透镜宇宙学，C/D 为矮星系形成与演化。抓取正文在中途截断，未见截止日期与资助细节。 |
+| [因斯布鲁克大学职位门户（Karriereportal）](https://lfuonline.uibk.ac.at/public/karriereportal.home?lang=en)<br><sub>奥地利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 滚动<br><sub>📋 持续更新</sub> | ❔ | 因斯布鲁克大学官方岗位门户，列出校内博士与博后职位；摘要中的博士岗截止多已过，需经常刷新。 |
 | [格拉茨医科大学博士项目（分子医学、TIMO、TRPC.at 等）](https://www.medunigraz.at/doktoratsstudien/phd-program)<br><sub>奥地利 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 春季轮截止 2026-03-22，秋季轮 2026-09-10，均已过；下一轮通常约 2 月开放，以官网为准</sub> | ❔ | **要求：** 自然科学、生命科学或医学相关硕士；通过 phd-recruiting 在线平台申请，无申请费<br>三年雇佣合同，通过 phd-recruiting 平台在线申请，无申请费；下一轮约 2 月开放。 |
 | [格拉茨大学 博士学院入学说明](https://doctoral-academy.uni-graz.at/en/phd-at-the-university-of-graz/admission/)<br><sub>奥地利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>中央截止为冬季 11 月 30 日、夏季 5 月 31 日；各学院申请窗口不同，以所在学院页面为准。</sub> | ❔ | **要求：** 需先获得导师支持并签订指导协议，提交研究计划后再向博士学院申请，再提交 UNIGRAZonline 在线申请；经委员会资格审查。<br>格拉茨大学博士入学需先获得导师支持并提交研究计划，先向博士学院申请再提交在线申请。截止日期因学院而异（通用中央截止为冬季 11 月 30 日、夏季 5 月 31 日），需查所在学院页面。 |
 | [维也纳 CoBeNe 认知与行为神经科学博士学院 申请入口](https://vds-cobene.univie.ac.at/how-to-apply/)<br><sub>奥地利 ｜ 神经/认知·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-10-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申报期已于 10 月 15 日结束；下一轮以官网公告为准。</sub> | ❔ | **要求：** 硕士或同等学历；英文动机信、最多 3 位潜在导师排序、2 位推荐人；以 2026 年公告为准<br>维也纳 CoBeNe 博士学院的带薪 pre-doc 岗位有三种途径：统一招生（uni:docs，每半年一次、主题开放）、导师在 JobCenter 发布的岗位、自筹资金。页面未说明中国申请者的资格，需以官网为准。 |
@@ -61,10 +67,11 @@
 | [维也纳医科大学 博士岗位页](https://oc.meduniwien.ac.at/open-phd-positions)<br><sub>奥地利 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>🔜 即将开放</sub><br><sub>秋季 PhD call 第三方页列截止 11 月 22 日，官网未核实；春季 call 4 月 26 日已过</sub> | ❔ | **要求：** 硕士或同等学位（相关理工/医学方向）；具体岗位要求不同，部分需医学学位<br>博士岗位页，部分岗位要求医学学位。页面称将补充至 2026 年 10 月 20 日，申请截止 11 月 22 日，各岗位要求不同。 |
 | [维也纳医科大学全额资助博士岗](https://oc10.meduniwien.ac.at/open-phd-positions)<br><sub>奥地利 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>€2,832 税前/次，每年 14 次（30 小时/周，Uni-KV B1，2026 年 4 月公告）</sub> | **2026-11-22**<br><sub>🟢 开放申请</sub><br><sub>每学期一批；2026 春批截止 4 月 26 日已过；下一批以门户为准</sub> | ❔ | **要求：** 需相关硕士学位，英语约 C1 级；具体要求以各项目公告为准。<br>维也纳医科大学每学期一批全额资助博士岗（门户入口）；受雇为员工领取薪资，学费免除（通常最长 4 年）；初始合同 1 年，延长至 3–4 年。当前批次以门户为准。 |
 | [维也纳美术学院 Dr. phil. prae-doc 大学助理岗位](https://calls.akbild.ac.at/calls/DRPHIL26/index.php?lang=EN)<br><sub>奥地利 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-04-13**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮截止 2026-04-13 已过（2026-10-01 起聘）；2027 轮未公布</sub> | ❔ | 维也纳美术学院 Dr. phil. prae-doc 大学助理岗位，3 年、每周 30 小时、受薪。需硕士学位并提交不超过 5 页的摘要与课题计划。2026 轮已截止，关注 2027 轮公告。 |
+| [维也纳音乐与艺术大学（MUK）艺术研究博士项目](https://muk.ac.at/fileadmin/mediafiles/documents/Doktorat/CallforApplications_DoctoralProgramme_MUK_WISE_26_27.pdf)<br><sub>奥地利 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-04-29**<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 冬季学期申请于 2026 年 4 月 29 日截止；2027/28 轮待公告。</sub> | ❔ | MUK 维也纳音乐与艺术大学艺术研究博士项目（6 学期，德语或英语授课）。2026/27 申请已截止；资助以官网为准，关注下一轮公告。 |
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（7）
+## 博士后奖学金与项目（8）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -75,6 +82,15 @@
 | [FWF Hertha Firnberg 女性博士后职业项目（奥地利）](https://projektservice-mathematik.univie.ac.at/news/news/call-fwf-hertha-firnberg-programme/)<br><sub>奥地利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 未公布<br><sub>📋 持续更新</sub><br><sub>每年一轮，具体截止以 FWF 当年公告为准；2026 轮未确认</sub> | ❔ | **要求：** 仅限女性研究者；需已取得博士学位并有国际发表记录；项目须在奥地利机构执行，中国籍是否可申请看当年 FWF 规则<br>FWF 的女性职业发展项目，博士后阶段与高级阶段合计最多 6 年；Elise Richter 已停止接收新申请。 |
 | [ÖAW APART-GSK（奥地利科学院·人文社科博后）](https://stipendien.oeaw.ac.at/en/fellowships/apart-gsk)<br><sub>奥地利 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>2025 指南 €89,100/年，另可申请项目经费最高 €12,000（2026 费率以官网为准）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面列出的提交截止为 2026 年 3 月 30 日（已过）；下一轮时间以官网为准。</sub> | ❔ | **要求：** 博士学位须在申请截止前 3 年内取得；资助 36 或 48 个月；国籍与工作地条件未确认<br>面向人文与社会文化科学早期博后的 36–48 个月资助，由奥地利科学院提供，在奥地利机构执行。金额未在官方页面核实。 |
 | [ÖAW APART-MINT（奥地利科学院·数理/自然/工程/医学早期博后）](https://stipendien.oeaw.ac.at/en/fellowships/apart-mint)<br><sub>奥地利 ｜ 数学/统计·物理/天文·化学/材料·生物/生命科学·工程</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>人员经费约 EUR 70,000（12 个月，可延 6 个月），另可申请项目经费最高 EUR 12,000</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面标注 2026 年无征集（no call 2026）；下一轮以官网为准。</sub> | ❔ | **要求：** 博士学位须在申请截止前 3 年内取得（据摘要）；国籍条款未确认。<br>ÖAW APART-MINT（STEM 早期博后，12 个月，可延 6 个月）。官网章程摘要显示人员经费约 EUR 70,000，外加项目经费最高 EUR 12,000；申请人需在截止前 3 年内取得博士学位。2026 轮未确认，国际生资格仍需核实。 |
+| [奥地利科学院 Post-DocTrack](https://stipendien.oeaw.ac.at/en/fellowships/post-doctrack)<br><sub>奥地利 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>€52,080/年（2026 年指南，税前）</sub> | **2026-11-16**<br><sub>🟢 开放申请</sub><br><sub>每年 5 月 15 日与 11 月 16 日两次截止；2026 年 5 月轮已过，下一轮为 2026 年 11 月 16 日</sub> | ⛔ | **要求：** 需人文、社会或文化科学博士学位，博士须于奥地利大学取得且截止前不超过 6 个月；博士年限不超过 5 年；不得同时申请其他 OeAW 资助<br>奥地利科学院 Post-DocTrack 面向人文、社会与文化科学博士后过渡期研究者，资助 3–12 个月。博士须于奥地利大学取得，中国大陆获博者基本不符合。下一轮截止 2026 年 11 月 16 日。 |
+
+<a id="fellowships"></a>
+
+## 企业与基金会 Fellowship（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [ÖAW DOC 博士奖学金（奥地利科学院）](https://stipendien.oeaw.ac.at/en/fellowships/doc)<br><sub>奥地利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€52,080/年（2026 ÖAW 费率表）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮截止 2026-09-15 已过；2027 轮以官网公告为准</sub> | ❔ | **要求：** 硕士学位须在申请前两年内取得；须在奥地利大学攻读博士；需导师推荐与研究计划<br>面向在奥地利大学攻读博士者的 OeAW DOC 奖学金，资助 24/30/36 个月，每年 €38,000。2026 轮已截止，2027 轮待官网公告。 |
 
 <a id="discipline"></a>
 
@@ -84,6 +100,15 @@
 | --- | --- | --- | --- | :-: | --- |
 | [因斯布鲁克 IQOQI · Ferlaino 组 2026 博士与博后招聘页](https://www.erbium.at/FF/join-us/postdoc-phd-openings-2026/)<br><sub>奥地利 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位<br><sub>约 €2,832.10/月（税前，PhD，页面称全年 14 次发放）</sub> | 滚动<br><sub>🔄 随时可申</sub><br><sub>页面称 2026 年 7 月 15 日起开始审核申请，直至岗位招满。</sub> | ❔ | **要求：** 实验原子物理或量子气体背景；需 CV、动机信、成绩单及推荐人<br>2026 年 Ferlaino 组（量子气体显微镜与光镊平台）博士与博后招聘页；申请邮件发至 Ferlaino-Opening@uibk.ac.at，标题注明 2026 PhD application 或 2026 Postdoc application。 |
 | [萨尔茨堡大学 Z_GIS · 最新招聘与新闻页](https://www.plus.ac.at/zgis/news/)<br><sub>奥地利 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | Z_GIS 的新闻页会发布研究员与博士岗位，是地理信息方向最直接的入口。搜索结果中的博士类岗位多已过期，请定期查看并注意奥地利职位的国籍与语言要求。 |
+
+<a id="people-channels"></a>
+
+## 个人信源与社交渠道（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [TU Wien 自主系统实验室（ASL，Dongheui Lee 组）开放博士/博后岗位](https://www.tuwien.at/en/etit/ict/asl/join-the-team/open-positions)<br><sub>欧盟/欧洲·奥地利 ｜ 人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面列出当前 3 个博士和/或博后岗位，未见截止日期；建议直接联系实验室确认时间。</sub> | ❔ | **要求：** 硕士或博士学位（机器人、电气/机械工程或计算机相关），需提交 CV、动机信、成绩单、学位证明、最多 3 篇代表作和 2–3 位推荐人。<br>页面称目前没有特别岗位，此前公布的岗位已招满；实验室不定期招聘博士或博后，截止日写“Not applicable”。 |
+| [维也纳大学 Urban Lab 职位](https://urbanlab.univie.ac.at/en/vacancies)<br><sub>奥地利 ｜ 社会科学/心理·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ❔ | Urban Lab 城市研究方向的 Prae-Doc / 博后岗位不定期发布；最近可见的是 2025 年 12 月发布的维也纳大学校级博士岗位征集，多已截止，需以页面最新公告为准。 |
 
 <a id="recruiting-posts"></a>
 

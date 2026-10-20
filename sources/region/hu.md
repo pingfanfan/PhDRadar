@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 匈牙利（HU） 信源（7）
+# 匈牙利（HU） 信源（8）
 
-所有标注了地区 HU 的信源，共 7 条。
+所有标注了地区 HU 的信源，共 8 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [各国学术招聘门户与机构职位页 1](hu.md#national-portals) · [政府与国家级奖学金 1](hu.md#gov-scholarships) · [高校旗舰奖学金与资助检索 1](hu.md#university-schemes) · [结构化博士项目与研究机构 2](hu.md#doctoral-programs) · [博士后奖学金与项目 2](hu.md#postdoc-fellowships)
+**按分类跳转：** [各国学术招聘门户与机构职位页 1](hu.md#national-portals) · [政府与国家级奖学金 2](hu.md#gov-scholarships) · [高校旗舰奖学金与资助检索 1](hu.md#university-schemes) · [结构化博士项目与研究机构 2](hu.md#doctoral-programs) · [博士后奖学金与项目 2](hu.md#postdoc-fellowships)
 
 <a id="national-portals"></a>
 
@@ -20,10 +20,11 @@
 
 <a id="gov-scholarships"></a>
 
-## 政府与国家级奖学金（1）
+## 政府与国家级奖学金（2）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [Stipendium Hungaricum 2026/27 申请公告（匈牙利政府奖学金，含博士）](https://stipendiumhungaricum.hu/news/application-is-on-for-the-2026-2027-stipendium-hungaricum-scholarship/)<br><sub>匈牙利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-01-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 轮截止 2026-01-15 已过；2027/28 轮未见公告，以官网为准。</sub> | ❔ | **要求：** 须符合项目学历和语言条件；博士阶段需在线注册后按院校要求提交材料。<br>匈牙利政府 Stipendium Hungaricum 项目，覆盖学费与生活补助，博士项目可申请。 |
 | [匈牙利 Stipendium Hungaricum 博士项目（ELTE 页面）](https://wwwold.elte.hu/en/stipendium-hungaricum)<br><sub>匈牙利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 博士轮 2026 年 1 月 15 日已截止；2027/28 轮官方公告未找到，通常 11 月前后开放，以 Tempus / 官网为准</sub> | ❔ | 匈牙利政府奖学金（Stipendium Hungaricum）博士项目，通常 2+2 年。资格依据双边教育协议与国籍，并非所有国家都可申请。2026/27 博士轮截止 2026 年 1 月 15 日已过；2027/28 轮官方公告尚未找到，请以官网与 Tempus 公告为准。 |
 
 <a id="university-schemes"></a>

@@ -2,20 +2,21 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 中国香港（HK） 信源（163）
+# 中国香港（HK） 信源（165）
 
-所有标注了地区 HK 的信源，共 163 条。
+所有标注了地区 HK 的信源，共 165 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 3](hk.md#aggregators) · [各国学术招聘门户与机构职位页 1](hk.md#national-portals) · [政府与国家级奖学金 2](hk.md#gov-scholarships) · [高校旗舰奖学金与资助检索 60](hk.md#university-schemes) · [结构化博士项目与研究机构 58](hk.md#doctoral-programs) · [博士后奖学金与项目 10](hk.md#postdoc-fellowships) · [企业与基金会 Fellowship 3](hk.md#fellowships) · [学科专属信源 2](hk.md#discipline) · [科研实习与“曲线入口” 1](hk.md#pathways) · [个人信源与社交渠道 4](hk.md#people-channels) · [导师招生帖（社交平台个人发布） 19](hk.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 4](hk.md#aggregators) · [各国学术招聘门户与机构职位页 1](hk.md#national-portals) · [政府与国家级奖学金 2](hk.md#gov-scholarships) · [高校旗舰奖学金与资助检索 61](hk.md#university-schemes) · [结构化博士项目与研究机构 58](hk.md#doctoral-programs) · [博士后奖学金与项目 10](hk.md#postdoc-fellowships) · [企业与基金会 Fellowship 3](hk.md#fellowships) · [学科专属信源 2](hk.md#discipline) · [科研实习与“曲线入口” 1](hk.md#pathways) · [个人信源与社交渠道 4](hk.md#people-channels) · [导师招生帖（社交平台个人发布） 19](hk.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
-## 综合聚合平台（3）
+## 综合聚合平台（4）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [Nature Careers · 亚洲物理学博士岗位列表](https://www.nature.com/naturecareers/jobs/physics/asia/full-time/phd/)<br><sub>中国香港·新加坡·日本·韩国·中国内地 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 滚动<br><sub>📋 持续更新</sub><br><sub>列表持续更新，截止日需逐岗位查看</sub> | ❔ | **要求：** 检索结果以教职和博后岗位为主，博士生岗位较少；中国大陆学生资格以各岗位要求为准<br>聚合页，汇总亚洲（含中国、港新日韩）全职物理岗位。检索结果中博士生岗位较少，多为教职与博后；是否全奖及中国大陆资格须逐条核对。 |
 | [Nature Careers 亚洲博后职位板](https://www.nature.com/naturecareers/jobs/postdoctoral/asia/phd/academia/direct-employer)<br><sub>日本·韩国·新加坡·中国香港 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | Nature Careers 亚洲直雇博后职位聚合页；检索时可见日本、新加坡、韩国少量职位，多数职位在中国大陆，以官网筛选结果为准。 |
 | [Nature Careers 亚洲计算机类博后职位筛选页](https://www.nature.com/naturecareers/jobs/computing/postdoctoral/asia/-70-000-99-999/fixed-term/)<br><sub>新加坡·中国香港·日本·韩国·中国内地 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | 按亚洲地区与薪资筛选，适合扫描港、新、日、韩的 AI 岗位。 |
 | [港中大神经科学研究所（GCNI）招聘动态页](https://gcni.cuhk.edu.hk/news/career/)<br><sub>中国香港 ｜ 神经/认知·生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 未公布<br><sub>📋 持续更新</sub><br><sub>岗位陆续发布，截止以 CUHK 招聘平台为准</sub> | ❔ | **要求：** 须经 CUHK 招聘网站（career.cuhk.edu.hk）申请<br>页面列出当前招聘：Schnupp 实验室博后/研究员/研究助理，Wong 实验室博后/研究员及研究助理，另列有 Assistant Professor 岗位标题；页面未列博士岗位。申请经 CUHK 招聘平台提交，联系邮箱 gcni@cuhk.edu.hk。 |
@@ -39,7 +40,7 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（60）
+## 高校旗舰奖学金与资助检索（61）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -48,6 +49,7 @@
 | [CUHK 工程学院 RPg 奖学金](https://eng.cuhk.edu.hk/study/rpg/phd-els/scholarships/)<br><sub>中国香港 ｜ 工程·计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>HK$229,200/年（studentship，约 HK$19,100/月）</sub> | 各项目不同<br><sub>无需单独申请，在学校规定截止日前通过网上系统提交全日制博士申请即自动参评；以当年研究生院公告为准</sub> | ❔ | **要求：** 全日制博士申请者通过网上系统在截止日前提交即自动参评；评审可参考 GPA 不低于 3.5/4.0、奖项、论文、推荐信或同届顶尖高校博士录取；无需单独申请。<br>页面为中大英文系（Department of English）PhD 奖学金页，列出全校性的校长博士奖学金（HK$80,000 分期 + studentship HK$229,200/年）及 studentship 说明；页面来源并非工程学院。页面未明确国籍资格。 |
 | [CUHK 校长博士奖学金（Vice-Chancellor's PhD Scholarship）](https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/VCPHD)<br><sub>中国香港 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | — | ❔ | 无需单独申请，报读中大全日制博士并按时提交网申即自动考虑。现行页面列出：HK$80,000 奖学金（分三年发放）、每年研究生奖学金 HK$229,200、旅费津贴 HK$30,000。合格标准可能包括 GPA 不低于 3.5/4.0、学术奖项、高质量论文、推荐信或同年入学海外顶尖大学录取。 |
 | [EdUHK 博士与 MPhil 项目](https://gs.eduhk.hk/?p=912)<br><sub>中国香港 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>HK$28,400/月 + 年度会议津贴 HK$14,200（2026/27，EdUHK HKPFS 页面）</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>2026/27 轮已于 2025-12-01 截止；2027/28 轮 EdUHK 本校日期待确认</sub> | ❔ | **要求：** 需满足 EdUHK 录取要求；国际生资格与国别限制需向 rpg@eduhk.hk 核实<br>页面列出 HKPFS 入口、校内研究生奖学金 RPGS（2026/27 学年每月 HK$19,100，博士候选资格后 HK$19,600）等；HKPFS 金额与截止日期不在本页。 |
+| [HKBU 研究型研究生 入学奖学金与 Studentship（研究生院）](https://gs.hkbu.edu.hk/fees-scholarships-and-financial-aid/scholarship-for-admission)<br><sub>中国香港 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>HK$19,310/月（2026 年 9 月 1 日起；博士候选资格后 HK$19,660/月，页面所述）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位自行规定,以公告为准</sub> | ❔ | **要求：** Studentship 由各系按学业成绩决定，写在录取信中；兼读生不适用；国际生适用范围需向研究生院确认<br>HKBU 全职 MPhil/PhD 的基本资助，无需单独申请，是否发放以录取信为准。 |
 | [HKBU 研究生奖学金总表](https://gs.hkbu.edu.hk/prospective-students/fees-scholarships-and-financial-aid/scholarship-opportunities-for-postgraduate-students)<br><sub>中国香港 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>HK$28,400/月（HKPFS，2026/27）</sub> | 各项目不同<br><sub>📋 持续更新</sub> | ✅ | **要求：** 全日制研究型博士生；各项奖学金资格与截止以官网为准<br>页面列出研究生奖学金：香港博士研究生奖学金（HKPFS，见专页）与 United Board Faculty Scholarship Program（最高每年 US$10,000，限该联盟内大学的全职教职员工）。页面未载明 HK$28,400 的月津贴数额。 |
 | [HKBU 香港博士研究生奖学金（HKPFS）入口页](https://gs.hkbu.edu.hk/admission/hong-kong-phd-fellowship-scheme)<br><sub>中国香港 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>HK$28,700/月（HKPFS，AY2027/28；另有学费全免及差旅津贴）</sub> | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2025/26 轮 12 月 1 日 12:00 前经 RGC 初步申请、同期完成 HKBU 正式申请（已截止）；2026 轮未确认，预计同期，以 gs.hkbu.edu.hk 公告为准</sub> | ✅ | **要求：** 非本地生可申请；每人最多选 2 个博士项目；需先取得 RGC HKPFS 参考号；逾期不予考虑<br>页面列出 AY2027/28 HKPFS：月津贴 HK$28,700（年 HK$344,400，共 4 年），学费全免；差旅津贴每年 HK$14,400（最多 3 年），另有 HK$25,000 研究支持基金。 |
 | [HKU 土木工程系 MPhil/PhD 招生页](https://www.civil.hku.hk/h4_pros_pg_MPhil_PhD.html)<br><sub>中国香港 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>HK$344,400/年（HKPFS）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>HKPFS 2027/28 全申请截止 2026-12-01；系内各轮截止以学部公告为准。</sub> | ✅ | **要求：** 英语成绩按学校要求。<br>页面列出研究方向（岩土、结构、交通、水环境、建造工程管理）及 HKPFS 入口；HKPFS 对不同国籍新生开放，需先获系内导师接收。HKU 其它资助（Presidential PhD）见研究生院页面。 |

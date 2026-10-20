@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 导师招生帖（社交平台个人发布）（73）
+# 导师招生帖（社交平台个人发布）（77）
 
 导师/课题组在小红书、知乎、微信公众号、微博、B站、X、Bluesky、LinkedIn 等平台亲自发布的单条博士/博后招生帖，时效性强，请留意发布日期。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [中国香港（HK） 19](recruiting-posts.md#r-hk) · [美国（US） 10](recruiting-posts.md#r-us) · [瑞士（CH） 6](recruiting-posts.md#r-ch) · [德国（DE） 6](recruiting-posts.md#r-de) · [荷兰（NL） 6](recruiting-posts.md#r-nl) · [新加坡（SG） 5](recruiting-posts.md#r-sg) · [丹麦（DK） 4](recruiting-posts.md#r-dk) · [韩国（KR） 4](recruiting-posts.md#r-kr) · [加拿大（CA） 2](recruiting-posts.md#r-ca) · [中国内地（CN） 2](recruiting-posts.md#r-cn) · [奥地利（AT） 1](recruiting-posts.md#r-at) · [欧盟/欧洲（EU） 1](recruiting-posts.md#r-eu) · [芬兰（FI） 1](recruiting-posts.md#r-fi) · [法国（FR） 1](recruiting-posts.md#r-fr) · [以色列（IL） 1](recruiting-posts.md#r-il) · [日本（JP） 1](recruiting-posts.md#r-jp) · [挪威（NO） 1](recruiting-posts.md#r-no) · [瑞典（SE） 1](recruiting-posts.md#r-se) · [英国（UK） 1](recruiting-posts.md#r-uk)
+**按地区跳转：** [中国香港（HK） 19](recruiting-posts.md#r-hk) · [美国（US） 10](recruiting-posts.md#r-us) · [德国（DE） 7](recruiting-posts.md#r-de) · [瑞士（CH） 6](recruiting-posts.md#r-ch) · [荷兰（NL） 6](recruiting-posts.md#r-nl) · [新加坡（SG） 5](recruiting-posts.md#r-sg) · [丹麦（DK） 4](recruiting-posts.md#r-dk) · [韩国（KR） 4](recruiting-posts.md#r-kr) · [加拿大（CA） 3](recruiting-posts.md#r-ca) · [中国内地（CN） 3](recruiting-posts.md#r-cn) · [奥地利（AT） 1](recruiting-posts.md#r-at) · [比利时（BE） 1](recruiting-posts.md#r-be) · [欧盟/欧洲（EU） 1](recruiting-posts.md#r-eu) · [芬兰（FI） 1](recruiting-posts.md#r-fi) · [法国（FR） 1](recruiting-posts.md#r-fr) · [以色列（IL） 1](recruiting-posts.md#r-il) · [日本（JP） 1](recruiting-posts.md#r-jp) · [挪威（NO） 1](recruiting-posts.md#r-no) · [瑞典（SE） 1](recruiting-posts.md#r-se) · [英国（UK） 1](recruiting-posts.md#r-uk)
 
 <a id="r-hk"></a>
 
@@ -50,8 +50,22 @@
 | [Rajan 课题组 · 哈佛医学院 / Kempner 研究所 · 计算神经科学 招生](https://rajanlab.com/join-us)<br><sub>美国 ｜ 神经/认知·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>招生页未给出截止日，建议直接邮件询问当前名额。</sub> | ❔ | **要求：** 页面未列具体学历、语言与国际生要求；需先确认名额所属机构（PI 现为哈佛医学院/Kempner，西奈山为 adjunct），再邮件询问。<br>页面称实验室目前不招聘博后，将来可能招募；机构为哈佛医学院神经生物学系与 Kempner 研究所。 |
 | [Seok-Yong Lee 课题组 · Duke University School of Medicine · 结构与膜生物学 博后招聘](https://sites.duke.edu/leelab/open-lab-positions/)<br><sub>美国 ｜ 生物/生命科学·化学/材料·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 未公布<br><sub>🟢 开放申请</sub> | ❔ | **要求：** 页面未明确写博士学位要求；有冷冻电镜、膜蛋白生化或电生理背景者更佳，但非必需。申请材料为简历（含论文列表与三位推荐人联系方式）及研究兴趣陈述，发送至 seok-yong.lee@duke.edu。国际生签证与资格页面未写，需咨询 PI。<br>PI 课题组自有招聘页，列出一个由 NIH 资助的博士后岗位（膜转运机制方向）；页面未写薪资与截止日期，申请前需向 PI 确认。 |
 | [Sihui Li · 华盛顿州立大学 · 机器人方向全奖博士](https://labs.wsu.edu/ropal/)<br><sub>美国 ｜ 计算机·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>🟢 开放申请</sub> | ❔ | **要求：** 需计算机背景或扎实 C/C++ 基础，有机器人研究经验者优先<br>WSU 机器人规划与自主实验室（RoPAL）官网称招收硕士与博士生，咨询 Sihui Li 教授。论坛帖称 2026 秋招 1 名全奖 CS 博士，但官网未写明资助类型，申请截止与资格以官网或教授通知为准。 |
-| [俄勒冈州立大学灰鲸生物能量学博后](https://hr.oregonstate.edu/open-postdoctoral-scholar-positions/bioenergetics-and-ecology-gray-whales)<br><sub>美国 ｜ 生物/生命科学·生态/进化</sub> | 博后 | 带薪岗位 | **2026-11-01**<br><sub>🟢 开放申请</sub> | ❔ | OSU GRANITE 项目 12 个月全职博后（可续至 3 年），2026-11-01 截止，2027-05-01 起聘。要求生命科学博士（获博不超过 3 年）。国际申请资格未在岗位文件中确认。 |
+| [俄勒冈州立大学灰鲸生物能量学博后](https://hr.oregonstate.edu/open-postdoctoral-scholar-positions/bioenergetics-and-ecology-gray-whales)<br><sub>美国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-11-01**<br><sub>🟢 开放申请</sub> | ❔ | OSU GRANITE 项目 12 个月全职博后（可续至 3 年），2026-11-01 截止，2027-05-01 起聘。要求生命科学博士（获博不超过 3 年）。国际申请资格未在岗位文件中确认。 |
 | [普渡大学 Xiaoqian Wang 课题组 · 可信 AI/ML 博士招生](https://engineering.purdue.edu/~joywang)<br><sub>美国 ｜ 计算机·人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 滚动<br><sub>🔄 随时可申</sub><br><sub>教师主页称长期招收自驱动博士生，发送 CV 与成绩单；资助以学校政策为准</sub> | ❔ | **要求：** 需先申请 Purdue ECE 博士项目并在申请中写明导师；提交 CV 与成绩单；机器学习或 AI 研究经验为优先（第三方转载的招生帖）。<br>导师主页称一直招自驱动博士生,请发送 CV 和成绩单。需先申请 Purdue ECE 博士并在申请中写明导师,资助以学校政策为准。 |
+
+<a id="r-de"></a>
+
+## 德国（DE）（7）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Hertie 学院开放博士岗位页](https://www.hertie-school.org/en/phd/apply-for-a-phd/open-phd-positions)<br><sub>德国 ｜ 社会科学/心理·经济/金融·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | 🟡 | 列出博士研究助理与带薪博士岗位，常见 4 年合同；所见岗位多已截止，关注 2027 入学更新。 |
+| [Strandburg-Peshkin 组（CoCoMo）· 马普动物行为所/康斯坦茨大学 · 动物群体通讯与协调 招生](https://imprs-qbee.mpg.de/66303/pre-imprs-call)<br><sub>德国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>🔜 即将开放</sub><br><sub>IMPRS-QBEE 官网称为 Strandburg-Peshkin 下一个博士课题发布 pre-IMPRS 征集；资助与截止日未核实，以官网为准</sub> | ❔ | **要求：** 任意科学学科硕士；有编程经验；工作语言英语，无需德语<br>Strandburg-Peshkin 组博士岗位，经 IMPRS-QBEE（马普动物行为所与康斯坦茨大学）pre-IMPRS 征集发布。原转载页已过时；资助与截止日未核实，以 IMPRS-QBEE 官网为准。 |
+| [杜塞尔多夫大学高分子化学课题组招聘页](https://www.macrochem.hhu.de/jobs)<br><sub>德国 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>📋 持续更新</sub><br><sub>页面未列截止日期，岗位以 PDF 公告为准；页面称另一博士岗可能于 2027 年初开放，公告或于 9 月发布。</sub> | ❔ | 页面为英文，列有一个拟于 2026 年 10 月或 11 月入职的博士岗；页面称目前无博后资金，并欢迎本科、硕士毕业论文咨询。 |
+| [马尔堡大学 Schihada 课题组博士岗位（Emmy Noether 项目）](https://www.uni-marburg.de/de/fb16/ipc/ag-schihada/stellen)<br><sub>德国 ｜ 医学/公卫·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>65% 岗位，TV-H E13（约 3 年，可延长 1 年）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>2026 年秋季有一个博士岗位；上一批公告截止为 2025 年 11 月 16 日，2026 批次截止未确认</sub> | ❔ | **要求：** 需生物、药学或生化相关背景，有哺乳动物细胞培养、分子克隆、FRET/BRET 等经验，英语良好；先邮件联系导师<br>Emmy Noether 资助的带薪博士岗位；申请前先邮件联系课题组。 |
+| [马普动力学与自组织研究所活性物质 PhD 岗位（MPIDS-W091）](https://www.mpg.de/26889161/phd-positions-mpids-w091)<br><sub>德国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>TVöD-Bund E13 的 2/3（以岗位为准）</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>首轮审核 2026-12-01；招满前可能接受至 2027-04-01（jobs.ac.uk 标注）</sub> | ❔ | **要求：** 非平衡统计物理或活性物质的理论/计算方向；需 CV、成绩单、研究兴趣陈述和两位推荐人<br>马普动力学与自组织研究所 Living Matter 部门（Golestanian 组）PhD 岗位，理论与计算方向，合同 3 年，起始时间灵活。首轮审核 2026-12-01，招满前可能延至 2027-04-01。 |
+| [马普可持续材料研究所（MPI-SusMat）招聘页](https://www.mpg.de/5711299/Jobs)<br><sub>德国 ｜ 工程·化学/材料·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位<br><sub>约 €38,000–39,000/年（TVöD 13 65%，税前，依岗位公告）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>IMPRS SusMet 前两轮截止均为 10 月 31 日；2026 轮截止以岗位页为准。</sub> | ❔ | **要求：** 需材料科学、物理、工程或化学方向优秀硕士学位及良好英语；须通过线上门户申请，不接受邮件。<br>研究所博士与博后招聘页，列出 IMPRS SusMet 等博士岗位。申请需通过线上门户，邮件申请不受理。 |
+| [马普陆地微生物研究所（MPI Marburg）招聘总页](https://www.mpi-marburg.mpg.de/open-positions)<br><sub>德国 ｜ 生物/生命科学·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | 研究所招聘总页，抓取时列表为空；学生、博士生和博后可直接联系主任或课题组长申请，需定期查看。 |
 
 <a id="r-ch"></a>
 
@@ -64,20 +78,7 @@
 | [EPFL Priestley 课题组系统神经科学博士岗位（ERC 项目）](https://www.epfl.ch/labs/gr-priestley/open-positions)<br><sub>瑞士 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub> | ❔ | 页面称目前实验室没有开放岗位，未来岗位会发布在此页及 EDNE 网站；博士生通过 EPFL 神经科学博士学院 EDNE 招收，每年两轮申请。 |
 | [Suong Nguyen 课题组 · EPFL · 合成高分子化学 招生](https://www.epfl.ch/labs/lcps/open-positions)<br><sub>瑞士 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面未列截止日期，也未写明博士名额是否有经费。</sub> | ❔ | EPFL Nguyen 课题组招生页称目前没有有经费的博士或博后岗位，建议将 CV 与求职信发邮件给 Nguyen 教授咨询。页面未列截止日期。 |
 | [Sylvain Calinon 团队 · Idiap · 机器人学习博士招生页](https://www.idiap.ch/~scalinon/open-positions.htm)<br><sub>瑞士 ｜ 人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-04-15**<br><sub>⏸ 本轮已截止</sub><br><sub>上一轮岗位截止 2026 年 4 月 15 日；岗位为 4 年合同，页面称滚动发布，入学需同时申请 EPFL 博士项目</sub> | ✅ | **要求：** 需工程、计算机、物理或应用数学硕士，具备信号处理、控制、优化或机器学习背景；须先被 EPFL 博士学院录取；国际生资格未在页面确认<br>Idiap 研究所机器人学习团队博士岗位页，岗位为 4 年带薪合同，入学需通过 EPFL 博士项目录取。最近一轮岗位截止 2026 年 4 月 15 日已过，后续岗位以页面最新公告为准；页面未明确国际生资格，需确认。 |
-| [卢塞恩大学博士岗位（ERC Starting Grant REPAIR 项目，AI 与福利国家）](https://www.unilu.ch/en/university/personnel/human-resources-department/vacancies/phd-candidate-doctoral-researcher-100-2216512)<br><sub>瑞士 ｜ 社会科学/心理</sub> | 博士 | 带薪岗位 | **2026-11-15**<br><sub>🟢 开放申请</sub><br><sub>本轮 2026-11-15 截止，以 PDF 单文件提交。</sub> | ❔ | **要求：** 页面摘要未列明国籍与学历细则，需以完整岗位公告为准。<br>卢塞恩大学 100% 全职博士岗，挂在 ERC Starting Grant 项目 REPAIR 下（研究 AI 对福利国家政治的影响），固定期限 4 年，以论文集形式完成。薪资金额未核实，请看岗位原文。 |
-
-<a id="r-de"></a>
-
-## 德国（DE）（6）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [Hertie 学院开放博士岗位页](https://www.hertie-school.org/en/phd/apply-for-a-phd/open-phd-positions)<br><sub>德国 ｜ 社会科学/心理·经济/金融·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | 🟡 | 列出博士研究助理与带薪博士岗位，常见 4 年合同；所见岗位多已截止，关注 2027 入学更新。 |
-| [Strandburg-Peshkin 组（CoCoMo）· 马普动物行为所/康斯坦茨大学 · 动物群体通讯与协调 招生](https://imprs-qbee.mpg.de/66303/pre-imprs-call)<br><sub>德国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>🔜 即将开放</sub><br><sub>IMPRS-QBEE 官网称为 Strandburg-Peshkin 下一个博士课题发布 pre-IMPRS 征集；资助与截止日未核实，以官网为准</sub> | ❔ | **要求：** 任意科学学科硕士；有编程经验；工作语言英语，无需德语<br>Strandburg-Peshkin 组博士岗位，经 IMPRS-QBEE（马普动物行为所与康斯坦茨大学）pre-IMPRS 征集发布。原转载页已过时；资助与截止日未核实，以 IMPRS-QBEE 官网为准。 |
-| [杜塞尔多夫大学高分子化学课题组招聘页](https://www.macrochem.hhu.de/jobs)<br><sub>德国 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>📋 持续更新</sub><br><sub>页面未列截止日期，岗位以 PDF 公告为准；页面称另一博士岗可能于 2027 年初开放，公告或于 9 月发布。</sub> | ❔ | 页面为英文，列有一个拟于 2026 年 10 月或 11 月入职的博士岗；页面称目前无博后资金，并欢迎本科、硕士毕业论文咨询。 |
-| [马尔堡大学 Schihada 课题组博士岗位（Emmy Noether 项目）](https://www.uni-marburg.de/de/fb16/ipc/ag-schihada/stellen)<br><sub>德国 ｜ 医学/公卫·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>65% 岗位，TV-H E13（约 3 年，可延长 1 年）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>2026 年秋季有一个博士岗位；上一批公告截止为 2025 年 11 月 16 日，2026 批次截止未确认</sub> | ❔ | **要求：** 需生物、药学或生化相关背景，有哺乳动物细胞培养、分子克隆、FRET/BRET 等经验，英语良好；先邮件联系导师<br>Emmy Noether 资助的带薪博士岗位；申请前先邮件联系课题组。 |
-| [马普动力学与自组织研究所活性物质 PhD 岗位（MPIDS-W091）](https://www.mpg.de/26889161/phd-positions-mpids-w091)<br><sub>德国 ｜ 物理/天文</sub> | 博士 | 带薪岗位<br><sub>TVöD-Bund E13 的 2/3（以岗位为准）</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>首轮审核 2026-12-01；招满前可能接受至 2027-04-01（jobs.ac.uk 标注）</sub> | ❔ | **要求：** 非平衡统计物理或活性物质的理论/计算方向；需 CV、成绩单、研究兴趣陈述和两位推荐人<br>马普动力学与自组织研究所 Living Matter 部门（Golestanian 组）PhD 岗位，理论与计算方向，合同 3 年，起始时间灵活。首轮审核 2026-12-01，招满前可能延至 2027-04-01。 |
-| [马普可持续材料研究所（MPI-SusMat）招聘页](https://www.mpg.de/5711299/Jobs)<br><sub>德国 ｜ 工程·化学/材料·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位<br><sub>约 €38,000–39,000/年（TVöD 13 65%，税前，依岗位公告）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>IMPRS SusMet 前两轮截止均为 10 月 31 日；2026 轮截止以岗位页为准。</sub> | ❔ | **要求：** 需材料科学、物理、工程或化学方向优秀硕士学位及良好英语；须通过线上门户申请，不接受邮件。<br>研究所博士与博后招聘页，列出 IMPRS SusMet 等博士岗位。申请需通过线上门户，邮件申请不受理。 |
+| [卢塞恩大学博士岗位（ERC Starting Grant REPAIR 项目，AI 与福利国家）](https://www.unilu.ch/en/university/personnel/human-resources-department/vacancies/phd-candidate-doctoral-researcher-100-2216512)<br><sub>瑞士 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-11-15**<br><sub>🟢 开放申请</sub><br><sub>本轮 2026-11-15 截止，以 PDF 单文件提交。</sub> | ❔ | **要求：** 页面摘要未列明国籍与学历细则，需以完整岗位公告为准。<br>卢塞恩大学 100% 全职博士岗，挂在 ERC Starting Grant 项目 REPAIR 下（研究 AI 对福利国家政治的影响），固定期限 4 年，以论文集形式完成。薪资金额未核实，请看岗位原文。 |
 
 <a id="r-nl"></a>
 
@@ -128,21 +129,23 @@
 
 <a id="r-ca"></a>
 
-## 加拿大（CA）（2）
+## 加拿大（CA）（3）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [McGill Ding Lab（Jun Ding）· McGill 大学 · 单细胞多组学/AI 药物 招生](https://junding.lab.mcgill.ca/positions.html)<br><sub>加拿大 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>🟢 开放申请</sub><br><sub>实验室招生页标注 2026 年 3 月更新，页面未写截止日；先在 McGill 官网提交申请，再邮件联系 PI。</sub> | ❔ | **要求：** 页面称博士生可获全额学费与生活津贴；需生物、数学、计算或 AI 相关背景。国际生资格页面未写明。<br>页面称博士生获全额学费支持和生活津贴，未给金额。方向：单细胞多组学生成模型、AI 辅助药物重定位。 |
 | [McGill Geography · Mallik Mahmud 极地遥感组 · 海冰 SAR 遥感 招生（MSc/PhD）](https://www.mcgill.ca/geography/graduate/recruitment)<br><sub>加拿大 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>官网招生页写 Fall 2026 入学，1 月 15 日截止（已过）；下一轮轮次需直接向导师或 McGill 确认。</sub> | ❔ | **要求：** 需有遥感数据分析经验与 Python/MATLAB/R 编程能力；MSc 岗位优先加拿大学生，博士岗位国籍限制未明确。<br>官方招生页称提供全额资助的 MSc 与 PhD 岗位（北极海冰卫星 SAR 监测）。先在 McGill 门户申请，再把 CV 与成绩单发给 PI。 |
+| [UBC 力学实验室（Mechanics Lab）· 纤维网络孔弹性力学 博士招生](https://blogs.ubc.ca/mechanicslab/joinus/)<br><sub>加拿大 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>🟢 开放申请</sub><br><sub>页面未给截止日期；申请经 UBC 在线门户提交并需附文件编号，不要直接邮件发送 CV。</sub> | ❔ | **要求：** 页面要求较强的编程能力（Python、C++、HPC 多线程）；国际生资格未写明。<br>页面称为全奖职位，但注明视经费而定，页面日期为 2026 年 9 月。国际生资格未明确，标 check。 |
 
 <a id="r-cn"></a>
 
-## 中国内地（CN）（2）
+## 中国内地（CN）（3）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [HKUST(GZ) A2E Lab（段凌杰）· 博士/MPhil/RA 招生 2026、2027 入学](https://personal.hkust-gz.edu.cn/lingjieduan/phd-openings/)<br><sub>中国内地 ｜ 人工智能·计算机·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>月津贴 RMB 15,000（页面称授予所有录取博士生）</sub> | 未公布<br><sub>🟢 开放申请</sub><br><sub>官网称正在招收 2026 与 2027 入学的博士、MPhil 与研究助理；截止日期与资助细则未在搜索摘要中看到，以页面为准。</sub> | ❔ | 页面称该实验室正在招收 2026 与 2027 入学的博士、MPhil 与研究助理，研究方向包括分布式机器学习、多智能体系统与算法博弈论。页面称香港科技大学（广州）为所有录取博士生提供博士奖学金，含月津贴 RMB 15,000。 |
 | [HKUST(GZ) CIS Lab（Zeyu Wang）· 博后/博士/MPhil 招生](https://cislab.hkust-gz.edu.cn/openings/)<br><sub>中国内地 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 仅生活费<br><sub>博士 RMB 15,000/月；MPhil RMB 10,000/月</sub> | —<br><sub>📋 持续更新</sub><br><sub>页面长期列出博后、博士、MPhil 与 RA 岗位，未见具体截止日期，以官网为准</sub> | ❔ | CIS 实验室页面列出博后、博士、MPhil 与 RA 岗位，称博士每月 RMB 15,000、MPhil 每月 RMB 10,000；英语最低要求为 TOEFL iBT 80 或 IELTS 6.5（单项不低于 5.5）。 |
+| [上海交通大学李政道研究所 · 招聘公告列表](https://tdli.sjtu.edu.cn/posts?fl=295)<br><sub>中国内地 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 通常需博士学位、研究陈述、CV 与推荐信，具体按岗位公告要求<br>上海交通大学李政道研究所招聘公告列表。未在官网招聘页找到国籍说明，资格改为 'check'。列表中旧岗位多已过期，需逐条核对。 |
 
 <a id="r-at"></a>
 
@@ -151,6 +154,14 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [ALMOA 博士网络（Klagenfurt 协调，13 个博士岗）](https://almoa.aau.at/?page_id=48)<br><sub>奥地利·德国 ｜ 数学/统计·工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 滚动<br><sub>🔄 随时可申</sub><br><sub>首轮 2026-05-04 已过；页面称岗位招满为止</sub> | ❔ | **要求：** 需在招聘日前取得数学、计算机科学或相关领域硕士学位；招聘日前未获博士学位；英语流利（口语与写作）；近 3 年在东道国学习或工作不超过 12 个月（MSCA 流动性规则）。<br>页面更新称除 DC11 外其余岗位均已招满，未招满的岗位在招满前仍可接收申请。13 个带薪博士岗涵盖可持续能源系统、绿色物流、绿色数据科学等应用方向。 |
+
+<a id="r-be"></a>
+
+## 比利时（BE）（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [根特大学 IDLab 研究组招聘页（含博士岗位）](https://knows.idlab.ugent.be/vacancies/)<br><sub>比利时 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>岗位按项目陆续发布，截止以各岗位页为准；检索未找到 2026 年 IDLab 知识图谱岗位。</sub> | ❔ | **要求：** 需先联系导师；具体学历与语言要求以岗位页为准。<br>IDLab 知识图谱与语义方向招聘页，含基于 LLM 的图检索博士岗位。比利时博士多为雇员合同，先联系导师。 |
 
 <a id="r-eu"></a>
 

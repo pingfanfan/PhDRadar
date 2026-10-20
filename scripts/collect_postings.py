@@ -102,7 +102,7 @@ def level_of(title: str) -> str | None:
 
 # 安全审查：法国 ZRR/PPST、瑞典《保护性安全法》、挪威安全法与出口管制、美国 DOE Q 级许可
 SCREENING = _SCREENING + [r"\bZRR\b", r"\bPPST\b", r"protection of (the )?national scientific", r"protective security act",
-                          r"\bsikkerhetsloven", r"\beksportkontroll", r"export of strategic goods", r"\bQ[- ]?(level )?clearance\b"]
+                          r"\bsikkerhetsloven", r"\beksportkontroll", r"export of strategic goods", r"\bexport[\s-]controll?ed\b", r"\bQ[- ]?(level )?clearance\b"]
 # 限本土：只付本土学费且国际生自付差额、只限有 Home 学费资格者、需美国公民身份
 RESTRICTED = _RESTRICTED + [
     r"\brestricted to (applicants|candidates|students) (who|with)[^.]{0,60}\b(home|uk|eu|eea|citizen|citizenship|resident)",
@@ -121,6 +121,7 @@ NOT_FUNDED = [
     r"\bwishing to apply (for|to)[^.]{0,100}\b(fellowships?|programmes?|programs?)\b",
     r"\bapplications? to one or more of the following[^.]{0,60}(funding|fellowship)",
     r"\bfunding[^.]{0,40}has not (yet )?been (secured|confirmed)", r"\bsubject to (the )?(successful )?(funding|availability of funding)\b",
+    r"\bmedför egen finansiering\b", r"\begen finansiering\b", r"\b(bring|secure|have) (their|your|his/her) own funding\b",
     r"\bremote contract\b", r"\bpay rate:?\s*\$\d+", r"\bmore projects than funded (opportunities|places|studentships)\b",
 ]
 ROLLING = re.compile(r"[^.]{0,120}(?:until (?:the |a )?(?:position|post|positions|vacancy|role|job)s? (?:is |are |has been |have been )?filled|"
@@ -925,7 +926,7 @@ for _mod in sorted(p.stem for p in (ROOT / "scripts").glob("platforms_*.py")):
 # 只有 GitHub Actions 能访问的平台（适配器名 → 岗位的 via 名）：由公开仓库的 postings 工作流采集（-s actions），
 # 每日任务再用 import_postings.py 并回主库；本地默认清单不含它们
 ACTIONS = {"findaphd": "FindAPhD"}
-DEFAULT = "jobs-ac-uk,academictransfer,naturecareers,sciencecareers,physicstoday,the-unijobs,jobbnorge,inspire,ajo,daad,varbi,ethz,inria,mpg,arbeitsagentur,workday,successfactors,oracle,pageup,cnrs,mathjobs,tamu-rwfm,hnet,aarhus,psi,eso,ibs,econjobmarket,reachmee,university,infn,pasteur,fapesp,linguistlist"
+DEFAULT = "jobs-ac-uk,academictransfer,naturecareers,sciencecareers,physicstoday,the-unijobs,jobbnorge,inspire,ajo,daad,varbi,ethz,inria,mpg,arbeitsagentur,workday,successfactors,oracle,pageup,cnrs,mathjobs,tamu-rwfm,hnet,aarhus,psi,eso,ibs,econjobmarket,reachmee,university,infn,pasteur,fapesp,linguistlist,egu,ellis,fens,uibk"
 
 
 def expand(sources: str) -> list[str]:
@@ -999,9 +1000,30 @@ def org_words(org: str) -> set[str]:
     return set(re.sub(r"\b(the|university|universit[yé]|of|college|inc|e v|gmbh)\b|[^a-z]+", " ", org).split())
 
 
+ORG_COMMON = {"institute", "institut", "research", "center", "centre", "medical", "school", "national", "department", "sciences",
+              "science", "technology", "technical", "health", "faculty", "main", "association", "laboratory", "division", "state"}
+
+
 def same_org(a: str, b: str) -> bool:
+    """机构一致：词集包含 / 重合过半，或共有一个有区分度的词（“southwestern”“lapth”）。"""
     wa, wb = org_words(a), org_words(b)
-    return bool(wa and wb) and (wa <= wb or wb <= wa or len(wa & wb) / len(wa | wb) >= 0.5)
+    if not (wa and wb):
+        return False
+    shared = {w for w in wa & wb if len(w) >= 4 and w not in ORG_COMMON}
+    return wa <= wb or wb <= wa or len(wa & wb) / len(wa | wb) >= 0.5 or bool(shared)
+
+
+def close_dates(a: str, b: str, days: int = 3) -> bool:
+    if "rolling" in (a, b):
+        return False
+    return abs((date.fromisoformat(a) - date.fromisoformat(b)).days) <= days
+
+
+def same_job(a: dict, b: dict) -> bool:
+    """标题已足够具体时：机构一致；或标题很具体（≥ 4 个实义词）且截止相差 ≤ 3 天（机构名中英文 / 缩写不同，如 DKFZ）。"""
+    if same_org(a.get("org", ""), b.get("org", "")):
+        return True
+    return len(GENERIC.sub(" ", specific_title(a["title"])).split()) >= 4 and close_dates(a["deadline"], b["deadline"])
 
 
 def merge_across(rows: list[dict]) -> list[dict]:
@@ -1015,7 +1037,7 @@ def merge_across(rows: list[dict]) -> list[dict]:
             first, rest = g[0], g[1:]
             grp, vias = [first], {first.get("via")}
             for r in rest:
-                if r.get("via") not in vias and same_org(first.get("org", ""), r.get("org", "")):
+                if r.get("via") not in vias and same_job(first, r):
                     grp.append(r)
                     vias.add(r.get("via"))
             g = [r for r in rest if all(r is not x for x in grp)]

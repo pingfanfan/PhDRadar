@@ -177,3 +177,35 @@ def test_deadline_long_apply_sentence_and_spaced_ordinal():
     text = ("You can apply for this vacancy through the University of Antwerp’s online job application platform until "
             "November 12 th 2026 . Click on the 'Apply' button")
     assert ats.deadline(text)[0] == "2026-11-12"
+
+
+def test_german_wimi_level():
+    phd = "<h1>Wissenschaftliche/r Mitarbeiter/in (w/m/d)</h1><p>Die Möglichkeit zur Promotion ist gegeben. Vergütung nach " \
+          "TV-L E 13.</p><p>Bewerbungsfrist: 03.11.2026</p>"
+    ats._LS["rwth-V000011469"] = ("RWTH Aachen University", "DE", r"<h1[^>]*>(.*?)</h1>")
+    row, why = ats.ls_detail("rwth-V000011469", "u", phd, TODAY)
+    assert why == "收录" and row["level"] == "phd" and row["deadline"] == "2026-11-03"
+    postdoc = phd.replace("Die Möglichkeit zur Promotion ist gegeben.", "Voraussetzung ist eine abgeschlossene Promotion.") \
+        .replace("03.11.2026", "04.11.2026")
+    ats._LS["rwth-V2"] = ats._LS["rwth-V000011469"]
+    assert ats.ls_detail("rwth-V2", "u", postdoc, TODAY)[0]["level"] == "postdoc"
+
+
+def test_hash_sitemap_reads_every_link():
+    xml = "<urlset><url><loc>https://job-portal.lmu.de/jobposting/dc5b4c16a1</loc></url></urlset>"
+    saved = ats.LISTS[:]
+    ats.LISTS[:] = [("LMU Munich", "https://job-portal.lmu.de/sitemap.xml.gz",
+                     r"(?#全部)<loc>https://job-portal\.lmu\.de(/jobposting/([0-9a-f]+))</loc>", "https://job-portal.lmu.de", "DE")]
+    try:
+        out = ats.ls_urls(_Fetch(xml), 1)
+    finally:
+        ats.LISTS[:] = saved
+    assert out == [("lmu-dc5b4c16a1", "https://job-portal.lmu.de/jobposting/dc5b4c16a1")]
+
+
+def test_romance_language_deadlines():
+    assert ats.deadline("scadenza: 30 ottobre 2026, 12:00")[0] == "2026-10-30"
+    assert ats.deadline("Publié le 16 oct. 2026 - Ouvert jusqu'au 13 nov. 2026")[0] == "2026-11-13"
+    # 学校自己的页面（非美加）默认 日/月/年；没有提示时日月可互换就不收
+    assert ats.deadline("Date limite : 07/10/2026") == (None, "")
+    assert ats.deadline("Date limite : 07/10/2026", order_hint="DMY")[0] == "2026-10-07"

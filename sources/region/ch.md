@@ -2,31 +2,35 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 瑞士（CH） 信源（107）
+# 瑞士（CH） 信源（125）
 
-所有标注了地区 CH 的信源，共 107 条。
+所有标注了地区 CH 的信源，共 125 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 2](ch.md#aggregators) · [各国学术招聘门户与机构职位页 2](ch.md#national-portals) · [政府与国家级奖学金 2](ch.md#gov-scholarships) · [高校旗舰奖学金与资助检索 8](ch.md#university-schemes) · [结构化博士项目与研究机构 48](ch.md#doctoral-programs) · [博士后奖学金与项目 11](ch.md#postdoc-fellowships) · [企业与基金会 Fellowship 5](ch.md#fellowships) · [学科专属信源 1](ch.md#discipline) · [科研实习与“曲线入口” 8](ch.md#pathways) · [个人信源与社交渠道 12](ch.md#people-channels) · [导师招生帖（社交平台个人发布） 7](ch.md#recruiting-posts) · [选校与申请辅助工具 1](ch.md#tools)
+**按分类跳转：** [综合聚合平台 5](ch.md#aggregators) · [各国学术招聘门户与机构职位页 3](ch.md#national-portals) · [政府与国家级奖学金 2](ch.md#gov-scholarships) · [高校旗舰奖学金与资助检索 12](ch.md#university-schemes) · [结构化博士项目与研究机构 54](ch.md#doctoral-programs) · [博士后奖学金与项目 12](ch.md#postdoc-fellowships) · [企业与基金会 Fellowship 6](ch.md#fellowships) · [学科专属信源 2](ch.md#discipline) · [科研实习与“曲线入口” 8](ch.md#pathways) · [个人信源与社交渠道 13](ch.md#people-channels) · [导师招生帖（社交平台个人发布） 7](ch.md#recruiting-posts) · [选校与申请辅助工具 1](ch.md#tools)
 
 <a id="aggregators"></a>
 
-## 综合聚合平台（2）
+## 综合聚合平台（5）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [infoclio.ch 瑞士人文社科招聘板](https://www.infoclio.ch/jobs)<br><sub>瑞士 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>🔄 随时可申</sub> | ❔ | 页面为瑞士人文社科岗位列表，每条附截止日期，包括巴塞尔大学古代文明系博士奖学金（截止 2026 年 11 月 15 日）等。多数岗位以德语或法语发布。 |
+| [Nature Careers 化学博后（固定期限、学术机构）筛选页](https://www.nature.com/naturecareers/jobs/chemistry/postdoctoral/fixed-term/academia/)<br><sub>欧盟/欧洲·瑞士·丹麦·全球 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 化学博后固定期限岗位筛选页，含苏黎世、奥胡斯等高校岗位；需核对资助来源与截止日。 |
+| [Nature Careers 欧洲物理博后（固定期限、学术直聘）筛选页](https://www.nature.com/naturecareers/jobs/physics/postdoctoral/europe/fixed-term/phd/academia/direct-employer)<br><sub>欧盟/欧洲·德国·丹麦·瑞典·瑞士·英国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 博后岗位列表，各岗位的学历与资格以岗位页为准，需逐条核对国籍限制<br>按欧洲、物理、博后、固定期限、直聘筛选的 Nature Careers 页面，德国岗位最多；需逐条核对截止与薪资。 |
 | [NeuroLéman（日内瓦湖区神经科学网络）职位列表](https://wp.unil.ch/lemanicneuroscience/job-offers/)<br><sub>瑞士 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止不同；搜索可见的博士与博后岗位多发布于 2025 年 11 月前后，需逐条核对</sub> | ❔ | 汇总 UNIL、EPFL、UNIGE 等神经科学课题组的 PhD 与博后岗位；瑞士合同制博士有薪，资格看岗位原文。 |
+| [日内瓦大学科研办公室 SNSF Ambizione 指南](https://www.unige.ch/recherche/en/grants-office/individual-projects/ambizione)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 全奖 | **2026-11-03**<br><sub>🟢 开放申请</sub><br><sub>2026 轮 11 月 3 日 17:00（CET）截止；为 Ambizione 最后一轮</sub> | 🟡 | **要求：** 需瑞士国籍、瑞士高校学位，或在瑞士科研机构工作满 12 个月；博士后一般为 PhD 后 4 年内<br>日内瓦大学科研办公室说明：2026 轮 11 月 3 日截止，为最后一轮。外籍申请人需满足瑞士关联条件，否则不符合资格。资格以 SNSF 官网为准。 |
 
 <a id="national-portals"></a>
 
-## 各国学术招聘门户与机构职位页（2）
+## 各国学术招聘门户与机构职位页（3）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [EPFL Doctoral School](https://www.epfl.ch/education/phd/)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>CHF 55,225/年（首年毛薪，2026 年起，含第 13 月薪）</sub> | —<br><sub>📋 持续更新</sub> | ✅ | **要求：** 需先被博士项目录取后才能受聘为博士助理（doctoral assistant）；外国硕士注册费 CHF 150；非 EU/EFTA 国籍从实习转为聘用受限，具体以 EPFL 官网为准。<br>页面称学院下设 22 个博士项目，博士学习通常约四年；页面未说明薪资、资助或岗位细节，需以官网为准。 |
 | [ETH Zurich Jobs](https://jobs.ethz.ch/)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 通常需硕士或相当学历；ETH 无统一博士岗位库，需先联系目标教授或课题组<br>苏黎世联邦理工（ETH）没有统一的博士岗位库：博士职位由各教授自行招募，博士生通常具有 ETH 在职身份。官方建议直接联系相关课题组，并可查看 jobs.ethz.ch 上的公开岗位。 |
+| [SNSF NCCR 国家研究能力中心（博士/博后岗位上游）](https://www.snf.ch/en/FJBJ8XGQ1tjG8J8w/funding/programmes/national-centres-of-competence-in-research)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>岗位由各 NCCR 承办院校发布，无统一截止；2026 年起新一批 6 个 NCCR 启动</sub> | ❔ | NCCR 本身不直接招博士，岗位由承办院校各项目组发布，按官网承办项目清单逐一关注。 |
 
 <a id="gov-scholarships"></a>
 
@@ -39,7 +43,7 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（8）
+## 高校旗舰奖学金与资助检索（12）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -48,13 +52,17 @@
 | [EPFL 电网与储能系统实验室（GRID-ESS）博士岗位](https://www.epfl.ch/labs/grid-ess/?p=226)<br><sub>瑞士 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>🟢 开放申请</sub> | ❔ | **要求：** 电气、电子或相关专业硕士（或即将完成）；需较强电力系统背景及 Python/Julia 编程能力<br>页面列出 2 个带薪博士岗位（主动配电网、本地能源市场、电池储能），申请材料发送邮件至 Prof. Rahul Gupta，页面未见博士截止日期；博后经 MSCA 申请，页面标注下一截止为 2026 年 9 月 9 日（已过）。国际生资格未确认。 |
 | [ETH D-HEST 在招博士岗位列表](https://hest.ethz.ch/en/department/open-positions.html)<br><sub>瑞士 ｜ 医学/公卫·工程·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 页面为 D-HEST 在招岗位指引，未列出具体博士岗位或截止日；博士等科研岗位主要见各教授网站或 ETH 招聘门户（Open Positions Portal）。 |
 | [ETH Zurich 软体机器人实验室（SRL）职位页](https://srl.ethz.ch/the-group/open-positions.html)<br><sub>瑞士 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 滚动<br><sub>🔄 随时可申</sub><br><sub>页面写明 RobotX 博士/博后直接申请窗口每年开放至 11 月 27 日（窗口外不予处理）；博士与博后岗位滚动审核，需通过 ETH 在线门户提交。</sub> | ❔ | **要求：** 博士：相关领域硕士或即将完成，并有自己做出可用结果的经历；博后：已获博士学位，相关领域一作发表，并有从想法到真实硬件验证的经历。<br>ETH 软体机器人实验室的公开岗位页（博士与博后）。页面同时列出 ETH AI Center、CLS 与 ESKAS 等资助渠道。注意这是软体机器人组，不是 ETH RSL 机器人系统实验室。 |
+| [ETH Zürich 化学与应用生物科学系 D-CHAB 岗位页](https://chab.ethz.ch/en/the-department/open-positions.html)<br><sub>瑞士 ｜ 化学/材料·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止日期不同</sub> | ❔ | D-CHAB 官方岗位页，汇总化学、药学、生物等方向的博士和博后空缺。各岗位资助与资格以公告为准。 |
+| [ETH Zürich 物理系 D-PHYS 博士/博后岗位入口页](https://www.phys.ethz.ch/the-department/about-us/jobs.html)<br><sub>瑞士 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各课题组自行发布，截止日期因岗位而异</sub> | ❔ | 物理系官方页，说明博士和博后岗位由各研究组自行发布，并链接到各研究所总览和 ETH 招聘网。先找到方向对口的组，再看其 Open Positions 或去 jobs.ethz.ch 投递。 |
+| [ETH Zürich 环境系统科学系 D-USYS 岗位页](https://usys.ethz.ch/en/news-events/jobs.html)<br><sub>瑞士 ｜ 生物/生命科学·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止日期不同</sub> | ❔ | D-USYS 官方招聘页，汇总系内岗位，覆盖农业、生态、环境等方向。博士岗位请在页面确认。 |
 | [巴塞尔历史研究生院（BGSH）Starter Scholarship（2027 年 4 月开始）](https://jobs.unibas.ch/offene-stellen/starter-scholarships-of-the-basel-graduate-school-of-history/43646da9-a53a-4dba-86dc-b823a312cefb)<br><sub>瑞士 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>CHF 32,000（一年，分两期发放）</sub> | **2026-11-20**<br><sub>🟢 开放申请</sub><br><sub>2027 年 4 月开始的一年期启动奖学金，申请截止 2026 年 11 月 20 日（页面 Deadline for applications: 20 November 2026）。</sub> | ❔ | **要求：** 需历史学硕士或同等学位；申请时须列出一名 BGSH 导师作为拟定导师；材料含求职信、CV、不超过 3 页的论文提纲、学位证明与文本样本；页面未单独写明国籍要求，以官方公告为准。<br>巴塞尔历史研究生院的两个一年期 starter scholarship，金额 CHF 32,000，分两期发放；页面称前六个月内需准备并提交长期第三方资助申请，获奖者须注册为巴塞尔大学博士生。 |
+| [弗里堡大学中央招聘页（含博士岗）](https://www.unifr.ch/sp/fr/postes-vacants.html)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 博士岗与博后/assistant-docteur 岗条件各异，需逐岗在岗位页核对截止日<br>中央岗位页列出博士与博后岗位，部分系所另在系内发布；逐条查看截止日期。 |
 | [日内瓦高等国际与发展研究院博士资助](https://graduateinstitute.ch/scholarships)<br><sub>瑞士 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>CHF 2,000/月（9 月至次年 6 月，每年 10 期；官网称博士录取通常附四年资助包）</sub> | — | ❔ | 官网称博士录取通常附四年资助包：奖学金每年 CHF 20,000，按 9 月至次年 6 月每月发放 CHF 2,000；学费第一年 CHF 3,000，第二至四年每年 CHF 1,000。获得瑞士政府奖学金者，该奖学金将替代学院资助包第二至四年；非欧盟学生入学后前六个月不得工作。 |
 | [苏黎世大学博士项目总览](https://www.grc.uzh.ch/en/counseling/orientation-phd/doctoralprograms.html)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ✅ | **要求：** 通常需认可大学的硕士学位；多数项目需先获导师与学院录取；非欧盟申请人需办理签证与工作许可<br>按学院列出 UZH 全部博士项目；结构化项目统一招生，其余多需直接联系导师。 |
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（48）
+## 结构化博士项目与研究机构（54）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -74,6 +82,7 @@
 | [EPFL IdePHICS 实验室岗位](https://www.epfl.ch/labs/idephics/open-positions/)<br><sub>瑞士 ｜ 人工智能·数学/统计·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 滚动<br><sub>🔄 随时可申</sub><br><sub>页面标注 Starting date: Continuous，持续接收，无固定截止；需经 EPFL 博士项目申请并列 Krzakala 为拟导师</sub> | ❔ | **要求：** 需通过 EPFL 博士项目申请并列 Krzakala 为拟导师<br>统计物理与机器学习交叉方向，需联系教授并完成 EPFL 博士学院申请。 |
 | [EPFL ISIC 化学学院招聘页（博士岗位）](https://www.epfl.ch/schools/sb/research/isic/open_positions)<br><sub>瑞士 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面未列统一截止日期；博士岗位需先被 EDCH 化学与化工博士项目录取，并同时在线申请。</sub> | ✅ | **要求：** 需先被 EDCH 化学与化工博士项目录取（在线申请）；部分课题组要求化学相关一等硕士学位。<br>页面汇总多个课题组的博士岗位（如 PhD Fellowship in Protein Degradation），博士岗位需先被 EDCH 化学与化工博士项目录取。页面未写明薪资。 |
 | [EPFL LIONS 实验室岗位](https://www.epfl.ch/labs/lions/positions/)<br><sub>瑞士 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 滚动<br><sub>🔄 随时可申</sub><br><sub>博士入学时间全年持续（据页面）；需通过 EDEE 或 EDIC 博士学院申请</sub> | ❔ | **要求：** 需通过 EPFL EDEE 或 EDIC 博士学院申请，并列 Prof. Volkan Cevher 为可能导师<br>EPFL LIONS 实验室页面称目前招收多名机器学习博士生（强化学习与优化两个方向），需通过 EDEE 或 EDIC 博士学院申请并列 Prof. Volkan Cevher 为拟导师。 |
+| [EPFL 光子学博士项目 EDPO 申请页](https://www.epfl.ch/education/phd/edpo-photonics/edpo-for-applicants/)<br><sub>瑞士 ｜ 物理/天文·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>与同类项目同一轮在线申请截止，具体日期见 EPFL 日程</sub> | ❔ | **要求：** 注册时需硕士学位，特殊情况下接受四年制学士；不强制语言证书（页面所述）<br>EPFL 光子学博士项目官方页，页面称候选人由论文导师直接聘用并领取薪资。 |
 | [EPFL 化学与化学工程博士学院（EDCH）](https://www.epfl.ch/education/phd/edch-chemistry-and-chemical-engineering/)<br><sub>瑞士 ｜ 化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2027-01-15**<br><sub>🟢 开放申请</sub><br><sub>EDCH 每年三个申请截止：1 月 15 日、4 月 30 日、9 月 15 日；下一轮 2027-01-15，以 EPFL 官网为准。</sub> | ❔ | **要求：** 通常需化学或化工背景的学士或硕士学历（4–5 年制）；需提供全部成绩单（含评分标准）；无需先找到导师，由学院集中委员会评审，但页面建议先参考实验室方向。<br>EPFL 化学与化学工程博士学院，项目通常 4 年、全英文授课。申请由学院统一评审，申请前无需先找到导师。 |
 | [EPFL 博士项目总览（Doctoral Programs）](https://www.epfl.ch/education/phd/programs/)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>各博士项目截止不同：EDPY 为 4/30 与 10/31，EDMA 为 4/15、9/15、12/15，EDEE 为 4/15 与 12/1，EDEY 为 4/15 与 12/15，EDAR 为 1/15、4/30、9/15，其余项目以各自页面为准。</sub> | ❔ | 约 22 个博士项目（EDxx），申请须投向具体项目，各项目截止不同。本页为总览，未见统一的国籍或资助说明，中国大陆学生资格需看具体项目页。 |
 | [EPFL 神经科学博士项目（EDNE）](https://www.epfl.ch/education/phd/edne-neuroscience)<br><sub>瑞士 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>EDNE 每年两次申请截止：4 月 15 日与 11 月 1 日；下一截止为 2026-11-01</sub> | ❔ | **要求：** 需已有或即将获得硕士学位（学科不限）；无需 TOEFL 或 GRE；申请时填写 3 至 5 个感兴趣的实验室，并准备简历、动机信、成绩单与推荐信<br>EPFL 神经科学博士项目（EDNE）官方申请页列出每年 4 月 15 日与 11 月 1 日两次截止；入学时间由候选人与导师协商。录取后的具体岗位与薪资以实验室公告为准。 |
@@ -97,11 +106,16 @@
 | [PSI 量子纳米科学组（LNQ）岗位](https://www.psi.ch/en/lnq/open-positions)<br><sub>瑞士 ｜ 物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 纳米/量子材料方向 PhD 岗位入口，截止日期需在具体岗位页确认。 |
 | [RobotX PhD Fellowship 2027（ETH Zurich）](https://jobs.ethz.ch/job/view/JOPG_ethz_zBtPwWHnM0fumyTFso)<br><sub>瑞士 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-11-27**<br><sub>🟢 开放申请</sub><br><sub>页面写明申请截止 2026 年 11 月 27 日；仅接受在线门户提交，邮件或邮寄申请不予考虑。</sub> | ❔ | **要求：** 需在 2027 年 8 月前完成硕士学位；英语读写能力良好；申请一次即可供多个 RobotX 课题组考虑，最多可选择三位教授。<br>ETH RobotX 中心 2027 轮博士岗位，按 ETH 博士工资标准受聘并获全额资助，可选择至多三位教授。 |
 | [Swiss Finance Institute 金融学博士项目（SFI，瑞士多校联合）](https://sfi.ch/en/phd/apply-now-2022)<br><sub>瑞士 ｜ 经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>平台每年 9 月 1 日起开放；第一轮 1 月 15 日、第二轮 3 月 31 日（据苏黎世大学与卢加诺 USI 页面，需在 sfi.ch 核实当年日期）。</sub> | ❔ | **要求：** 需已获金融或经济学硕士（或同等学力）；需至少 2 封推荐信、成绩单与英语成绩；申请费 USD 100；国籍限制未在官方页面找到。<br>瑞士合作高校（苏黎世、日内瓦、洛桑、卢加诺等）联合招收金融学博士。搜索结果称学生可获合作高校提供的奖学金或助教/助研职位，具体金额未在官方页面确认；该页面链接带有 2022 字样，使用时请从 sfi.ch 找到当年申请页。 |
+| [Swiss TPH 博士项目总览（Doctorate and PhD Programmes）](https://www.swisstph.ch/en/study-with-us/doctorate)<br><sub>瑞士 ｜ 医学/公卫·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>📋 持续更新</sub><br><sub>博士岗位在官网招聘系统陆续发布，无统一截止；自荐需先找到导师</sub> | ❔ | **要求：** 需通过 Swiss TPH 招聘系统投递具体岗位，或先联系导师；学籍挂在巴塞尔大学<br>Swiss TPH 不设独立博士奖学金，博士生靠导师项目经费录取，需盯具体岗位投递；学籍挂在巴塞尔大学。国际生资格与截止以岗位公告为准。 |
 | [伯尔尼细胞与生物医学研究生院（GCB，瑞士）](https://gcb.unibe.ch/)<br><sub>瑞士 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | **要求：** 通常需先确定导师与课题；申请需在研究项目开始后 4 个月内提交，并进行英文面试<br>伯尔尼大学医学、理学与 Vetsuisse 三个学院联合管理的细胞与生物医学研究生院，提供结构化实验研究培训，授予 PhD（含 MD,PhD 等联合学位）。研究领域包括生物化学与分子生物学、生物医学工程、细胞生物学、免疫学、神经科学和流行病学；申请者需具备生命科学或相关专业、医学、牙医或兽医等硕士或同等学位。 |
 | [巴塞尔大学 Biozentrum PhD 奖学金](https://www.biozentrum.unibas.ch/phd/international-phd-program/phd-fellowships/fellowship-application/)<br><sub>瑞士 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-10-18**<br><sub>🟢 开放申请</sub><br><sub>2026 冬季轮截止 2026 年 10 月 18 日（页面重要日期表）；正文另一句写 'Application deadline is August 10, 2026'，与日期表不一致，以官方日期表为准。</sub> | ✅ | **要求：** 需持有或即将获得可进入巴塞尔大学博士项目的学位（MSc 或同等学位）；极少数优秀的 4 年制本科生可例外；申请时不得已在巴塞尔大学注册博士或签订博士合同。<br>Biozentrum 博士奖学金面向全球申请者，覆盖整个博士阶段；前一年需在至少两个实验室轮转后再选课题组。需硕士或同等学位。当前可申请的是 2026 冬季轮（10 月 18 日截止）。 |
 | [巴塞尔大学 SNI 纳米科学博士学院（SNI PhD School）](https://nanoscience.unibas.ch/en/forschung/phd-programm/)<br><sub>瑞士 ｜ 物理/天文·化学/材料·计算机·工程</sub> | 博士 | 带薪岗位 | 滚动<br><sub>🟢 开放申请</sub><br><sub>2027 轮项目最早 2027-01-01 开始、最晚 2027-07-01 开始；名额按合适候选人陆续确定，具体截止以官网公告为准。</sub> | ❔ | **要求：** 官网未见国籍限制，资格以各项目公告为准；博士生须在巴塞尔大学注册。国际生资格需逐项目核实。<br>SNI 博士学院以项目方式招生：每个项目资助 1 名博士生，最长 4 年，薪资依据 SNSF 标准并含运行经费；提案须由两名提案人组成导师组，其中一名为巴塞尔大学 Gruppierung I 教授。2025 年征集年度总额为 CHF 60,000（理论）/ 65,000（实验）；最新一轮金额与截止以官网公告为准。 |
+| [弗里堡大学化学系博士岗位](https://www.unifr.ch/chem/en/department/jobs.html)<br><sub>瑞士 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | — | ❔ | 部门招聘页列出多个课题组的博士岗位；所见 2025 年与 2026 年 1 月入学的岗位已过申请期。请到官网核实当前在招岗位。 |
 | [弗里德里希·米歇尔研究所（FMI）国际博士项目（巴塞尔大学联合培养）](https://www.fmi.ch/education-careers/programs/)<br><sub>瑞士 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | **2026-11-15**<br><sub>🟢 开放申请</sub><br><sub>页面 Important dates 列出 2026 年秋季轮 9 月 1 日开放、11 月 15 日截止，面试 2027 年 1 月 20–21 日。</sub> | ❔ | **要求：** 需持有或入学前将持有可在本国攻读博士或同等学位的大学学位（如 MSc、Diploma、DEA 等）<br>FMI 博士项目（学位由巴塞尔大学授予）每年两轮，遴选分别在 1 月和 6 月；学制通常 4–5 年。页面称提供较优厚的生活津贴但未列金额，推荐人要求与国际生资格未在本页说明。 |
 | [日内瓦国际关系与发展研究生院（HEI）博士财政支持页](https://www.graduateinstitute.ch/tuition-fees-financial-aid-packages)<br><sub>瑞士 ｜ 社会科学/心理·人文/语言·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>CHF 20,000/年（前两年，分 10 期；第 3–4 年待核实）</sub> | 未公布<br><sub>官网建议 1 月 15 日前申请录取（以当年时间表为准）</sub> | ✅ | **要求：** 页面：博士资助依据学术考量，非需求评定；每个院系每年评出 6 个资助包（2 年奖学金加 2 年助教）<br>官网称每个院系每年评出 6 个资助包（2 年奖学金加 2 年助教），面向最优秀的博士候选人，名额限定。页面另写学费每年 CHF 8,000（瑞士居民 CHF 5,000）。 |
+| [日内瓦大学 生命科学博士学院岗位页](https://lifesciencesphd.unige.ch/jobs)<br><sub>瑞士 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>页面显示 2026-27 冬季轮申请截止 11 月 1 日 23:59（CET），面试在 2027 年 1 月底。</sub> | ❔ | **要求：** 需硕士或同等学历；通常需先联系导师并经博士学院申请，具体资格以各岗位说明为准<br>生命科学博士学院汇总各实验室的资助博士职位。部分岗位滚动评审，申请前通常需先联系导师。 |
+| [日内瓦大学全球卫生博士项目（ISG）](https://www.unige.ch/medecine/isg/teaching/doctoral-program-in-global-health-phd/applying-doctoral-program)<br><sub>瑞士 ｜ 医学/公卫·社会科学/心理·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2027-02-01**<br><sub>🟢 开放申请</sub><br><sub>2027 年秋季入学在线申请截止 2027-02-01；每年 10 月公布导师课题列表</sub> | ❔ | **要求：** 须先满足最低入学要求；选择 UNIGE 导师课题，或自拟计划并获 UNIGE 导师支持<br>日内瓦大学全球健康博士，2027 年秋季入学在线申请截止 2027 年 2 月 1 日；须选择 UNIGE 导师课题或自拟计划并获导师支持；学费首尾学期 500 CHF、其余 65 CHF；资助需外部奖学金，以官网为准。 |
+| [日内瓦大学地球与环境科学系博士岗位](https://unige.ch/sciences/terre/fr/infos-pratiques/jobs)<br><sub>瑞士 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>列表持续更新；申请前需逐岗核对截止日。</sub> | ❔ | 系内列出的博士/助教型岗位（如 75% 助理-博士，兼教学）。列表页持续更新，单个岗位截止以岗位公告为准。 |
 | [日内瓦大学生命科学博士学院冬季招生](https://lifesciencesphd.unige.ch/)<br><sub>瑞士 ｜ 生物/生命科学·医学/公卫·神经/认知</sub> | 博士 | 视项目而定 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>门户显示下一批例外截止 2026-11-01 23:59（CET）；常规截止以门户为准（较新版本为 5 月 1 日与 12 月 1 日）</sub> | ❔ | **要求：** 需硕士或同等学位；可选择 1–2 个项目申请；资助因导师和项目而异，申请前需与导师确认<br>日内瓦大学生命科学博士学院：申请门户显示下一批例外截止为 2026 年 11 月 1 日 23:59（CET）。常规截止以申请门户为准；较旧版本曾写 4 月 15 日与 11 月 15 日，与新版本不一致。资助因导师而异，需在申请前与导师确认。 |
 | [瑞士保罗谢尔研究所 PSI 博士与博后页](https://psi.ch/en/hr/job-opportunities)<br><sub>瑞士 ｜ 物理/天文·化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | PSI 博士生通常在课题组工作约 4 年并与合作大学联培，需先获得大学录取。截止日以各岗位为准。 |
 | [生命科学苏黎世研究生院（LSZGS，ETH 与苏黎世大学）博士申请入口](https://www.mls-phd.uzh.ch/en/Admisson-and-Application/PhD-application-Track-1.html)<br><sub>瑞士 ｜ 生物/生命科学·医学/公卫·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>每年 5 月 1 日与 11 月 1 日两轮；2026 年 11 月 1 日为下一轮截止</sub> | ❔ | **要求：** 需已获或即将获自然科学硕士学位（或同等学历）；医学学位（MD、DVM、DDS）须走 MD-PhD 项目；课题组需有至少 3 年的博士雇用经费<br>ETH 与苏黎世大学联合的生命科学苏黎世研究生院（LSZGS）Track 1 博士申请页写明：需自然科学领域硕士或同等学历；截止为每年 5 月 1 日与 11 月 1 日两轮。受邀面试者的住宿与差旅由项目报销；资助条款页面未列出。 |
@@ -109,7 +123,7 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（11）
+## 博士后奖学金与项目（12）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -119,31 +133,34 @@
 | [ETH Zurich 博士后奖学金（ETH Fellows）](https://grantsoffice.ethz.ch/funding-opportunities/internal/eth-fellowships.html)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>每年 3 月 1 日与 9 月 1 日两轮截止；2026 年 9 月轮已截止，下一轮为 2027 年 3 月</sub> | ❔ | **要求：** 博士学位须在截止前 6 个月内取得且不超过 2 年；ETH 或苏黎世大学博士毕业生不符合资格；需 ETH 正教授作为导师<br>ETH 博士后奖学金：2026 年 9 月 1 日轮已截止（据第三方页面）；下一轮时间以 ETH 官网为准，原记录的 2027 年 3 月未能确认。 |
 | [Georg H. Endress 博士后奖学金（巴塞尔–弗赖堡量子集群）](https://bqc.unibas.ch/en/network/georg-h-endress-postdoc-cluster/open-calls/)<br><sub>瑞士·德国 ｜ 物理/天文·计算机</sub><br><sub>✓ 已核对官网</sub> | 博后 | 半奖/部分 | **2026-06-24**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请已于 2026-06-24 截止；通常春季开放，2027 轮时间未公布，可关注 open-calls 页或联系 endress-coordination@unibas.ch。</sub> | ❔ | **要求：** 申请材料为 CV、不超过两页的研究陈述及两封保密推荐信；国籍与学历要求以官网当期公告为准。<br>页面称本轮为 2026 年招募两名博士后研究员，任期两年，可在弗赖堡或巴塞尔任职。页面建议申请前先联系拟合作 PI；页面未列出金额。 |
 | [IBSA 基金会研究奖学金（医学与生物，2026 征集）](https://www.ibsafoundation.org/en/fellowship/call-2026)<br><sub>瑞士 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 仅生活费<br><sub>€32,000（12 个月，覆盖生活费与差旅）</sub> | **2027-01-31**<br><sub>🟢 开放申请</sub> | ✅ | **要求：** 申请人截止时需 40 岁以下（任何国籍）；需医学、生物、药学、生物技术或生物工程学位；永久教职不可申请；在线提交 CV、1–3 篇代表论文与求职信。<br>IBSA 基金会 2026 年征集，官方页称提供 7 项 €32,000 研究奖学金（皮肤、内分泌、生育与泌尿、骨科与疼痛、健康老龄化等方向），另设发展中国家研究 €5,000 奖项。官方征集页要求 2027-01-31 前在线提交。资格以 2026 征集文件为准。 |
-| [NOMIS–ETH Fellowship（起源生命方向博士后，ETH Zurich COPL）](https://copl.ethz.ch/opportunities/nomis-eth-fellowships.html)<br><sub>瑞士 ｜ 生物/生命科学·化学/材料·物理/天文</sub> | 博后 | 带薪岗位 | **2026-11-06**<br><sub>🟢 开放申请</sub><br><sub>每年一轮；本轮 2026-11-06 17:00（苏黎世时间）截止，通过 ETH 岗位平台申请，面向 2027 年入职。</sub> | ❔ | **要求：** 需已提交博士论文，博士学位约 3 年内（可例外）；需有学术或研究机构附属身份；需与 1–2 位 ETH COPL 成员教授合作。国籍限制未见，以官网为准。<br>NOMIS 基金会与 ETH 起源生命研究中心（COPL）合办，本轮约录取 1 人；资助为 3 年工资，另有每年最高 CHF 20,000 研究与差旅经费（据官方征集页）。申请前需先找到 COPL 合作教授。 |
+| [NOMIS–ETH Fellowship（起源生命方向博士后，ETH Zurich COPL）](https://copl.ethz.ch/opportunities/nomis-eth-fellowships.html)<br><sub>瑞士 ｜ 生物/生命科学·化学/材料·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-11-06**<br><sub>🟢 开放申请</sub><br><sub>每年一轮；本轮 2026-11-06 17:00（苏黎世时间）截止，通过 ETH 岗位平台申请，面向 2027 年入职。</sub> | ❔ | **要求：** 需已提交博士论文，博士学位约 3 年内（可例外）；需有学术或研究机构附属身份；需与 1–2 位 ETH COPL 成员教授合作。国籍限制未见，以官网为准。<br>NOMIS 基金会与 ETH 起源生命研究中心（COPL）合办，本轮约录取 1 人；资助为 3 年工资，另有每年最高 CHF 20,000 研究与差旅经费（据官方征集页）。申请前需先找到 COPL 合作教授。 |
 | [RobotX Postdoctoral Fellowship（ETH Zurich）](https://jobs.ethz.ch/job/view/JOPG_ethz_58u057ys6BxuEciK5P)<br><sub>瑞士 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-11-27**<br><sub>🟢 开放申请</sub><br><sub>页面写明申请截止 2026 年 11 月 27 日；仅接受在线门户提交，邮件或邮寄申请不予考虑。</sub> | ❔ | **要求：** 需在 2027 年 8 月前取得博士学位（或提供预计答辩日期）；需附一至两篇代表性论文及完整论文列表；申请一次即可供多个 RobotX 课题组考虑。<br>ETH RobotX 中心博后岗位，一年合同（通常可续约），按 ETH 博后工资标准受聘，可选择至多三位教授。 |
+| [瑞士癌症研究基金会 International Research Fellowships（临床医生）](https://www.cancerresearch.ch/for-researchers/funding-opportunities/translate-to-english-fellowships/translate-to-english-international-research-fellowships/)<br><sub>瑞士 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2027-01-31**<br><sub>🔜 即将开放</sub><br><sub>每年两轮：1 月 31 日与 7 月 31 日（中午 12:00 CET）。2026-07-31 轮已截止，下一轮 2027-01-31。</sub> | ❔ | **要求：** 需医学学位和肿瘤研究或治疗经验，面向早期职业临床医生；资助最长两年<br>面向临床医生的国际研究奖学金，纯基础研究博后不适用。 |
 | [苏黎世大学 CEES 东欧与欧亚研究员计划](https://www.cees.uzh.ch/en/Fellowship-Program/Current-Call.html)<br><sub>瑞士 ｜ 生态/进化·地球/环境/海洋·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | **2026-10-12**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 年春季学期征集截止 2026 年 10 月 12 日（已过）；页面未给出下一轮时间，以征集页为准。</sub> | ❔ | **要求：** 面向东欧、俄罗斯、高加索或中亚研究的社会科学与人文学者；需研究计划、写作样本与两封推荐信。其他资格条件以征集页为准。<br>页面为 2027 年春季学期征集（约 4 个月驻校，5–6 个名额），资助含生活津贴、差旅与行政费用，并协助在苏黎世找房；仅限在本校就读或任职的申请者。 |
 | [苏黎世大学博后资助页：ERC Consolidator Grant](https://www.research.uzh.ch/en/funding/postdoc/ERC-Consolidator-Grant.html)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2027-01-12**<br><sub>🟢 开放申请</sub><br><sub>页面写明下一截止为 2027 年 1 月 12 日</sub> | ✅ | **要求：** 博士后后 5–15 年经验的研究者；需机构书面确认（通过 AVA 系统获取）<br>苏黎世大学页面说明 ERC Consolidator Grant 面向取得博士学位 5–15 年、所有国籍的研究者，最长 5 年、最高 200 万欧元（含 40 万欧元间接费用）。申请需机构书面确认，经 AVA 系统获取。 |
-| [诺和诺德基金会博后奖学金（ETH Zurich / MIT / Oxford / Uppsala）](https://novonordiskfonden.dk/grant/postdoctoral-fellowships-at-eth-zurich-2026/)<br><sub>瑞士·美国·英国·瑞典 ｜ 全学科</sub> | 博后 | 力度未注明 | **2027-01-29**<br><sub>🟢 开放申请</sub> | ❔ | 诺和诺德基金会博后奖学金：ETH Zurich 2027 轮 2026-09-30 开放、2027-01-29 截止（搜索摘要），每项最高 DKK 360 万（最长 3 年）；MIT 与 Oxford 的 2026 轮已于 2026 年 1 月截止，需核对是否要求丹麦关联。 |
+| [诺和诺德基金会博后奖学金（ETH Zurich / MIT / Oxford / Uppsala）](https://novonordiskfonden.dk/grant/postdoctoral-fellowships-at-eth-zurich-2026/)<br><sub>瑞士·美国·英国·瑞典 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2027-01-29**<br><sub>🟢 开放申请</sub> | ❔ | **要求：** 需有丹麦教育或研究环境关联（如丹麦大学毕业、丹麦国籍或在丹麦机构多年研究经历）；博士学位须在资助起始日前 5 年内获得；前 2 年在 ETH Zurich，最后 1 年回丹麦机构。<br>诺和诺德基金会博后奖学金：ETH Zurich 2027 轮 2026-09-30 开放、2027-01-29 截止（搜索摘要），每项最高 DKK 360 万（最长 3 年）；MIT 与 Oxford 的 2026 轮已于 2026 年 1 月截止，需核对是否要求丹麦关联。 |
 
 <a id="fellowships"></a>
 
-## 企业与基金会 Fellowship（5）
+## 企业与基金会 Fellowship（6）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [EPFL CYD 网络安全博士奖学金](https://www.cydcampus.admin.ch/en/cyd-campus-fellowships-14th-call-for-applications)<br><sub>瑞士 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-08-19**<br><sub>⏸ 本轮已截止</sub><br><sub>第 14 轮博士组截止 2026-08-19，已过；下一轮未公布</sub> | ✅ | **要求：** 官网称可由任何国籍申请；需在瑞士高校博士项目注册或已录取，并获瑞士教授导师认可；研究需契合瑞士网络防务优先方向。<br>CYD Campus 网络防御博士奖学金：资助最长 4 年，含薪酬及科研与会议经费。须在瑞士高校读博并有瑞士教授担任导师；第 14 轮博士组已于 2026 年 8 月截止，下一轮以官网为准。 |
 | [EPFL 博士资助指南（Fund your PhD at EPFL）](https://www.epfl.ch/research/funding/individual/phd/)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各项目截止日不同，以 EPFL 研究办公室页面为准</sub> | ❔ | **要求：** 各项目资格不同，需逐项核对<br>EPFL 官方博士资金入口页，列出 CYD 博士奖学金（页面写第14期截止为 2026-08-19，已过）、CYD 概念验证与人道主义行动奖学金（滚动征集）及瑞士政府奖学金等；部分文件需用 EPFL 邮箱登录查看。 |
 | [ETH AI Center 博士奖学金（Doctoral Fellowships）](https://ai.ethz.ch/research/phd-and-postdoc-programs/phd-fellowships.html)<br><sub>瑞士 ｜ 人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>第1年 CHF 73,100，第2年 CHF 78,300，第3年 CHF 83,500（页面称按 100% 水平的博士岗位（rate 5）支付）</sub> | **2026-10-27**<br><sub>🟢 开放申请</sub><br><sub>2027 入学批次截止 2026-10-27 16:00 CET（官网页面确认），仅接受官网在线门户申请。</sub> | ❔ | **要求：** 需在 2027 年 6 月前取得相关硕士，满足 ETH 博士入学要求。<br>ETH AI Center 博士奖学金，三年期，每期约 8–12 个名额，通常 9 月开始，由两位不同领域导师共同指导。页面列出三档年薪（见 stipend）。 |
+| [NCCR Catalysis Boost 博士奖学金（面向女性研究者）](https://www.nccr-catalysis.ch/diversity/fellowships/)<br><sub>瑞士 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>每年 1/31、4/30、7/31、10/31 截止；须由 NCCR Catalysis PI 提交。国籍条款未核实</sub> | ❔ | **要求：** 女性博士候选人；申请须由 PI 提名<br>NCCR Catalysis Boost 面向女性博士候选人，须由 NCCR Catalysis 的 PI 代为提交，截止日为每年 1/31、4/30、7/31、10/31（搜索结果一致，但未确认仅适用于 Boost 项目）。国籍条款未在搜索结果中找到，是否对中国大陆申请人开放以官网条款为准。 |
 | [伯尔尼大学临床研究项目资助（FCRP Project Call 2026）](https://www.fcrp.unibe.ch/project_call/index_eng.html)<br><sub>瑞士 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 半奖/部分 | **2026-05-31**<br><sub>⏸ 本轮已截止</sub> | ❔ | 伯尔尼大学 Vetsuisse 学院 FCRP 临床研究项目资助，面向临床学科的博士生与拟申请 Habilitation 的进阶博后，资助本人或支持人员的（部分）岗位经费，不资助项目成本。2026 轮申请截止为 2026-05-31，当前轮已截止；申请者须隶属 Vetsuisse 学院三个系之一。 |
 | [巴塞尔大学 Biozentrum PhD Fellowship](https://www.biozentrum.unibas.ch/news/detail/ready-for-the-next-step-apply-now-for-a-biozentrum-phd-fellowship)<br><sub>瑞士 ｜ 生物/生命科学·神经/认知·医学/公卫·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-10-18**<br><sub>🟢 开放申请</sub> | ✅ | **要求：** 需硕士学位（极少数情况可为 4 年制本科）；面向全球申请者<br>巴塞尔 Biozentrum 博士：官方 FAQ 称面向全球申请者、无国籍限制；月薪约 CHF 3,500（净额，按 SNSF 标准），学费 CHF 350/学期。2026 冬季轮截止 2026-10-18，入围后有面试周；入学后先轮转再选课题组。 |
 
 <a id="discipline"></a>
 
-## 学科专属信源（1）
+## 学科专属信源（2）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [EPFL Galatea 实验室岗位（超快激光与物质相互作用博士）](https://www.epfl.ch/labs/galatea/jobs)<br><sub>瑞士 ｜ 物理/天文·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>📋 持续更新</sub><br><sub>页面称 2026 年将开放两个博士岗位，截止日以岗位页为准</sub> | ❔ | **要求：** 需被 EPFL 某博士项目（EDPO、EDAM 或 EDPY）录取<br>页面称 2026 年将开放两个博士岗位，须先被 EDPO、EDAM 或 EDPY 之一录取；博后页写明当前无空缺。页面未给出截止日。 |
+| [NCCR SPIN 岗位页（瑞士自旋量子网络）](https://www.nccr-spin.ch/open-positions)<br><sub>瑞士 ｜ 物理/天文·化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 未公布<br><sub>📋 持续更新</sub><br><sub>官网未列固定截止日，岗位以各 PI 发布为准</sub> | ❔ | 官网说明：希望以博士生或博后身份加入的请直接联系相关 PI；页面列有巴塞尔量子光电子组的博后岗位。 |
 
 <a id="pathways"></a>
 
@@ -162,7 +179,7 @@
 
 <a id="people-channels"></a>
 
-## 个人信源与社交渠道（12）
+## 个人信源与社交渠道（13）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -176,6 +193,7 @@
 | [EPFL 安全、隐私与密码学研究组主页](https://security-group.epfl.ch)<br><sub>瑞士 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 下属 SPRING、HexHive、LASEC 等实验室，需逐个确认空缺；申请路径通过 EDIC。 |
 | [EPFL 机器学习理论实验室（TML）招生页](https://www.epfl.ch/labs/tml/theory-of-machine-learning/open-positions/)<br><sub>瑞士 ｜ 人工智能·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>📋 持续更新</sub> | ❔ | **要求：** 博士申请需通过 EPFL EDIC 博士项目统一申请；学历与语言要求以 EDIC 页面为准<br>页面指引博士申请人通过 EPFL EDIC 博士项目统一申请；未见本轮具体博士岗位，薪资与要求以 EDIC 页面为准。 |
 | [EPFL 计算神经科学与 AI 实验室（CNAI）岗位](https://cnai.epfl.ch/positions)<br><sub>瑞士 ｜ 人工智能·神经/认知·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ✅ | 页面称定期通过 EPFL 博士项目招收博士生，方向包括计算机视觉、强化学习、计算神经科学；博后页列出的奖学金包括 SNSF Swiss Postdoctoral Fellowship 与 EPFL AI Center Postdoctoral Fellowship。 |
+| [ETH 计算机系 ODI 实验室招聘页（博士岗位）](https://odi.inf.ethz.ch/openings/)<br><sub>瑞士 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | ODI 实验室的博士与学生岗位列表。博士岗为带薪雇员，多数需通过 ETH 招聘门户申请。 |
 | [苏黎世大学 DAST 组职位页](https://www.ifi.uzh.ch/en/dast/jobs.html)<br><sub>瑞士 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 滚动<br><sub>📋 持续更新</sub><br><sub>页面称 DaST 组持续招募优秀候选人，未给出固定截止日期；需向 Dan Olteanu 教授发邮件联系。</sub> | ✅ | **要求：** 申请需发送简历与求职信（说明研究兴趣），后续可能要求至少三位推荐人与成绩单；入学时间灵活；官网摘要未说明国际生资格<br>苏黎世大学信息学系 DaST 组招博士生与博士后，方向为数据管理的理论与系统，页面称博士生年薪约 7.5 万瑞士法郎（另加 15% 社保），博士后超过 10 万瑞士法郎。页面明确不接受应用 ML/AI 方向的申请，且未说明国际生资格。 |
 | [苏黎世大学 SPiNS 组 Prospective PhDs and PostDocs](https://www.ifi.uzh.ch/en/spins/Prospective-PhDs-and-PostDocs.html)<br><sub>瑞士 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 仅生活费 | 滚动<br><sub>📋 持续更新</sub> | ✅ | SPiNS 组当前招收 2 名博士生和 1 名博士后，理想入学时间为 2027 年 1 月，页面称提供有竞争力的津贴与养老金，首年博士生可申请补贴住房。页面明确说明不适合应用 ML、LLM 等方向的申请者。 |
 
@@ -191,7 +209,7 @@
 | [Print4Life 博士网络（生物医学增材制造）](https://www.uu.se/en/department/materials-science-and-engineering/research/divisions/biomedical-engineering/biomaterial-systems/print4life)<br><sub>瑞典·西班牙·爱尔兰·葡萄牙·德国·瑞士 ｜ 工程·医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2025 轮岗位（如 Hereon DC12，2025-11-26 截止）已过；当前空缺需查 Uppsala 招聘页</sub> | ❔ | MSCA 博士网络 Print4Life（2025-10 至 2029-09），由 Uppsala 大学协调，多家机构招博士生，岗位为受雇身份。已知 2025 轮岗位已截止，请关注该页及各机构后续岗位。 |
 | [Suong Nguyen 课题组 · EPFL · 合成高分子化学 招生](https://www.epfl.ch/labs/lcps/open-positions)<br><sub>瑞士 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面未列截止日期，也未写明博士名额是否有经费。</sub> | ❔ | EPFL Nguyen 课题组招生页称目前没有有经费的博士或博后岗位，建议将 CV 与求职信发邮件给 Nguyen 教授咨询。页面未列截止日期。 |
 | [Sylvain Calinon 团队 · Idiap · 机器人学习博士招生页](https://www.idiap.ch/~scalinon/open-positions.htm)<br><sub>瑞士 ｜ 人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-04-15**<br><sub>⏸ 本轮已截止</sub><br><sub>上一轮岗位截止 2026 年 4 月 15 日；岗位为 4 年合同，页面称滚动发布，入学需同时申请 EPFL 博士项目</sub> | ✅ | **要求：** 需工程、计算机、物理或应用数学硕士，具备信号处理、控制、优化或机器学习背景；须先被 EPFL 博士学院录取；国际生资格未在页面确认<br>Idiap 研究所机器人学习团队博士岗位页，岗位为 4 年带薪合同，入学需通过 EPFL 博士项目录取。最近一轮岗位截止 2026 年 4 月 15 日已过，后续岗位以页面最新公告为准；页面未明确国际生资格，需确认。 |
-| [卢塞恩大学博士岗位（ERC Starting Grant REPAIR 项目，AI 与福利国家）](https://www.unilu.ch/en/university/personnel/human-resources-department/vacancies/phd-candidate-doctoral-researcher-100-2216512)<br><sub>瑞士 ｜ 社会科学/心理</sub> | 博士 | 带薪岗位 | **2026-11-15**<br><sub>🟢 开放申请</sub><br><sub>本轮 2026-11-15 截止，以 PDF 单文件提交。</sub> | ❔ | **要求：** 页面摘要未列明国籍与学历细则，需以完整岗位公告为准。<br>卢塞恩大学 100% 全职博士岗，挂在 ERC Starting Grant 项目 REPAIR 下（研究 AI 对福利国家政治的影响），固定期限 4 年，以论文集形式完成。薪资金额未核实，请看岗位原文。 |
+| [卢塞恩大学博士岗位（ERC Starting Grant REPAIR 项目，AI 与福利国家）](https://www.unilu.ch/en/university/personnel/human-resources-department/vacancies/phd-candidate-doctoral-researcher-100-2216512)<br><sub>瑞士 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-11-15**<br><sub>🟢 开放申请</sub><br><sub>本轮 2026-11-15 截止，以 PDF 单文件提交。</sub> | ❔ | **要求：** 页面摘要未列明国籍与学历细则，需以完整岗位公告为准。<br>卢塞恩大学 100% 全职博士岗，挂在 ERC Starting Grant 项目 REPAIR 下（研究 AI 对福利国家政治的影响），固定期限 4 年，以论文集形式完成。薪资金额未核实，请看岗位原文。 |
 
 <a id="tools"></a>
 

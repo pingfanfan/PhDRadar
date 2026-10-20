@@ -2,13 +2,22 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 选校与申请辅助工具（5）
+# 选校与申请辅助工具（6）
 
 找导师、查待遇、看录取数据的工具。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [瑞士（CH） 1](tools.md#r-ch) · [德国（DE） 1](tools.md#r-de) · [日本（JP） 1](tools.md#r-jp) · [瑞典（SE） 1](tools.md#r-se) · [美国（US） 1](tools.md#r-us)
+**按地区跳转：** [美国（US） 2](tools.md#r-us) · [瑞士（CH） 1](tools.md#r-ch) · [德国（DE） 1](tools.md#r-de) · [日本（JP） 1](tools.md#r-jp) · [瑞典（SE） 1](tools.md#r-se)
+
+<a id="r-us"></a>
+
+## 美国（US）（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [CRA Taulbee 研究生资助数据](https://datavisualization.cra.org/TaulbeeReports/2025/graduate_support.html)<br><sub>美国·加拿大 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ✅ | 北美 CS 博士 TA/RA/Fellowship 津贴中位数官方统计，用于判断 offer 资助水平。 |
+| [芝加哥大学统计系招聘数据库索引](https://stat.uchicago.edu/academics/current-students/graduation-and-beyond/job-databases/)<br><sub>美国·全球 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 芝加哥大学统计系的职位库索引页，列出 Florida、Purdue、AMS MathJobs、IMS 等统计/数学职位库，需按库逐一检索。 |
 
 <a id="r-ch"></a>
 
@@ -41,12 +50,4 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [KTH 建筑学博士申请与资助规则](https://www.arch.kth.se/forskning/doctoral-studies/applying-for-doctoral-studies-1.1077003)<br><sub>瑞典 ｜ 工程·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>截止日因空缺岗位而异，以 KTH 职位公告为准</sub> | ❔ | **要求：** 需建筑学硕士或同等学历（相关学科）；英语达 English B/6；须保证至少 4 年资助（机构资助、外部资助或雇主资助）；页面称瑞典公立机构自 2018 年 6 月起通常不招收奖学金生。<br>KTH 建筑学博士岗位按空缺公告投递，截止日因岗位而异；要求全部学习期间资助至少 4 年，不接受个人自费。 |
-
-<a id="r-us"></a>
-
-## 美国（US）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [CRA Taulbee 研究生资助数据](https://datavisualization.cra.org/TaulbeeReports/2025/graduate_support.html)<br><sub>美国·加拿大 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ✅ | 北美 CS 博士 TA/RA/Fellowship 津贴中位数官方统计，用于判断 offer 资助水平。 |
 

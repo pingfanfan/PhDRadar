@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 芬兰（FI） 信源（28）
+# 芬兰（FI） 信源（33）
 
-所有标注了地区 FI 的信源，共 28 条。
+所有标注了地区 FI 的信源，共 33 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 2](fi.md#aggregators) · [各国学术招聘门户与机构职位页 1](fi.md#national-portals) · [高校旗舰奖学金与资助检索 4](fi.md#university-schemes) · [结构化博士项目与研究机构 14](fi.md#doctoral-programs) · [博士后奖学金与项目 5](fi.md#postdoc-fellowships) · [个人信源与社交渠道 1](fi.md#people-channels) · [导师招生帖（社交平台个人发布） 1](fi.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 2](fi.md#aggregators) · [各国学术招聘门户与机构职位页 1](fi.md#national-portals) · [高校旗舰奖学金与资助检索 7](fi.md#university-schemes) · [结构化博士项目与研究机构 15](fi.md#doctoral-programs) · [博士后奖学金与项目 5](fi.md#postdoc-fellowships) · [科研实习与“曲线入口” 1](fi.md#pathways) · [个人信源与社交渠道 1](fi.md#people-channels) · [导师招生帖（社交平台个人发布） 1](fi.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
@@ -29,18 +29,21 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（4）
+## 高校旗舰奖学金与资助检索（7）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [CHARM-EU 联盟 · Opportunities and calls 机会与征集页](https://charm-eu.eu/news-events/opportunities-and-calls/)<br><sub>欧盟/欧洲·挪威·芬兰·匈牙利·德国·法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>2026 年夏校（6 月 8–12 日，芬兰 Turku）及多数博士征集已截止；2027 周期待联盟发布</sub> | ❔ | CHARM-EU 联盟统一发布博士夏/冬校、博士流动与 MSCA 征集等信息。2026 年多数博士类征集已截止，适合订阅联盟通讯以跟进 2027 年周期；博士岗位需回到各成员校招聘页核实。 |
+| [东芬兰大学（UEF）职位页（博士研究员岗）](https://www.uef.fi/en/open-positions)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>检索到的 2026 年博士研究员岗位截止分别为 6 月 30 日、8 月 10 日、8 月 28 日，均已过；2027 年岗位以 UEF 职位页为准</sub> | ❔ | **要求：** 以各岗位公告为准；申请材料为英文；部分岗位要求研究计划（不超过 4 页）<br>芬兰东部大学（UEF）博士研究员岗位，为带薪雇员身份。检索到的 2026 年岗位截止均已关闭，岗位多在春季发布，2027 年岗位以 UEF 职位页为准。国际生资格以各岗位公告为准。 |
 | [于韦斯屈莱大学职位页（博士研究员岗）](https://www.jyu.fi/en/about-us/work-with-us/current-vacancies-at-the-university-of-jyvaskyla)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面列出的博士研究员岗截止日分别为 2026-10-31（Business and Economics，5–8 人）、2026-11-01（LIDE 项目）、2026-11-06（Exercise Physiology，2 人）、2026-11-15（Evolutionary Biology）。</sub> | ❔ | **要求：** 需硕士学位；需另行申请博士 study right<br>页面列有多个博士研究员岗（含 LIDE 项目岗），截止日在 2026 年 10 月底至 11 月中旬，以各岗位页为准。 |
+| [坦佩雷大学 博士阶段资助说明](https://opiskelijanopas.tuni.fi/en/tampere-university/doctoral-studies/funding-doctoral-studies)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | — | ❔ | 说明坦佩雷大学博士阶段的资助途径，包括有薪岗位、奖学金、基金会与项目资助。学生指南称博士阶段不收学费。非欧盟学生可否申请各途径以官网为准。 |
+| [奥卢大学职位页（博士研究员岗）](https://www.oulu.fi/en/open-positions)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止日不同</sub> | ❔ | **要求：** 需硕士学位；博士学习还需另行申请 study right<br>奥卢大学岗位页；各岗位截止日不同，以 Varbi 招聘系统为准，近期多岗位批次截止 2026-08-31 已过。 |
 | [赫尔辛基大学校资助博士研究员岗位说明页](https://studies.helsinki.fi/instructions/article/university-funded-doctoral-researcher-positions)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请期 8 月 24 日至 9 月 7 日已结束；每年一轮，12 月公布结果；2027 轮待公告</sub> | 🟡 | **要求：** 需先与拟任导师沟通并共同准备申请；本轮仅为受雇岗位，还需另申请校内博士学籍<br>说明申请条件与流程（每年一次、通常 8–9 月开放，最长四年）；需学籍申请并与导师签协议。 |
 | [阿尔托大学博士研究员岗位页（博士教育试点）](https://www.aalto.fi/en/doctoralpilot/open-positions)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>🔜 即将开放</sub><br><sub>岗位按旗舰项目和领域分批发布，截止日见各岗位</sub> | ❔ | **要求：** 博士研究员岗位（雇佣合同）与博士课程录取需分别申请<br>页面写明目前试点中暂无开放岗位，岗位发布后会陆续加到本页。 |
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（14）
+## 结构化博士项目与研究机构（15）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -51,6 +54,7 @@
 | [Tampere University 国际流行病学与公共卫生博士项目（IPPE）](https://www.tuni.fi/en/study-with-us/international-doctoral-programme-epidemiology-and-public-health-ippe)<br><sub>芬兰 ｜ 医学/公卫·社会科学/心理</sub> | 博士 | 不提供资助 | **2026-12-02**<br><sub>🔜 即将开放</sub><br><sub>2027 入学申请 11 月 2 日至 12 月 2 日；2027 年 8 月入学。免学费，但不提供个人或项目资助，需自备生活费。</sub> | ❔ | 面向国际申请者，第一年在坦佩雷修课。官网称项目不提供资助，学生需自行承担在芬兰约 10 个月的生活费。2027–2028 申请窗口 11 月 2 日至 12 月 2 日，2027 年 8 月入学。 |
 | [于韦斯屈莱大学博士项目申请（含体育与健康科学）](https://www.jyu.fi/en/news/get-ready-to-apply-to-doctoral-programmes-at-jyu-in-autumn-2026)<br><sub>芬兰 ｜ 医学/公卫·生物/生命科学·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 秋季窗口 9 月 1–30 日已关闭；2027 春季入学轮预计 2027 年 4 月开放，截止以 Studyinfo 为准</sub> | ❔ | **要求：** 需硕士学位（或同等学历），提交研究计划与博士学习计划，并事先联系 JYU 潜在导师；项目英文授课<br>于韦斯屈莱大学 2026 年起共六个博士项目（含体育与健康科学）。秋季窗口已结束，春季轮预计 2027 年 4 月开放，需事先与校内导师联系。 |
 | [图尔库大学 DPT 技术博士项目招生](https://www.utu.fi/sites/default/files/media/DPT/DPT%20Application%20call_September%202026_.pdf)<br><sub>芬兰 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 9 月轮申请窗口（8 月 25 日至 9 月 8 日）已关闭；下一轮以官网为准</sub> | ✅ | **要求：** 需已获得或即将获得可授予博士资格的学位（若无学习权，需在 Studyinfo 申请）；岗位在芬兰图尔库，需在芬兰工作，最长 4 年。<br>带薪博士研究员岗，雇佣期最长 4 年且不晚于 2030 年 12 月 31 日；页面称月薪大致 2,400 至 3,300 欧元。 |
+| [坦佩雷大学 公开招聘页（博士研究员）](https://www.tuni.fi/en/tau/work-with-us/open-positions)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>约 €2,600–3,000/月（税前，据大学招聘页起薪区间）</sub> | 各项目不同 | ❔ | 坦佩雷大学官方岗位页，博士研究员起薪约 €2,600–3,000/月（税前）。多数岗位要求签约前已被博士项目录取；非欧盟申请者资格与工作许可按各岗位公告确认。 |
 | [奥博学院（Åbo Akademi）博士研究员资助说明](https://www.abo.fi/en/research-at-aau/postgraduate-and-doctoral-studies/funding-for-doctoral-researchers/)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面称学校定期发布博士研究员资助岗位，未列具体截止日期；以各岗位公告为准。</sub> | ❔ | **要求：** 岗位多为带薪博士研究员，需硕士学位；以各岗位公告为准<br>页面说明 ÅAU 定期发布博士研究员资助岗位，并列出仅面向非 EU/EEA 公民的 Finland Fellowship，需在申请信中明确注明。页面称博士学习权不附带资助，研究员需自行解决资金。 |
 | [尤韦斯屈莱大学（JYU）博士项目招生（秋季/春季两轮）](https://www.jyu.fi/fi/tohtorikoulutus/hae-tohtorikoulutukseen)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026 秋季轮申请期 9 月 1–30 日已截止；下一轮预计 2027 年 4 月 1 日起申请，以官网为准</sub> | ❔ | **要求：** 需相关硕士学位（或海外相当学历），提交研究计划与博士学习计划，并须先联系 JYU 潜在导师；受薪博士岗位另有各自公告<br>芬兰尤韦斯屈莱大学博士项目入学（研究权）申请，每年秋季与春季两轮。2026 秋季轮已截止；下一轮预计 2027 年 4 月开始。入学与受薪博士岗位是两条路径，需单独确认；未见针对国际生的官方资格声明。 |
 | [赫尔辛基大学 ELOISA 生态、进化与环境可持续博士项目](https://www.helsinki.fi/en/admissions-and-education/apply-doctoral-programmes/doctoral-programmes/doctoral-programme-ecology-evolution-and-environmental-sustainability-society)<br><sub>芬兰 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | **2026-11-16**<br><sub>🔜 即将开放</sub><br><sub>申请窗口 2026 年 11 月 3–16 日（ELOISA 招生页）；后续窗口 2027 年 1 月 12–25 日、4 月 2–15 日。以学校页面为准。</sub> | ❔ | **要求：** 需第二周期（硕士）学位或相当学历，且学位须与研究主题相关；须证明芬兰语、瑞典语或英语能力；评审看研究计划的主题契合度、四年内完成的可行性与研究经历。<br>岗位多为大学资助的带薪博士研究员；同校岗位页称税前约 €2,600/月，仅供参考。 |
@@ -70,6 +74,14 @@
 | [芬兰研究理事会 Academy Research Fellowship 2026](https://www.aka.fi/en/research-funding/apply-for-funding/calls-for-applications/apply-now2/2026-academy-research-fellowships-all-research-fields/)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面所示 2026 冬季轮于 2025-11-12 16:15（芬兰时间）截止，已结束；页面未给出下一轮（秋季轮）的时间。</sub> | ❔ | **要求：** 通常要求首个博士学位证书日期在申请截止所在年份起算的 2–7 年内；2026 冬季轮例外：首个博士学位证书日期须在 2019-01-01 至 2024-01-31 之间。<br>芬兰研究理事会早期研究员资助，资助期 2026-09-01 至 2030-08-31 共 4 年，可覆盖本人工资、可能的研究团队工资及其他研究费用，最高 70 万欧元。页面称外国研究者（已在或将在芬兰科研界工作者）也可申请。 |
 | [芬兰科学院 Academy Research Fellow](https://www.aka.fi/en/about-the-rcf/whats-new/press-releases/2026/advance-information-on-rcf-call-schedules-for-autumn-2026/)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2026-11-11**<br><sub>🔜 即将开放</sub><br><sub>2026 秋季轮 10 月 14 日开放、11 月 11 日截止（页面标 TBC），以正式公告为准</sub> | ❔ | **要求：** 需博士学位；学位获得日期等资格以当轮公告为准（上一轮要求 2019 年 1 月 1 日至 2024 年 1 月 31 日间获博士）<br>芬兰科学院 2026 秋季征集日程预告：相关征集 call 文本计划 9 月 24 日发布，征集 10 月 14 日开放、11 月 11 日截止（均标 TBC）。资助金额与资格以正式 call 文本为准。 |
 | [赫尔辛基高等研究院艺术博士后](https://netias.science/calls-for-applications/helsinki-collegium-advanced-studies/postdoctoral-fellowship-arts)<br><sub>芬兰 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-09-14**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 年 8 月入职轮截止 2026 年 9 月 14 日（已过）；下一轮以官网为准</sub> | ❔ | **要求：** 须获博士学位（艺术方向，或其他领域博士且有艺术实践经历）；需驻校 80% 工作量<br>赫尔辛基高等研究院艺术方向博后，Kone 基金会资助，受薪。2027 年 8 月入职轮 9 月 14 日已截止；需驻校 80% 工作量。 |
+
+<a id="pathways"></a>
+
+## 科研实习与“曲线入口”（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Study in Finland 博士申请入口](https://www.studyinfinland.fi/doctoral-admissions)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 芬兰政府留学网站的博士申请入口，说明博士学习由大学开设、通常约 4 年，芬兰大学博士学费对所有国籍学生免费。生活费需自备，除非有岗位、奖学金或资助；具体资助以各大学博士项目页为准。 |
 
 <a id="people-channels"></a>
 

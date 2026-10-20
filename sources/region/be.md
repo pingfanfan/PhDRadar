@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 比利时（BE） 信源（38）
+# 比利时（BE） 信源（45）
 
-所有标注了地区 BE 的信源，共 38 条。
+所有标注了地区 BE 的信源，共 45 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 1](be.md#aggregators) · [各国学术招聘门户与机构职位页 3](be.md#national-portals) · [政府与国家级奖学金 1](be.md#gov-scholarships) · [高校旗舰奖学金与资助检索 13](be.md#university-schemes) · [结构化博士项目与研究机构 4](be.md#doctoral-programs) · [博士后奖学金与项目 5](be.md#postdoc-fellowships) · [企业与基金会 Fellowship 6](be.md#fellowships) · [学科专属信源 1](be.md#discipline) · [科研实习与“曲线入口” 1](be.md#pathways) · [个人信源与社交渠道 3](be.md#people-channels)
+**按分类跳转：** [综合聚合平台 1](be.md#aggregators) · [各国学术招聘门户与机构职位页 3](be.md#national-portals) · [政府与国家级奖学金 1](be.md#gov-scholarships) · [高校旗舰奖学金与资助检索 15](be.md#university-schemes) · [结构化博士项目与研究机构 7](be.md#doctoral-programs) · [博士后奖学金与项目 5](be.md#postdoc-fellowships) · [企业与基金会 Fellowship 6](be.md#fellowships) · [学科专属信源 1](be.md#discipline) · [科研实习与“曲线入口” 2](be.md#pathways) · [个人信源与社交渠道 3](be.md#people-channels) · [导师招生帖（社交平台个人发布） 1](be.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
@@ -38,11 +38,13 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（13）
+## 高校旗舰奖学金与资助检索（15）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [imec 博士项目（与鲁汶、根特等高校联合）](https://imec-int.com/en/work-at-imec/job-opportunities/phd-at-imec)<br><sub>比利时 ｜ 工程·计算机·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>🔜 即将开放</sub><br><sub>页面称下一申请窗口将于 2026 年秋季开放，具体日期待公布。</sub> | ✅ | **要求：** 一次最多申请 3 个项目，按官网参考编号选题；博士学位由合作高校授予<br>imec 与比利时高校（如 KU Leuven、UGent）合作招收博士生，博士学位由合作高校授予；页面称财务支持与就业安排由 imec 处理。 |
+| [UCLouvain ELI 研究所开放岗位](https://uclouvain.be/en/research-institutes/eli/open-positions)<br><sub>比利时 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | ELI 研究所岗位列表，已有岗位截止 2026-09-14 过期，查看新发布条目。资格以各岗位要求为准。 |
+| [UCLouvain IRIS · 博士经费说明（Financer son doctorat）](https://www.uclouvain.be/fr/instituts-recherche/iris/financer-son-doctorat)<br><sub>比利时 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各项目/批次截止不同，以官网为准。</sub> | ❔ | **要求：** 以各资助项目规定为准。<br>IRIS 页面列出博士经费渠道：助教（assistant，最长 3×2 年、约一半时间教学）、FRS-FNRS 博士研究员（aspirant，2×24 个月，2 月提交）、FRESH（8 月底提交）及 FSR 项目等；国际生资格需逐项核对。 |
 | [UHasselt（哈塞尔特大学）官方职位页](https://www.uhasselt.be/vacancies)<br><sub>比利时 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面列出 3 个在招职位，申请截止分别为 2026-10-22、2026-11-09、2026-11-10；页面未标明为博士岗位。</sub> | ✅ | **要求：** 需硕士或同等学历；语言与学历要求以各职位为准<br>UHasselt 官方职位列表，页面所见 3 个职位：研究员（40%）、博士后研究员（100%）、副教授/教授（100%）；具体条件以各职位页为准。 |
 | [ULB 博士资助指南（financer sa thèse）](https://www.ulb.be/fr/doctorat/financer-sa-these-de-doctorat)<br><sub>比利时 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | ULB 官方博士经费说明页（法语，2025-12-12 更新），列出校内与外部资助征集、F.R.S.-FNRS 的 FRIA/FRESH 等博士资助，以及导师研究项目下的博士岗位；页面称这些资助竞争激烈。 |
 | [ULB（布鲁塞尔自由大学）学术职位页](https://www.ulb.be/fr/travailler-et-collaborer/vacances-d-emplois-academiques-et-scientifiques)<br><sub>比利时 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>列表持续更新，各岗位截止不同；搜索到的岗位多已过期</sub> | ❔ | **要求：** 助理岗位需欧盟第二周期学位或经认可的同等学历，并满足博士入学条件；全职教授岗需比利时博士学位，外国学位请联系 spes@ulb.be<br>ULB 学术与科研职位列表（页面以法语为主），博士岗位多为助理（assistant）类，可能兼职教学。外国学位需经认可，请向人事部门确认。 |
@@ -58,13 +60,16 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（4）
+## 结构化博士项目与研究机构（7）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [ULB 神经科学研究所（UNI）国际博士项目](https://crcn.ulb.ac.be/?p=1693)<br><sub>比利时 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-03-01**<br><sub>⏸ 本轮已截止</sub><br><sub>往年 2 月下旬至 3 月初截止；2026 轮已截止；2027 轮待官网确认。</sub> | ❔ | **要求：** 需硕士或同等学历；英语授课；搜索结果称仅限非比利时居民，以当年公告为准。<br>布鲁塞尔自由大学神经科学研究所国际博士计划，入选者获博士奖学金；每年一轮。 |
 | [VIB-KU Leuven 神经科学中心（CNL）国际博士招生 2026-2027](https://jobs.vib.be/j/137653/2026-2027-international-phd-call-vib-cnl)<br><sub>比利时 ｜ 神经/认知·生物/生命科学·医学/公卫</sub> | 博士 | 力度未注明 | **2026-10-30**<br><sub>🟢 开放申请</sub><br><sub>本轮申请截止 2026 年 10 月 30 日；共 4 个岗位，2027 年 5–9 月入学</sub> | ❔ | **要求：** 需硕士学位（或在读硕士），要求成绩 cum laude<br>VIB 与 KU Leuven 联合的神经科学国际博士招生。薪资与国际生资格需在招聘页确认。 |
+| [哈塞尔特大学（UHasselt）未来博士生指南](https://www.uhasselt.be/en/research/phd/future-phd-students)<br><sub>比利时 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 未公布<br><sub>📋 持续更新</sub><br><sub>BOF 博士奖学金 2026 轮截止 2026 年 3 月 2 日（已过）；2027 轮未见公告</sub> | 🟡 | **要求：** 需相关硕士学位；须先获 UHasselt 学院录取；须在比利时居住<br>博士项目资助多来自研究组课题经费，也可通过 BOF 博士奖学金申请。BOF 2026 轮不限国籍，但须先获学院录取并在比利时居住，2027 轮以当年公告为准。 |
 | [安特卫普大学 ARIA 艺术博士资助岗位](https://www.uantwerpen.be/en/research-groups/aria/phd/how-to-apply-phd/)<br><sub>比利时 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-11-03**<br><sub>🟢 开放申请</sub><br><sub>皇家艺术学院第一步 2026-11-03 中午截止，皇家音乐学院 2026-11-10；受邀者 2027-03-01 中午前提交完整方案</sub> | ❔ | **要求：** 需艺术或设计背景及相关硕士学位，研究源自个人艺术实践；需两位导师（艺术学院与安特卫普大学各一）；外籍候选人须持比利时工作许可；每轮只能投一所艺术学院；申请语言为荷兰语或英语<br>4 年带薪（约 55% 合同研究职位），需承担教学或研究；2027 入学首轮截止 2026-11-03（皇家艺术学院第一步），其余见官网。 |
 | [安特卫普热带医学研究所（ITM）个人博士项目](https://www.itg.be/en/study/courses/phd-individual-sandwich-programme)<br><sub>比利时 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明<br><sub>比利时停留期间每月 €1,750（最多 24 个月）；本国停留期间按本国博士薪资或奖学金发放，上限 €1,500/月。</sub> | **2026-09-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 9 月 15 日（23:59 CET）已截止；下一轮预计 2027 年 9 月</sub> | ❔ | **要求：** 需 ITM 录取（在线申请）并获得本国高校及 ITM 导师共同支持；DGD 资助限低收入/中低收入国家国籍、45 岁以下，且近期未在高收入国家工作（第三方摘要，需对照 2026 原文）<br>页面为 2026 轮（截止 9 月 15 日），将授予最多 4–6 个博士资助，属 DGD 资助的能力建设计划。页面未载明国籍限制，中国申请人资格仍标 check。 |
+| [布鲁塞尔自由大学（ULB）几何组博士资助说明](https://geometry.ulb.ac.be/phd-funding/)<br><sub>比利时 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | **要求：** 非比利时/卢森堡/荷兰/爱沙尼亚/拉脱维亚/立陶宛 120 学分硕士者，可能需 ULB 博士入学资格证明（doctoral access certificate）才能申请 FNRS/FRIA；学历资格以 FNRS 官方条件为准。<br>几何组博士可申请的资助（如 FNRS 下属 FRIA）；据实验室页面，FRIA 通常 7 月开放、8 月下旬截止，需以 FNRS 当年日程为准。几何方向是否属于 FRIA 范围需向 ULB 科学学院核实；竞争激烈，建议入学前一年与导师联系。 |
 | [鲁汶大学生物医学博士学院：如何开始博士学习](https://gbiomed.kuleuven.be/english/phd/Future_PhD_researchers/starting-a-phd/startingphd.html)<br><sub>比利时 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | — | ❔ | 入学指南,说明导师选择、奖学金与带薪职位的区别。先阅读此页再联系导师。 |
 
 <a id="postdoc-fellowships"></a>
@@ -102,11 +107,12 @@
 
 <a id="pathways"></a>
 
-## 科研实习与“曲线入口”（1）
+## 科研实习与“曲线入口”（2）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [KU Leuven 博士岗位说明（Jobsite PhD 信息页）](https://www.kuleuven.be/personeel/jobsite/phd/phd-informatie)<br><sub>比利时 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 说明 KU Leuven 博士两条路：申请带博士目标的雇员岗位，或由导师提交 FWO 等资助申请。页面为荷兰语。 |
+| [ULB · 法语区比利时科研职业机会指南（PDF）](https://www.ulb.be/medias/fichier/research-career-opportunities-in-french-speaking-belgium_1741880839221-pdf)<br><sub>比利时 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 滚动<br><sub>📋 持续更新</sub><br><sub>无统一截止日，持续更新。</sub> | ❔ | **要求：** 以各校及各资助规定为准。<br>ULB 发布的法语区比利时（ULB、UCLouvain、ULiège、UNamur、UMONS 等）科研职业路径指南（2025 年 3 月文件），可用来理解博士与博后合同形式和资助渠道。 |
 
 <a id="people-channels"></a>
 
@@ -117,4 +123,12 @@
 | [ORBEL 比利时运筹学会岗位公告](https://www.orbel.be/news-letter.php?category=2)<br><sub>比利时 ｜ 数学/统计·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ❔ | 常转发 KU Leuven、UGent 等校的运筹学博士岗位（多为 4 年合同）。 |
 | [安特卫普大学 EMAT 电子显微镜组开放职位](https://www.uantwerpen.be/en/research-groups/emat/about-us/open-positions/)<br><sub>比利时 ｜ 物理/天文·化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>📋 持续更新</sub> | ✅ | **要求：** 职位页列有 PhD 与博士后岗位，透射电镜经验为加分项；具体学位要求以各职位页为准<br>页面称 EMAT 持续招聘 PhD 与博士后人员，可直接联系各研究项目负责人；技术岗位也定期开放。 |
 | [安特卫普大学进化与生态组（EvECo）招聘页](https://www.uantwerpen.be/en/research-groups/eveco/organisation/job-opportunities)<br><sub>比利时 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | **2027-03-01**<br><sub>📋 持续更新</sub><br><sub>FWO 博士奖学金年度截止 3 月 1 日，2026 轮已过，下一轮为 2027 年 3 月 1 日；FWO 博后截止 12 月 1 日（据 EvECo 官网）</sub> | ❔ | **要求：** EvECo 页面称 FWO 博士奖学金面向欧盟及欧洲经济区学生，中国学生资格未核实，需向校方和 FWO 确认。<br>博士岗位绑定具体项目，大学仅通过项目公告招博士。EvECo 页面称 FWO 博士奖学金年度截止 3 月 1 日；其他 UAntwerp 页写 2 月 1 日，口径不一，以 FWO 官网为准。 |
+
+<a id="recruiting-posts"></a>
+
+## 导师招生帖（社交平台个人发布）（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [根特大学 IDLab 研究组招聘页（含博士岗位）](https://knows.idlab.ugent.be/vacancies/)<br><sub>比利时 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>岗位按项目陆续发布，截止以各岗位页为准；检索未找到 2026 年 IDLab 知识图谱岗位。</sub> | ❔ | **要求：** 需先联系导师；具体学历与语言要求以岗位页为准。<br>IDLab 知识图谱与语义方向招聘页，含基于 LLM 的图检索博士岗位。比利时博士多为雇员合同，先联系导师。 |
 

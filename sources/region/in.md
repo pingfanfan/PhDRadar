@@ -2,13 +2,21 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 印度（IN） 信源（20）
+# 印度（IN） 信源（23）
 
-所有标注了地区 IN 的信源，共 20 条。
+所有标注了地区 IN 的信源，共 23 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [政府与国家级奖学金 1](in.md#gov-scholarships) · [高校旗舰奖学金与资助检索 4](in.md#university-schemes) · [结构化博士项目与研究机构 7](in.md#doctoral-programs) · [博士后奖学金与项目 4](in.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](in.md#fellowships) · [个人信源与社交渠道 3](in.md#people-channels)
+**按分类跳转：** [各国学术招聘门户与机构职位页 1](in.md#national-portals) · [政府与国家级奖学金 1](in.md#gov-scholarships) · [高校旗舰奖学金与资助检索 4](in.md#university-schemes) · [结构化博士项目与研究机构 8](in.md#doctoral-programs) · [博士后奖学金与项目 5](in.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](in.md#fellowships) · [个人信源与社交渠道 3](in.md#people-channels)
+
+<a id="national-portals"></a>
+
+## 各国学术招聘门户与机构职位页（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Study in India 外国学生统一门户（含奖学金入口）](https://studyinindia.gov.in/scholarships&fellowships)<br><sub>印度 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 通过 Study in India 门户选择院校申请；奖学金依据 PRAGATI 考试成绩，未获奖学金者可申请院校学费减免；学位与语言要求以各院校为准。<br>印度教育部面向外国学生的统一入口，许多院校的国际博士申请通过此门户进行，可汇总查看奖学金。 |
 
 <a id="gov-scholarships"></a>
 
@@ -31,7 +39,7 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（7）
+## 结构化博士项目与研究机构（8）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -41,11 +49,12 @@
 | [IIT Kharagpur 滚动制博士招生](https://www.iitkgp.ac.in/rolling-phd-admission)<br><sub>印度 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 滚动<br><sub>🔄 随时可申</sub><br><sub>页面称博士申请全年接收，各单位至少每季度处理一次，未写固定截止日。</sub> | ❔ | 页面称全年接收博士申请，类别含学院助教资助、个人奖学金（CSIR/UGC/DBT/ICMR/INSPIRE 等）及项目资助。另有 DPEF 博士奖学金仅面向 GATE 2026 前 50 名考生（每月 80,000 卢比前两年、90,000 卢比后三年）。外籍生资助细节页面未写明。 |
 | [IIT Madras 博士招生简章（2026 年 7 月入学）](https://research.iitm.ac.in/documents/Admission_Brochure_JUL_2026_V5.pdf)<br><sub>印度 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>₹37,000/月（前两年）；₹42,000/月（后三年）</sub> | **2026-03-30**<br><sub>🔄 随时可申</sub><br><sub>2026 年 7 月入学轮在线申请截止 2026 年 3 月 30 日（已过）；简章称 2026–27 学年全年按院系接受申请，具体请看各院系网站。</sub> | ❔ | 官方简章（2026 年 2 月 2 日更新）。目录含 '7. International Scholars Admission' 章节；津贴与学费细节见第 3.1 节，节选中未见其正文，国际生是否同额未核实。 |
 | [IUCAA 博士项目（INAT/JEST 入学）](https://www.iucaa.in/en/education)<br><sub>印度 ｜ 物理/天文·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>🟢 开放申请</sub><br><sub>INAT 常见问题页写截止 2026-11-18，但招生海报显示 INAT-2026 截止为 2025-11-24，页面间矛盾；INAT-2027 截止以 inat.iucaa.in 为准。往年笔试在次年 1 月举行。</sub> | ❔ | **要求：** 物理、应用物理、数学、应用数学、电子学或天文学硕士（预计 7 月前完成），或工程类学士/硕士（成绩 55% 以上）；SC/ST/OBC-NCL/EWS/PwBD 可降至 50%<br>页面显示 IUCAA 正接受 INAT-2027 博士申请；INAT 为在线申请加笔试和面试，笔试通常在次年 1 月第三个周日于多城市举行。页面未给出 INAT-2027 截止日期与津贴金额。 |
+| [TIFR 研究生院博士招生](https://www.tcs.tifr.res.in/web/assets/files/admissions_2026/admission_poster_2026.pdf)<br><sub>印度 ｜ 物理/天文·数学/统计·计算机·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>Rs 37,000/月（注册博士后升至 Rs 42,000），提供宿舍或 HRA</sub> | **2026-10-25**<br><sub>⏸ 本轮已截止</sub><br><sub>GS-2027 报名截止 10 月 25 日（第三方汇总，需以 tifr.res.in 官网确认）；笔试 12 月 13 日</sub> | ❔ | **要求：** 理工科相关本科或硕士学历；可提交 NET/JRF/GATE 等成绩免笔试；海外申请者可在线参加考试并提交海外居住证明；国际生录取规定未找到。<br>TIFR 研究生院博士月津贴 Rs 37,000（注册博士后升至 Rs 42,000），并提供住宿；国际申请者需提供海外居住证明。GS 2027 轮截止日仅见第三方公告（约 2026 年 10 月 25 日），需以 tifr.res.in 官网为准。外国籍资格未找到专门规定，需核实。 |
 | [印度科学院 IISc 国际博士研究项目](https://oir.iisc.ac.in/?p=318)<br><sub>印度 ｜ 工程·物理/天文·化学/材料·生物/生命科学·数学/统计·计算机·人工智能·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | **2026-10-26**<br><sub>🟢 开放申请</sub><br><sub>页面新闻条目称 2026 年中期（Mid-Year）博士招生申请 2026-10-06 至 2026-10-26 开放（未注明是否限国际生）；2026–27 学年常规招生已关闭。</sub> | ❔ | **要求：** 须为外国籍且不持印度海外公民证（OCI）；持硕士或四年制本科学位；仅可申请理学/工程博士或 M.Tech (Research)，不可申请综合博士；最多选择 3 个系所；须在线申请，需成绩单与 3 封推荐信，无申请费。<br>页面称录取者将获得 IISc 提供的宿舍与奖学金，奖学金金额与印度学生相同，且通常足以支付学费、宿舍餐费及生活费（页面原文为 usually adequate）。申请前以 oir.iisc.ac.in 为准。 |
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（4）
+## 博士后奖学金与项目（5）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -53,6 +62,7 @@
 | [IIT Bombay 博士后研究员（IPDF）](https://www.iitb.ac.in/career/apply/postdoc)<br><sub>印度 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>INR 80,000/月（另加 HRA）</sub> | 滚动<br><sub>🔄 随时可申</sub> | ❔ | **要求：** 博士毕业不足 2 年或已提交论文待答辩；本校自有博士生不可申请；原则上须 32 岁以下（SC/ST/OBC-NCL/PwD 依政府规定放宽）；需直接联系拟合作院系负责人。<br>固定薪酬 8 万卢比/月加 HRA，科研经费 10 万卢比/年；一年，可延两年。外籍申请条款官方页未确认。 |
 | [IIT Delhi 博士后研究员（IPDF）](https://home.iitd.ac.in/jobs-iitd/uploads/IPDF_Advertisement_Feb_26_2026-Final.pdf)<br><sub>印度 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>Rs. 80,000/月加住房补贴（HRA）</sub> | — | ✅ | 2026 年 2 月公告明确非印度大学博士学位者可申请；上一轮已截止，关注下一轮。 |
 | [IIT Mandi iHub 与 HCI 基金会 · 博士后征集](https://www.ihubiitmandi.in/call-for-post-doctoral-fellowships)<br><sub>印度 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | —<br><sub>🔄 随时可申</sub> | ✅ | **要求：** 需 Ph.D.（HCi、计算机视觉、生成式 AI、感知工程或相关学科）；需通过 GATE/GPAT/NET 或同等考试；CGPA 不低于 7.0；年龄偏好 35 岁以下。<br>IIT Mandi iHub 与 HCi 基金会博后职位，计划招 4 人，首期一年、可视表现延长；月薪 INR 70,000–85,000。页面称申请将审核至岗位招满为止。 |
+| [TIFR 理论物理系博士后访问研究员（孟买）](https://theory.tifr.res.in/jobs.html)<br><sub>印度 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2026-01-20**<br><sub>⏸ 本轮已截止</sub><br><sub>系内每年两轮选拔（约 11 月至次年 1 月、4 月至 6 月）；2026-01-20 一轮已过</sub> | ❔ | **要求：** 有博士学位或已提交博士论文；需 CV、论文列表、研究兴趣陈述及推荐信<br>一年期，可续两次；下一轮预计在 2026 年 11 月前后开放。 |
 
 <a id="fellowships"></a>
 

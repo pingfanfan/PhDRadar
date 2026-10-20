@@ -2,20 +2,21 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 新加坡（SG） 信源（50）
+# 新加坡（SG） 信源（59）
 
-所有标注了地区 SG 的信源，共 50 条。
+所有标注了地区 SG 的信源，共 59 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 3](sg.md#aggregators) · [政府与国家级奖学金 3](sg.md#gov-scholarships) · [高校旗舰奖学金与资助检索 14](sg.md#university-schemes) · [结构化博士项目与研究机构 12](sg.md#doctoral-programs) · [博士后奖学金与项目 7](sg.md#postdoc-fellowships) · [企业与基金会 Fellowship 2](sg.md#fellowships) · [学科专属信源 2](sg.md#discipline) · [个人信源与社交渠道 2](sg.md#people-channels) · [导师招生帖（社交平台个人发布） 5](sg.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 4](sg.md#aggregators) · [政府与国家级奖学金 3](sg.md#gov-scholarships) · [高校旗舰奖学金与资助检索 14](sg.md#university-schemes) · [结构化博士项目与研究机构 14](sg.md#doctoral-programs) · [博士后奖学金与项目 10](sg.md#postdoc-fellowships) · [企业与基金会 Fellowship 3](sg.md#fellowships) · [学科专属信源 2](sg.md#discipline) · [个人信源与社交渠道 4](sg.md#people-channels) · [导师招生帖（社交平台个人发布） 5](sg.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
-## 综合聚合平台（3）
+## 综合聚合平台（4）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [Nature Careers · 亚洲物理学博士岗位列表](https://www.nature.com/naturecareers/jobs/physics/asia/full-time/phd/)<br><sub>中国香港·新加坡·日本·韩国·中国内地 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 滚动<br><sub>📋 持续更新</sub><br><sub>列表持续更新，截止日需逐岗位查看</sub> | ❔ | **要求：** 检索结果以教职和博后岗位为主，博士生岗位较少；中国大陆学生资格以各岗位要求为准<br>聚合页，汇总亚洲（含中国、港新日韩）全职物理岗位。检索结果中博士生岗位较少，多为教职与博后；是否全奖及中国大陆资格须逐条核对。 |
 | [Nature Careers 亚洲博后职位板](https://www.nature.com/naturecareers/jobs/postdoctoral/asia/phd/academia/direct-employer)<br><sub>日本·韩国·新加坡·中国香港 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | Nature Careers 亚洲直雇博后职位聚合页；检索时可见日本、新加坡、韩国少量职位，多数职位在中国大陆，以官网筛选结果为准。 |
 | [Nature Careers 亚洲计算机类博后职位筛选页](https://www.nature.com/naturecareers/jobs/computing/postdoctoral/asia/-70-000-99-999/fixed-term/)<br><sub>新加坡·中国香港·日本·韩国·中国内地 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | 按亚洲地区与薪资筛选，适合扫描港、新、日、韩的 AI 岗位。 |
 | [Nature Careers 新加坡博后职位板](https://www.nature.com/naturecareers/jobs/postdoctoral/singapore/phd/)<br><sub>新加坡 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | — | ❔ | 新加坡高校与研究院博后职位聚合，可按学科筛选；各岗位截止与国籍要求回原招聘页核实。 |
@@ -53,18 +54,20 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（12）
+## 结构化博士项目与研究机构（14）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [A*STAR Research Attachment Programme（ARAP）](https://www.a-star.edu.sg/scholarships/home/international-awards/astar-research-attachment-programme-arap)<br><sub>新加坡 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>S$3,600/月（另有一次性机票、安家津贴；不含学费）</sub> | 各项目不同<br><sub>A*STAR 研究人员每年 6 月 1 日或 12 月 1 日前提交提名；获批 6 个月后可开始研究。</sub> | ✅ | **要求：** 需为海外合作大学在读国际博士生，本科一等或二等（上）荣誉学位，需与 A*STAR 研究所有合作关系并获母校导师推荐；官网未列学费。<br>面向海外合作大学的博士生，由双方导师共同提名，在 A*STAR 研究所完成 1–2 年研究；页面列出月津贴、住房补贴、机票、安家、签证、医疗保险等，但不含学费。 |
 | [A*STAR 基因组研究所（GIS）学生页](https://www.a-star.edu.sg/gis/join-us/students)<br><sub>新加坡 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>官网学生页说明国际博士生通过 SINGA 申请、学籍在 NUS/NTU；具体截止以官网为准。</sub> | ✅ | **要求：** 通过 SINGA 申请，学籍在 NUS 或 NTU；学历、语言等要求以官网为准。<br>A*STAR 基因组研究所学生项目：通过 SINGA 申请，学籍在 NUS 或 NTU；合作高校名单与津贴各来源不一，以官网为准。 |
+| [NTU 与比萨大学联合博士课题（13 个全额资助名额）](https://www.biologia.unipi.it/en/news-phd/item/1642-doctorates-at-ntu-nanyang-technical-university-in-singapore-call-is-open.html)<br><sub>新加坡·意大利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>🔜 即将开放</sub><br><sub>2026 年 8 月入学轮截止已延至 2026-02-28（已过）；官方通知称 2027 年 1 月入学轮将稍后开放，具体截止日未见，需向 NTU 确认。</sub> | ❔ | **要求：** 申请须通过 NTU 研究生申请渠道；硕士学位须在入学前取得；需英语 B1 证明；学习期间赴比萨大学 9–18 个月；NTU 奖学金名额有限，建议先联系课题导师。<br>13 个由 NTU 与比萨大学教师共同指导的全额资助博士课题；建议申请前先联系项目导师。 |
 | [NTU 土木与环境工程 PhD（研究型）](https://www.ntu.edu.sg/education/graduate-programme/cee-PhD-programme-(by-research))<br><sub>新加坡 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 可通过 NTU 研究生院全额奖学金入口选择本学院；8 月入学轮截止约 2–3 月，以官网为准。 |
 | [NTU 计算与数据科学学院 PhD（计算机科学与工程）](https://www.ntu.edu.sg/spms/admissions/grad/detail/ccds-phd-cs-engineering)<br><sub>新加坡 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>S$2,000/月（国际生，通过资格考试后上调）</sub> | — | ✅ | NTU CCDS 博士：NTU Research Scholarship 随博士申请一并评审，名额有限；2026 入学轮次已过，2027 轮待公布。一等荣誉学位或同等学历，提交研究计划。 |
 | [NUS 分子与细胞生物所（MBI）全奖博士招生海报（2027 年 8 月入学）](https://www.mbi.nus.edu.sg/wp-content/uploads/2026/05/phd_poster_27.pdf)<br><sub>新加坡 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>海报仅写 DEADLINE 12 January，并注明 2027 年 8 月入学，推定为 2027 年 1 月 12 日；以 NUS 官方申请页面为准。</sub> | ✅ | **要求：** 海报写明面向 STEM 各学科背景（科学、技术、工程、数学）开放，无需机理学基础；学位与成绩要求海报未列明，请以官方申请页面为准。<br>MBI 官方海报：10 个全额 PhD 名额，2027 年 8 月入学，提供最长 4 年的全额资助（含津贴与福利）。海报未列明月津贴金额及国籍资格，请以 NUS 官方页面为准。 |
 | [NUS 化学系 2027 年 8 月入学博士录取说明（PDF）](https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2026/06/Early-Offer-PhD-Chemistry-for-2027-Aug-intake-v.-F.pdf)<br><sub>新加坡 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>最高 S$3,000/月（免税）；优秀学生可能被推荐参评总统研究生奖学金（PGF），津贴更高</sub> | **2026-11-15**<br><sub>🟢 开放申请</sub><br><sub>2027 年 8 月入学标准申请截止 2026 年 11 月 15 日（以化学系 PDF 为准）；早录取邮件截止 2026 年 8 月 1 日已过</sub> | ✅ | **要求：** 需通过 GradApp 提交网上申请；学历与英语要求以官方文件为准<br>2027 年 8 月入学化学博士说明。系方称博士项目提供全额奖学金，标准申请截止 2026 年 11 月 15 日；早录取窗口（8 月 1 日前发邮件）已关闭。 |
 | [NUS 计算机学院 PhD in Computer Science 项目页](https://www.comp.nus.edu.sg/pages-type/phd-in-computer-science/)<br><sub>新加坡 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ✅ | **要求：** 本科学位至少二等荣誉（上等）或同等；具体录取以 CS 项目要求为准<br>NUS 计算机学院 PhD in Computer Science 项目页，页面列出 Research Scholarships、Application Information、Admission Requirements 等栏目入口；正文为摘要，具体条件需进入各栏目查看。 |
 | [NUS 计算机学院博士奖学金页](https://comp.nus.edu.sg/programmes/pg/phdcs/scholarships)<br><sub>新加坡 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>S$3,900/月（国际生档位，PGF）</sub> | — | ✅ | **要求：** 研究奖学金面向计算机、信息系统或相关学科本科背景较好的全日制博士生，按最低条件竞争申请；PGF 页面称由大学每学期从博士研究生中选出少量人选。<br>页面列出研究奖学金（月津贴加全额学费补贴，每年续签最长四年，通过博士资格考试后另有每月 S$500 补充，共两年）、PGF 与 SG Digital 奖学金；正文未给出 S$3,900 金额。 |
+| [NUS 计算机学院博士招生要求（含研究奖学金资格）](https://www.comp.nus.edu.sg/programmes/pg/phdcs/admissions/)<br><sub>新加坡 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>📋 持续更新</sub><br><sub>截止日未确认，以官网为准。</sub> | ❔ | **要求：** 学士达二等上荣誉（Upper division）或同等学历，已获或申请到全日制博士录取；研究奖学金要求具备新加坡教育部学费补贴资格（国际生是否符合须以官网为准）；国际生 TOEFL iBT 90 或 IELTS 6.0<br>NUS SoC 博士招生页，说明研究奖学金最低学历门槛和英语要求；学校层面 NUS Research Scholarship 的金额另见 NUS 研究生院页面。 |
 | [NUS 计算机学院研究生项目总览](https://www.comp.nus.edu.sg/graduate/)<br><sub>新加坡 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | **2026-12-15**<br><sub>🟢 开放申请</sub><br><sub>页面 PhD Intake 写明申请时间为现在至 2026 年 12 月 15 日（计算机科学与信息系统博士方向）；研究生助教博士计划等奖学金的截止日期页面未列出。</sub> | ❔ | **要求：** 需满足 NUS 研究生申请与学院项目要求；国际生资格以各项目页为准。<br>NUS 计算机学院研究生入口页，列出博士（计算机科学、信息系统）与各硕士项目的入口及咨询邮箱。页面未列出研究生助教博士计划等奖学金的截止日期。 |
 | [SINGA 博士课题列表（A*STAR 研究项目）](https://www.a-star.edu.sg/scholarships/home/research-projects)<br><sub>新加坡 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>S$2,700/月（资格考试后升至 S$3,200/月）</sub> | — | ❔ | **要求：** 需为首次在新加坡高校就读的国际学生（非新加坡公民/PR），需良好英语及学术推荐人意见；曾在新加坡高校就读者不符合（官网表述）。<br>官网 FAQ 称海外奖学金学生需服 2–6 年 bond；页面称 A*STAR 学者在博士期间获得月津贴并全额资助学费，具体见各奖学金页面。 |
 | [SUTD ISTD 博士机会（按课题组列出在招项目）](https://sutd.edu.sg/programme-listing/istd-phd-programme)<br><sub>新加坡 ｜ 计算机·人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>S$3,600/月（国际生，2024-01-01 起）</sub> | — | ✅ | **要求：** PGF 面向所有国籍；覆盖博士学费至多 4 年，国际生需承担教学或实验室助教工作；其他条件以官网为准<br>页面称 ISTD 博士项目为 4 年，每年 9 月与 1 月两次入学；页面未列出奖学金金额。 |
@@ -72,26 +75,30 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（7）
+## 博士后奖学金与项目（10）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Duke-NUS 原位结构生物学博后（新加坡 NRF 博后奖）](https://aria.embrc.eu/jobs/national-research-foundation-postdoctoral-fellowship-in-duke-nus-medical-school-singapore/)<br><sub>新加坡 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>固定基本薪资 S$106,800/年，共 4 年；另有 S$250,000 研究经费（4 年）。新加坡公民及永久居民另有雇主 CPF 补充 S$18,200/年。</sub> | **2026-10-30**<br><sub>🟢 开放申请</sub><br><sub>截止 2026-10-30（以官网为准）。</sub> | ❔ | **要求：** 需博士学位，申请时博士后研究经验不超过 3 年；页面优先考虑 AI/机器学习、冷冻电镜与冷冻电子断层扫描、结构生物学等经验。岗位以获批 NRF 博后奖 2026/2027 为前提；页面对国籍的限制未写明。<br>来源为 ARIA 职位站页面，显示 Duke-NUS Lok 实验室（原位结构生物学）博后岗位，截止 2026 年 10 月 30 日；申请需先将 CV、研究兴趣等材料发送给 PI。 |
-| [NTU AI-for-X 博士后奖学金（NRF 联合资助）](https://opportunitydesk.org/2026/09/03/ntu-ai-for-x-postdoctoral-fellowship-2026/)<br><sub>新加坡 ｜ 人工智能·计算机·全学科</sub> | 博后 | 带薪岗位<br><sub>SGD 250,000 研究经费（总额，非月薪；另有竞争力薪酬）</sub> | **2026-10-30**<br><sub>🟢 开放申请</sub><br><sub>聚合站称 2026 轮截止 10 月 30 日（新加坡时间）；NTU 官网可见 2025 轮，2026 轮以官网为准</sub> | ❔ | **要求：** 需 STEM 领域博士学位（获得年份各站说法不一：2022 或 2023 年后）；需 NTU 项目导师支持信、两位推荐人、代表性论文 3 篇；2027 年 3 月 31 日前可入职<br>最长 4 年资助、有竞争力薪酬与 SGD 250,000 研究经费；2026 轮截止 2026-10-30。聚合站转载，申请前以 NTU 官网为准，博士资格年限说法不一。 |
+| [NTU AI-for-X 博士后奖学金（NRF 联合资助）](https://opportunitydesk.org/2026/09/03/ntu-ai-for-x-postdoctoral-fellowship-2026/)<br><sub>新加坡 ｜ 人工智能·计算机·全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>SGD 250,000 研究经费（总额，非月薪；另有竞争力薪酬）</sub> | **2026-10-30**<br><sub>🟢 开放申请</sub><br><sub>聚合站称 2026 轮截止 10 月 30 日（新加坡时间）；NTU 官网可见 2025 轮，2026 轮以官网为准</sub> | ❔ | **要求：** 需 STEM 领域博士学位（获得年份各站说法不一：2022 或 2023 年后）；需 NTU 项目导师支持信、两位推荐人、代表性论文 3 篇；2027 年 3 月 31 日前可入职<br>最长 4 年资助、有竞争力薪酬与 SGD 250,000 研究经费；2026 轮截止 2026-10-30。聚合站转载，申请前以 NTU 官网为准，博士资格年限说法不一。 |
 | [NTU 总统博士后研究员（PPF）](https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-(ppf))<br><sub>新加坡 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-12-31**<br><sub>🟢 开放申请</sub><br><sub>Wallenberg-NTU 总统博士后 2027 轮申请截止 2026 年 12 月 31 日 23:59（新加坡时间）；推荐人报告需在 2027 年 1 月 7 日前提交。</sub> | ✅ | **要求：** 需提交两页研究计划及两位推荐人；须通过 NTU 在线申请门户提交<br>Wallenberg-NTU 总统博士后 2027 轮（页面列出 AI、机器学习、大数据、软件与安全、移动与自主等方向）：一年研究经费最高 S$100,000、年薪最高 S$80,000，需两页研究计划与两位推荐人（其中一位为博士导师）。页面所列 SP Group 2025 轮次已于 2025 年 5 月 31 日截止。 |
+| [NTU 李光耀博士后研究员计划（LKYPDF）](https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf))<br><sub>新加坡 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面显示上一轮申请窗口为 2025-11-25 至 2026-02-06，下一轮未公布</sub> | ❔ | 3 年期博士后，面向近期毕业的博士（或至多一段博后经历），研究经费最高 S$180,000。NTU 官网资格条款中未见国籍限制，但检索中未找到 NTU 官方“各国籍可申”的明确表述（该表述出自 NUS 的同名计划），故标 check；下一轮窗口以官网当期公告为准。 |
 | [NUS Presidential Fellowship](https://www.nus.edu.sg/careers/wp-content/uploads/2025/11/NUS-Presidential-Fellowship8.pdf)<br><sub>新加坡 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | —<br><sub>🔄 随时可申</sub> | ✅ | **要求：** 博士学位在一年内获得或一年内即将获得；全年接受申请；国籍条款未在搜索结果中确认<br>NUS 总统研究员计划（Presidential Fellowship）：2 年研究期，之后可转为助理教授轨道，可参与总统青年教授（PYP）竞争。文件称全年接受申请，可将 CV 等材料发至 pyp@nus.edu.sg。国际申请者资格未确认，请以最新招聘文件为准。 |
+| [NUS 海外博士后奖学金（NUS-OPF）申请流程](https://nus.edu.sg/careers/wp-content/uploads/2024/01/NUS-OPF-scheme.pdf)<br><sub>新加坡 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2026-03-16**<br><sub>⏸ 本轮已截止</sub> | ⛔ | **要求：** 须为新加坡公民或永久居民；博士学位授予后两年内；须赴与博士毕业院校不同的海外机构<br>NUS 海外博士后奖学金（NUS-OPF）官方方案面向新加坡公民和永久居民，中国大陆学生不符合申请资格。2026/27 轮截止 2026-03-16 已过，下一轮以 NUS Careers 当年公告为准。 |
 | [南洋理工大学理学院 国际博士后奖学金（College of Science IPF）](https://www.ntu.edu.sg/science/research/college-of-science-international-postdoctoral-fellowship)<br><sub>新加坡 ｜ 物理/天文·化学/材料·生物/生命科学·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博后 | 全奖 | **2026-12-31**<br><sub>🟢 开放申请</sub><br><sub>截止日期未确认或各轮不同，以官网为准。</sub> | ⛔ | **要求：** 仅限新加坡公民；需持理学院相关领域博士学位，获聘后赴海外大学做最长约 2 年博后，之后转为 NTU 助理教授轨道。<br>NTU 理学院国际博后奖学金（IPF）仅面向新加坡公民，资助其海外博后研究并在完成后转为 NTU 助理教授。非新加坡公民不符合条件。 |
 | [南洋理工大学计算机学院 国际博士后奖学金（CCDS IPF）](https://www.ntu.edu.sg/computing/careers-CCDS/ccds-international-postdoctoral-fellowship-(ipf))<br><sub>新加坡 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 未公布<br><sub>📋 持续更新</sub><br><sub>官网列出 2025-12-31 截止（已过）；2026 轮以 CCDS-IPF 信息手册为准</sub> | ⛔ | **要求：** 仅限新加坡公民；需在 NTU 计算机学院获聘并赴海外知名高校做约 2 年博后，之后可转助理教授轨道<br>NTU 计算机学院国际博后计划，面向新加坡公民；非新加坡公民不符合资格。 |
 | [新加坡国立大学 ISEM 王冠一组全额资助博士后（2 个名额）](https://sites.google.com/view/guanyiwang)<br><sub>新加坡 ｜ 工程·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 滚动<br><sub>🔄 随时可申</sub><br><sub>招满为止，滚动审核；可随时邮件 CV、研究陈述</sub> | ❔ | **要求：** 需优化或运筹相关博士学位；资格以 NUS 公告为准<br>两个全额资助博后，1+1 年续聘；个人主页页面，投递前邮件确认名额仍开放。 |
+| [新加坡科技设计大学总统博士后奖学金（SUTD-PPF）](https://www.sutd.edu.sg/about/careers/sutd-start-programme/sutd-presidential-postdoctoral-fellowship/)<br><sub>新加坡 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | **2027-02-28**<br><sub>🟢 开放申请</sub><br><sub>未确认 2026 轮申请期，以 SUTD 官网为准</sub> | ⛔ | **要求：** 须为新加坡公民（永久居民需在获奖时已取得公民身份）；博士须在近 3 年内完成；需已获或正申请海外 1–2 年博后职位<br>SUTD 总统博后奖学金，面向新加坡公民，在海外知名机构任 1–2 年博后，资助期最长 2 年。非新加坡公民不符合资格。 |
 
 <a id="fellowships"></a>
 
-## 企业与基金会 Fellowship（2）
+## 企业与基金会 Fellowship（3）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [AI Singapore（AISG）PhD Fellowship](https://aisingapore.org/?p=1973)<br><sub>新加坡 ｜ 人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>S$6,300/月（非新加坡公民/PR；公民 S$6,700，PR S$6,500），全额学费，最长 4 年</sub> | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>NUS、NTU、SMU、SUTD 各校提名截止不同，以所在大学为准；原记录的 10 月 22 日未能核实</sub> | ✅ | **要求：** 需通过所在大学（NUS、NTU、SMU、SUTD）研究生申请渠道提名，官方指南称无国籍限制（新加坡公民、PR 及东盟学生被鼓励申请）；NUS 称非新加坡籍学生需在新加坡企业服务两年。<br>AISG 博士奖学金面向全部国籍开放（页面写明对提名者国籍无限制），最高每月 S$6,700 津贴外加全额学费，最长 4 年；需通过所在大学（NUS、NTU、SMU、SUTD）提名。 |
 | [BASF NAO（亚洲开放创新网络）PhD 合作项目](https://www.basf.com/cn/en/microsites/nao/how-to-apply.html)<br><sub>中国内地·日本·新加坡 ｜ 化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 需高分子化学或材料科学博士学位（或接近完成）；需较扎实的大分子化学基础与英语沟通能力；按页面要求向 BASF 联系人发送简历与动机信；国际生资格与资助金额页面未说明<br>页面写明合作大学的博士候选人或博士后均可承担产业相关的高分子或材料科学课题，由教授与 BASF 导师共同指导。申请时向 NAO 联系人发送简历与动机信；资助金额与国际生资格页面未说明。 |
+| [SUTD 外部奖学金（A*STAR、AISG 等博士奖学金列表）](https://sutd.edu.sg/admissions/graduate/scholarship/external-fellowships-scholarships)<br><sub>新加坡 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>AISG 博士奖学金：最高 S$6,700/月（含全额学费）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各项目窗口不同，以各自官网为准</sub> | 🟡 | **要求：** SUTD 页面将 A*STAR 研究生奖学金与 AISG 博士奖学金标为 All Nationalities；列表中其他项目仅限新加坡公民或永久居民，需逐项核对<br>SUTD 页面称 A*STAR 研究生奖学金与 AISG 博士奖学金面向各国国际生，可在 SUTD 攻读博士；但列表中也含仅限新加坡公民或永久居民的项目。AISG 需在新加坡企业服务两年。 |
 
 <a id="discipline"></a>
 
@@ -104,12 +111,14 @@
 
 <a id="people-channels"></a>
 
-## 个人信源与社交渠道（2）
+## 个人信源与社交渠道（4）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [NUS Ariando 课题组招聘页 · 物理/量子材料](https://ariando.science.nus.edu.sg/vacancies)<br><sub>新加坡 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 全奖 | 未公布 | ❔ | **要求：** 需将 CV 和申请信发送给 Ariando 教授，并说明为何加入该课题组；具体学历与语言要求见官网<br>课题组招聘页：博士与博后岗位。资助形式与截止日期页面未显示，申请前发邮件确认岗位是否仍在招。 |
 | [NUS Urban Analytics Lab 招聘岗位页](https://ual.sg/opportunities/vacancies/)<br><sub>新加坡 ｜ 计算机·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止日不同，以页面当前公告为准；过往博后公告均已关闭。</sub> | ❔ | 实验室岗位汇总页，列出博士与博后机会；该实验室称不回复泛泛的申请，建议先熟悉其研究再发送针对性邮件。 |
 | [Xia Kelin · NTU · 应用数学与 AI 课题组招生](https://personal.ntu.edu.sg/xiakelin/vacancies.html)<br><sub>新加坡 ｜ 数学/统计·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 滚动<br><sub>🔄 随时可申</sub> | ❔ | **要求：** 需数学、应用数学或计算科学相关学士或硕士，数值计算经验优先；将 CV 与研究说明发送至导师邮箱，申请时选择数学科学学院并指定其为拟导师。<br>Xia Kelin 课题组招生页：录取者通常获 NTU Research Scholarship，但名额非常有限，也接受自费申请；入学可选 8 月或 1 月。页面另列博后岗位，具体条件以官网为准。 |
+| [Yong Ee Hou · NTU · 物理与应用物理课题组招生](https://personal.ntu.edu.sg/eehou/Openings.html)<br><sub>新加坡 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>📋 持续更新</sub><br><sub>NTU 每年 8 月与次年 1 月两个入学轮次，截止以 NTU 研究生院为准。</sub> | ❔ | **要求：** 需数学、物理、计算或相关领域学士或硕士学位（入学前取得），数值计算经验优先；申请时将 CV 与个人简介发送至 eehou@ntu.edu.sg。<br>页面说明常用资助为 NTU Research Scholarship，并列出 Nanyang President's Graduate Scholarship 与 SINGA 等其他选项。 |
 
 <a id="recruiting-posts"></a>
 

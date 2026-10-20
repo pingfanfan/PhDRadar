@@ -2,23 +2,24 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 导师招生汇总（指向个人主页的集合）（17）
+# 导师招生汇总（指向个人主页的集合）（19）
 
 把“正在招博士的导师”集中列出的名单、表格和数据库，直接链接到导师个人主页或招生帖。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [美国（US） 5](faculty-aggregators.md#r-us) · [奥地利（AT） 4](faculty-aggregators.md#r-at) · [中国内地（CN） 2](faculty-aggregators.md#r-cn) · [德国（DE） 2](faculty-aggregators.md#r-de) · [加拿大（CA） 1](faculty-aggregators.md#r-ca) · [法国（FR） 1](faculty-aggregators.md#r-fr) · [韩国（KR） 1](faculty-aggregators.md#r-kr) · [荷兰（NL） 1](faculty-aggregators.md#r-nl)
+**按地区跳转：** [美国（US） 6](faculty-aggregators.md#r-us) · [奥地利（AT） 4](faculty-aggregators.md#r-at) · [中国内地（CN） 2](faculty-aggregators.md#r-cn) · [德国（DE） 2](faculty-aggregators.md#r-de) · [加拿大（CA） 1](faculty-aggregators.md#r-ca) · [法国（FR） 1](faculty-aggregators.md#r-fr) · [意大利（IT） 1](faculty-aggregators.md#r-it) · [韩国（KR） 1](faculty-aggregators.md#r-kr) · [荷兰（NL） 1](faculty-aggregators.md#r-nl)
 
 <a id="r-us"></a>
 
-## 美国（US）（5）
+## 美国（US）（6）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [CU Boulder CS 2027 秋季招生导师一览](https://www.colorado.edu/cs/admissions/graduate-admissions/see-who-recruiting)<br><sub>美国 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>📋 持续更新</sub><br><sub>以各导师说明和学院公告为准</sub> | ❔ | 官方导师一览页，按研究方向分组列出 Fall 2027 正在招博士的教授与实验室。资助情况与国际生资格需联系导师、查看申请要求。 |
 | [Harvard BWH The Brain 实验室职位页](https://thebrain.bwh.harvard.edu/positions.html)<br><sub>美国 ｜ 神经/认知·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ❔ | Harvard BWH The Brain（Bulyk 实验室）职位页（页面注明 2026 年 10 月 14 日更新）列出两个博后岗位、一个技术研究助理岗位及研究生、本科生机会。博后要求 2025 或 2026 年获得博士学位或 2026 年秋季毕业，页面称提供有竞争力的薪资与福利；截止日期页面未写明。 |
 | [NYU Courant 形式化方法、验证与编程语言教师名录](https://cs.nyu.edu/dynamic/people/faculty/area/Formal%20Methods,%20Verification,%20and%20Programming%20Languages/)<br><sub>美国 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ✅ | NYU Courant 形式化方法、验证与程序语言方向教师名录，不含招生与资助信息；名额和资助需联系教师或查阅 Courant 博士项目页面。 |
+| [SSAR 两栖爬行实验室招生表](https://ssarherps.org/herp-lab-recruiting/)<br><sub>美国·全球 ｜ 生态/进化·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各实验室岗位截止各不相同，以表格中每条为准；2027–2028 学年表格已于 2026 年 5 月征集</sub> | ❔ | SSAR 两栖爬行学科导师自填招生表（Google Sheet），含硕士、博士与博后岗位，2026 年 5 月发布 2027–2028 学年征集。官网两处给出的表格链接不一致，使用前到 herp-lab-recruiting 页面确认当期表格；资助与国际生资格以各实验室公告为准。 |
 | [科罗拉多大学博尔德分校心理与神经科学系 · 在招导师名单](https://www.colorado.edu/psych-neuro/graduate-programs/application-information/faculty-recruiting-graduate-students)<br><sub>美国 ｜ 社会科学/心理·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>📋 持续更新</sub><br><sub>页面称申请截止为 11 月 15 日或 20 日（两处说法不一），以研究生院当期为准；行为神经科学项目为直接录取进实验室，需先联系导师</sub> | ❔ | 系里公布在招研究生的导师名单，可据此筛选研究方向再直接联系导师；资助与国际生政策看系内原文。 |
 | [科罗拉多大学博尔德分校计算机系 · Fall 2027 在招导师与项目](https://www.colorado.edu/cs/admissions/graduate-admissions/discover-graduate-programs)<br><sub>美国 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | 页面列出计算机系在招博士的教授与实验室（Fall 2027）；各研究组截止日需进入页面核实。 |
 
@@ -66,6 +67,14 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Inria AVIZ 可视化与人机交互团队招聘页](https://www.aviz.fr/Research/Jobs)<br><sub>法国 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 未公布<br><sub>🟢 开放申请</sub><br><sub>无统一截止日，以各岗位公告为准。</sub> | ❔ | 页面当前列出 2027 年秋季入学的博士岗，包括 Visualization of the Plausibility and Bias for Data Resources used in a Geographic Digital Twin，另一岗位待公布；页面写明 INRIA 博士资助（CORDI）每年 2–5 月申请。 |
+
+<a id="r-it"></a>
+
+## 意大利（IT）（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [帕多瓦大学机器学习组 PhD 奖学金页](https://mlg.math.unipd.it/?p=83)<br><sub>意大利 ｜ 人工智能·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>以 unipd.it 博士招生公告为准；数学系 2026 批次截止 5 月 20 日已过</sub> | ❔ | **要求：** 以各奖学金公告为准（国籍、语言、学位要求）；需逐个核对奖学金资格<br>数学系机器学习组发布的 PhD 奖学金；核对每个奖学金的国籍与语言要求。 |
 
 <a id="r-kr"></a>
 

@@ -2,21 +2,23 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 中国内地（CN） 信源（52）
+# 中国内地（CN） 信源（60）
 
-所有标注了地区 CN 的信源，共 52 条。
+所有标注了地区 CN 的信源，共 60 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 3](cn.md#aggregators) · [各国学术招聘门户与机构职位页 1](cn.md#national-portals) · [高校旗舰奖学金与资助检索 10](cn.md#university-schemes) · [结构化博士项目与研究机构 18](cn.md#doctoral-programs) · [博士后奖学金与项目 11](cn.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](cn.md#fellowships) · [个人信源与社交渠道 3](cn.md#people-channels) · [导师招生帖（社交平台个人发布） 2](cn.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 2](cn.md#faculty-aggregators) · [中文社区与官方服务 1](cn.md#chinese-community)
+**按分类跳转：** [综合聚合平台 5](cn.md#aggregators) · [各国学术招聘门户与机构职位页 1](cn.md#national-portals) · [高校旗舰奖学金与资助检索 11](cn.md#university-schemes) · [结构化博士项目与研究机构 21](cn.md#doctoral-programs) · [博士后奖学金与项目 11](cn.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](cn.md#fellowships) · [个人信源与社交渠道 4](cn.md#people-channels) · [导师招生帖（社交平台个人发布） 3](cn.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 2](cn.md#faculty-aggregators) · [中文社区与官方服务 1](cn.md#chinese-community)
 
 <a id="aggregators"></a>
 
-## 综合聚合平台（3）
+## 综合聚合平台（5）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [Nature Careers · 中国 PI 岗位（直招雇主）](https://www.nature.com/naturecareers/jobs/principal-investigator/china/full-time/fixed-term/academia/direct-employer)<br><sub>中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ❔ | 汇总中国高校、研究所直接发布的 PI 与研究员岗位，筛选页结果数随过滤条件变化；条件与薪酬以各雇主页面为准。 |
 | [Nature Careers · 中国博士后岗位列表](https://www.nature.com/naturecareers/jobs/postdoctoral/china/)<br><sub>中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ✅ | **要求：** 多数岗位要求博士学位；待遇、国籍与资格条件因岗位和雇主而异，以各岗位页面为准<br>汇总中国大陆高校和研究机构直接发布的博后岗位（可按学科筛选，列表持续更新）。岗位条件差异大，部分与人才计划资格挂钩，待遇与截止以各岗位页面为准。 |
+| [Nature Careers · 亚洲物理学博士岗位列表](https://www.nature.com/naturecareers/jobs/physics/asia/full-time/phd/)<br><sub>中国香港·新加坡·日本·韩国·中国内地 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 滚动<br><sub>📋 持续更新</sub><br><sub>列表持续更新，截止日需逐岗位查看</sub> | ❔ | **要求：** 检索结果以教职和博后岗位为主，博士生岗位较少；中国大陆学生资格以各岗位要求为准<br>聚合页，汇总亚洲（含中国、港新日韩）全职物理岗位。检索结果中博士生岗位较少，多为教职与博后；是否全奖及中国大陆资格须逐条核对。 |
 | [Nature Careers 亚洲计算机类博后职位筛选页](https://www.nature.com/naturecareers/jobs/computing/postdoctoral/asia/-70-000-99-999/fixed-term/)<br><sub>新加坡·中国香港·日本·韩国·中国内地 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | 按亚洲地区与薪资筛选，适合扫描港、新、日、韩的 AI 岗位。 |
 | [高校人才网 · 博士与博士后招聘栏目](https://www.gaoxiaojob.com/column/3.html)<br><sub>中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ✅ | 高校人才网导航设有“高才博士后”栏目（另有 boshihou.gaoxiaojob.com 专站），并在“高校招聘”频道收录各校博士后与博士岗位公告；岗位以原校通知为准。 |
 
@@ -30,7 +32,7 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（10）
+## 高校旗舰奖学金与资助检索（11）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -38,6 +40,7 @@
 | [NYU 上海校区博士奖学金（神经科学上海轨道）](https://shanghai.nyu.edu/node/18058)<br><sub>中国内地 ｜ 神经/认知·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>📋 持续更新</sub><br><sub>随纽约大学神经科学项目的申请周期处理，截止需向上海校区核实。</sub> | ❔ | 上海校区的博士轨道，奖学金覆盖学费、杂费与年度津贴（据搜索摘要），适合希望在国内就读并获海外学位的同学。 |
 | [利兹大学 × 南方科技大学联合博士项目（Split-Site）](https://environment.leeds.ac.uk/see-research-degrees/doc/leeds-sustech-split-site-phd-programme-1/)<br><sub>英国·中国内地 ｜ 地球/环境/海洋·生态/进化·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | — | ❔ | 利兹大学与南方科技大学联合培养博士：第一年在利兹，中间约两年九个月在深圳南科大，最后三个月回利兹完成论文；要求英国二等一荣誉学位，IELTS 6.5。南科大提供覆盖学费及部分生活费的资助；页面未说明国籍限制，需确认。 |
 | [加泰罗尼亚理工大学（UPC）CSC 博士研修项目](https://www.upc.edu/sri/en/cscupcscholarships/copy_of_csc-upc-scholarships-for-full-phd)<br><sub>西班牙·中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-03-25**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 3 月 25 日为索取 UPC 官方邀请函的截止日，已过；页面未给出下一轮时间。</sub> | ✅ | **要求：** 须为中国公民并已在国内高校注册博士；需取得 UPC 无条件邀请函（unconditional invitation letter）；需满足 UPC 入学要求（含英语水平）。<br>UPC-CSC 访问博士研修项目：每年最多 30 名已在国内高校注册博士的中国学生，在 UPC 研修最长 24 个月；需先获 UPC 教授接收并取得 UPC 邀请函，再向 CSC 申请资助。 |
+| [南方科技大学－澳门大学全额奖学金联合培养博士项目](https://ese.sustech.edu.cn/Wap/Content/index/nid/151/id/374.html?language=2)<br><sub>中国内地·中国澳门 ｜ 工程·化学/材料·物理/天文·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 滚动<br><sub>🔄 随时可申</sub><br><sub>检索到的页面为 2016 年旧版，当前批次截止未核实</sub> | ❔ | **要求：** 托福不低于 550 或雅思不低于 6.0；本科 GPA 3.5 或硕士 GPA 3.0 以上；需经南科大与澳门大学联合面试<br>南科大与澳门大学全额奖学金联合培养博士，前约 1.5 年在澳大修博士课程，其余研究在南科大完成，学位由澳大授予；旧页面的津贴数字异常，未采用，需向南科大确认。 |
 | [哈利法大学–国家留学基金委（CSC）联合博士项目](https://www.ku.ac.ae/khalifa-university-launches-arab-regions-first-joint-phd-scholarship-program-with-chinas-csc)<br><sub>阿联酋·中国内地 ｜ 工程·物理/天文·化学/材料·生物/生命科学·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>KU 每月 9,200 迪拉姆，另有 CSC 额外津贴，含往返机票</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>第三方称每年 2 月 10 日截止（秋季入学），需以 KU 官网核实</sub> | ✅ | **要求：** 中国大陆公民；工程或理学博士；须已获 KU 无条件录取；资助最长 48 个月<br>KU 官方目录确认：CSC-KU 联合博士仅限中国大陆公民，工程与理学博士；KU 每月 9,200 迪拉姆并覆盖学费，另由 CSC 提供津贴与往返机票。 |
 | [布里斯托大学 CSC 联合博士奖学金申请指南](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/application-guidance)<br><sub>英国·中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-11-30**<br><sub>🟢 开放申请</sub><br><sub>校内申请截止 2026-11-30 12:00（英国时间），需选 CSC-UoB joint PhD scholarship；获录取后 CSC 申请约 2027 年 3–4 月</sub> | ✅ | **要求：** 中国大陆永久居民，申请时不超过 35 岁；未在本校开始博士学习；如课程需要须在截止前提交语言证明<br>布里斯托大学与国家留学基金委（CSC）联合博士奖学金，仅限中国大陆学生，覆盖全额学费、CSC 生活津贴及往返机票。校内申请须于截止前选择该资助并填写 100% 资助比例；获录取后由校方推荐，学生再向 CSC 申请。获资助者毕业后需回国服务两年。 |
 | [悉尼大学与 CSC 续约 · 中国博士生项目](https://www.sydney.edu.au/news-opinion/news/2026/09/22/university-of-sydney-renews-partnership-with-china-scholarship-c.html)<br><sub>澳大利亚·中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>🔜 即将开放</sub><br><sub>2027 入学时间表未公布，需向悉大研究生办公室确认</sub> | ✅ | **要求：** 中国公民（上一轮页面条件）；35 岁以下（上一轮页面条件）；需通过与 CSC 的合作遴选<br>2026 年 9 月悉大宣布与 CSC 续约，面向中国博士生。2027 入学时间表需向悉大研究生办公室确认。 |
@@ -47,7 +50,7 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（18）
+## 结构化博士项目与研究机构（21）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -58,6 +61,8 @@
 | [HKUST(GZ) 创新政策与创业博士 2026/27 招生简章](https://soch.hkust-gz.edu.cn/wp-content/uploads/2026/04/PhD-in-Innovation-Policy-and-Entrepreneurship_CN-2026-27-Intake-20260402.pdf)<br><sub>中国内地 ｜ 社会科学/心理·商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>15,000 元/月（最长 4 年，全日制申请者自动纳入助学金考虑）</sub> | **2026-06-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 秋季：国际申请者 6 月 15 日、中国大陆申请者 7 月 15 日截止，均已过；下一轮关注 HKUST(GZ) 官网。</sub> | ❔ | **要求：** 中国大陆申请者有独立截止日（7 月 15 日）；通过学校在线招生系统申请；双导师制。<br>简章标注全日制助学金每月 15,000 元、最长 4 年，双导师制。2026/27 秋季截止日已过，关注下一轮。 |
 | [HKUST(GZ) 博士申请时间表（2026-27 春季、2027-28 秋季）](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/admission-timeline)<br><sub>中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-12-04**<br><sub>🟢 开放申请</sub><br><sub>2026-27 春季博士：国际生截止 2026-12-04（23:59，GMT+8），中国内地申请者截止 2026-12-25；2027-28 秋季博士：国际生截止 2027-06-15，中国内地申请者截止 2027-07-15；录取滚动发放</sub> | ✅ | HKUST(GZ) 官网时间表（2026 年 7 月更新）：2026 年 7 月 21 日起接受博士申请，2027 年秋季国际生与内地申请者截止分别为 6 月 15 日和 7 月 15 日，录取滚动发放。以官网时间表为准。 |
 | [HKUST(GZ) 计算媒体与艺术（CMA）· 全奖博士/MPhil 招生](https://cma.hkust-gz.edu.cn/admissions/)<br><sub>中国内地 ｜ 人文/语言·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 滚动<br><sub>🔄 随时可申</sub><br><sub>页面写明按滚动方式招生（We are recruiting on a rolling basis），名额满可能提前停止；未标具体截止日期。</sub> | ❔ | 项目页称提供全奖博士与 MPhil 名额，博士最长资助四年，覆盖学费、住宿和生活费；页面称按滚动方式招生，名额满可能停止招收。 |
+| [NYU Wagner 公共管理博士（在 NYU 上海校区驻留）](https://wagner.nyu.edu/education/degrees/doctorate-public-administration/research-and-residence-with-NYU-Shanghai)<br><sub>中国内地 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ❔ | NYU Shanghai Doctoral Fellowship 覆盖学费、杂费、年度生活津贴及国际医疗保险；申请经 Wagner 统一入口并勾选上海校区，前期课程在纽约修读。是否对国际申请者开放官网未查到，申请前问招生办。 |
+| [NYU 上海校区博士项目总览](https://shanghai.nyu.edu/node/18059)<br><sub>中国内地 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 各项目方向不同（如公共管理、社会学等）；官网称学生可获 NYU 上海博士奖学金，含学费、年度津贴与国际医保；当期截止未找到，需查各项目页。<br>博士项目总览页，用于找到社会科学类博士方向入口；资助与国际生资格以各项目页面为准。 |
 | [NYU 上海校区社会学博士](https://netprogram.shanghai.nyu.edu/en/areas-of-study/sociology)<br><sub>中国内地 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>🟢 开放申请</sub> | ❔ | NYU 上海社会学博士项目官网列为当前招生学科之一，资助为 NYU 上海博士奖学金，覆盖学费与杂费、年度津贴、差旅与国际医保。第一年在纽约学习，之后在上海研究；具体截止与国籍条件以官网为准。 |
 | [京都大学双学位项目列表（含与浙江大学博士双学位）](https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/jddd)<br><sub>日本·中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>以京都大学能源科学研究科当年博士招生简章为准；未找到截止日期</sub> | ❔ | **要求：** 需满足京都大学研究科博士入学要求（具体条件未核实）；双学位安排以两校协议为准<br>京都大学双学位项目列表（截至 2024 年 12 月）列有能源科学研究科与浙江大学的博士双学位。入学条件、截止与资助页面未列出，以京大当年招生简章为准。 |
 | [利兹大学–西南交通大学双学位博士](https://leeds.swjtu.edu.cn/english/Academic/Dual_Degree_PhD_Programme.htm)<br><sub>英国·中国内地 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面写明的申请截止为 2024 年 4 月，已过期；下一轮待项目方确认。</sub> | ❔ | **要求：** 需先在西南交大完成一年预备学习；3 年制需硕士学位，4 年制可由本科申请；雅思 6.5（单项不低于 6.0）<br>页面称利兹大学免除学费，学生可申请西南交大博士奖学金，并可申请国家留学基金委（CSC）或联合学院资助；页面未列明生活费与具体金额。申请者须已被西南交大录取或已在读。 |
@@ -65,6 +70,7 @@
 | [大连理工大学化工学院 2026 年春季博士拟招生导师名单](https://gs.dlut.edu.cn/yjszs/document/450-nzsxx.pdf)<br><sub>中国内地 ｜ 工程·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ✅ | 列出各导师博士名额,涵盖化学工程与技术、储能等方向,可据此联系导师。名单不代表全额奖学金。 |
 | [曼彻斯特大学–北京大学双学位博士（Dual-award）](https://www.se.manchester.ac.uk/study/postgraduate-research/degrees-and-projects/dual-and-joint-awards/peking/)<br><sub>英国·中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-11-30**<br><sub>🟢 开放申请</sub><br><sub>2027 年 9 月入学：申请 2026 年 10 月 12 日当周开放，2026-11-30 截止</sub> | 🟡 | 两校学费由奖学金覆盖，英国段按 UKRI 标准发津贴；页面说明中国籍申请者须通过北京大学申请。 |
 | [曼彻斯特大学–清华大学双学位博士（Dual-award）](https://www.se.manchester.ac.uk/study/postgraduate-research/degrees-and-projects/dual-and-joint-awards/tsinghua/)<br><sub>英国·中国内地 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-01-04**<br><sub>🔜 即将开放</sub><br><sub>申请 2026 年 11 月 16 日当周开放，2027-01-04 截止</sub> | ❔ | 4 年制双学位博士，曼彻斯特大学与清华大学各约两年，授予双博士学位。官网称开放 2027 年 1 月入学的补充招生，招生窗口约 2026 年 11 月 16 日至 2027 年 1 月 4 日。资助细节和 CSC 资格在检索中均未核实，需向曼大或清华官方确认。 |
+| [清华大学研究生招生 · 联合培养/双博士学位项目总页](https://www.tsinghua.edu.cn/en/Admissions/Graduate1/Joint_Programs.htm)<br><sub>中国内地·全球 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 清华研究生招生官网的联合培养项目总页。两处官网页面数字不一；所见多为硕士和 MBA 项目，博士层级完整清单未找到。博士项目的资格、申请与资助以各项目页为准。 |
 | [瓦赫宁根大学与中国农业大学 AGD 联合博士项目](https://www.wur.nl/en/education/phd-programme/agd-phd-programme)<br><sub>荷兰·中国内地 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>CSC 生活津贴约 €2,000/月（居留期间）+ 往返机票；另有 €1,000/月 实验台费（项目安排）</sub> | **2026-06-28**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮提交截止 2026-06-28（已过）</sub> | ✅ | **要求：** 中国国籍、年龄 35 岁以下、持指定四所中国高校硕士学位；2026 轮为 1+3 年（CAU 一年 + WUR 三年）；每年约 6 月征集，以 AGD-CSC 办公室通知为准<br>国家留学基金委资助的中荷联合培养项目，面向中国国籍、35 岁以下、持指定四所中国高校硕士学位者；每年约 6 月征集。 |
 | [西交利物浦–西安交大–利物浦大学联合博士项目](https://www.xjtlu.edu.cn/en/admissions/doctoral/xjtlu-xjtu-uol-joint-doctoral-programme)<br><sub>中国内地·英国 ｜ 全学科</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>🔄 随时可申</sub><br><sub>项目按导师项目代码全年接受申请；本联合项目的费用与资助未核实，以官网为准</sub> | ❔ | **要求：** 须先获拟导师同意并选择对应项目代码；英国学位要求一等或二等一荣誉学位或 Merit 硕士<br>西浦–西交大–利物浦联合博士，两校注册、授予利物浦大学博士学位，全日制通常 3–4 年。XJTLU 2026 博士手册列出普通博士奖学金：全额为 3 年学费减免（总值 RMB 297,000）加每月 RMB 5,000 生活费；该手册未专门说明联合项目是否适用，以官网为准。 |
 | [西交利物浦大学（XJTLU）博士招生手册 2026](https://www.xjtlu.edu.cn/wp-content/uploads/2026/01/XJTLU-Doctoral-Research-Prospectus-2026-EN.pdf)<br><sub>中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>全额档 RMB 5,000/月（3 年）</sub> | — | ✅ | **要求：** 需获 XJTLU 博士录取；全额档需担任助教或助研<br>手册列出全额奖学金（免学费三年并月补助）及部分资助选项，多数对所有国籍开放；博士申请全年接收，需先找到 XJTLU 导师。 |
@@ -98,22 +104,24 @@
 
 <a id="people-channels"></a>
 
-## 个人信源与社交渠道（3）
+## 个人信源与社交渠道（4）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [HKUST(GZ) · IDADM 实验室 · 博士奖学金（全年接收）](https://personal.hkust-gz.edu.cn/juandu/IDADM-Lab/lab-openings)<br><sub>中国内地 ｜ 人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 滚动<br><sub>🔄 随时可申</sub> | ❔ | **要求：** 需将简历、成绩单、论文与研究计划发至实验室邮箱，并走学校申请系统<br>实验室页面称博士奖学金 72 万元/4 年（视资格与表现而定），全年接收申请；本科成绩前 5%/3% 或硕士有相关发表者优先。需将简历、成绩单、论文与研究计划发至实验室邮箱，并走学校申请系统。页面未写国籍要求，请先联系导师确认。 |
 | [HKUST(GZ) 人工智能学域招生页](https://ailab.hkust-gz.edu.cn/prospective.html)<br><sub>中国内地 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>学校 2027 秋季博士通用窗口：国际生至 2027-06-15，中国籍申请人至 2027-07-15（宣传册，GMT+8）；AI 学域是否纳入未确认，以在线申请系统为准。</sub> | ❔ | **要求：** 申请时需在研究计划中注明潜在导师；学历与语言要求未在搜索中确认。<br>页面称通过人工智能学域招收博士与 MPhil，申请时需注明潜在导师；资助与截止以官网为准。 |
 | [Tin Lun Lam 机器人课题组 · CUHK(Shenzhen) · 招生](https://freeformrobotics.org/?p=8)<br><sub>中国内地 ｜ 工程·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 未公布 | ❔ | **要求：** 申请时发送简历、成绩单及研究成果幻灯片至导师邮箱；页面未给出具体学历、语言要求及截止日期。<br>课题组页面列出博士生、博士后与研究助理岗位，申请时发送简历、成绩单和研究作品给导师；页面未注明日期，需确认仍在招。 |
+| [同济大学张勇课题组 生物信息学博士后招聘](https://zhanglab.tongji.edu.cn/Positions.htm)<br><sub>中国内地 ｜ 生物/生命科学·计算机</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 滚动<br><sub>🔄 随时可申</sub><br><sub>课题组主页长期招聘，无固定截止日期；以页面给出的邮箱投递为准。</sub> | ❔ | **要求：** 近期获得相关博士学位，并以第一作者在生物信息学相关期刊发表过论文（据页面摘要）。<br>同济大学张勇课题组长期招收生物信息学博士后，个人主页招聘入口。薪资待遇以页面为准；投递前核对岗位是否仍在招。 |
 
 <a id="recruiting-posts"></a>
 
-## 导师招生帖（社交平台个人发布）（2）
+## 导师招生帖（社交平台个人发布）（3）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [HKUST(GZ) A2E Lab（段凌杰）· 博士/MPhil/RA 招生 2026、2027 入学](https://personal.hkust-gz.edu.cn/lingjieduan/phd-openings/)<br><sub>中国内地 ｜ 人工智能·计算机·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>月津贴 RMB 15,000（页面称授予所有录取博士生）</sub> | 未公布<br><sub>🟢 开放申请</sub><br><sub>官网称正在招收 2026 与 2027 入学的博士、MPhil 与研究助理；截止日期与资助细则未在搜索摘要中看到，以页面为准。</sub> | ❔ | 页面称该实验室正在招收 2026 与 2027 入学的博士、MPhil 与研究助理，研究方向包括分布式机器学习、多智能体系统与算法博弈论。页面称香港科技大学（广州）为所有录取博士生提供博士奖学金，含月津贴 RMB 15,000。 |
 | [HKUST(GZ) CIS Lab（Zeyu Wang）· 博后/博士/MPhil 招生](https://cislab.hkust-gz.edu.cn/openings/)<br><sub>中国内地 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 仅生活费<br><sub>博士 RMB 15,000/月；MPhil RMB 10,000/月</sub> | —<br><sub>📋 持续更新</sub><br><sub>页面长期列出博后、博士、MPhil 与 RA 岗位，未见具体截止日期，以官网为准</sub> | ❔ | CIS 实验室页面列出博后、博士、MPhil 与 RA 岗位，称博士每月 RMB 15,000、MPhil 每月 RMB 10,000；英语最低要求为 TOEFL iBT 80 或 IELTS 6.5（单项不低于 5.5）。 |
+| [上海交通大学李政道研究所 · 招聘公告列表](https://tdli.sjtu.edu.cn/posts?fl=295)<br><sub>中国内地 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 通常需博士学位、研究陈述、CV 与推荐信，具体按岗位公告要求<br>上海交通大学李政道研究所招聘公告列表。未在官网招聘页找到国籍说明，资格改为 'check'。列表中旧岗位多已过期，需逐条核对。 |
 
 <a id="faculty-aggregators"></a>
 
