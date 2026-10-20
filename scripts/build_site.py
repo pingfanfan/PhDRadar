@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
-"""生成 GitHub Pages 首页：可搜索、可筛选的信源查询页（默认只显示核实员确认“现在可申请”的条目）。
+"""生成网站数据与旧版页面。首页 index.html 是 web/ 里的 React 应用（`cd web && npm run build` 生成并提交），这里不再改写它。
 
     python scripts/build_site.py
 
 写入：
-    index.html            首页（静态 HTML，模板见 scripts/site_template.html）
+    classic.html          旧版单页（模板见 scripts/site_template.html），新版出问题时可用
     assets/catalog.json   首页加载的精简数据（全部信源，已核对条目带官网原句）
+    assets/labels.json    地区、学科、资助等中文名（新版前端 web/ 读取）
     assets/rank-rules.json “为我推荐”的排序规则（来自 scripts/rank_rules.py，浏览器端 assets/rank.js 使用）
     feeds/                RSS 订阅源与订阅说明页（scripts/build_feeds.py）
     api/、llms.txt        给 AI agent 的静态 JSON 接口与说明（scripts/build_api.py，见 docs/agents.md）
@@ -170,6 +171,7 @@ def main() -> int:
                 r["in"] = intros[r["id"]]
     (ROOT / "assets").mkdir(exist_ok=True)
     (ROOT / "assets" / "catalog.json").write_text(json.dumps(rows, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    (ROOT / "assets" / "labels.json").write_text(json.dumps(LABELS, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")  # 新版前端（web/）用
     from build_feeds import write_feeds
     n_feeds = write_feeds(rows, ROOT)
     from build_api import write_api
@@ -189,8 +191,8 @@ def main() -> int:
         "__LABELS__": json.dumps(LABELS, ensure_ascii=False),
     }.items():
         page = page.replace(key, val)
-    (ROOT / "index.html").write_text(page, encoding="utf-8")
-    print(f"首页：现在可申请 {sum(1 for r in rows if r.get('o'))} · 已核对 {len(verified)} / 全部 {len(rows)} 条 → index.html, assets/catalog.json；订阅源 {n_feeds} 个 → feeds/")
+    (ROOT / "classic.html").write_text(page, encoding="utf-8")
+    print(f"首页：现在可申请 {sum(1 for r in rows if r.get('o'))} · 已核对 {len(verified)} / 全部 {len(rows)} 条 → classic.html, assets/catalog.json；订阅源 {n_feeds} 个 → feeds/")
     return 0
 
 

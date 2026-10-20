@@ -51,7 +51,7 @@ jobs:
             python scripts/export_data.py
             python scripts/build_open.py   # 截止日已过的“现在可申请”条目自动移出
             python scripts/build_site.py
-            git add SOURCES.md sources README.md docs/assets data/export OPEN.md index.html assets/catalog.json
+            git add SOURCES.md sources README.md docs/assets data/export OPEN.md classic.html assets feeds api llms.txt
             git diff --cached --quiet && exit 0
             git commit -q -m "Regenerate reading pages and data exports"
             git push && exit 0
