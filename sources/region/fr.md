@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 法国（FR） 信源（172）
+# 法国（FR） 信源（176）
 
-所有标注了地区 FR 的信源，共 172 条。
+所有标注了地区 FR 的信源，共 176 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 6](fr.md#aggregators) · [各国学术招聘门户与机构职位页 10](fr.md#national-portals) · [政府与国家级奖学金 14](fr.md#gov-scholarships) · [高校旗舰奖学金与资助检索 35](fr.md#university-schemes) · [结构化博士项目与研究机构 78](fr.md#doctoral-programs) · [博士后奖学金与项目 19](fr.md#postdoc-fellowships) · [企业与基金会 Fellowship 2](fr.md#fellowships) · [学科专属信源 1](fr.md#discipline) · [科研实习与“曲线入口” 4](fr.md#pathways) · [个人信源与社交渠道 1](fr.md#people-channels) · [导师招生帖（社交平台个人发布） 1](fr.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 1](fr.md#faculty-aggregators)
+**按分类跳转：** [综合聚合平台 6](fr.md#aggregators) · [各国学术招聘门户与机构职位页 10](fr.md#national-portals) · [政府与国家级奖学金 14](fr.md#gov-scholarships) · [高校旗舰奖学金与资助检索 36](fr.md#university-schemes) · [结构化博士项目与研究机构 80](fr.md#doctoral-programs) · [博士后奖学金与项目 19](fr.md#postdoc-fellowships) · [企业与基金会 Fellowship 2](fr.md#fellowships) · [学科专属信源 1](fr.md#discipline) · [科研实习与“曲线入口” 5](fr.md#pathways) · [个人信源与社交渠道 1](fr.md#people-channels) · [导师招生帖（社交平台个人发布） 1](fr.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 1](fr.md#faculty-aggregators)
 
 <a id="aggregators"></a>
 
@@ -63,7 +63,7 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（35）
+## 高校旗舰奖学金与资助检索（36）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -83,6 +83,7 @@
 | [ParisTech × CSC 博士项目](https://paristech.fr/en/paristech-csc-phd-program)<br><sub>法国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€1,350/月（官网所述，36–48 个月）+ 往返机票</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮网申截止 2026-01-14；2027 轮待公告，通常 10 月至次年 2 月</sub> | ✅ | **要求：** 中国籍优秀学生；需通过院校网申与面试录取，并获得 CSC 奖学金<br>需先通过院校面试录取再申请 CSC。2026 轮面试在 1 月底至 2 月初，CSC 报名约 3 月中至 4 月初，可提前关注 2027 轮。 |
 | [ParisTech–CSC 博士项目](https://paristech.fr/fr/paristech-csc-phd-program)<br><sub>法国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请截止 2026-01-14（已过）；活动通常 10 月至次年 2 月开放，2026-27 轮以官网公告为准</sub> | ✅ | **要求：** 中国大陆国籍；须先获 ParisTech 成员校博士录取并通过 CSC 选拔<br>ParisTech–CSC 博士项目：€1,350/月加往返机票（36–48 个月），限 CSC 资助的中国学生，以官网为准。 |
 | [PSL 数学与应用研究生项目博士合同（2026 批次）](https://static.psl.eu/sites/default/files/2026-03/Contrats_doctoraux_PG-Mathematiques-et-applications-PSL%20%28FR%29%20Campagne%202026.pdf)<br><sub>法国 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>€2,300/月（税前，2026 年第一年标准）</sub> | **2026-05-04**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 批次截止 2026 年 5 月 4 日；2027 批次未公布，预计 2027 年初发布。</sub> | ✅ | **要求：** 提交 CV、动机信、导师承诺信、论文计划与成绩单；对法国与国际学生开放，需持数学硕士二年级或同等学位。<br>页面为 2026 年度招募（Campagne 2026），截止 2026 年 5 月 4 日 23:30，结果约 5 月底通知；页面未写明下一轮时间。 |
+| [PSL-NEURO 神经科学博士资助](https://www.psl-neuro.psl.eu/en/calls/psl-neuro-phd-funding)<br><sub>法国 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub> | ❔ | PSL-NEURO 每年资助 2 个博士课题，需 6 月 30 日前经博士学院提交；2026 轮已过，2027 轮待公布。 |
 | [Saclay Plant Sciences（SPS）博士奖学金](https://eng-saclay-plant-sciences.hub.inrae.fr/vertical-headings/sps-calls-and-job-offers/sps-funding/sps-phd-fellowships)<br><sub>法国 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-05-26**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年轮次已开放申请，截止日期以官网为准</sub> | ❔ | **要求：** 需完成 SPS 团队 M2 实习或为列出 M2 项目学生；国际生资格与语言要求未确认<br>2026 届最多提供 2 个 3 年期博士奖学金，申请截止 2026 年 5 月 26 日（午夜），面试定于 6 月 15 日和/或 16 日。页面称合同安排尚未最终确定。 |
 | [Sciences Po 博士合同（与巴黎城市大学联合双文化合同）](https://www.sciencespo.fr/ecole-recherche/en/news/Call-doctoral-contracts-Dual-culture-SciencesPo-UniversiteParisCite-2026/)<br><sub>法国 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-02-10**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 联合合同截止 2 月 10 日已过；未找到 2027 轮公告</sub> | ❔ | 与巴黎城市大学联合的双文化博士合同：全职 36 个月，2026 年 9 月起，适用于 Sciences Po 的法、经、史、政、社五个博士项目。截止 2026 年 2 月 10 日已过；未找到 2027 轮公告。该类公告 2025 年 10 月发布，可关注次年同期。 |
 | [图卢兹大学联盟 CSC 博士项目](https://en.univ-toulouse.fr/research-phd/international-phd-programs/china)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>🔜 即将开放</sub><br><sub>校内截止历年有变动；2027 轮未见公告，以官网为准。</sub> | ❔ | 图卢兹与 CSC 合作（2011 年协议）。2019 年宣传材料称每年约 25 个名额，数字较旧，需核实当期。流程：先在国际论文题目库选题并向国际博士办公室提交，校内截止多为 1–2 月，再到 CSC 申请。 |
@@ -105,7 +106,7 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（78）
+## 结构化博士项目与研究机构（80）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -141,6 +142,8 @@
 | [NEXTSTEP 博士项目（ESRF 与 ILL，MSCA COFUND）](https://esrf.fr/home/UsersAndScience/the-phd-programme-at-the-esrf/nextstep.html)<br><sub>法国 ｜ 物理/天文·化学/材料·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年第二批截止 3 月 31 日已过；未找到新一轮公告，以官网为准</sub> | 🟡 | MSCA COFUND 博士项目，依托 ESRF、ILL 等设施，每个博士岗位资助 36 个月；申请者须满足 MSCA 流动性规则（过去 36 个月在东道国居住不超过 12 个月）。下一批以 ESRF/ILL 官网为准。 |
 | [ONERA 法国航空航天研究院博士合同](https://w3.onera.fr/formationparlarecherche/node/4)<br><sub>法国 ｜ 工程·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 滚动<br><sub>🔄 随时可申</sub> | ❔ | **要求：** 需硕士或同等学历；直接联系拟导师或课题负责人，提交 CV 与求职信；国际生资格未见说明，以官网或导师确认为准<br>约 300 名在读博士，多为研究培训合同，需联系导师。 |
 | [Pasteur-Paris University (PPU) 国际博士项目（Institut Pasteur）](https://www.pasteur.fr/en/education/ppu)<br><sub>法国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-11-16**<br><sub>🟢 开放申请</sub><br><sub>2027-10 入学征集 2026-10-01 至 11-16；学院联合申请截止 12-14</sub> | ❔ | **要求：** 需硕士或同等学位；可同时申请至多 4 个实验室；需注册 PPU 官网账号；国籍限制需在官网核实<br>带薪博士岗位（Institut Pasteur 发工资与社保），需硕士学位；2027-10 入学征集期 2026-10-01 至 11-16，目前开放；项目列表需注册官网账号，国籍与学历资格以官网为准。 |
+| [PSL 博士学院与各学院博士合同](https://psl.eu/formation/choisir-sa-formation/doctorat)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>约 €2,300/月（税前，2026 年起的最低标准）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮各学院或项目截止多在 4–5 月，已过；2027 轮通常春季发布，以各学院页面为准。</sub> | ✅ | **要求：** 需硕士或同等学历，通常需导师确认与研究计划；部分项目要求硕士在入学前完成，否则合同可能无效。<br>PSL 各学院每年发布带合同的博士课题（月薪约 2300 欧元税前），需先找到导师；海外申请核对工作许可与居留要求。 |
+| [PSL「古代的工坊」（Les Fabriques de l'Antique）博士合同](https://psl.eu/actualites/appel-candidature-pour-des-contrats-doctoraux-les-fabriques-de-lantique)<br><sub>法国 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>最低税前月薪 €2,100（2025 轮，合同 3 年）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2025 轮 2025 年 5 月 18 日截止；2026 轮博士合同公告未找到</sub> | ❔ | PSL「古代的工坊」博士合同。2025 轮共两名博士合同，5 月 18 日截止；未见 2026 年博士合同公告，是否续设以 PSL 官网为准。国际生资格未核实。 |
 | [QuanG2 格勒诺布尔量子科技博士项目（MSCA COFUND）](https://phdquantumgrenoble.univ-grenoble-alpes.fr/)<br><sub>法国 ｜ 物理/天文·工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-09-07**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 秋批次申请已于 2026 年 9 月 7 日截止，最终结果 12 月 7 日公布；下一批次未见公布</sub> | ✅ | QuanG2 格勒诺布尔 MSCA COFUND 带薪博士项目，学制 36 个月，可申请最多 10,000 欧元交流与会议经费；需硕士或同等学位，须符合 MSCA 流动性规则（法国居住或工作超过 12 个月者不符合）。2026 秋批次已截止。 |
 | [Quantalps（格勒诺布尔）博士项目 2026 秋季批次](https://quantalps.univ-grenoble-alpes.fr/education/phd-programs/automn-2026-phd-program-1783596.kjsp)<br><sub>法国 ｜ 物理/天文·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>税前 2,300 欧元（QuantAlps Labex 与 QuanTEdu-France），QuanG2 为 2,400 欧元；页面未注明按月</sub> | **2026-09-07**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 秋季批次申请期 2026-06-08 至 2026-09-07（已过）；后续批次未见公告。</sub> | ✅ | **要求：** 需硕士学位或在 2026-09-07 前取得；官方页未明确国籍条件。<br>阿尔卑斯地区量子科技博士项目批次页，博士生为带薪雇员；后续批次通常在此公布。 |
 | [Sciences Po 经济学博士（三年带薪博士合同）](https://www.sciencespo.fr/ecole-doctorale/en/content/doctorate-economics.html)<br><sub>法国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | Sciences Po 经济学博士合同：检索未见 2027 轮公告，以官网为准；第三方站点称税前月薪约 2,100 欧元（未经官网核实）。 |
@@ -233,11 +236,12 @@
 
 <a id="pathways"></a>
 
-## 科研实习与“曲线入口”（4）
+## 科研实习与“曲线入口”（5）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [CIFRE（法国企业联合培养博士）说明](https://static.psl.eu/sites/default/files/2026-07/Webinaire%20CIFRE%20COFRA%2007.04.26.pdf)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 滚动<br><sub>🔄 随时可申</sub><br><sub>全年可提交，需先找到企业与实验室课题，由企业向 ANRT 提交</sub> | ❔ | **要求：** 需硕士或同等学历及首次研究经验；通用规则未见国籍限制，需以 ANRT 为准；非欧盟国籍者需已取得在法国工作的许可（据巴黎市 2026 CIFRE 通告）。<br>法国 ANRT 管理的 CIFRE（企业联合培养博士）：由 ANRT 批准财政资助（PSL 2026 年 4 月网络研讨会资料）；页面未载明国籍条件与申请期。 |
+| [PSL PhD Tracks（五年制硕士转博士通道）](https://psl.eu/formation/choisir-sa-formation/psl-phd-tracks)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-12-14**<br><sub>🟢 开放申请</sub><br><sub>2027 年 9 月入学批次申请 2026 年 10 月 14 日至 12 月 14 日（CET 23:59），仅限在 PSL 门户提交；仅开放化学、生命科学、天体物理、计算机科学四个 track。</sub> | ❔ | **要求：** 只能从硕士一年级申请；材料须为英文；需面试<br>五年制通道：前两年为硕士阶段（官方所述每年约 1 万欧元资助），之后转为法国博士合同（有薪）；只能从硕士一年级申请，材料须为英文并需面试。2026/27 年度申请已于 2025 年 12 月 11 日截止，2027 年度批次以 PSL 官网为准。 |
 | [巴黎市 CIFRE 博士岗位征集（市政府作为雇主）](https://www.paris.fr/actualites/cifre-un-dispositif-d-accueil-de-doctorants-a-paris-candidatez-en-ligne-4222)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-02-27**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮征集 2 月 27 日截止已过，每年征集一次；2027 轮以巴黎市官网为准</sub> | ❔ | **要求：** 入职前需已取得硕士学位；在读或已有博士学位者不符合；各学科均可<br>巴黎市政府与 ANRT 合作，以 CIFRE 形式雇用博士生，每年征集一次，3 年固定期限合同。国际申请人的法国工作许可要求未确认。 |
 | [格勒诺布尔阿尔卑斯大学 EDSTEP 博士经费类型说明（合同博士 / CIFRE）](https://edstep.univ-grenoble-alpes.fr/apply/financing-your-phd/)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | — | ❔ | 页面列出 UGA/USMB 每年分配的两类合同博士（竞争性合同与 IDEX 定向合同）及 CIFRE（企业雇用 3 年）。页面未给出 CIFRE 金额与选拔月份；页面写 CIFRE 最低月薪为 €1,957 毛薪（2007 年 9 月起的数字，页面更新于 2024 年 2 月）。 |
 | [里昂大学 ED205 EDISS 申请博士的导师承诺信说明](https://ediss.universite-lyon.fr/navigation/how-to-apply-for-a-phd-/obtaining-a-commitment-letter-/)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>随申请者与导师的沟通进度而定，没有统一截止日期。</sub> | ❔ | **要求：** 以 EDISS 申请指南为准。<br>页面说明 EDISS 申请博士时如何取得导师承诺信，并列出常规博士合同、定向合同、CDSN、FRM 及中法联合博士项目（CSC）等资助渠道的申请方式。 |

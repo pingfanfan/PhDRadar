@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 生态/进化 信源（136）
+# 生态/进化 信源（138）
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 13](eco.md#aggregators) · [各国学术招聘门户与机构职位页 1](eco.md#national-portals) · [政府与国家级奖学金 1](eco.md#gov-scholarships) · [高校旗舰奖学金与资助检索 27](eco.md#university-schemes) · [结构化博士项目与研究机构 50](eco.md#doctoral-programs) · [博士后奖学金与项目 10](eco.md#postdoc-fellowships) · [企业与基金会 Fellowship 7](eco.md#fellowships) · [学科专属信源 17](eco.md#discipline) · [个人信源与社交渠道 6](eco.md#people-channels) · [导师招生帖（社交平台个人发布） 3](eco.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 1](eco.md#faculty-aggregators)
+**按分类跳转：** [综合聚合平台 13](eco.md#aggregators) · [各国学术招聘门户与机构职位页 1](eco.md#national-portals) · [政府与国家级奖学金 1](eco.md#gov-scholarships) · [高校旗舰奖学金与资助检索 28](eco.md#university-schemes) · [结构化博士项目与研究机构 51](eco.md#doctoral-programs) · [博士后奖学金与项目 10](eco.md#postdoc-fellowships) · [企业与基金会 Fellowship 7](eco.md#fellowships) · [学科专属信源 17](eco.md#discipline) · [个人信源与社交渠道 6](eco.md#people-channels) · [导师招生帖（社交平台个人发布） 3](eco.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 1](eco.md#faculty-aggregators)
 
 <a id="aggregators"></a>
 
@@ -48,7 +48,7 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（27）
+## 高校旗舰奖学金与资助检索（28）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -73,6 +73,7 @@
 | [埃克塞特大学释放野鸡对低地生态系统影响博士 studentship（BASC 资助）](https://www.jobs.ac.uk/job/DTE203/phd-studentship-the-effects-of-released-gamebirds-on-the-lowland-ecosystems-of-s-england-phd-industry-funded)<br><sub>英国 ｜ 生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>£21,805/年（免税，至少）+ 英国学费</sub> | **2026-10-23**<br><sub>🟢 开放申请</sub><br><sub>2027 年 1 月入学，截止 2026-10-23；国际生需自付学费差额</sub> | 🟡 | **要求：** 国际生需自付英国学费与海外学费差额；有英国生态学、自然史或野外经验者优先<br>2027 年 1 月入学，资助覆盖英国学费及约 £21,805/年津贴（3.5 年）；国际生需自付学费差额；截止 2026-10-23。 |
 | [埃塞克斯大学 Leverhulme 可持续转型博士中心奖学金](https://www.essex.ac.uk/-/media/documents/directories/fees-and-funding/pgr-terms/sustainable-transitions---leverhulme-doctoral-centre-phd-scholarship-26-27.pdf)<br><sub>英国 ｜ 生态/进化·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-04-13**<br><sub>⏸ 本轮已截止</sub><br><sub>2026-27 轮截止未核实，以当年条款为准</sub> | 🟡 | **要求：** 需全日制在埃塞克斯就读；国际生名额受限，官方文件中数字前后不一，需向校方确认<br>资助覆盖学费减免（含国际生）、生活补助和研究经费，最长四年。国际生名额受限，需阅读 2026-27 条款并联系学院确认。 |
 | [帝国理工格兰瑟姆研究所博士奖学金入口](https://www.imperial.ac.uk/grantham/education/postgraduate-research/grantham-phd-opportunities/)<br><sub>英国 ｜ 地球/环境/海洋·生态/进化·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>£23,805/年（2026/27，伦敦加权）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各项目截止与轮次不同，以官网公告为准；官网 2026 年入学页称国际生需自行补足学费差额</sub> | 🟡 | **要求：** 资助仅覆盖英国本地学费水平，国际生需自行补足学费差额<br>气候与环境相关博士资助入口；国际生须自筹学费差额，各项目轮次不同。 |
+| [昆士兰大学研究生奖学金（UQGSS/RTP，含农业科学）](https://scholarships.uq.edu.au/phd-mphil-students)<br><sub>澳大利亚 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ✅ | UQ 官网称 UQGRSS 面向本国与国际学生，资助学费、免税生活津贴 $39.2K/年（2026 标准）并含单人 OSHC；国际生需先获生活津贴奖学金才有资格获学费奖学金。 |
 | [杜伦大学 Global Grand Challenges 博士奖学金](https://dur.ac.uk/study/scholarships/postgraduate/global-grand-challenges-studentships-/)<br><sub>英国 ｜ 生态/进化·地球/环境/海洋·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-02-06**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 10 月入学轮截止 2026-02-06，已结束；2027 轮未见公告</sub> | ❔ | **要求：** 面向可按家庭或海外学费身份申请者；海外名额有限。<br>资助含全额学费、免税生活费和研究经费，聚焦气候相关课题。 |
 | [森肯贝格自然博物馆（法兰克福）招聘页](https://museumfrankfurt.senckenberg.de/en/stellenanzeigen/)<br><sub>德国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位单独设截止；所见岗位截止均已过，需定期刷新</sub> | ❔ | 德国森肯贝格自然博物馆（法兰克福）招聘页，常见带薪博士（部分时间）或博后合同，多为 3–4 年；需定期刷新查看新岗位。非欧盟国籍的居留许可须另行核实。 |
 | [罗汉普顿大学 Leverhulme 博士奖学金（含国际名额）](https://roehampton.ac.uk/connected-waters/how-to-apply)<br><sub>英国 ｜ 人文/语言·社会科学/心理·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>Connected Waters 轮 2026 年截止 2 月 25 日已过；2027 轮未确认</sub> | ⛔ | **要求：** Connected Waters 轮有 3 个面向国际申请者的名额（名额有限，资格以官网为准）。<br>Leverhulme 博士奖学金由大学分配，需向罗汉普顿申请；Connected Waters 轮（截止 2025-02-06，已过）约 18 个全日制博士奖学金，其中 3 个面向国际申请者。2027 轮未确认。 |
@@ -82,7 +83,7 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（50）
+## 结构化博士项目与研究机构（51）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -128,6 +129,7 @@
 | [康奈尔大学生态与进化生物学系博士生资助政策](https://ecologyandevolution.cornell.edu/funding-and-program-requirements)<br><sub>美国 ｜ 生态/进化·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各年入学轮次截止以系所招生页为准。</sub> | ❔ | **要求：** 国际生要求见系所招生页；资助说明未单独写明国籍限制。<br>页面称系里保障五年支持（学费、津贴、医保）。页面津贴数字为 2021–2022 年标准（9 个月 $28,654，暑期不少于 $6,233），未标注为当前数字。同系研究生页称六年，口径不一。 |
 | [康奈尔大学生态与进化生物学（EEB）博士项目](https://ecologyandevolution.cornell.edu/graduate)<br><sub>美国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>9 个月 $33,930（2024–2025 标准），另加暑期支持</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>截止按年度发布，请查项目页</sub> | ❔ | 页面称新入学博士生获六年资助（学费、津贴、医保，含暑期支持）；2024–2025 标准为 9 个月津贴 $33,930 加暑期支持。国际生是否同等适用，页面未写明。 |
 | [德州大学埃尔帕索分校（UTEP）EEB 博士项目（带薪 RA 与学费减免）](https://www.utep.edu/science/eeb/Academic%20Programs/phd.html)<br><sub>美国 ｜ 生态/进化·生物/生命科学</sub> | 博士 | 半奖/部分<br><sub>约 $26,000–$30,000/年（第三方公告，Fall 2027 森林生态岗位）</sub> | **2027-01-31**<br><sub>🟢 开放申请</sub><br><sub>UTEP 官网称多个 RA 岗位并提供学费减免，未列截止与津贴；需先邮件联系导师</sub> | ❔ | UTEP EEB 官网称提供多个带 RA 岗位，合格申请者可获学费减免（比例与津贴官网未列出）；需先邮件联系导师。 |
+| [普利茅斯 Marine Research Plymouth 博士奖学金](https://plymouth.ac.uk/research/institutes/marine-institute/funding-support-development-and-recognition/marine-research-plymouth-phd-studentship)<br><sub>英国 ｜ 生物/生命科学·地球/环境/海洋·生态/进化·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | 未公布<br><sub>名额视资源情况提供，以当年 Marine Research Plymouth 广告为准</sub> | 🟡 | 普利茅斯海洋研究所每年的全额奖学金（3.5 年），按本地学费标准发放，国际生需自付学费差额。 |
 | [汉堡气候园区 CLICCS 卓越集群招聘页](https://www.cliccs.uni-hamburg.de/en/career/jobs.html)<br><sub>德国 ｜ 地球/环境/海洋·生态/进化·工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止不同，已见岗位多已截止</sub> | ❔ | 官网称 2026 年计划招 28 个博士岗与 28 个博后岗，岗位陆续发布。首个公告为 CLICCS 项目研究助理，申请截止 2026 年 10 月 15 日。 |
 | [瓦赫宁根大学与中国农业大学 AGD 联合博士项目](https://www.wur.nl/en/education/phd-programme/agd-phd-programme)<br><sub>荷兰·中国内地 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>CSC 生活津贴约 €2,000/月（居留期间）+ 往返机票；另有 €1,000/月 实验台费（项目安排）</sub> | **2026-06-28**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮提交截止 2026-06-28（已过）</sub> | ✅ | **要求：** 中国国籍、年龄 35 岁以下、持指定四所中国高校硕士学位；2026 轮为 1+3 年（CAU 一年 + WUR 三年）；每年约 6 月征集，以 AGD-CSC 办公室通知为准<br>国家留学基金委资助的中荷联合培养项目，面向中国国籍、35 岁以下、持指定四所中国高校硕士学位者；每年约 6 月征集。 |
 | [英国国家海洋中心（NOC）学生机会入口](https://www.noc.ac.uk/work-with-us/student-hub/current-opportunities)<br><sub>英国 ｜ 地球/环境/海洋·生物/生命科学·生态/进化·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各博士项目截止日不同；GSNOCS 国际奖学金名额有限，需看其当期项目</sub> | ❔ | **要求：** 非英国/欧盟申请者需高资质，国际奖学金名额有限，以 GSNOCS 项目页为准<br>NOC 学生机会页本身不列具体岗位，博士项目经 GSNOCS 等培训伙伴发布，可在 Find a PhD 检索。GSNOCS 对非英国/欧盟的高资质申请者设有少量国际奖学金，用于帮助支付学费。 |

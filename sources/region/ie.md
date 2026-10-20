@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 爱尔兰（IE） 信源（26）
+# 爱尔兰（IE） 信源（25）
 
-所有标注了地区 IE 的信源，共 26 条。
+所有标注了地区 IE 的信源，共 25 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [政府与国家级奖学金 2](ie.md#gov-scholarships) · [高校旗舰奖学金与资助检索 14](ie.md#university-schemes) · [结构化博士项目与研究机构 1](ie.md#doctoral-programs) · [博士后奖学金与项目 3](ie.md#postdoc-fellowships) · [企业与基金会 Fellowship 4](ie.md#fellowships) · [个人信源与社交渠道 1](ie.md#people-channels) · [导师招生帖（社交平台个人发布） 1](ie.md#recruiting-posts)
+**按分类跳转：** [政府与国家级奖学金 2](ie.md#gov-scholarships) · [高校旗舰奖学金与资助检索 13](ie.md#university-schemes) · [结构化博士项目与研究机构 1](ie.md#doctoral-programs) · [博士后奖学金与项目 3](ie.md#postdoc-fellowships) · [企业与基金会 Fellowship 4](ie.md#fellowships) · [个人信源与社交渠道 1](ie.md#people-channels) · [导师招生帖（社交平台个人发布） 1](ie.md#recruiting-posts)
 
 <a id="gov-scholarships"></a>
 
@@ -21,7 +21,7 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（14）
+## 高校旗舰奖学金与资助检索（13）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -33,7 +33,6 @@
 | [都柏林圣三一学院 CSC 联合奖学金](https://tcd.ie/study/international/scholarships/postgraduate/csc)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 轮已结束（官网称 2026 年 3 月公布学院入围结果，之后由导师代为向 CSC 申请）；2027/28 轮待公告</sub> | ✅ | **要求：** 须已获 TCD 无条件录取，且尚未持有博士学位；须为中国大陆公民或永居者（不含港澳台）<br>TCD 免学费；CSC 提供生活费和机票（页面未提及保险）。资助仅限中国大陆公民或永居者（不含港澳台），页面未列出名额数量，先由学院筛选。 |
 | [都柏林圣三一学院 TRDA 院系博士奖学金](https://tcd.ie/graduatestudies/awards/trda-school-based)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€25,000/年（津贴）+ 学费减免，共四年</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面未给出申请截止日期；2026-27 名额已分配给各院系，需直接联系拟申请院系，院系通常于入学前六月底前决定分配。</sub> | ✅ | **要求：** 欧盟与非欧盟新入学全日制研究博士均可申请；名额每院系每年一个，由院系决定分配，非保证获得<br>每院系每年一个 TRDA，津贴 €25,000/年加学费减免，共四年；名额由院系决定分配，非保证获得。页面未列明截止日期。 |
 | [都柏林圣三一学院法学院博士研究奖](https://www.tcd.ie/law/programmes/postgraduate/research-programmes/scholarship-opportunities/)<br><sub>爱尔兰 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€25,000/年</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面针对 2026 年 9 月入学的新生；2027 年入学批次的截止日期待公布。</sub> | ✅ | **要求：** 全日制新入学博士生，欧盟与非欧盟学生均可获得学费全免及年津贴。<br>法学院两项博士奖（TRDA 及法学院博士研究奖）每项四年，年津贴 €25,000 并免全部学费，欧盟与非欧盟学生均可申请。页面所列 2026 年 9 月入学批次的个人陈述截止日为 2026 年 5 月 15 日，2027 年批次页面未公布。 |
-| [都柏林圣三一学院社会科学与哲学学院（博士）](https://www.tcd.ie/courses/postgraduate/postgraduate-research/arts-humanities-and-social-sciences/school-of-social-sciences-and-philosophy/)<br><sub>爱尔兰 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>2027 轮需以 TCD 官网公告为准</sub> | 🟡 | **要求：** 需先申请并获 TCD 博士入学；奖学金多为竞争性且指定项目或导师，并非全部名额开放<br>需先申请 TCD 博士入学。Ussher、Grattan 等奖学金覆盖学费并提供生活费，但竞争性强，多与项目或导师相关，并非全部名额开放。2027 轮以 TCD 官网为准。 |
 | [都柏林圣三一学院语言、传播与社会科学学院博士奖学金与资助](https://www.tcd.ie/slscs/postgraduate/scholarships-and-funding/)<br><sub>爱尔兰 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>TRDA €25,000/年 + 学费减免（2026-27）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>2026–27 TRDA 学院名额的截止已过；2027–28 轮次未公布，以 TCD 官网为准。各奖学金截止不同，需进入项目页核实。</sub> | ✅ | **要求：** TRDA 面向新入学全日制博士；CSC–TCD 联合项目面向中国博士生，提供学费减免与生活补助（以官网为准）<br>学院层面的博士奖学金入口页，适合语言学、传播学与社会学方向的申请者作为起点。 |
 | [都柏林圣三一学院语言文学与文化学院博士奖学金汇总](https://www.tcd.ie/langs-lits-cultures/programmes/postgraduate/funding-and-scholarships/)<br><sub>爱尔兰 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各奖学金截止日期不同，需逐项到对应项目页核实。</sub> | ❔ | **要求：** 国际生资格因奖学金而异，申请前确认是否向非欧盟学生开放。<br>语言文学与文化学院的奖学金入口页，列出学校、学院与项目层面的博士资助。 |
 | [都柏林城市大学人文社科博士奖学金页](https://www.dcu.ie/humanities-and-social-sciences/phd-scholarships)<br><sub>爱尔兰 ｜ 人文/语言·社会科学/心理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面列出 2026 年各学院博士奖学金入口；其中 EPA 资助的博士项目标注截止日期为 2025 年 6 月 30 日（已过）。具体轮次以各学院页面为准。</sub> | ❔ | 奖学金列表页，具体轮次与国际生资格以官网为准。 |

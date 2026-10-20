@@ -2,23 +2,24 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 西班牙（ES） 信源（70）
+# 西班牙（ES） 信源（71）
 
-所有标注了地区 ES 的信源，共 70 条。
+所有标注了地区 ES 的信源，共 71 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 4](es.md#aggregators) · [各国学术招聘门户与机构职位页 2](es.md#national-portals) · [政府与国家级奖学金 2](es.md#gov-scholarships) · [高校旗舰奖学金与资助检索 19](es.md#university-schemes) · [结构化博士项目与研究机构 21](es.md#doctoral-programs) · [博士后奖学金与项目 7](es.md#postdoc-fellowships) · [企业与基金会 Fellowship 7](es.md#fellowships) · [学科专属信源 4](es.md#discipline) · [科研实习与“曲线入口” 1](es.md#pathways) · [个人信源与社交渠道 2](es.md#people-channels) · [导师招生帖（社交平台个人发布） 1](es.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 5](es.md#aggregators) · [各国学术招聘门户与机构职位页 2](es.md#national-portals) · [政府与国家级奖学金 2](es.md#gov-scholarships) · [高校旗舰奖学金与资助检索 19](es.md#university-schemes) · [结构化博士项目与研究机构 21](es.md#doctoral-programs) · [博士后奖学金与项目 7](es.md#postdoc-fellowships) · [企业与基金会 Fellowship 7](es.md#fellowships) · [学科专属信源 4](es.md#discipline) · [科研实习与“曲线入口” 1](es.md#pathways) · [个人信源与社交渠道 2](es.md#people-channels) · [导师招生帖（社交平台个人发布） 1](es.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
-## 综合聚合平台（4）
+## 综合聚合平台（5）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [CINBIO（西班牙维戈）· 职位汇总](https://cinbio.es/en/job-opportunities/?est=1)<br><sub>西班牙 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 滚动<br><sub>📋 持续更新</sub><br><sub>综合岗位板块：TALENTGAL 2026 招募 5 月 20 日至 7 月 23 日（已截止）；MSCA PF 2026 意向书 6 月 30 日（已截止）；以板块当期岗位为准</sub> | ❔ | **要求：** 博士岗位通常需硕士或博士学位，博后需博士学位；需确认居留与工作许可<br>西班牙 CINBIO 研究中心的岗位列表，含博士与博后的 2026 年招聘。西班牙岗位多为有薪合同，中国籍需确认居留要求，建议直接联系对应课题组。 |
 | [CiTIUS 兴趣表达与职位存档](https://citius.gal/en/talent/job-offers/expressions-of-interest/archive/)<br><sub>西班牙 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 各征集单独公布，需进入具体征集页查看条件。<br>归档页按年份列出 CiTIUS 的兴趣表达（2026 年含 TALENTGAL 博后资助征集，发布于 2026 年 5 月 22 日；MSCA 博后候选人征集发布于 2026 年 3 月 16 日）。页面未显示截止日期，需进入各征集页核对。 |
 | [巴塞罗那自治大学（UAB）数字人文组 · 招募与资助征集页](https://www.uab.cat/en/digital-humanities/adds-calls)<br><sub>西班牙 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各征集截止日不同，以具体征集公告为准</sub> | ❔ | **要求：** 需逐条核对语言、学位与签证要求<br>数字人文研究组招募与征集汇总页,集中发布博士、博后及项目岗位。需进入具体征集看是否带薪,核对语言与签证要求。 |
+| [萨拉曼卡大学研究办公室公告汇总（Convocatorias）](https://investigacion.usal.es/en/aggregator/sources/2?page=2)<br><sub>西班牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 学校官方的研究资助与预博士公告列表，可用于跟踪 FPU 2026 等国家计划的校内流程。外国申请人资格以各公告正文为准。 |
 | [西班牙皇家化学学会（RSEQ）招聘板（RSS）](https://rseq.org/ofertas-de-empleo/?feed=rss2)<br><sub>西班牙 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | 西班牙皇家化学学会（RSEQ）官方招聘板，页面称只发布已有资金支持的岗位。页面标注发布于 2026-09-10，列有截止日在 2026 年 11 月前后的博士岗位（如 Lancaster 大学 CASE 博士，截止 30/11/2026），部分岗位截止日已过，需逐条核对。 |
 
 <a id="national-portals"></a>

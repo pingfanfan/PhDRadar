@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 学科专属信源（142）
+# 学科专属信源（143）
 
 按学科划分的邮件列表、职位板，往往比综合平台更早、更全。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [全球（GLOBAL） 35](discipline.md#r-global) · [美国（US） 34](discipline.md#r-us) · [英国（UK） 22](discipline.md#r-uk) · [德国（DE） 13](discipline.md#r-de) · [欧盟/欧洲（EU） 7](discipline.md#r-eu) · [荷兰（NL） 5](discipline.md#r-nl) · [瑞典（SE） 5](discipline.md#r-se) · [加拿大（CA） 4](discipline.md#r-ca) · [西班牙（ES） 4](discipline.md#r-es) · [奥地利（AT） 2](discipline.md#r-at) · [瑞士（CH） 2](discipline.md#r-ch) · [中国香港（HK） 2](discipline.md#r-hk) · [新加坡（SG） 2](discipline.md#r-sg) · [澳大利亚（AU） 1](discipline.md#r-au) · [比利时（BE） 1](discipline.md#r-be) · [丹麦（DK） 1](discipline.md#r-dk) · [法国（FR） 1](discipline.md#r-fr) · [土耳其（TR） 1](discipline.md#r-tr)
+**按地区跳转：** [全球（GLOBAL） 35](discipline.md#r-global) · [美国（US） 34](discipline.md#r-us) · [英国（UK） 23](discipline.md#r-uk) · [德国（DE） 13](discipline.md#r-de) · [欧盟/欧洲（EU） 7](discipline.md#r-eu) · [荷兰（NL） 5](discipline.md#r-nl) · [瑞典（SE） 5](discipline.md#r-se) · [加拿大（CA） 4](discipline.md#r-ca) · [西班牙（ES） 4](discipline.md#r-es) · [奥地利（AT） 2](discipline.md#r-at) · [瑞士（CH） 2](discipline.md#r-ch) · [中国香港（HK） 2](discipline.md#r-hk) · [新加坡（SG） 2](discipline.md#r-sg) · [澳大利亚（AU） 1](discipline.md#r-au) · [比利时（BE） 1](discipline.md#r-be) · [丹麦（DK） 1](discipline.md#r-dk) · [法国（FR） 1](discipline.md#r-fr) · [土耳其（TR） 1](discipline.md#r-tr)
 
 <a id="r-global"></a>
 
@@ -95,7 +95,7 @@
 
 <a id="r-uk"></a>
 
-## 英国（UK）（22）
+## 英国（UK）（23）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -118,6 +118,7 @@
 | [牛津数论博士/博后/初级研究员汇总公告列表](https://lists.maths.ox.ac.uk/mailman/listinfo/number-theory-junior-announce)<br><sub>英国 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 汇总牛津多个数论子列表，可同时看到 DPhil、PDRA 与初级研究员岗位；归档仅成员可见。 |
 | [牛津随机分析组博后公告列表（sa-postdoc-announce）](https://lists.maths.ox.ac.uk/mailman/listinfo/sa-postdoc-announce)<br><sub>英国 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 随机分析组博后职位公告邮件列表；归档仅成员可见，需订阅后才能看到。 |
 | [皇家霍洛威经济学 SEDarc 奖学金](https://www.royalholloway.ac.uk/research-and-education/subjects/economics/studying-here/postgraduate-research-phds/sedarc-economics)<br><sub>英国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£21,237/年（官网所列 2024/25 费率），3.5 年</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 SEDarc 校内截止 2026-01-15 已关闭；2027 轮以官网为准</sub> | ✅ | SEDarc 经济学博士奖学金（3.5 年），官网称资助包含生活津贴以及英国和国际学生的学费；竞争性名额。申请需先申请 RHUL 经济学博士项目，研究计划经内部评审并匹配导师后再准备 SEDarc 资助申请。 |
+| [皮尔布赖特研究所博士岗位与学生资助](https://pirbright.ac.uk/careers-and-learning/education-programme/postgraduate-studentships)<br><sub>英国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>各博士岗位单独公告截止</sub> | 🟡 | **要求：** 国际生需证明可支付海外学费与本国学费的差额，或获得其他奖学金；以各岗位公告为准<br>英国动物病毒与疫苗研究所博士岗位，UKRI/BBSRC 资助的名额按本国学费费率提供；国际生可申请，但需自筹学费差额或获得其他奖学金。2027 年轮次待公告。 |
 | [英国 Economics Network 经济学职位板](https://economicsnetwork.ac.uk/jobs)<br><sub>英国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 列出英国及国际经济学研究与教学岗位，适合查博后，按截止日期过滤并核实工作签证要求。 |
 | [萨塞克斯大学发展研究所（IDS）博士项目](https://www.sussex.ac.uk/study/phd/degrees/development-studies-ids-phd)<br><sub>英国 ｜ 社会科学/心理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>2027 年入学 SEDarc 截止日期未查到，以 Sussex 官网为准</sub> | ❔ | 萨塞克斯大学 IDS 发展研究博士项目，海外全日制学费 2025/26 为 £22,575/年（IDS 页面）。ESRC SEDarc 2027 年 9 月入学奖学金截止日期待官方公布。中国大陆学生资格待核实。 |
 | [诺森比亚大学太阳与空间物理全奖博士机会](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/solar-and-space-physics/fully-funded-phd-opportunities/)<br><sub>英国 ｜ 物理/天文·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£20,780/年（2025/26 参考值）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 6 月 1 日截止（已过），2027 轮待公告</sub> | ✅ | STFC 资助的太阳与空间物理全奖博士名额，含学费与生活津贴（2025/26 年 £20,780/年）。2026 轮 6 月 1 日已截止；国际生学费差额需按校方规定确认，关注官网下一轮公告。 |

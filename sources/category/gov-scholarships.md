@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 政府与国家级奖学金（118）
+# 政府与国家级奖学金（119）
 
 中国政府（CSC）及各留学目的地政府提供的博士奖学金。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [法国（FR） 14](gov-scholarships.md#r-fr) · [日本（JP） 14](gov-scholarships.md#r-jp) · [英国（UK） 11](gov-scholarships.md#r-uk) · [加拿大（CA） 10](gov-scholarships.md#r-ca) · [德国（DE） 9](gov-scholarships.md#r-de) · [美国（US） 6](gov-scholarships.md#r-us) · [澳大利亚（AU） 5](gov-scholarships.md#r-au) · [波兰（PL） 4](gov-scholarships.md#r-pl) · [新加坡（SG） 3](gov-scholarships.md#r-sg) · [土耳其（TR） 3](gov-scholarships.md#r-tr) · [阿根廷（AR） 2](gov-scholarships.md#r-ar) · [瑞士（CH） 2](gov-scholarships.md#r-ch) · [智利（CL） 2](gov-scholarships.md#r-cl) · [爱沙尼亚（EE） 2](gov-scholarships.md#r-ee) · [西班牙（ES） 2](gov-scholarships.md#r-es) · [全球（GLOBAL） 2](gov-scholarships.md#r-global) · [中国香港（HK） 2](gov-scholarships.md#r-hk) · [匈牙利（HU） 2](gov-scholarships.md#r-hu) · [爱尔兰（IE） 2](gov-scholarships.md#r-ie) · [韩国（KR） 2](gov-scholarships.md#r-kr) · [葡萄牙（PT） 2](gov-scholarships.md#r-pt) · [斯洛伐克（SK） 2](gov-scholarships.md#r-sk) · [奥地利（AT） 1](gov-scholarships.md#r-at) · [AZ 1](gov-scholarships.md#r-az) · [比利时（BE） 1](gov-scholarships.md#r-be) · [以色列（IL） 1](gov-scholarships.md#r-il) · [印度（IN） 1](gov-scholarships.md#r-in) · [冰岛（IS） 1](gov-scholarships.md#r-is) · [意大利（IT） 1](gov-scholarships.md#r-it) · [墨西哥（MX） 1](gov-scholarships.md#r-mx) · [马来西亚（MY） 1](gov-scholarships.md#r-my) · [荷兰（NL） 1](gov-scholarships.md#r-nl) · [挪威（NO） 1](gov-scholarships.md#r-no) · [塞尔维亚（RS） 1](gov-scholarships.md#r-rs) · [瑞典（SE） 1](gov-scholarships.md#r-se) · [中国台湾（TW） 1](gov-scholarships.md#r-tw) · [UY 1](gov-scholarships.md#r-uy)
+**按地区跳转：** [法国（FR） 14](gov-scholarships.md#r-fr) · [日本（JP） 14](gov-scholarships.md#r-jp) · [英国（UK） 11](gov-scholarships.md#r-uk) · [加拿大（CA） 10](gov-scholarships.md#r-ca) · [德国（DE） 9](gov-scholarships.md#r-de) · [美国（US） 6](gov-scholarships.md#r-us) · [澳大利亚（AU） 5](gov-scholarships.md#r-au) · [波兰（PL） 5](gov-scholarships.md#r-pl) · [新加坡（SG） 3](gov-scholarships.md#r-sg) · [土耳其（TR） 3](gov-scholarships.md#r-tr) · [阿根廷（AR） 2](gov-scholarships.md#r-ar) · [瑞士（CH） 2](gov-scholarships.md#r-ch) · [智利（CL） 2](gov-scholarships.md#r-cl) · [爱沙尼亚（EE） 2](gov-scholarships.md#r-ee) · [西班牙（ES） 2](gov-scholarships.md#r-es) · [全球（GLOBAL） 2](gov-scholarships.md#r-global) · [中国香港（HK） 2](gov-scholarships.md#r-hk) · [匈牙利（HU） 2](gov-scholarships.md#r-hu) · [爱尔兰（IE） 2](gov-scholarships.md#r-ie) · [韩国（KR） 2](gov-scholarships.md#r-kr) · [葡萄牙（PT） 2](gov-scholarships.md#r-pt) · [斯洛伐克（SK） 2](gov-scholarships.md#r-sk) · [奥地利（AT） 1](gov-scholarships.md#r-at) · [AZ 1](gov-scholarships.md#r-az) · [比利时（BE） 1](gov-scholarships.md#r-be) · [以色列（IL） 1](gov-scholarships.md#r-il) · [印度（IN） 1](gov-scholarships.md#r-in) · [冰岛（IS） 1](gov-scholarships.md#r-is) · [意大利（IT） 1](gov-scholarships.md#r-it) · [墨西哥（MX） 1](gov-scholarships.md#r-mx) · [马来西亚（MY） 1](gov-scholarships.md#r-my) · [荷兰（NL） 1](gov-scholarships.md#r-nl) · [挪威（NO） 1](gov-scholarships.md#r-no) · [塞尔维亚（RS） 1](gov-scholarships.md#r-rs) · [瑞典（SE） 1](gov-scholarships.md#r-se) · [中国台湾（TW） 1](gov-scholarships.md#r-tw) · [UY 1](gov-scholarships.md#r-uy)
 
 <a id="r-fr"></a>
 
@@ -130,13 +130,14 @@
 
 <a id="r-pl"></a>
 
-## 波兰（PL）（4）
+## 波兰（PL）（5）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Bekker NAWA 项目（波兰国家学术交流署，博士生与青年学者）](https://nawa.gov.pl/en/nawa/news/call-for-applications-for-the-bekker-nawa-programme-now-open)<br><sub>波兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | **2026-05-29**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年一轮申请截止为 2026-05-29 15:00（波兰时间）；页面未说明下一轮时间，需以 NAWA 公告为准。</sub> | ❔ | **要求：** 页面称面向波兰科学与学术机构的研究人员，博士生可通过在合作单位完成部分博士教育或收集研究材料参与；申请须全部用英文撰写，经 NAWA ICT 系统提交。<br>NAWA（波兰国家学术交流署）Bekker 项目本轮征集，资助赴合作单位开展研究，项目开始时间为 2027 年 3 月 1 日至 10 月 1 日之间；申请已于 2026-05-29 截止。 |
 | [NAWA Zawacka 项目（博士生赴波兰，合作院校推荐）](https://nawa.gov.pl/en/international-cooperation-and-exchange/zawacka-nawa/incoming)<br><sub>波兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 未公布<br><sub>🟢 开放申请</sub><br><sub>2026/27 批次公告编号 11/2026，发布于 2026-03-10；须经双边协议下的合作院校推荐，具体截止以合作院校与公告为准，当前是否仍开放未核实。</sub> | ❔ | **要求：** 须由与波兰有双边协议的合作院校推荐，不直接向 NAWA 投递；公告附录列出合作国家与院校。<br>资助最长 12 个月。中国学生需先确认所在机构是否在名单内。 |
 | [NAWA Zawacka 项目（外国学生与博士生来波兰，2026/27 入境公告）](https://www.nawa.gov.pl/images/ZAWACKA-NAWA/2026/ENG_Zawacka-NAWA-Announcement---Incoming-Offer-for-2026-2027-No.-11_2026-dated-March-10-2026.pdf)<br><sub>波兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 未公布<br><sub>📋 持续更新</sub><br><sub>2026/27 入境公告 No. 11/2026（2026-03-10 发布）；截止日期以公告附录为准。</sub> | ❔ | **要求：** 据公告经双边协议框架下的合作院校推荐/遴选，不能个人直接申请；学历与语言以公告为准<br>可申请博士学院学习或博士生科研访问；资助形式与金额见公告。申请前先确认国内合作院校名额。 |
+| [波兰 Doktorat wdrożeniowy 2026 产业博士计划（MNiSW）](https://www.gov.pl/attachment/9254200b-1fca-4c39-b2d1-f7e35b8685c3)<br><sub>波兰 ｜ 全学科·人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年主要征集 6 月 12 日已截止；部分大学有 2026/27 补充招生（如波兹南工业大学，需缴不可退的 250 zł 或 60 欧元报名费）</sub> | ❔ | **要求：** 需与合作企业签约，在企业工作的同时于博士学校学习；国际生资格以各校公告为准<br>博士生在合作企业工作并在博士学校学习。2026 主要征集截止 6 月 12 日已过，部分大学可能有补充招生。 |
 | [波兰 NCN PRELUDIUM（未取得博士学位者）](https://ncn.gov.pl/en/ogloszenia/konkursy/preludium25)<br><sub>波兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-06-16**<br><sub>⏸ 本轮已截止</sub><br><sub>PRELUDIUM 25 轮 2026 年 6 月 16 日 14:00 已截止；2027 轮待 ncn.gov.pl 公告</sub> | ❔ | **要求：** 申请时未取得博士学位；外籍申请者资格以 NCN 当期指南为准<br>12–36 个月项目，最高约 21 万兹罗提；2026 轮 6-16 截止，关注 2027 轮，外国申请者资格看 NCN 指南. |
 
 <a id="r-sg"></a>

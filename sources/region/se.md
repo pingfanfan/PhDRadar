@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 瑞典（SE） 信源（64）
+# 瑞典（SE） 信源（65）
 
-所有标注了地区 SE 的信源，共 64 条。
+所有标注了地区 SE 的信源，共 65 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 3](se.md#aggregators) · [各国学术招聘门户与机构职位页 3](se.md#national-portals) · [政府与国家级奖学金 1](se.md#gov-scholarships) · [高校旗舰奖学金与资助检索 13](se.md#university-schemes) · [结构化博士项目与研究机构 27](se.md#doctoral-programs) · [博士后奖学金与项目 5](se.md#postdoc-fellowships) · [企业与基金会 Fellowship 3](se.md#fellowships) · [学科专属信源 5](se.md#discipline) · [科研实习与“曲线入口” 1](se.md#pathways) · [个人信源与社交渠道 1](se.md#people-channels) · [导师招生帖（社交平台个人发布） 1](se.md#recruiting-posts) · [选校与申请辅助工具 1](se.md#tools)
+**按分类跳转：** [综合聚合平台 3](se.md#aggregators) · [各国学术招聘门户与机构职位页 3](se.md#national-portals) · [政府与国家级奖学金 1](se.md#gov-scholarships) · [高校旗舰奖学金与资助检索 13](se.md#university-schemes) · [结构化博士项目与研究机构 28](se.md#doctoral-programs) · [博士后奖学金与项目 5](se.md#postdoc-fellowships) · [企业与基金会 Fellowship 3](se.md#fellowships) · [学科专属信源 5](se.md#discipline) · [科研实习与“曲线入口” 1](se.md#pathways) · [个人信源与社交渠道 1](se.md#people-channels) · [导师招生帖（社交平台个人发布） 1](se.md#recruiting-posts) · [选校与申请辅助工具 1](se.md#tools)
 
 <a id="aggregators"></a>
 
@@ -60,7 +60,7 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（27）
+## 结构化博士项目与研究机构（28）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -71,6 +71,7 @@
 | [KTH 如何申请博士（受雇博士岗位入口说明）](https://kth.se/en/studies/phd/how-to-apply-1.520089)<br><sub>瑞典 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>KTH 博士空缺岗位分批公布，没有统一截止日，以各岗位公告为准。</sub> | ❔ | **要求：** 以各岗位公告为准；通过 KTH 招聘系统申请，博士生为 KTH 雇员并领取月薪。<br>官方页面说明从申请到录用的步骤；岗位通常先签一年合同后续约，全时博士学习总期限上限四年。可在 KTH 招聘页按 PhD 关键词筛选在招岗位。 |
 | [KTH 能源与环境系统博士培养](https://www.energy.kth.se/education/doctoral-studies/phd-studies-in-energy-and-environmental-systems-1.942695)<br><sub>瑞典 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>岗位分九次/年发布，截止日各不相同；博士为受雇员工，领取月薪</sub> | ❔ | **要求：** 需申请 KTH 空缺博士岗位，学历要求以岗位为准。<br>页面为能源技术系博士培养页，列出研究方向（热能存储、燃料电池、生物燃料、热泵等）及博士课程联系方式与表格；页面未列申请条件、薪酬或截止日期。 |
 | [KTH 车辆、海洋与航空航天工程博士项目](https://kth.se/en/sci/forskning/forskarutbildning/doktorsprogrammet-i-farkost-och-flygteknik-1.1304809)<br><sub>瑞典 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>无统一申请期；只能申请 KTH 招聘平台发布的在招岗位</sub> | ❔ | 博士生通常为带薪岗位，只有在 KTH 招聘平台发布的岗位才能申请，需订阅提醒。 |
+| [PRISMAS 同步辐射方法博士项目（MAX IV，瑞典隆德）](https://www.maxiv.lu.se/prismas)<br><sub>瑞典·欧盟/欧洲 ｜ 物理/天文·化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>📋 持续更新</sub><br><sub>首轮招生已公布，2026 年是否有新一轮未能确认，需到项目页查看</sub> | ❔ | Horizon Europe MSCA COFUND 资助的同步辐射方法博士项目，含隆德 MAX IV 必修访学。前两轮已关闭，第三轮据官网 7–8 月开放（约 5 个名额）；本轮是否已截止未能确认，请以 maxiv.lu.se/prismas 为准。MSCA 类项目常有国籍/居留限制，中国学生需逐条核对。 |
 | [乌普萨拉大学 · 进化与生态遗传学博士岗 (UFV-PA 2026/2654)](https://uu.varbi.com/en/what:job/jobID:967249/)<br><sub>瑞典 ｜ 生态/进化·生物/生命科学</sub> | 博士 | 带薪岗位 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>2026 年 11 月 1 日截止，入职时间 2027 年内灵活安排；全职 4 年，按瑞典大学博士工资表聘用，以岗位公告为准。</sub> | ❔ | **要求：** 需硕士学位（进化生物学、生态学、生物信息学或相近专业）；岗位公告未列国籍限制，国际生是否满足需以公告为准。<br>乌普萨拉大学生态与遗传系招聘博士生，课题涉及进化与生态遗传学，偏定量遗传/群体基因组/实验进化。申请需在 uu.varbi.com 提交，材料含 2 页求职信、CV、硕士证书与成绩单、两位推荐人。联系人 David Berger。 |
 | [乌普萨拉大学和平与冲突研究系博士项目](https://www.uu.se/en/department/peace-and-conflict-research/study/phd-programme-in-peace-and-conflict-research)<br><sub>瑞典 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 3 月 25 日截止的一轮已结束；2027 轮未见公告，通常年初发布</sub> | ❔ | 乌普萨拉和平与冲突研究系：博士生是大学雇员，有薪水，项目一般 4 年（含约 1 年课程）。系里每年发布 1–2 轮全额资助岗位。国际申请者资格未在已核实页面明确，需以招聘公告为准。 |
 | [乌普萨拉大学数学系博士岗位（2026 年批次新闻）](https://www.uu.se/en/department/mathematics/news/archive/2026-02-18-four-open-phd-positions)<br><sub>瑞典 ｜ 数学/统计·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年数学系批次 3 月 16 日截止（已过）；下一轮通常 2 月前后公告，2027 年以官网为准</sub> | ❔ | **要求：** 需满足岗位公告的学位与英语要求；录取通过带薪博士生岗位完成<br>乌普萨拉数学系每年约 2 月公布带薪博士岗位。2026 年 3 月截止已过，下一轮关注次年 2 月公告。 |

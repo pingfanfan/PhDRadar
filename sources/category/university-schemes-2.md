@@ -2,19 +2,95 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 高校旗舰奖学金与资助检索（1016） · 第 2/2 页
+# 高校旗舰奖学金与资助检索（1046） · 第 2/3 页
 
 名校层面的全奖项目和校内奖学金检索入口。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [英国（UK） 261](university-schemes.md#r-uk) · [加拿大（CA） 112](university-schemes.md#r-ca) · [美国（US） 80](university-schemes.md#r-us) · [澳大利亚（AU） 68](university-schemes.md#r-au) · [中国香港（HK） 61](university-schemes-2.md#r-hk) · [德国（DE） 57](university-schemes-2.md#r-de) · [日本（JP） 49](university-schemes-2.md#r-jp) · [法国（FR） 34](university-schemes-2.md#r-fr) · [荷兰（NL） 34](university-schemes-2.md#r-nl) · [西班牙（ES） 19](university-schemes-2.md#r-es) · [意大利（IT） 17](university-schemes-2.md#r-it) · [新西兰（NZ） 17](university-schemes-2.md#r-nz) · [比利时（BE） 15](university-schemes-2.md#r-be) · [韩国（KR） 15](university-schemes-2.md#r-kr) · [爱尔兰（IE） 14](university-schemes-2.md#r-ie) · [新加坡（SG） 14](university-schemes-2.md#r-sg) · [中国台湾（TW） 14](university-schemes-2.md#r-tw) · [瑞典（SE） 13](university-schemes-2.md#r-se) · [瑞士（CH） 12](university-schemes-2.md#r-ch) · [丹麦（DK） 10](university-schemes-2.md#r-dk) · [以色列（IL） 10](university-schemes-2.md#r-il) · [波兰（PL） 8](university-schemes-2.md#r-pl) · [阿联酋（AE） 6](university-schemes-2.md#r-ae) · [芬兰（FI） 6](university-schemes-2.md#r-fi) · [挪威（NO） 6](university-schemes-2.md#r-no) · [泰国（TH） 6](university-schemes-2.md#r-th) · [土耳其（TR） 6](university-schemes-2.md#r-tr) · [沙特（SA） 5](university-schemes-2.md#r-sa) · [ID 4](university-schemes-2.md#r-id) · [印度（IN） 4](university-schemes-2.md#r-in) · [中国澳门（MO） 4](university-schemes-2.md#r-mo) · [奥地利（AT） 3](university-schemes-2.md#r-at) · [智利（CL） 3](university-schemes-2.md#r-cl) · [中国内地（CN） 3](university-schemes-2.md#r-cn) · [欧盟/欧洲（EU） 3](university-schemes-2.md#r-eu) · [巴西（BR） 2](university-schemes-2.md#r-br) · [捷克（CZ） 2](university-schemes-2.md#r-cz) · [冰岛（IS） 2](university-schemes-2.md#r-is) · [马来西亚（MY） 2](university-schemes-2.md#r-my) · [卡塔尔（QA） 2](university-schemes-2.md#r-qa) · [爱沙尼亚（EE） 1](university-schemes-2.md#r-ee) · [全球（GLOBAL） 1](university-schemes-2.md#r-global) · [克罗地亚（HR） 1](university-schemes-2.md#r-hr) · [KE 1](university-schemes-2.md#r-ke) · [KW 1](university-schemes-2.md#r-kw) · [立陶宛（LT） 1](university-schemes-2.md#r-lt) · [卢森堡（LU） 1](university-schemes-2.md#r-lu) · [马耳他（MT） 1](university-schemes-2.md#r-mt) · [罗马尼亚（RO） 1](university-schemes-2.md#r-ro) · [俄罗斯（RU） 1](university-schemes-2.md#r-ru) · [斯洛文尼亚（SI） 1](university-schemes-2.md#r-si) · [斯洛伐克（SK） 1](university-schemes-2.md#r-sk) · [VN 1](university-schemes-2.md#r-vn)
+**按地区跳转：** [英国（UK） 265](university-schemes.md#r-uk) · [加拿大（CA） 112](university-schemes.md#r-ca) · [美国（US） 98](university-schemes.md#r-us) · [澳大利亚（AU） 69](university-schemes-2.md#r-au) · [中国香港（HK） 64](university-schemes-2.md#r-hk) · [德国（DE） 58](university-schemes-2.md#r-de) · [日本（JP） 49](university-schemes-2.md#r-jp) · [法国（FR） 35](university-schemes-2.md#r-fr) · [荷兰（NL） 34](university-schemes-2.md#r-nl) · [西班牙（ES） 19](university-schemes-2.md#r-es) · [意大利（IT） 19](university-schemes-2.md#r-it) · [新西兰（NZ） 17](university-schemes-2.md#r-nz) · [韩国（KR） 16](university-schemes-2.md#r-kr) · [比利时（BE） 15](university-schemes-2.md#r-be) · [新加坡（SG） 14](university-schemes-2.md#r-sg) · [中国台湾（TW） 14](university-schemes-2.md#r-tw) · [爱尔兰（IE） 13](university-schemes-2.md#r-ie) · [瑞典（SE） 13](university-schemes-2.md#r-se) · [瑞士（CH） 12](university-schemes-2.md#r-ch) · [丹麦（DK） 10](university-schemes-2.md#r-dk) · [以色列（IL） 10](university-schemes-2.md#r-il) · [波兰（PL） 8](university-schemes-2.md#r-pl) · [阿联酋（AE） 6](university-schemes-2.md#r-ae) · [芬兰（FI） 6](university-schemes-2.md#r-fi) · [挪威（NO） 6](university-schemes-2.md#r-no) · [泰国（TH） 6](university-schemes-2.md#r-th) · [土耳其（TR） 6](university-schemes-2.md#r-tr) · [沙特（SA） 5](university-schemes-2.md#r-sa) · [ID 4](university-schemes-3.md#r-id) · [印度（IN） 4](university-schemes-3.md#r-in) · [中国澳门（MO） 4](university-schemes-3.md#r-mo) · [奥地利（AT） 3](university-schemes-3.md#r-at) · [智利（CL） 3](university-schemes-3.md#r-cl) · [中国内地（CN） 3](university-schemes-3.md#r-cn) · [欧盟/欧洲（EU） 3](university-schemes-3.md#r-eu) · [巴西（BR） 2](university-schemes-3.md#r-br) · [捷克（CZ） 2](university-schemes-3.md#r-cz) · [冰岛（IS） 2](university-schemes-3.md#r-is) · [马来西亚（MY） 2](university-schemes-3.md#r-my) · [卡塔尔（QA） 2](university-schemes-3.md#r-qa) · [爱沙尼亚（EE） 1](university-schemes-3.md#r-ee) · [全球（GLOBAL） 1](university-schemes-3.md#r-global) · [克罗地亚（HR） 1](university-schemes-3.md#r-hr) · [KE 1](university-schemes-3.md#r-ke) · [KW 1](university-schemes-3.md#r-kw) · [立陶宛（LT） 1](university-schemes-3.md#r-lt) · [卢森堡（LU） 1](university-schemes-3.md#r-lu) · [马耳他（MT） 1](university-schemes-3.md#r-mt) · [罗马尼亚（RO） 1](university-schemes-3.md#r-ro) · [俄罗斯（RU） 1](university-schemes-3.md#r-ru) · [斯洛文尼亚（SI） 1](university-schemes-3.md#r-si) · [斯洛伐克（SK） 1](university-schemes-3.md#r-sk) · [VN 1](university-schemes-3.md#r-vn)
 
-**分页：** [第 1 页](university-schemes.md) · [第 2 页](university-schemes-2.md)
+**分页：** [第 1 页](university-schemes.md) · [第 2 页](university-schemes-2.md) · [第 3 页](university-schemes-3.md)
+
+<a id="r-au"></a>
+
+## 澳大利亚（AU）（69）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [AIMS@JCU 海洋科学博士与硕士奖学金（澳大利亚海洋研究所 + 詹姆斯库克大学）](https://aims.jcu.edu.au/phd-scholarships/)<br><sub>澳大利亚 ｜ 生物/生命科学·生态/进化·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>A$37,500/年（2027 轮，JCU 国际生页面），另含学费</sub> | **2026-09-01**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 入学轮次申请截止 2026 年 9 月 1 日（已过）；下一轮未公布</sub> | 🟡 | **要求：** 需同时有 AIMS 与 JCU 导师，项目须在两者重叠领域；通过 JCU 研究生院提交；名额每年有限<br>每年最多 4 个名额，需同时有 AIMS 与 JCU 导师，项目须在两者重叠领域。JCU 国际生页面列 2027 年生活津贴 A$37,500/年（另含学费）；不同页面的附加项目费数字有出入，以官网为准。2027 入学轮次截止 2026 年 9 月 1 日（已过），通过 JCU 研究生院提交。 |
+| [ANU JCSMR Doherty 补充奖学金（临床博士）](https://jcsmr.anu.edu.au/study/scholarships/doherty-supplementary-scholarship)<br><sub>澳大利亚 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>A$7,000/年（官网）</sub> | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>官网称每年 10 月 31 日截止（年份需确认）</sub> | ✅ | **要求：** 需具临床学历资质并在 JCSMR 开展临床研究的博士申请人；国际生资格未核实。<br>面向有临床学历资质、在 JCSMR 开展临床研究的博士；补充性质，支付给 AGRTP 或同类奖学金持有者；官网称每年 A$7,000，10 月 31 日截止。 |
+| [ANU JCSMR · Taiyang and Loong PhD 奖学金（计算生物方向）](https://jcsmr.anu.edu.au/study/scholarships/taiyang-and-loong-phd-scholarships)<br><sub>澳大利亚 ｜ 计算机·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>📋 持续更新</sub><br><sub>JCSMR 官网页面所列为 2023 年数据（每年最多 4 个名额，每人每年 44,000 澳元，2023 年截止 4 月 15 日）；当期轮次未确认，需先联系计算生物方向导师并经 JCSMR PhD 申请页提交。</sub> | ❔ | **要求：** 需获得 JCSMR 的 PhD 入学资格，背景为计算机科学、计算生物或工程；国际生资格以官网为准。<br>ANU JCSMR 官方奖学金页，名额少、竞争性强；金额与截止日期以官网当期条款为准（本条未核实）。 |
+| [ANU Taiyang and Loong 计算生物博士奖学金（JCSMR）](https://jcsmr.anu.edu.au/study/talo-program/taiyang-and-loong-phd-scholarships)<br><sub>澳大利亚 ｜ 生物/生命科学·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>搜索仅见 2023 轮（4 月 15 日截止）及更早国际轮次，未找到 2026 轮公告；请查 JCSMR 奖学金页面确认</sub> | 🟡 | ANU JCSMR Taiyang and Loong 博士奖学金：2023 年数值约 44,000/年（币种未标注）；需计算机科学、计算生物或工程背景，须获 JCSMR 博士项目录取；建议先联系潜在导师。 |
+| [ANU University Research Scholarship](https://study.anu.edu.au/scholarships/find-scholarship/anu-university-research-scholarships)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-04-15**<br><sub>🔜 即将开放</sub><br><sub>第一轮（国际生主轮）截止 8 月 31 日，2027 年入学已截止；第二轮截止 2027-04-15（2027 年 8 月前入学），本地与国际生均可申请。下一轮以官网为准</sub> | ✅ | 申请 HDR 时勾选即参评，无需单独表格；国际生主轮约 8 月 31 日截止，第二轮 4 月 15 日截止。获奖者可同时获学费奖学金。 |
+| [ANU 博士奖学金（面向国际生）](https://study.anu.edu.au/scholarships/find-scholarship/anu-phd-scholarship)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明<br><sub>A$39,069/年（官网 2026 基础费率），支付 3.5 年</sub> | 滚动<br><sub>🔄 随时可申</sub><br><sub>页面称申请期全年开放，无需单独申请，符合条件者自动考虑</sub> | ✅ | **要求：** 面向国内及国际申请者；需已申请 PhD 或 Professional Doctorate 项目，并具备一等荣誉学位（部分学院可考虑二等上）或带研究成分的硕士学位；国际生须全日制学习<br>ANU 通用博士奖学金，面向国内外申请者，2027 年基础费率为 A$40,475/年，支付 3.5 年。页面称申请期全年开放，无需单独申请。 |
+| [ANU 生物学院国际博士奖学金](https://study.anu.edu.au/scholarships/find-scholarship/research-school-biology-international-phd-scholarship)<br><sub>澳大利亚 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 滚动<br><sub>🔄 随时可申</sub> | ✅ | **要求：** 需为全日制国际博士生；建议先联系 ANU 导师，选拔依据研究潜力、学术成绩与成果。<br>ANU 生物学院国际博士奖学金对全日制国际博士生开放，无需单独申请，申请入学并满足条件即被考虑；奖金按双周发放 3.5 年，另有旅费、搬迁、论文等补贴。 |
+| [ANU 研究培训计划国际学费补助（RTP International Fee Offset）](https://study.anu.edu.au/scholarships/find-scholarship/research-training-program-rtp-international-fee-offset-scholarship)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>国际申请分多轮截止，具体日期以 ANU 官网为准。</sub> | ✅ | **要求：** 需获 ANU 博士录取；竞争制，具体资格以官网条款为准。<br>ANU 官方页面：博士学制内的国际学费减免及海外学生医保（OSHC），不含生活费；生活费需另获 ANU 奖学金或 RTP 津贴。 |
+| [Baker 研究所 Bright Sparks 博士补充奖学金](https://baker.edu.au/get-involved/bright-sparks/support-types)<br><sub>澳大利亚 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>$6000 per year for three years (PhD top-up)</sub> | —<br><sub>竞争性评选，以官网公告为准</sub> | ❔ | **要求：** 国际生资格未在官网搜索结果中确认，需向 Baker 研究所咨询；按竞争性评选授予<br>官网页面列出 PhD 补充资助（Top-up）为每年 6000 美元、共三年，按竞争性评选授予；原条目写的 7500 美元未被页面支持。国际生资格页面未说明。 |
+| [Bond 大学 HDR 奖学金（私立）](https://bond.edu.au/intl/researchers/research-degrees/hdr-scholarships)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>AUD 34,315/年（2026 年标准，官网页面）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>第二轮约 9 月 30 日截止（第三方汇总，待官网确认）；下一轮推测 2027 年 2–3 月</sub> | ✅ | **要求：** 需已提交 Bond 该博士项目的申请；全日制；不得同时领取澳洲政府同类 HDR 费用减免奖学金；研究型硕士不符合。<br>Bond 私立大学博士生 HDR 奖学金：官网称 2026 年全日制津贴标准为 AUD 34,315/年；国际生可获学费部分减免（partial fee waiver），非全额。国际生资格与截止以官网为准。 |
+| [Burnet 研究所博士招生入口（经合作大学注册）](https://burnet.edu.au/pages/91)<br><sub>澳大利亚 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各大学奖学金截止不同，需逐个核对</sub> | ❔ | Burnet 博士生需通过 Monash、墨尔本大学、La Trobe、RMIT、Deakin 等合作大学注册并获大学奖学金，建议先联系导师。 |
+| [Charles Darwin University 项目制博士奖学金](https://www.cdu.edu.au/research-and-innovation/higher-degree-research/higher-degree-research-phd-projects-competitive-scholarships)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | —<br><sub>🟢 开放申请</sub><br><sub>按预设项目开放，面向 2026 年第二学期或 2027 年入学项目；以各项目页截止日为准</sub> | 🟡 | **要求：** 需先获 CDU 高等学位（HDR）团队邀请才能提交 RTP 申请；当前在读 HDR 学生不符合条件<br>国际生 RTP 奖学金（津贴约 AUD 35,000/年加学费全免）已关闭；Graduate Full Fee 奖学金覆盖三年全日制学费，需向项目导师发送 EOI。 |
+| [CSIRO 工业博士（iPhD）项目机会](https://research.csiro.au/iphd-opportunities)<br><sub>澳大利亚 ｜ 全学科·工程·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ⛔ | CSIRO 工业博士规则仅限澳大利亚或新西兰公民及澳大利亚永久居民申请，国际生不符合资格；项目须在澳洲开展。 |
+| [CSIRO 研究生奖学金计划](https://www.csiro.au/en/careers/Scholarships-student-opportunities/Postgraduate-programs-and-Scholarships/Postgrads)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ⛔ | 通常要求澳大利亚公民或永久居民；仅国家技能短缺领域且符合政府移民政策的海外申请者可能被考虑，并需已获澳洲大学录取。中国大陆学生一般不符合。 |
+| [Curtin HDR 津贴奖学金](https://scholarships.curtin.edu.au/Scholarship/?id=7695)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>2026 年 PhD 基础津贴 38,440 澳元/年（免税，最长 3 年 6 个月全时当量）</sub> | 滚动<br><sub>🔄 随时可申</sub><br><sub>页面显示状态为 Open，Applications accepted at any time（可随时提交）。</sub> | ❔ | **要求：** 先查看 HDR 项目机会并确定导师；未来学生须提交 Expression of Interest（EOI）表格，EOI 不保证录取或导师确认。<br>页面称 2026 年 PhD 基础津贴为 38,440 澳元/年（免税），学生须先查看 HDR 项目机会页面，再提交 EOI 表格。 |
+| [Federation University 研究生（HDR）奖学金总页](https://federation.edu.au/research/graduate-research-school/hdr-scholarships)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>基金会类 HDR 奖学金 2026-03-01 已截止；校企一次性奖学金各有截止日</sub> | 🟡 | **要求：** RTP 生活津贴不对国际生开放；国际生可申请校企合作一次性奖学金，需满足 HDR 入学条件<br>RTP 生活津贴仅对澳籍、永居、部分人道签证持有者及新西兰公民开放。国际生可申请校企合作一次性奖学金及部分基金会奖学金，条件与截止日各不相同。 |
+| [Flinders 国际博士奖学金（FIPRS）](https://www.flinders.edu.au/scholarships/flinders-university-international-research-scholarship)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>A$36,061/年（2026 年标准，约 3.5 年）</sub> | **2026-06-18**<br><sub>⏸ 本轮已截止</sub><br><sub>页面显示 2026 轮开放 2026-04-30、截止 2026-06-18，已关闭；下一轮日期未公布</sub> | ✅ | 覆盖国际学费并提供津贴（2026 年标准 36,061 澳元/年，免税，最长 3.5 年）；页面要求先满足研究型学位入学要求并获得导师同意。2026 轮已于 2026-06-18 关闭。 |
+| [La Trobe 研究生 PhD 项目奖学金](https://search.studyaustralia.gov.au/scholarship/graduate-research-phd-project-scholarships/901e20d32d4f2dec6deb276acbaa874d)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-12-31**<br><sub>🟢 开放申请</sub> | ❔ | Study Australia 列年补助 AUD 36,000，截止 2026-12-31，按具体项目申请；国际生资格以 La Trobe 官网为准。 |
+| [QIMR Berghofer 国际博士奖学金](https://qimrb.edu.au/people-and-careers/international-phd-scholarships)<br><sub>澳大利亚 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>AUD 39,220/年（2026 标准，免税）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮已于 2026-08-24 截止；2027 轮待官网公布（要求 2027-07-31 前可入学）</sub> | ✅ | **要求：** 一等荣誉学位或 MPhil；须能于 2027 年 7 月 31 日前入学；国际生可申请<br>官网：2026 标准生活补助约 AUD 39,220/年（免税），为期 3 年半，并提供单人海外医保；国际生由 QIMR 提名大学学费奖学金。2026 轮 8 月 24 日已截止，竞争激烈。第三方的 AUD 35,000 为旧数据。 |
+| [RMIT Data61 博士奖学金](https://www.rmit.edu.au/students/careers-opportunities/scholarships/research/phd-data61)<br><sub>澳大利亚 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>RTP 基础津贴 + 每年 AUD 10,000 补助（最长 3.5 年）</sub> | — | 🟡 | **要求：** 一等荣誉学位（或等价）；需与 RMIT 建立关联并申请/入读 RMIT 博士；未持有博士学位；需大学导师确认；国际生须在澳或持学习签证<br>页面面向国内外学生；CSIRO 页面要求申请人在澳洲或持澳洲学习签证。覆盖学费与生活费，需一等荣誉学位和导师支持。 |
+| [RMIT 副校长博士奖学金（VCPS）](https://www.rmit.edu.au/study-with-us/international-students/apply-to-rmit-international-students/fees-and-scholarships/scholarships/vice-chancellors-phd-scholarship)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>VCPS 官网页仍显示 2026 轮已关闭；2027 轮以 RMIT 官网为准。</sub> | ✅ | RMIT 竞争性高等级博士奖，每年约 10 个名额，国际生另获学费奖学金；金额以官网更新为准。 |
+| [RMIT 国际生研究生学费奖学金（RRITFS / RIFOS）](https://www.rmit.edu.au/students/careers-opportunities/scholarships/research/international-tuition-fee-scholarships)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | —<br><sub>随学校研究奖学金轮次而定，以官网为准</sub> | 🟡 | RMIT 国际生研究生学费奖学金（RRITFS 与 RIFOS），以学费减免为主，通常与研究津贴配套。无需单独申请，参加学校研究奖学金轮次即自动考虑，名额有限、竞争性评审；须先获得 RMIT 博士录取。 |
+| [RMIT 研究学位奖学金（中央轮次）](https://www.rmit.edu.au/research/research-degrees/scholarships)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2027 入学国际 EOI 截止 2026-08-30、正式申请 2026-09-30，均已过；学院或外部资助项目可随时申请，下一中央轮次以官网公布为准。</sub> | ✅ | **要求：** 国际申请人需先提交 EOI 及导师支持声明表（2026 年 6 月起）；学历与语言要求以官网为准<br>2027 入学中央轮次国际 EOI 截止 2026-08-30、正式申请 2026-09-30，均已过；页面称轮次外可通过学院或外部资助项目申请。 |
+| [RMIT 研究生生活津贴奖学金（Research Stipend Scholarships）](https://www.rmit.edu.au/scholarships/research/research-stipend)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>AUD 36,245/年（2026 轮，按全时折算，每年指数调整）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 入学轮已截止；2027 轮申请需先提交支持导师声明与 EOI，具体日期以官网 How to apply 页为准。</sub> | ✅ | **要求：** 国际申请人须申请 RMIT HDR 并获录取；同时获得 RIFOS 或 RRITFS 学费奖学金；英语与学历要求以学校为准<br>页面称 2027 入学申请现已开放（OPEN），但轮次页列出中央轮次国际 EOI 截止 2026-08-30 已过；金额为 2026 轮数据，每年指数调整。 |
+| [RMIT 计算机科学（人机交互）博士奖学金](https://www.rmit.edu.au/students/careers-opportunities/scholarships/research/phd-scholarship-in-computer-science-human-computer-interaction)<br><sub>澳大利亚 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>🟢 开放申请</sub><br><sub>截止日以官网为准</sub> | ❔ | **要求：** 需先联系项目导师并提交约两页研究计划；学位与语言要求以官网为准<br>RMIT 计算机科学（人机交互）博士奖学金：官网称含学费减免与标准生活津贴，为期 3 年。需先联系导师提交研究计划；津贴金额与国际生资格未核实。 |
+| [Southern Cross University 研究生院奖学金](https://www.scu.edu.au/graduate-school/scholarships/)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>AU$32,192/年（SCU 页面标注的 2024 标准，按年指数化）</sub> | 未公布<br><sub>各轮次以 SCU 研究生院当年公告为准；入学通常不晚于 9 月 30 日</sub> | ⛔ | **要求：** 页面称澳大利亚政府 RTP 奖学金面向本国（domestic）高成绩研究生候选人。<br>页面称 RTP 奖学金面向本国候选人；原记录写国际生可申请，与页面不符，已据页面改为不可申请。 |
+| [Swinburne 博士研究津贴奖学金](https://www.swinburne.edu.au/study/options/scholarships/510/swinburne-research-stipend-scholarships/)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>AU$35,500/年（2026 标准，指数调整，三年，可延 6 个月）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 第二轮 9 月 7 日至 10 月 9 日已截止；页面未列 2027 年轮次。</sub> | ✅ | 页面称 2026 年提供 SUPRA 与 RTP Stipend 两类研究奖学金；第二轮 9 月 7 日至 10 月 9 日已截止，页面未列 2027 年轮次。 |
+| [The Kids Research Institute Australia 奖学金与 HDR 项目页](https://www.thekids.org.au/be-involved/student-opportunities/scholarships-and-awards/)<br><sub>澳大利亚 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各项目截止不同，官网列出当前机会</sub> | ❔ | 研究所列出 Life Course Centre、Wesfarmers 疫苗与传染病中心、Play Active 等 PhD 机会；部分奖学金仅限澳新公民或永居，需逐项核对国际生资格。 |
+| [UniSC（阳光海岸大学）RTP 奖学金](https://www.unisc.edu.au/research/research-students/hdr-scholarships/research-training-program-rtp-scholarship)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>A$38,000/年（2026 基础标准，官方 RTP 页面）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年国内第 1 轮截止 3 月 20 日、第 2 轮 8 月 28 日；国际生第 1 轮截止 7 月 3 日（均已过）；2027 轮次未见公告</sub> | ✅ | **要求：** 需先获得 UniSC HDR 录取；国际生资格及当年轮次以官方页面为准<br>官网 2026 年基础标准生活津贴 A$38,000/年，资助 3 年（特定情况可延长 6 个月），可选学费减免，另有合计 A$2,000 搬迁补贴；需先获 UniSC HDR 录取，按轮次申请。 |
+| [UNSW Canberra · China Scholarship Council 联合资助 PhD](https://www.unsw.edu.au/canberra/study-with-us/scholarships/china-scholarship-council-csc-sponsored-students)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>📋 持续更新</sub><br><sub>页面未见明确截止日期；需先拿到 UNSW Canberra 录取，再走 CSC 申请流程</sub> | ✅ | **要求：** 中国公民；持有 UNSW Canberra 博士录取；资助结束后须回国<br>CSC 资助学生可获最长 4 年学费减免，加每年 A$10,000 补助、OSHC 等；仅适用于 UNSW Canberra 校区，金额以官方页为准。 |
+| [UNSW Scientia PhD Scholarship](https://www.unsw.edu.au/research/hdr/find-a-project/scientia-phd-projects)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>🔜 即将开放</sub> | ⛔ | 官方页面称 Scientia 博士奖学金面向本地（domestic）申请者，国际生（含中国大陆学生）不在此列。Global Mobility Grant 为已获奖学金者的一次性国际活动经费，不是独立申请途径。 |
+| [UNSW 电气工程与电信学院博士奖学金页](https://www.unsw.edu.au/engineering/our-schools/electrical-engineering-telecommunications/our-research/phd-scholarships)<br><sub>澳大利亚 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>第三方资料称 2027 年入学 PhD 研究奖学金的第二轮截止为 2026-08-14（已过）；学院页未直接显示截止日，下一轮需向 UNSW 研究生院核实</sub> | ❔ | 学院页列出博士奖学金入口，奖学金由 Graduate Research School 统一管理，国际生资格需进官网核实。 |
+| [UQ–CSC 联合博士奖学金](https://scholarships.uq.edu.au/csc)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-01-20**<br><sub>🔜 即将开放</sub><br><sub>2027 轮：EOI 2026 年 11 月 2 日开放（建议 12 月 14 日前提交），正式申请 2027 年 1 月 20 日截止；以页面为准</sub> | ✅ | **要求：** 中国大陆公民或永久居民；本科荣誉 IIA 或以上加研究经验或研究型硕士；IELTS 6.5（单项不低于 6.0）；先向导师提交 EOI 再申请 CSC<br>CSC-UQ 博士奖学金面向中国大陆公民和永久居民，页面列出生活津贴、医保、往返机票及 UQ 学费奖学金。页面显示 2027 轮 EOI 2026 年 11 月 2 日开放，正式申请 2027 年 1 月 20 日截止。 |
+| [UTS 国际研究生学费奖学金（International Research Scholarship）](https://www.uts.edu.au/scholarship/international-research-scholarship)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | —<br><sub>⏸ 本轮已截止</sub> | ✅ | UTS 国际研究生研究奖学金仅覆盖博士学费（最长约 3.5 年），不含生活津贴、OSHC 保险等。申请人需为海外学生、购买 OSHC 并在 UTS 研究重点领域全日制入学。页面当前显示已关闭，下一轮以官网为准。 |
+| [UTS 国际研究训练计划奖学金（IRTP）](https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-training-program-scholarship-irtp)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$40,500/年（免税，页面标注自 2026-01-01 起）</sub> | **2026-10-07**<br><sub>⏸ 本轮已截止</sub><br><sub>页面标注本轮申请截止 2026-10-07（已过）；页面未给出下一轮日期，需在官网核对。</sub> | ✅ | 悉尼科技大学 IRTP 学费全免并含 OSHC 与免税生活津贴，页面标注 $40,500/年，博士最长 3.5 年。本轮 2026-10-07 截止，页面显示已关闭。 |
+| [UTS 研究学位奖学金（国际轮次）](https://uts.edu.au/research-and-teaching/graduate-research/future-research-students/apply-research-degree/application-closing-dates)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>国际生：2027 研究学期 2 申请截止 2026-10-07（已过）；2028 研究学期 1 申请截止 2027-06-02。</sub> | ✅ | **要求：** 申请 PhD 或 Master's by Research 并寻求 UTS 竞争性奖学金者，需在截止日前完成申请；页面建议提前约六周开始准备。<br>页面另载 UTS 研究学位的学期日程，国内生与国际生截止日各不相同；建议提前约六周准备。 |
+| [UTS–CSC 博士奖学金](https://www.uts.edu.au/for-students/admissions-entry/scholarships/csc-uts-phd-scholarship)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>CSC 提供生活津贴、签证费、医保与往返机票；UTS 免学费并补足生活费至 RTP 津贴标准</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请窗口 2025-12-01 至 2026-01-19 已关闭；2027 轮日期未公布，以 UTS 研究生院通知为准</sub> | ✅ | **要求：** 中国大陆公民或永久居民；须获 UTS 院系提名 HDR 学费减免奖学金；需先获 UTS 录取及 IRS 奖学金，再按 CSC 时间提交 CSC 申请；需承诺学成回国<br>UTS 与 CSC 合作博士奖学金：面向中国大陆公民，需 UTS 院系提名；CSC 与 UTS 共同资助，UTS 免学费。最近一轮已关闭，留意下一轮。 |
+| [WEHI 博士奖学金总页](https://wehi.edu.au/education/phd/phd-scholarship)<br><sub>澳大利亚 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>生活津贴最低标准 A$42,137/年（自 2024 年 6 月起），另有补充金覆盖整个学程</sub> | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>2027 入学申请截止 2026-10-31；11 月底通知入围者</sub> | ✅ | **要求：** 非澳洲公民、永居或新西兰公民；上一学位不得取自澳大利亚大学；需达到墨尔本大学博士入学标准及英语要求<br>页面称 WEHI 博士奖学金生活津贴最低为 A$42,137/年（自 2024 年 6 月起），补充金覆盖整个学程。国际生可竞争墨尔本大学奖学金（含学费减免），也可能获得政府、慈善机构或 WEHI 的资助。 |
+| [WEHI 国际博士奖学金计划](https://wehi.edu.au/education/phd/international-phd-scholar-initiative/)<br><sub>澳大利亚 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>生活津贴为 Melbourne Research Scholarship 标准，并另有 WEHI 博士补充金（页面写明总额 $43,100/年）</sub> | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>页面：申请截止 2026 年 10 月 31 日（周六）23:59 AEDT，对应 2027 年入学；入围者于截止后四周内视频面试</sub> | ✅ | **要求：** 学位须非澳洲大学获得（澳洲公民、永久居民、新西兰公民及上一学位在澳洲大学获得者不符合）；医学生物（Medical Biology）博士；需提交推荐信与成绩单并参加视频面试<br>页面称 2027 年入学的国际博士奖学金申请于 2026 年 10 月 31 日截止，入围者截止后四周内视频面试，奖学金最迟于 2026 年底授予；另有搬迁津贴（外州最高 $3,000）、健康保险与学费减免。 |
+| [伍伦贡大学–CSC 联合博士奖学金](https://uow.edu.au/research/graduate-research/scholarships/items/joint-postgraduate-scholarships-program---china-scholarship-council-csc.php)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ✅ | 伍伦贡大学 CSC 联合博士：须为中华人民共和国公民，申请 PhD 并获 UOW 录取，需先找到导师和题目；CSC 承担生活津贴、往返机票与签证费。 |
+| [南昆士兰大学 CSC 联合博士奖学金](https://www.unisq.edu.au/scholarships/csc-unisq-joint-prog)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-02-01**<br><sub>🟢 开放申请</sub><br><sub>页面标注截止日期为 2027 年 2 月 1 日；须先获 UniSQ 录取，再向 CSC 申请生活津贴</sub> | ✅ | **要求：** 须持中国国籍；需先获 UniSQ 博士录取并申请 CSC 资助<br>页面称大学提供最长 48 个月全额学费奖学金，CSC 另给生活津贴；须持中国国籍，并先获 UniSQ 录取。 |
+| [卧龙岗大学 CSIRO 补充奖学金（Top-up）](https://uow.edu.au/research-and-innovation/graduate-research/scholarships/items/csiro-top-up-scholarships.php)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | — | ⛔ | **要求：** 需获得大学博士奖学金（RTP 或同等）；UOW 页面称仅限本地候选人，QUT 同类页面称一般要求澳大利亚公民或永久居民<br>卧龙岗大学 CSIRO 补充奖学金为博士生津贴补充，需先获大学 RTP 或同等奖学金。UOW 页面称仅限本地候选人，故标记为 'no'；以当年 CSIRO 官网为准。 |
+| [卧龙岗大学研究生奖学金（UPA、AGRTP）](https://www.uow.edu.au/research/graduate-research/scholarships/)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>$35,522/年（2025 年费率，据 UOW 页面）</sub> | **2027-05-23**<br><sub>🟢 开放申请</sub><br><sub>2028 主轮次国际生申请开放至 2027-05-23</sub> | 🟡 | 卧龙岗大学研究生奖学金：国际生主要通过 UPA 申请，名额有限、按择优分配，UPA 为生活津贴。AGRTP 仅限澳大利亚公民、新西兰公民或澳洲永居。 |
+| [堪培拉大学 HDR 津贴奖学金（UC HDR Stipend / RTP）](https://www.canberra.edu.au/uc-research/graduate-research/university-research-scholarships)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>AUD 36,225/年（2025 标准，免税），为期 3.5 年</sub> | — | ✅ | 页面称 RTP 与 UC HDR 津贴为 $36,225/年（2025 标准，免税），为期 3.5 年；国际生获奖后可能另获学费减免。页面称竞争激烈，上一轮获奖者不足申请人的 10%。 |
+| [堪培拉大学研究生奖学金（RTP 与 UC HDR 津贴）](https://www.canberra.edu.au/research/graduate-research/university-research-scholarships)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | — | ✅ | **要求：** 国内外申请者均可；竞争性评审；需通过 HDR 申请门户并另填研究奖学金表格<br>国内外生均可申请研究生奖学金（RTP 与 UC HDR 津贴）。国际生可能获得 RTP 学费减免，但需竞争获得。津贴金额请以 UC 研究生办公室为准。 |
+| [弗林德斯大学澳大利亚政府研究培训计划奖学金（国际生 AGRTPS）](https://www.flinders.edu.au/scholarships/australian-government-research-training-program-scholarship-international)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-06-18**<br><sub>⏸ 本轮已截止</sub><br><sub>页面显示 2026 轮开放 2026-04-30、截止 2026-06-18，已关闭；2027 轮日期页面未见</sub> | ✅ | **要求：** 仅限首次来澳攻读 HDR 的非澳新公民、非永居；需满足 HDR 入学要求并保持英语成绩有效（2026/27 列表要求有效至 2027 年 3 月 31 日）<br>弗林德斯大学国际生政府奖学金，每年名额约 5 个，含学费减免、生活津贴（2026 年约 3.61 万澳元/年，免税，最长 3.5 年）和海外医保，仅限首次来澳攻读 HDR 的非澳新公民与永居。搜索摘要显示 2026 年申请窗口已于 6 月 18 日截止。 |
+| [弗洛里研究所博士申请与奖学金路径](https://florey.edu.au/careers-and-study/studying-at-the-florey/how-to-apply)<br><sub>澳大利亚 ｜ 生物/生命科学·医学/公卫·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ✅ | **要求：** 需满足墨尔本大学最低入学要求（页面未列出具体学位与英语标准）；须先确认导师与项目，再通过墨尔本大学系统申请。<br>弗洛里研究所博士生通过墨尔本大学注册，流程为先找导师与项目，再经墨大系统申请。国际生自动纳入墨尔本研究奖学金（MRS）评审，该奖学金含全额学费减免（full-fee offset）与生活津贴；页面称每年三轮。 |
+| [悉尼大学 ARC 研究生奖学金](https://www.sydney.edu.au/scholarships/d/arc-postgraduate-research-scholarship.html)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | **2026-10-07**<br><sub>⏸ 本轮已截止</sub><br><sub>页面写明本轮 2026-09-24 开放、2026-10-07 截止；下一轮时间页面未写，以官网为准。</sub> | ✅ | **要求：** 需获得理学院硕士研究或博士项目录取（或在读），研究须与所申请的 ARC 项目相关；需一等荣誉学位或相当学位，或含大量研究内容的硕士学位。<br>悉尼大学理学院挂靠 ARC 项目的研究生奖学金，津贴按大学 RTP 标准发放，并为获奖国际生提供学费。无无条件录取的申请人可以申请，但在取得无条件录取前不发放奖学金 offer。 |
+| [悉尼大学 ARIAM 机器人研究枢纽博士奖学金](https://www.sydney.edu.au/scholarships/b/ariam-research-hub-phd-scholarships.html)<br><sub>澳大利亚 ｜ 工程·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>A$40,000/年（RTP 标准津贴，最长 3.5 年）</sub> | 滚动<br><sub>🔄 随时可申</sub><br><sub>全年开放，获得 ARIAM 首席研究员名下无条件录取后自动考虑，视资金情况发放。</sub> | ✅ | **要求：** 至少荣誉一等或二等上（Honours 1/2A）或同等学历；国际生须在入学前申请学生签证；需获悉尼大学录取并由 ARIAM 考虑，无需另行申请<br>悉尼大学官方页称该奖学金面向本国与国际生，工程学院符合条件的申请人自动被考虑，无需单独申请；津贴按 RTP 标准发放，最长 3.5 年，视资金情况而定。 |
+| [悉尼大学 James Millner 药学研究生奖学金](https://www.sydney.edu.au/scholarships/c/james-millner-scholarship-in-pharmacy.html)<br><sub>澳大利亚 ｜ 医学/公卫·化学/材料·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年申请窗口 8 月 1–14 日已关闭；2027 轮官网尚未公布</sub> | ❔ | **要求：** 需已获悉尼大学 FMH 博士录取（无条件 offer）或在读全日制博士；药学、药理、生物医学等一等荣誉学位或同等学位；不得同时持有其他校内 HDR 生活费奖学金。<br>药学方向博士生的生活费奖学金，按 RTP 标准最长约 3.5 年，新录取国际生可被提名悉尼国际学费奖学金。2026 年申请窗口为 8 月 1–14 日，已关闭，关注 2027 年同期开放。 |
+| [悉尼大学与 CSC 续约 · 中国博士生项目](https://www.sydney.edu.au/news-opinion/news/2026/09/22/university-of-sydney-renews-partnership-with-china-scholarship-c.html)<br><sub>澳大利亚·中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>🔜 即将开放</sub><br><sub>2027 入学时间表未公布，需向悉大研究生办公室确认</sub> | ✅ | **要求：** 中国公民（上一轮页面条件）；35 岁以下（上一轮页面条件）；需通过与 CSC 的合作遴选<br>2026 年 9 月悉大宣布与 CSC 续约，面向中国博士生。2027 入学时间表需向悉大研究生办公室确认。 |
+| [悉尼大学医学与健康学部国际博士研究生奖学金列表](https://www.sydney.edu.au/scholarships/international/postgraduate-research/faculty/medicine-health.html)<br><sub>澳大利亚 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | — | ✅ | 页面为悉尼大学医学与健康学部的国际研究生奖学金列表，列出多项项目，金额与条件各不相同（如 $35,950 p.a.、$40,109 p.a.、$42,754 p.a.），需逐项核对。 |
+| [悉尼大学国际生研究奖学金](https://sydney.edu.au/scholarships/australian-government-research-training-program/rtp-international.html)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>A$42,754/年（2026 年标准）</sub> | 各项目不同<br><sub>🔄 随时可申</sub><br><sub>需另行提交奖学金申请表。页面时间表：2026 年 9 月 11 日（2027 年第 1、2 研究期，已过）；2026 年 12 月 18 日（2027 年第 3、4 研究期）；2027 年 9 月 10 日（2028 年第 1、2 研究期）。</sub> | ✅ | **要求：** 面向国际生，攻读研究型学位（commencing 或在读 higher degree by research）；需在截止前提交奖学金申请表。<br>页面列出 RTP 类津贴（2027 年 A$44,293、2026 年 A$42,754）及学费减免 100%（最多 14 个研究期），获津贴者自动获得学费减免；奖学金为竞争性评选。 |
+| [悉尼大学国际研究生通用奖学金（PhD，Research）](https://www.sydney.edu.au/scholarships/international/postgraduate-research/general.html)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>$40,109/年（University of Sydney International Scholarship，页面所列；其余项目金额各异）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>按研究期轮次申请，截止以大学奖学金页为准</sub> | ✅ | **要求：** 面向在悉尼大学任何学院学习的国际研究生；各项目资格不同，需逐项查看（部分项目要求已持有主要津贴奖学金）。<br>悉尼大学面向国际博士生的通用研究奖学金入口，包含 University of Sydney International Scholarship 等项目。 |
+| [悉尼大学建筑、设计与规划研究奖学金](https://sydney.edu.au/scholarships/a/architecture-design-and-planning-research-scholarship.html)<br><sub>澳大利亚 ｜ 工程·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>AUD 27,000/年起（最低津贴）</sub> | 滚动<br><sub>🔄 随时可申</sub><br><sub>官网标注申请时间为持续开放（ongoing），按学院研究领域申请</sub> | ✅ | 悉尼大学建筑、设计与规划学院研究奖学金：面向国内外 PhD 或 Master by Research 申请者，最低津贴约 AUD 27,000/年；研究须属学院研究领域；获奖须放弃其他悉大 RTP 申请。 |
+| [悉尼大学法学院研究生研究奖学金](https://www.sydney.edu.au/law/study-law/postgraduate-research-in-law/postgraduate-research-scholarships.html)<br><sub>澳大利亚 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>最高 AUD 55,000/年（Harris 奖学金）；部分法学专项奖最高 AUD 50,000/年</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>Harris 奖学金 2026 轮于 3 月 15 日截止；2027 轮以官网公告为准</sub> | ✅ | 页面称资助有两条途径（RTP 最高 AUD 42,000；法学院奖学金最高 AUD 55,000），建议两者都申请；各项截止日见官网对应分页。 |
+| [悉尼大学药学校友研究生奖学金（Pharmacy Alumni Postgraduate Scholarship）](https://www.sydney.edu.au/scholarships/c/pharmacy-alumni-postgraduate-scholarship.html)<br><sub>澳大利亚 ｜ 医学/公卫·化学/材料·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请窗口 8 月 1 日至 8 月 14 日已关闭；下一轮待校方公告</sub> | ❔ | **要求：** 需已获无条件录取或为悉尼大学药学院全日制在读博士生；不能同时持有该校其他 HDR 津贴；国际生资格需邮件 fmh.hdrscholarships@sydney.edu.au 核实（第三方页称仅限澳大利亚、新西兰公民或永居）<br>悉尼大学官网列出的药学校友博士奖学金为按 RTP 津贴标准发放的博士生补助，最长约 3.5 年，偏好在皇家王子医院开展研究的申请者。官网未见国籍限制，但第三方页面称仅限澳新居民，国际生资格需以校方答复为准。 |
+| [斯威本科技大学研究生研究奖（SUPRA）](https://www.swinburne.edu.au/study/options/scholarships/221/swinburne-university-postgraduate-research-award/)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>AU$35,500/年（免税，2026 标准，3 年，个别情况可延 6 个月）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面标注申请已关闭；轮次与截止日期请见 Swinburne Research Stipend 页面。</sub> | ✅ | **要求：** 需一等或二等上（Upper Second）荣誉学位或同等学历；国际生需已在斯威本 HDR 课程录取；学费由 Tuition Fee Scholarship 覆盖。<br>页面称 SUPRA 年津贴 35,500 澳元（2026 标准，指数调整），三年（可延 6 个月），并提供最长四年的学费奖学金；申请已关闭。 |
+| [昆士兰大学 Graduate School Scholarship](https://scholarships.uq.edu.au/scholarship/graduate-school-scholarships-uqgss-%E2%80%93-includes-rtp)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>AUD 39,220/年（官网 2026 标准，免税）</sub> | **2026-10-19**<br><sub>🟢 开放申请</sub><br><sub>国际申请人轮次（2027 第四研究季度或 2028 年初入学）完整申请截止 2026-10-19；后续轮次日期将于 2026 年 10 月底公布</sub> | 🟡 | UQ 研究生院奖学金（含 RTP），面向国内外学生，含免税生活津贴与单人 OSHC，期限 3.5 年（可延 1 次）；须由学院提名并先提交 EOI。 |
+| [昆士兰大学研究生奖学金（UQGSS/RTP，含农业科学）](https://scholarships.uq.edu.au/phd-mphil-students)<br><sub>澳大利亚 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ✅ | UQ 官网称 UQGRSS 面向本国与国际学生，资助学费、免税生活津贴 $39.2K/年（2026 标准）并含单人 OSHC；国际生需先获生活津贴奖学金才有资格获学费奖学金。 |
+| [澳国立大学 Shen-su Sun 博士补充奖学金（CSC 获得者）](https://study.anu.edu.au/scholarships/find-scholarship/shen-su-sun-phd-supplementary-scholarship)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>$10,000 per annum（页面未注明币种），最多 2 名，支付 3 年，双周发放</sub> | 滚动<br><sub>🔄 随时可申</sub><br><sub>无需单独申请，符合条件的 ANU-CSC 获得者（RSES 录取）自动考虑；申请期全年开放。</sub> | ✅ | **要求：** 面向已获国家留学基金委（CSC）奖学金的中国博士生，需先获 ANU 博士录取<br>仅面向获 CSC 奖学金的中国博士生的补充奖学金，属于 CSC 之上的加项。 |
+| [澳国立大学地球科学研究院（RSES）博士奖学金页](https://earthsciences.anu.edu.au/study/scholarships-prizes/scholarships)<br><sub>澳大利亚 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>A$8,002/年（补充奖学金，分 3 年发放）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮截止 3 月 31 日已过（第三方列表）；下一轮以 ANU 官网为准</sub> | ✅ | **要求：** 一等荣誉学位或研究型硕士；Ringwood 奖学金无需单独申请<br>地球科学研究院博士奖学金汇总；Ringwood 补充奖学金 2026 轮截止 3 月 31 日已过，下一轮以官网为准。 |
+| [澳大利亚国立大学研究学位奖学金](https://research.anu.edu.au/postgraduate-research-candidates/research-degree-scholarships)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-04-15**<br><sub>国际生第一轮（2027 年入学）2026-08-31 已截止；后续轮次以官网公告为准</sub> | ✅ | **要求：** 需先被 ANU 录取为博士生，RTP/URS 随录取由学校自动考虑，无需单独申请。<br>RTP/URS 含学费与生活津贴，国际生可申，每年两轮。 |
+| [科廷大学集中奖学金轮次（Central Scholarship Round / RTP）](https://www.curtin.edu.au/research/hdr-r-projects/central-scholarship-round-rtp-scholarship/)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>2026 年博士基础津贴 38,440 澳元/年（免税）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2027 入学 RTP 的 EOI 于 2026 年 7 月开放并已关闭；下一轮以官网公告为准。</sub> | ✅ | **要求：** 仅限博士申请，需先获得 Curtin 注册导师的 Invitation to Apply。<br>科廷大学 RTP 集中奖学金（仅博士）。页面称津贴加学费减免的合计约 7 万澳元/年仅适用于本地（domestic）学生；2027 入学轮次已关闭，2028 入学轮次预计 2027 年 7 月开放。 |
+| [维多利亚大学 2027 年 HDR 奖学金指南](https://www.vu.edu.au/sites/default/files/documents/2026-07/2027-hdr-scholarship-guide.pdf)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | —<br><sub>目录显示截止日期列于指南第 17 页；所获正文在此之前截断，具体日期未核实。</sub> | ✅ | 2026-07 发布（版本 1.0），适用于 2027 年第 1 研究期入学的国内外 RTP 博士/研究硕士津贴奖学金；表 1 金额标注为 2026 年数值（RTPSS 为 A$35,707/年，国内外学生）。 |
+| [维多利亚大学（墨尔本）HDR 奖学金指南](https://content.vu.edu.au/sites/default/files/documents/2025-07/2026-hdr-scholarship-guide.pdf)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>本指南版本 1.1（2025-08-28 发布）适用于 2026 年第 1 研究期入学，已非现行版本；所获正文未出现截止日期，未核实。</sub> | ✅ | **要求：** 非澳大利亚或新西兰公民及永久居民即为国际生；需提交研究方向说明<br>覆盖 2026 年第 1 研究期入学的 RTP 博士奖学金（表 1 列出国内外学生可申，金额标注为 2025 年的 $35,006/年），申请时需提名已发布的研究焦点大纲（Research Focus Outline）。 |
+| [莫纳什大学动物行为与进化生态学全额奖学金](https://jobrxiv.org/job/school-of-biological-sciences-monash-university-27778-fully-funded-phd-scholarship-animal-behaviour-evolutionary-ecology/)<br><sub>澳大利亚 ｜ 生态/进化·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>tax-free 生活津贴按 Monash Graduate Research Scholarship 标准（2027 年 AUD 41,100/年）</sub> | **2026-11-15**<br><sub>🟢 开放申请</sub> | ✅ | 面向国内外候选人，要求荣誉学位或含至少 25% 研究内容的硕士（生物、动物学、生态学或相关专业）。申请截止 2026 年 11 月 15 日，2027 年初入学，申请时需选择感兴趣的项目。 |
+| [西悉尼大学 CSC 研究奖学金](https://www.westernsydney.edu.au/schools/grs/scholarships/china-scholarship-council-research-scholarships)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>截止以官网为准（第三方站点称为 12 月 31 日，未经官方核实）</sub> | ✅ | **要求：** 需为中国大陆公民及永久居民，需先获得导师支持信及 WSU 有条件 PhD 录取与奖学金有条件录取；须满足澳洲研究生签证要求<br>学校免学费最长 48 个月，CSC 提供生活费、医保、机票；需先有导师支持信并获有条件录取，截止以官网为准。 |
+| [西澳大学 HDR 奖学金](https://www.uwa.edu.au/study/scholarships-and-fees/scholarships/hdr-scholarships)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$39,253/年（页面称 2027 年 RTP 生活津贴，名额有限，国际与国内学生按竞争择优）</sub> | **2026-09-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 国际轮截止 2026-09-15，已过；2028 轮未公布</sub> | ✅ | **要求：** 须满足课程入学与英语要求；入学申请同时即奖学金申请<br>页面称 2027 国际轮于 2026 年 9 月 15 日截止（已关闭），2027 国内轮（含 UWA 国际毕业生）于 2026 年 10 月 31 日截止；入学申请即奖学金申请。RTP 生活津贴名额有限，国际与国内学生按竞争择优。 |
 
 <a id="r-hk"></a>
 
-## 中国香港（HK）（61）
+## 中国香港（HK）（64）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -36,7 +112,8 @@
 | [HKUST 物理学系研究生奖学金与奖项页](https://physics.hkust.edu.hk/node/1582)<br><sub>中国香港 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明<br><sub>HK$229,620/年（PGS，2026/27，学系页面）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各轮次截止不同，以官网公告为准。</sub> | ❔ | **要求：** 全日制博士或 MPhil 学生；PGS 受资助者需按学系安排担任助教（TA）<br>学系页面列出 PGS 为 2025/26 年度 HK$229,620/年，最长 4 年，受资助者须担任助教。检索中未找到官方页面明确说明国际生资格（页面仅称面向全日制博士生，按学术优异与适合性评定），故标 check；请以学校当年规定为准。 |
 | [HKUST 研究生奖学金（Postgraduate Studentship）](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees)<br><sub>中国香港 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>HK$229,620/年（PhD 最长 4 年）</sub> | — | ✅ | 港科大研究型研究生奖学金（PhD 最长 4 年），申请时在线勾选；另有 RedBird 入学奖等，金额以研究生院当年页面为准。 |
 | [PolyU 土木及环境工程 2027 入学研究生申请页](https://www.polyu.edu.hk/study/pg/rpg/2027/cee)<br><sub>中国香港 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>HK$344,400/年（HKPFS 2027/28 轮，经 HKPFS 申请时）</sub> | **2027-05-31**<br><sub>🟢 开放申请</sub><br><sub>2027 年 5 月入学截止 2027-01-31；9 月入学截止 2027-05-31；HKPFS 全申请截止 2026-12-01。HKPFS 不限国籍；系内 studentship 名额未核实，需先与导师沟通。</sub> | ✅ | **要求：** 硕士或一等荣誉本科。<br>土木及环境工程博士申请入口，可同时关注学校 HKPFS 与 studentship；资助金额本页未核实。 |
-| [PolyU 机械工程 2027 入学研究生申请页](https://www.polyu.edu.hk/study/pg/rpg/2027/me)<br><sub>中国香港 ｜ 工程</sub> | 博士 | 力度未注明 | **2027-01-31**<br><sub>🟢 开放申请</sub><br><sub>2027 年 1 月入学截止 2026-09-30（已过）；5 月入学截止 2027-01-31；9 月入学截止 2027-05-31</sub> | ❔ | **要求：** 硕士或一等荣誉本科。<br>机械工程博士申请入口，2027 年入学窗口分 1 月、5 月、9 月三轮；资助需结合学校 studentship 与 HKPFS 规则查看。 |
+| [PolyU 建筑与环境学院（CEE）研究型博士的学费与奖学金页（PRPgS）](https://www.polyu.edu.hk/cee/prospective-students/research-postgraduate-programme/fees-and-scholarships/)<br><sub>中国香港 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>HK$19,220/月（已确认注册的博士生 HK$19,660/月，2026-27 轮）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>HKPFS 与 PolyU 申请主轮通常在每年 12 月初截止；当年日期以官网为准。</sub> | ❔ | **要求：** 需通过 PolyU 博士入学审核并满足英语要求；PRPgS 通过统一入学申请，无需单独提交；国际生适用范围与金额以官网为准。<br>PolyU 建筑与环境学院研究型博士学费与奖学金页列出 2026-27 年 PRPgS 月补助，并另有会议资助 HK$25,000。通过统一入学申请即自动考虑，无需单独提交；学费与适用范围以官网当年页面为准。 |
+| [PolyU 机械工程 2027 入学研究生申请页](https://www.polyu.edu.hk/study/pg/rpg/2027/me)<br><sub>中国香港 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2027-05-31**<br><sub>🟢 开放申请</sub><br><sub>2027 年 1 月入学截止 2026-09-30（已过）；5 月入学截止 2027-01-31；9 月入学截止 2027-05-31</sub> | ❔ | **要求：** 硕士或一等荣誉本科。<br>机械工程博士申请入口，2027 年入学窗口分 1 月、5 月、9 月三轮；资助需结合学校 studentship 与 HKPFS 规则查看。 |
 | [PolyU 理学院研究生奖学金](https://www.polyu.edu.hk/fsn/study/scholarships/postgraduate-studentship-and-scholarship/)<br><sub>中国香港 ｜ 化学/材料·生物/生命科学·物理/天文·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>研究 studentship 随学院与学年发布，以研究生院为准</sub> | ✅ | **要求：** 全日制 PhD/MPhil 学生，按学术成绩择优；国际生资格以学校页面为准<br>理大理学院 studentship 页面；同时申请 HKPFS 时由学校分配到一种资助。 |
 | [PolyU 研究型研究生总入口](https://www.polyu.edu.hk/research/postgraduate-research/)<br><sub>中国香港 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>HKPFS 申请通常为每年 9 月初至 12 月初；2026 轮以 RGC/学校公告为准</sub> | ✅ | **要求：** 需满足博士入学与英语要求；境外申请人自动考虑 IPFS（官网列示 HK$230,640/年）<br>理大研究生教育总入口：页面说明提供全日制博士与哲学硕士的 Research Studentships，按学术成绩授予；本页未提及 IPFS 或 HK$230,640。 |
 | [PolyU 研究生院奖学金与资助计划总览](https://www.polyu.edu.hk/en/gs/prospective-students/fellowship-scholarship-schemes/)<br><sub>中国香港 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各计划每年调整，以当年页面为准</sub> | ❔ | **要求：** 需申请为全日制新入学博士生；各计划的学术与英语要求以当年页面为准<br>汇总理大全日制博士的 HKPFS、Kuok Group Fellowship、PPPFS、IPFS 与 PRPgS 等入口；页面所示 HKPFS 年津贴 HK$344,400。各计划的名额、金额与国际生资格以当年页面为准，cn_eligible 保持 check。 |
@@ -78,11 +155,13 @@
 | [香港浸会大学中国语言与文学系博士项目（含 HKPFS）](https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-chinese-language-and-literature)<br><sub>中国香港 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>2027 年 9 月入学：常规轮截止 2026 年 12 月 1 日，清算轮截止 2027 年 4 月 15 日（以页面所列为准）。</sub> | ✅ | **要求：** 硕士学位（成绩优秀）或一等荣誉学士；HKPFS 对所有国籍开放。<br>页面列出 2027 年 9 月入学，常规轮截止 2026 年 12 月 1 日。HKPFS 申请人同时参与常规研究生项目评审。 |
 | [香港浸会大学研究生院 HKPFS 说明页](https://gs.hkbu.edu.hk/page/detail/281)<br><sub>中国香港 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>HK$344,400/年（另有会议与研究差旅 HK$14,400/年）</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>RGC 初步申请截止 2026-12-01 中午 12:00（HKT）；大学端申请截止另行公布（一份指南称同日 23:59），以官方通知为准。</sub> | ❔ | **要求：** 需先在 RGC HKPFS 电子系统提交初步申请获取编号，再向大学投递正式申请；需获 HKBU 博士项目录取；国际生资格以官方指南为准。<br>页面（AY2027/28）列出 HKPFS 待遇：精英学者奖前三年每年 HK$40,000；研究生津贴每月 HK$28,700，四年共 HK$344,400；学费四年全免；会议与研究差旅每年 HK$14,400（最多三年）。 |
 | [香港理工大学 HKPFS 校内申请入口（2027/28 入学）](https://www.polyu.edu.hk/gs/hkpfs/)<br><sub>中国香港 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>HK$344,400/年</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>截止 2026-12-01（以官网为准）。</sub> | ✅ | **要求：** 全日制新入学博士生，不限国籍；已在读博士者不可申请。<br>理大 HKPFS 校内入口，说明申请步骤：先向 RGC 取得 HKPFS 参考号，再完成理大全日制博士申请；2027/28 轮已开放。 |
+| [香港理工大学健康或社会工作专业博士补充奖学金](https://www.polyu.edu.hk/fhss/study/prospective-students/top-up-scholarship)<br><sub>中国香港 ｜ 社会科学/心理·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>HK$12,000/月（整个正常学制期间）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>需先获博士录取再申请，截止随录取轮次变化</sub> | ⛔ | **要求：** 仅限本地（local）博士生；需社会工作或健康专业资格；需先获得 PolyU 博士录取。<br>官网称该补充奖学金仅面向本地博士生，按字面不向内地学生开放；每月 HK$12,000，整个正常学制期间，需保持优秀表现并获得 PolyU 月津贴。截止随录取轮次，官网未见具体日期。 |
+| [香港理工大学工商学院研究型博士](https://www.polyu.edu.hk/fb/study/rpg/research-programmes/?sc_lang=sc)<br><sub>中国香港 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>每月不低于 HK$19,220（研究助理津贴，年份未明确）</sub> | **2027-02-28**<br><sub>🟢 开放申请</sub><br><sub>2027 年 9 月入学截止 2027 年 2 月 28 日；HKPFS 12 月 1 日截止，学院建议优先申请</sub> | ❔ | **要求：** 需硕士学位；名额非常有限；国际生资格以学院说明为准<br>香港理工大学工商学院研究型博士，含研究助理津贴及学费奖学金（以学院页面为准）。2027 年 9 月入学截止 2027 年 2 月 28 日；名额有限，学院建议优先申请 HKPFS。 |
 | [香港科技大学物理系研究生奖学金与奖项](https://physics.hkust.edu.hk/index.php/programs/postgraduate-programs/scholarship-award)<br><sub>中国香港 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>PGS：HK$229,620/年（2026/27，需担任助教）；HKPFS：HK$28,700/月</sub> | —<br><sub>📋 持续更新</sub><br><sub>奖学金列表页，截止以学校当年时间表为准；HKUST 研究生院页称 2025/26 与 2026/27 的 HKPFS 申请均已关闭</sub> | ❔ | **要求：** 全日制博士或 MPhil 入学；学业成绩与英语能力为评选标准；HKPFS 需符合政府计划条件，以当年公告为准<br>港科大物理系博士生奖学金页面，列出学系层面的博士资助。截止以学校当年时间表为准。 |
 
 <a id="r-de"></a>
 
-## 德国（DE）（57）
+## 德国（DE）（58）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -135,6 +214,7 @@
 | [法兰克福歌德大学 GRADE 国际博士生完成奖学金](https://aktuelles.uni-frankfurt.de/en/?p=87352)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>€1,000/月（共 3 个月）</sub> | 各项目不同<br><sub>📋 持续更新</sub> | ✅ | **要求：** 外国国籍的歌德大学在读博士生，论文需在 2026 年或 2027 年初完成<br>法兰克福 GRADE 面向论文收尾阶段的外国国籍在读博士生，属过渡性短期资助而非全奖：每名 1,000 欧元/月，共 3 个月，名额约 5 个。2026 批次截止 2026 年 3 月 29 日（已过），2027 批次预计春季开放，需到官网核实。 |
 | [波恩 Hausdorff 数学中心岗位与机会页](https://www.mathematics.uni-bonn.de/hcm/opportunities/home)<br><sub>德国 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>博后申请截止 2026-11-01；页面显示博士岗位申请截止 2026-12-06</sub> | ❔ | 页面列出当前博士岗位（申请截止 2026 年 12 月 6 日）与博后岗位（申请截止 2026 年 11 月 1 日）。Bonn Junior Fellows 的申请截止 2026 年 9 月 27 日已过。 |
 | [波恩大学数学系 · 博士后岗位](https://www.mathematics.uni-bonn.de/hcm/opportunities/jobs/postdoc-positions)<br><sub>德国 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>页面显示当前公告（MathJobs）申请截止 2026 年 11 月 1 日</sub> | ❔ | 页面为 HCM 博后岗位列表，当前公告通过 MathJobs 申请，申请截止 2026 年 11 月 1 日。 |
+| [波茨坦大学职位公告总页](https://uni-potsdam.de/en/arbeiten-an-der-up/application/job-advertisements)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 以各岗位公告为准，博士岗位通常需相关硕士学位<br>统一职位公告入口，博士岗位多为 3–4 年期限的半岗或全岗。截止日期与国际生资格需以各岗位公告为准。 |
 | [海德堡大学博士生总入口（资助与申请指南）](https://www.uni-heidelberg.de/de/doktorandinnen)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各结构化项目单独截止；DAAD-GSSP 最新轮次未核实</sub> | ❔ | **要求：** LGF 奖学金需先被海德堡大学录取为博士生；DAAD-GSSP 要求硕士或同等学历、成绩优秀<br>海德堡大学博士生总入口。州研究生奖学金（LGF）个人资助 2026 年因州预算削减不设征集，2027 年未公布；结构化项目各自设截止，DAAD-GSSP 最新轮次未核实，请以官网为准。 |
 | [海德堡马普天文研究所（MPIA）IMPRS 页](https://imprs-hd.mpg.de/3192/Application)<br><sub>德国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-11-03**<br><sub>🔜 即将开放</sub> | ❔ | 海德堡 IMPRS 天文与宇宙物理项目，每年秋季入学，名额有限。2027 年秋入学的截止时间为 2026 年 11 月 3 日 14:00（CET），申请系统即将开放；国籍与学位要求以官网为准。 |
 | [科隆德国体育大学（DSHS）博士项目与内部博士奖学金](https://www.dshs-koeln.de/en/research/academic-career/phd-programme)<br><sub>德国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€1,650/月（有子女 €1,850），3 年，可延长 6 个月</sub> | 滚动<br><sub>📋 持续更新</sub><br><sub>页面称博士项目入学申请一般可随时提交；内部博士奖学金的截止以学院公告为准。</sub> | ❔ | **要求：** 需已获得可攻读博士的学位；国际生资格页面未写明<br>内部博士奖学金名额很少（约 2 个）；运动科学背景可联系学院学术职业办公室。 |
@@ -202,7 +282,7 @@
 
 <a id="r-fr"></a>
 
-## 法国（FR）（34）
+## 法国（FR）（35）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -221,6 +301,7 @@
 | [ParisTech × CSC 博士项目](https://paristech.fr/en/paristech-csc-phd-program)<br><sub>法国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€1,350/月（官网所述，36–48 个月）+ 往返机票</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮网申截止 2026-01-14；2027 轮待公告，通常 10 月至次年 2 月</sub> | ✅ | **要求：** 中国籍优秀学生；需通过院校网申与面试录取，并获得 CSC 奖学金<br>需先通过院校面试录取再申请 CSC。2026 轮面试在 1 月底至 2 月初，CSC 报名约 3 月中至 4 月初，可提前关注 2027 轮。 |
 | [ParisTech–CSC 博士项目](https://paristech.fr/fr/paristech-csc-phd-program)<br><sub>法国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请截止 2026-01-14（已过）；活动通常 10 月至次年 2 月开放，2026-27 轮以官网公告为准</sub> | ✅ | **要求：** 中国大陆国籍；须先获 ParisTech 成员校博士录取并通过 CSC 选拔<br>ParisTech–CSC 博士项目：€1,350/月加往返机票（36–48 个月），限 CSC 资助的中国学生，以官网为准。 |
 | [PSL 数学与应用研究生项目博士合同（2026 批次）](https://static.psl.eu/sites/default/files/2026-03/Contrats_doctoraux_PG-Mathematiques-et-applications-PSL%20%28FR%29%20Campagne%202026.pdf)<br><sub>法国 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>€2,300/月（税前，2026 年第一年标准）</sub> | **2026-05-04**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 批次截止 2026 年 5 月 4 日；2027 批次未公布，预计 2027 年初发布。</sub> | ✅ | **要求：** 提交 CV、动机信、导师承诺信、论文计划与成绩单；对法国与国际学生开放，需持数学硕士二年级或同等学位。<br>页面为 2026 年度招募（Campagne 2026），截止 2026 年 5 月 4 日 23:30，结果约 5 月底通知；页面未写明下一轮时间。 |
+| [PSL-NEURO 神经科学博士资助](https://www.psl-neuro.psl.eu/en/calls/psl-neuro-phd-funding)<br><sub>法国 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub> | ❔ | PSL-NEURO 每年资助 2 个博士课题，需 6 月 30 日前经博士学院提交；2026 轮已过，2027 轮待公布。 |
 | [Saclay Plant Sciences（SPS）博士奖学金](https://eng-saclay-plant-sciences.hub.inrae.fr/vertical-headings/sps-calls-and-job-offers/sps-funding/sps-phd-fellowships)<br><sub>法国 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-05-26**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年轮次已开放申请，截止日期以官网为准</sub> | ❔ | **要求：** 需完成 SPS 团队 M2 实习或为列出 M2 项目学生；国际生资格与语言要求未确认<br>2026 届最多提供 2 个 3 年期博士奖学金，申请截止 2026 年 5 月 26 日（午夜），面试定于 6 月 15 日和/或 16 日。页面称合同安排尚未最终确定。 |
 | [Sciences Po 博士合同（与巴黎城市大学联合双文化合同）](https://www.sciencespo.fr/ecole-recherche/en/news/Call-doctoral-contracts-Dual-culture-SciencesPo-UniversiteParisCite-2026/)<br><sub>法国 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-02-10**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 联合合同截止 2 月 10 日已过；未找到 2027 轮公告</sub> | ❔ | 与巴黎城市大学联合的双文化博士合同：全职 36 个月，2026 年 9 月起，适用于 Sciences Po 的法、经、史、政、社五个博士项目。截止 2026 年 2 月 10 日已过；未找到 2027 轮公告。该类公告 2025 年 10 月发布，可关注次年同期。 |
 | [图卢兹大学联盟 CSC 博士项目](https://en.univ-toulouse.fr/research-phd/international-phd-programs/china)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>🔜 即将开放</sub><br><sub>校内截止历年有变动；2027 轮未见公告，以官网为准。</sub> | ❔ | 图卢兹与 CSC 合作（2011 年协议）。2019 年宣传材料称每年约 25 个名额，数字较旧，需核实当期。流程：先在国际论文题目库选题并向国际博士办公室提交，校内截止多为 1–2 月，再到 CSC 申请。 |
@@ -310,7 +391,7 @@
 
 <a id="r-it"></a>
 
-## 意大利（IT）（17）
+## 意大利（IT）（19）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -325,9 +406,11 @@
 | [天主教圣心大学 博士奖学金与补贴说明](https://dottorati.unicatt.it/en/candidarsi/borse-di-studio-e-contributi.html)<br><sub>意大利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€16,243/年（税前，含社保）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 XLII 轮国际生博士招生截止 2026 年 6 月 23 日（已过）；下一轮需看 dottorati.unicatt.it 新公告</sub> | ❔ | 天主教圣心大学博士奖学金：各项目页引用教育部标准，年额约 €16,243（税前）；国际生报名需对照所报项目的带奖名额与当年公告，外国申请人是否享有同等条件需看公告。 |
 | [米兰理工博士院招生公告](https://www.dottorato.polimi.it/)<br><sub>意大利 ｜ 工程·计算机·人工智能·数学/统计·物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | —<br><sub>2027 轮公告未找到；最近可见为第 41 期（2025）竞赛公告，请以官网当年公告为准</sub> | ✅ | 官网称博士招生公告全年陆续发布，平均每年约五个；博士奖学金以月均金额计，页面未给出具体金额。 |
 | [米兰理工大学 CSC 博士申请通道](https://www.polimi.it/dottorato/futuri-dottorandi/accordi-internazionali/china-scholarship-council)<br><sub>意大利 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | **2027-02-01**<br><sub>🔜 即将开放</sub><br><sub>官网称申请自 2026 年 11 月 1 日开放，至 2027 年 2 月 1 日截止。</sub> | ✅ | **要求：** 仅限中国公民申请全日制博士；需成绩单、学位证及推荐信；录取以获得 CSC 奖学金为条件<br>米兰理工与 CSC 有协议，中国国籍的新申请全日制博士可经此通道申请；预录取以 CSC 资助获批为条件，页面称学费减免并为合作渠道受资助者提供 5000 欧研究经费。 |
+| [米兰理工大学航空航天博士（第 42 周期）](https://www.polimi.it/en/phd/prospective-phd-candidates/admission/calls-and-open-positions/ciclo-42/2nd-call)<br><sub>意大利 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | **2026-09-18**<br><sub>⏸ 本轮已截止</sub><br><sub>第 42 周期第 1 轮截止 2026-07-01、第 2 轮截止 2026-09-18，均已过；2027 年周期以官网为准。</sub> | ❔ | **要求：** 一般需硕士或即将完成硕士，相关专业背景，英语达标（第三方摘要）<br>米兰理工博士第 42 周期第 2 轮截止 2026-09-18，已截止；官网页写入学日期 2026-11-01。2027 年周期以官网为准。 |
 | [贝加莫大学 CSC 博士项目](https://www.unibg.it/node/18193)<br><sub>意大利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-01-31**<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 学年预选截止 2026-01-31；页面未见 2027/28 轮次公告。</sub> | ✅ | **要求：** 中国大陆国籍；须通过贝加莫博士录取并获 CSC 资助<br>贝加莫大学接收 CSC 资助博士生，仅录取获 CSC 奖学金的候选人；流程为校内网上预选（2026/27 学年申请期 2025-11-01 至 2026-01-31），通过后再由 CSC 评审。 |
 | [那不勒斯费德里科二世大学人文系 CSC 博士预选](https://www.dottoratostoria.unina.it/?p=1508)<br><sub>意大利 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2025-04-01**<br><sub>⏸ 本轮已截止</sub><br><sub>2025-2026 学年 CSC 预选：提交截止 2025-03-10，CSC 申请截止 2025-04-01（已过）；页面未见 2027 轮公告</sub> | ✅ | 页面为 2025-2026 学年 CSC 博士预选公告（人文系：历史、哲学、语文学、数字人文），申请人需发送材料至两位教授邮箱，经指导委员会面试选拔。 |
 | [都灵大学(UniTo) · 面向 CSC 申请者的博士预选拔(国际化博士项目页)](https://en.unito.it/research/phd/internationalization-phd-courses/)<br><sub>意大利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>🔜 即将开放</sub><br><sub>每年冬末/早春开放预选拔（往年约 2–3 月）；2026–27 轮官方日期未见，需关注该页</sub> | ✅ | **要求：** 预选拔通过后还须获得 CSC 奖学金才会被录取；通常需动机信、简历和简短研究计划<br>都灵大学每年为拟以 CSC 资助读博的中国学生做预选拔，入选者再申请 CSC。具体项目与截止日以该校 CSC 公告为准。 |
+| [都灵理工博士招生公告](https://www.polito.it/en/education/phd-programmes-and-postgraduate-school/admissions-to-phd-programmes/admissions/archive-of-past-calls-for-applications)<br><sub>意大利 ｜ 工程·计算机·人工智能·数学/统计·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>🟢 开放申请</sub><br><sub>第 42 期（2026–27）分三批发布，至少 110 个奖学金名额；具体截止与金额以当期公告为准</sub> | ❔ | **要求：** 需按当期公告要求的学位与材料申请；奖学金按年续期<br>每期约百个奖学金名额，分多个 session；另有 PoliTo-CSC 联合项目。 |
 | [都灵理工大学 CSC 博士预选](https://www.polito.it/en/education/phd-programmes-and-postgraduate-school/admissions-to-phd-programmes/admissions/call-for-applications-csc)<br><sub>意大利 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2025-12-10**<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 轮于 2025-12-10 截止（已过）；下一轮未公布，关注官网 Call for Applications</sub> | ✅ | **要求：** 中国大陆公民；工程、建筑、设计、城规方向；先通过 PoliTO 线上预选并获邀请函，再向 CSC 申请<br>页面称 PoliTO 与 CSC 的合作协议有效期为 2026-2027 学年，博士课程 2026 年 11 月 1 日开始；选拔分两步，先在 PoliTO 线上预选，再向 CSC 申请。页面未载明申请截止日期。 |
 | [都灵理工大学 DBDMG 组 · PhD 机会分类页](https://dbdmg.polito.it/dbdmg_web/category/phd-opportunities)<br><sub>意大利 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2025-11-14**<br><sub>⏸ 本轮已截止</sub> | ❔ | 都灵理工数据库与数据挖掘组的 PhD 机会分类页，列出全额资助博士岗位（2026年3月入学）。意大利博士为有薪岗位，申请者需确认截止与语言要求。 |
 | [都灵理工大学（Politecnico di Torino）CSC 博士合作项目](https://www.polito.it/node/1241)<br><sub>意大利 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 学年预选截止 2025-12-10 已过；下一批次以官网公告为准</sub> | ❔ | **要求：** 预选仅面向中国公民；需先通过 PoliTO 线上预选，再向 CSC 申请奖学金<br>都灵理工大学与国家留学基金委（CSC）的博士合作协议；预选仅面向中国公民，通过后向 CSC 申请奖学金。2026/27 学年批次已截止，下一批次以官网为准。 |
@@ -339,7 +422,7 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Liggins Institute 博士奖学金（奥克兰大学）](https://www.auckland.ac.nz/en/liggins/study-with-us/scholarships-and-awards.html)<br><sub>新西兰 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>截止日期以该页面及 Liggins 学生咨询邮箱为准</sub> | ❔ | **要求：** 需被奥克兰大学 Liggins 研究所博士项目录取；研究须符合母婴健康方向；国际生资格官网未明确<br>Liggins 研究所博士奖学金页：列出 2026 年 3 个奥克兰大学博士奖学金名额，须对应 Liggins 导师并符合母婴健康方向。另有 Start-Up 博士奖学金，为新入学 Liggins 博士生提供首年津贴与学费；截止以奖学金指南为准。 |
-| [MacDiarmid 研究所博士奖学金（新西兰）](https://macdiarmid.ac.nz/about-us/join-us/phd-scholarships)<br><sub>新西兰 ｜ 化学/材料·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>NZD 38,500/年（免税）+ 全部学费</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>无固定轮次；当前研究项目暂无开放名额，新名额会在官网发布。</sub> | ❔ | 材料与物理研究所博士奖学金，官网称每年 3.5 万新西兰元免税生活费并含学费；无固定轮次，国际生资格需向研究所确认。 |
+| [MacDiarmid 研究所博士奖学金（新西兰）](https://macdiarmid.ac.nz/about-us/join-us/phd-scholarships)<br><sub>新西兰 ｜ 化学/材料·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>研究所资助名额 NZD 38,500/年（免税）+ 全部学费；外部资助项目津贴按项目而定</sub> | —<br><sub>🟢 开放申请</sub><br><sub>无固定轮次；研究所自有资助名额本轮已招满，但页面另列外部资助的在招博士项目（如 Leveraging Ferromagnetism in Superconducting Electronics），按项目申请。</sub> | ❔ | MacDiarmid 研究所（材料与物理）博士奖学金：研究所资助名额已招满，页面仍列出外部资助的在招项目及 Pūtaiao Māori 项目；国际生资格需向研究所确认。 |
 | [Massey 兽医学院 Mona and Rex McClenaghan 犬类健康与福利奖学金](https://www.massey.ac.nz/study/scholarships-and-awards/mona-and-rex-mcclenaghan-veterinary-scholarship/)<br><sub>新西兰 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>$50,000 p.a.（页面标注，最长 3 年）</sub> | **2027-02-01**<br><sub>🔜 即将开放</sub><br><sub>页面称 2026 年 11 月 1 日开放申请，2027 年 2 月 1 日截止。</sub> | ❔ | **要求：** 须在 Massey 兽医学院攻读 MVetStud 或 PhD，方向为犬类健康与福利；页面称优先新西兰公民或永久居民，国际申请者也会考虑。<br>仅 1 个名额，每年通常授予硕士或博士一项；页面称新西兰公民或永久居民优先，但国际申请者会被接受并考虑。 |
 | [坎特伯雷大学 UC 博士奖学金](https://www.canterbury.ac.nz/study/getting-started/scholarships/doctoral-scholarships/uc-doctoral-scholarships)<br><sub>新西兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>NZ$32,650/年（按 120 学分，官方宣传册）</sub> | **2027-05-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 10 月轮（10 月 15 日）已截止；下一轮 3 月 20 日开放，5 月 15 日截止，面向 2027 年下半年入学</sub> | ✅ | UC Doctoral Scholarship 核心博士奖学金：每 120 学分 $32,650 加论文类学位学费（最多 360 学分）。申请奖学金前须另在 myUC 提交博士入学申请。 |
 | [奥克兰大学 Murray Wren 建筑学博士奖学金](https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/murray-wren-doctoral-scholarship-in-architecture-816-eng.html)<br><sub>新西兰 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-11-23**<br><sub>⏸ 本轮已截止</sub><br><sub>当前不开放；官网显示下一轮约 2027-10-12 开放、2027-11-23 截止</sub> | ✅ | **要求：** 须符合国内学费资格（新西兰公民、居民等）；博士最多资助 36 个月<br>要求申请人符合国内学费资格（新西兰公民或居民等），中国大陆学生通常不符合。最多 3 年，津贴约 2.7–3.3 万新西兰元/年；当前不开放，下一轮约 2027 年 10–11 月。 |
@@ -355,6 +438,29 @@
 | [梅西大学 Phyllis Irene Grey 兽医科学研究生奖学金](https://www.massey.ac.nz/study/scholarships-and-awards/phyllis-irene-grey-fellowships-in-veterinary-science-postgraduate/)<br><sub>新西兰 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>最高 NZ$3,000/年</sub> | **2027-05-01**<br><sub>⏸ 本轮已截止</sub><br><sub>官网目前显示本轮已关闭，下一轮以官网为准</sub> | ❔ | **要求：** 限女性研究生，需已在梅西兽医科学相关课程就读或录取<br>面向女性兽医科学研究生的小额奖学金，每年通常 1 名；国际生是否可申请以官网为准。 |
 | [梅西大学–CSC 博士学者项目](https://www.massey.ac.nz/study/scholarships-and-awards/china-scholarship-council-massey-university-phd-scholars-programme)<br><sub>新西兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-04-01**<br><sub>⏸ 本轮已截止</sub><br><sub>页面状态标为 Closed，同时列出 2027 轮申请时间 3 月 10 日至 4 月 1 日；以官网为准。</sub> | ✅ | **要求：** 须为中国籍（中国大陆护照）；已获博士录取（有条件或无条件）；须导师支持申请资助<br>每年最多约 20 个名额；学费由梅西大学承担，差旅、住宿与生活费由 CSC 承担，最长约 4 年。CSC 申请时应选择 “International Cooperative Programme”，合作渠道选择 “With Massey University New Zealand Cooperation Scholarship”。 |
 | [梅西大学博士奖学金](https://www.massey.ac.nz/study/scholarships-and-awards/massey-university-doctoral-scholarship/)<br><sub>新西兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$90,000 加学费，为期三年（官网 Key facts）</sub> | **2026-10-01**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 10 月 1 日已截止；官网显示 2027 轮 8 月 1 日开放</sub> | ❔ | **要求：** 需满足学业成绩条件（搜索摘要称 GPA 7.0 以上）；国际生与新西兰生均可申请，具体条款以官网为准<br>2026 轮 10 月 1 日已截止，官网显示 2027 轮 8 月 1 日开放、10 月 1 日前后截止。官网与 2025 年规章 PDF 的津贴金额不一致（$90,000 与 $30,000），以校方通知为准。国际资格摘要称开放国际生，但未见明确的官方国籍条款，cn_eligible 保留 check。 |
+
+<a id="r-kr"></a>
+
+## 韩国（KR）（16）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [KAIST 工学院博士学费减免与生活费说明](https://engineering.kaist.ac.kr/content?menu=142)<br><sub>韩国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>学院平均超过 170 万韩元/月（官网数字，因导师与系所而异）</sub> | — | ✅ | 官方页面：博士免学费（8 学期），工学院生活费平均超过 170 万韩元/月，因系所导师而异。 |
+| [KDI 公共政策研究生院（博士）奖学金](https://kdischool.ac.kr/menu.es?mid=a40203000000)<br><sub>韩国 ｜ 经济/金融·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>以学校每年招生公告为准</sub> | ❔ | 页面列出的 Global Ambassador Scholarship 适用于春季入学的全日制博士。全额奖学金主要面向 ODA 受援国国籍学生，其他国籍可能获部分奖学金；多数学生可获学费全免与月生活费。 |
+| [KIST 学·研协同研究硕博（统合）课程招生](https://kist.re.kr/ko/notice/recruiting-students.do)<br><sub>韩国 ｜ 工程·化学/材料·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>公告列表显示 2027 年上学期招生公告发布于 2026-08-06，列表中未写明截止日期。</sub> | ❔ | KIST 韩文公告板列有 2027 年上学期学·研协同研究硕博（统合）课程招生公告，国际生资格与截止日期需打开原文确认。 |
+| [POSCO TJ Park 财团 POSCO 全球奖学金（在韩研究生）](https://postf.org/en/asia/abroad/faq)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布 | ❔ | **要求：** 须被韩国合作大学硕博录取；近年覆盖指定 27 国国籍申请者，中国大陆是否在列未核实；2027 届细则以官方公告为准。<br>覆盖全额学费与生活费，面向韩国硕博研究生，合作校含首尔大、高丽大、POSTECH、延世；2027 届预计 2026-11 发布。 |
+| [POSTECH GIFT 国际研究生招生指南 2026–27](https://gift.postech.ac.kr/file/2026_27_Admissions_guide_for_international%20students_GIFT.pdf)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | **要求：** 须为外国国籍（申请人及父母，韩国籍兼有其他国籍者不符合）；需达到 TOEFL/IELTS/TOEIC/TEPS 英语标准；可申请 MS、MS-PhD 或 PhD 路线<br>POSTECH GIFT 2026–27 官方招生指南（PDF），涵盖 MS、MS-PhD 与 PhD 路线。未查到 GIFT 专属奖学金金额与截止日期，需以官方 PDF 与 GIFT 办公室为准。国籍条件可能变化。 |
+| [POSTECH 国际研究生招生指南（2026）](https://adm-g.postech.ac.kr/ENG/wp-content/uploads/2026/02/20260209111830_8CIIErRQu2.pdf)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年两轮（2–4 月、7–9 月）均已截止；以官网公告为准。</sub> | ❔ | POSTECH 2026 年两轮均已截止；国际生是否适用 TA/RA 奖学金需以官网支持政策页为准。 |
+| [POSTECH 国际研究生资助政策](https://adm-g.postech.ac.kr/ENG/graduate-info/support-policy/)<br><sub>韩国 ｜ 计算机·工程·物理/天文·化学/材料·生物/生命科学·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>博士 TA/RA 每月 2,200,000 韩元（学费 884,000 + 生活补助 1,316,000），各实验室可不同</sub> | — | 🟡 | **要求：** 国际研究生须满足各项目条件；Ruth L. Satter 奖学金限亚洲女性新生，博士最长两年<br>POSTECH 研究生资助页列出奖学金、助教/助研（TA、RA）与行政岗位三类，并有 Ruth L. Satter、K-GKS 庆尚北道通道等指定项目。助研津贴按学期表现浮动，各实验室规定不同，国际生资格以各项目条款为准。 |
+| [UNIST 蔚山科技院研究生招生](https://adm-g.unist.ac.kr/admg-eng/admission/graduate-admissions.do)<br><sub>韩国 ｜ 计算机·工程·物理/天文·化学/材料·生物/生命科学·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>博士最低约 KRW 13,200,000/年（政府资助轨道）；约 KRW 20,880,000/年（大学资助轨道）</sub> | —<br><sub>春秋两季招生，具体截止以官网当年公告为准</sub> | ✅ | **要求：** 需满足学业与进度要求以维持津贴；学费由 RA/TA 职位覆盖<br>官网 FAQ 称所有学生均获 RA/TA 奖学金，覆盖全部学费并提供月津贴（页面未列金额）；申请流程全程在线。 |
+| [亚洲大学（Ajou University）研究生奖学金（BK21 与校内奖学金）](https://ajou.ac.kr/esr_en/graduate/scholarship-system.do)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>博士创意研究奖学金 1,600,000 韩元/月；博士挑战研究奖学金 1,100,000 韩元/月（BK21 项目）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>以学校每年的研究生招生简章为准。</sub> | ✅ | **要求：** 官方页面未给出国际生具体学历与语言门槛，需看研究生院招生简章。<br>官方页面列出 BK21 博士创意研究奖学金每月 160 万韩元、博士挑战研究奖学金每月 110 万韩元等具体金额，国际学生按同样方式发放月度津贴；学费减免按学校规定执行。BK21 期间博士阶段最多可领取 8 个学期，一般规定为 6 个学期。 |
+| [延世大学 Yonsei Frontier Lab 博士后研究员（非韩国籍）](https://yfl.yonsei.ac.kr/yfl/programs/programs02.do)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>最低博士后年度津贴 5,200 万韩元</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>当前轮次截止日未确认，以 Yonsei Frontier Lab 官网为准</sub> | ✅ | **要求：** 非韩国籍；在读博士（预计当年毕业）或申请时 7 年内获博士；理工科近 2 年发表 2 篇以上论文（人文社科需 JCR Q1 论文 1 篇以上）；需新村/国际校区全职教授推荐；医学、牙科、护理及 Mirae 校区不在范围<br>延世前沿实验室博后资助，每年 2 月和 8 月各一轮，对非韩国籍学者开放；申请前先确认目标课题组。 |
+| [成均馆大学研究生国际生奖学金](https://admission-global.skku.edu/eng/grad/scholarship_grad.html)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | 各项目不同 | 🟡 | 成均馆大学入学奖学金（人文社科按首学期学费 10%–100%）、STEM 奖学金（需教授推荐，最高 100% 学费）及学期成绩奖学金（依 GPA 约 20%–50%）；各院系与年份细则不一，申请前需向学校确认。 |
+| [汉阳大学国际生奖学金](https://gsis.hanyang.ac.kr/en/scholarships)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | — | ❔ | **要求：** GPA 需按百分制折算达到 80 分以上（HISP 条件）；语言类减免需 TOPIK 5–6 或 TOEFL iBT 90+ / IELTS 6.5+（相关截止已过）<br>汉阳大学校级国际生奖学金，包括 HISP（学费减免 50%/70%/100%）等，博士阶段是否适用需核实。未找到 GSIS 专属博士奖学金，GSIS 相关信息需向院系确认。 |
+| [韩国天文研究院（KASI）UST 博士招生公告列表](https://www.kasi.re.kr/eng/post/eng_USTNews)<br><sub>韩国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>页面称博士奖学金提供约每月 1600 美元的有竞争力薪酬（2025 年 9 月发布的 2026A 批次公告）；前 3 年提供校园住宿。</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面 2026A 批次申请窗口为 9 月 22 日至 10 月 16 日（17:00 KST），公告发布于 2025 年 9 月，现已截止；页面未列下一批次时间。</sub> | ✅ | **要求：** 本科学位者可申请本博连读，硕士学位者可直接申请博士；需联系对应研究方向的导师。<br>KASI 通过 UST 招收直博与本博连读学生并提供薪酬，页面 2026A 批次已截止；研究方向每批次不同，申请前需联系对应导师。 |
+| [首尔大学总统奖学金（SNU President Fellowship）](https://oia.snu.ac.kr/node/4736)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-03-30**<br><sub>⏸ 本轮已截止</sub><br><sub>官方指南所见为 Spring 2026 批次，申请窗口已过；下一轮以 SNU 官网为准。</sub> | ❔ | **要求：** 须为发展中国家重点大学在职教师或研究人员，持硕士或以上学位且未获博士学位；国别资格以当年公告为准，中国大陆是否适用未确认。<br>首尔大学总统奖学金（SPF），面向发展中国家重点大学在职教师。资助范围与中国大陆资格未经官方核实，cn_eligible 保持 check。 |
+| [高丽大学 GKS 研究生奖学金页面](https://graduate2.korea.ac.kr/scholarship/gkscholarships.html)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>每月生活费 1,000,000 韩元，另有学费全免与研究费等</sub> | 未公布<br><sub>GKS-G 2027 尚未正式公布（第三方称）；大学通道以高丽大学及 NIIED 公告为准</sub> | ❔ | **要求：** 以 NIIED 当年指南为准；需在 studyinkorea.go.kr 完成线上申请<br>页面列出研究生项目：学费由东道大学与 NIIED 承担，每月生活费 1,000,000 韩元；申请人及父母须为指南所列国家公民，韩国国籍不可申请。 |
+| [高丽大学商学院博士奖学金](https://biz.korea.ac.kr/eng/msphd/scholarship.html)<br><sub>韩国 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>博士候选人奖学金 40 万韩元/月（最长 6 学期）；研究奖学金 130 万韩元/月（最长 10 学期）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>以商学院每年公告为准</sub> | ❔ | **要求：** 摘要未说明国际生资格，以官网为准<br>高丽大学商学院英文博士项目，两档奖学金金额据学院官网页面；国际生资格与选拔方式需以官网为准。 |
 
 <a id="r-be"></a>
 
@@ -377,49 +483,6 @@
 | [根特大学 CSC 博士合作项目](https://www.ugent.be/plone_portal/en/research/funding/globalsouth/cscprogram)<br><sub>比利时 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>CSC 每月约 €1,350；根特另有补助使收入达到大学建议最低收入（页面未给具体金额）</sub> | —<br><sub>🔜 即将开放</sub><br><sub>页面未给具体截止日期，仅链接年度通知；合作协议期 2023-11-30 至 2028-11-30</sub> | ✅ | **要求：** 须为中国籍并符合 CSC 资格；优先项目须先获根特大学预选，再向 CSC 提交申请；需英语 B2；获 CSC 资助确认函后方可注册并免学费与实验费<br>根特大学与 CSC 的合作协议 2023-11-30 至 2028-11-30，优先项目每年约选 50 名博士生，免学费与实验费并获根特补助。CSC 个人项目不自动获得根特补助。 |
 | [根特大学 MSCA 博士后奖学金信息页](https://www.ugent.be/en/research/funding/eu-int/msca-pf.htm)<br><sub>比利时 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-09-09**<br><sub>⏸ 本轮已截止</sub> | ✅ | **要求：** 截止日前须已取得博士学位，且博士学位获得不超过 8 年（页面称可延期）；需东道机构（根特大学教授）共同撰写申请。<br>根特大学 MSCA-PF 校内说明页：年度征集，通常 4–5 月开放、9 月截止。欧洲奖学金（European Fellowships）页面称对任何国籍研究人员开放；若截止前三年内在比利时停留超过 12 个月，页面列出的可选项不包括以根特大学为东道的欧洲奖学金。 |
 | [根特大学 × 国家留学基金委（CSC）联合博士项目](https://www.ugent.be/en/research/funding/bof/chn)<br><sub>比利时 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | **2026-12-16**<br><sub>🔜 即将开放</sub><br><sub>UGent 预选截止 2026-12-16；入学程序须在 CSC 截止（2027 年 3 月）前完成。</sub> | ✅ | **要求：** 须先获得 UGent 教授同意担任导师并以 UGent 与国内高校联合攻读博士；仅在境外交换、拟在中国完成博士的学生不符合<br>UGent 与 CSC 合作协议（2023-11-30 至 2028-11-30）：每年共同资助约 50 名新 CSC 博士生，当前批次为 2027 年 10 月入学。需先联系 UGent 教授再走 CSC 申请，截止以官网为准。 |
-
-<a id="r-kr"></a>
-
-## 韩国（KR）（15）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [KAIST 工学院博士学费减免与生活费说明](https://engineering.kaist.ac.kr/content?menu=142)<br><sub>韩国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>学院平均超过 170 万韩元/月（官网数字，因导师与系所而异）</sub> | — | ✅ | 官方页面：博士免学费（8 学期），工学院生活费平均超过 170 万韩元/月，因系所导师而异。 |
-| [KDI 公共政策研究生院（博士）奖学金](https://kdischool.ac.kr/menu.es?mid=a40203000000)<br><sub>韩国 ｜ 经济/金融·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>以学校每年招生公告为准</sub> | ❔ | 页面列出的 Global Ambassador Scholarship 适用于春季入学的全日制博士。全额奖学金主要面向 ODA 受援国国籍学生，其他国籍可能获部分奖学金；多数学生可获学费全免与月生活费。 |
-| [KIST 学·研协同研究硕博（统合）课程招生](https://kist.re.kr/ko/notice/recruiting-students.do)<br><sub>韩国 ｜ 工程·化学/材料·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>公告列表显示 2027 年上学期招生公告发布于 2026-08-06，列表中未写明截止日期。</sub> | ❔ | KIST 韩文公告板列有 2027 年上学期学·研协同研究硕博（统合）课程招生公告，国际生资格与截止日期需打开原文确认。 |
-| [POSCO TJ Park 财团 POSCO 全球奖学金（在韩研究生）](https://postf.org/en/asia/abroad/faq)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布 | ❔ | **要求：** 须被韩国合作大学硕博录取；近年覆盖指定 27 国国籍申请者，中国大陆是否在列未核实；2027 届细则以官方公告为准。<br>覆盖全额学费与生活费，面向韩国硕博研究生，合作校含首尔大、高丽大、POSTECH、延世；2027 届预计 2026-11 发布。 |
-| [POSTECH GIFT 国际研究生招生指南 2026–27](https://gift.postech.ac.kr/file/2026_27_Admissions_guide_for_international%20students_GIFT.pdf)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | **要求：** 须为外国国籍（申请人及父母，韩国籍兼有其他国籍者不符合）；需达到 TOEFL/IELTS/TOEIC/TEPS 英语标准；可申请 MS、MS-PhD 或 PhD 路线<br>POSTECH GIFT 2026–27 官方招生指南（PDF），涵盖 MS、MS-PhD 与 PhD 路线。未查到 GIFT 专属奖学金金额与截止日期，需以官方 PDF 与 GIFT 办公室为准。国籍条件可能变化。 |
-| [POSTECH 国际研究生招生指南（2026）](https://adm-g.postech.ac.kr/ENG/wp-content/uploads/2026/02/20260209111830_8CIIErRQu2.pdf)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年两轮（2–4 月、7–9 月）均已截止；以官网公告为准。</sub> | ❔ | POSTECH 2026 年两轮均已截止；国际生是否适用 TA/RA 奖学金需以官网支持政策页为准。 |
-| [UNIST 蔚山科技院研究生招生](https://adm-g.unist.ac.kr/admg-eng/admission/graduate-admissions.do)<br><sub>韩国 ｜ 计算机·工程·物理/天文·化学/材料·生物/生命科学·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>博士最低约 KRW 13,200,000/年（政府资助轨道）；约 KRW 20,880,000/年（大学资助轨道）</sub> | —<br><sub>春秋两季招生，具体截止以官网当年公告为准</sub> | ✅ | **要求：** 需满足学业与进度要求以维持津贴；学费由 RA/TA 职位覆盖<br>官网 FAQ 称所有学生均获 RA/TA 奖学金，覆盖全部学费并提供月津贴（页面未列金额）；申请流程全程在线。 |
-| [亚洲大学（Ajou University）研究生奖学金（BK21 与校内奖学金）](https://ajou.ac.kr/esr_en/graduate/scholarship-system.do)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>博士创意研究奖学金 1,600,000 韩元/月；博士挑战研究奖学金 1,100,000 韩元/月（BK21 项目）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>以学校每年的研究生招生简章为准。</sub> | ✅ | **要求：** 官方页面未给出国际生具体学历与语言门槛，需看研究生院招生简章。<br>官方页面列出 BK21 博士创意研究奖学金每月 160 万韩元、博士挑战研究奖学金每月 110 万韩元等具体金额，国际学生按同样方式发放月度津贴；学费减免按学校规定执行。BK21 期间博士阶段最多可领取 8 个学期，一般规定为 6 个学期。 |
-| [延世大学 Yonsei Frontier Lab 博士后研究员（非韩国籍）](https://yfl.yonsei.ac.kr/yfl/programs/programs02.do)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>最低博士后年度津贴 5,200 万韩元</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>当前轮次截止日未确认，以 Yonsei Frontier Lab 官网为准</sub> | ✅ | **要求：** 非韩国籍；在读博士（预计当年毕业）或申请时 7 年内获博士；理工科近 2 年发表 2 篇以上论文（人文社科需 JCR Q1 论文 1 篇以上）；需新村/国际校区全职教授推荐；医学、牙科、护理及 Mirae 校区不在范围<br>延世前沿实验室博后资助，每年 2 月和 8 月各一轮，对非韩国籍学者开放；申请前先确认目标课题组。 |
-| [成均馆大学研究生国际生奖学金](https://admission-global.skku.edu/eng/grad/scholarship_grad.html)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | 各项目不同 | 🟡 | 成均馆大学入学奖学金（人文社科按首学期学费 10%–100%）、STEM 奖学金（需教授推荐，最高 100% 学费）及学期成绩奖学金（依 GPA 约 20%–50%）；各院系与年份细则不一，申请前需向学校确认。 |
-| [汉阳大学国际生奖学金](https://gsis.hanyang.ac.kr/en/scholarships)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | — | ❔ | **要求：** GPA 需按百分制折算达到 80 分以上（HISP 条件）；语言类减免需 TOPIK 5–6 或 TOEFL iBT 90+ / IELTS 6.5+（相关截止已过）<br>汉阳大学校级国际生奖学金，包括 HISP（学费减免 50%/70%/100%）等，博士阶段是否适用需核实。未找到 GSIS 专属博士奖学金，GSIS 相关信息需向院系确认。 |
-| [韩国天文研究院（KASI）UST 博士招生公告列表](https://www.kasi.re.kr/eng/post/eng_USTNews)<br><sub>韩国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>页面称博士奖学金提供约每月 1600 美元的有竞争力薪酬（2025 年 9 月发布的 2026A 批次公告）；前 3 年提供校园住宿。</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面 2026A 批次申请窗口为 9 月 22 日至 10 月 16 日（17:00 KST），公告发布于 2025 年 9 月，现已截止；页面未列下一批次时间。</sub> | ✅ | **要求：** 本科学位者可申请本博连读，硕士学位者可直接申请博士；需联系对应研究方向的导师。<br>KASI 通过 UST 招收直博与本博连读学生并提供薪酬，页面 2026A 批次已截止；研究方向每批次不同，申请前需联系对应导师。 |
-| [首尔大学总统奖学金（SNU President Fellowship）](https://oia.snu.ac.kr/node/4736)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-03-30**<br><sub>⏸ 本轮已截止</sub><br><sub>官方指南所见为 Spring 2026 批次，申请窗口已过；下一轮以 SNU 官网为准。</sub> | ❔ | **要求：** 须为发展中国家重点大学在职教师或研究人员，持硕士或以上学位且未获博士学位；国别资格以当年公告为准，中国大陆是否适用未确认。<br>首尔大学总统奖学金（SPF），面向发展中国家重点大学在职教师。资助范围与中国大陆资格未经官方核实，cn_eligible 保持 check。 |
-| [高丽大学 GKS 研究生奖学金页面](https://graduate2.korea.ac.kr/scholarship/gkscholarships.html)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>每月生活费 1,000,000 韩元，另有学费全免与研究费等</sub> | 未公布<br><sub>GKS-G 2027 尚未正式公布（第三方称）；大学通道以高丽大学及 NIIED 公告为准</sub> | ❔ | **要求：** 以 NIIED 当年指南为准；需在 studyinkorea.go.kr 完成线上申请<br>页面列出研究生项目：学费由东道大学与 NIIED 承担，每月生活费 1,000,000 韩元；申请人及父母须为指南所列国家公民，韩国国籍不可申请。 |
-| [高丽大学商学院博士奖学金](https://biz.korea.ac.kr/eng/msphd/scholarship.html)<br><sub>韩国 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>博士候选人奖学金 40 万韩元/月（最长 6 学期）；研究奖学金 130 万韩元/月（最长 10 学期）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>以商学院每年公告为准</sub> | ❔ | **要求：** 摘要未说明国际生资格，以官网为准<br>高丽大学商学院英文博士项目，两档奖学金金额据学院官网页面；国际生资格与选拔方式需以官网为准。 |
-
-<a id="r-ie"></a>
-
-## 爱尔兰（IE）（14）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [UCD 艺术史与文化政策学院 Ad Astra 博士奖学金](https://www.ucd.ie/arthistory/newsandevents/ucdphdstudentships)<br><sub>爱尔兰 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€22,000/年（另含 €4,000/年研究经费）</sub> | 未公布<br><sub>搜索未见截止日；申请前见 PDF 或联系 arthistory.culturalpolicy@ucd.ie 确认当年是否开放。</sub> | ✅ | 当前可见为创意与文化产业方向 Ad Astra 博士奖学金（Benjamin Anderson 指导），面向欧盟与非欧盟申请者，全额学费减免，最长 4 年全日制；截止日期未公布。 |
-| [University College Cork 法学院全奖博士奖学金（学费+年津贴）](https://www.ucc.ie/en/law/news/school-of-law-phd-scholarship.html)<br><sub>爱尔兰 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>EUR 25,000/年，最长4年</sub> | **2026-06-19**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 秋季入学轮截止 2026-06-19；下一轮时间待页面更新</sub> | ✅ | **要求：** 页面写明学费对欧盟与非欧盟申请人均全免；需法学一等或高2.1本科学位，另需法学硕士或相关职业经历；仅限全职<br>官方页面明确非欧盟学生可申请，需先准备研究计划并联系导师；咨询 lawpostgrad@ucc.ie。本轮已过，关注下一轮发布。 |
-| [戈尔韦大学 Hardiman 博士奖学金](https://universityofgalway.ie/hardiman-scholarships/)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€25,000/年</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 入学批次申请已关闭（截止为 2026 年 2 月 6 日 17:00 爱尔兰时间），申请人已获通知结果；页面未见 2027 入学批次公告。</sub> | ❔ | **要求：** 需一等荣誉或二等一级学位或同等学历，国际生资格以页面为准。<br>四年制全额资助博士奖：每年生活津贴 €25,000 加学费全免，面向 2026 年 9 月 1 日入学者。申请需指定一名导师（导师表须在截止前提交），并提交申请表与两份学术推荐信。 |
-| [爱尔兰高威大学 · 研究岗位与带奖博士招聘页（含 Research Ireland 资助中心课题）](https://www.universityofgalway.ie/about-us/jobs/research/)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止日不同，滚动发布，需逐条查看</sub> | ❔ | **要求：** 以各岗位公告为准<br>高威大学官方研究岗位列表，常有 Research Ireland 资助中心的博士课题和博后岗位。各岗位国际生资格与津贴以单条职位说明为准。 |
-| [科克大学（UCC）CSC 博士项目指南（医学与健康学院）](https://www.ucc.ie/en/media/academic/medicineandhealth/graduateschool/ChinaScholarshipCouncil-UCCPhDProgrammeGuidelinesforCOMH.pdf)<br><sub>爱尔兰 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>学院内部截止为每年1月第一个周五（依指南）；2026/27 已关闭；2027 轮是否公布未确认</sub> | ❔ | **要求：** 需先通过学院内部遴选（最多 2 人），再经 UCCApply 正式申请，正式截止 2 月 1 日（依指南）；CSC 名额，中国籍<br>中国国家留学基金委（CSC）资助 UCC 博士，CSC 提供生活津贴，UCC 减免学费；仅限医学与健康学院，学院内部截止为每年 1 月第一个周五。2026/27 轮已关闭，2027 轮需向学院确认。 |
-| [都柏林圣三一学院 CSC 联合奖学金](https://tcd.ie/study/international/scholarships/postgraduate/csc)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 轮已结束（官网称 2026 年 3 月公布学院入围结果，之后由导师代为向 CSC 申请）；2027/28 轮待公告</sub> | ✅ | **要求：** 须已获 TCD 无条件录取，且尚未持有博士学位；须为中国大陆公民或永居者（不含港澳台）<br>TCD 免学费；CSC 提供生活费和机票（页面未提及保险）。资助仅限中国大陆公民或永居者（不含港澳台），页面未列出名额数量，先由学院筛选。 |
-| [都柏林圣三一学院 TRDA 院系博士奖学金](https://tcd.ie/graduatestudies/awards/trda-school-based)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€25,000/年（津贴）+ 学费减免，共四年</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面未给出申请截止日期；2026-27 名额已分配给各院系，需直接联系拟申请院系，院系通常于入学前六月底前决定分配。</sub> | ✅ | **要求：** 欧盟与非欧盟新入学全日制研究博士均可申请；名额每院系每年一个，由院系决定分配，非保证获得<br>每院系每年一个 TRDA，津贴 €25,000/年加学费减免，共四年；名额由院系决定分配，非保证获得。页面未列明截止日期。 |
-| [都柏林圣三一学院法学院博士研究奖](https://www.tcd.ie/law/programmes/postgraduate/research-programmes/scholarship-opportunities/)<br><sub>爱尔兰 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€25,000/年</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面针对 2026 年 9 月入学的新生；2027 年入学批次的截止日期待公布。</sub> | ✅ | **要求：** 全日制新入学博士生，欧盟与非欧盟学生均可获得学费全免及年津贴。<br>法学院两项博士奖（TRDA 及法学院博士研究奖）每项四年，年津贴 €25,000 并免全部学费，欧盟与非欧盟学生均可申请。页面所列 2026 年 9 月入学批次的个人陈述截止日为 2026 年 5 月 15 日，2027 年批次页面未公布。 |
-| [都柏林圣三一学院社会科学与哲学学院（博士）](https://www.tcd.ie/courses/postgraduate/postgraduate-research/arts-humanities-and-social-sciences/school-of-social-sciences-and-philosophy/)<br><sub>爱尔兰 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>2027 轮需以 TCD 官网公告为准</sub> | 🟡 | **要求：** 需先申请并获 TCD 博士入学；奖学金多为竞争性且指定项目或导师，并非全部名额开放<br>需先申请 TCD 博士入学。Ussher、Grattan 等奖学金覆盖学费并提供生活费，但竞争性强，多与项目或导师相关，并非全部名额开放。2027 轮以 TCD 官网为准。 |
-| [都柏林圣三一学院语言、传播与社会科学学院博士奖学金与资助](https://www.tcd.ie/slscs/postgraduate/scholarships-and-funding/)<br><sub>爱尔兰 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>TRDA €25,000/年 + 学费减免（2026-27）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>2026–27 TRDA 学院名额的截止已过；2027–28 轮次未公布，以 TCD 官网为准。各奖学金截止不同，需进入项目页核实。</sub> | ✅ | **要求：** TRDA 面向新入学全日制博士；CSC–TCD 联合项目面向中国博士生，提供学费减免与生活补助（以官网为准）<br>学院层面的博士奖学金入口页，适合语言学、传播学与社会学方向的申请者作为起点。 |
-| [都柏林圣三一学院语言文学与文化学院博士奖学金汇总](https://www.tcd.ie/langs-lits-cultures/programmes/postgraduate/funding-and-scholarships/)<br><sub>爱尔兰 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各奖学金截止日期不同，需逐项到对应项目页核实。</sub> | ❔ | **要求：** 国际生资格因奖学金而异，申请前确认是否向非欧盟学生开放。<br>语言文学与文化学院的奖学金入口页，列出学校、学院与项目层面的博士资助。 |
-| [都柏林城市大学人文社科博士奖学金页](https://www.dcu.ie/humanities-and-social-sciences/phd-scholarships)<br><sub>爱尔兰 ｜ 人文/语言·社会科学/心理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面列出 2026 年各学院博士奖学金入口；其中 EPA 资助的博士项目标注截止日期为 2025 年 6 月 30 日（已过）。具体轮次以各学院页面为准。</sub> | ❔ | 奖学金列表页，具体轮次与国际生资格以官网为准。 |
-| [都柏林大学 UCD 护理与卫生系统学院全球健康博士全额奖学金](https://www.ucd.ie/nmhs/newsandevents/2026newsandevents/phdscholarshipglobalhealth)<br><sub>爱尔兰 ｜ 医学/公卫·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€25,000/年（2026 轮）</sub> | **2026-04-16**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 全球健康轮 4 月 16 日已截止；2027 轮未公布，以学院页面为准</sub> | ❔ | **要求：** 需健康、社会科学或教育相关背景及研究方法经验；需提交 CV、个人陈述、研究计划，满足英语要求<br>UCD 护理与卫生系统学院 Ad Astra 博士奖学金（全球健康方向）2026 轮：每年 €25,000 生活津贴、四年学费、€31,000 研究经费。2026 轮 4 月 16 日截止已关闭；未见 2027 轮公告，可关注学院博士奖学金页面。 |
-| [都柏林大学学院（UCD）中国奖学金计划（CSC）](https://www.ucd.ie/graduatestudies/studywithus/feesfundingandscholarships/chinascholarshipscheme)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€16,200/年（CSC 生活费，由 CSC 支付）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面称 2026 年秋季入学的在线申请已关闭；FAQ 写明申请截止为 1 月 31 日（FAQ 年份为 2025，未必是最新轮）。2027 轮日期未公布。</sub> | ✅ | **要求：** 雅思 6.5（单项不低于 6.0）或托福 90，成绩需在截止前有效且 2 年内；需 UCD 导师同意支持申请<br>UCD 中国奖学金计划（CSC 项目）：UCD 承担学费，CSC 承担生活费与往返机票；可选 4 年全日制博士或 6–24 个月联合培养。 |
 
 <a id="r-sg"></a>
 
@@ -462,6 +525,26 @@
 | [清华大学（新竹）国际生奖学金（博士生）](https://apply.nthu.edu.tw/en/article/102-nthu-scholarship)<br><sub>中国台湾 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>NTD 20,000–40,000/月（依学院），学费与学分费免除</sub> | —<br><sub>⏸ 本轮已截止</sub> | ❔ | 清华（台湾）国际生奖学金，依学院不同，工学院 2026 年秋季班申请 9 月 30 日已过；每年依学业表现重新评选。 |
 | [清华大学（新竹）国际研究生奖学金 Type A/B](https://oga.site.nthu.edu.tw/var/file/524/1524/img/749516311.pdf)<br><sub>中国台湾 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>Type A：学杂费全免 + 月补助，博士约 NT$20,000–40,000/月（OGA 出资 10,000 + 导师/系所 10,000–30,000；人文社科基数 NT$10,000）；Type B 仅免学费</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2027 春季申请 2026-08-03 至 2026-09-30 已截止；2027 秋季窗口未经官方核实</sub> | ❔ | **要求：** 入学申请时自动参评，无需另行申请；持台湾工作/居留身份者不符合资格；每年需续领<br>清华大学（新竹）国际研究生奖学金：Type A 为全额学费加月补助，Type B 仅减免学杂费、无补助。不可与台湾政府奖学金叠加。2026-09-30 属 2027 春季批次；秋季时间需在 OGA 官网核实。 |
 | [辅仁大学 新入学国际博士生奖学金](https://www.fju.edu.tw/scholarship.jsp?labelID=5)<br><sub>中国台湾 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>NT$50,000/学期，最多 8 学期（另有学费与杂费减免或部分减免）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>随每年招生简章，申请在线入学申请时一并提交；以辅仁官网当年简章为准</sub> | ❔ | **要求：** 新入学外国籍博士生（须正式入学为学位生）；不得领取其他奖学金；每博士班每年约 1 名，需另行提交奖学金申请；陆生资格未在官网确认<br>辅仁大学官网列出新入学国际博士生的学杂费减免与每学期 NT$50,000 津贴，最多 8 学期；每个博士班每年名额有限。学费减免幅度以当年简章为准。 |
+
+<a id="r-ie"></a>
+
+## 爱尔兰（IE）（13）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [UCD 艺术史与文化政策学院 Ad Astra 博士奖学金](https://www.ucd.ie/arthistory/newsandevents/ucdphdstudentships)<br><sub>爱尔兰 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€22,000/年（另含 €4,000/年研究经费）</sub> | 未公布<br><sub>搜索未见截止日；申请前见 PDF 或联系 arthistory.culturalpolicy@ucd.ie 确认当年是否开放。</sub> | ✅ | 当前可见为创意与文化产业方向 Ad Astra 博士奖学金（Benjamin Anderson 指导），面向欧盟与非欧盟申请者，全额学费减免，最长 4 年全日制；截止日期未公布。 |
+| [University College Cork 法学院全奖博士奖学金（学费+年津贴）](https://www.ucc.ie/en/law/news/school-of-law-phd-scholarship.html)<br><sub>爱尔兰 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>EUR 25,000/年，最长4年</sub> | **2026-06-19**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 秋季入学轮截止 2026-06-19；下一轮时间待页面更新</sub> | ✅ | **要求：** 页面写明学费对欧盟与非欧盟申请人均全免；需法学一等或高2.1本科学位，另需法学硕士或相关职业经历；仅限全职<br>官方页面明确非欧盟学生可申请，需先准备研究计划并联系导师；咨询 lawpostgrad@ucc.ie。本轮已过，关注下一轮发布。 |
+| [戈尔韦大学 Hardiman 博士奖学金](https://universityofgalway.ie/hardiman-scholarships/)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€25,000/年</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 入学批次申请已关闭（截止为 2026 年 2 月 6 日 17:00 爱尔兰时间），申请人已获通知结果；页面未见 2027 入学批次公告。</sub> | ❔ | **要求：** 需一等荣誉或二等一级学位或同等学历，国际生资格以页面为准。<br>四年制全额资助博士奖：每年生活津贴 €25,000 加学费全免，面向 2026 年 9 月 1 日入学者。申请需指定一名导师（导师表须在截止前提交），并提交申请表与两份学术推荐信。 |
+| [爱尔兰高威大学 · 研究岗位与带奖博士招聘页（含 Research Ireland 资助中心课题）](https://www.universityofgalway.ie/about-us/jobs/research/)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止日不同，滚动发布，需逐条查看</sub> | ❔ | **要求：** 以各岗位公告为准<br>高威大学官方研究岗位列表，常有 Research Ireland 资助中心的博士课题和博后岗位。各岗位国际生资格与津贴以单条职位说明为准。 |
+| [科克大学（UCC）CSC 博士项目指南（医学与健康学院）](https://www.ucc.ie/en/media/academic/medicineandhealth/graduateschool/ChinaScholarshipCouncil-UCCPhDProgrammeGuidelinesforCOMH.pdf)<br><sub>爱尔兰 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>学院内部截止为每年1月第一个周五（依指南）；2026/27 已关闭；2027 轮是否公布未确认</sub> | ❔ | **要求：** 需先通过学院内部遴选（最多 2 人），再经 UCCApply 正式申请，正式截止 2 月 1 日（依指南）；CSC 名额，中国籍<br>中国国家留学基金委（CSC）资助 UCC 博士，CSC 提供生活津贴，UCC 减免学费；仅限医学与健康学院，学院内部截止为每年 1 月第一个周五。2026/27 轮已关闭，2027 轮需向学院确认。 |
+| [都柏林圣三一学院 CSC 联合奖学金](https://tcd.ie/study/international/scholarships/postgraduate/csc)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 轮已结束（官网称 2026 年 3 月公布学院入围结果，之后由导师代为向 CSC 申请）；2027/28 轮待公告</sub> | ✅ | **要求：** 须已获 TCD 无条件录取，且尚未持有博士学位；须为中国大陆公民或永居者（不含港澳台）<br>TCD 免学费；CSC 提供生活费和机票（页面未提及保险）。资助仅限中国大陆公民或永居者（不含港澳台），页面未列出名额数量，先由学院筛选。 |
+| [都柏林圣三一学院 TRDA 院系博士奖学金](https://tcd.ie/graduatestudies/awards/trda-school-based)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€25,000/年（津贴）+ 学费减免，共四年</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面未给出申请截止日期；2026-27 名额已分配给各院系，需直接联系拟申请院系，院系通常于入学前六月底前决定分配。</sub> | ✅ | **要求：** 欧盟与非欧盟新入学全日制研究博士均可申请；名额每院系每年一个，由院系决定分配，非保证获得<br>每院系每年一个 TRDA，津贴 €25,000/年加学费减免，共四年；名额由院系决定分配，非保证获得。页面未列明截止日期。 |
+| [都柏林圣三一学院法学院博士研究奖](https://www.tcd.ie/law/programmes/postgraduate/research-programmes/scholarship-opportunities/)<br><sub>爱尔兰 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€25,000/年</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面针对 2026 年 9 月入学的新生；2027 年入学批次的截止日期待公布。</sub> | ✅ | **要求：** 全日制新入学博士生，欧盟与非欧盟学生均可获得学费全免及年津贴。<br>法学院两项博士奖（TRDA 及法学院博士研究奖）每项四年，年津贴 €25,000 并免全部学费，欧盟与非欧盟学生均可申请。页面所列 2026 年 9 月入学批次的个人陈述截止日为 2026 年 5 月 15 日，2027 年批次页面未公布。 |
+| [都柏林圣三一学院语言、传播与社会科学学院博士奖学金与资助](https://www.tcd.ie/slscs/postgraduate/scholarships-and-funding/)<br><sub>爱尔兰 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>TRDA €25,000/年 + 学费减免（2026-27）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>2026–27 TRDA 学院名额的截止已过；2027–28 轮次未公布，以 TCD 官网为准。各奖学金截止不同，需进入项目页核实。</sub> | ✅ | **要求：** TRDA 面向新入学全日制博士；CSC–TCD 联合项目面向中国博士生，提供学费减免与生活补助（以官网为准）<br>学院层面的博士奖学金入口页，适合语言学、传播学与社会学方向的申请者作为起点。 |
+| [都柏林圣三一学院语言文学与文化学院博士奖学金汇总](https://www.tcd.ie/langs-lits-cultures/programmes/postgraduate/funding-and-scholarships/)<br><sub>爱尔兰 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各奖学金截止日期不同，需逐项到对应项目页核实。</sub> | ❔ | **要求：** 国际生资格因奖学金而异，申请前确认是否向非欧盟学生开放。<br>语言文学与文化学院的奖学金入口页，列出学校、学院与项目层面的博士资助。 |
+| [都柏林城市大学人文社科博士奖学金页](https://www.dcu.ie/humanities-and-social-sciences/phd-scholarships)<br><sub>爱尔兰 ｜ 人文/语言·社会科学/心理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面列出 2026 年各学院博士奖学金入口；其中 EPA 资助的博士项目标注截止日期为 2025 年 6 月 30 日（已过）。具体轮次以各学院页面为准。</sub> | ❔ | 奖学金列表页，具体轮次与国际生资格以官网为准。 |
+| [都柏林大学 UCD 护理与卫生系统学院全球健康博士全额奖学金](https://www.ucd.ie/nmhs/newsandevents/2026newsandevents/phdscholarshipglobalhealth)<br><sub>爱尔兰 ｜ 医学/公卫·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€25,000/年（2026 轮）</sub> | **2026-04-16**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 全球健康轮 4 月 16 日已截止；2027 轮未公布，以学院页面为准</sub> | ❔ | **要求：** 需健康、社会科学或教育相关背景及研究方法经验；需提交 CV、个人陈述、研究计划，满足英语要求<br>UCD 护理与卫生系统学院 Ad Astra 博士奖学金（全球健康方向）2026 轮：每年 €25,000 生活津贴、四年学费、€31,000 研究经费。2026 轮 4 月 16 日截止已关闭；未见 2027 轮公告，可关注学院博士奖学金页面。 |
+| [都柏林大学学院（UCD）中国奖学金计划（CSC）](https://www.ucd.ie/graduatestudies/studywithus/feesfundingandscholarships/chinascholarshipscheme)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€16,200/年（CSC 生活费，由 CSC 支付）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面称 2026 年秋季入学的在线申请已关闭；FAQ 写明申请截止为 1 月 31 日（FAQ 年份为 2025，未必是最新轮）。2027 轮日期未公布。</sub> | ✅ | **要求：** 雅思 6.5（单项不低于 6.0）或托福 90，成绩需在截止前有效且 2 年内；需 UCD 导师同意支持申请<br>UCD 中国奖学金计划（CSC 项目）：UCD 承担学费，CSC 承担生活费与往返机票；可选 4 年全日制博士或 6–24 个月联合培养。 |
 
 <a id="r-se"></a>
 
@@ -628,227 +711,5 @@
 | [KFUPM 沙特石油大学全额奖学金（MS/PhD）](https://cgis.kfupm.edu.sa/admission/kfupm-scholarship)<br><sub>沙特 ｜ 工程·化学/材料·物理/天文·数学/统计·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ❔ | **要求：** 需本科或硕士成绩优异（高 GPA）并被录取为全日制 MS/PhD；搜索结果中官网未写明中国籍条款，需以 CGIS 页面为准。<br>页面称为所有博士项目（含 PhD 直通项目）提供奖学金，福利包括免学费、按类别发放津贴、校内住宿、医疗牙科、补贴餐食，国际生机票仅限国际学生。国际生资格与截止日期页面未写明，需以官网为准。 |
 | [KSU 沙特国王大学全球博士奖学金计划](https://dgsinitiative.ksu.edu.sa/)<br><sub>沙特 ｜ 计算机·人工智能·工程·物理/天文·化学/材料·生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>年生活补贴 54,000（页面标注折合 14,400 美元），学制 3 年</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2025 年轮次已截止；2026 年轮次以官网为准</sub> | ❔ | **要求：** 需认可机构硕士学位；TOEFL iBT 61 / IELTS 6 / STEP 85（在美、加、英、爱尔兰、澳、新西兰获硕士可豁免）；两封推荐信、CV、研究陈述；GRE 非必须。<br>页面列出全额学费、住宿与医疗等福利；2025 年申请期已关闭，页面未公布下一轮时间。 |
 
-<a id="r-id"></a>
-
-## ID（4）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [Airlangga 大学 KNB 奖学金（发展中国家国际生）](https://global.unair.ac.id/kemitraan-negara-berkembang-knb)<br><sub>ID ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-03-31**<br><sub>⏸ 本轮已截止</sub> | ❔ | **要求：** 需为发展中国家国民（官方名单未找到中国）；需取得印尼政府 KNB 推荐函（通常经驻外使领馆办理）；2027 窗口以官网为准<br>印尼 KNB（发展中国家伙伴）奖学金，需为发展中国家国民（中国是否在名单内未核实）并取得印尼政府 KNB 推荐函。2026 窗口 2 月 2 日至 3 月 31 日已关闭，6 月公布结果；2027 窗口预计 2027 年初开放，官方尚未公布。 |
-| [ITS 研究生奖学金（外籍生学费减免）](https://www.its.ac.id/international/experiencing-its/prospective-student/scholarship/postgraduate-scholarship/)<br><sub>ID ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | —<br><sub>⏸ 本轮已截止</sub><br><sub>春季（2 月）入学注册截止 10 月 15 日，2026 年已过；秋季（8 月）入学注册截止 4 月 15 日，下一次为 2027 年 4 月 15 日（页面只写月日，年份据此推算）。</sub> | ✅ | **要求：** 博士申请：需硕士学位（博士学位持有者不符合），年龄不超过 40 岁，GPA ≥3.25；TOEFL iBT 90 或 IELTS 7.0（证书两年内）；需 ITS 研究导师推荐信及研究计划。<br>外籍博士生免学费 36 个月的部分资助，不含生活津贴，可作为 Global Excellence 之外的备选。 |
-| [ITS（泗水理工学院）Global Excellence 博士奖学金](https://www.its.ac.id/international/experiencing-its/prospective-student/scholarship/global-excellence-scholarship/)<br><sub>ID ｜ 工程·计算机·数学/统计·物理/天文·化学/材料·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>IDR 5,000,000/月（2025 届报道；2026 届以官网为准）</sub> | **2026-05-06**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 届报名 4 月 1 日至 5 月 6 日已截止；2027 批次官网未公布，往年约 4–5 月开放</sub> | ✅ | **要求：** 需硕士 GPA 3.25/4.00、英语成绩（如 IELTS 6.0 或 TOEFL iBT 71）、2026 年 7 月 31 日时未满 35 岁、至少一篇国际发表及两封推荐信<br>面向国际生的博士全奖，含六学期学费、月生活费、保险、签证与往返机票；2026 届 4–5 月申请已截止，要求 GPA 3.25 与国际发表，2027 批次看官网。 |
-| [迪波涅哥洛大学（Undip）Diponegoro Global 奖学金（硕博）](https://admission.undip.ac.id/dgs)<br><sub>ID ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-05-03**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请 3 月 9 日至 5 月 3 日，8 月入学；2027 轮时间待查</sub> | ❔ | **要求：** 英语授课的硕博项目国际生；博士申请者在 2026 年 12 月 31 日时不得超过 40 岁<br>面向国际生的英语授课奖学金；博士阶段学费和生活费细则需到官网确认。 |
-
-<a id="r-in"></a>
-
-## 印度（IN）（4）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [IISER Pune 国际生招生总页](https://www.iiserpune.ac.in/education/admissions/international-programmes)<br><sub>印度 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>页面称可能提供 6 个国际博士奖学金（与 IISER 奖学金同等）；经济困难的优秀学生可获学费减免；名额以当期为准</sub> | **2026-06-30**<br><sub>⏸ 本轮已截止</sub><br><sub>页面称国际生博士申请截止 2026 年 6 月 30 日（已过）；未见下一轮日期，以官网为准。</sub> | ❔ | **要求：** 仅限印度以外国籍申请者；需四年制本科或印度境外取得的硕士学位<br>IISER Pune 博士项目仅限印度以外国籍申请者（需四年制本科或印度境外取得的硕士学位），可直接邮件 international.phd@acads.iiserpune.ac.in 申请，或通过印度 Study in India 门户申请。 |
-| [IIT Delhi 国际生博士与 PG 招生入口](https://international.iitd.ac.in)<br><sub>印度 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 滚动<br><sub>🔄 随时可申</sub><br><sub>页面称在线博士申请目前关闭，但离线申请全年接受（需下载离线申请表提交）。</sub> | ❔ | **要求：** 非印度国籍（含 OCI/PIO）可申请；需英语能力声明与两名推荐人，部分申请人需 GATE、CSIR 或 INSPIRE 成绩<br>面向外国籍学生的国际事务入口。页面称所有外国学生在申请学生签证前须在 Study in India 门户注册。国际生奖学金金额与年限需看录取通知与招生指南。 |
-| [IIT Kanpur 国际博士奖学金路线汇总](https://iitk.ac.in/oir/how-to-apply)<br><sub>印度 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 页面列出 ICCR、Study in India、AARDO、DIA 等国际博士路线。页面称 ICCR 奖学金申请通常在 4 至 6 月；DIA（ASEAN）路线页面标注当前暂停招生，Study in India 路线页面未写暂停。 |
-| [IIT Kanpur 外国籍博士申请指南（DOAA）](https://www.iitk.ac.in/doaa/pgadmission/foreign-students.php)<br><sub>印度 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各轮截止以当年 DOAA 公告为准；搜索结果多为 2020–2022 年旧页</sub> | ❔ | **要求：** 外国籍（FN）候选人须通过页面 'apply online' 链接在线申请；免申请费；免除 GATE 成绩要求；入围者经视频会议面试。<br>外国籍博士申请指南（DOAA）。页面称 FN 申请人须在 Study in India 门户完成注册（与学生签证相关）。东盟国家候选人可通过页面所列门户申请奖学金；学费减免以页面所列命令为准。 |
-
-<a id="r-mo"></a>
-
-## 中国澳门（MO）（4）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [澳门大学博士奖学金与助学金](https://grs.um.edu.mo/index.php/prospective-students/doctoral-degrees-programmes/)<br><sub>中国澳门 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>MOP 20,000/月（最长 4 年）</sub> | **2026-10-23**<br><sub>🟢 开放申请</sub><br><sub>澳门政府公告：博士课程 2027/28 第一批申请截止 2026-10-23；UM PhD Scholarship 须与博士入学申请同时提交；其他批次以 grs.um.edu.mo 为准</sub> | ✅ | **要求：** 不限国籍；需与博士入学申请同时提交；由校方委员会评审，不保证获得<br>澳门大学博士奖学金（UM PhD Scholarship）：不限国籍，每月 MOP 20,000，最长 4 年；校方称学费可由奖学金抵扣，但个别学院页面称不含学费，以录取通知为准。须与博士入学申请同时提交，由校方委员会评审。 |
-| [澳门大学博士奖学金（UM PhD Scholarship，UMPS）](https://grs.um.edu.mo/index.php/prospective-students/phd-funding/um-phd-scholarship/)<br><sub>中国澳门 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>MOP 20,000/月（最长 4 年，学费由津贴抵扣）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面未列出具体截止日期；仅限第一学期入学，需与博士入学申请同步提交，以 GRS 官网当期通知为准。</sub> | ✅ | **要求：** 不限国籍，满足 UM 博士入学一般要求及项目要求；由校级委员会终审<br>页面称 UMPS 月津贴 MOP20,000、最长 4 年，学费先由津贴抵扣后发放；需与博士入学申请同步提交，由校级委员会终审。 |
-| [澳门大学博士奖学金（UMPS）](https://grs.um.edu.mo/?p=21155)<br><sub>中国澳门 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ✅ | **要求：** 面向所有国籍的全日制博士申请者；须符合博士入学一般要求；仅限第一学期（秋季）入学；与博士入学申请同步提交<br>澳门大学官网：所有国籍可申请全日制博士；UMPS 月津贴 MOP20,000、最长 4 年，学费先由津贴抵扣后再发放；最终由校级评审委员会决定。 |
-| [澳门政府公告：澳门大学 2027/28 研究生招生](https://www.gov.mo/en/news/406057/)<br><sub>中国澳门 ｜ 全学科</sub> | 博士 | 力度未注明 | **2026-10-23**<br><sub>🟢 开放申请</sub><br><sub>澳大 2027/28 博士第一批申请截止 2026-10-23（澳门特区政府公告）；硕士及研究生文凭项目截止 2026-12-03。</sub> | ❔ | **要求：** 申请须直接通过澳大官网；奖学金需在申请博士时同时提出，由校级委员会竞争性决定，仅录取不保证获奖。<br>公告称澳大 2027/28 博士课程第一批申请截止 2026-10-23。奖学金与助教/助研津贴及内地学生资格需查澳大官网。 |
-
-<a id="r-at"></a>
-
-## 奥地利（AT）（3）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [TU Wien 招聘门户（含 Doctoral College）](https://jobs.tuwien.ac.at/)<br><sub>奥地利 ｜ 计算机·工程·数学/统计·物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ✅ | **要求：** 硕士或同等学位（相关理工方向）；具体资格以各岗位公告为准；部分岗位限制此前在 TU Wien 任博士候选人的时长<br>页面为 TU Wien 招聘门户首页，列出 Current vacancies at the TU Wien，并称申请只接受在线提交；正文未列出具体博士或博后岗位、Prae-Doc 或 Doctoral College 项目，也未给截止日期。 |
-| [因斯布鲁克大学 博士奖学金](https://www.uibk.ac.at/en/research/research-funding/phd/doctoral-scholarship/)<br><sub>奥地利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€1,150/月（2026 年第三批，最长 24 个月）</sub> | **2026-10-09**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年第三批申请期为 2026-08-24 至 2026-10-09（已过）；下一轮预计 2026 年底/2027 年初公布</sub> | ❔ | **要求：** 须已在因斯布鲁克大学注册博士课程并有注册论文；看重学术记录与科研成果，优先与校内重点研究领域或项目相关者<br>面向已注册博士生的奖学金，不是直接招生岗位。官网显示每月 1,120 欧元，最长 24 个月；具体申请窗口以官网为准。 |
-| [维也纳大学理工科博士岗位招聘（Doctoral Recruitment STEM）](https://careers.univie.ac.at/en/praedoc/stem-call/)<br><sub>奥地利 ｜ 计算机·数学/统计·物理/天文·化学/材料·生物/生命科学·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-03-27**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 STEM 征集截止 2026 年 3 月 27 日（已过），下一轮以官网公告为准</sub> | ✅ | **要求：** 需相关学科硕士或同等学位；申请材料须用英文；欢迎持外国学位者申请。<br>维也纳大学统一公开招聘的全额资助博士岗位（带薪雇佣），涵盖理工与生命科学。截止日期与资格以官网公告为准。 |
-
-<a id="r-cl"></a>
-
-## 智利（CL）（3）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [智利圣地亚哥大学外国学生卓越奖学金（BEE）](https://www.doctmat.dmcc.usach.cl/wp-content/uploads/2024/10/Bases-BEE-Arancel-y-Mant-para-Doct-1sem-2025.pdf)<br><sub>智利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 第一学期轮次申请期为 2025 年 10 月 20 日至 11 月 21 日（已关闭）；2027 轮以 Vicerrectoría de Postgrado 公告为准</sub> | ✅ | **要求：** 外国国籍且不在智利居住；本科和/或研究生平均成绩不低于 5.0（智利 1–7 分制）<br>圣地亚哥大学面向非居住外国人的博士奖学金（BEE），含学费减免、每年生活维持费与一次性安置补助；2026 轮已于 2025 年 11 月结束，关注下一轮公告（西语条款）。 |
-| [智利大学国际研究所 国际研究博士（2027 届）奖学金政策](https://iei.uchile.cl/dam/jcr:5f576ee7-b253-4c8c-89c8-ed1c6d6e0cba/Pol%C3%ADtica%20de%20Becas%20Doctorado%20-%20A%C3%B1o%202027.pdf)<br><sub>智利 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | 未公布<br><sub>🔜 即将开放</sub><br><sub>录取后按政策发放，申请期以项目公告为准。</sub> | ❔ | **要求：** 需被该博士项目录取，并须申请 ANID 国家博士奖学金；外国人资格以项目政策为准。<br>录取排名前两名的学生可获学费全免和学术协作津贴，视预算而定。 |
-| [智利奥斯特拉尔大学（UACh）博士机构奖学金（Beca Institucional de Doctorado）](https://www.postgradociencias.uach.cl/becas-y-beneficios/)<br><sub>智利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | **2026-04-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年第一学期申请已于 2026-05-29 截止；2027 年轮次未查到，需关注 UACh Escuela de Graduados 公告。</sub> | ❔ | **要求：** 须已被 UACh 博士项目录取（2026 新生或 2025 年续领），且不得同时领取外部奖学金；页面未设国籍限制，但外籍资格需以当年 bases 为准。<br>页面列出博士学费减免 50%（Rebaja 50% de arancel programas de doctorado），每个学年一年；需附博士录取信与 ANID 博士奖学金申请回执。本轮申请截止 2026-04-15。 |
-
-<a id="r-cn"></a>
-
-## 中国内地（CN）（3）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [HKUST(GZ) 研究生助学金（PGS）说明](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees)<br><sub>中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>CNY 15,000/月，全日制博士最长 4 年（官网 Scholarships & Fees 页）</sub> | 各项目不同<br><sub>无单独申请，全日制博士录取后自动参评，按年发放；以 PGS 条款为准</sub> | ✅ | **要求：** 全日制博士录取生；续领需学业与研究进展、英语及 GTA 表现达标<br>官网费用页：PGS 为全日制研究生助学金，博士每月 CNY 15,000、最长 4 年；PGS 持有者全日制研究生学费为每学年 CNY 40,000（2027/28 入学起为 CNY 60,000）。 |
-| [NYU 上海校区博士奖学金（神经科学上海轨道）](https://shanghai.nyu.edu/node/18058)<br><sub>中国内地 ｜ 神经/认知·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>📋 持续更新</sub><br><sub>随纽约大学神经科学项目的申请周期处理，截止需向上海校区核实。</sub> | ❔ | 上海校区的博士轨道，奖学金覆盖学费、杂费与年度津贴（据搜索摘要），适合希望在国内就读并获海外学位的同学。 |
-| [南方科技大学－澳门大学全额奖学金联合培养博士项目](https://ese.sustech.edu.cn/Wap/Content/index/nid/151/id/374.html?language=2)<br><sub>中国内地·中国澳门 ｜ 工程·化学/材料·物理/天文·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 滚动<br><sub>🔄 随时可申</sub><br><sub>检索到的页面为 2016 年旧版，当前批次截止未核实</sub> | ❔ | **要求：** 托福不低于 550 或雅思不低于 6.0；本科 GPA 3.5 或硕士 GPA 3.0 以上；需经南科大与澳门大学联合面试<br>南科大与澳门大学全额奖学金联合培养博士，前约 1.5 年在澳大修博士课程，其余研究在南科大完成，学位由澳大授予；旧页面的津贴数字异常，未采用，需向南科大确认。 |
-
-<a id="r-eu"></a>
-
-## 欧盟/欧洲（EU）（3）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [CHARM-EU 联盟 · Opportunities and calls 机会与征集页](https://charm-eu.eu/news-events/opportunities-and-calls/)<br><sub>欧盟/欧洲·挪威·芬兰·匈牙利·德国·法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>2026 年夏校（6 月 8–12 日，芬兰 Turku）及多数博士征集已截止；2027 周期待联盟发布</sub> | ❔ | CHARM-EU 联盟统一发布博士夏/冬校、博士流动与 MSCA 征集等信息。2026 年多数博士类征集已截止，适合订阅联盟通讯以跟进 2027 年周期；博士岗位需回到各成员校招聘页核实。 |
-| [EUTOPIA 联合培养（co-tutelle）博士项目总页](https://eutopia-university.eu/opportunities/eutopia-phd-co-tutelle-programme/)<br><sub>欧盟/欧洲 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮各高校截止为 5 月 10–20 日（已结束）；各校名额与截止日不同；2027 轮时间未公布（推断为 2027 年初）</sub> | ❔ | **要求：** 需由两所伙伴高校的常任教授共同指导；具体资格以当年征集指南为准<br>EUTOPIA 博士 co-tutelle 项目：2026 轮截止 5 月 20 日已结束，未找到 2027 轮公告。 |
-| [都灵理工大学 MSCA 博士网络 2026 招生入口](https://www.polito.it/en/research/research-funding/horizon-europe/marie-sklodowska-curie-actions-msca/doctoral-networks)<br><sub>欧盟/欧洲 ｜ 工程·化学/材料·地球/环境/海洋·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>📋 持续更新</sub><br><sub>2026 年 MSCA 博士网络提案截止 2026-11-24 17:00（为提案截止，非岗位截止）；岗位在项目获资助后由各联合体发布。</sub> | ❔ | 欧盟 MSCA 博士网络入口页。2026 年 DN 提案截止为 11 月 24 日（非岗位截止）；岗位由获资助的联合体发布，需逐条核对国籍与流动性（移居）条件。 |
-
-<a id="r-br"></a>
-
-## 巴西（BR）（2）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [Unoesc 2026 年外国学生硕博连续流征集（巴西私立大学）](https://www.unoesc.edu.br/wp-content/uploads/2026/03/1.-EDITAL-N.-15-Stricto-Estrangeiros-Fluxo-Continuo-para-2026.pdf)<br><sub>巴西 ｜ 社会科学/心理·生物/生命科学·医学/公卫</sub> | 博士 | 仅免学费 | 滚动<br><sub>🔄 随时可申</sub> | 🟡 | **要求：** 面向外国申请人的 stricto sensu 硕士或博士入学；每个项目仅 1 个奖学金名额；语言与学历要求以 edital 为准（未核实）<br>Unoesc 外国学生 stricto sensu 硕博滚动征集，目标为 2026 年内入学。表格列出四个领域各 1 个博士名额，奖学金覆盖全额学费与注册费，未说明生活费；名额有限，申请截止与语言要求请以 edital 原文为准。 |
-| [坎皮纳斯大学研究生与科研办公室征集汇总（PRPG）](https://prpg.unicamp.br/en/editais/)<br><sub>巴西 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | 🟡 | **要求：** 部分 2026 PPPD 公告明确面向巴西及外国候选人（如化学所 IQ），其他单位接受外国人但需护照与 CV；以具体 edital 为准。<br>Unicamp 研究生与科研办公室征集汇总。化学所 IQ 的 2026 PPPD 公告对外国候选人开放；多数其他 2026 截止已过；仅部分单位明确对外国人开放。 |
-
-<a id="r-cz"></a>
-
-## 捷克（CZ）（2）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [捷克科学院招聘公告总入口（含 ERC 项目岗位）](https://avcr.cz/en/about-us/career/selection-procedures)<br><sub>捷克 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 捷克科学院各研究所招聘公告汇总，ERC 资助的博士与博后会在各研究所发布；以原公告截止为准。 |
-| [查理大学数学与物理学院奖学金](https://mff.cuni.cz/en/admissions/scholarships)<br><sub>捷克 ｜ 数学/统计·物理/天文·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>起点 10,500 CZK/月</sub> | 未公布<br><sub>页面未给出博士奖学金截止日，以学院当期公告为准</sub> | ❔ | **要求：** 博士在读生可获学院博士奖学金及研究奖学金；国际生申请条件需在官网核实<br>数学物理学院博士生月奖学金页面；国际生是否可申请及申请时间需在页面核实。 |
-
-<a id="r-is"></a>
-
-## 冰岛（IS）（2）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [Reykjavik University PhD 岗位页（冰岛）](https://en.ru.is/st/dcs/phd/phd-positions)<br><sub>冰岛 ｜ 计算机·商科/管理·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 雷克雅未克大学博士岗位入口，岗位在 RU Careers 发布。申请需先附研究计划并与拟合作教授联系；是否带薪以各岗位公告为准。 |
-| [冰岛大学博士研究资助基金（University of Iceland doctoral grants fund）](https://english.hi.is/node/10020/)<br><sub>冰岛 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明<br><sub>ISK 525,000/月（2026 年 7 月起；扣除薪资相关费用后约 ISK 425,000/月）</sub> | **2026-02-01**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请截止 2026-02-01（已过）；下一轮截止未公布，以大学官网为准。</sub> | ❔ | **要求：** 国际生资格与申请路径以大学官网条例为准。<br>大学博士研究资助基金，资助期最长 3 年，适合已获博士录取或已有拟导师的申请者。金额与国际生资格未核实。 |
-
-<a id="r-my"></a>
-
-## 马来西亚（MY）（2）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [IIUM Postgraduate Ummatic 博士奖学金（2026）](https://centre.iium.edu.my/cps/wp-content/uploads/sites/2/2026/05/PG-Ummatic-Scholarship-Poster.pdf)<br><sub>马来西亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费<br><sub>RM1,000/月，最多 36 个月（IIIBF、KOD、KOP 等不适用）</sub> | **2026-07-15**<br><sub>⏸ 本轮已截止</sub><br><sub>海报写截止 2026-07-15，本轮已结束；页面未写下一轮时间。</sub> | ❔ | **要求：** 全日制博士生，面向国际生，2026/2027 学年第一学期入学；申请时须不超过 30 岁；须 IELTS 6.5 或 TOEFL iBT 73-93；CGPA 要求 3.70/4.00（或同等），具体按学历路径，PDF 排版错乱，以官方为准；不得同时领取其他奖学金。<br>学费全免（最高 RM81,400，最多六个学期），另有月津贴 RM1,000（最多 36 个月）；页面写明 IIIBF、Kulliyyah of Dentistry、Kulliyyah of Pharmacy 不适用月津贴。 |
-| [马来亚大学（UM）研究助理奖学金计划 UMSS](https://umresearch.um.edu.my/join-us/universiti-malaya-scholarshipscheme-umss/)<br><sub>马来西亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 滚动<br><sub>📋 持续更新</sub><br><sub>UMSS 为研究助理聘任，津贴来自导师经费；各学院申请时间不同</sub> | 🟡 | **要求：** 硕士/博士生均可，需已被聘为研究助理（GRA），不能同时获其他机构资助；国际生须附有效签证；博士需在第 7 学期及以内。<br>UMSS 官方页：研究生担任研究助理（GRA），津贴最低 RM1,000/月，来自课题经费，全年通过 UM 研究助理招聘系统申请。UM 的 GRAS 页称国际生仅限 IPPP 经费岗位，两处说法不一致，请向 UM 研究办公室确认。勿默认全奖。 |
-
-<a id="r-qa"></a>
-
-## 卡塔尔（QA）（2）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [哈马德·本·哈利法大学（HBKU）研究生奖学金](https://www.hbku.edu.qa/en/scholarship)<br><sub>卡塔尔 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>国际生 PhD 9,000 QAR/月（年 108,000 QAR，45 个月），视资金情况发放，需担任 RA 或 TA</sub> | 未公布<br><sub>未核实具体截止日；奖学金在研究生录取时一并考虑，无需单独申请</sub> | ❔ | 页面列出 PhD 学费减免（STEM 为 100%）及津贴（国际生 PhD 为 9,000 QAR/月，共 45 个月）；学费减免与津贴视资金可用性而定，不保证，录取时统一考虑、无需单独申请。 |
-| [哈马德·本·哈利法大学（HBKU）研究生奖学金政策](https://www.hbku.edu.qa/scholarship)<br><sub>卡塔尔 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>9,000 QAR/月（共 45 个月）</sub> | —<br><sub>申请随博士入学申请一并考虑；截止时间以官网为准</sub> | ✅ | **要求：** 需通过博士入学申请一并考虑，无需单独申请；获奖者需担任研究助理（每周 10 小时）<br>页面列出国际博士生每月津贴 9,000 卡塔尔里亚尔（共 45 个月），STEM 与 SHAPE 博士学费减免均为 100%；住宿由学生自理，国际生提供一次往返机票。津贴不保证，视经费与择优或需求而定。 |
-
-<a id="r-ee"></a>
-
-## 爱沙尼亚（EE）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [爱沙尼亚塔尔图大学博士招生](https://ut.ee/en/content/phd-admissions)<br><sub>爱沙尼亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>初级研究员最低 €2,100/月（税前，2026 年）</sub> | 各项目不同<br><sub>🔜 即将开放</sub><br><sub>春季主招生每年 5 月 1–15 日；另有其他轮次，以 open-calls 页为准。</sub> | ✅ | **要求：** 多数博士生以初级研究员合同受雇，国际生免学费；具体资格以各研究组公告为准。<br>博士生免学费（含国际生）；多数名额为初级研究员合同（2026 年最低 €2,100 税前），是否有名额需逐个研究组确认。博士津贴（€660/月）仅限爱沙尼亚公民或居民，不适用于所有国际生。 |
-
-<a id="r-global"></a>
-
-## 全球（GLOBAL）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [LUMS SBASSE 国际学生博士项目（全奖+月津贴）](https://sbasse.lums.edu.pk/international-students)<br><sub>全球 ｜ 计算机·数学/统计·物理/天文·化学/材料·生物/生命科学·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>PKR 60,000/月（页面所示，共四年）</sub> | 未公布<br><sub>📋 持续更新</sub><br><sub>截止以 LUMS 招生页各项目 Foreign Nationals 通道为准</sub> | ❔ | **要求：** 外国籍且居住在巴基斯坦境外者走 Foreign Nationals 通道；GRE/语言成绩可选；需提交研究陈述并面试<br>LUMS 理工学院页面写明国际博士生四年全奖（学费+月津贴），含医疗保险与住宿补贴。中国籍是否可申请页面未逐国说明，请在对应项目页确认。 |
-
-<a id="r-hr"></a>
-
-## 克罗地亚（HR）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [鲁杰·博什科维奇研究所（RBI）研究岗位页](https://www.irb.hr/eng/About-RBI/Available-Research-Jobs)<br><sub>克罗地亚 ｜ 化学/材料·生物/生命科学·物理/天文·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>岗位按公告单独截止，需逐条查看</sub> | ❔ | **要求：** 多数岗位要求博士学位；国籍与语言要求以各岗位公告为准<br>克罗地亚最大国立研究所，岗位多为带薪合同（含博士与博后）。以本页逐条核对截止与资格。 |
-
-<a id="r-ke"></a>
-
-## KE（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [icipe 奖学金门户（scholarships.icipe.org，博士与硕士征集汇总）](https://scholarships.icipe.org/calls/5)<br><sub>KE ｜ 工程·生物/生命科学·生态/进化·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>门户按项目逐条列出征集，截止日各不相同；检索时 PhD 栏目无开放征集，需逐条查看。</sub> | ❔ | **要求：** 各项目条件不同，国际生资格需看具体征集页。<br>icipe（国际昆虫生理生态中心，内罗毕）官方奖学金门户，集中发布其 PhD 征集。每条征集需单独核对截止、资助和国籍限制。 |
-
-<a id="r-kw"></a>
-
-## KW（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [科威特大学研究生学术卓越奖学金](https://cgs.ku.edu.kw/excellence-scholarship/admission-requirements-excellence-scholarship/)<br><sub>KW ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>KD 1,400/月（博士）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>第三方资料称每年 2 月截止；官网未找到 2026 轮截止日</sub> | ❔ | **要求：** 本科与硕士 GPA 不低于 3.00（满分 4.00）；需提交英语成绩（如 TOEFL 不低于 550）；需通过认可的入学考试（如 GRE）；不得此前已获同一学位层次的该奖学金<br>科威特大学研究生学院卓越奖学金页面列出申请条件（本科与硕士 GPA 不低于 3.00 等）。页面未写明津贴金额、截止日期与国际生资格，需另行核实。 |
-
-<a id="r-lt"></a>
-
-## 立陶宛（LT）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [考纳斯理工大学（KTU）博士学习条例（2026）](https://admissions.ktu.edu/wp-content/uploads/sites/299/2026/03/PhD_Studies.pdf)<br><sub>立陶宛 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub> | ❔ | 公费博士免学费并享国家奖学金，据 KTU 2026 博士手册：第 1 年 1406 欧/月，第 2–4 年 1628 欧/月。2026 批次已截止，2027 批次以官网公告为准；国际生是否可获公费名额未在官方材料中确认。 |
-
-<a id="r-lu"></a>
-
-## 卢森堡（LU）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [卢森堡健康研究所（LIH）博士培训单位](https://www.lih.lu/?p=15586)<br><sub>卢森堡 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>FNR PRIDE 2025 轮全文提案截止 2025 年 10 月 15 日（已过）；未找到 2026 轮信息</sub> | ❔ | LIH 牵头的 PRIDE 博士培训单位多轮获 FNR 资助，页面为历史介绍。具体岗位以 LIH 招聘门户与各 DTU 公告为准。 |
-
-<a id="r-mt"></a>
-
-## 马耳他（MT）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [马耳他大学 Alfred Pisani 旅游管理博士奖学金](https://www.um.edu.mt/newspoint/noticesopportunities/2026/thealfredpisaniphdscholarshipinsustainabletourism.html)<br><sub>马耳他 ｜ 经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>每年 EUR 13,500 生活津贴，最长 3 年，另最多 EUR 4,500 用于发表与会议；不含年度注册费</sub> | **2026-06-02**<br><sub>⏸ 本轮已截止</sub><br><sub>截止已由 5 月 26 日延至 2026 年 6 月 2 日，现已过；下一轮在官网公告中查找</sub> | ❔ | **要求：** 需满足马耳他大学博士入学要求；材料含申请信、CV 和证书扫描件<br>最多 3 年的全日制旅游方向博士奖学金；金额未经官方公告核实，不要引用第三方数字。 |
-
-<a id="r-ro"></a>
-
-## 罗马尼亚（RO）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [巴贝什-博尔约大学（UBB）2026-27 博士录取办法](https://doctorat.ubbcluj.ro/wp-content/uploads/2026/02/HS-nr5-Admission_Methodology_M.pdf)<br><sub>罗马尼亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub> | ❔ | **要求：** 需硕士或同等学历；非欧盟候选人由 IOSUD-UBB 统一办理，2026 年 7 月与 9 月两场已过；需本校博导对接<br>录取须有本校博导对接。2026-27 录取办法经大学评议会于 2026 年 1 月批准。非欧盟候选人按 IOSUD-UBB 统一程序办理，2026 年两场已过；国家公费名额是否对外国人开放需看原文。 |
-
-<a id="r-ru"></a>
-
-## 俄罗斯（RU）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [俄罗斯高等经济大学（HSE）博士 · 联邦政府配额资助](https://aspirantura.hse.ru/en/phdkvota)<br><sub>俄罗斯 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | 未公布<br><sub>🔜 即将开放</sub><br><sub>2026 年入学配额申请为 2026-02-02 至 02-27；下一轮预计 2027 年 2 月前后，以官网为准</sub> | ❔ | **要求：** 外国公民、无国籍人士或旅居国外的俄罗斯人，需硕士或专家学位；入学考试含专业测试与外语<br>HSE 对国际生博士的俄联邦政府配额（免学费）竞争性名额；生活补助金额页面未写明。中国大陆是否有名额需到官网核对。 |
-
-<a id="r-si"></a>
-
-## 斯洛文尼亚（SI）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [约热夫·斯特凡研究所（IJS）青年研究员 2026 公开征集](https://mr.ijs.si/wp-content/uploads/2026/07/Public-Call-JSI-MR-2026.pdf)<br><sub>斯洛文尼亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-08-23**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 夏季征集截止 8 月 23 日已过；项目每年征集，下一轮未公布。</sub> | ❔ | **要求：** 须在合同开始（通常 10 月 1 日）前取得本科或硕士学位；境外学位需斯洛文尼亚承认决定与成绩换算；申请材料发送至 mr2026@ijs.si。<br>IJS 2026 年青年研究员公开征集，申请人需选择导师，带薪攻读博士。页面（PDF）写明外国人或境外毕业者可按本征集申请，须在合同开始前备齐就业材料，境外学历需取得斯洛文尼亚承认。截止日期未出现在抓取文本中，沿用原记录。 |
-
-<a id="r-sk"></a>
-
-## 斯洛伐克（SK）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [斯洛伐克科学院社会学研究所 · 全额资助全日制博士岗（每年约 3 个）](https://sociologia.sav.sk/en/static.php?id=1236)<br><sub>斯洛伐克 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>全日制每月 1,174.50 欧元，通过第一部分论文答辩后（通常第二年末）增至 1,367.50 欧元（官网，截至 2026 年 1 月）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>每年 5 月底截止，选题通常 3 月公布；2026 轮已过，2027 轮以官网公告为准。</sub> | ❔ | **要求：** 国际生资格未确认；申请材料包括斯洛伐克语签名简历、硕士学位证明、出版物清单和研究计划（据检索摘要）。<br>研究所与哥梅纽斯大学文学院合作，全日制 4 年或在职 5 年；官网称每年最多 3 个全额资助岗位。薪资金额与国际生资格未核实。 |
-
-<a id="r-vn"></a>
-
-## VN（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [RMIT 越南校区博士奖学金（学费减免加津贴）](https://www.rmit.edu.au/scholarships/research/scholarships-for-vietnam-based-phd-candidates)<br><sub>VN ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-12-30**<br><sub>🟢 开放申请</sub><br><sub>各页面截止日不一（2026-12-31、2027-07-31 等），以当期项目页为准；无需单独申请，提交申请后自动考虑。</sub> | ❔ | **要求：** 需居住在越南（大部分学习期间）并满足 RMIT 博士录取条件；名额视经费与具体导师项目而定。<br>奖学金绑定具体导师或项目；不同页面的津贴金额和条件不一致，以项目页为准。 |
-
-**分页：** [第 1 页](university-schemes.md) · [第 2 页](university-schemes-2.md)
+**分页：** [第 1 页](university-schemes.md) · [第 2 页](university-schemes-2.md) · [第 3 页](university-schemes-3.md)
 

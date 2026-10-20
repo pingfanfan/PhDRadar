@@ -2,17 +2,17 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 经济/金融 信源（194）
+# 经济/金融 信源（199）
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 5](econ.md#aggregators) · [各国学术招聘门户与机构职位页 2](econ.md#national-portals) · [高校旗舰奖学金与资助检索 36](econ.md#university-schemes) · [结构化博士项目与研究机构 102](econ.md#doctoral-programs) · [博士后奖学金与项目 16](econ.md#postdoc-fellowships) · [企业与基金会 Fellowship 10](econ.md#fellowships) · [学科专属信源 10](econ.md#discipline) · [科研实习与“曲线入口” 8](econ.md#pathways) · [个人信源与社交渠道 2](econ.md#people-channels) · [导师招生帖（社交平台个人发布） 3](econ.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 6](econ.md#aggregators) · [各国学术招聘门户与机构职位页 2](econ.md#national-portals) · [高校旗舰奖学金与资助检索 38](econ.md#university-schemes) · [结构化博士项目与研究机构 104](econ.md#doctoral-programs) · [博士后奖学金与项目 16](econ.md#postdoc-fellowships) · [企业与基金会 Fellowship 10](econ.md#fellowships) · [学科专属信源 10](econ.md#discipline) · [科研实习与“曲线入口” 8](econ.md#pathways) · [个人信源与社交渠道 2](econ.md#people-channels) · [导师招生帖（社交平台个人发布） 3](econ.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
-## 综合聚合平台（5）
+## 综合聚合平台（6）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -20,6 +20,7 @@
 | [Glasgow 社会科学学院最新博士机会（Latest PhD opportunities）](https://www.gla.ac.uk/colleges/socialsciences/studentfundingopportunities/postgraduateresearch/latestphdopportunities/)<br><sub>英国 ｜ 社会科学/心理·人文/语言·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>题目随时发布，无统一截止日；以各题目说明与 CoSS 奖学金竞赛日程为准</sub> | 🟡 | **要求：** 需满足各题目及学校博士入学要求；国际生资格以题目说明为准<br>列出格拉斯哥大学社会科学学院当前招收的带资助博士题目，资助条款随题目变化，部分题目对国际生开放；研究理事会类名额的国际生比例受 UKRI 限制，以各题目说明为准。 |
 | [INOMICS 经济学职位板](https://inomics.com/top/economics/jobs)<br><sub>全球 ｜ 经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面列出的近期截止日期为 2026 年 10 月 20 日至 11 月 1 日；各岗位截止以发布页为准。</sub> | ❔ | **要求：** 汇总页面，岗位条件以各发布机构为准。<br>INOMICS 经济学岗位聚合页，列表同时含博士、博后、教授及行业岗位，需逐条筛选。 |
 | [POLMETH 政治方法论邮件列表](https://polmeth.org/mailing-list)<br><sub>全球 ｜ 社会科学/心理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 政治方法论学会邮件列表（2025 年起由 Penn State 托管），用于发布博士、博后岗位与会议信息；订阅见 polmeth.org。岗位是否带资助需逐条核实。 |
+| [Urban Affairs Association 职位公告板](https://urbanaffairsassociation.org/category/job-ads/)<br><sub>美国 ｜ 社会科学/心理·地球/环境/海洋·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>列表各岗位截止不一；本次检索未见博士岗位。</sub> | ❔ | UAA 职位公告板，当前列表以城市规划/城市研究方向终身教职岗位为主，页面未见博士或博后岗位。 |
 | [欧洲经济学会（EEA）招聘页面](https://eeassoc.org/node/153)<br><sub>欧盟/欧洲 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 多为预博士或博士后岗位，最短 9 个月；候选人资格与国籍限制以各岗位为准<br>欧洲经济学会官方招聘入口，汇总欧洲经济学 job market 与 JEEH 岗位（预博士与博后为主，最短 9 个月）。EJME 通常在 12 月底集中，各岗位截止以条目为准。 |
 
 <a id="national-portals"></a>
@@ -33,7 +34,7 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（36）
+## 高校旗舰奖学金与资助检索（38）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -48,9 +49,11 @@
 | [KDI 公共政策研究生院（博士）奖学金](https://kdischool.ac.kr/menu.es?mid=a40203000000)<br><sub>韩国 ｜ 经济/金融·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>以学校每年招生公告为准</sub> | ❔ | 页面列出的 Global Ambassador Scholarship 适用于春季入学的全日制博士。全额奖学金主要面向 ODA 受援国国籍学生，其他国籍可能获部分奖学金；多数学生可获学费全免与月生活费。 |
 | [LSE 经济系学费与资助说明](https://lse.ac.uk/economics/study/research/costs-and-financial-aid)<br><sub>英国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>LSE PhD Studentships 约 £23,805/年（2026 入学）</sub> | —<br><sub>随入学申请；ESRC 名额对国际生有上限，LSE 承担国际生学费差额</sub> | ✅ | 校级奖学金覆盖 4 年，系内补足 5 年，ESRC 奖学金国际生学费差额由 LSE 承担。 |
 | [MIT 经济系博士生资助](https://economics.mit.edu/academic-programs/phd-program/financial-support)<br><sub>美国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ✅ | 前两年通常由奖学金覆盖全额学费、12 个月个人医保及 9 个月生活津贴；第 3–6 年通过助教或助研岗位获支持，取决于学业进展。具体津贴金额页面未列出，以 MIT 当年公告为准。 |
+| [Princeton SPIA 博士全额资助说明](https://spia.princeton.edu/blogs/princeton-spia-we-fully-fund-our-mpa-mpp-and-phd-students)<br><sub>美国 ｜ 社会科学/心理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ✅ | **要求：** 资助对国内外学生均适用，无需单独申请；博士学制 5 年，含学费、必需费用（含医保）及生活津贴，不以校内工作为条件<br>普林斯顿 SPIA 官方博客（2025 年 11 月）称博士生五年学费与必需费用（含医疗保险）全额覆盖并提供生活津贴，明确适用于国内与国际学生，资助不以校内工作为条件。具体津贴金额以录取信为准。 |
 | [Strathclyde Diamond Jubilee 博士奖学金（人文与社会科学学院，国际生）](https://www.strath.ac.uk/studywithus/scholarships/diamondjubileeresearchscholarshipinternationalfacultyofhumanitiessocialsciences/)<br><sub>英国 ｜ 社会科学/心理·人文/语言·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | **2026-05-13**<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 轮 2026-05-13 截止，已关闭；2027/28 轮次未见公布</sub> | 🟡 | **要求：** 一等学位或同等；或上二等学位加硕士；研究计划需契合学院优先主题<br>面向国际博士生的单一名额学费全免奖学金，最长 3 年，但不含生活补助，需证明能负担约 2 万英镑/年的生活费。名额极少，申请需在官网截止前完成录取。 |
 | [Tinbergen Institute 博士岗位页](https://tinbergen.nl/phd-vacancies)<br><sub>荷兰 ｜ 经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各博士岗位截止以岗位公告为准</sub> | ❔ | Tinbergen Institute 官网博士岗位页，汇总 UvA、VU 与伊拉斯谟大学的带薪博士岗位，随时发布，截止以各岗位公告为准。研究型硕士是进入其博士通道的主要途径；2027 入学的截止日期未确认。 |
 | [剑桥 CAM-DTP ESRC 社科博士奖学金页](https://www.esrcdtp.group.cam.ac.uk/programme/the-studentship/)<br><sub>英国 ｜ 社会科学/心理·人文/语言·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | — | 🟡 | **要求：** 需获所在院系提名并先联系潜在导师；国际生受 UKRI 约 30% 名额上限约束，需自筹学费差额及签证费用<br>CAM-DTP ESRC 社科博士资助覆盖 Home 学费与生活补助。国际生名额受 UKRI 约 30% 上限约束，学费差额需另行解决。申请须经院系提名，截止日以当年公告为准。 |
+| [卡内基梅隆 Tepper 商学院博士资助](https://www.cmu.edu/tepper/programs/phd/tuition-and-financial-aid)<br><sub>美国 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>📋 持续更新</sub> | ❔ | 页面称录取博士通常获 Mellon 奖学金（全额学费减免）及生活津贴，津贴保障前五年。国际生资格条件页面未写明，故标 check。 |
 | [哥本哈根大学社会科学学院 Industrial PhD](https://socialsciences.ku.dk/research/industrialphd/)<br><sub>丹麦 ｜ 社会科学/心理·经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>最高 DKK 17,000/月（丹麦创新基金会对学生薪资的补贴上限）</sub> | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 页面为社会科学学院工业博士（Industrial PhD）说明页：该计划培养能理解企业研发业务的研究人员，学位在本院攻读。申请截止与方式见丹麦创新基金会（Innovation Fund Denmark）页面，本页不列具体课题。 |
 | [奥兹耶金大学（Özyeğin）商学院博士全额奖学金](https://library.ozyegin.edu.tr/en/phd-business/scholarship-opportunities)<br><sub>土耳其 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>2026-27 页面数据：月津贴分三档 70,000 / 58,000 / 45,000 土耳其里拉</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 秋季申请截止 7 月 17 日（已过）；2027 轮未公布</sub> | ❔ | 商学院博士通常获 100% 学费减免并发放分档月津贴，另有住宿或交通补贴、私人医疗保险等；2025-26 数字可能已变。2026 秋季申请截止 7 月 17 日已过，下一轮待学院公告。国际生资格未见官方明确声明，保持 check。 |
 | [奥胡斯大学经济系 ACE 岗位页](https://econ.au.dk/ace/vacancies)<br><sub>丹麦 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub><br><sub>页面当前列出博后岗位 Econometrics，目标截止 2026-11-30，开始时间 2027 夏季或秋季；页面未列出博士岗位。</sub> | ❔ | 含计量经济方向，博士为带薪职位；当前博士岗截止已过，定期查看新公告。 |
@@ -76,7 +79,7 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（102）
+## 结构化博士项目与研究机构（104）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -120,6 +123,7 @@
 | [京都大学经济学研究科博士（2027 年 10 月入学）申请](https://www.econ.kyoto-u.ac.jp/kueac/application/doctoral/)<br><sub>日本 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2027-03-11**<br><sub>🔜 即将开放</sub><br><sub>2027 年 10 月入学：申请材料提交期为 2027 年 3 月 1 日 9:00 至 3 月 11 日 13:00（日本时间，页面标注为严格截止）；2027 年 4 月 19 日公布初筛结果，6 月 11 日公布最终结果。</sub> | ❔ | **要求：** 须持有硕士学位（含 MBA）或将于入学日前取得；非日本学历者须先经 Admissions Assistance Office（AAO）预审，需提名拟指导教师，未经其同意不得直接联系<br>英文授课博士，国际生每年约 5 人；经费以学校奖学金和 MEXT 为主，需另行规划资金。 |
 | [伊拉斯谟经济学院（ESE）博士岗位](https://eur.nl/en/ese/working/phd-vacancies)<br><sub>荷兰 ｜ 经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>EUR 3,059–3,881/月（毛，38 小时，CAO-NU，2026 岗位）</sub> | 各项目不同<br><sub>🔜 即将开放</sub><br><sub>页面称全职博士岗位目前无空缺，招聘预计 2026 年 11 月开放；兼职博士申请窗口预计 2027 年 1 月开放。</sub> | ❔ | **要求：** 研究型硕士（MPhil/RM）优先，MSc 需先完成研究生院 1 年课程；须被 Tinbergen 或 ERIM 研究生院录取；英语达标（如 TOEFL iBT 100 或 IELTS 7）；部分岗位要求 GRE<br>ESE 官网称每年启动数个全额资助的 PhD 项目，合同期 4–5 年；薪资以岗位广告为准；国际生资格条款需看具体岗位广告。 |
 | [伯克利 Haas 商学院博士费用与资助](https://haas.berkeley.edu/phd/admissions/costs-financial-aid/)<br><sub>美国 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>申请截止以项目官网为准；页面称申请时自动参与系内资助评审，录取后通知资助结果。</sub> | ❔ | 五年期奖学金、助教/研究津贴与学费覆盖组合，取决于学业进展；页面无固定金额。 |
+| [佛罗里达大学经济系博士资助](https://economics.clas.ufl.edu/academics/phd/financial-aid/)<br><sub>美国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ❔ | 经济系多数录取博士获助教或助研资助，含双周津贴、学费减免与医保，官网称在学业进度达标时保证最长五年。国际生需满足 TA 口语英语要求；具体津贴金额在检索摘要中未见，需向系里确认。 |
 | [俄勒冈大学 Lundquist 商学院博士资助](https://business.uoregon.edu/phd/admissions/financial-support)<br><sub>美国 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$25,297/年（2025–26 学年 GE 薪资）</sub> | — | ✅ | 官网称全部录取博士生都获得 5 年 GE 岗位及学费减免，2025-26 学年薪资 25,297 美元；国际生学费减免按非州内标准计算。暑期支持年限表述不一，请向项目确认。 |
 | [兰卡斯特大学管理学院（LUMS）PhD 奖学金](https://www.lancaster.ac.uk/lums/postgraduate/scholarships-and-funding/phd/)<br><sub>英国 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-03-15**<br><sub>🔜 即将开放</sub><br><sub>LUMS 奖学金申请截止 2027 年 3 月 15 日（页面所示）</sub> | ✅ | 页面列出 LUMS 奖学金，含学费减免与约 £19,000/年生活津贴，面向所有国籍学生；申请时需在申请表中注明希望被考虑 Doctoral Studentship。 |
 | [内布拉斯加大学林肯分校经济系博士资助说明](https://business.unl.edu/economics/phd-economics/)<br><sub>美国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-02-01**<br><sub>🟢 开放申请</sub><br><sub>每年 2 月 1 日截止（秋季入学）；2027 轮截止 2027-02-01</sub> | ❔ | **要求：** 无需单独申请资助，所有申请者自动参与助理岗位评选；国际生需语言成绩（IELTS 6.5 / iBT 80），获录取后需提交 F-1/J-1 签证用的资金证明（FRC）表；国际生助理岗位资格页面未单独说明<br>内布拉斯加大学林肯分校经济系博士：每年为新生提供 3–4 个助理岗位（含津贴、学费减免、健康福利），申请者自动参与评选。国际生资格以系里 offer 为准。 |
@@ -176,7 +180,8 @@
 | [萨里大学 SEDarc ESRC 社科博士奖学金](https://www.surrey.ac.uk/fees-and-funding/studentships/south-east-doctoral-training-arc-sedarc-studentship)<br><sub>英国 ｜ 社会科学/心理·经济/金融·人文/语言</sub> | 博士 | 全奖<br><sub>£21,805/年（标准，2026 参考）</sub> | **2027-01-29**<br><sub>🔜 即将开放</sub><br><sub>SEDarc 申请截止 2027-01-29 16:00（英国时间）；校内申请截止更早，2027 日期未找到</sub> | 🟡 | **要求：** 国际生名额约占 30%（据第三方信息），需通过萨里校内申请流程并符合 ESRC 资格；以官网为准<br>ESRC 社科全额博士（3.5 年），面向英国与国际学生，国际生名额约 30%；2027 入学 SEDarc 截止 2027-01-29（校内申请更早）。 |
 | [辛辛那提大学 Lindner 商学院 PhD 项目](https://business.uc.edu/academics/phd.html)<br><sub>美国 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 未公布<br><sub>📋 持续更新</sub> | ❔ | **要求：** 第三方列表称需 GRE 或 GMAT、两封推荐信、个人陈述与简历；国际生需 IELTS 或 TOEFL（待官网核实）。<br>官网称录取者可获四年助研/助教或奖学金支持，方向含会计、经济、金融、管理、营销、运营与信息系统；具体津贴未确认。 |
 | [隆德大学统计系博士研究生职位](https://lusem.lu.se/organisation/department-statistics/doctoral-studies-department-statistics)<br><sub>瑞典 ｜ 数学/统计·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年在招职位截止为 5 月 31 日或 6 月 10 日，均已过；2027 轮以 lu.varbi.com 为准</sub> | ✅ | 博士生为带薪职位，通常4年全职，部门称一般提供全程经济支持。2026年本轮截止已过（5月31日），可留意该页面的下一轮 Current job openings 与 lu.varbi.com 发布。 |
-| [雷丁大学 ESRC SEDarc 奖学金](https://www.reading.ac.uk/doctoral-researcher-college/funding/phd-studentships/esrc-sedarc-dtp)<br><sub>英国 ｜ 社会科学/心理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-01-29**<br><sub>🟢 开放申请</sub><br><sub>2027 年 10 月入学轮：雷丁校内申请截止 2026-12-11，SEDarc 最终申请截止 2027-01-29</sub> | 🟡 | **要求：** 国际名额不超过 30%；限指定社科学科<br>国际名额约 30%，需核实学费差额安排。 |
+| [雪城大学 Maxwell 经济系博士资助](https://www.maxwell.syr.edu/academics/economics-department/graduate-studies/ph-d-in-economics)<br><sub>美国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-01-15**<br><sub>🟢 开放申请</sub> | ❔ | **要求：** 非英语母语者需 TOEFL（优先 100+）或 IELTS 学术类（优先 7.0+）；需 GRE、成绩单及 3 封推荐信；1 月 15 日前提交方获奖学金/助理职位完整考虑<br>助理职位包含津贴、全额学费奖学金及医保补贴，需逐年续约；每年 1 月 15 日前齐全材料为完整考虑截止。系页面未明确国际生与本地生同等资格，以系为准。 |
+| [雷丁大学 ESRC SEDarc 奖学金](https://www.reading.ac.uk/doctoral-researcher-college/funding/phd-studentships/esrc-sedarc-dtp)<br><sub>英国 ｜ 社会科学/心理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | **2027-01-29**<br><sub>🟢 开放申请</sub><br><sub>2027 年 10 月入学轮：雷丁校内申请截止 2026-12-11，SEDarc 最终申请截止 2027-01-29</sub> | 🟡 | **要求：** 国际名额不超过 30%；限指定社科学科<br>ESRC SEDarc 博士奖学金：生活津贴 + 英国/爱尔兰本地学费标准；国际生名额不超过 30%，学费差额需自付或由学校另行减免，以官网为准。雷丁校内截止日期以官网当年公告为准。 |
 | [香港大学经管学院博士项目（HKPFS 为主要资助渠道）](https://fbeo.fbe.hku.hk/phd/admissions/admission-application-and-tuition-fee)<br><sub>中国香港 ｜ 经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>基本 PGS 每月 HK$19,135（自 2025 年 9 月 1 日）；通用轨入学奖学金 2027-28 学年 HK$49,500（自动评定，无需申请）。</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>2027/28 入学主轮申请截止 2026 年 12 月 1 日（页面）；HKPFS 初步申请截止为同日中午 12 点（香港时间）。</sub> | ❔ | **要求：** 需 GMAT 或 GRE 成绩（五年内）、研究计划书及两封推荐信；学士须为一等荣誉学位，或学士（荣誉）加硕士；非英语授课背景申请者需 TOEFL 或 IELTS（IELTS 总分不低于 6.5，单项不低于 6）。<br>港大经管学院（HKU Business School）博士项目页面，学生需选择六个研究领域之一。页面列出 2027/28 轮申请安排、入学资格与语言要求，并列出 PGS、入学奖学金与 HKPFS 安排。 |
 | [香港浸会大学会计、经济及金融学系 · 博士（PhD）](https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-department-of-accountancy-economics-and-finance)<br><sub>中国香港 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>页面所示 2027/28 学年常规研究生课程申请窗口为 2026 年 9 月 1 日至 12 月 1 日，补录轮次为 2027 年 4 月 15 日；HKPFS 同为 12 月 1 日截止，页面未列 HKPFS 补录轮次。</sub> | ❔ | **要求：** 需硕士或同等学历及研究计划；全日制 PhD 可同时参加 HKPFS 与校内奖学金评审。<br>页面所示通用轮次：9 月 1 日开放、12 月 1 日截止，4 月 15 日有补录轮次；列出 HKPFS 与研究生奖学金信息。 |
 | [马普集体物品研究所 × 科隆大学 经济学博士资助](https://www.coll.mpg.de/419085/application)<br><sub>德国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2027-03-15**<br><sub>🔜 即将开放</sub><br><sub>2027 年 10 月入学轮次：2026-12-15 至 2027-03-15 申请。</sub> | ❔ | 页面称 2026 年 10 月入学轮次申请已截止；2027 年 10 月入学轮次申请期为 2026 年 12 月 15 日至 2027 年 3 月 15 日。申请材料与流程见页面所链接的科隆大学经济学博士项目页面。 |

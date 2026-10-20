@@ -2,17 +2,17 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 全球（GLOBAL） 信源（166）
+# 全球（GLOBAL） 信源（167）
 
-所有标注了地区 GLOBAL 的信源，共 166 条。
+所有标注了地区 GLOBAL 的信源，共 167 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 60](global.md#aggregators) · [各国学术招聘门户与机构职位页 1](global.md#national-portals) · [政府与国家级奖学金 2](global.md#gov-scholarships) · [高校旗舰奖学金与资助检索 2](global.md#university-schemes) · [结构化博士项目与研究机构 5](global.md#doctoral-programs) · [博士后奖学金与项目 13](global.md#postdoc-fellowships) · [企业与基金会 Fellowship 24](global.md#fellowships) · [学科专属信源 45](global.md#discipline) · [科研实习与“曲线入口” 2](global.md#pathways) · [个人信源与社交渠道 10](global.md#people-channels) · [导师招生汇总（指向个人主页的集合） 1](global.md#faculty-aggregators) · [选校与申请辅助工具 1](global.md#tools)
+**按分类跳转：** [综合聚合平台 61](global.md#aggregators) · [各国学术招聘门户与机构职位页 1](global.md#national-portals) · [政府与国家级奖学金 2](global.md#gov-scholarships) · [高校旗舰奖学金与资助检索 2](global.md#university-schemes) · [结构化博士项目与研究机构 5](global.md#doctoral-programs) · [博士后奖学金与项目 13](global.md#postdoc-fellowships) · [企业与基金会 Fellowship 24](global.md#fellowships) · [学科专属信源 45](global.md#discipline) · [科研实习与“曲线入口” 2](global.md#pathways) · [个人信源与社交渠道 10](global.md#people-channels) · [导师招生汇总（指向个人主页的集合） 1](global.md#faculty-aggregators) · [选校与申请辅助工具 1](global.md#tools)
 
 <a id="aggregators"></a>
 
-## 综合聚合平台（60）
+## 综合聚合平台（61）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -67,6 +67,7 @@
 | [ORFEUS 地震学论坛招聘板](https://forum.orfeus-eu.org/c/job-announcements/14)<br><sub>全球 ｜ 地球/环境/海洋·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 欧洲地震数据中心的招聘公告板，偏地震学与地球物理；申请前核对资助类型与国际生资格。 |
 | [PhilJobs 哲学博后与限期岗位列表（Fixed-term）](https://philjobs.org/jobQuery/fixedTerm)<br><sub>全球 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 哲学方向博后，通常要求已获博士学位；国籍与居留要求因岗位而异，需逐条查看岗位说明<br>哲学方向博后与限期研究岗位的主要国际招聘板，可按 postdoc 类型筛选。国籍与居留要求因岗位而异，投递前需逐条看岗位说明；页面快照显示的岗位数量前后不一致，以实时页面为准。 |
 | [POLMETH 政治方法论邮件列表](https://polmeth.org/mailing-list)<br><sub>全球 ｜ 社会科学/心理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 政治方法论学会邮件列表（2025 年起由 Penn State 托管），用于发布博士、博后岗位与会议信息；订阅见 polmeth.org。岗位是否带资助需逐条核实。 |
+| [Population Europe 研究与职业机会板（人口学）](https://population-europe.eu/study-career/study-opportunities)<br><sub>欧盟/欧洲·全球 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各条目截止不同，需逐条确认。</sub> | ❔ | 欧洲人口学博士与岗位公告板，多为欧洲项目；国际生资格看各校公告。 |
 | [Rocq 证明助手社区招聘板（形式化验证与编程语言）](https://discourse.rocq-prover.org/tag/jobs)<br><sub>全球 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | Rocq（原 Coq）社区 jobs 标签页，集中发布形式化验证、程序证明与编程语言方向的博士及博后信息。 |
 | [ROS Discourse 招聘分区（jobs）](https://discourse.openrobotics.org/c/jobs/15)<br><sub>全球 ｜ 计算机·工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | ROS 社区官方招聘分区，机器人实验室和企业发布博士与博后岗位；按时间排序查看最新，需 ROS 技能的岗位较多。 |
 | [Science Careers](https://jobs.sciencecareers.org/jobs/graduate-student/)<br><sub>全球 ｜ 生物/生命科学·化学/材料·物理/天文·医学/公卫</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 依职位而定；需按职位页核对学位与语言要求<br>AAAS 旗下职位板，可按 “Graduate Student/PhD” 职位类型筛选。 |

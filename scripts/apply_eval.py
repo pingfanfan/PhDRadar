@@ -8,7 +8,7 @@
   status   在审 → 已接收、加“第一作者”   role    参与 → 主导 / 独立完成
   award    句末加一个编造的奖项          uncited 去掉出处标记（经历句无出处）
   swap     出处换成另一条事实（语义张冠李戴；程序只在细节不符时能发现，其余交给审稿子代理）
-输出每类拦截率；未拦下的变体逐条列出，供改进规则或交给审稿子代理。结果只打印，不写入申请目录。
+判错或标“需核对”（定稿前必须过证据核对）都算拦下。输出每类拦截率；未拦下的变体逐条列出，供改进规则或交给审稿子代理。结果只打印，不写入申请目录。
 """
 from __future__ import annotations
 
@@ -125,7 +125,8 @@ def main() -> int:
                 if kind in ("status", "role", "award") and supported(s, v, own):
                     continue  # 出处本来就支持这种说法（例如出处写了 project lead），不算编造
                 k += 1
-                errs, _ = ac.check_sentence(v, idx, lab, post, ctx)
+                errs, warns = ac.check_sentence(v, idx, lab, post, ctx)
+                errs = errs + [w for w in warns if w.startswith("需核对")]  # “需核对”的句子定稿前必须过证据核对，也算拦下
                 st = stats.setdefault(kind, [0, 0])
                 st[1] += 1
                 if errs:

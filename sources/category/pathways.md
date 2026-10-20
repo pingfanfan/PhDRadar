@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 科研实习与“曲线入口”（45）
+# 科研实习与“曲线入口”（46）
 
 暑研/访问项目，常是拿到导师认可、进而获得全奖 offer 的关键路径。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [瑞士（CH） 8](pathways.md#r-ch) · [荷兰（NL） 5](pathways.md#r-nl) · [英国（UK） 5](pathways.md#r-uk) · [美国（US） 5](pathways.md#r-us) · [法国（FR） 4](pathways.md#r-fr) · [丹麦（DK） 3](pathways.md#r-dk) · [比利时（BE） 2](pathways.md#r-be) · [加拿大（CA） 2](pathways.md#r-ca) · [德国（DE） 2](pathways.md#r-de) · [全球（GLOBAL） 2](pathways.md#r-global) · [阿联酋（AE） 1](pathways.md#r-ae) · [西班牙（ES） 1](pathways.md#r-es) · [芬兰（FI） 1](pathways.md#r-fi) · [中国香港（HK） 1](pathways.md#r-hk) · [日本（JP） 1](pathways.md#r-jp) · [沙特（SA） 1](pathways.md#r-sa) · [瑞典（SE） 1](pathways.md#r-se)
+**按地区跳转：** [瑞士（CH） 8](pathways.md#r-ch) · [法国（FR） 5](pathways.md#r-fr) · [荷兰（NL） 5](pathways.md#r-nl) · [英国（UK） 5](pathways.md#r-uk) · [美国（US） 5](pathways.md#r-us) · [丹麦（DK） 3](pathways.md#r-dk) · [比利时（BE） 2](pathways.md#r-be) · [加拿大（CA） 2](pathways.md#r-ca) · [德国（DE） 2](pathways.md#r-de) · [全球（GLOBAL） 2](pathways.md#r-global) · [阿联酋（AE） 1](pathways.md#r-ae) · [西班牙（ES） 1](pathways.md#r-es) · [芬兰（FI） 1](pathways.md#r-fi) · [中国香港（HK） 1](pathways.md#r-hk) · [日本（JP） 1](pathways.md#r-jp) · [沙特（SA） 1](pathways.md#r-sa) · [瑞典（SE） 1](pathways.md#r-se)
 
 <a id="r-ch"></a>
 
@@ -24,6 +24,18 @@
 | [SNF 博士生最低薪资上调（2026 起）](https://snf.ch/en/kHunysxdKHpyUL8s/news/salary-increase-for-doctoral-students)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ✅ | 页面（2024-07-24 发布）称 SNSF 项目下博士生薪资下限自 2026-01-01 起由 47,040 瑞郎提高至 50,000 瑞郎（税前）；2024 年薪资上限调整为 55,000 瑞郎。SNSF 不作为直接雇主，薪资在区间内由高校确定。 |
 | [Summer@EPFL](https://summer.epfl.ch/)<br><sub>瑞士 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>CHF 1,800/月（按实际时长折算，另报销差旅）</sub> | —<br><sub>每年申请一次，截止日为 12 月 1 日之前最近的周日；据此推算 2027 届约 2026 年 11 月 29 日，未见官方 2027 公告，以 summer.epfl.ch 为准</sub> | ✅ | **要求：** 计算机、计算机工程、电信或电气工程相关专业在读；需为本科二年级及以上或硕士在读<br>EPFL 计算机学院暑研项目，每年申请一次，月津贴 CHF 1,800（按实际时长折算，另报销差旅），竞争激烈。截止日期据学院规则推算，需以官网 2027 届公告为准。 |
 | [国际清算银行（BIS）博士研究奖学金](https://www.bis.org/careers/graduate_page.htm)<br><sub>瑞士 ｜ 经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮截止于 2025 年 11 月 24 日（第三方信息）；2027 轮通常夏末公告，关注官网</sub> | ✅ | BIS 博士研究奖学金为巴塞尔短期研究驻留（约 3–11 个月），含工资、医保与差旅等；需在读经济、金融或相关领域博士，BIS 材料称欢迎全球申请者。通常夏末开放、秋季截止。 |
+
+<a id="r-fr"></a>
+
+## 法国（FR）（5）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [CIFRE（法国企业联合培养博士）说明](https://static.psl.eu/sites/default/files/2026-07/Webinaire%20CIFRE%20COFRA%2007.04.26.pdf)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 滚动<br><sub>🔄 随时可申</sub><br><sub>全年可提交，需先找到企业与实验室课题，由企业向 ANRT 提交</sub> | ❔ | **要求：** 需硕士或同等学历及首次研究经验；通用规则未见国籍限制，需以 ANRT 为准；非欧盟国籍者需已取得在法国工作的许可（据巴黎市 2026 CIFRE 通告）。<br>法国 ANRT 管理的 CIFRE（企业联合培养博士）：由 ANRT 批准财政资助（PSL 2026 年 4 月网络研讨会资料）；页面未载明国籍条件与申请期。 |
+| [PSL PhD Tracks（五年制硕士转博士通道）](https://psl.eu/formation/choisir-sa-formation/psl-phd-tracks)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-12-14**<br><sub>🟢 开放申请</sub><br><sub>2027 年 9 月入学批次申请 2026 年 10 月 14 日至 12 月 14 日（CET 23:59），仅限在 PSL 门户提交；仅开放化学、生命科学、天体物理、计算机科学四个 track。</sub> | ❔ | **要求：** 只能从硕士一年级申请；材料须为英文；需面试<br>五年制通道：前两年为硕士阶段（官方所述每年约 1 万欧元资助），之后转为法国博士合同（有薪）；只能从硕士一年级申请，材料须为英文并需面试。2026/27 年度申请已于 2025 年 12 月 11 日截止，2027 年度批次以 PSL 官网为准。 |
+| [巴黎市 CIFRE 博士岗位征集（市政府作为雇主）](https://www.paris.fr/actualites/cifre-un-dispositif-d-accueil-de-doctorants-a-paris-candidatez-en-ligne-4222)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-02-27**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮征集 2 月 27 日截止已过，每年征集一次；2027 轮以巴黎市官网为准</sub> | ❔ | **要求：** 入职前需已取得硕士学位；在读或已有博士学位者不符合；各学科均可<br>巴黎市政府与 ANRT 合作，以 CIFRE 形式雇用博士生，每年征集一次，3 年固定期限合同。国际申请人的法国工作许可要求未确认。 |
+| [格勒诺布尔阿尔卑斯大学 EDSTEP 博士经费类型说明（合同博士 / CIFRE）](https://edstep.univ-grenoble-alpes.fr/apply/financing-your-phd/)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | — | ❔ | 页面列出 UGA/USMB 每年分配的两类合同博士（竞争性合同与 IDEX 定向合同）及 CIFRE（企业雇用 3 年）。页面未给出 CIFRE 金额与选拔月份；页面写 CIFRE 最低月薪为 €1,957 毛薪（2007 年 9 月起的数字，页面更新于 2024 年 2 月）。 |
+| [里昂大学 ED205 EDISS 申请博士的导师承诺信说明](https://ediss.universite-lyon.fr/navigation/how-to-apply-for-a-phd-/obtaining-a-commitment-letter-/)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>随申请者与导师的沟通进度而定，没有统一截止日期。</sub> | ❔ | **要求：** 以 EDISS 申请指南为准。<br>页面说明 EDISS 申请博士时如何取得导师承诺信，并列出常规博士合同、定向合同、CDSN、FRM 及中法联合博士项目（CSC）等资助渠道的申请方式。 |
 
 <a id="r-nl"></a>
 
@@ -60,17 +72,6 @@
 | [NBER 非 NBER 岗位 Pre-doc / RA 公告](https://nber.org/jobs/nonnberjobs.html)<br><sub>美国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | — | ❔ | 美国经济学界 pre-doc 与 RA 带薪岗位（1–3 年），国际生资格由各雇主决定，需确认美国工作授权。 |
 | [德州农工建筑学院 Pathways 博士通道](https://www.arch.tamu.edu/academics/graduate-programs/pathways-program/)<br><sub>美国 ｜ 工程·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2027-02-15**<br><sub>🟢 开放申请</sub> | ❔ | 德州农工大学建筑学院 Pathways 项目：现行官网描述为全额资助的短期工作坊并配教师导师；旧版称完成后可竞争博士奖学金，现行页面未见该表述。国际生资格未明确。 |
 | [斯坦福 SIEPR 预博士研究员项目](https://siepr.stanford.edu/programs/siepr-predoctoral-research-fellows-program/apply-siepr-predoctoral-research-fellows)<br><sub>美国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-10-08**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 年 7 月入职轮次已开放申请，完整考虑截止 2026-10-08（已过）</sub> | 🟡 | **要求：** 需完成或即将完成学士/硕士学位；需美国合法工作资格（可申请 J-1，不接受 H-1B）<br>SIEPR 预博士研究员（全职、可续一年）。2026 轮 1 月 28 日截止，已关闭；预计 2027 年 1 月再开放。官网称提供学费（最多 5 学分）、医保与津贴；需美国工作授权，J-1 可能担保。 |
-
-<a id="r-fr"></a>
-
-## 法国（FR）（4）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [CIFRE（法国企业联合培养博士）说明](https://static.psl.eu/sites/default/files/2026-07/Webinaire%20CIFRE%20COFRA%2007.04.26.pdf)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 滚动<br><sub>🔄 随时可申</sub><br><sub>全年可提交，需先找到企业与实验室课题，由企业向 ANRT 提交</sub> | ❔ | **要求：** 需硕士或同等学历及首次研究经验；通用规则未见国籍限制，需以 ANRT 为准；非欧盟国籍者需已取得在法国工作的许可（据巴黎市 2026 CIFRE 通告）。<br>法国 ANRT 管理的 CIFRE（企业联合培养博士）：由 ANRT 批准财政资助（PSL 2026 年 4 月网络研讨会资料）；页面未载明国籍条件与申请期。 |
-| [巴黎市 CIFRE 博士岗位征集（市政府作为雇主）](https://www.paris.fr/actualites/cifre-un-dispositif-d-accueil-de-doctorants-a-paris-candidatez-en-ligne-4222)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-02-27**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮征集 2 月 27 日截止已过，每年征集一次；2027 轮以巴黎市官网为准</sub> | ❔ | **要求：** 入职前需已取得硕士学位；在读或已有博士学位者不符合；各学科均可<br>巴黎市政府与 ANRT 合作，以 CIFRE 形式雇用博士生，每年征集一次，3 年固定期限合同。国际申请人的法国工作许可要求未确认。 |
-| [格勒诺布尔阿尔卑斯大学 EDSTEP 博士经费类型说明（合同博士 / CIFRE）](https://edstep.univ-grenoble-alpes.fr/apply/financing-your-phd/)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | — | ❔ | 页面列出 UGA/USMB 每年分配的两类合同博士（竞争性合同与 IDEX 定向合同）及 CIFRE（企业雇用 3 年）。页面未给出 CIFRE 金额与选拔月份；页面写 CIFRE 最低月薪为 €1,957 毛薪（2007 年 9 月起的数字，页面更新于 2024 年 2 月）。 |
-| [里昂大学 ED205 EDISS 申请博士的导师承诺信说明](https://ediss.universite-lyon.fr/navigation/how-to-apply-for-a-phd-/obtaining-a-commitment-letter-/)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>随申请者与导师的沟通进度而定，没有统一截止日期。</sub> | ❔ | **要求：** 以 EDISS 申请指南为准。<br>页面说明 EDISS 申请博士时如何取得导师承诺信，并列出常规博士合同、定向合同、CDSN、FRM 及中法联合博士项目（CSC）等资助渠道的申请方式。 |
 
 <a id="r-dk"></a>
 

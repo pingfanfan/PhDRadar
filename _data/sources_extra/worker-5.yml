@@ -807,6 +807,32 @@
   verify_method: page
   page_evidence: For full-time PhD students, the period of study is 36 months
   verified: 2026-10-17
+- id: polyu-top-up-social-work-phd
+  name: 香港理工大学健康或社会工作专业博士补充奖学金
+  url: https://www.polyu.edu.hk/fhss/study/prospective-students/top-up-scholarship
+  category: university-schemes
+  regions:
+  - HK
+  disciplines:
+  - social
+  - med
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: 'no'
+  access:
+  - web
+  language: en
+  coverage: partial
+  stipend: HK$12,000/月（整个正常学制期间）
+  deadline: varies
+  deadline_note: 需先获博士录取再申请，截止随录取轮次变化
+  status: ongoing
+  requirements: 仅限本地（local）博士生；需社会工作或健康专业资格；需先获得 PolyU 博士录取。
+  notes: 官网称该补充奖学金仅面向本地博士生，按字面不向内地学生开放；每月 HK$12,000，整个正常学制期间，需保持优秀表现并获得 PolyU 月津贴。截止随录取轮次，官网未见具体日期。
+  verify_method: page
+  page_evidence: provides a cash award of HK$12,000 per month for the entire normal study period
+  verified: 2026-10-20
 - id: aarhus-arts-4plus4-phd
   name: 奥胡斯大学文学院 4+4 博士奖学金公开征集（含人类学）
   url: https://phd.arts.au.dk/applicants/open-and-specific-calls/deadline/phd-open-call-e2026-uk
@@ -930,6 +956,30 @@
   verify_method: page
   page_evidence: 'Mechanical and Aerospace Engineering PGRTAs: Enhanced PhD Studentship'
   verified: 2026-10-19
+- id: polimi-aerospace-phd-cycle42
+  name: 米兰理工大学航空航天博士（第 42 周期）
+  url: https://www.polimi.it/en/phd/prospective-phd-candidates/admission/calls-and-open-positions/ciclo-42/2nd-call
+  category: university-schemes
+  regions:
+  - IT
+  disciplines:
+  - engineering
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  deadline: 2026-09-18
+  deadline_note: 第 42 周期第 1 轮截止 2026-07-01、第 2 轮截止 2026-09-18，均已过；2027 年周期以官网为准。
+  status: closed
+  requirements: 一般需硕士或即将完成硕士，相关专业背景，英语达标（第三方摘要）
+  notes: 米兰理工博士第 42 周期第 2 轮截止 2026-09-18，已截止；官网页写入学日期 2026-11-01。2027 年周期以官网为准。
+  verify_method: page
+  page_evidence: before the deadline of 18 September 2026 (2pm) [italian time]
+  verified: 2026-10-20
 - id: osaka-robotics-mext-2026
   name: 大阪大学 MEXT 推荐项目 · 机器人学（2026）
   url: https://www.es.osaka-u.ac.jp/en/admission-aid/mext-granted/images/Robotics_2026.pdf
@@ -2264,7 +2314,9 @@
   status: open
   requirements: 需 Laurea Magistrale 或同等学位，并提交 B2 级英语证明（据官方 bando 摘要）
   notes: 第 42 周期分三批录取，第二批 2026-10-15 开放、2026-11-16 截止、课程 2027-03-01 开始；有奖学金与无奖学金岗位分列，需在分表中逐项确认，并提交学位认证材料。
-  verified: 2026-10-16
+  verify_method: page
+  page_evidence: La selezione per l'ammissione ai corsi di dottorato si articola in tre sessioni distinte.
+  verified: 2026-10-20
 - id: konstanz-evolutionsbiologie-jobs
   name: 康斯坦茨大学进化生物学课题组岗位页
   url: https://www.evolutionsbiologie-uni-konstanz.com/job-opportunities.html

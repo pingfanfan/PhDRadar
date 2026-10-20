@@ -2699,6 +2699,28 @@ sources:
   deadline_note: 各实验室岗位截止各不相同，以表格中每条为准；2027–2028 学年表格已于 2026 年 5 月征集
   verify_method: page
   page_evidence: The form populates a view-only spreadsheet that prospective applicants can use to find labs that match their interests.
+- id: psych-faculty-recruiting
+  name: 心理学系“本季招生导师”名单（例：Northwestern Fall 2027）
+  url: https://psychology.northwestern.edu/documents/grad-program-info/faculty-recruiting-fall-2027-admission-rev.pdf
+  category: faculty-aggregators
+  regions:
+  - US
+  disciplines:
+  - social
+  - neuro
+  funding: info
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  notes: 美国心理学系普遍每年公布本季招生导师名单（Cincinnati、Houston 等也有），可逐校监控。
+  verified: 2026-10-20
+  coverage: unknown
+  status: open
+  deadline: varies
+  deadline_note: 2027 秋季招生导师名单已公布；各导师接受咨询与截止时间不同，以名单为准。
+  verify_method: page
+  page_evidence: Accepting students
 - id: aicentre-dk-phd
   name: Pioneer Centre for AI（丹麦）博士招聘
   url: https://www.aicentre.dk/phd-openings/
@@ -3143,6 +3165,32 @@ sources:
   deadline_note: 2027 轮公告未找到；最近可见为第 41 期（2025）竞赛公告，请以官网当年公告为准
   verify_method: page
   page_evidence: Le domande di ammissione devono essere redatte e inviate esclusivamente in forma elettronica.
+- id: polito-phd
+  name: 都灵理工博士招生公告
+  url: https://www.polito.it/en/education/phd-programmes-and-postgraduate-school/admissions-to-phd-programmes/admissions/archive-of-past-calls-for-applications
+  category: university-schemes
+  regions:
+  - IT
+  disciplines:
+  - engineering
+  - cs
+  - ai
+  - math
+  - physics
+  funding: scholarship
+  cn_eligible: check
+  access:
+  - web
+  - login
+  language: en
+  notes: 每期约百个奖学金名额，分多个 session；另有 PoliTo-CSC 联合项目。
+  verified: 2026-10-20
+  coverage: unknown
+  status: open
+  deadline_note: 第 42 期（2026–27）分三批发布，至少 110 个奖学金名额；具体截止与金额以当期公告为准
+  requirements: 需按当期公告要求的学位与材料申请；奖学金按年续期
+  verify_method: page
+  page_evidence: Call for Applications for admissions to PhD programmes at Politecnico di Torino (40th cycle)
 - id: sissa-phd
   name: SISSA 的里雅斯特国际高等研究院博士招生
   url: https://www.sissa.it/bandi/ammissione-ai-corsi-di-phd-della-sissa-lanno-accademico-202627-admission-sissa-phd-courses
@@ -3411,6 +3459,31 @@ sources:
   requirements: MEXT 奖学金须经使领馆推荐，或经校方推荐（校方推荐限 MEXT 指定国家/地区国籍者）；各研究科要求不同
   verify_method: page
   page_evidence: Graduate Admission Guide for International Applicants
+- id: postech-financial-aid
+  name: POSTECH 国际研究生资助政策
+  url: https://adm-g.postech.ac.kr/ENG/graduate-info/support-policy/
+  category: university-schemes
+  regions:
+  - KR
+  disciplines:
+  - cs
+  - engineering
+  - physics
+  - chem
+  - bio
+  - math
+  funding: scholarship
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  notes: POSTECH 研究生资助页列出奖学金、助教/助研（TA、RA）与行政岗位三类，并有 Ruth L. Satter、K-GKS 庆尚北道通道等指定项目。助研津贴按学期表现浮动，各实验室规定不同，国际生资格以各项目条款为准。
+  verified: 2026-10-20
+  coverage: varies
+  requirements: 国际研究生须满足各项目条件；Ruth L. Satter 奖学金限亚洲女性新生，博士最长两年
+  stipend: 博士 TA/RA 每月 2,200,000 韩元（学费 884,000 + 生活补助 1,316,000），各实验室可不同
+  verify_method: page
+  page_evidence: Financial Aid is classified as 1) fellowship, 2) assistantship and 3) other grants
 - id: unist-grad-admissions
   name: UNIST 蔚山科技院研究生招生
   url: https://adm-g.unist.ac.kr/admg-eng/admission/graduate-admissions.do
@@ -3494,12 +3567,15 @@ sources:
   access:
   - web
   language: en
-  notes: UQ 研究生院奖学金（含 RTP），官网列明面向国际生，含生活津贴 AUD 37,500/年（2026 标准，免税）与 OSHC；学费覆盖范围以官网为准，仅限全日制，须由学院提名，需先提交 EOI。
-  verified: 2026-10-17
-  coverage: partial
-  stipend: AUD 37,500/年（官网 2026 标准，免税）
-  deadline: unknown
-  deadline_note: 国际生截止日未经官网核实，以官网为准
+  notes: UQ 研究生院奖学金（含 RTP），面向国内外学生，含免税生活津贴与单人 OSHC，期限 3.5 年（可延 1 次）；须由学院提名并先提交 EOI。
+  verified: 2026-10-20
+  coverage: full
+  stipend: AUD 39,220/年（官网 2026 标准，免税）
+  deadline: 2026-10-19
+  deadline_note: 国际申请人轮次（2027 第四研究季度或 2028 年初入学）完整申请截止 2026-10-19；后续轮次日期将于 2026 年 10 月底公布
+  status: open
+  verify_method: page
+  page_evidence: Living stipend of $39,220 per annum tax free (2026 rate), indexed annually, Single Overseas Student Health Cover (OSHC)
 - id: uwa-hdr-scholarships
   name: 西澳大学 HDR 奖学金
   url: https://www.uwa.edu.au/study/scholarships-and-fees/scholarships/hdr-scholarships
@@ -4046,6 +4122,31 @@ sources:
   - phd
   verify_method: page
   page_evidence: Incentive Stipend (covers living expenses) JPY 260,000/month
+- id: polito-national-phd-programmes
+  name: 都灵理工国家级博士项目（含 AI）
+  url: https://www.polito.it/en/education/phd-programmes-and-postgraduate-school/phd-programmes/national-phd-programmes
+  category: doctoral-programs
+  regions:
+  - IT
+  disciplines:
+  - ai
+  - engineering
+  funding: scholarship
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  notes: 都灵理工国家级博士项目（含 AI）。第 42 周期公开竞赛公告已于 2026 年 3 月发布；具体项目以招生规定为准，国际生资格与名额未核实。
+  verified: 2026-10-20
+  levels:
+  - phd
+  coverage: unknown
+  status: closed
+  deadline: unknown
+  deadline_note: 第 42 周期（2026/27 学年）官网 Call 已发布；第一批截止约 2026-04-30（第三方页面，待官网核实），该批次已过；后续批次以官网为准。
+  requirements: 国际生资格与名额未核实，需查阅官网招生公告原文
+  verify_method: page
+  page_evidence: 'Politecnico di Torino has made available one or more PhD scholarship(s) in each of the following national Ph.D. programmes:'
 - id: csiro-ai-for-missions-phd
   name: CSIRO AI for Missions 博士奖学金（澳大利亚）
   url: https://www.csiro.au/en/careers/Scholarships-student-opportunities/Postgraduate-programs-and-Scholarships/AI-for-Missions-PhD-Program

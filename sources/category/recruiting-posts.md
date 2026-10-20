@@ -2,17 +2,17 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 导师招生帖（社交平台个人发布）（77）
+# 导师招生帖（社交平台个人发布）（78）
 
 导师/课题组在小红书、知乎、微信公众号、微博、B站、X、Bluesky、LinkedIn 等平台亲自发布的单条博士/博后招生帖，时效性强，请留意发布日期。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [中国香港（HK） 19](recruiting-posts.md#r-hk) · [美国（US） 10](recruiting-posts.md#r-us) · [德国（DE） 7](recruiting-posts.md#r-de) · [瑞士（CH） 6](recruiting-posts.md#r-ch) · [荷兰（NL） 6](recruiting-posts.md#r-nl) · [新加坡（SG） 5](recruiting-posts.md#r-sg) · [丹麦（DK） 4](recruiting-posts.md#r-dk) · [韩国（KR） 4](recruiting-posts.md#r-kr) · [加拿大（CA） 3](recruiting-posts.md#r-ca) · [中国内地（CN） 3](recruiting-posts.md#r-cn) · [奥地利（AT） 1](recruiting-posts.md#r-at) · [比利时（BE） 1](recruiting-posts.md#r-be) · [欧盟/欧洲（EU） 1](recruiting-posts.md#r-eu) · [芬兰（FI） 1](recruiting-posts.md#r-fi) · [法国（FR） 1](recruiting-posts.md#r-fr) · [以色列（IL） 1](recruiting-posts.md#r-il) · [日本（JP） 1](recruiting-posts.md#r-jp) · [挪威（NO） 1](recruiting-posts.md#r-no) · [瑞典（SE） 1](recruiting-posts.md#r-se) · [英国（UK） 1](recruiting-posts.md#r-uk)
+**按地区跳转：** [中国香港（HK） 20](recruiting-posts.md#r-hk) · [美国（US） 10](recruiting-posts.md#r-us) · [德国（DE） 7](recruiting-posts.md#r-de) · [瑞士（CH） 6](recruiting-posts.md#r-ch) · [荷兰（NL） 6](recruiting-posts.md#r-nl) · [新加坡（SG） 5](recruiting-posts.md#r-sg) · [丹麦（DK） 4](recruiting-posts.md#r-dk) · [韩国（KR） 4](recruiting-posts.md#r-kr) · [加拿大（CA） 3](recruiting-posts.md#r-ca) · [中国内地（CN） 3](recruiting-posts.md#r-cn) · [奥地利（AT） 1](recruiting-posts.md#r-at) · [比利时（BE） 1](recruiting-posts.md#r-be) · [欧盟/欧洲（EU） 1](recruiting-posts.md#r-eu) · [芬兰（FI） 1](recruiting-posts.md#r-fi) · [法国（FR） 1](recruiting-posts.md#r-fr) · [以色列（IL） 1](recruiting-posts.md#r-il) · [日本（JP） 1](recruiting-posts.md#r-jp) · [挪威（NO） 1](recruiting-posts.md#r-no) · [瑞典（SE） 1](recruiting-posts.md#r-se) · [英国（UK） 1](recruiting-posts.md#r-uk)
 
 <a id="r-hk"></a>
 
-## 中国香港（HK）（19）
+## 中国香港（HK）（20）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -24,9 +24,10 @@
 | [HKUST SQML 实验室（自旋量子材料）· 博士/博后招聘](https://sqml.hkust.edu.hk/opportunities)<br><sub>中国香港 ｜ 工程·物理/天文·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 全奖 | — | ❔ | 实验室页面列出 MRAM 与 AI 硬件方向的博士、博后及访问学者岗位，另有 2D 自旋电子学方向的博后或研究助理教授岗位。页面未标统一截止日期，申请前请直接联系 PI。 |
 | [OCTAD 实验室 · 香港科技大学 · 机械与航空工程 博士招生](https://octadlab.ust.hk/contactus/)<br><sub>中国香港 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布 | ❔ | **要求：** 需提交 CV 与简短自我介绍，发至 octadlab@ust.hk<br>页面只给出投递方式，未写资助金额，需在邮件中确认是否提供奖学金。 |
 | [PolyU 吴涛课题组（应用物理）](https://pm.polyu.edu.hk/taowu/group/contact.html)<br><sub>中国香港 ｜ 工程·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | 吴涛（Tom Wu）教授课题组隶属应用物理学系（非机械工程），研究钙钛矿氧化物与卤化物杂化材料。成员页可见 2025 年入组的博后，但未确认当前是否招收，申请前请通过课题组官网或邮件询问。 |
+| [PolyU 张毅课题组 · 博士、MPhil 与博后招生](https://research.polyu.edu.hk/en/persons/yi-zhang-2/)<br><sub>中国香港 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | 学者页面称招收博士、MPhil 和博后，需按页面邮箱发送 CV 与研究计划。页面未列资助金额，申请前需向导师确认。 |
 | [PolyU 毕凯明课题组（结构动力学）· 博后、RA 与博士招生](https://www.polyu.edu.hk/cee/~kaimbi/Join%20Us.html)<br><sub>中国香港 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 滚动<br><sub>🔄 随时可申</sub><br><sub>全年接收博后、RA 与博士申请，无固定截止，可随时邮件投递</sub> | ❔ | **要求：** 发送 CV 及成绩单或论文至页面邮箱；博士可关注香港博士研究生奖学金（HKPFS）。博后与 RA 的具体薪酬与资格页面未完整显示，申请前需确认。<br>页面称全年接收博后、RA 与博士申请，结构动力学方向；博后优秀者可能被推荐申请 RGC 博后计划与香港学者计划。 |
 | [PolyU 电网现代化研究中心（RCGM）· 全球招收博士与博后](https://www.polyu.edu.hk/rcgm/about-rcgm/join-us/)<br><sub>中国香港 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 全奖 | 未公布 | ✅ | PolyU 电网现代化研究中心面向全球招收博士与博后：博士生享月津贴、年度会议与研究差旅津贴及学费减免，博后提供具竞争力的薪酬包；申请方式与截止日期以页面为准。 |
-| [PolyU 黄晓（AI 实验室）· 全奖博士与博后招生](https://web.comp.polyu.edu.hk/xiaohuang/lab.html)<br><sub>中国香港 ｜ 人工智能·计算机</sub> | 博士+博后 | 全奖 | —<br><sub>🟢 开放申请</sub> | ❔ | **要求：** 发送 CV 邮件联系黄晓教授；专业偏向计算机、电子、统计、数学等；学历与语言要求以港理工研究生院为准<br>实验室页面称招收自驱型全奖博士与博后，方向为数据挖掘与机器学习。发送邮件并附 CV 即可；港理工资助细则以研究生院为准。 |
+| [PolyU 黄晓（AI 实验室）· 全奖博士与博后招生](https://web.comp.polyu.edu.hk/xiaohuang/lab.html)<br><sub>中国香港 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 全奖 | —<br><sub>🟢 开放申请</sub> | ❔ | **要求：** 发送 CV 邮件联系黄晓教授；专业偏向计算机、电子、统计、数学等；学历与语言要求以港理工研究生院为准<br>实验室页面称招收自驱型全奖博士与博后，方向为数据挖掘与机器学习。发送邮件并附 CV 即可；港理工资助细则以研究生院为准。 |
 | [Yu Shen · 香港理工大学计算学系 · 区块链安全/安全多方计算/量子密码 招生](https://www.iacr.org/jobs/item/4254)<br><sub>中国香港 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 滚动<br><sub>🔄 随时可申</sub><br><sub>IACR 招聘帖（2026-08-08 发布）称材料按滚动方式评审，直至岗位招满；未见固定截止日期。申请方式为将简历、成绩单和研究陈述发送给沈宇教授。</sub> | ❔ | PI 为 PolyU 计算学系助理教授。方向：区块链安全与隐私、分布式共识、安全多方计算、量子密码。帖子称 3–4 年全额资助并提供月津贴。申请方式与国际生资格未在检索结果中看到。 |
 | [张奕源教授 · 香港理工大学 · 机械工程 博士招生](https://www.polyu.edu.hk/en/me/people/academic-teaching-staff/zhang-yiyuan-prof/-/media/5dd6198d71ef4224a39a5beef379f2fa.ashx)<br><sub>中国香港 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 滚动<br><sub>🔄 随时可申</sub><br><sub>全年接收博士申请，无固定截止日；全额支持来自 HKPFS、校长博士奖学金或研究生奖学金之一</sub> | ❔ | **要求：** 需提交 CV、成绩单、IELTS/TOEFL 成绩和论文列表，直接发送至教授邮箱。<br>未能确认该教授的招生状态与资助说法，申请前需到 PolyU 官网核实。 |
 | [徐胜多教授 · 香港理工大学 · 热电材料与柔性传感 招生](https://www.polyu.edu.hk/me/people/academic-teaching-staff/xu-shengduo-prof/-/media/3E74D0A55B494249B4BA46B79BFF914A.ashx)<br><sub>中国香港 ｜ 工程·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>不低于 HK$19,000/月（教授页面所列，以学校当年标准为准）</sub> | 滚动<br><sub>🔄 随时可申</sub><br><sub>页面称全年接受申请，面向 2026/27 入学；下一轮以学校与导师公告为准</sub> | ❔ | **要求：** 页面要求 GPA 不低于 3.6/4，有发表成果者可放宽；建议同时申请 HKPFS 或 PRPgS<br>全奖研究型博士名额 1–2 个，方向为 3D 打印热电材料、柔性热电与可穿戴传感器。先联系导师再通过 RPg 系统申请；国际生资格页面未明确。 |

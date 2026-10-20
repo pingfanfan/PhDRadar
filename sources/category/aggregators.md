@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 综合聚合平台（158）
+# 综合聚合平台（163）
 
 汇总多国、多学科 PhD 职位/项目的平台，日常刷新的首选入口。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [全球（GLOBAL） 53](aggregators.md#r-global) · [英国（UK） 26](aggregators.md#r-uk) · [德国（DE） 19](aggregators.md#r-de) · [欧盟/欧洲（EU） 14](aggregators.md#r-eu) · [美国（US） 7](aggregators.md#r-us) · [法国（FR） 6](aggregators.md#r-fr) · [西班牙（ES） 4](aggregators.md#r-es) · [加拿大（CA） 3](aggregators.md#r-ca) · [瑞士（CH） 3](aggregators.md#r-ch) · [中国内地（CN） 3](aggregators.md#r-cn) · [丹麦（DK） 3](aggregators.md#r-dk) · [中国香港（HK） 2](aggregators.md#r-hk) · [日本（JP） 2](aggregators.md#r-jp) · [韩国（KR） 2](aggregators.md#r-kr) · [荷兰（NL） 2](aggregators.md#r-nl) · [新加坡（SG） 2](aggregators.md#r-sg) · [澳大利亚（AU） 1](aggregators.md#r-au) · [ID 1](aggregators.md#r-id) · [意大利（IT） 1](aggregators.md#r-it) · [新西兰（NZ） 1](aggregators.md#r-nz) · [瑞典（SE） 1](aggregators.md#r-se) · [泰国（TH） 1](aggregators.md#r-th) · [南非（ZA） 1](aggregators.md#r-za)
+**按地区跳转：** [全球（GLOBAL） 53](aggregators.md#r-global) · [英国（UK） 26](aggregators.md#r-uk) · [德国（DE） 19](aggregators.md#r-de) · [欧盟/欧洲（EU） 15](aggregators.md#r-eu) · [美国（US） 9](aggregators.md#r-us) · [法国（FR） 6](aggregators.md#r-fr) · [西班牙（ES） 5](aggregators.md#r-es) · [加拿大（CA） 3](aggregators.md#r-ca) · [瑞士（CH） 3](aggregators.md#r-ch) · [中国内地（CN） 3](aggregators.md#r-cn) · [丹麦（DK） 3](aggregators.md#r-dk) · [中国香港（HK） 2](aggregators.md#r-hk) · [日本（JP） 2](aggregators.md#r-jp) · [韩国（KR） 2](aggregators.md#r-kr) · [荷兰（NL） 2](aggregators.md#r-nl) · [新加坡（SG） 2](aggregators.md#r-sg) · [澳大利亚（AU） 1](aggregators.md#r-au) · [ID 1](aggregators.md#r-id) · [以色列（IL） 1](aggregators.md#r-il) · [意大利（IT） 1](aggregators.md#r-it) · [新西兰（NZ） 1](aggregators.md#r-nz) · [瑞典（SE） 1](aggregators.md#r-se) · [泰国（TH） 1](aggregators.md#r-th) · [南非（ZA） 1](aggregators.md#r-za)
 
 <a id="r-global"></a>
 
@@ -131,7 +131,7 @@
 
 <a id="r-eu"></a>
 
-## 欧盟/欧洲（EU）（14）
+## 欧盟/欧洲（EU）（15）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -148,11 +148,12 @@
 | [Nature Careers 欧洲物理博后（固定期限、学术直聘）筛选页](https://www.nature.com/naturecareers/jobs/physics/postdoctoral/europe/fixed-term/phd/academia/direct-employer)<br><sub>欧盟/欧洲·德国·丹麦·瑞典·瑞士·英国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 博后岗位列表，各岗位的学历与资格以岗位页为准，需逐条核对国籍限制<br>按欧洲、物理、博后、固定期限、直聘筛选的 Nature Careers 页面，德国岗位最多；需逐条核对截止与薪资。 |
 | [Nature Careers 欧洲生命科学博士后岗位筛选](https://www.nature.com/naturecareers/jobs/life-science/postdoctoral/europe/)<br><sub>欧盟/欧洲 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 预设的欧洲生命科学博后筛选页，适合定期刷新。截止日期与资助形式需逐条核对。 |
 | [Nature Careers 欧洲计算机类博后岗位页](https://www.nature.com/naturecareers/jobs/computing/postdoctoral/europe)<br><sub>欧盟/欧洲 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 欧洲计算类博后岗位页，与 CS 方向其他博后渠道互补；申请前打开具体岗位核实截止日。 |
+| [Population Europe 研究与职业机会板（人口学）](https://population-europe.eu/study-career/study-opportunities)<br><sub>欧盟/欧洲·全球 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各条目截止不同，需逐条确认。</sub> | ❔ | 欧洲人口学博士与岗位公告板，多为欧洲项目；国际生资格看各校公告。 |
 | [欧洲经济学会（EEA）招聘页面](https://eeassoc.org/node/153)<br><sub>欧盟/欧洲 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 多为预博士或博士后岗位，最短 9 个月；候选人资格与国籍限制以各岗位为准<br>欧洲经济学会官方招聘入口，汇总欧洲经济学 job market 与 JEEH 岗位（预博士与博后为主，最短 9 个月）。EJME 通常在 12 月底集中，各岗位截止以条目为准。 |
 
 <a id="r-us"></a>
 
-## 美国（US）（7）
+## 美国（US）（9）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -161,7 +162,9 @@
 | [AGU FindAJob 海洋科学博士/博后筛选页](https://findajob.agu.org/jobs/ocean-science/phd/negotiable/)<br><sub>美国 ｜ 地球/环境/海洋·生物/生命科学·物理/天文·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | AGU 职位库按海洋科学与 PhD 学历预筛的页面，当前显示 9 个可协商岗位，多为教职与研究职位，页面未见博士奖学金或博后岗位。地点以北美为主，另有香港岗位。 |
 | [ASA 社会学职业中心（Job Bank）](https://www.asanet.org/academic-professional-resources/job-bank)<br><sub>美国·全球 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 美国社会学会职位库，以教职与博后为主，博士奖学金需看各校研究生院页面。 |
 | [Inside Higher Ed 北美博士后职位板](https://careers.insidehighered.com/jobs/postdoc/north-america/23)<br><sub>美国·加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 按北美地区筛选博后职位，覆盖大学与研究机构，可按学科和雇主过滤。每条岗位的签证担保与国籍要求不同，需要逐一打开原帖核对。 |
+| [Urban Affairs Association 职位公告板](https://urbanaffairsassociation.org/category/job-ads/)<br><sub>美国 ｜ 社会科学/心理·地球/环境/海洋·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>列表各岗位截止不一；本次检索未见博士岗位。</sub> | ❔ | UAA 职位公告板，当前列表以城市规划/城市研究方向终身教职岗位为主，页面未见博士或博后岗位。 |
 | [USDA LTAR 农业生态网络岗位页](https://ltar.ars.usda.gov/jobs)<br><sub>美国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 部分 ARS 联邦岗位要求美国公民或永久居民；其他岗位对外国人开放，需逐条核对。<br>页面最近更新为 2026 年 6 月 23 日，列表首条为该日期的教授级岗位；列表中可见的 PhD 助研与博后岗位发布于 2025 年 12 月及之前。 |
+| [博后机会板（Postdoc Opportunities Board，威斯康星大学）](https://pob.wisc.edu/about)<br><sub>美国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>岗位各自设截止，以各岗位页面为准</sub> | ❔ | **要求：** 以各成员机构岗位要求为准；国际申请者需查看签证与国籍条件<br>由多所美国大学博后办公室共同维护的博后岗位板，仅收录成员机构岗位，国际申请者需查看各岗位对签证与国籍的要求。 |
 | [美国海洋碳与生物地球化学（OCB）岗位与博后页](https://us-ocb.org/science-support/jobs-and-postdocs)<br><sub>美国 ｜ 地球/环境/海洋·生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 海洋碳循环与生物地球化学博后与博士岗位，含截止日期并同步至 ocb_news；国际申请者可投，需核实签证支持。 |
 
 <a id="r-fr"></a>
@@ -179,13 +182,14 @@
 
 <a id="r-es"></a>
 
-## 西班牙（ES）（4）
+## 西班牙（ES）（5）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [CINBIO（西班牙维戈）· 职位汇总](https://cinbio.es/en/job-opportunities/?est=1)<br><sub>西班牙 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 滚动<br><sub>📋 持续更新</sub><br><sub>综合岗位板块：TALENTGAL 2026 招募 5 月 20 日至 7 月 23 日（已截止）；MSCA PF 2026 意向书 6 月 30 日（已截止）；以板块当期岗位为准</sub> | ❔ | **要求：** 博士岗位通常需硕士或博士学位，博后需博士学位；需确认居留与工作许可<br>西班牙 CINBIO 研究中心的岗位列表，含博士与博后的 2026 年招聘。西班牙岗位多为有薪合同，中国籍需确认居留要求，建议直接联系对应课题组。 |
 | [CiTIUS 兴趣表达与职位存档](https://citius.gal/en/talent/job-offers/expressions-of-interest/archive/)<br><sub>西班牙 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 各征集单独公布，需进入具体征集页查看条件。<br>归档页按年份列出 CiTIUS 的兴趣表达（2026 年含 TALENTGAL 博后资助征集，发布于 2026 年 5 月 22 日；MSCA 博后候选人征集发布于 2026 年 3 月 16 日）。页面未显示截止日期，需进入各征集页核对。 |
 | [巴塞罗那自治大学（UAB）数字人文组 · 招募与资助征集页](https://www.uab.cat/en/digital-humanities/adds-calls)<br><sub>西班牙 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各征集截止日不同，以具体征集公告为准</sub> | ❔ | **要求：** 需逐条核对语言、学位与签证要求<br>数字人文研究组招募与征集汇总页,集中发布博士、博后及项目岗位。需进入具体征集看是否带薪,核对语言与签证要求。 |
+| [萨拉曼卡大学研究办公室公告汇总（Convocatorias）](https://investigacion.usal.es/en/aggregator/sources/2?page=2)<br><sub>西班牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 学校官方的研究资助与预博士公告列表，可用于跟踪 FPU 2026 等国家计划的校内流程。外国申请人资格以各公告正文为准。 |
 | [西班牙皇家化学学会（RSEQ）招聘板（RSS）](https://rseq.org/ofertas-de-empleo/?feed=rss2)<br><sub>西班牙 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | 西班牙皇家化学学会（RSEQ）官方招聘板，页面称只发布已有资金支持的岗位。页面标注发布于 2026-09-10，列有截止日在 2026 年 11 月前后的博士岗位（如 Lancaster 大学 CASE 博士，截止 30/11/2026），部分岗位截止日已过，需逐条核对。 |
 
 <a id="r-ca"></a>
@@ -288,6 +292,14 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [加查马达大学（UGM）国际事务办公室奖学金列表](https://oia.ugm.ac.id/category/scholarship/)<br><sub>ID ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮（ANSO-CAS-TWAS/UNESCO 博士）UGM 于 2025-12-31 发布，1 月 31 日截止已过；2027 轮待公布</sub> | ❔ | **要求：** GPA 3.0/4.0；英语或中文熟练；CAS-ANSO 项目规定正在中国高校攻读博士者不符合博士项目资格<br>UGM 国际办公室奖学金分类，含 ANSO-CAS-TWAS/UNESCO 等博士征集，需逐条核对截止时间与资格。 |
+
+<a id="r-il"></a>
+
+## 以色列（IL）（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [PostdocIsrael 以色列博后奖学金汇总](https://postdocisrael.com/fellowships/)<br><sub>以色列 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>188,000 新谢克尔/年（Azrieli，两年，可延至第三年）</sub> | **2026-11-11**<br><sub>📋 持续更新</sub><br><sub>Azrieli 2027–28 轮官方截止 2026 年 11 月 11 日（官网称 8 月 9 日开放）；以 Azrieli 官网为准</sub> | ❔ | **要求：** Azrieli 国际博后：博士学位需在 2023 年 11 月 1 日后获得，且需以色列高校学术导师<br>以色列博后奖学金第三方汇总（Azrieli、Lady Davis、高教委国际博后卓越奖学金等）；Azrieli 国际项目通常 9 月开放、11 月前后截止，日期到各官网核实。 |
 
 <a id="r-it"></a>
 

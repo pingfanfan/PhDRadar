@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 中国内地（CN） 信源（60）
+# 中国内地（CN） 信源（61）
 
-所有标注了地区 CN 的信源，共 60 条。
+所有标注了地区 CN 的信源，共 61 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 5](cn.md#aggregators) · [各国学术招聘门户与机构职位页 1](cn.md#national-portals) · [高校旗舰奖学金与资助检索 11](cn.md#university-schemes) · [结构化博士项目与研究机构 21](cn.md#doctoral-programs) · [博士后奖学金与项目 11](cn.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](cn.md#fellowships) · [个人信源与社交渠道 4](cn.md#people-channels) · [导师招生帖（社交平台个人发布） 3](cn.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 2](cn.md#faculty-aggregators) · [中文社区与官方服务 1](cn.md#chinese-community)
+**按分类跳转：** [综合聚合平台 5](cn.md#aggregators) · [各国学术招聘门户与机构职位页 1](cn.md#national-portals) · [高校旗舰奖学金与资助检索 11](cn.md#university-schemes) · [结构化博士项目与研究机构 22](cn.md#doctoral-programs) · [博士后奖学金与项目 11](cn.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](cn.md#fellowships) · [个人信源与社交渠道 4](cn.md#people-channels) · [导师招生帖（社交平台个人发布） 3](cn.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 2](cn.md#faculty-aggregators) · [中文社区与官方服务 1](cn.md#chinese-community)
 
 <a id="aggregators"></a>
 
@@ -50,7 +50,7 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（21）
+## 结构化博士项目与研究机构（22）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -74,6 +74,7 @@
 | [瓦赫宁根大学与中国农业大学 AGD 联合博士项目](https://www.wur.nl/en/education/phd-programme/agd-phd-programme)<br><sub>荷兰·中国内地 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>CSC 生活津贴约 €2,000/月（居留期间）+ 往返机票；另有 €1,000/月 实验台费（项目安排）</sub> | **2026-06-28**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮提交截止 2026-06-28（已过）</sub> | ✅ | **要求：** 中国国籍、年龄 35 岁以下、持指定四所中国高校硕士学位；2026 轮为 1+3 年（CAU 一年 + WUR 三年）；每年约 6 月征集，以 AGD-CSC 办公室通知为准<br>国家留学基金委资助的中荷联合培养项目，面向中国国籍、35 岁以下、持指定四所中国高校硕士学位者；每年约 6 月征集。 |
 | [西交利物浦–西安交大–利物浦大学联合博士项目](https://www.xjtlu.edu.cn/en/admissions/doctoral/xjtlu-xjtu-uol-joint-doctoral-programme)<br><sub>中国内地·英国 ｜ 全学科</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>🔄 随时可申</sub><br><sub>项目按导师项目代码全年接受申请；本联合项目的费用与资助未核实，以官网为准</sub> | ❔ | **要求：** 须先获拟导师同意并选择对应项目代码；英国学位要求一等或二等一荣誉学位或 Merit 硕士<br>西浦–西交大–利物浦联合博士，两校注册、授予利物浦大学博士学位，全日制通常 3–4 年。XJTLU 2026 博士手册列出普通博士奖学金：全额为 3 年学费减免（总值 RMB 297,000）加每月 RMB 5,000 生活费；该手册未专门说明联合项目是否适用，以官网为准。 |
 | [西交利物浦大学（XJTLU）博士招生手册 2026](https://www.xjtlu.edu.cn/wp-content/uploads/2026/01/XJTLU-Doctoral-Research-Prospectus-2026-EN.pdf)<br><sub>中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>全额档 RMB 5,000/月（3 年）</sub> | — | ✅ | **要求：** 需获 XJTLU 博士录取；全额档需担任助教或助研<br>手册列出全额奖学金（免学费三年并月补助）及部分资助选项，多数对所有国籍开放；博士申请全年接收，需先找到 XJTLU 导师。 |
+| [香港理工大学 内地高校博士联合指导计划](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/joint-phd-supervision-scheme-with-leading-universities/)<br><sub>中国香港·中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>HK$19,220/月（2025/26 学年 RA 月薪）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>各版页面时间说法不一（4 月或 2 月截止）；2027 轮以当期通知为准</sub> | 🟡 | **要求：** 仅限认可名校的全日制博士生；需母校主导师同意，并与理大导师共同撰写研究计划，12 个月 RA<br>原内地高校版页面仍可检索到（另有内地高校版本，申请通常 12 月开放、次年 2 月截止）。本条指向名校版计划：仅限认可名校的全日制博士生，需母校主导师同意，到理大担任 12 个月研究助理。2025/26 学年 RA 月薪 HK$19,220，名校版通常每年 1 月开放、4 月截止，以当期通知为准。 |
 | [香港理工大学双博士学位项目（Dual PhD）](https://polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/dual-phd-degree-programmes)<br><sub>中国香港·中国内地·澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>HK$18,470/月（在理大期间，每年审议）</sub> | 未公布<br><sub>各合作项目时间不同，以理大研究生院公告为准。</sub> | ❔ | **要求：** 需经合作高校（如武汉大学、浙江大学、UTS、QUT）推荐或录取，全日制博士；学费依去向由合作协议决定，以理大研究生院为准。<br>同时获理大与合作高校博士学位的双学位项目；津贴与学费以理大研究生院页面为准。 |
 
 <a id="postdoc-fellowships"></a>

@@ -2,19 +2,19 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 全学科 信源（1047） · 第 1/3 页
+# 全学科 信源（1066） · 第 1/3 页
 
 不限学科的综合信源。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 41](all.md#aggregators) · [各国学术招聘门户与机构职位页 65](all.md#national-portals) · [政府与国家级奖学金 92](all.md#gov-scholarships) · [高校旗舰奖学金与资助检索 483](all-2.md#university-schemes) · [结构化博士项目与研究机构 121](all-3.md#doctoral-programs) · [博士后奖学金与项目 150](all-3.md#postdoc-fellowships) · [企业与基金会 Fellowship 62](all-3.md#fellowships) · [科研实习与“曲线入口” 23](all-3.md#pathways) · [个人信源与社交渠道 5](all-3.md#people-channels) · [导师招生汇总（指向个人主页的集合） 3](all-3.md#faculty-aggregators) · [中文社区与官方服务 1](all-3.md#chinese-community) · [选校与申请辅助工具 1](all-3.md#tools)
+**按分类跳转：** [综合聚合平台 44](all.md#aggregators) · [各国学术招聘门户与机构职位页 65](all.md#national-portals) · [政府与国家级奖学金 93](all.md#gov-scholarships) · [高校旗舰奖学金与资助检索 493](all-2.md#university-schemes) · [结构化博士项目与研究机构 122](all-3.md#doctoral-programs) · [博士后奖学金与项目 151](all-3.md#postdoc-fellowships) · [企业与基金会 Fellowship 64](all-3.md#fellowships) · [科研实习与“曲线入口” 24](all-3.md#pathways) · [个人信源与社交渠道 5](all-3.md#people-channels) · [导师招生汇总（指向个人主页的集合） 3](all-3.md#faculty-aggregators) · [中文社区与官方服务 1](all-3.md#chinese-community) · [选校与申请辅助工具 1](all-3.md#tools)
 
 **分页：** [第 1 页](all.md) · [第 2 页](all-2.md) · [第 3 页](all-3.md)
 
 <a id="aggregators"></a>
 
-## 综合聚合平台（41）
+## 综合聚合平台（44）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -44,6 +44,7 @@
 | [Nature Careers 韩国 · 博士后全职岗位](https://www.nature.com/naturecareers/jobs/postdoctoral/south-korea/full-time/phd)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 页面当前列出 1 个全职、固定期限的博后岗位（IBS 系统神经科学，薪资按内部薪级规定）。合同年限需打开职位页确认。 |
 | [Nature Careers 韩国 · 博士岗位（学术，雇主直招）](https://www.nature.com/naturecareers/jobs/south-korea/phd/academia/direct-employer)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 页面当前仅列 1 个岗位：基础科学研究院（IBS）突触功能障碍中心的系统神经科学博后/高级研究员职位，薪资按内部薪级规定，并非博士岗。 |
 | [Newcastle 博士资助总页（Postgraduate Research Funding）](https://www.ncl.ac.uk/doctoral-college/prospective-research-students/get-funding/)<br><sub>英国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各项资助（studentship、NUORS、Northern Bridge 等）截止与资格各不相同；先在资助搜索页按学科筛选</sub> | ❔ | 纽卡斯尔大学博士资助入口，汇总各学院 studentship 与海外差额奖学金。NUORS 2026/27 官方条款：15 个部分奖学金，仅补国际与 Home 学费之差、最长 3 年，不含生活费，国际生需逐项核对资格与截止日期。 |
+| [PostdocIsrael 以色列博后奖学金汇总](https://postdocisrael.com/fellowships/)<br><sub>以色列 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>188,000 新谢克尔/年（Azrieli，两年，可延至第三年）</sub> | **2026-11-11**<br><sub>📋 持续更新</sub><br><sub>Azrieli 2027–28 轮官方截止 2026 年 11 月 11 日（官网称 8 月 9 日开放）；以 Azrieli 官网为准</sub> | ❔ | **要求：** Azrieli 国际博后：博士学位需在 2023 年 11 月 1 日后获得，且需以色列高校学术导师<br>以色列博后奖学金第三方汇总（Azrieli、Lady Davis、高教委国际博后卓越奖学金等）；Azrieli 国际项目通常 9 月开放、11 月前后截止，日期到各官网核实。 |
 | [Research in Germany 博士岗位招聘门户汇总](https://www.research-in-germany.org/your-goal/phd/job-portals.html)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 官方列出 PhDGermany、EURAXESS 等招聘平台，作为搜索起点。 |
 | [Royal Holloway 国际博士资助页（Funding research for international students）](https://www.royalholloway.ac.uk/studying-here/fees-and-funding/research-degrees/sources-of-funding/international-research-funding/)<br><sub>英国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 皇家霍洛威大学面向国际博士生的资助来源页，列出与 Chevening、Fulbright、墨西哥 FIDERH、SAID 基金会的合作奖学金，并有校内奖学金。具体项目、名额与截止时间以当年官网为准。 |
 | [SFU 博士后办公室公告（汇总加拿大博后项目）](https://www.sfu.ca/postdoctoral-fellows/opportunities---announcements.html)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 博后办公室不直接受理申请，需先联系 SFU 对应院系；具体资格与截止以各公告原文为准。<br>SFU 博士后办公室公告页，汇总多家加拿大机构的博后资助与岗位信息，按年份更新，部分为旧公告。条件与截止以各原网页为准。 |
@@ -52,11 +53,13 @@
 | [剑桥大学招聘系统中的博士 Studentships 列表](https://www.cam.ac.uk/jobs/term/studentships)<br><sub>英国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub><br><sub>各岗位截止日不同，以广告为准</sub> | ❔ | **要求：** 以各广告为准；国际生须满足各岗位的学历与语言要求<br>剑桥统一招聘系统的 Studentships 分类页，正文列出 20 个 studentship 岗位，多数为博士课题（另含一个兽医临床实习奖学金），截止日各不相同，如 2026-11-03、2026-12-08 等，以各广告为准。 |
 | [剑桥大学招聘页（研究类固定期限岗位）](https://www.cam.ac.uk/jobs/term/research)<br><sub>英国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 国际申请者需办理英国工作许可，学历与经验要求以各岗位为准。<br>剑桥大学官方招聘站按合同期限筛选的研究类岗位，覆盖各院系博后与研究助理；逐岗核对薪资与签证。 |
 | [加查马达大学（UGM）国际事务办公室奖学金列表](https://oia.ugm.ac.id/category/scholarship/)<br><sub>ID ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮（ANSO-CAS-TWAS/UNESCO 博士）UGM 于 2025-12-31 发布，1 月 31 日截止已过；2027 轮待公布</sub> | ❔ | **要求：** GPA 3.0/4.0；英语或中文熟练；CAS-ANSO 项目规定正在中国高校攻读博士者不符合博士项目资格<br>UGM 国际办公室奖学金分类，含 ANSO-CAS-TWAS/UNESCO 等博士征集，需逐条核对截止时间与资格。 |
+| [博后机会板（Postdoc Opportunities Board，威斯康星大学）](https://pob.wisc.edu/about)<br><sub>美国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>岗位各自设截止，以各岗位页面为准</sub> | ❔ | **要求：** 以各成员机构岗位要求为准；国际申请者需查看签证与国籍条件<br>由多所美国大学博后办公室共同维护的博后岗位板，仅收录成员机构岗位，国际申请者需查看各岗位对签证与国籍的要求。 |
 | [学术岗位列表 · 杜伊斯堡-埃森大学](https://www.uni-due.de/karriere/wissenschaftliche-stellen.php)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>🟢 开放申请</sub> | ❔ | 杜伊斯堡-埃森大学的学术岗位列表页，包含博士和博后的有薪职位。页面为德语，需逐条核对截止日期和资格要求。 |
 | [意大利教育部博士公告门户（bandi.mur.gov.it）](https://bandi.mur.gov.it)<br><sub>意大利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各校公告截止不同，多在 4–9 月</sub> | ❔ | MUR 官方博士公告入口，各校正式公告同步发布于此，用于找原始文件；本身不发奖学金，资格需逐条核实。 |
 | [日内瓦大学科研办公室 SNSF Ambizione 指南](https://www.unige.ch/recherche/en/grants-office/individual-projects/ambizione)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 全奖 | **2026-11-03**<br><sub>🟢 开放申请</sub><br><sub>2026 轮 11 月 3 日 17:00（CET）截止；为 Ambizione 最后一轮</sub> | 🟡 | **要求：** 需瑞士国籍、瑞士高校学位，或在瑞士科研机构工作满 12 个月；博士后一般为 PhD 后 4 年内<br>日内瓦大学科研办公室说明：2026 轮 11 月 3 日截止，为最后一轮。外籍申请人需满足瑞士关联条件，否则不符合资格。资格以 SNSF 官网为准。 |
 | [汉堡大学：博士与博后求职渠道清单](https://www.promovieren.uni-hamburg.de/min/nach-promotion/jobs.html)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各招聘平台与岗位截止不同，需逐条查看</sub> | ❔ | 汉堡大学博士中心整理的德国学术招聘平台清单（EURAXESS、ZEIT 人才库、各学会岗位）；是导航页而非岗位列表。 |
 | [萨尔兰大学科研人员招聘门户（Wissenschaftliches Personal）](https://www.uni-saarland.de/en/verwaltung/stellen/wissenschaftler.html)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>门户持续更新。可见哲学系岗位（TV-L E13，48 个月合同，2027-04 开始）截止 2026-11-02；其他岗位以各公告为准</sub> | ❔ | **要求：** 博士岗位通常需相关硕士学位；按 TV-L 支付，中国籍需办理居留许可<br>萨大所有院系的博士与博后岗位统一入口，NLP/计算机视觉等教席的博士岗通常在这里发布。建议按 LST、MMCI、Informatik 关键词筛选，关注截止日期与是否为全额带薪岗位。 |
+| [萨拉曼卡大学研究办公室公告汇总（Convocatorias）](https://investigacion.usal.es/en/aggregator/sources/2?page=2)<br><sub>西班牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 学校官方的研究资助与预博士公告列表，可用于跟踪 FPU 2026 等国家计划的校内流程。外国申请人资格以各公告正文为准。 |
 | [里尔大学博士资助汇总（2026 年附件 PDF）](https://edsesam.univ-lille.fr/fileadmin/user_upload/edsesam/Documents/Webinaires_Helene/Annexe_synthese_financements_de_theses_2026.pdf)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | **2026-12-14**<br><sub>🔜 即将开放</sub><br><sub>CD 标注线路 10 月 31 日开放、12 月 14 日 24:00 截止（第一阶段征集选题）；HEALTH PHD 线路为 6 月前后另行申请；外国申请人需对照各线路资格。</sub> | ❔ | 里尔地区博士资助 PDF 汇总（2026），按资金来源列出合同博士、CIFRE 和校内项目；外国申请人需对照各条资格。 |
 | [高校人才网 · 博士与博士后招聘栏目](https://www.gaoxiaojob.com/column/3.html)<br><sub>中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ✅ | 高校人才网导航设有“高才博士后”栏目（另有 boshihou.gaoxiaojob.com 专站），并在“高校招聘”频道收录各校博士后与博士岗位公告；岗位以原校通知为准。 |
 
@@ -134,7 +137,7 @@
 
 <a id="gov-scholarships"></a>
 
-## 政府与国家级奖学金（92）
+## 政府与国家级奖学金（93）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -208,6 +211,7 @@
 | [智利 ANID 国家博士奖学金（Beca de Doctorado Nacional）](https://anid.cl/capital-humano-2/doctorado-nacional/)<br><sub>智利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-11-27**<br><sub>🟢 开放申请</sub><br><sub>2027 学年征集：2026 年 10 月 9 日开始，11 月 27 日 13:00 截止，估计 2027 年 1 月出结果。</sub> | ❔ | **要求：** 须持学士或同等学位；本科毕业成绩均分不低于 5.0（智利评分制）或位于前 30%；须已在智利大学开设的认可博士项目中正式申请、已录取或为在读生。<br>智利 ANID 国家博士奖学金（Beca de Doctorado Nacional）2027 学年征集已开放。页面未说明外国国籍是否可申请，仍需到 anid.cl 核实。 |
 | [智利 Becas Chile 海外博士奖学金（仅确认排除）](https://anid.cl/capital-humano-2/becas-en-el-extranjero-becas-chile/)<br><sub>智利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-05-19**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年征集于 5 月 19 日截止（已结束）。</sub> | ⛔ | **要求：** 需智利国籍或智利永久居留；中国籍不符合。<br>Becas Chile 赴海外读博项目只面向智利籍或在智利获得永久居留者，2026 年征集已截止。列在这里只是为了避免误投。 |
 | [法国 Eiffel 卓越奖学金（Campus France）](https://www.campusfrance.org/en/eiffel-scholarship-program-of-excellence)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2027–28 轮：各法国高校校内提交截止不同（如巴黎城市大学博士 10 月 12 日至 11 月 2 日、Assas 10 月 19 日至 11 月 5 日），Campus France 国家提交截止约 2027 年 1 月 6 日，以 Campus France 官网为准。</sub> | ❔ | **要求：** 需硕士学位，博士申请者年龄不超过 35 岁；学生不能直接向 Campus France 申请，须由法国高校提交。<br>2026–27 轮已于 1 月 8 日截止。2027–28 轮已开放：巴黎城市大学内部申请为 10 月 12 日至 11 月 2 日，Assas 大学为 10 月 19 日至 11 月 5 日，Campus France 最终期限约为 2027 年 1 月；申请须由法国高校提交，博士生资助需与法国高校的共培养协议挂钩，以 Campus France 官网为准。 |
+| [波兰 Doktorat wdrożeniowy 2026 产业博士计划（MNiSW）](https://www.gov.pl/attachment/9254200b-1fca-4c39-b2d1-f7e35b8685c3)<br><sub>波兰 ｜ 全学科·人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年主要征集 6 月 12 日已截止；部分大学有 2026/27 补充招生（如波兹南工业大学，需缴不可退的 250 zł 或 60 欧元报名费）</sub> | ❔ | **要求：** 需与合作企业签约，在企业工作的同时于博士学校学习；国际生资格以各校公告为准<br>博士生在合作企业工作并在博士学校学习。2026 主要征集截止 6 月 12 日已过，部分大学可能有补充招生。 |
 | [波兰 NCN PRELUDIUM（未取得博士学位者）](https://ncn.gov.pl/en/ogloszenia/konkursy/preludium25)<br><sub>波兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-06-16**<br><sub>⏸ 本轮已截止</sub><br><sub>PRELUDIUM 25 轮 2026 年 6 月 16 日 14:00 已截止；2027 轮待 ncn.gov.pl 公告</sub> | ❔ | **要求：** 申请时未取得博士学位；外籍申请者资格以 NCN 当期指南为准<br>12–36 个月项目，最高约 21 万兹罗提；2026 轮 6-16 截止，关注 2027 轮，外国申请者资格看 NCN 指南. |
 | [爱尔兰政府国际教育奖学金（GOI-IES）- 利默里克大学页面](https://www.ul.ie/study/postgraduate/international-students/scholarships/government-of-ireland-scholarship)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026/7 轮申请截止为 2026 年 3 月 12 日（爱尔兰时间 17:00），已过；页面未给出下一轮时间。</sub> | ✅ | **要求：** 须为原籍（domiciliary of origin）不在欧盟/EEA、英国、瑞士的申请人；须先申请 UL 符合条件的硕士或博士项目并获得有条件或无条件 offer。<br>爱尔兰政府国际教育奖学金（GOI-IES）由政府与高校合作、HEA 管理。UL 页面称所有博士方向均可申请，须先完成博士申请并取得 offer。页面称全额覆盖学费及注册费，不含 50 欧元申请费。 |
 | [爱尔兰政府国际教育奖学金（GOI-IES，HEA 主办）](https://hea.ie/policy/internationalisation/goi-ies)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€10,000（一年全日制）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>2026 轮截止 2026-03-12 17:00（爱尔兰时间）；2027 轮截止未在 HEA 官方页确认，以 hea.ie 公告为准</sub> | ✅ | **要求：** 出生国籍（domicile of origin）需在欧盟/欧洲经济区/瑞士/英国之外（俄罗斯与白俄罗斯国籍不可申请）；申请时需已获爱尔兰高校的有条件或正式录取<br>每年约 60 个名额，覆盖 NFQ 9–10 级（硕士与博士）；宿主院校须免学费，另发一年 €10,000 生活费。建议先拿到录取意向再申请。 |

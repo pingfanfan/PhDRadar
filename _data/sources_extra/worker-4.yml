@@ -1986,6 +1986,32 @@
   verify_method: page
   page_evidence: Göteborgs universitet erbjuder utbildning på forskarnivå för dig med lärarexamen.
   verified: 2026-10-18
+- id: prismas-maxiv-doctoral
+  name: PRISMAS 同步辐射方法博士项目（MAX IV，瑞典隆德）
+  url: https://www.maxiv.lu.se/prismas
+  category: doctoral-programs
+  regions:
+  - SE
+  - EU
+  disciplines:
+  - physics
+  - chem
+  - engineering
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: unknown
+  deadline_note: 首轮招生已公布，2026 年是否有新一轮未能确认，需到项目页查看
+  status: ongoing
+  notes: Horizon Europe MSCA COFUND 资助的同步辐射方法博士项目，含隆德 MAX IV 必修访学。前两轮已关闭，第三轮据官网 7–8 月开放（约 5 个名额）；本轮是否已截止未能确认，请以 maxiv.lu.se/prismas 为准。MSCA 类项目常有国籍/居留限制，中国学生需逐条核对。
+  verify_method: page
+  page_evidence: The program trains 35 curious, problem-solving PhD students in advanced synchrotron methodologies and techniques
+  verified: 2026-10-20
 - id: gac-geoscience-job-board
   name: 加拿大地质学会（GAC）招聘页（含研究生岗位）
   url: https://gac.ca/members/employment-postings/
@@ -3113,6 +3139,31 @@
   verify_method: page
   page_evidence: DARA PhD Fellowships are open to all qualified candidates irrespective of age, gender, race, ethnicity, disability, nationality,
   verified: 2026-10-19
+- id: pitt-biostat-phd-faq
+  name: 匹兹堡大学公共卫生学院生物统计博士常见问题（资助）
+  url: https://publichealth.pitt.edu/biostatistics/admissions-aid/frequently-asked-questions
+  category: doctoral-programs
+  regions:
+  - US
+  disciplines:
+  - bio
+  - med
+  funding: position
+  levels:
+  - phd
+  cn_eligible: 'yes'
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: unknown
+  deadline_note: 页面未见具体日期，请查看院系招生页
+  status: ongoing
+  requirements: FAQ 称新入学国际博士生可获研究助理（GSR）津贴，附学费减免与医保，需每周约 20 小时研究工作；硕士生不在全额资助范围
+  notes: FAQ 说明国际博士生符合 GSR 资格；金额以录取信为准。
+  verify_method: page
+  page_evidence: New international PhD students are eligible for graduate student researcher (GSR) stipends.
+  verified: 2026-10-20
 - id: huji-leonard-davis-postdoc
   name: 希伯来大学 Leonard Davis 国际关系研究所博士后（安全、国际政治经济、外交）
   url: https://en.davis.huji.ac.il/node/3185924

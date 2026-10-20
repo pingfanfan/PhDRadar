@@ -2,13 +2,21 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 以色列（IL） 信源（36）
+# 以色列（IL） 信源（37）
 
-所有标注了地区 IL 的信源，共 36 条。
+所有标注了地区 IL 的信源，共 37 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [政府与国家级奖学金 1](il.md#gov-scholarships) · [高校旗舰奖学金与资助检索 10](il.md#university-schemes) · [结构化博士项目与研究机构 5](il.md#doctoral-programs) · [博士后奖学金与项目 12](il.md#postdoc-fellowships) · [企业与基金会 Fellowship 6](il.md#fellowships) · [个人信源与社交渠道 1](il.md#people-channels) · [导师招生帖（社交平台个人发布） 1](il.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 1](il.md#aggregators) · [政府与国家级奖学金 1](il.md#gov-scholarships) · [高校旗舰奖学金与资助检索 10](il.md#university-schemes) · [结构化博士项目与研究机构 5](il.md#doctoral-programs) · [博士后奖学金与项目 12](il.md#postdoc-fellowships) · [企业与基金会 Fellowship 6](il.md#fellowships) · [个人信源与社交渠道 1](il.md#people-channels) · [导师招生帖（社交平台个人发布） 1](il.md#recruiting-posts)
+
+<a id="aggregators"></a>
+
+## 综合聚合平台（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [PostdocIsrael 以色列博后奖学金汇总](https://postdocisrael.com/fellowships/)<br><sub>以色列 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>188,000 新谢克尔/年（Azrieli，两年，可延至第三年）</sub> | **2026-11-11**<br><sub>📋 持续更新</sub><br><sub>Azrieli 2027–28 轮官方截止 2026 年 11 月 11 日（官网称 8 月 9 日开放）；以 Azrieli 官网为准</sub> | ❔ | **要求：** Azrieli 国际博后：博士学位需在 2023 年 11 月 1 日后获得，且需以色列高校学术导师<br>以色列博后奖学金第三方汇总（Azrieli、Lady Davis、高教委国际博后卓越奖学金等）；Azrieli 国际项目通常 9 月开放、11 月前后截止，日期到各官网核实。 |
 
 <a id="gov-scholarships"></a>
 

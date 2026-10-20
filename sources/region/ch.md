@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 瑞士（CH） 信源（125）
+# 瑞士（CH） 信源（127）
 
-所有标注了地区 CH 的信源，共 125 条。
+所有标注了地区 CH 的信源，共 127 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 5](ch.md#aggregators) · [各国学术招聘门户与机构职位页 3](ch.md#national-portals) · [政府与国家级奖学金 2](ch.md#gov-scholarships) · [高校旗舰奖学金与资助检索 12](ch.md#university-schemes) · [结构化博士项目与研究机构 54](ch.md#doctoral-programs) · [博士后奖学金与项目 12](ch.md#postdoc-fellowships) · [企业与基金会 Fellowship 6](ch.md#fellowships) · [学科专属信源 2](ch.md#discipline) · [科研实习与“曲线入口” 8](ch.md#pathways) · [个人信源与社交渠道 13](ch.md#people-channels) · [导师招生帖（社交平台个人发布） 7](ch.md#recruiting-posts) · [选校与申请辅助工具 1](ch.md#tools)
+**按分类跳转：** [综合聚合平台 5](ch.md#aggregators) · [各国学术招聘门户与机构职位页 3](ch.md#national-portals) · [政府与国家级奖学金 2](ch.md#gov-scholarships) · [高校旗舰奖学金与资助检索 12](ch.md#university-schemes) · [结构化博士项目与研究机构 56](ch.md#doctoral-programs) · [博士后奖学金与项目 12](ch.md#postdoc-fellowships) · [企业与基金会 Fellowship 6](ch.md#fellowships) · [学科专属信源 2](ch.md#discipline) · [科研实习与“曲线入口” 8](ch.md#pathways) · [个人信源与社交渠道 13](ch.md#people-channels) · [导师招生帖（社交平台个人发布） 7](ch.md#recruiting-posts) · [选校与申请辅助工具 1](ch.md#tools)
 
 <a id="aggregators"></a>
 
@@ -62,7 +62,7 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（54）
+## 结构化博士项目与研究机构（56）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -100,6 +100,8 @@
 | [Geneva Graduate Institute · 博士申请与四年资助方案](https://www.graduateinstitute.ch/application)<br><sub>瑞士 ｜ 社会科学/心理·人文/语言·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>CHF 20,000/年（前两年，9 月至次年 6 月分十期发放）</sub> | 未公布<br><sub>🔜 即将开放</sub><br><sub>官网建议 1 月 15 日前申请，但搜索结果未标注年份；2027 年入学周期的确切截止日未能在官方页面确认，请以官网为准。</sub> | ❔ | **要求：** 申请时须选定资助路线：机构资助包、外部资助或 RA 合同<br>国际法、国际关系、国际经济等博士方向。官方称博士录取附带四年资助来源。中国学生需核对各路线资格。 |
 | [Idiap 研究所博士岗位（Martigny）](https://careers.werecruit.io/en/idiap)<br><sub>瑞士 ｜ 计算机·人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>📋 持续更新</sub> | ❔ | AI 与机器学习博士岗位，通常 48 个月并通过 EPFL 博士学院录取；欧盟外申请者确认工作许可。 |
 | [Life Science Zurich Graduate School](https://www.lifescience-graduateschool.uzh.ch)<br><sub>瑞士 ｜ 生物/生命科学·神经/认知·医学/公卫·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>🔜 即将开放</sub><br><sub>每年 5 月 1 日、11 月 1 日两轮；11 月轮截止日待官网确认</sub> | ✅ | UZH+ETH 生命科学研究生院，常年 80+ 个全额资助博士岗；每年 5 月 1 日、11 月 1 日两次截止。 |
+| [PSI SINQ 中子源博士岗位](https://www.psi.ch/en/sinq/open-positions-at-sinq)<br><sub>瑞士 ｜ 物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 页面显示目前 SINQ 没有开放岗位，另列出 CNM 页面的多个 PhD 岗位以及 SwednESS 中子散射研究生院等其他渠道。 |
+| [PSI 保罗谢尔研究所招聘总页（含博士岗）](https://www.psi.ch/en/hr/job-opportunities)<br><sub>瑞士 ｜ 物理/天文·化学/材料·工程·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各课题组岗位截止不同；检索到的 2026 年博士岗多已截止</sub> | ❔ | PSI 保罗谢尔研究所招聘总页。博士岗位按课题组单独发布，截止日各不相同；请直接登录 PSI 招聘页核对。 |
 | [PSI 博士生页面（Doctoral Students）](https://psi.ch/en/hr/higher-education)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>博士岗位由 PSI 与合作大学联合招生，截止时间因岗位而异；页面提供当前在招岗位列表。</sub> | ❔ | **要求：** 页面未写明国际生资格，需按具体岗位确认学位授予大学及其语言、学历要求。<br>页面称 PSI 与瑞士及境外大学合作提供 300 多个博士项目。申请时先在在招列表筛选岗位，再查看该岗位的授予大学与资助说明；资助金额页面未写。 |
 | [PSI 材料理论模拟组（LMS）岗位](https://www.psi.ch/en/lms/openings)<br><sub>瑞士 ｜ 物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | 计算物理/材料模拟方向岗位页，内容持续更新。搜索所见 LMS 博士岗（2026 年 6 月截止）已结束，部分岗位未公布截止日期；请以 PSI 招聘门户为准。 |
 | [PSI 气溶胶实验室（LAC）招聘与自荐入口](https://www.psi.ch/en/lac/work-with-us)<br><sub>瑞士 ｜ 化学/材料·物理/天文·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>📋 持续更新</sub><br><sub>所见 LAC 博士岗已于 2026-08-05 截止；新岗位以 PSI 招聘页为准</sub> | ❔ | 页面有 PhD 岗位并欢迎主动申请，适合大气/气溶胶化学方向。 |

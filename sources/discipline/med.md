@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 医学/公卫 信源（396）
+# 医学/公卫 信源（403）
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 15](med.md#aggregators) · [各国学术招聘门户与机构职位页 8](med.md#national-portals) · [政府与国家级奖学金 4](med.md#gov-scholarships) · [高校旗舰奖学金与资助检索 77](med.md#university-schemes) · [结构化博士项目与研究机构 193](med.md#doctoral-programs) · [博士后奖学金与项目 59](med.md#postdoc-fellowships) · [企业与基金会 Fellowship 22](med.md#fellowships) · [学科专属信源 4](med.md#discipline) · [科研实习与“曲线入口” 1](med.md#pathways) · [个人信源与社交渠道 5](med.md#people-channels) · [导师招生帖（社交平台个人发布） 7](med.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 1](med.md#faculty-aggregators)
+**按分类跳转：** [综合聚合平台 15](med.md#aggregators) · [各国学术招聘门户与机构职位页 8](med.md#national-portals) · [政府与国家级奖学金 4](med.md#gov-scholarships) · [高校旗舰奖学金与资助检索 79](med.md#university-schemes) · [结构化博士项目与研究机构 197](med.md#doctoral-programs) · [博士后奖学金与项目 59](med.md#postdoc-fellowships) · [企业与基金会 Fellowship 22](med.md#fellowships) · [学科专属信源 5](med.md#discipline) · [科研实习与“曲线入口” 1](med.md#pathways) · [个人信源与社交渠道 5](med.md#people-channels) · [导师招生帖（社交平台个人发布） 7](med.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 1](med.md#faculty-aggregators)
 
 <a id="aggregators"></a>
 
@@ -60,7 +60,7 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（77）
+## 高校旗舰奖学金与资助检索（79）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -88,6 +88,7 @@
 | [The Kids Research Institute Australia 奖学金与 HDR 项目页](https://www.thekids.org.au/be-involved/student-opportunities/scholarships-and-awards/)<br><sub>澳大利亚 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各项目截止不同，官网列出当前机会</sub> | ❔ | 研究所列出 Life Course Centre、Wesfarmers 疫苗与传染病中心、Play Active 等 PhD 机会；部分奖学金仅限澳新公民或永居，需逐项核对国际生资格。 |
 | [TUM 生物成像教席（Chair of Biological Imaging）博士与博后岗位](https://www.pm.mh.tum.de/en/cbi/open-positions/)<br><sub>德国 ｜ 医学/公卫·生物/生命科学·工程</sub> | 博士+博后 | 带薪岗位 | 滚动<br><sub>🟢 开放申请</sub><br><sub>职位页列有 2026-06-30 发布的光声断层成像博士或博后岗；一家聚合站标注截止 2026-12-20，需以 TUM 官网为准</sub> | ❔ | **要求：** 需提交英文动机信（注明岗位名称）、简历和成绩单，通过 TUM 在线系统申请<br>光学与光声生物成像方向教席的长期招募页，标注为开放式招募，无固定截止，需直接联系教授。德国博士多为带薪岗位，具体以公告为准。 |
 | [UBC 药学系博士资助与奖学金](https://pharmsci.ubc.ca/programs/msc-phd-degrees/funding-and-awards)<br><sub>加拿大 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>2027 年入学截止以官网为准。</sub> | ✅ | 页面称药学系全日制博士生国内外相同，每年至少获 $40,000 资助，可含奖学金及助教、助研岗位。国际博士生可获校级 International Tuition Award，最高 $3,200/年，无需单独申请。 |
+| [UCLA 公共卫生学院博士费用与资助](https://ph.ucla.edu/admissions/cost-aid)<br><sub>美国 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 未公布<br><sub>📋 持续更新</sub> | 🟡 | **要求：** 国际申请者须提交 Confidential Financial Statement；未收到院系或研究生院书面资助通知前不应期待资助，资助不保证整个学年或后续学年。<br>UCLA 公共卫生学院费用与资助页面：国际申请者需收到书面资助通知才可期待支持，助教与奖学金不保证整个学年，国际生按非居民学费承担，须核对书面 offer。页面未给出具体资助金额，第三方学费数字不采用。cn_eligible 维持 partial。 |
 | [Unoesc 2026 年外国学生硕博连续流征集（巴西私立大学）](https://www.unoesc.edu.br/wp-content/uploads/2026/03/1.-EDITAL-N.-15-Stricto-Estrangeiros-Fluxo-Continuo-para-2026.pdf)<br><sub>巴西 ｜ 社会科学/心理·生物/生命科学·医学/公卫</sub> | 博士 | 仅免学费 | 滚动<br><sub>🔄 随时可申</sub> | 🟡 | **要求：** 面向外国申请人的 stricto sensu 硕士或博士入学；每个项目仅 1 个奖学金名额；语言与学历要求以 edital 为准（未核实）<br>Unoesc 外国学生 stricto sensu 硕博滚动征集，目标为 2026 年内入学。表格列出四个领域各 1 个博士名额，奖学金覆盖全额学费与注册费，未说明生活费；名额有限，申请截止与语言要求请以 edital 原文为准。 |
 | [WEHI 博士奖学金总页](https://wehi.edu.au/education/phd/phd-scholarship)<br><sub>澳大利亚 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>生活津贴最低标准 A$42,137/年（自 2024 年 6 月起），另有补充金覆盖整个学程</sub> | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>2027 入学申请截止 2026-10-31；11 月底通知入围者</sub> | ✅ | **要求：** 非澳洲公民、永居或新西兰公民；上一学位不得取自澳大利亚大学；需达到墨尔本大学博士入学标准及英语要求<br>页面称 WEHI 博士奖学金生活津贴最低为 A$42,137/年（自 2024 年 6 月起），补充金覆盖整个学程。国际生可竞争墨尔本大学奖学金（含学费减免），也可能获得政府、慈善机构或 WEHI 的资助。 |
 | [WEHI 国际博士奖学金计划](https://wehi.edu.au/education/phd/international-phd-scholar-initiative/)<br><sub>澳大利亚 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>生活津贴为 Melbourne Research Scholarship 标准，并另有 WEHI 博士补充金（页面写明总额 $43,100/年）</sub> | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>页面：申请截止 2026 年 10 月 31 日（周六）23:59 AEDT，对应 2027 年入学；入围者于截止后四周内视频面试</sub> | ✅ | **要求：** 学位须非澳洲大学获得（澳洲公民、永久居民、新西兰公民及上一学位在澳洲大学获得者不符合）；医学生物（Medical Biology）博士；需提交推荐信与成绩单并参加视频面试<br>页面称 2027 年入学的国际博士奖学金申请于 2026 年 10 月 31 日截止，入围者截止后四周内视频面试，奖学金最迟于 2026 年底授予；另有搬迁津贴（外州最高 $3,000）、健康保险与学费减免。 |
@@ -138,13 +139,14 @@
 | [阿尔伯塔大学医学与牙医学院 CSC 资助（博士/博后）](https://www.ualberta.ca/medicine/programs/graduatestudies/china-scholarship-council.html)<br><sub>加拿大 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 全奖 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>CSC 博士申请截止约 3 月 31 日，博后约 4 月 30 日；需先获阿尔伯塔导师接收，大学申请需在 3 月前提交</sub> | ✅ | **要求：** 中国大陆国籍；须先获阿尔伯塔导师接收与学院录取<br>阿尔伯塔大学医学与牙医学院可用 CSC 名额资助博士（最多 15 名）与博后（最多 10 名），博士 4 年约 CAD 26,400/年，学费由大学承担。其他页面津贴数字不一致，以学院页面为准，并需向 Sponsored Student Program 核实。 |
 | [阿斯利康–剑桥合作非临床博士项目（AZ-UoC Collaborative Non-Clinical PhD）](https://www.ats.cam.ac.uk/az-funded-non-clinical-phd-studentship-2026)<br><sub>英国 ｜ 医学/公卫·生物/生命科学·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>⏸ 本轮已截止</sub><br><sub>伙伴征集表已关闭；往届截止为 5 月 24 日；2027 轮以官网为准</sub> | ❔ | 阿斯利康–剑桥合作非临床博士项目（4 年）由剑桥导师与 AZ 联合提交课题，申请前需在剑桥招聘页找到对应的 AZ 资助岗位。项目页称资助覆盖津贴与本地生标准学费（stipend and home-rate fees），国际生学费差额是否由项目承担未见官网说明，需核实。 |
 | [阿斯顿大学博士项目（健康与生命科学，含资助岗位）](https://www.aston.ac.uk/study/courses/phd-health-and-life-sciences)<br><sub>英国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | **2027-01-01**<br><sub>🟢 开放申请</sub><br><sub>官网项目页：4 月入学截止 1 月 1 日，10 月入学截止 6 月 1 日；下一截止为 2027-01-01，具体奖学金以项目公告为准</sub> | ❔ | 阿斯顿大学健康与生命科学博士项目官网，提供 4 月与 10 月两个入学批次。资助形式因项目而异（全奖、部分资助或自费），需逐个查看当期项目公告；国际生能否申请全奖以项目为准。 |
+| [香港理工大学健康或社会工作专业博士补充奖学金](https://www.polyu.edu.hk/fhss/study/prospective-students/top-up-scholarship)<br><sub>中国香港 ｜ 社会科学/心理·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>HK$12,000/月（整个正常学制期间）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>需先获博士录取再申请，截止随录取轮次变化</sub> | ⛔ | **要求：** 仅限本地（local）博士生；需社会工作或健康专业资格；需先获得 PolyU 博士录取。<br>官网称该补充奖学金仅面向本地博士生，按字面不向内地学生开放；每月 HK$12,000，整个正常学制期间，需保持优秀表现并获得 PolyU 月津贴。截止随录取轮次，官网未见具体日期。 |
 | [麦克马斯特大学 CIHR/CPRA 博后奖学金说明](https://gs.mcmaster.ca/current-students/scholarships/cihr-postdoctoral/)<br><sub>加拿大 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>最高 70,000 加元/年，共两年（McMaster 页面所示）</sub> | **2026-09-16**<br><sub>⏸ 本轮已截止</sub><br><sub>麦克马斯特内部截止 2026-09-10 已过；McMaster 于 2026-09-16 向 CIHR 提交，预计 2027-03-31 公布结果，最早 2027-04-01 起资助</sub> | 🟡 | **要求：** 国际申请人须在截止时已在加拿大机构攻读或完成博士（或在加拿大从事博后研究）；国际名额约占 20%<br>CPRA 博后奖学金（CIHR）：国际申请人仅限在加拿大机构攻读或完成博士、或正在加拿大从事博后研究者，名额约占 20%。麦克马斯特大学页面的内部截止日 2025-09-10 已过期，需核对 2026 年安排。 |
 | [麦吉尔大学 SPGH 研究生资助政策（博士保底）](https://www.mcgill.ca/spgh/node/1555)<br><sub>加拿大 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各院系/批次截止不同，以官网公告为准。</sub> | ❔ | **要求：** 国际生条件以官网为准。<br>政策明确区分博士与部分硕士的保底：学院为博士提供保底资助；国际生条件需对照政策全文。 |
 | [麦吉尔大学微生物与免疫学系研究生资助（2026–27）](https://www.mcgill.ca/microimm/students/graduate-studies/funding)<br><sub>加拿大 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$47,251（2026–27 国际生博士 1–4 年最低总额，含学费）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各院系/批次截止不同，以官网公告为准。</sub> | ✅ | **要求：** 国际生条件以官网为准。<br>页面列出 2026–27 年博士 1–4 年国际生最低总额 $47,251（含学费）；主管可额外补贴，差旅和报告奖金不计入最低总额。 |
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（193）
+## 结构化博士项目与研究机构（197）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -222,7 +224,8 @@
 | [Northwestern Driskill 生命科学博士资助](https://www.feinberg.northwestern.edu/sites/dgp/prospective-students/financial-support.html)<br><sub>美国 ｜ 生物/生命科学·医学/公卫·神经/认知·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$47,748（2026–2027 学年，官网）</sub> | — | ✅ | 官网财务支持页称，录取的全部学生（含外国国籍学生）起初由西北大学奖学金提供生活津贴与全额学费；学业进展令人满意即可持续获得支持，另有学生健康保险及牙科、视力保险补助。 |
 | [NYU Vilcek 生物医学研究生院博士资助](https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/phd-program/life-vilcek-institute-graduate-biomedical-sciences/benefits/financial-support)<br><sub>美国 ｜ 生物/生命科学·医学/公卫·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$56,763/年（2025-26 学年，2025-12-01 起生效，按月发放）</sub> | 未公布 | ❔ | NYU Vilcek 研究生院博士生资助页，列出津贴约 54,060 美元/年（2024–25 数据），以官网最新为准。 |
 | [Pasteur-Paris University (PPU) 国际博士项目（Institut Pasteur）](https://www.pasteur.fr/en/education/ppu)<br><sub>法国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-11-16**<br><sub>🟢 开放申请</sub><br><sub>2027-10 入学征集 2026-10-01 至 11-16；学院联合申请截止 12-14</sub> | ❔ | **要求：** 需硕士或同等学位；可同时申请至多 4 个实验室；需注册 PPU 官网账号；国籍限制需在官网核实<br>带薪博士岗位（Institut Pasteur 发工资与社保），需硕士学位；2027-10 入学征集期 2026-10-01 至 11-16，目前开放；项目列表需注册官网账号，国籍与学历资格以官网为准。 |
-| [QMUL 体外预测模型中心（CPM）器官芯片博士 CDT 申请页](https://www.cpm.qmul.ac.uk/cdt/applications)<br><sub>英国 ｜ 医学/公卫·工程</sub> | 博士 | 力度未注明<br><sub>£21,795/年（2025/26，含伦敦津贴）</sub> | 未公布<br><sub>🔜 即将开放</sub><br><sub>2027 年 9 月入学批次预计 2026 年 12 月发布，检索时未见公告</sub> | ❔ | **要求：** 理工科相关学位：一等或二等上荣誉学士，或硕士学位<br>EPSRC 资助的器官芯片 4 年制博士 CDT，往年 12 月发布次年 9 月入学的学位。2027 年 9 月批次未见公告，请以申请页与招生邮箱为准。 |
+| [PolyU 健康技术与信息学系研究型研究生项目](https://www.polyu.edu.hk/hti/study/programmes/research-postgraduate-studies/research-postgraduate-programme/)<br><sub>中国香港 ｜ 医学/公卫·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>HK$344,400/年（2027/28 HKPFS 标准，据研究生院）</sub> | **2026-12-01**<br><sub>⏸ 本轮已截止</sub><br><sub>2027/28 学年 HKPFS 申请截止 2026 年 12 月 1 日（RGC 初审 12:00，PolyU 全申请 23:59）；系页面仍显示 2026/27 周期，以研究生院为准。</sub> | ❔ | **要求：** 需先在 RGC HKPFS 系统提交初审并获取参考号，再在 PolyU 系统提交全申请；学历与语言要求以校方页面为准。<br>该系研究型博士可通过 HKPFS 获资助，申请人需按校方要求提交 RGC 参考号。 |
+| [QMUL 体外预测模型中心（CPM）器官芯片博士 CDT 申请页](https://www.cpm.qmul.ac.uk/cdt/applications)<br><sub>英国 ｜ 医学/公卫·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£23,805/年（2026/27，含伦敦津贴）</sub> | 未公布<br><sub>🔜 即将开放</sub><br><sub>2027 年入学批次申请 2026 年 11 月下旬开放</sub> | ❔ | **要求：** 理工科相关学位：一等或二等上荣誉学士，或硕士学位<br>EPSRC 资助的器官芯片 4 年制博士 CDT，全额资助（学费与津贴）。页面称学费按英国本土生标准，国际学费身份名额每年最多 1 个。2027 年入学申请 2026 年 11 月下旬开放。 |
 | [Rockefeller University 博士项目（学费全免+津贴）](https://www.rockefeller.edu/publicaffairs/uploads/www.rockefeller.edu/sites/67/2025/09/RockefellerU_GraduateBookLayouts_08182025.pdf)<br><sub>美国 ｜ 生物/生命科学·化学/材料·神经/认知·物理/天文·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>🔜 即将开放</sub><br><sub>申请截止以研究生院当年页面为准</sub> | ✅ | **要求：** 学士、硕士或医学学位或同等学历；生命、化学、数学或物理等领域高水平成绩<br>招生册称学费为 0 并提供生活津贴，录取不分国籍；津贴金额以研究生院页面为准。 |
 | [Sanford Burnham Prebys 医学发现研究所 PhD 项目（GSBS）](https://sbpdiscovery.org/education/graduate-school/phd-program/)<br><sub>美国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>$53,045/年（2026–27 学年，官网）</sub> | 未公布<br><sub>📋 持续更新</sub><br><sub>2025–26 学年申请期为 2025-09-01 至 2025-12-01（官网）；2026 轮截止未在官网查到，以官网或 admissions@sbp.edu 为准。</sub> | ❔ | **要求：** 入学前需先取得愿意带教的导师（双方需签订同意协议）；语言成绩要求与申请费以官网为准。<br>Sanford Burnham Prebys 研究所式博士项目；官网称所有在读且学业达标的学生均领取津贴，2026–27 学年为 $53,045。 |
 | [Stanford Biosciences 博士资助](https://biosciences.stanford.edu/prospective-students/support-for-students)<br><sub>美国 ｜ 生物/生命科学·医学/公卫·神经/认知·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$56,348/年（2025–26 学年）</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>2027–28 入学申请截止 2026-12-01（官网 FAQ），以当年官网为准。</sub> | ✅ | **要求：** 需美国学士学位或同等国际学历，并满足英语能力要求；官网称公民身份不构成录取条件。<br>津贴约 5.6 万美元+学费与医保，未见国籍限制，12 月初截止。 |
@@ -250,10 +253,13 @@
 | [剑桥医学研究博士培训项目（DTP-MR）](https://www.medschl.cam.ac.uk/node/74)<br><sub>英国 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026–27 入学批次申请已截止；2027 轮看各系公告</sub> | ❔ | **要求：** 需已获剑桥医学院相关博士课程录取，由系推荐并面试；国际生资格官方未明确<br>SCM DTP 提供全额资助，期限 3.5 年，包括按 UKRI 最低标准的生活津贴、大学学费及实验与差旅津贴；须已获医学院内博士课程录取，并在申请时注明申请 SCM DTP 资助。 |
 | [剑桥大学兽医医学系博士课题与项目列表](https://www.vet.cam.ac.uk/study/postgrad/projects)<br><sub>英国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面列出的全额资助项目 Evaluating the UK Vaccine Programme Holistically 截止为 2026 年 8 月 23 日，已过；部分资助项目页面称暂无；其余为自筹经费项目（页面称不含生活费或学费资助）。国际生资格需看各项目页。</sub> | ❔ | 剑桥兽医医学系「Available PhD/MPhil projects」页，列出当前招募的博士与 MPhil 课题。页面所示全额资助课题多已截止或仅限英国本土学生，其余多为自筹经费；需逐项核对。 |
 | [剑桥大学药理与药学全额资助博士岗位（Fully Funded PhD Studentships）](https://www.phar.cam.ac.uk/postgraduate/studentships)<br><sub>英国 ｜ 医学/公卫·化学/材料·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>£21,500/年（AstraZeneca 名额，2024–25 周期职位页所载）</sub> | **2026-12-08**<br><sub>🟢 开放申请</sub> | 🟡 | 剑桥药理学系的全额资助博士名额入口。2025-26 年的 AstraZeneca 资助名额仅对英国居民或能自行补齐国际生学费差额的海外学生开放，国际生需自行筹措学费差额；其他名额截止日期各异，需逐项核对。 |
+| [匹兹堡大学公共卫生学院生物统计博士常见问题（资助）](https://publichealth.pitt.edu/biostatistics/admissions-aid/frequently-asked-questions)<br><sub>美国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>📋 持续更新</sub><br><sub>页面未见具体日期，请查看院系招生页</sub> | ✅ | **要求：** FAQ 称新入学国际博士生可获研究助理（GSR）津贴，附学费减免与医保，需每周约 20 小时研究工作；硕士生不在全额资助范围<br>FAQ 说明国际博士生符合 GSR 资格；金额以录取信为准。 |
+| [匹兹堡大学跨学科生物医学研究生项目（IBGP）](https://www.gradbiomed.pitt.edu/admissions)<br><sub>美国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$41,200（2026-27 学年）</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>2027 年秋入学申请 2026-09-01 至 2026-12-01</sub> | ✅ | **要求：** 仅限博士；非英语母语者需 TOEFL/IELTS/Duolingo；不要求 GRE<br>IBGP 手册称项目从国内外申请者中录取，所有 IBGP 学生获得津贴（2023-24 手册为 $40,000，且不论资金来源）。页面称全额学费减免与个人医保，2025-26 年津贴约 4.12 万美元。国际生资格需以 IBGP 官网及书面 offer 为准。 |
 | [医科大学博士学校项目与竞赛页（umed.pl）](https://doctoralschool.umed.pl/offer/programmes-and-contests/)<br><sub>波兰 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 列出英文博士项目与资助竞赛的官方页面；资助额度和外国申请条件以各竞赛公告为准。 |
 | [华盛顿大学生物统计 PhD 资助保障](https://biostat.washington.edu/apply/costs)<br><sub>美国 ｜ 数学/统计·生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | — | ✅ | 华盛顿大学生物统计系：部门称博士生最长 5 年有 RA/TA 形式的资助保障，PhD 学生不缴学费。搜索未查到生活费金额和国际生资格的明确表述，以系办和官网申请页为准。 |
 | [卡内基梅隆生物医学工程博士资助](https://www.cmu.edu/bme/Admissions/aid.html)<br><sub>美国 ｜ 工程·医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>以项目招生截止为准；资助每学期审核，直接入学最多 14 学期（含夏季）</sub> | ✅ | 页面称全日制博士生获全额学费资助及生活津贴，不论经济需求；直接入学博士的资助最长 14 学期（含夏季），需每学期达到课程与科研要求。页面未列津贴金额。 |
 | [卡尔加里大学 运动学博士项目页](https://grad.ucalgary.ca/future-students/explore-programs/kinesiology-phd)<br><sub>加拿大 ｜ 医学/公卫·生物/生命科学·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>🔄 随时可申</sub><br><sub>交错截止：1 月入学 11 月 1 日；5 月入学 3 月 1 日；7 月入学 5 月 1 日；9 月入学 7 月 1 日</sub> | 🟡 | **要求：** GPA 不低于 3.00；两封推荐信；需获得系内导师同意；须提供外部资助的书面确认<br>卡尔加里大学研究生院页面列出四个交错入学截止，国际生与加拿大生截止相同。录取需外部资助的书面确认，页面未说明国际生是否有保障资助。 |
+| [印第安纳大学公共卫生学院博士费用与资助](https://www.publichealth.indiana.edu/doctoral/cost.html)<br><sub>美国 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ❔ | **要求：** 国际生资格与 SAA 名额需向院系确认；SAA 为竞争性名额且不保证，建议按优先截止日申请<br>多数录取博士获学生学术任命（SAA），含学费减免、月补助和医保，但不保证。国际生条件需向院系确认。 |
 | [印第安纳大学医学院（Bloomington）细胞、分子与癌症生物学博士资助](https://medicine.iu.edu/bloomington/graduate-programs/cell-molecular-and-cancer-biology-phd/financial-support)<br><sub>美国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>约 $30,000/年</sub> | 未公布<br><sub>📋 持续更新</sub><br><sub>页面称申请截止为 12 月 1 日（摘要未注明年份）。</sub> | ❔ | **要求：** 可接受 IELTS 替代 TOEFL，FAQ 建议 IELTS 7.0。<br>页面称所有录取学生均获学期内及暑期生活津贴，资助保障 5 年，形式包括助教、研究助理、培训经费或奖学金；大学提供学生健康保险。 |
 | [哈佛 GSAS 生物与生物医学科学博士项目（BBS）](https://gsas.harvard.edu/program/biological-and-biomedical-sciences)<br><sub>美国 ｜ 生物/生命科学·化学/材料·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>官网截止 2026 年 12 月 1 日 17:00</sub> | ❔ | 哈佛 GSAS 生物与生物医学科学（BBS）博士项目页面：申请截止 2026 年 12 月 1 日 17:00，须提交个人陈述并可能参加面试，不接受 GRE 成绩。页面未写明资助条款与国际生资格。 |
 | [哥伦比亚大学 Mailman 公共卫生学院资助选项页](https://www.publichealth.columbia.edu/node/2921)<br><sub>美国 ｜ 医学/公卫·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | 🟡 | **要求：** 国际博士生可向所在院系咨询资助；学院奖学金面向国际生但不保证，可能只覆盖前一两年。申请 I-20 需证明约两年学费与生活费资金。<br>哥伦比亚大学公共卫生学院资助选项页。国际博士生可向所在院系询问资助，学院奖学金按绩效与需求发放但不保证，可能仅覆盖前一两年；申请学生签证需证明约两年的学费与生活费。 |
@@ -439,7 +445,7 @@
 
 <a id="discipline"></a>
 
-## 学科专属信源（4）
+## 学科专属信源（5）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -447,6 +453,7 @@
 | [博阿齐奇大学生物医学工程研究所全额资助博士岗位](https://bme.bogazici.edu.tr/en/announcements/open-positions-fully-funded-graduate-students/4064)<br><sub>土耳其 ｜ 工程·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub> | ❔ | 博阿齐奇大学生物医学工程研究所公告页。其中 TÜBİTAK 2232-A 博士学者征集截止日为 2026 年 6 月 11 日，已关闭。Tahirbegi 实验室 2025 年 12 月发布的全额资助硕博岗位状态未知，需直接联系导师。 |
 | [爱荷华大学微生物系财务支持](https://microbiology.medicine.uiowa.edu/financial-support)<br><sub>美国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>📋 持续更新</sub> | ❔ | 爱荷华大学微生物学博士资助 2026–27：年津贴 $36,350，另有健康保险补贴 $5,244，学费与强制费用全免；博士生按学业进展续资助，通常约 5 年；国际生条款申请前确认。 |
 | [犹他大学人口健康科学博士资助](https://medicine.utah.edu/population-health-sciences/phd/funding)<br><sub>美国 ｜ 医学/公卫·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>2026–27 学年兼职研究助理（每周 20 小时）年津贴 $33,280；暑期可增至 $41,600</sub> | —<br><sub>📋 持续更新</sub> | ✅ | 犹他大学人口健康科学博士：申请者在录取过程中自动匹配资助，无单独资助申请；页面称提供全额学费、GSHIP 医保及研究助理年度津贴，国际生与本地生同样参与资助匹配。 |
+| [皮尔布赖特研究所博士岗位与学生资助](https://pirbright.ac.uk/careers-and-learning/education-programme/postgraduate-studentships)<br><sub>英国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>各博士岗位单独公告截止</sub> | 🟡 | **要求：** 国际生需证明可支付海外学费与本国学费的差额，或获得其他奖学金；以各岗位公告为准<br>英国动物病毒与疫苗研究所博士岗位，UKRI/BBSRC 资助的名额按本国学费费率提供；国际生可申请，但需自筹学费差额或获得其他奖学金。2027 年轮次待公告。 |
 
 <a id="pathways"></a>
 

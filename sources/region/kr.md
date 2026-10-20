@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 韩国（KR） 信源（37）
+# 韩国（KR） 信源（38）
 
-所有标注了地区 KR 的信源，共 37 条。
+所有标注了地区 KR 的信源，共 38 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 5](kr.md#aggregators) · [政府与国家级奖学金 2](kr.md#gov-scholarships) · [高校旗舰奖学金与资助检索 15](kr.md#university-schemes) · [结构化博士项目与研究机构 1](kr.md#doctoral-programs) · [博士后奖学金与项目 4](kr.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](kr.md#fellowships) · [个人信源与社交渠道 4](kr.md#people-channels) · [导师招生帖（社交平台个人发布） 4](kr.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 1](kr.md#faculty-aggregators)
+**按分类跳转：** [综合聚合平台 5](kr.md#aggregators) · [政府与国家级奖学金 2](kr.md#gov-scholarships) · [高校旗舰奖学金与资助检索 16](kr.md#university-schemes) · [结构化博士项目与研究机构 1](kr.md#doctoral-programs) · [博士后奖学金与项目 4](kr.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](kr.md#fellowships) · [个人信源与社交渠道 4](kr.md#people-channels) · [导师招生帖（社交平台个人发布） 4](kr.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 1](kr.md#faculty-aggregators)
 
 <a id="aggregators"></a>
 
@@ -33,7 +33,7 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（15）
+## 高校旗舰奖学金与资助检索（16）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -43,6 +43,7 @@
 | [POSCO TJ Park 财团 POSCO 全球奖学金（在韩研究生）](https://postf.org/en/asia/abroad/faq)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布 | ❔ | **要求：** 须被韩国合作大学硕博录取；近年覆盖指定 27 国国籍申请者，中国大陆是否在列未核实；2027 届细则以官方公告为准。<br>覆盖全额学费与生活费，面向韩国硕博研究生，合作校含首尔大、高丽大、POSTECH、延世；2027 届预计 2026-11 发布。 |
 | [POSTECH GIFT 国际研究生招生指南 2026–27](https://gift.postech.ac.kr/file/2026_27_Admissions_guide_for_international%20students_GIFT.pdf)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | **要求：** 须为外国国籍（申请人及父母，韩国籍兼有其他国籍者不符合）；需达到 TOEFL/IELTS/TOEIC/TEPS 英语标准；可申请 MS、MS-PhD 或 PhD 路线<br>POSTECH GIFT 2026–27 官方招生指南（PDF），涵盖 MS、MS-PhD 与 PhD 路线。未查到 GIFT 专属奖学金金额与截止日期，需以官方 PDF 与 GIFT 办公室为准。国籍条件可能变化。 |
 | [POSTECH 国际研究生招生指南（2026）](https://adm-g.postech.ac.kr/ENG/wp-content/uploads/2026/02/20260209111830_8CIIErRQu2.pdf)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年两轮（2–4 月、7–9 月）均已截止；以官网公告为准。</sub> | ❔ | POSTECH 2026 年两轮均已截止；国际生是否适用 TA/RA 奖学金需以官网支持政策页为准。 |
+| [POSTECH 国际研究生资助政策](https://adm-g.postech.ac.kr/ENG/graduate-info/support-policy/)<br><sub>韩国 ｜ 计算机·工程·物理/天文·化学/材料·生物/生命科学·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>博士 TA/RA 每月 2,200,000 韩元（学费 884,000 + 生活补助 1,316,000），各实验室可不同</sub> | — | 🟡 | **要求：** 国际研究生须满足各项目条件；Ruth L. Satter 奖学金限亚洲女性新生，博士最长两年<br>POSTECH 研究生资助页列出奖学金、助教/助研（TA、RA）与行政岗位三类，并有 Ruth L. Satter、K-GKS 庆尚北道通道等指定项目。助研津贴按学期表现浮动，各实验室规定不同，国际生资格以各项目条款为准。 |
 | [UNIST 蔚山科技院研究生招生](https://adm-g.unist.ac.kr/admg-eng/admission/graduate-admissions.do)<br><sub>韩国 ｜ 计算机·工程·物理/天文·化学/材料·生物/生命科学·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>博士最低约 KRW 13,200,000/年（政府资助轨道）；约 KRW 20,880,000/年（大学资助轨道）</sub> | —<br><sub>春秋两季招生，具体截止以官网当年公告为准</sub> | ✅ | **要求：** 需满足学业与进度要求以维持津贴；学费由 RA/TA 职位覆盖<br>官网 FAQ 称所有学生均获 RA/TA 奖学金，覆盖全部学费并提供月津贴（页面未列金额）；申请流程全程在线。 |
 | [亚洲大学（Ajou University）研究生奖学金（BK21 与校内奖学金）](https://ajou.ac.kr/esr_en/graduate/scholarship-system.do)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>博士创意研究奖学金 1,600,000 韩元/月；博士挑战研究奖学金 1,100,000 韩元/月（BK21 项目）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>以学校每年的研究生招生简章为准。</sub> | ✅ | **要求：** 官方页面未给出国际生具体学历与语言门槛，需看研究生院招生简章。<br>官方页面列出 BK21 博士创意研究奖学金每月 160 万韩元、博士挑战研究奖学金每月 110 万韩元等具体金额，国际学生按同样方式发放月度津贴；学费减免按学校规定执行。BK21 期间博士阶段最多可领取 8 个学期，一般规定为 6 个学期。 |
 | [延世大学 Yonsei Frontier Lab 博士后研究员（非韩国籍）](https://yfl.yonsei.ac.kr/yfl/programs/programs02.do)<br><sub>韩国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>最低博士后年度津贴 5,200 万韩元</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>当前轮次截止日未确认，以 Yonsei Frontier Lab 官网为准</sub> | ✅ | **要求：** 非韩国籍；在读博士（预计当年毕业）或申请时 7 年内获博士；理工科近 2 年发表 2 篇以上论文（人文社科需 JCR Q1 论文 1 篇以上）；需新村/国际校区全职教授推荐；医学、牙科、护理及 Mirae 校区不在范围<br>延世前沿实验室博后资助，每年 2 月和 8 月各一轮，对非韩国籍学者开放；申请前先确认目标课题组。 |

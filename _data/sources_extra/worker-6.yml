@@ -249,6 +249,30 @@
   verify_method: page
   page_evidence: tuition remission, which covers the full cost of tuition
   verified: 2026-10-17
+- id: polito-phd-42nd-cycle-funded-positions
+  name: 都灵理工大学（Politecnico di Torino）第42周期博士岗位逐项更新表
+  url: https://www.polito.it/en/node/18987
+  category: doctoral-programs
+  regions:
+  - IT
+  disciplines:
+  - engineering
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  deadline: varies
+  deadline_note: 滚动更新的岗位表，按周期分批开放，截止日期以页面当期公告为准（搜索结果显示最近更新于 2026 年 7 月）。
+  status: ongoing
+  requirements: 按项目列出，国际生资格、学历与语言要求以各项目说明为准。
+  notes: 区分有明确课题的全额岗位、预设课题岗位以及无资助岗位，适合直接筛选带薪博士位；只覆盖一所大学。
+  verify_method: page
+  page_evidence: Below are listed all the updates on the available positions for the first session of the 42nd cycle.
+  verified: 2026-10-20
 - id: fu-berlin-csc-phd-program-2026
   name: 柏林自由大学（FU Berlin）CSC 博士合作项目 2026 岗位说明
   url: https://www.fu-berlin.de/en/sites/china/foerdermoeglichkeiten/fuer_chinesen/csc-phd-program/PhD-positions-2026/diverse_own-research-proposal.pdf
@@ -2347,12 +2371,14 @@
   - web
   language: en
   coverage: unknown
-  deadline: 2027-01-31
+  deadline: 2027-05-31
   deadline_note: 2027 年 1 月入学截止 2026-09-30（已过）；5 月入学截止 2027-01-31；9 月入学截止 2027-05-31
   status: open
   requirements: 硕士或一等荣誉本科。
   notes: 机械工程博士申请入口，2027 年入学窗口分 1 月、5 月、9 月三轮；资助需结合学校 studentship 与 HKPFS 规则查看。
-  verified: 2026-10-14
+  verify_method: page
+  page_evidence: Research PhD - Full-time & Part-time
+  verified: 2026-10-20
 - id: polyu-civil-2027
   name: PolyU 土木及环境工程 2027 入学研究生申请页
   url: https://www.polyu.edu.hk/study/pg/rpg/2027/cee

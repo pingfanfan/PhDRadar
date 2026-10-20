@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 澳大利亚（AU） 信源（103）
+# 澳大利亚（AU） 信源（104）
 
-所有标注了地区 AU 的信源，共 103 条。
+所有标注了地区 AU 的信源，共 104 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 1](au.md#aggregators) · [各国学术招聘门户与机构职位页 1](au.md#national-portals) · [政府与国家级奖学金 5](au.md#gov-scholarships) · [高校旗舰奖学金与资助检索 68](au.md#university-schemes) · [结构化博士项目与研究机构 10](au.md#doctoral-programs) · [博士后奖学金与项目 5](au.md#postdoc-fellowships) · [企业与基金会 Fellowship 9](au.md#fellowships) · [学科专属信源 1](au.md#discipline) · [个人信源与社交渠道 3](au.md#people-channels)
+**按分类跳转：** [综合聚合平台 1](au.md#aggregators) · [各国学术招聘门户与机构职位页 1](au.md#national-portals) · [政府与国家级奖学金 5](au.md#gov-scholarships) · [高校旗舰奖学金与资助检索 69](au.md#university-schemes) · [结构化博士项目与研究机构 10](au.md#doctoral-programs) · [博士后奖学金与项目 5](au.md#postdoc-fellowships) · [企业与基金会 Fellowship 9](au.md#fellowships) · [学科专属信源 1](au.md#discipline) · [个人信源与社交渠道 3](au.md#people-channels)
 
 <a id="aggregators"></a>
 
@@ -40,7 +40,7 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（68）
+## 高校旗舰奖学金与资助检索（69）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -102,7 +102,8 @@
 | [悉尼大学法学院研究生研究奖学金](https://www.sydney.edu.au/law/study-law/postgraduate-research-in-law/postgraduate-research-scholarships.html)<br><sub>澳大利亚 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>最高 AUD 55,000/年（Harris 奖学金）；部分法学专项奖最高 AUD 50,000/年</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>Harris 奖学金 2026 轮于 3 月 15 日截止；2027 轮以官网公告为准</sub> | ✅ | 页面称资助有两条途径（RTP 最高 AUD 42,000；法学院奖学金最高 AUD 55,000），建议两者都申请；各项截止日见官网对应分页。 |
 | [悉尼大学药学校友研究生奖学金（Pharmacy Alumni Postgraduate Scholarship）](https://www.sydney.edu.au/scholarships/c/pharmacy-alumni-postgraduate-scholarship.html)<br><sub>澳大利亚 ｜ 医学/公卫·化学/材料·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请窗口 8 月 1 日至 8 月 14 日已关闭；下一轮待校方公告</sub> | ❔ | **要求：** 需已获无条件录取或为悉尼大学药学院全日制在读博士生；不能同时持有该校其他 HDR 津贴；国际生资格需邮件 fmh.hdrscholarships@sydney.edu.au 核实（第三方页称仅限澳大利亚、新西兰公民或永居）<br>悉尼大学官网列出的药学校友博士奖学金为按 RTP 津贴标准发放的博士生补助，最长约 3.5 年，偏好在皇家王子医院开展研究的申请者。官网未见国籍限制，但第三方页面称仅限澳新居民，国际生资格需以校方答复为准。 |
 | [斯威本科技大学研究生研究奖（SUPRA）](https://www.swinburne.edu.au/study/options/scholarships/221/swinburne-university-postgraduate-research-award/)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>AU$35,500/年（免税，2026 标准，3 年，个别情况可延 6 个月）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面标注申请已关闭；轮次与截止日期请见 Swinburne Research Stipend 页面。</sub> | ✅ | **要求：** 需一等或二等上（Upper Second）荣誉学位或同等学历；国际生需已在斯威本 HDR 课程录取；学费由 Tuition Fee Scholarship 覆盖。<br>页面称 SUPRA 年津贴 35,500 澳元（2026 标准，指数调整），三年（可延 6 个月），并提供最长四年的学费奖学金；申请已关闭。 |
-| [昆士兰大学 Graduate School Scholarship](https://scholarships.uq.edu.au/scholarship/graduate-school-scholarships-uqgss-%E2%80%93-includes-rtp)<br><sub>澳大利亚 ｜ 全学科</sub> | 博士 | 半奖/部分<br><sub>AUD 37,500/年（官网 2026 标准，免税）</sub> | 未公布<br><sub>国际生截止日未经官网核实，以官网为准</sub> | 🟡 | UQ 研究生院奖学金（含 RTP），官网列明面向国际生，含生活津贴 AUD 37,500/年（2026 标准，免税）与 OSHC；学费覆盖范围以官网为准，仅限全日制，须由学院提名，需先提交 EOI。 |
+| [昆士兰大学 Graduate School Scholarship](https://scholarships.uq.edu.au/scholarship/graduate-school-scholarships-uqgss-%E2%80%93-includes-rtp)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>AUD 39,220/年（官网 2026 标准，免税）</sub> | **2026-10-19**<br><sub>🟢 开放申请</sub><br><sub>国际申请人轮次（2027 第四研究季度或 2028 年初入学）完整申请截止 2026-10-19；后续轮次日期将于 2026 年 10 月底公布</sub> | 🟡 | UQ 研究生院奖学金（含 RTP），面向国内外学生，含免税生活津贴与单人 OSHC，期限 3.5 年（可延 1 次）；须由学院提名并先提交 EOI。 |
+| [昆士兰大学研究生奖学金（UQGSS/RTP，含农业科学）](https://scholarships.uq.edu.au/phd-mphil-students)<br><sub>澳大利亚 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ✅ | UQ 官网称 UQGRSS 面向本国与国际学生，资助学费、免税生活津贴 $39.2K/年（2026 标准）并含单人 OSHC；国际生需先获生活津贴奖学金才有资格获学费奖学金。 |
 | [澳国立大学 Shen-su Sun 博士补充奖学金（CSC 获得者）](https://study.anu.edu.au/scholarships/find-scholarship/shen-su-sun-phd-supplementary-scholarship)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>$10,000 per annum（页面未注明币种），最多 2 名，支付 3 年，双周发放</sub> | 滚动<br><sub>🔄 随时可申</sub><br><sub>无需单独申请，符合条件的 ANU-CSC 获得者（RSES 录取）自动考虑；申请期全年开放。</sub> | ✅ | **要求：** 面向已获国家留学基金委（CSC）奖学金的中国博士生，需先获 ANU 博士录取<br>仅面向获 CSC 奖学金的中国博士生的补充奖学金，属于 CSC 之上的加项。 |
 | [澳国立大学地球科学研究院（RSES）博士奖学金页](https://earthsciences.anu.edu.au/study/scholarships-prizes/scholarships)<br><sub>澳大利亚 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>A$8,002/年（补充奖学金，分 3 年发放）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮截止 3 月 31 日已过（第三方列表）；下一轮以 ANU 官网为准</sub> | ✅ | **要求：** 一等荣誉学位或研究型硕士；Ringwood 奖学金无需单独申请<br>地球科学研究院博士奖学金汇总；Ringwood 补充奖学金 2026 轮截止 3 月 31 日已过，下一轮以官网为准。 |
 | [澳大利亚国立大学研究学位奖学金](https://research.anu.edu.au/postgraduate-research-candidates/research-degree-scholarships)<br><sub>澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-04-15**<br><sub>国际生第一轮（2027 年入学）2026-08-31 已截止；后续轮次以官网公告为准</sub> | ✅ | **要求：** 需先被 ANU 录取为博士生，RTP/URS 随录取由学校自动考虑，无需单独申请。<br>RTP/URS 含学费与生活津贴，国际生可申，每年两轮。 |

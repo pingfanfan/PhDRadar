@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 神经/认知 信源（166）
+# 神经/认知 信源（170）
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 9](neuro.md#aggregators) · [各国学术招聘门户与机构职位页 2](neuro.md#national-portals) · [高校旗舰奖学金与资助检索 13](neuro.md#university-schemes) · [结构化博士项目与研究机构 84](neuro.md#doctoral-programs) · [博士后奖学金与项目 26](neuro.md#postdoc-fellowships) · [企业与基金会 Fellowship 8](neuro.md#fellowships) · [学科专属信源 4](neuro.md#discipline) · [科研实习与“曲线入口” 1](neuro.md#pathways) · [个人信源与社交渠道 11](neuro.md#people-channels) · [导师招生帖（社交平台个人发布） 5](neuro.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 2](neuro.md#faculty-aggregators) · [选校与申请辅助工具 1](neuro.md#tools)
+**按分类跳转：** [综合聚合平台 9](neuro.md#aggregators) · [各国学术招聘门户与机构职位页 2](neuro.md#national-portals) · [高校旗舰奖学金与资助检索 14](neuro.md#university-schemes) · [结构化博士项目与研究机构 85](neuro.md#doctoral-programs) · [博士后奖学金与项目 26](neuro.md#postdoc-fellowships) · [企业与基金会 Fellowship 8](neuro.md#fellowships) · [学科专属信源 4](neuro.md#discipline) · [科研实习与“曲线入口” 1](neuro.md#pathways) · [个人信源与社交渠道 12](neuro.md#people-channels) · [导师招生帖（社交平台个人发布） 5](neuro.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 3](neuro.md#faculty-aggregators) · [选校与申请辅助工具 1](neuro.md#tools)
 
 <a id="aggregators"></a>
 
@@ -37,7 +37,7 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（13）
+## 高校旗舰奖学金与资助检索（14）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -48,6 +48,7 @@
 | [McGill 综合神经科学项目（IPN）2026–27 博士资助标准](https://www.mcgill.ca/ipn/finance-prospective-students/stipend-rates-2026-2027)<br><sub>加拿大 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>随 McGill 研究生入学季申请；名额与截止以项目页为准。</sub> | ❔ | **要求：** 须通过 McGill 研究生入学录取；国际生是否获 IDF 奖学金影响导师承担的总额，需向 IPN 确认。<br>IPN 为 2026–27 年估算的最低资助表（含生活费与学费），依历史水平计算，金额可能调整。 |
 | [MRC LMB 剑桥奖学金（LMB Cambridge Scholarship，面向海外学生）](https://www2.mrc-lmb.cam.ac.uk/GSA/insiders-guide/faq.php)<br><sub>英国 ｜ 生物/生命科学·化学/材料·物理/天文·神经/认知·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>🔜 即将开放</sub><br><sub>据 LMB FAQ，非英国申请者截止约 12 月中旬；以下一轮公告为准</sub> | ❔ | **要求：** 须通过剑桥大学申请门户申请 LMB PhD；名额有限；海外生仅能申请 LMB Cambridge Scholarships，不能申请仅限英国学生的 MRC Studentship<br>LMB 面向海外学生的名额有限的奖学金，金额与覆盖范围以剑桥资助页为准。 |
 | [NYU 上海校区博士奖学金（神经科学上海轨道）](https://shanghai.nyu.edu/node/18058)<br><sub>中国内地 ｜ 神经/认知·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>📋 持续更新</sub><br><sub>随纽约大学神经科学项目的申请周期处理，截止需向上海校区核实。</sub> | ❔ | 上海校区的博士轨道，奖学金覆盖学费、杂费与年度津贴（据搜索摘要），适合希望在国内就读并获海外学位的同学。 |
+| [PSL-NEURO 神经科学博士资助](https://www.psl-neuro.psl.eu/en/calls/psl-neuro-phd-funding)<br><sub>法国 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub> | ❔ | PSL-NEURO 每年资助 2 个博士课题，需 6 月 30 日前经博士学院提交；2026 轮已过，2027 轮待公布。 |
 | [SickKids 研究培训中心：如何成为研究生或访问研究员](https://www.sickkids.ca/en/research/research-training-centre/becoming-student-fellow/)<br><sub>加拿大 ｜ 生物/生命科学·医学/公卫·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定<br><sub>Restracomp 研究生奖学金 $35,000/年（两年）</sub> | — | ❔ | 说明以研究生或研究员身份在 SickKids 研究的步骤，导师需为 SickKids 研究所任命人员；签证与入职可咨询培训中心。 |
 | [弗洛里研究所博士申请与奖学金路径](https://florey.edu.au/careers-and-study/studying-at-the-florey/how-to-apply)<br><sub>澳大利亚 ｜ 生物/生命科学·医学/公卫·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ✅ | **要求：** 需满足墨尔本大学最低入学要求（页面未列出具体学位与英语标准）；须先确认导师与项目，再通过墨尔本大学系统申请。<br>弗洛里研究所博士生通过墨尔本大学注册，流程为先找导师与项目，再经墨大系统申请。国际生自动纳入墨尔本研究奖学金（MRS）评审，该奖学金含全额学费减免（full-fee offset）与生活津贴；页面称每年三轮。 |
 | [慕尼黑大学系统神经科学研究生院（GSN-LMU）博士资助说明](https://www.gsn.uni-muenchen.de/apply/funding/index.html)<br><sub>德国 ｜ 神经/认知·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>每年申请期为 12 月 1 日至次年 2 月 15 日；2026 届申请截止为 2026 年 2 月 16 日中午 12 点（CET），2027 届时间以官网为准。</sub> | ❔ | **要求：** 博士项目需持生物、心理、医学、物理或相关领域硕士学位（或同等学历，入学前须已授予）；Fast-Track 博士面向优秀本科毕业生；仅接受在线系统申请，不接受邮件或第三方平台申请。<br>GSN 官方资助页：博士项目免学费，多数博士生由导师课题组以雇佣合同资助，GSN 本身不直接发放全额奖学金；个别情况有生活补助，是否适用需看官网说明。 |
@@ -57,7 +58,7 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（84）
+## 结构化博士项目与研究机构（85）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -134,6 +135,7 @@
 | [布兰迪斯大学（Brandeis）神经科学博士资助](https://www.brandeis.edu/neuroscience/graduate/phd-program/funding.html)<br><sub>美国 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$38,496/年（2023 年 7 月起的标准）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>以学校研究生项目页面为准。</sub> | ❔ | **要求：** 国际生需英语成绩；录取即获得学费与津贴资助。<br>页面给出博士生津贴与学费覆盖，数字为 2023 年标准，下一轮金额请以官网为准。 |
 | [恩斯特·施特吕格曼神经科学研究所（ESI Frankfurt）博士机会](https://esi-frankfurt.de/institute/)<br><sub>德国 ｜ 神经/认知·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | 页面称 ESI 为马普学会（MPG）研究所，并与歌德大学神经科学研究生院等合作开放博士机会；页面未列出具体博士岗位或资助，需逐个确认。 |
 | [慕尼黑系统神经科学研究生院（GSN-LMU）](https://www.lmu.de/gsn/en/studying-at-gsn-lmu/become-a-gsn-student/)<br><sub>德国 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面年度时间表：申请期为 12 月 1 日至次年 2 月 15 日；2026 年秋季入学的申请截止为 2026 年 2 月 16 日中午（CET），推荐信截止 2 月 23 日；2027 轮日期页面未公布。</sub> | ❔ | **要求：** 需在线提交完整申请（仅申请期内）；需两封推荐信，由推荐人自行在截止前提交；不接受邮件或 Uni-Assist 等外部平台提交。<br>页面称 GSN 不收取申请费与学费（学费细则见 LMU 页面）；生活津贴与国际生资格页面未写明，保持 check。 |
+| [斯坦福大学心理学系博士招生与资助](https://psychology.stanford.edu/admissions/phd-admissions)<br><sub>美国 ｜ 社会科学/心理·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-11-20**<br><sub>🟢 开放申请</sub><br><sub>2027 秋季入学轮截止 2026-11-20，页面称 2026-09-15 开放申请</sub> | ❔ | 斯坦福心理学 PhD 通常提供多年资助，截止多在 11–12 月。校方 2020 年起承诺 PhD 最长 5 年每年 12 个月资助；按当年页面核实细则。 |
 | [日内瓦大学生命科学博士学院冬季招生](https://lifesciencesphd.unige.ch/)<br><sub>瑞士 ｜ 生物/生命科学·医学/公卫·神经/认知</sub> | 博士 | 视项目而定 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>门户显示下一批例外截止 2026-11-01 23:59（CET）；常规截止以门户为准（较新版本为 5 月 1 日与 12 月 1 日）</sub> | ❔ | **要求：** 需硕士或同等学位；可选择 1–2 个项目申请；资助因导师和项目而异，申请前需与导师确认<br>日内瓦大学生命科学博士学院：申请门户显示下一批例外截止为 2026 年 11 月 1 日 23:59（CET）。常规截止以申请门户为准；较旧版本曾写 4 月 15 日与 11 月 15 日，与新版本不一致。资助因导师而异，需在申请前与导师确认。 |
 | [柏林爱因斯坦神经科学中心（ECN）博士奖学金](https://neurocure.de/career/educational-programs/einstein-center-for-neurosciences-berlin.html)<br><sub>德国 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 页面称 2017–2023 年 ECN 通过竞争性遴选授予 111 个博士奖学金，其中 72% 授予国际学者；2022 年起向非 ECN 学生开放。页面未给出 2026/2027 截止日期与津贴金额，国际生资格仍待核实。 |
 | [特拉维夫大学 Sagol 神经科学学院博士（常规轨道）](https://en-sagol.tau.ac.il/PhD-in-neuroscience-The-Regular-Track)<br><sub>以色列 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年申请日期需查 Sagol 英文页面。</sub> | ❔ | **要求：** 需硕士学位（常规轨道）；英语授课。<br>页面称常规博士轨道有 4 年生活津贴，续期取决于进展报告；国际生需确认资格。 |
@@ -215,7 +217,7 @@
 
 <a id="people-channels"></a>
 
-## 个人信源与社交渠道（11）
+## 个人信源与社交渠道（12）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -227,6 +229,7 @@
 | [Notre Dame · Brain Map 实验室 · 神经科学博士 2027](https://brainmaplab.nd.edu/join-the-lab/)<br><sub>美国 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>2027 年秋入学，实验室页面标注申请截止 2026 年 12 月 1 日；资助方式需向 PI 确认</sub> | ❔ | **要求：** 需通过心理系（认知、脑与行为方向）博士项目申请；先邮件联系 PI 并附 CV 与研究兴趣陈述<br>招收 1–2 名 2027 年秋季入学博士(心理系项目),据页面申请截止 2026 年 12 月 1 日;需邮件给 PI 附 CV 与研究兴趣陈述。资助方式需向 PI 确认。 |
 | [图宾根大学 Hector 教育科学与心理学研究所 · 招聘页（博士岗）](https://uni-tuebingen.de/en/faculties/faculty-of-economics-and-social-sciences/subjects/department-of-social-sciences/education-sciences-and-psychology/institute/job-listings)<br><sub>德国 ｜ 社会科学/心理·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>页面列出的博士后岗位为 100%、E 13 TV-L、3 年（可延长）；其他岗位薪资未在列表中给出</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面列表仅显示发布日期（如 2026 年 9 月 11 日、2026 年 6 月 1 日），未显示截止日，需进入各岗位核对</sub> | ❔ | **要求：** 页面未列出统一的学历、背景或国籍要求，需逐条查看岗位公告。<br>图宾根大学 Hector 教育研究所官方招聘列表，近期条目包括攻读博士的研究助理（2026 年 6 月 1 日发布）与数字教育数据计算建模方向博士后（2026 年 9 月 11 日发布，100%，E 13 TV-L，3 年）。 |
 | [图宾根神经科学研究生院岗位列表](https://www.neuroschool-tuebingen.de/news/hiwi-phd-postdoc/)<br><sub>德国 ｜ 神经/认知·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 汇总图宾根大学、马普所与 Hertie 研究所的神经科学博士/博后岗位公告。 |
+| [科罗拉多大学博尔德分校心理与神经科学系招生导师页](https://www.colorado.edu/psych-neuro/node/2303)<br><sub>美国 ｜ 社会科学/心理·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>行为神经科学页面写 11 月 15 日（另一版本为 11 月 20 日），以研究生院为准</sub> | ❔ | **要求：** 国际申请费 $80；GRE 不作要求；非英语教育背景需 TOEFL 550 或同等成绩<br>系内招生导师名单可据此直接联系 PI。资助以助教（TA）和助研（RA）为主，含学费减免；生活津贴金额未查到，向导师确认。 |
 | [阿利坎特神经科学研究所（IN, CSIC-UMH）岗位页](https://in.umh-csic.es/en/the-institute/job-offers/)<br><sub>西班牙 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>🟢 开放申请</sub><br><sub>页面列出的博士岗位截止为 2026 年 10 月 31 日（两个 4 年全职资助博士岗位）；MRI 研究项目的博后/博士岗位截止为 2026 年 11 月 1 日。以各岗位页为准。</sub> | ❔ | 页面列出 IN 各课题组岗位，包括 4 年全职资助博士岗位与 MRI 研究项目的博后/博士岗位。页面未提及 PID2025 项目或 10 月 1 日截止。 |
 | [马普人类认知与脑科学研究所招聘页](https://www.mpg.de/5706671/Jobs)<br><sub>德国 ｜ 神经/认知·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub><br><sub>各职位截止不一，以具体广告为准</sub> | ❔ | **要求：** 需相关领域博士学位；英文申请；岗位合同与截止以各广告为准<br>马普人类认知与脑科学研究所的博士与博后岗位，多为带薪合同。招聘页未逐条说明国际申请人资格。 |
 | [马普经验美学研究所（无统一研究生院，按课题组招生）](https://www.mpg.de/6971390)<br><sub>德国 ｜ 神经/认知·人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 该所无统一研究生院，博士生多按课题组招聘，需直接联系课题组长；岗位常见 TVöD E13 带薪合同，截止以各岗位招聘页为准。 |
@@ -245,11 +248,12 @@
 
 <a id="faculty-aggregators"></a>
 
-## 导师招生汇总（指向个人主页的集合）（2）
+## 导师招生汇总（指向个人主页的集合）（3）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Harvard BWH The Brain 实验室职位页](https://thebrain.bwh.harvard.edu/positions.html)<br><sub>美国 ｜ 神经/认知·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ❔ | Harvard BWH The Brain（Bulyk 实验室）职位页（页面注明 2026 年 10 月 14 日更新）列出两个博后岗位、一个技术研究助理岗位及研究生、本科生机会。博后要求 2025 或 2026 年获得博士学位或 2026 年秋季毕业，页面称提供有竞争力的薪资与福利；截止日期页面未写明。 |
+| [心理学系“本季招生导师”名单（例：Northwestern Fall 2027）](https://psychology.northwestern.edu/documents/grad-program-info/faculty-recruiting-fall-2027-admission-rev.pdf)<br><sub>美国 ｜ 社会科学/心理·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>2027 秋季招生导师名单已公布；各导师接受咨询与截止时间不同，以名单为准。</sub> | ❔ | 美国心理学系普遍每年公布本季招生导师名单（Cincinnati、Houston 等也有），可逐校监控。 |
 | [科罗拉多大学博尔德分校心理与神经科学系 · 在招导师名单](https://www.colorado.edu/psych-neuro/graduate-programs/application-information/faculty-recruiting-graduate-students)<br><sub>美国 ｜ 社会科学/心理·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>📋 持续更新</sub><br><sub>页面称申请截止为 11 月 15 日或 20 日（两处说法不一），以研究生院当期为准；行为神经科学项目为直接录取进实验室，需先联系导师</sub> | ❔ | 系里公布在招研究生的导师名单，可据此筛选研究方向再直接联系导师；资助与国际生政策看系内原文。 |
 
 <a id="tools"></a>

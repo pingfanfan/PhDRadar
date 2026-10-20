@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 商科/管理 信源（131）
+# 商科/管理 信源（134）
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 3](business.md#aggregators) · [各国学术招聘门户与机构职位页 2](business.md#national-portals) · [高校旗舰奖学金与资助检索 34](business.md#university-schemes) · [结构化博士项目与研究机构 81](business.md#doctoral-programs) · [博士后奖学金与项目 2](business.md#postdoc-fellowships) · [企业与基金会 Fellowship 4](business.md#fellowships) · [学科专属信源 2](business.md#discipline) · [科研实习与“曲线入口” 2](business.md#pathways) · [个人信源与社交渠道 1](business.md#people-channels)
+**按分类跳转：** [综合聚合平台 3](business.md#aggregators) · [各国学术招聘门户与机构职位页 2](business.md#national-portals) · [高校旗舰奖学金与资助检索 36](business.md#university-schemes) · [结构化博士项目与研究机构 82](business.md#doctoral-programs) · [博士后奖学金与项目 2](business.md#postdoc-fellowships) · [企业与基金会 Fellowship 4](business.md#fellowships) · [学科专属信源 2](business.md#discipline) · [科研实习与“曲线入口” 2](business.md#pathways) · [个人信源与社交渠道 1](business.md#people-channels)
 
 <a id="aggregators"></a>
 
@@ -31,7 +31,7 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（34）
+## 高校旗舰奖学金与资助检索（36）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -51,6 +51,7 @@
 | [亨利商学院会计博士奖学金](https://www.henley.ac.uk/study/phds/scholarships/phd-accounting-scholarship)<br><sub>英国 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-06-11**<br><sub>⏸ 本轮已截止</sub><br><sub>页面称 2026/27 轮申请截止为 2026 年 6 月 11 日（已过）；页面未见 2027 轮公告。</sub> | ✅ | **要求：** 优秀本科学位及硕士学位（最好 distinction），研究计划书，两封推荐信<br>页面称提供多项 PhD 奖学金：学费（英国申请者 £4,700，非英国申请者 £23,500）、三年津贴每年 £20,780，另有每年 £3,500 教学津贴和会议经费。2026/27 轮已截止，页面未见下一轮公告。 |
 | [剑桥 Judge 商学院 PhD 资助说明](https://jbs.cam.ac.uk/phd-research-masters/financing-your-phd)<br><sub>英国 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-01-06**<br><sub>🟢 开放申请</sub><br><sub>页面列出 PhD 申请者（考虑剑桥信托资助）的资助截止日为 2027-01-06。</sub> | ❔ | **要求：** 一般经 MRes 或 MPhil 入学；国际生需申请剑桥信托等外部资助，并在申请表中勾选资助<br>剑桥 Judge 商学院 PhD 资助说明：PhD 与 MRes 学生将被考虑提供前 3 年全额学费与生活津贴，第 4 年视进度而定。国际生需申请剑桥信托等外部资助，截止日期以官网核实。 |
 | [博科尼大学博士（管理学）奖学金入口](https://www.unibocconi.it/en/news-topic/phd)<br><sub>意大利 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 博科尼博士项目：2025-26 批次征集期为 4 月 15 日至 5 月 15 日（Tech European Foundation 资助的管理方向 2 个名额）；2027 批次未找到公告。需被博科尼博士项目录取，奖学金国籍与学历条件以官方公告为准。 |
+| [卡内基梅隆 Tepper 商学院博士资助](https://www.cmu.edu/tepper/programs/phd/tuition-and-financial-aid)<br><sub>美国 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>📋 持续更新</sub> | ❔ | 页面称录取博士通常获 Mellon 奖学金（全额学费减免）及生活津贴，津贴保障前五年。国际生资格条件页面未写明，故标 check。 |
 | [哥本哈根大学社会科学学院 Industrial PhD](https://socialsciences.ku.dk/research/industrialphd/)<br><sub>丹麦 ｜ 社会科学/心理·经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>最高 DKK 17,000/月（丹麦创新基金会对学生薪资的补贴上限）</sub> | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 页面为社会科学学院工业博士（Industrial PhD）说明页：该计划培养能理解企业研发业务的研究人员，学位在本院攻读。申请截止与方式见丹麦创新基金会（Innovation Fund Denmark）页面，本页不列具体课题。 |
 | [奥兹耶金大学（Özyeğin）商学院博士全额奖学金](https://library.ozyegin.edu.tr/en/phd-business/scholarship-opportunities)<br><sub>土耳其 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>2026-27 页面数据：月津贴分三档 70,000 / 58,000 / 45,000 土耳其里拉</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 秋季申请截止 7 月 17 日（已过）；2027 轮未公布</sub> | ❔ | 商学院博士通常获 100% 学费减免并发放分档月津贴，另有住宿或交通补贴、私人医疗保险等；2025-26 数字可能已变。2026 秋季申请截止 7 月 17 日已过，下一轮待学院公告。国际生资格未见官方明确声明，保持 check。 |
 | [岭南大学 MPhil/PhD 项目列表](https://www.ln.edu.hk/rpg/admission/list-of-programmes)<br><sub>中国香港 ｜ 社会科学/心理·人文/语言·经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 页面列出文科、商科、数据科学、社会科学及环境科学、可持续发展等跨学科方向的 MPhil/PhD 学位项目，并列有与内地高校合办的双博士学位项目。资助与内地学生申请条件未在抓取的正文中显示。 |
@@ -67,12 +68,13 @@
 | [西北大学 Kellogg 商学院博士学费与资助页](https://www.kellogg.northwestern.edu/admissions/phd-admissions/phd-tuition-and-fin-aid/)<br><sub>美国 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ✅ | 页面称录取的 Kellogg 博士生均获为期五年的资助（含津贴、助教或助研岗位、学费奖学金与学生医保），并称国际学生同样获得资助；金额以 Kellogg 当期为准。 |
 | [达尔豪斯管理学院博士资助入口](https://www.dal.ca/faculty/management/programs/scholarships-and-bursaries/application-required-graduate/phd-funding-support.html)<br><sub>加拿大 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>CAD 42,000/年（基础额，最多 3 年）</sub> | **2026-02-01**<br><sub>⏸ 本轮已截止</sub> | ✅ | 管理学院页面列出 Killam Predoctoral Award，面向加拿大与国际学生，2026 年由该学院授予一项，申请截止为 2026 年 2 月 1 日。页面未写金额与年限，原有金额数字未在本页核实。 |
 | [香港大学商学院（FBE）博士入学与财务支持说明](https://phd.hkubs.hku.hk/admissions/admission-application-and-tuition-fee/1000)<br><sub>中国香港 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>通用轨入学奖学金 2027–28 学年 HK$49,500（按学术成绩自动评定，无需单独申请）；PGS 基本档每月 HK$19,135（自 2025 年 9 月 1 日）。</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>2027/28 入学主轮截止 2026 年 12 月 1 日（页面）；HKPFS 初步申请截止为同日中午 12 点（香港时间）。</sub> | ❔ | **要求：** 博士申请按学院要求；入学奖学金无需单独申请<br>HKU 商学院博士申请与财务支持页：2027/28 入学主轮 2026 年 12 月 1 日截止。设通用轨与 TPg 轨入学奖学金（自动评定，无需单独申请），另有 PGS 及校级 HKPFS / Presidential 奖学金。 |
+| [香港理工大学工商学院研究型博士](https://www.polyu.edu.hk/fb/study/rpg/research-programmes/?sc_lang=sc)<br><sub>中国香港 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>每月不低于 HK$19,220（研究助理津贴，年份未明确）</sub> | **2027-02-28**<br><sub>🟢 开放申请</sub><br><sub>2027 年 9 月入学截止 2027 年 2 月 28 日；HKPFS 12 月 1 日截止，学院建议优先申请</sub> | ❔ | **要求：** 需硕士学位；名额非常有限；国际生资格以学院说明为准<br>香港理工大学工商学院研究型博士，含研究助理津贴及学费奖学金（以学院页面为准）。2027 年 9 月入学截止 2027 年 2 月 28 日；名额有限，学院建议优先申请 HKPFS。 |
 | [马耳他大学 Alfred Pisani 旅游管理博士奖学金](https://www.um.edu.mt/newspoint/noticesopportunities/2026/thealfredpisaniphdscholarshipinsustainabletourism.html)<br><sub>马耳他 ｜ 经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>每年 EUR 13,500 生活津贴，最长 3 年，另最多 EUR 4,500 用于发表与会议；不含年度注册费</sub> | **2026-06-02**<br><sub>⏸ 本轮已截止</sub><br><sub>截止已由 5 月 26 日延至 2026 年 6 月 2 日，现已过；下一轮在官网公告中查找</sub> | ❔ | **要求：** 需满足马耳他大学博士入学要求；材料含申请信、CV 和证书扫描件<br>最多 3 年的全日制旅游方向博士奖学金；金额未经官方公告核实，不要引用第三方数字。 |
 | [高丽大学商学院博士奖学金](https://biz.korea.ac.kr/eng/msphd/scholarship.html)<br><sub>韩国 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>博士候选人奖学金 40 万韩元/月（最长 6 学期）；研究奖学金 130 万韩元/月（最长 10 学期）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>以商学院每年公告为准</sub> | ❔ | **要求：** 摘要未说明国际生资格，以官网为准<br>高丽大学商学院英文博士项目，两档奖学金金额据学院官网页面；国际生资格与选拔方式需以官网为准。 |
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（81）
+## 结构化博士项目与研究机构（82）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -131,6 +133,7 @@
 | [斯坦福商学院（GSB）博士财务资助](https://www.gsb.stanford.edu/programs/phd/financial-aid)<br><sub>美国 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$59,500/年（2026–27，学费与生活津贴，全额资助）</sub> | — | ❔ | 官网称录取博士生均获全额财务资助（学费加生活津贴），通常五年；申请一般 12 月前后截止，金额以官网为准。 |
 | [斯德哥尔摩经济学院（SSE）PhD 项目（经济与商管）](https://www.hhs.se/en/research/departments/de/phd-program/)<br><sub>瑞典 ｜ 经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>SEK 26,000/月（入学时，免税，后续年份可能调整）</sub> | —<br><sub>2027 年 8 月开学；官网搜索结果中未见申请截止日，以 SSE 官网为准</sub> | ❔ | **要求：** 需一个大学学位，至少三学期经济学课程，并有一年硕士水平学习或同等经历；全日制、英文授课<br>五年全日制英文博士，官方称录取者全程获资助（月津贴 SEK 26,000 起，免税），2027 年 8 月开学；申请截止未核实。 |
 | [斯德哥尔摩经济学院（SSE）博士奖学金（经济学）](https://www.hhs.se/education/phd/economics/)<br><sub>瑞典 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>SEK 26,000/月（免税）</sub> | 未公布<br><sub>🔜 即将开放</sub><br><sub>下一批入学为 2027 年 8 月；申请截止日未确认</sub> | ❔ | 官网称录取博士生可获免税月度奖学金 26,000 瑞典克朗，全部录取者获得资助保障，无学费，项目五年。下一批入学为 2027 年 8 月。旧版 FAQ 的 15,000/16,000 克朗数字已过时；官网未明确国籍条款，国际生资格需确认。 |
+| [普渡大学 Daniels 商学院博士资助](https://www.business.purdue.edu/phd/funding.php)<br><sub>美国 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>最低 $28,000/年（部分 2023 年项目文件为 $25,000）</sub> | 未公布<br><sub>📋 持续更新</sub> | ❔ | 官网称第 1–5 年学费减免、部分医保、$2,100 资助金，各系可追加资助；最低津贴以官网 $28,000 为准。页面未说明国际生是否同等待遇，申请前向博士办公室确认。各系截止日期另定。 |
 | [曼彻斯特 Alliance 商学院 PhD（2027 入学）](https://www.manchester.ac.uk/study/postgraduate-research/programmes/list/19379/phd-business-and-management/)<br><sub>英国 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£21,805/年（2026 入学 UKRI 生活津贴，以官网为准）</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>大学内部资助竞争（含 AMBS 博士奖学金）截止 2026-12-01；自筹或已有外部资助者的申请截止为 2027-06-30（2027 年 9 月入学）</sub> | ✅ | **要求：** 英国一等或 2:1 荣誉学位或同等；申请时需勾选竞争项目<br>页面为 2027 年入学的 PhD Business and Management 项目。国际学生（含欧盟）全日制学费为每年 £22,500；大学内部资助竞争截止 2026 年 12 月 1 日。 |
 | [曼海姆商学院运营管理全奖博士项目](https://www.bwl.uni-mannheim.de/news/fully-funded-phd-program-in-operations-management/)<br><sub>德国 ｜ 商科/管理·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面所见 2026-03-31 截止已过；2027 入学轮次未确认</sub> | ❔ | 运营管理方向全额资助博士（职位制）。页面所见截止 2026-03-31 已过，关注 2027 入学下一轮。 |
 | [曼海姆大学 GESS 全奖博士项目公告](https://www.bwl.uni-mannheim.de/news/launch-your-research-career-in-fall-2026-apply-to-our-fully-funded-doctoral-programs/)<br><sub>德国 ｜ 经济/金融·商科/管理·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-03-31**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 秋季：早截止 2027-01-15，终截止 2027-03-31；2026 秋季两个截止已过</sub> | ❔ | 经济、商科、社会科学方向全额资助博士项目，国际生比例较高；2026 秋季两个截止日已过，关注 2027 年公告。 |

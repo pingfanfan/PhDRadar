@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 个人信源与社交渠道（144）
+# 个人信源与社交渠道（148）
 
 导师主页、学术社交媒体等“非公开招聘”信息，很多名额从不挂到平台上。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [德国（DE） 30](people-channels.md#r-de) · [美国（US） 17](people-channels.md#r-us) · [瑞士（CH） 13](people-channels.md#r-ch) · [英国（UK） 13](people-channels.md#r-uk) · [全球（GLOBAL） 10](people-channels.md#r-global) · [加拿大（CA） 6](people-channels.md#r-ca) · [日本（JP） 6](people-channels.md#r-jp) · [中国内地（CN） 4](people-channels.md#r-cn) · [欧盟/欧洲（EU） 4](people-channels.md#r-eu) · [中国香港（HK） 4](people-channels.md#r-hk) · [韩国（KR） 4](people-channels.md#r-kr) · [荷兰（NL） 4](people-channels.md#r-nl) · [新加坡（SG） 4](people-channels.md#r-sg) · [澳大利亚（AU） 3](people-channels.md#r-au) · [比利时（BE） 3](people-channels.md#r-be) · [印度（IN） 3](people-channels.md#r-in) · [意大利（IT） 3](people-channels.md#r-it) · [捷克（CZ） 2](people-channels.md#r-cz) · [丹麦（DK） 2](people-channels.md#r-dk) · [西班牙（ES） 2](people-channels.md#r-es) · [奥地利（AT） 1](people-channels.md#r-at) · [保加利亚（BG） 1](people-channels.md#r-bg) · [法国（FR） 1](people-channels.md#r-fr) · [爱尔兰（IE） 1](people-channels.md#r-ie) · [以色列（IL） 1](people-channels.md#r-il) · [波兰（PL） 1](people-channels.md#r-pl) · [瑞典（SE） 1](people-channels.md#r-se)
+**按地区跳转：** [德国（DE） 30](people-channels.md#r-de) · [美国（US） 21](people-channels.md#r-us) · [瑞士（CH） 13](people-channels.md#r-ch) · [英国（UK） 13](people-channels.md#r-uk) · [全球（GLOBAL） 10](people-channels.md#r-global) · [加拿大（CA） 6](people-channels.md#r-ca) · [日本（JP） 6](people-channels.md#r-jp) · [中国内地（CN） 4](people-channels.md#r-cn) · [欧盟/欧洲（EU） 4](people-channels.md#r-eu) · [中国香港（HK） 4](people-channels.md#r-hk) · [韩国（KR） 4](people-channels.md#r-kr) · [荷兰（NL） 4](people-channels.md#r-nl) · [新加坡（SG） 4](people-channels.md#r-sg) · [澳大利亚（AU） 3](people-channels.md#r-au) · [比利时（BE） 3](people-channels.md#r-be) · [印度（IN） 3](people-channels.md#r-in) · [意大利（IT） 3](people-channels.md#r-it) · [捷克（CZ） 2](people-channels.md#r-cz) · [丹麦（DK） 2](people-channels.md#r-dk) · [西班牙（ES） 2](people-channels.md#r-es) · [奥地利（AT） 1](people-channels.md#r-at) · [保加利亚（BG） 1](people-channels.md#r-bg) · [法国（FR） 1](people-channels.md#r-fr) · [爱尔兰（IE） 1](people-channels.md#r-ie) · [以色列（IL） 1](people-channels.md#r-il) · [波兰（PL） 1](people-channels.md#r-pl) · [瑞典（SE） 1](people-channels.md#r-se)
 
 <a id="r-de"></a>
 
@@ -49,13 +49,14 @@
 
 <a id="r-us"></a>
 
-## 美国（US）（17）
+## 美国（US）（21）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [ASU · Wang 课题组（工程学院）· 潜在博士生](https://faculty.engineering.asu.edu/spwang/openings/)<br><sub>美国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | 实验室 Prospective Students 页面给出招生说明。资助以导师回复为准,邮件需附上与课题相关的研究背景。 |
 | [Bahal 课题组 · 康涅狄格大学 · 博士/博后招生（2027 春）](https://bahal.lab.uconn.edu/positionsopen/)<br><sub>美国 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | —<br><sub>🟢 开放申请</sub> | ❔ | **要求：** 需先联系 PI 并发送 CV；页面称目标背景为生物有机化学、化学生物学、药物化学或生物医学工程；国际生与资助条件未写明。<br>页面称实验室正招 1 名博士生和 1 名博后，入学时间为 2027 年春季，建议尽早联系 Bahal 教授；资助与国际生资格页面未写明。 |
 | [Cornell · Angelina Wang 课题组 · 博士招生 2027](https://angelina-wang.infosci.cornell.edu/contact.html)<br><sub>美国 ｜ 人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>Cornell 信息科学 PhD 2026 秋截止为 2025 年 12 月 1 日；2027 秋轮按惯例约 2026 年 12 月 1 日截止（推断，未在官网确认）。</sub> | ❔ | **要求：** 需通过 Cornell 信息科学或计算机博士项目正式申请并注明导师；旧版要求含成绩单、推荐信三封、个人陈述及申请费，以当年官网为准。<br>导师称 2027 年秋季招收博士生,需通过 Cornell 信息科学或计算机博士项目正式申请并注明导师。页面未写资助细节,申请前确认。 |
+| [Karimi 课题组 · 普渡大学机械工程 · 计算力学与科学机器学习 博士招生](https://engineering.purdue.edu/karimi/people)<br><sub>美国 ｜ 工程·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 秋名额已截止；2027 秋是否招生未确认，可邮件询问</sub> | ❔ | **要求：** 发送邮件至 karimi2@purdue.edu，附 CV、研究兴趣陈述和 3 位推荐人<br>Karimi 课题组页面称有多个资助博士名额（2026 秋，已截止）。申请需发邮件附 CV、研究兴趣陈述和推荐人；2027 秋是否招生需询问课题组。 |
 | [Moon 课题组 · 爱荷华大学 · 博士招生（2026 秋 / 2027 春）](https://moon.lab.uiowa.edu/opportunities)<br><sub>美国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>🟢 开放申请</sub><br><sub>页面列出 2026 秋与 2027 春两个入学批次（2026 秋已开始，2027 春为下一批次）；未见正式截止日，请发送 CV 至 jukrin-moon@uiowa.edu 咨询。</sub> | ❔ | 页面列出 2026 秋和 2027 春两个入学批次的博士招生信息；资助与国际生条件需进入页面核实。 |
 | [Notre Dame · Brain Map 实验室 · 神经科学博士 2027](https://brainmaplab.nd.edu/join-the-lab/)<br><sub>美国 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>2027 年秋入学，实验室页面标注申请截止 2026 年 12 月 1 日；资助方式需向 PI 确认</sub> | ❔ | **要求：** 需通过心理系（认知、脑与行为方向）博士项目申请；先邮件联系 PI 并附 CV 与研究兴趣陈述<br>招收 1–2 名 2027 年秋季入学博士(心理系项目),据页面申请截止 2026 年 12 月 1 日;需邮件给 PI 附 CV 与研究兴趣陈述。资助方式需向 PI 确认。 |
 | [Purdue · IDEAL 实验室 · 潜在博士生招生说明](https://engineering.purdue.edu/IDEAL/opportunities/)<br><sub>美国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>🟢 开放申请</sub><br><sub>页面列出 2027 年春季与秋季入学的招生，正式截止以 Purdue 研究生院为准。</sub> | ❔ | **要求：** 邮件主题须写“[Prospective PhD Student]”，附 CV 与研究兴趣陈述；需按 Purdue 研究生院要求提交正式申请。<br>页面要求邮件主题写“[Prospective PhD Student]”并附 CV 与研究兴趣陈述。具体资助以导师回复为准。 |
@@ -69,6 +70,9 @@
 | [匹兹堡大学 Pitts 实验室交通/土木研究生助研岗](https://engineering.pitt.edu/subsites/Labs/pitts-lab/graduate-research-assistants/)<br><sub>美国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 滚动<br><sub>🔄 随时可申</sub><br><sub>页面无统一截止日期；目前未列出具体空缺，需直接联系实验室</sub> | ✅ | **要求：** 页面未列明具体学历与语言要求；以官网为准<br>页面称 PITTS 定期为土木/交通方向硕博学生提供经济资助，并特别鼓励国际学生申请；页面未列出具体空缺，申请流程见学院招生页。 |
 | [康奈尔 Kilian Weinberger · 博士招生说明](https://www.cs.cornell.edu/~kilian/students/prospective/prospective.html)<br><sub>美国 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ❔ | **要求：** 须通过康奈尔 CS 博士项目统一申请（不另向导师递交）；学历与语言要求以 CS 博士招生页为准；未找到国籍限制<br>页面说明录取学生获全额资助（学费、12 个月工资、医保）；须通过康奈尔 CS PhD 项目申请。 |
 | [普渡大学 Jianguo Wang 组博士招生页](https://cs.purdue.edu/homes/csjgwang/hiring)<br><sub>美国 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>页面面向 2027 年春季/秋季入学招生，未列出具体截止日</sub> | ❔ | **要求：** CS 相关硕士或本科；需提交 TOEFL 成绩；须同时递交 Purdue CS 正式申请并将 Wang 列为首选导师；先发邮件至 csjgwang@purdue.edu<br>数据库与数据系统方向导师招生页，页面针对 2026 秋季，下一轮需关注更新；资助以导师通知为准，邮件联系。 |
+| [普渡大学 uSMART 研究中心在招博士岗](https://engineering.purdue.edu/uSMART/Position-openings)<br><sub>美国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | 🟡 | 2026 年秋季 3 个资助博士岗（可持续交通、交通系统建模、可持续韧性供应链），其中 1 个因 NSF 资助限美国公民/永久居民，其余页面未限国籍。联系 Hua Cai 教授申请，页面未给截止日期，2027 批次未见公告。 |
+| [普渡大学统计系职位页（含 stat-jobs 邮件列表）](https://www.stat.purdue.edu/resources/jobs/)<br><sub>美国 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 普渡统计系招聘入口。搜索未能确认普渡统计系存在可订阅的 stat-jobs 邮件列表（该名称见于北卡州立 statjobs 站点），原说明不成立，勿当作订阅入口。统计系博士后岗位多在 careers.purdue.edu 或第三方站发布，搜索可见的多为 2025 年旧帖，投递前需核对截止日。 |
+| [科罗拉多大学博尔德分校心理与神经科学系招生导师页](https://www.colorado.edu/psych-neuro/node/2303)<br><sub>美国 ｜ 社会科学/心理·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>行为神经科学页面写 11 月 15 日（另一版本为 11 月 20 日），以研究生院为准</sub> | ❔ | **要求：** 国际申请费 $80；GRE 不作要求；非英语教育背景需 TOEFL 550 或同等成绩<br>系内招生导师名单可据此直接联系 PI。资助以助教（TA）和助研（RA）为主，含学费减免；生活津贴金额未查到，向导师确认。 |
 | [肯塔基大学 IRA 机器人实验室博士岗位](https://bxie.engr.uky.edu/open-positions)<br><sub>美国 ｜ 工程·计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>页面未见截止日期，以页面申请表为准</sub> | ❔ | 肯塔基大学 Biyun Xie 教授 IRA 实验室官网称有 3 个 2026 年秋季入学的全额资助博士岗（机器人、自动化、控制或机器学习背景），通过页面申请表申请；旧版页面为邮件投递且名额不同，以导师确认为准。国际生资格页面未明确。 |
 
 <a id="r-ch"></a>

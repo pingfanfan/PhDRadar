@@ -157,6 +157,14 @@ LISTS = [  # (学校, 列表页或站点地图, 岗位链接正则：(路径, �
     ("INRAE", "https://jobs.inrae.fr/sitemap.xml", r"(?#全部)<loc>https://jobs\.inrae\.fr(/(ot-\d+))</loc>", "https://jobs.inrae.fr", "FR"),
     ("University of Bologna", "https://bandi.unibo.it/ricerca/incarichi-post-doc/RSS",
      r'rdf:about="https://bandi\.unibo\.it(/s/apos7/([a-z0-9-]+))"', "https://bandi.unibo.it", "IT"),
+    ("Technische Universität Berlin", "https://www.jobs.tu-berlin.de/stellenausschreibungen.atom",
+     r'<link rel="alternate" type="text/html" href="https://www\.jobs\.tu-berlin\.de(/stellenausschreibungen/(\d+))"/>',
+     "https://www.jobs.tu-berlin.de", "DE"),
+    # Varbi 的瑞典以外客户（瑞典各校由 collect_postings.py 的 varbi 适配器采集）
+    ("Aalborg University", "https://aau.varbi.com/en/", r'href="https://aau\.varbi\.com(/en/what:job/jobID:(\d+)/)"',
+     "https://aau.varbi.com", "DK"),
+    ("University of Oulu", "https://oulunyliopisto.varbi.com/en/",
+     r'href="https://oulunyliopisto\.varbi\.com(/en/what:job/jobID:(\d+)/)"', "https://oulunyliopisto.varbi.com", "FI"),
     # prospective.ch 公开接口（JSON 里的 directlink 指向学校招聘页）
     ("University of Zurich", "https://ohws.prospective.ch/public/v1/medium/1002007/jobs?lang=en&offset=0&limit=500",
      r'"directlink"\s*:\s*"https://jobs\.uzh\.ch(/job-vacancies/([a-z0-9-]+/[0-9a-f-]+))"', "https://jobs.uzh.ch", "CH"),
@@ -538,12 +546,13 @@ def ls_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
             for block in blocks:
                 for m in re.finditer(link_re, block):
                     label = m.group(0) if feed else cp.page_text(block)
-                    if feed and "<item" in raw:  # RSS：看所在条目的标题
-                        item = raw.rfind("<item", 0, m.start())
-                        label = raw[item:m.end()] if item >= 0 else label
+                    if feed and ("<item" in raw or "<entry" in raw):  # RSS / Atom：看所在条目（含标题）
+                        tag = "item" if "<item" in raw else "entry"
+                        item, end = raw.rfind(f"<{tag}", 0, m.start()), raw.find(f"</{tag}>", m.end())
+                        label = raw[item:end] if item >= 0 else label
                     if "(?#全部)" in link_re or SLUG.search(label):
                         host = (prefix + m.group(1)).split("//")[1].split("/")[0].split(".")
-                        jid = f"{host[1] if len(host) > 2 else host[0]}-{m.group(2)}"
+                        jid = f"{host[1] if len(host) > 2 else host[0]}-{m.group(2).replace('/', '-')}"
                         out.setdefault(jid, prefix + htmllib.unescape(m.group(1)))
                         _LS[jid] = (school, country, title_re[0] if title_re else r"<h1[^>]*>(.*?)</h1>")
     return list(out.items())

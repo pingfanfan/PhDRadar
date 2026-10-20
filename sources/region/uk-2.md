@@ -2,19 +2,41 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 英国（UK） 信源（569） · 第 2/2 页
+# 英国（UK） 信源（577） · 第 2/2 页
 
-所有标注了地区 UK 的信源，共 569 条。
+所有标注了地区 UK 的信源，共 577 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 28](uk.md#aggregators) · [各国学术招聘门户与机构职位页 9](uk.md#national-portals) · [政府与国家级奖学金 11](uk.md#gov-scholarships) · [高校旗舰奖学金与资助检索 261](uk.md#university-schemes) · [结构化博士项目与研究机构 177](uk.md#doctoral-programs) · [博士后奖学金与项目 26](uk.md#postdoc-fellowships) · [企业与基金会 Fellowship 15](uk.md#fellowships) · [学科专属信源 22](uk-2.md#discipline) · [科研实习与“曲线入口” 5](uk-2.md#pathways) · [个人信源与社交渠道 13](uk-2.md#people-channels) · [导师招生帖（社交平台个人发布） 2](uk-2.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 28](uk.md#aggregators) · [各国学术招聘门户与机构职位页 9](uk.md#national-portals) · [政府与国家级奖学金 11](uk.md#gov-scholarships) · [高校旗舰奖学金与资助检索 265](uk.md#university-schemes) · [结构化博士项目与研究机构 180](uk.md#doctoral-programs) · [博士后奖学金与项目 26](uk.md#postdoc-fellowships) · [企业与基金会 Fellowship 15](uk-2.md#fellowships) · [学科专属信源 23](uk-2.md#discipline) · [科研实习与“曲线入口” 5](uk-2.md#pathways) · [个人信源与社交渠道 13](uk-2.md#people-channels) · [导师招生帖（社交平台个人发布） 2](uk-2.md#recruiting-posts)
 
 **分页：** [第 1 页](uk.md) · [第 2 页](uk-2.md)
 
+<a id="fellowships"></a>
+
+## 企业与基金会 Fellowship（15）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Arm-ECS 全额资助博士岗位（南安普顿大学）](https://www.arm.ecs.soton.ac.uk/jobs/phd-student-southampton/)<br><sub>英国 ｜ 计算机·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>至少 £15,609/年（仅限英国申请者）</sub> | 滚动<br><sub>🔄 随时可申</sub> | ⛔ | **要求：** 需电子工程或相关学科优秀学历（页面未说明学位层级）<br>Arm 与南安普顿大学 ECS 合作的 3.5 年全额资助博士（EPSRC 资金），部分时间在剑桥 Arm Research；招生页写明仅面向英国申请者，对大陆学生不开放。页面称需在 5 月初前提交，未标注年份，以官网为准。 |
+| [Census Fellowship in the Reception of Antiquity（洪堡大学 / 沃伯格 / Hertziana）](https://www.biblhertz.it/3807501/Census-of-the-Reception-of-Antique-Art-and-Architecture)<br><sub>意大利·德国·英国 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 仅生活费<br><sub>约 €1,500/月（博士阶段，6 个月）+ €500 差旅补助</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026-01-31 轮已截止；2027 轮未见公告</sub> | ❔ | 页面（2026 年）称该项目已更名为 Census of the Reception of Antique Art and Architecture，由洪堡大学、Bibliotheca Hertziana 与 Warburg Institute 共同资助。页面未列出金额与申请截止。 |
+| [Euan MacDonald Centre MND 博士 studentship（爱丁堡/邓迪/圣安德鲁斯）](https://euanmacdonaldcentre.org/phd-scheme)<br><sub>英国 ｜ 医学/公卫·生物/生命科学·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026 入学轮已关闭；2027 入学轮申请预计 2026 年秋季开放（日期待定），时间表示 2027 年 1 月中下旬截止（近似，可能变动）。</sub> | ✅ | **要求：** 官网称无国籍限制（Everyone is eligible to apply）；博士入学的学历与英语要求以各大学网站为准。<br>官网称该博士奖学金含 UKRI 同等生活津贴（3.5 年）、大学学费，以及每年 £10K、共三年的差旅与耗材额度。2026 入学轮已关闭。 |
+| [G-Research 研究生奖学金（牛津数学所）](https://www.maths.ox.ac.uk/node/70633)<br><sub>英国 ｜ 数学/统计·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>官网称每年 1 个名额；本轮截止未确认，以当年公告为准</sub> | 🟡 | **要求：** 官网称面向英国及欧盟居民，杰出国际录取者可能例外；需获牛津数学所 DPhil 录取<br>牛津数学所与 G-Research 合作的 DPhil 全额奖学金，偏机器学习与数学交叉，名额很少。官方页称奖学金面向英国及欧盟常住居民，仅对杰出的国际录取者可能例外，因此中国大陆学生机会有限。覆盖全部学费并提供 4 年 UKRI 标准生活费。名额数量在不同页面说法不一，以当年公告为准。 |
+| [Jane Street Graduate Research Fellowship](https://www.janestreet.com/join-jane-street/programs-and-events/graduate-research-fellowship/)<br><sub>美国·加拿大·英国·欧盟/欧洲·澳大利亚·新西兰 ｜ 计算机·数学/统计·物理/天文·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$50,000（生活费，需纳税）+ 全额学费</sub> | **2026-11-13**<br><sub>🟢 开放申请</sub><br><sub>2027 轮申请截止 2026 年 11 月 13 日（AoE），推荐信截止 2026 年 12 月 1 日</sub> | ✅ | **要求：** 须就读于美国、加拿大、英国、欧洲、澳大利亚、新西兰或新加坡的研究型博士项目（学科：电气工程与计算机、数学、物理、统计）；入学时需至少剩余一年学程，或已确定 2027 年秋入读博士<br>官方称国际生可申请；2027 轮申请截止 2026 年 11 月 13 日（AoE），含全额学费与 50,000 美元生活费，2026 年 10 月仍在招。 |
+| [Martingale 基金会 2027 入学奖学金（数学科学与人工智能）](https://martingale.foundation/scholarships/)<br><sub>英国 ｜ 人工智能·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-10-18**<br><sub>🟢 开放申请</sub><br><sub>2026 年 10 月 18 日 23:59（BST）截止，仅通过官网在线表格申请。</sub> | ⛔ | **要求：** 官网称仅考虑在合作大学符合英国 Home 学费身份的申请人；需一等或上二等学位（或在读预期）；2027 年 9 月入学。<br>资助 2027 年入学、在合作高校就读的数学与 AI 方向硕博生；资格多对英国本地学生开放，建议先核实资格再投入申请。 |
+| [UKRI Early Independence BBSRC Fellowships（full stage）](https://www.ukri.org/opportunity/early-independence-bbsrc-fellowships-full-stage/)<br><sub>英国 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2026-09-23**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮全申请截止约为 9 月 23 日（各来源说法不一），现已过截止；大纲截止为 4 月 22 日；2027 轮时间未见公布。</sub> | ✅ | **要求：** 仅大纲阶段入围并经所在机构遴选者可提交全申请；资助为期 3 年，BBSRC 承担 80% 全部经济成本。<br>英国生物科学早期独立研究员资助；仅 outline 通过者可进入 full stage，下一轮时间以 UKRI 页面为准。 |
+| [XuPHOS Oxford Fund（牛津化学 DPhil 奖学金）](https://chem.web.ox.ac.uk/node/4203751)<br><sub>英国 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | **要求：** 未找到公开申请条件，资格以当年细则为准<br>捐赠设立，未来十年至少资助 8 个化学 DPhil，并提供在中国企业实习的机会；资格以当年细则为准。 |
+| [华威统计系 G-Research 博士奖学金](https://warwick.ac.uk/fac/sci/statistics/postgrad/centre-for-doctoral-training/fees-funding/g-research)<br><sub>英国 ｜ 数学/统计·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£21,830/年（27/28 UKRI 标准，固定 4 年）</sub> | 滚动<br><sub>🔄 随时可申</sub><br><sub>页面写明申请截止为 Ongoing（持续接受），录取结果日期为 2027 年 4 月；2027 年仅 1 个名额。</sub> | ⛔ | 华威统计系 G-Research 博士奖学金（官网）：2027 年 1 个名额，资助学费、生活津贴及多项津贴，偏好机器学习与 AI 建模方向；页面注明 Fee status 为 Home（Home 学费身份）。 |
+| [布里斯托大学 Sasakawa 日本研究博士奖学金（年度项目）](https://www.bristol.ac.uk/students/support/finances/scholarships/sasakawa/)<br><sub>英国 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>£15,000（一年）</sub> | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>每年 1 月底提交 PhD 申请；2026/27 轮已截止，2027/28 轮待官网公布。</sub> | ✅ | **要求：** 仅限布里斯托大学 PhD；论文主要方向须为日本，且限人文、社科类项目；不接受已在读博士生或 MPhil 升博申请；须在博士申请表中注明申请 Sasakawa。页面称不限国籍。<br>日本研究方向一年期资助，非全奖，可作补充资金。 |
+| [爱丁堡 McIntosh-Patterson 历史语言学博士奖学金](https://www.amc.lel.ed.ac.uk/students/prizes/the-mcintosh-patterson-schollarship/)<br><sub>英国 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£15,500/年（生活费），共三年</sub> | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>页面称目前不接受申请，未给出下一轮时间</sub> | ✅ | **要求：** 研究计划需为历史语言学且可由爱丁堡语言学教师指导；需优秀本科学位，硕士优先<br>历史语言学全额博士奖学金，提供全额学费（英国、欧盟或海外）及每年 £15,500 生活费，为期三年；页面列出过往入学年份为 2015、2019、2021、2024 年，目前不接受申请。 |
+| [英国与爱尔兰鱼类学会（FSBI）博士奖学金](https://fsbi.org.uk/phd-studentships-fsbi-3/)<br><sub>英国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>🔜 即将开放</sub><br><sub>每年 1 月 30 日 17:00 GMT 截止（页面写 30 January），逾期不予考虑；以当年公告为准。</sub> | ❔ | **要求：** 需学士学位（一等或上二等荣誉，生物相关学科）；申请时须为 FSBI 付费会员；课题须与鱼类相关<br>页面称学会每年面向会员开放一次 PhD 奖学金竞争，资助四年全额（含学费与生活费）。申请人须为付费会员并计划在英国高校工作（页面列为基本条件）；不符合英国居住条件的学生须自行补足学费差额。 |
+| [英国心脏基金会四年制博士项目](https://www.bhf.org.uk/for-professionals/information-for-researchers/what-we-fund/4-year-phd-programme)<br><sub>英国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>⏸ 本轮已截止</sub> | 🟡 | BHF 四年制博士：国际生政策因校而异，部分项目全额资助国际生，部分项目国际生需自付英国与海外学费差额；需一级或高二荣誉学位。各校截止不同。 |
+| [英国药理学会（BPS）博士资助计划](https://www.bps.ac.uk/news/article/phd-funding-programme/)<br><sub>英国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>£21,805/年（英国校外，2026/27）；伦敦 £23,805/年，另有每年最多 £10,000 研究经费</sub> | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>2027 年奖学金截止日为 2026 年 10 月 31 日（BPS 官网）；单次申请，由学会决定 AJ Clark 或 Sir David Jack 奖学金</sub> | ❔ | **要求：** 需药理学或相关学科学位，并拟在英国或爱尔兰认可机构攻读博士；主导师须为（或将成为）学会会员；页面称国际学生可以申请，但系主任须说明国际学费如何覆盖。<br>英国药理学会博士奖学金（AJ Clark Studentship 或 Sir David Jack Scholarship，共用一次申请）：2027 年奖学金申请截止 2026 年 10 月 31 日。2026/27 生活津贴校外 £21,805、伦敦 £23,805，另有研究经费每年最多 £10,000。 |
+| [谢菲尔德哈勒姆大学 · AHRC 博士景观奖（建筑方向）](https://www.shu.ac.uk/research/degrees/phd-scholarships/ahrc-doctoral-landscape-awards)<br><sub>英国 ｜ 人文/语言·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-10-22**<br><sub>🟢 开放申请</sub><br><sub>页面称截止为英国时间 2026 年 10 月 22 日（周四）17:00，逾期不受理；面试预计 2026 年 11 月中下旬。</sub> | ⛔ | **要求：** 仅限 Home 申请人；研究须属于 AHRC 资助范围（艺术与人文）；需满足对应博士课程入学要求；已开始博士学习者不符合条件。<br>谢菲尔德哈勒姆大学 AHRC 博士景观奖，提供 1 个博士名额，2027 年 2 月开始。页面将名额限定于艺术与设计（Fine Art and Design）方向，未提及建筑方向；学费与标准博士津贴（2025/26 学年 £22,152）已由页面列出。 |
+
 <a id="discipline"></a>
 
-## 学科专属信源（22）
+## 学科专属信源（23）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -37,6 +59,7 @@
 | [牛津数论博士/博后/初级研究员汇总公告列表](https://lists.maths.ox.ac.uk/mailman/listinfo/number-theory-junior-announce)<br><sub>英国 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 汇总牛津多个数论子列表，可同时看到 DPhil、PDRA 与初级研究员岗位；归档仅成员可见。 |
 | [牛津随机分析组博后公告列表（sa-postdoc-announce）](https://lists.maths.ox.ac.uk/mailman/listinfo/sa-postdoc-announce)<br><sub>英国 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 随机分析组博后职位公告邮件列表；归档仅成员可见，需订阅后才能看到。 |
 | [皇家霍洛威经济学 SEDarc 奖学金](https://www.royalholloway.ac.uk/research-and-education/subjects/economics/studying-here/postgraduate-research-phds/sedarc-economics)<br><sub>英国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£21,237/年（官网所列 2024/25 费率），3.5 年</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 SEDarc 校内截止 2026-01-15 已关闭；2027 轮以官网为准</sub> | ✅ | SEDarc 经济学博士奖学金（3.5 年），官网称资助包含生活津贴以及英国和国际学生的学费；竞争性名额。申请需先申请 RHUL 经济学博士项目，研究计划经内部评审并匹配导师后再准备 SEDarc 资助申请。 |
+| [皮尔布赖特研究所博士岗位与学生资助](https://pirbright.ac.uk/careers-and-learning/education-programme/postgraduate-studentships)<br><sub>英国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>各博士岗位单独公告截止</sub> | 🟡 | **要求：** 国际生需证明可支付海外学费与本国学费的差额，或获得其他奖学金；以各岗位公告为准<br>英国动物病毒与疫苗研究所博士岗位，UKRI/BBSRC 资助的名额按本国学费费率提供；国际生可申请，但需自筹学费差额或获得其他奖学金。2027 年轮次待公告。 |
 | [英国 Economics Network 经济学职位板](https://economicsnetwork.ac.uk/jobs)<br><sub>英国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 列出英国及国际经济学研究与教学岗位，适合查博后，按截止日期过滤并核实工作签证要求。 |
 | [萨塞克斯大学发展研究所（IDS）博士项目](https://www.sussex.ac.uk/study/phd/degrees/development-studies-ids-phd)<br><sub>英国 ｜ 社会科学/心理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>2027 年入学 SEDarc 截止日期未查到，以 Sussex 官网为准</sub> | ❔ | 萨塞克斯大学 IDS 发展研究博士项目，海外全日制学费 2025/26 为 £22,575/年（IDS 页面）。ESRC SEDarc 2027 年 9 月入学奖学金截止日期待官方公布。中国大陆学生资格待核实。 |
 | [诺森比亚大学太阳与空间物理全奖博士机会](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/solar-and-space-physics/fully-funded-phd-opportunities/)<br><sub>英国 ｜ 物理/天文·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£20,780/年（2025/26 参考值）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 6 月 1 日截止（已过），2027 轮待公告</sub> | ✅ | STFC 资助的太阳与空间物理全奖博士名额，含学费与生活津贴（2025/26 年 £20,780/年）。2026 轮 6 月 1 日已截止；国际生学费差额需按校方规定确认，关注官网下一轮公告。 |

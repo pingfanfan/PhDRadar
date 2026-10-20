@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 丹麦（DK） 信源（59）
+# 丹麦（DK） 信源（60）
 
-所有标注了地区 DK 的信源，共 59 条。
+所有标注了地区 DK 的信源，共 60 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 6](dk.md#aggregators) · [各国学术招聘门户与机构职位页 4](dk.md#national-portals) · [高校旗舰奖学金与资助检索 10](dk.md#university-schemes) · [结构化博士项目与研究机构 16](dk.md#doctoral-programs) · [博士后奖学金与项目 8](dk.md#postdoc-fellowships) · [企业与基金会 Fellowship 5](dk.md#fellowships) · [学科专属信源 1](dk.md#discipline) · [科研实习与“曲线入口” 3](dk.md#pathways) · [个人信源与社交渠道 2](dk.md#people-channels) · [导师招生帖（社交平台个人发布） 4](dk.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 6](dk.md#aggregators) · [各国学术招聘门户与机构职位页 4](dk.md#national-portals) · [高校旗舰奖学金与资助检索 10](dk.md#university-schemes) · [结构化博士项目与研究机构 17](dk.md#doctoral-programs) · [博士后奖学金与项目 8](dk.md#postdoc-fellowships) · [企业与基金会 Fellowship 5](dk.md#fellowships) · [学科专属信源 1](dk.md#discipline) · [科研实习与“曲线入口” 3](dk.md#pathways) · [个人信源与社交渠道 2](dk.md#people-channels) · [导师招生帖（社交平台个人发布） 4](dk.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
@@ -53,7 +53,7 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（16）
+## 结构化博士项目与研究机构（17）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -61,6 +61,7 @@
 | [DTU 健康技术学院博士学校（PhD School at DTU Health Tech）](https://www.healthtech.dtu.dk/education/phd-school)<br><sub>丹麦 ｜ 工程·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止不同；如 AI-augmented sense-making in digital phenotyping 岗位截止 2026 年 10 月 18 日</sub> | ❔ | **要求：** 各岗位要求不同，如部分岗位要求两年制（120 ECTS）硕士或同等学历；语言与其他条件以各岗位公告为准<br>DTU 健康技术学院博士学校入口，列出多个在招博士岗位。岗位以带薪全职博士职位形式发布，资格与截止以各岗位公告为准。国际生资格未在官方页面核实。 |
 | [DTU 博士申请指南](https://www.dtu.dk/english/education/phd/applicant)<br><sub>丹麦 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 滚动<br><sub>📋 持续更新</sub><br><sub>页面说明 DTU 博士全年可入学，岗位截止日期各不相同。</sub> | ❔ | **要求：** 需硕士或同等学历，以 DTU 指南为准。<br>DTU 博士项目在 vacant positions 列表发布，能源方向岗位可在 DTU Energy 岗位页查看。 |
 | [Pioneer Centre for AI（丹麦）博士招聘](https://www.aicentre.dk/phd-openings/)<br><sub>丹麦 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>🔜 即将开放</sub><br><sub>页面未列具体截止日；DARA 每年两轮（页面称 2 times per year），以 DARA 官网为准</sub> | ❔ | Pioneer Centre for AI 教员定期发布 PhD 岗位（页面称为全职、12 个月有薪职位）；另列出愿意考虑 DARA 申请者的教员，需先以项目构想直接联系，且须在截止日前至少 1 个月达成同意。 |
+| [VILLUM 量子科学与技术研究生项目（UCPH/DTU）博士奖学金](https://qistgrad.ku.dk/apply-for-fellowship/)<br><sub>丹麦 ｜ 物理/天文·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>🔜 即将开放</sub><br><sub>官网申请页称下一轮预计 2026 年 11 月中旬开放；截止日期以当轮公告为准。</sub> | ❔ | **要求：** 可持 BA/BSc 或 MA/MSc 学位，不能已持博士学位；课题由申请人与选拔委员会及未来导师共同确定；页面未见国籍限制，需向项目确认。<br>由哥本哈根大学与丹麦技术大学共同运营、VILLUM 基金会资助的量子科技博士奖学金，每轮名额有限；合同期与薪酬以官方公告为准。申请需完成官网问卷并上传 PDF。 |
 | [丹麦技术大学（DTU）产业博士说明页](https://dtu.dk/english/education/phd/intro/industrial-phd)<br><sub>丹麦 ｜ 工程·计算机·人工智能·生物/生命科学·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 滚动<br><sub>🔄 随时可申</sub><br><sub>项目制，按企业合作项目招收，无统一截止；可随时入学申请，实际学习以学术批准为准</sub> | ❔ | **要求：** 通常需两年制硕士（120 ECTS）或同等学历；英语流利；需企业合作伙伴与 DTU 导师共同立项并先获研究生院有条件批准；非北欧/欧盟/EEA/瑞士公民需办理丹麦工作与居留许可（约 2.5 个月）<br>产业博士受雇于企业并在 DTU 注册，为期 3 年，由丹麦创新基金支持。非北欧/欧盟/EEA/瑞士公民需在入职前办理丹麦工作与居留许可，办证约需 2.5 个月，需提前规划。候选人须先获得大学研究生院的有条件批准。 |
 | [丹麦神经科学学院博士项目 NAD](https://www.fens.org/news-activities/fens-and-societies-calendar/training-event/application-deadline-phd-programme-at-neuroscience-academy-denmark-nad)<br><sub>丹麦 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 批次 8 月 10 日已截止；2027 轮未见公布，以 NAD 官网为准</sub> | ❔ | **要求：** 需丹麦 120 ECTS 硕士或同等国际硕士学位；国际生资格以 NAD 官网为准<br>丹麦四所大学联合的神经科学博士项目，约 16 个全额资助名额，1 年预博士加 3 年博士课题。2026 批次 8 月 10 日已截止，下一轮约 2027 年 8 月，国际生资格需到 NAD 官网确认。 |
 | [哥本哈根大学 BRIC 博士与博后项目](https://www.bric.ku.dk/phd-and-postdoc-programme)<br><sub>丹麦 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 未公布<br><sub>📋 持续更新</sub><br><sub>2027 年入学的轮次未检索到公告；以 bric.ku.dk、discover.ku.dk 为准</sub> | ❔ | **要求：** 2025–26 BRIC 博士职位面向全球申请者，需生命科学或医学相关硕士及实验室经验（以当年职位为准）<br>BRIC（哥本哈根大学生物技术研究与创新中心）博士项目 MoMeD、DISCOVER 面向国际生，博后有 LEAD（MSCA 共资助）项目。搜索到的招生资料多为 2019–2020 年旧页，当前以官网为准。 |

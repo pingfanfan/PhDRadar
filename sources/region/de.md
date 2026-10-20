@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 德国（DE） 信源（421）
+# 德国（DE） 信源（422）
 
-所有标注了地区 DE 的信源，共 421 条。
+所有标注了地区 DE 的信源，共 422 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 20](de.md#aggregators) · [各国学术招聘门户与机构职位页 14](de.md#national-portals) · [政府与国家级奖学金 9](de.md#gov-scholarships) · [高校旗舰奖学金与资助检索 58](de.md#university-schemes) · [结构化博士项目与研究机构 187](de.md#doctoral-programs) · [博士后奖学金与项目 42](de.md#postdoc-fellowships) · [企业与基金会 Fellowship 34](de.md#fellowships) · [学科专属信源 13](de.md#discipline) · [科研实习与“曲线入口” 2](de.md#pathways) · [个人信源与社交渠道 30](de.md#people-channels) · [导师招生帖（社交平台个人发布） 9](de.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 2](de.md#faculty-aggregators) · [选校与申请辅助工具 1](de.md#tools)
+**按分类跳转：** [综合聚合平台 20](de.md#aggregators) · [各国学术招聘门户与机构职位页 14](de.md#national-portals) · [政府与国家级奖学金 9](de.md#gov-scholarships) · [高校旗舰奖学金与资助检索 59](de.md#university-schemes) · [结构化博士项目与研究机构 187](de.md#doctoral-programs) · [博士后奖学金与项目 42](de.md#postdoc-fellowships) · [企业与基金会 Fellowship 34](de.md#fellowships) · [学科专属信源 13](de.md#discipline) · [科研实习与“曲线入口” 2](de.md#pathways) · [个人信源与社交渠道 30](de.md#people-channels) · [导师招生帖（社交平台个人发布） 9](de.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 2](de.md#faculty-aggregators) · [选校与申请辅助工具 1](de.md#tools)
 
 <a id="aggregators"></a>
 
@@ -76,7 +76,7 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（58）
+## 高校旗舰奖学金与资助检索（59）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -130,6 +130,7 @@
 | [法兰克福歌德大学 GRADE 国际博士生完成奖学金](https://aktuelles.uni-frankfurt.de/en/?p=87352)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>€1,000/月（共 3 个月）</sub> | 各项目不同<br><sub>📋 持续更新</sub> | ✅ | **要求：** 外国国籍的歌德大学在读博士生，论文需在 2026 年或 2027 年初完成<br>法兰克福 GRADE 面向论文收尾阶段的外国国籍在读博士生，属过渡性短期资助而非全奖：每名 1,000 欧元/月，共 3 个月，名额约 5 个。2026 批次截止 2026 年 3 月 29 日（已过），2027 批次预计春季开放，需到官网核实。 |
 | [波恩 Hausdorff 数学中心岗位与机会页](https://www.mathematics.uni-bonn.de/hcm/opportunities/home)<br><sub>德国 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>博后申请截止 2026-11-01；页面显示博士岗位申请截止 2026-12-06</sub> | ❔ | 页面列出当前博士岗位（申请截止 2026 年 12 月 6 日）与博后岗位（申请截止 2026 年 11 月 1 日）。Bonn Junior Fellows 的申请截止 2026 年 9 月 27 日已过。 |
 | [波恩大学数学系 · 博士后岗位](https://www.mathematics.uni-bonn.de/hcm/opportunities/jobs/postdoc-positions)<br><sub>德国 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>页面显示当前公告（MathJobs）申请截止 2026 年 11 月 1 日</sub> | ❔ | 页面为 HCM 博后岗位列表，当前公告通过 MathJobs 申请，申请截止 2026 年 11 月 1 日。 |
+| [波茨坦大学职位公告总页](https://uni-potsdam.de/en/arbeiten-an-der-up/application/job-advertisements)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 以各岗位公告为准，博士岗位通常需相关硕士学位<br>统一职位公告入口，博士岗位多为 3–4 年期限的半岗或全岗。截止日期与国际生资格需以各岗位公告为准。 |
 | [海德堡大学博士生总入口（资助与申请指南）](https://www.uni-heidelberg.de/de/doktorandinnen)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各结构化项目单独截止；DAAD-GSSP 最新轮次未核实</sub> | ❔ | **要求：** LGF 奖学金需先被海德堡大学录取为博士生；DAAD-GSSP 要求硕士或同等学历、成绩优秀<br>海德堡大学博士生总入口。州研究生奖学金（LGF）个人资助 2026 年因州预算削减不设征集，2027 年未公布；结构化项目各自设截止，DAAD-GSSP 最新轮次未核实，请以官网为准。 |
 | [海德堡马普天文研究所（MPIA）IMPRS 页](https://imprs-hd.mpg.de/3192/Application)<br><sub>德国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-11-03**<br><sub>🔜 即将开放</sub> | ❔ | 海德堡 IMPRS 天文与宇宙物理项目，每年秋季入学，名额有限。2027 年秋入学的截止时间为 2026 年 11 月 3 日 14:00（CET），申请系统即将开放；国籍与学位要求以官网为准。 |
 | [科隆德国体育大学（DSHS）博士项目与内部博士奖学金](https://www.dshs-koeln.de/en/research/academic-career/phd-programme)<br><sub>德国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€1,650/月（有子女 €1,850），3 年，可延长 6 个月</sub> | 滚动<br><sub>📋 持续更新</sub><br><sub>页面称博士项目入学申请一般可随时提交；内部博士奖学金的截止以学院公告为准。</sub> | ❔ | **要求：** 需已获得可攻读博士的学位；国际生资格页面未写明<br>内部博士奖学金名额很少（约 2 个）；运动科学背景可联系学院学术职业办公室。 |

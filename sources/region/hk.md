@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 中国香港（HK） 信源（165）
+# 中国香港（HK） 信源（171）
 
-所有标注了地区 HK 的信源，共 165 条。
+所有标注了地区 HK 的信源，共 171 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 4](hk.md#aggregators) · [各国学术招聘门户与机构职位页 1](hk.md#national-portals) · [政府与国家级奖学金 2](hk.md#gov-scholarships) · [高校旗舰奖学金与资助检索 61](hk.md#university-schemes) · [结构化博士项目与研究机构 58](hk.md#doctoral-programs) · [博士后奖学金与项目 10](hk.md#postdoc-fellowships) · [企业与基金会 Fellowship 3](hk.md#fellowships) · [学科专属信源 2](hk.md#discipline) · [科研实习与“曲线入口” 1](hk.md#pathways) · [个人信源与社交渠道 4](hk.md#people-channels) · [导师招生帖（社交平台个人发布） 19](hk.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 4](hk.md#aggregators) · [各国学术招聘门户与机构职位页 1](hk.md#national-portals) · [政府与国家级奖学金 2](hk.md#gov-scholarships) · [高校旗舰奖学金与资助检索 64](hk.md#university-schemes) · [结构化博士项目与研究机构 60](hk.md#doctoral-programs) · [博士后奖学金与项目 10](hk.md#postdoc-fellowships) · [企业与基金会 Fellowship 3](hk.md#fellowships) · [学科专属信源 2](hk.md#discipline) · [科研实习与“曲线入口” 1](hk.md#pathways) · [个人信源与社交渠道 4](hk.md#people-channels) · [导师招生帖（社交平台个人发布） 20](hk.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
@@ -40,7 +40,7 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（61）
+## 高校旗舰奖学金与资助检索（64）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -62,7 +62,8 @@
 | [HKUST 物理学系研究生奖学金与奖项页](https://physics.hkust.edu.hk/node/1582)<br><sub>中国香港 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明<br><sub>HK$229,620/年（PGS，2026/27，学系页面）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各轮次截止不同，以官网公告为准。</sub> | ❔ | **要求：** 全日制博士或 MPhil 学生；PGS 受资助者需按学系安排担任助教（TA）<br>学系页面列出 PGS 为 2025/26 年度 HK$229,620/年，最长 4 年，受资助者须担任助教。检索中未找到官方页面明确说明国际生资格（页面仅称面向全日制博士生，按学术优异与适合性评定），故标 check；请以学校当年规定为准。 |
 | [HKUST 研究生奖学金（Postgraduate Studentship）](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees)<br><sub>中国香港 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>HK$229,620/年（PhD 最长 4 年）</sub> | — | ✅ | 港科大研究型研究生奖学金（PhD 最长 4 年），申请时在线勾选；另有 RedBird 入学奖等，金额以研究生院当年页面为准。 |
 | [PolyU 土木及环境工程 2027 入学研究生申请页](https://www.polyu.edu.hk/study/pg/rpg/2027/cee)<br><sub>中国香港 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>HK$344,400/年（HKPFS 2027/28 轮，经 HKPFS 申请时）</sub> | **2027-05-31**<br><sub>🟢 开放申请</sub><br><sub>2027 年 5 月入学截止 2027-01-31；9 月入学截止 2027-05-31；HKPFS 全申请截止 2026-12-01。HKPFS 不限国籍；系内 studentship 名额未核实，需先与导师沟通。</sub> | ✅ | **要求：** 硕士或一等荣誉本科。<br>土木及环境工程博士申请入口，可同时关注学校 HKPFS 与 studentship；资助金额本页未核实。 |
-| [PolyU 机械工程 2027 入学研究生申请页](https://www.polyu.edu.hk/study/pg/rpg/2027/me)<br><sub>中国香港 ｜ 工程</sub> | 博士 | 力度未注明 | **2027-01-31**<br><sub>🟢 开放申请</sub><br><sub>2027 年 1 月入学截止 2026-09-30（已过）；5 月入学截止 2027-01-31；9 月入学截止 2027-05-31</sub> | ❔ | **要求：** 硕士或一等荣誉本科。<br>机械工程博士申请入口，2027 年入学窗口分 1 月、5 月、9 月三轮；资助需结合学校 studentship 与 HKPFS 规则查看。 |
+| [PolyU 建筑与环境学院（CEE）研究型博士的学费与奖学金页（PRPgS）](https://www.polyu.edu.hk/cee/prospective-students/research-postgraduate-programme/fees-and-scholarships/)<br><sub>中国香港 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>HK$19,220/月（已确认注册的博士生 HK$19,660/月，2026-27 轮）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>HKPFS 与 PolyU 申请主轮通常在每年 12 月初截止；当年日期以官网为准。</sub> | ❔ | **要求：** 需通过 PolyU 博士入学审核并满足英语要求；PRPgS 通过统一入学申请，无需单独提交；国际生适用范围与金额以官网为准。<br>PolyU 建筑与环境学院研究型博士学费与奖学金页列出 2026-27 年 PRPgS 月补助，并另有会议资助 HK$25,000。通过统一入学申请即自动考虑，无需单独提交；学费与适用范围以官网当年页面为准。 |
+| [PolyU 机械工程 2027 入学研究生申请页](https://www.polyu.edu.hk/study/pg/rpg/2027/me)<br><sub>中国香港 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2027-05-31**<br><sub>🟢 开放申请</sub><br><sub>2027 年 1 月入学截止 2026-09-30（已过）；5 月入学截止 2027-01-31；9 月入学截止 2027-05-31</sub> | ❔ | **要求：** 硕士或一等荣誉本科。<br>机械工程博士申请入口，2027 年入学窗口分 1 月、5 月、9 月三轮；资助需结合学校 studentship 与 HKPFS 规则查看。 |
 | [PolyU 理学院研究生奖学金](https://www.polyu.edu.hk/fsn/study/scholarships/postgraduate-studentship-and-scholarship/)<br><sub>中国香港 ｜ 化学/材料·生物/生命科学·物理/天文·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>研究 studentship 随学院与学年发布，以研究生院为准</sub> | ✅ | **要求：** 全日制 PhD/MPhil 学生，按学术成绩择优；国际生资格以学校页面为准<br>理大理学院 studentship 页面；同时申请 HKPFS 时由学校分配到一种资助。 |
 | [PolyU 研究型研究生总入口](https://www.polyu.edu.hk/research/postgraduate-research/)<br><sub>中国香港 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>HKPFS 申请通常为每年 9 月初至 12 月初；2026 轮以 RGC/学校公告为准</sub> | ✅ | **要求：** 需满足博士入学与英语要求；境外申请人自动考虑 IPFS（官网列示 HK$230,640/年）<br>理大研究生教育总入口：页面说明提供全日制博士与哲学硕士的 Research Studentships，按学术成绩授予；本页未提及 IPFS 或 HK$230,640。 |
 | [PolyU 研究生院奖学金与资助计划总览](https://www.polyu.edu.hk/en/gs/prospective-students/fellowship-scholarship-schemes/)<br><sub>中国香港 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各计划每年调整，以当年页面为准</sub> | ❔ | **要求：** 需申请为全日制新入学博士生；各计划的学术与英语要求以当年页面为准<br>汇总理大全日制博士的 HKPFS、Kuok Group Fellowship、PPPFS、IPFS 与 PRPgS 等入口；页面所示 HKPFS 年津贴 HK$344,400。各计划的名额、金额与国际生资格以当年页面为准，cn_eligible 保持 check。 |
@@ -104,11 +105,13 @@
 | [香港浸会大学中国语言与文学系博士项目（含 HKPFS）](https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-chinese-language-and-literature)<br><sub>中国香港 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>2027 年 9 月入学：常规轮截止 2026 年 12 月 1 日，清算轮截止 2027 年 4 月 15 日（以页面所列为准）。</sub> | ✅ | **要求：** 硕士学位（成绩优秀）或一等荣誉学士；HKPFS 对所有国籍开放。<br>页面列出 2027 年 9 月入学，常规轮截止 2026 年 12 月 1 日。HKPFS 申请人同时参与常规研究生项目评审。 |
 | [香港浸会大学研究生院 HKPFS 说明页](https://gs.hkbu.edu.hk/page/detail/281)<br><sub>中国香港 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>HK$344,400/年（另有会议与研究差旅 HK$14,400/年）</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>RGC 初步申请截止 2026-12-01 中午 12:00（HKT）；大学端申请截止另行公布（一份指南称同日 23:59），以官方通知为准。</sub> | ❔ | **要求：** 需先在 RGC HKPFS 电子系统提交初步申请获取编号，再向大学投递正式申请；需获 HKBU 博士项目录取；国际生资格以官方指南为准。<br>页面（AY2027/28）列出 HKPFS 待遇：精英学者奖前三年每年 HK$40,000；研究生津贴每月 HK$28,700，四年共 HK$344,400；学费四年全免；会议与研究差旅每年 HK$14,400（最多三年）。 |
 | [香港理工大学 HKPFS 校内申请入口（2027/28 入学）](https://www.polyu.edu.hk/gs/hkpfs/)<br><sub>中国香港 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>HK$344,400/年</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>截止 2026-12-01（以官网为准）。</sub> | ✅ | **要求：** 全日制新入学博士生，不限国籍；已在读博士者不可申请。<br>理大 HKPFS 校内入口，说明申请步骤：先向 RGC 取得 HKPFS 参考号，再完成理大全日制博士申请；2027/28 轮已开放。 |
+| [香港理工大学健康或社会工作专业博士补充奖学金](https://www.polyu.edu.hk/fhss/study/prospective-students/top-up-scholarship)<br><sub>中国香港 ｜ 社会科学/心理·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>HK$12,000/月（整个正常学制期间）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>需先获博士录取再申请，截止随录取轮次变化</sub> | ⛔ | **要求：** 仅限本地（local）博士生；需社会工作或健康专业资格；需先获得 PolyU 博士录取。<br>官网称该补充奖学金仅面向本地博士生，按字面不向内地学生开放；每月 HK$12,000，整个正常学制期间，需保持优秀表现并获得 PolyU 月津贴。截止随录取轮次，官网未见具体日期。 |
+| [香港理工大学工商学院研究型博士](https://www.polyu.edu.hk/fb/study/rpg/research-programmes/?sc_lang=sc)<br><sub>中国香港 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>每月不低于 HK$19,220（研究助理津贴，年份未明确）</sub> | **2027-02-28**<br><sub>🟢 开放申请</sub><br><sub>2027 年 9 月入学截止 2027 年 2 月 28 日；HKPFS 12 月 1 日截止，学院建议优先申请</sub> | ❔ | **要求：** 需硕士学位；名额非常有限；国际生资格以学院说明为准<br>香港理工大学工商学院研究型博士，含研究助理津贴及学费奖学金（以学院页面为准）。2027 年 9 月入学截止 2027 年 2 月 28 日；名额有限，学院建议优先申请 HKPFS。 |
 | [香港科技大学物理系研究生奖学金与奖项](https://physics.hkust.edu.hk/index.php/programs/postgraduate-programs/scholarship-award)<br><sub>中国香港 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>PGS：HK$229,620/年（2026/27，需担任助教）；HKPFS：HK$28,700/月</sub> | —<br><sub>📋 持续更新</sub><br><sub>奖学金列表页，截止以学校当年时间表为准；HKUST 研究生院页称 2025/26 与 2026/27 的 HKPFS 申请均已关闭</sub> | ❔ | **要求：** 全日制博士或 MPhil 入学；学业成绩与英语能力为评选标准；HKPFS 需符合政府计划条件，以当年公告为准<br>港科大物理系博士生奖学金页面，列出学系层面的博士资助。截止以学校当年时间表为准。 |
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（58）
+## 结构化博士项目与研究机构（60）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -122,6 +125,7 @@
 | [HKUST 生物医学工程博士入学要求](https://bmphd.hkust.edu.hk/admissions/admission-requirements)<br><sub>中国香港 ｜ 医学/公卫·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>HK$19,135/月（研究生奖学金 PGS，2025–26 数据）</sub> | 未公布 | ❔ | 列出 HKUST 生物医学工程博士项目的入学要求，资助说明见同系 financial-assistance 页面。 |
 | [HKUST 经济学哲学博士（MPhil/PhD in Economics）项目页](https://prog-crs.hkust.edu.hk/pgprog/2026-27/mphil-phd-econ/)<br><sub>中国香港 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>📋 持续更新</sub><br><sub>2027 秋季入学截止日期未确认，以 HKUST 官网为准。</sub> | ❔ | **要求：** 本科直入需 4 年（已有相关研究型硕士可 3 年）；需满意的 GMAT 或 GRE 成绩（持港科大商学院 MPhil 者可豁免）；英语需满足页面所列 TOEFL/IELTS 标准。<br>页面为 2026/27 经济学哲学博士项目目录，设 MPhil 与 PhD 两个学位，PhD 全日制 3 年（有相关研究型硕士）或 4 年（无），采用北美研究型模式。 |
 | [HKUST 计算机科学与工程系研究生早期招募](https://cse.hkust.edu.hk/pg/admissions/recruiting/)<br><sub>中国香港 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明<br><sub>约 HKD 229,620/年（CSE 招募页信息）</sub> | **2026-08-15**<br><sub>⏸ 本轮已截止</sub><br><sub>Fall 2027 入学早期招募申请已于 2026 年 8 月 15 日截止（页面称早期申请报名已关闭）；面试自 2026 年 9 月开始，结果于面试后 1–2 周通知。</sub> | ✅ | **要求：** 面向优秀本科生及硕士毕业生；全日制 MPhil/PhD 4–5 年；HKPFS 申请窗口约 2026 年 12 月起<br>港科大 CSE 为 Fall 2027 入学的早期面试招募，研究生奖学金约 HKD 229,620/年。早期批次之后，申请人仍可通过常规渠道递交申请。 |
+| [PolyU 健康技术与信息学系研究型研究生项目](https://www.polyu.edu.hk/hti/study/programmes/research-postgraduate-studies/research-postgraduate-programme/)<br><sub>中国香港 ｜ 医学/公卫·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>HK$344,400/年（2027/28 HKPFS 标准，据研究生院）</sub> | **2026-12-01**<br><sub>⏸ 本轮已截止</sub><br><sub>2027/28 学年 HKPFS 申请截止 2026 年 12 月 1 日（RGC 初审 12:00，PolyU 全申请 23:59）；系页面仍显示 2026/27 周期，以研究生院为准。</sub> | ❔ | **要求：** 需先在 RGC HKPFS 系统提交初审并获取参考号，再在 PolyU 系统提交全申请；学历与语言要求以校方页面为准。<br>该系研究型博士可通过 HKPFS 获资助，申请人需按校方要求提交 RGC 参考号。 |
 | [中大商学院 MPhil-PhD 项目说明](https://grad.bschool.cuhk.edu.hk/programmes/)<br><sub>中国香港 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | —<br><sub>🔄 随时可申</sub> | ✅ | 页面列出 6 个 MPhil/PhD 研究领域，项目为全日制。页面提及研究生助学金（PGS）；本地全日制学生享有学费减免，2026/27 学费为 HK$47,000。 |
 | [浸大历史系研究型研究生页面](https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-history)<br><sub>中国香港 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>2027 年 9 月入学：完整申请截止为 2026 年 12 月 1 日；清拣轮标注 2027 年 4 月 15 日，页面注明 12 月 1 日之后的申请视名额可能转入 2028 年 9 月入学。</sub> | ❔ | 浸大研究生院历史系哲学博士/硕士项目页，HKPFS 申请者同时考虑常规研究生名额。2027 年 9 月入学的完整申请截止为 2026 年 12 月 1 日；页面未说明国际生资格。 |
 | [浸大政府与国际研究学系博士项目](https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-government-and-international-studies)<br><sub>中国香港 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>HK$26,600/月（HKPFS，4 年）</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>2027 年 9 月入学：常规轮截止 2026 年 12 月 1 日，清算轮截止 2027 年 4 月 15 日（以页面所列为准）。</sub> | ✅ | **要求：** 学术成绩优秀、研究能力及沟通领导能力；通过 HKBU 研究生院申请<br>页面列出 2027 年 9 月入学，常规轮截止 2026 年 12 月 1 日。页面未载明津贴金额，原条目中的 HK$26,600 无法由本页核实。 |
@@ -164,6 +168,7 @@
 | [香港理工大学 2027 入学研究生课程（商学院各系博士方向）](https://www.polyu.edu.hk/study/pg/rpg/2027/af)<br><sub>中国香港 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>页面显示 2027 年入学的 PhD 申请截止 28-Feb-2027；各系截止不同，管理与市场营销系为 31 Jan 2027，物流与海事研究系为 30 Apr 2027。</sub> | ✅ | **要求：** 需提交 GMAT 或 GRE 成绩（五年内有效，仅限考试中心考试）；需两位学术推荐人、CV、个人陈述、标准格式研究计划书及学历证明。<br>页面写明优先考虑同时申请香港博士研究生奖学金计划（HKPFS）的申请者，HKPFS 申请期每年九月初开始、十二月一日结束；本页未列出具体资助金额。 |
 | [香港理工大学 EEE 研究型博士（2027 入学）](https://www.polyu.edu.hk/study/pg/rpg/2027/eee)<br><sub>中国香港 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>HK$344,400/年（HKPFS 2027/28）</sub> | **2027-05-31**<br><sub>🟢 开放申请</sub><br><sub>HKPFS 须于 2026-12-01 12:00 前在 RGC 系统取得参考号，并于当日 23:59 前提交校内申请；一般申请截止 2027-05-31。</sub> | ✅ | 理大 EEE 系 2027 入学研究型博士页；可同时申请 HKPFS（2026-12-01 截止，需先取得 RGC 参考号）与校内奖学金。 |
 | [香港理工大学 人文学院 PhD 招生手册（2027/28 届）](https://www.polyu.edu.hk/fh/docdrive/PhD_Leaflet_2026.pdf)<br><sub>中国香港 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>HK$344,400/年（PolyU 公布的 HKPFS 资助包）</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>手册对应 2027/28 届招生；具体截止与 HKPFS 提名时间需查阅手册或学院官网。</sub> | ❔ | 理大 2027/28 届 HKPFS：RGC 系统与 PolyU 系统申请均于 2026 年 12 月 1 日截止（9 月 1 日起开放）。需先在 RGC 系统获取参考号，再到 PolyU 申请 2027/28 第一学期。 |
+| [香港理工大学 内地高校博士联合指导计划](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/joint-phd-supervision-scheme-with-leading-universities/)<br><sub>中国香港·中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>HK$19,220/月（2025/26 学年 RA 月薪）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>各版页面时间说法不一（4 月或 2 月截止）；2027 轮以当期通知为准</sub> | 🟡 | **要求：** 仅限认可名校的全日制博士生；需母校主导师同意，并与理大导师共同撰写研究计划，12 个月 RA<br>原内地高校版页面仍可检索到（另有内地高校版本，申请通常 12 月开放、次年 2 月截止）。本条指向名校版计划：仅限认可名校的全日制博士生，需母校主导师同意，到理大担任 12 个月研究助理。2025/26 学年 RA 月薪 HK$19,220，名校版通常每年 1 月开放、4 月截止，以当期通知为准。 |
 | [香港理工大学双博士学位项目（Dual PhD）](https://polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/dual-phd-degree-programmes)<br><sub>中国香港·中国内地·澳大利亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>HK$18,470/月（在理大期间，每年审议）</sub> | 未公布<br><sub>各合作项目时间不同，以理大研究生院公告为准。</sub> | ❔ | **要求：** 需经合作高校（如武汉大学、浙江大学、UTS、QUT）推荐或录取，全日制博士；学费依去向由合作协议决定，以理大研究生院为准。<br>同时获理大与合作高校博士学位的双学位项目；津贴与学费以理大研究生院页面为准。 |
 | [香港理工大学康复科学系研究型博士（2027 入学）](https://www.polyu.edu.hk/study/pg/rpg/2027/rs)<br><sub>中国香港 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2027-04-30**<br><sub>🟢 开放申请</sub><br><sub>研究型 PhD/MPhil 2027 年 9 月入学申请截止 2027-04-30（官网）；HKPFS 资格与截止日期（原写 12 月 1 日）在搜索中未能核实，以研究院官网为准</sub> | ❔ | **要求：** 需两位学术推荐人（不可为拟任导师）及包含论文 DOI 和影响因子的 CV；具体学历与语言要求以官网为准。<br>页面显示 2027 年 9 月入学的研究型 PhD 与 MPhil（全日制与兼职），申请截止 30-Apr-2027；研究方向含神经科学、运动与骨骼肌肉、老龄化与长寿、初级保健与生活方式医学、智能康复。 |
 | [香港理工大学管理及市场学系 · 研究型博士（2027 入学）](https://www.polyu.edu.hk/study/pg/rpg/2027/mm)<br><sub>中国香港 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | **2027-01-31**<br><sub>🟢 开放申请</sub><br><sub>截止 2027-01-31（以官网为准）。</sub> | ❔ | **要求：** 需本科或硕士学位与研究计划；全日制博士可申请 HKPFS 或校内奖学金。<br>香港理工大学管理及市场学系 2027 年 9 月入学研究型博士，HKPFS 津贴约 HK$344,400/年（含学费减免）。学系页截止 2027-01-31，但建议 2026-12-01 前申请；HKPFS 同日截止，需先向 RGC 取得编号再向 PolyU 提交。学院限额招生。 |
@@ -228,7 +233,7 @@
 
 <a id="recruiting-posts"></a>
 
-## 导师招生帖（社交平台个人发布）（19）
+## 导师招生帖（社交平台个人发布）（20）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -240,9 +245,10 @@
 | [HKUST SQML 实验室（自旋量子材料）· 博士/博后招聘](https://sqml.hkust.edu.hk/opportunities)<br><sub>中国香港 ｜ 工程·物理/天文·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 全奖 | — | ❔ | 实验室页面列出 MRAM 与 AI 硬件方向的博士、博后及访问学者岗位，另有 2D 自旋电子学方向的博后或研究助理教授岗位。页面未标统一截止日期，申请前请直接联系 PI。 |
 | [OCTAD 实验室 · 香港科技大学 · 机械与航空工程 博士招生](https://octadlab.ust.hk/contactus/)<br><sub>中国香港 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布 | ❔ | **要求：** 需提交 CV 与简短自我介绍，发至 octadlab@ust.hk<br>页面只给出投递方式，未写资助金额，需在邮件中确认是否提供奖学金。 |
 | [PolyU 吴涛课题组（应用物理）](https://pm.polyu.edu.hk/taowu/group/contact.html)<br><sub>中国香港 ｜ 工程·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | 吴涛（Tom Wu）教授课题组隶属应用物理学系（非机械工程），研究钙钛矿氧化物与卤化物杂化材料。成员页可见 2025 年入组的博后，但未确认当前是否招收，申请前请通过课题组官网或邮件询问。 |
+| [PolyU 张毅课题组 · 博士、MPhil 与博后招生](https://research.polyu.edu.hk/en/persons/yi-zhang-2/)<br><sub>中国香港 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | 学者页面称招收博士、MPhil 和博后，需按页面邮箱发送 CV 与研究计划。页面未列资助金额，申请前需向导师确认。 |
 | [PolyU 毕凯明课题组（结构动力学）· 博后、RA 与博士招生](https://www.polyu.edu.hk/cee/~kaimbi/Join%20Us.html)<br><sub>中国香港 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 滚动<br><sub>🔄 随时可申</sub><br><sub>全年接收博后、RA 与博士申请，无固定截止，可随时邮件投递</sub> | ❔ | **要求：** 发送 CV 及成绩单或论文至页面邮箱；博士可关注香港博士研究生奖学金（HKPFS）。博后与 RA 的具体薪酬与资格页面未完整显示，申请前需确认。<br>页面称全年接收博后、RA 与博士申请，结构动力学方向；博后优秀者可能被推荐申请 RGC 博后计划与香港学者计划。 |
 | [PolyU 电网现代化研究中心（RCGM）· 全球招收博士与博后](https://www.polyu.edu.hk/rcgm/about-rcgm/join-us/)<br><sub>中国香港 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 全奖 | 未公布 | ✅ | PolyU 电网现代化研究中心面向全球招收博士与博后：博士生享月津贴、年度会议与研究差旅津贴及学费减免，博后提供具竞争力的薪酬包；申请方式与截止日期以页面为准。 |
-| [PolyU 黄晓（AI 实验室）· 全奖博士与博后招生](https://web.comp.polyu.edu.hk/xiaohuang/lab.html)<br><sub>中国香港 ｜ 人工智能·计算机</sub> | 博士+博后 | 全奖 | —<br><sub>🟢 开放申请</sub> | ❔ | **要求：** 发送 CV 邮件联系黄晓教授；专业偏向计算机、电子、统计、数学等；学历与语言要求以港理工研究生院为准<br>实验室页面称招收自驱型全奖博士与博后，方向为数据挖掘与机器学习。发送邮件并附 CV 即可；港理工资助细则以研究生院为准。 |
+| [PolyU 黄晓（AI 实验室）· 全奖博士与博后招生](https://web.comp.polyu.edu.hk/xiaohuang/lab.html)<br><sub>中国香港 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 全奖 | —<br><sub>🟢 开放申请</sub> | ❔ | **要求：** 发送 CV 邮件联系黄晓教授；专业偏向计算机、电子、统计、数学等；学历与语言要求以港理工研究生院为准<br>实验室页面称招收自驱型全奖博士与博后，方向为数据挖掘与机器学习。发送邮件并附 CV 即可；港理工资助细则以研究生院为准。 |
 | [Yu Shen · 香港理工大学计算学系 · 区块链安全/安全多方计算/量子密码 招生](https://www.iacr.org/jobs/item/4254)<br><sub>中国香港 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 滚动<br><sub>🔄 随时可申</sub><br><sub>IACR 招聘帖（2026-08-08 发布）称材料按滚动方式评审，直至岗位招满；未见固定截止日期。申请方式为将简历、成绩单和研究陈述发送给沈宇教授。</sub> | ❔ | PI 为 PolyU 计算学系助理教授。方向：区块链安全与隐私、分布式共识、安全多方计算、量子密码。帖子称 3–4 年全额资助并提供月津贴。申请方式与国际生资格未在检索结果中看到。 |
 | [张奕源教授 · 香港理工大学 · 机械工程 博士招生](https://www.polyu.edu.hk/en/me/people/academic-teaching-staff/zhang-yiyuan-prof/-/media/5dd6198d71ef4224a39a5beef379f2fa.ashx)<br><sub>中国香港 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 滚动<br><sub>🔄 随时可申</sub><br><sub>全年接收博士申请，无固定截止日；全额支持来自 HKPFS、校长博士奖学金或研究生奖学金之一</sub> | ❔ | **要求：** 需提交 CV、成绩单、IELTS/TOEFL 成绩和论文列表，直接发送至教授邮箱。<br>未能确认该教授的招生状态与资助说法，申请前需到 PolyU 官网核实。 |
 | [徐胜多教授 · 香港理工大学 · 热电材料与柔性传感 招生](https://www.polyu.edu.hk/me/people/academic-teaching-staff/xu-shengduo-prof/-/media/3E74D0A55B494249B4BA46B79BFF914A.ashx)<br><sub>中国香港 ｜ 工程·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>不低于 HK$19,000/月（教授页面所列，以学校当年标准为准）</sub> | 滚动<br><sub>🔄 随时可申</sub><br><sub>页面称全年接受申请，面向 2026/27 入学；下一轮以学校与导师公告为准</sub> | ❔ | **要求：** 页面要求 GPA 不低于 3.6/4，有发表成果者可放宽；建议同时申请 HKPFS 或 PRPgS<br>全奖研究型博士名额 1–2 个，方向为 3D 打印热电材料、柔性热电与可穿戴传感器。先联系导师再通过 RPg 系统申请；国际生资格页面未明确。 |

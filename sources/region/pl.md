@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 波兰（PL） 信源（22）
+# 波兰（PL） 信源（23）
 
-所有标注了地区 PL 的信源，共 22 条。
+所有标注了地区 PL 的信源，共 23 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [各国学术招聘门户与机构职位页 1](pl.md#national-portals) · [政府与国家级奖学金 4](pl.md#gov-scholarships) · [高校旗舰奖学金与资助检索 8](pl.md#university-schemes) · [结构化博士项目与研究机构 4](pl.md#doctoral-programs) · [博士后奖学金与项目 4](pl.md#postdoc-fellowships) · [个人信源与社交渠道 1](pl.md#people-channels)
+**按分类跳转：** [各国学术招聘门户与机构职位页 1](pl.md#national-portals) · [政府与国家级奖学金 5](pl.md#gov-scholarships) · [高校旗舰奖学金与资助检索 8](pl.md#university-schemes) · [结构化博士项目与研究机构 4](pl.md#doctoral-programs) · [博士后奖学金与项目 4](pl.md#postdoc-fellowships) · [个人信源与社交渠道 1](pl.md#people-channels)
 
 <a id="national-portals"></a>
 
@@ -20,13 +20,14 @@
 
 <a id="gov-scholarships"></a>
 
-## 政府与国家级奖学金（4）
+## 政府与国家级奖学金（5）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Bekker NAWA 项目（波兰国家学术交流署，博士生与青年学者）](https://nawa.gov.pl/en/nawa/news/call-for-applications-for-the-bekker-nawa-programme-now-open)<br><sub>波兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | **2026-05-29**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年一轮申请截止为 2026-05-29 15:00（波兰时间）；页面未说明下一轮时间，需以 NAWA 公告为准。</sub> | ❔ | **要求：** 页面称面向波兰科学与学术机构的研究人员，博士生可通过在合作单位完成部分博士教育或收集研究材料参与；申请须全部用英文撰写，经 NAWA ICT 系统提交。<br>NAWA（波兰国家学术交流署）Bekker 项目本轮征集，资助赴合作单位开展研究，项目开始时间为 2027 年 3 月 1 日至 10 月 1 日之间；申请已于 2026-05-29 截止。 |
 | [NAWA Zawacka 项目（博士生赴波兰，合作院校推荐）](https://nawa.gov.pl/en/international-cooperation-and-exchange/zawacka-nawa/incoming)<br><sub>波兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 未公布<br><sub>🟢 开放申请</sub><br><sub>2026/27 批次公告编号 11/2026，发布于 2026-03-10；须经双边协议下的合作院校推荐，具体截止以合作院校与公告为准，当前是否仍开放未核实。</sub> | ❔ | **要求：** 须由与波兰有双边协议的合作院校推荐，不直接向 NAWA 投递；公告附录列出合作国家与院校。<br>资助最长 12 个月。中国学生需先确认所在机构是否在名单内。 |
 | [NAWA Zawacka 项目（外国学生与博士生来波兰，2026/27 入境公告）](https://www.nawa.gov.pl/images/ZAWACKA-NAWA/2026/ENG_Zawacka-NAWA-Announcement---Incoming-Offer-for-2026-2027-No.-11_2026-dated-March-10-2026.pdf)<br><sub>波兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 未公布<br><sub>📋 持续更新</sub><br><sub>2026/27 入境公告 No. 11/2026（2026-03-10 发布）；截止日期以公告附录为准。</sub> | ❔ | **要求：** 据公告经双边协议框架下的合作院校推荐/遴选，不能个人直接申请；学历与语言以公告为准<br>可申请博士学院学习或博士生科研访问；资助形式与金额见公告。申请前先确认国内合作院校名额。 |
+| [波兰 Doktorat wdrożeniowy 2026 产业博士计划（MNiSW）](https://www.gov.pl/attachment/9254200b-1fca-4c39-b2d1-f7e35b8685c3)<br><sub>波兰 ｜ 全学科·人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年主要征集 6 月 12 日已截止；部分大学有 2026/27 补充招生（如波兹南工业大学，需缴不可退的 250 zł 或 60 欧元报名费）</sub> | ❔ | **要求：** 需与合作企业签约，在企业工作的同时于博士学校学习；国际生资格以各校公告为准<br>博士生在合作企业工作并在博士学校学习。2026 主要征集截止 6 月 12 日已过，部分大学可能有补充招生。 |
 | [波兰 NCN PRELUDIUM（未取得博士学位者）](https://ncn.gov.pl/en/ogloszenia/konkursy/preludium25)<br><sub>波兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-06-16**<br><sub>⏸ 本轮已截止</sub><br><sub>PRELUDIUM 25 轮 2026 年 6 月 16 日 14:00 已截止；2027 轮待 ncn.gov.pl 公告</sub> | ❔ | **要求：** 申请时未取得博士学位；外籍申请者资格以 NCN 当期指南为准<br>12–36 个月项目，最高约 21 万兹罗提；2026 轮 6-16 截止，关注 2027 轮，外国申请者资格看 NCN 指南. |
 
 <a id="university-schemes"></a>

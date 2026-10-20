@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 生物/生命科学 信源（662） · 第 2/2 页
+# 生物/生命科学 信源（671） · 第 2/2 页
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 26](bio.md#aggregators) · [各国学术招聘门户与机构职位页 12](bio.md#national-portals) · [政府与国家级奖学金 6](bio.md#gov-scholarships) · [高校旗舰奖学金与资助检索 111](bio.md#university-schemes) · [结构化博士项目与研究机构 331](bio.md#doctoral-programs) · [博士后奖学金与项目 96](bio-2.md#postdoc-fellowships) · [企业与基金会 Fellowship 28](bio-2.md#fellowships) · [学科专属信源 25](bio-2.md#discipline) · [个人信源与社交渠道 16](bio-2.md#people-channels) · [导师招生帖（社交平台个人发布） 10](bio-2.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 1](bio-2.md#faculty-aggregators)
+**按分类跳转：** [综合聚合平台 26](bio.md#aggregators) · [各国学术招聘门户与机构职位页 12](bio.md#national-portals) · [政府与国家级奖学金 6](bio.md#gov-scholarships) · [高校旗舰奖学金与资助检索 113](bio.md#university-schemes) · [结构化博士项目与研究机构 337](bio.md#doctoral-programs) · [博士后奖学金与项目 96](bio-2.md#postdoc-fellowships) · [企业与基金会 Fellowship 28](bio-2.md#fellowships) · [学科专属信源 26](bio-2.md#discipline) · [个人信源与社交渠道 16](bio-2.md#people-channels) · [导师招生帖（社交平台个人发布） 10](bio-2.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 1](bio-2.md#faculty-aggregators)
 
 **分页：** [第 1 页](bio.md) · [第 2 页](bio-2.md)
 
@@ -152,7 +152,7 @@
 
 <a id="discipline"></a>
 
-## 学科专属信源（25）
+## 学科专属信源（26）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -178,6 +178,7 @@
 | [普利茅斯海洋生物协会（MBA）博士机会页](https://www.mba.ac.uk/phd-opportunities)<br><sub>英国 ｜ 生物/生命科学·地球/环境/海洋·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | MBA 本身不长期发布独立博士岗位，博士机会多经 Marine Research Plymouth（MRP）发布。MRP 2026 年入学的 3.5 年博士奖学金已发布，截止日期需看 MRP 页面。国际生资格以项目说明为准。 |
 | [比较生物学会（SICB）职位与奖学金板](https://sicb.org/jobs-and-fellowships/)<br><sub>美国·全球 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 比较生理与进化生物学方向的职位与奖学金入口，博后较多。以美国岗位为主，中国学生需核对工作许可。 |
 | [爱荷华大学微生物系财务支持](https://microbiology.medicine.uiowa.edu/financial-support)<br><sub>美国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>📋 持续更新</sub> | ❔ | 爱荷华大学微生物学博士资助 2026–27：年津贴 $36,350，另有健康保险补贴 $5,244，学费与强制费用全免；博士生按学业进展续资助，通常约 5 年；国际生条款申请前确认。 |
+| [皮尔布赖特研究所博士岗位与学生资助](https://pirbright.ac.uk/careers-and-learning/education-programme/postgraduate-studentships)<br><sub>英国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>各博士岗位单独公告截止</sub> | 🟡 | **要求：** 国际生需证明可支付海外学费与本国学费的差额，或获得其他奖学金；以各岗位公告为准<br>英国动物病毒与疫苗研究所博士岗位，UKRI/BBSRC 资助的名额按本国学费费率提供；国际生可申请，但需自筹学费差额或获得其他奖学金。2027 年轮次待公告。 |
 | [石溪大学生态与进化系学费与资助](https://www.stonybrook.edu/ecoevo/academic-programs/phd-tuition-funding.html)<br><sub>美国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>助教 $30,000/9 个月；助研最低 $40,667/12 个月（以校方当期为准）</sub> | — | ❔ | **要求：** 国际生是否同等享有助教/助研资助需向系确认；NSF GRFP 仅限美国公民、国民或永久居民<br>全日制博士生享全额学费与医保，系里保证最长 5 年资助；金额以官网当期为准，国际生条件待向系确认。 |
 | [美国植物学会（BSA）共享职位板](https://jobs.botany.org)<br><sub>美国·全球 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 页面列出大学教职、研究员、博后、博士助研（Ph.D. Graduate Assistantship）等职位，各岗位截止日期不同。 |
 | [香港城市大学 CORIL 计算生物实验室](https://bioinfo.cs.cityu.edu.hk/)<br><sub>中国香港 ｜ 生物/生命科学·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 全奖 | 滚动<br><sub>🔄 随时可申</sub> | ✅ | **要求：** 需先发邮件联系导师，并在 CityU 申请中注明；HKPFS 需另经 RGC 系统申请<br>主页称提供覆盖学费和生活费的全额奖学金，鼓励申请香港 PhD Fellowship；内地学生可申请，以校方当年规定为准。 |
