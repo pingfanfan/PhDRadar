@@ -1,0 +1,411 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://pingfanfan.github.io/PhDRadar/api/v1/schema.json",
+ "$defs": {
+  "Opportunity": {
+   "type": "object",
+   "required": [
+    "id",
+    "kind",
+    "title",
+    "url",
+    "cn_eligible"
+   ],
+   "properties": {
+    "id": {
+     "type": "string",
+     "description": "Stable identifier"
+    },
+    "url": {
+     "type": "string",
+     "format": "uri",
+     "description": "Official page — the source of truth"
+    },
+    "detail_url": {
+     "type": "string",
+     "format": "uri",
+     "description": "This item on the PhDRadar site"
+    },
+    "regions": {
+     "type": "array",
+     "items": {
+      "type": "string",
+      "description": "Country/region code, e.g. UK, DE, US, HK"
+     }
+    },
+    "levels": {
+     "type": "array",
+     "items": {
+      "type": "string",
+      "enum": [
+       "phd",
+       "postdoc"
+      ]
+     }
+    },
+    "disciplines": {
+     "type": "array",
+     "items": {
+      "type": "string",
+      "enum": [
+       "ai",
+       "bio",
+       "business",
+       "chem",
+       "cs",
+       "eco",
+       "econ",
+       "engineering",
+       "geo",
+       "humanities",
+       "math",
+       "med",
+       "neuro",
+       "physics",
+       "social"
+      ]
+     }
+    },
+    "funding_coverage": {
+     "type": "string",
+     "enum": [
+      "full",
+      "salary",
+      "partial",
+      "tuition",
+      "stipend",
+      "varies",
+      "none",
+      "unknown"
+     ]
+    },
+    "amount": {
+     "type": "string",
+     "description": "Amount as written on the official page"
+    },
+    "deadline": {
+     "type": "string",
+     "description": "YYYY-MM-DD, or rolling / varies / unknown"
+    },
+    "status": {
+     "type": "string",
+     "enum": [
+      "open",
+      "upcoming",
+      "closed",
+      "rolling",
+      "ongoing"
+     ]
+    },
+    "cn_eligible": {
+     "type": "string",
+     "enum": [
+      "yes",
+      "partial",
+      "check",
+      "no"
+     ],
+     "description": "Can applicants from mainland China apply, per the official page; check = not stated"
+    },
+    "evidence_quote": {
+     "type": "string",
+     "description": "Sentence seen on the official page when it was checked"
+    },
+    "checked": {
+     "type": "string",
+     "format": "date",
+     "description": "Date the official page was last checked"
+    },
+    "intro_zh": {
+     "type": "string",
+     "description": "Short summary in Chinese"
+    },
+    "kind": {
+     "type": "string",
+     "enum": [
+      "posting",
+      "programme"
+     ]
+    },
+    "title": {
+     "type": "string"
+    },
+    "organization": {
+     "type": "string"
+    },
+    "region_names_zh": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    },
+    "opens": {
+     "type": "string"
+    },
+    "first_seen": {
+     "type": "string",
+     "format": "date"
+    },
+    "requirements": {
+     "type": "object",
+     "properties": {
+      "degree": {
+       "type": "object",
+       "properties": {
+        "summary_zh": {
+         "type": "string"
+        },
+        "quote": {
+         "type": "string",
+         "description": "Original sentence from the posting"
+        }
+       }
+      },
+      "language": {
+       "type": "object",
+       "properties": {
+        "summary_zh": {
+         "type": "string"
+        },
+        "quote": {
+         "type": "string",
+         "description": "Original sentence from the posting"
+        }
+       }
+      },
+      "start_date": {
+       "type": "object",
+       "properties": {
+        "summary_zh": {
+         "type": "string"
+        },
+        "quote": {
+         "type": "string",
+         "description": "Original sentence from the posting"
+        }
+       }
+      },
+      "duration": {
+       "type": "object",
+       "properties": {
+        "summary_zh": {
+         "type": "string"
+        },
+        "quote": {
+         "type": "string",
+         "description": "Original sentence from the posting"
+        }
+       }
+      },
+      "documents": {
+       "type": "object",
+       "properties": {
+        "summary_zh": {
+         "type": "string"
+        },
+        "quote": {
+         "type": "string",
+         "description": "Original sentence from the posting"
+        }
+       }
+      },
+      "how_to_apply": {
+       "type": "object",
+       "properties": {
+        "summary_zh": {
+         "type": "string"
+        },
+        "quote": {
+         "type": "string",
+         "description": "Original sentence from the posting"
+        }
+       }
+      },
+      "supervisor": {
+       "type": "object",
+       "properties": {
+        "summary_zh": {
+         "type": "string"
+        },
+        "quote": {
+         "type": "string",
+         "description": "Original sentence from the posting"
+        }
+       }
+      },
+      "nationality_restriction": {
+       "type": "object",
+       "properties": {
+        "summary_zh": {
+         "type": "string"
+        },
+        "quote": {
+         "type": "string",
+         "description": "Original sentence from the posting"
+        }
+       }
+      }
+     }
+    },
+    "notes_zh": {
+     "type": "string"
+    },
+    "deadline_note_zh": {
+     "type": "string"
+    },
+    "language_tag": {
+     "type": "string"
+    },
+    "flags": {
+     "type": "array",
+     "items": {
+      "type": "string",
+      "description": "security-screening = posting mentions export control / ATAS / research security"
+     }
+    },
+    "platform": {
+     "type": "string",
+     "description": "Job board the posting came from"
+    },
+    "also_posted_at": {
+     "type": "array",
+     "items": {
+      "type": "string",
+      "format": "uri"
+     }
+    }
+   }
+  },
+  "Source": {
+   "type": "object",
+   "required": [
+    "id",
+    "name_zh",
+    "url",
+    "cn_eligible"
+   ],
+   "properties": {
+    "id": {
+     "type": "string",
+     "description": "Stable identifier"
+    },
+    "url": {
+     "type": "string",
+     "format": "uri",
+     "description": "Official page — the source of truth"
+    },
+    "detail_url": {
+     "type": "string",
+     "format": "uri",
+     "description": "This item on the PhDRadar site"
+    },
+    "regions": {
+     "type": "array",
+     "items": {
+      "type": "string",
+      "description": "Country/region code, e.g. UK, DE, US, HK"
+     }
+    },
+    "levels": {
+     "type": "array",
+     "items": {
+      "type": "string",
+      "enum": [
+       "phd",
+       "postdoc"
+      ]
+     }
+    },
+    "disciplines": {
+     "type": "array",
+     "items": {
+      "type": "string",
+      "enum": [
+       "ai",
+       "bio",
+       "business",
+       "chem",
+       "cs",
+       "eco",
+       "econ",
+       "engineering",
+       "geo",
+       "humanities",
+       "math",
+       "med",
+       "neuro",
+       "physics",
+       "social"
+      ]
+     }
+    },
+    "funding_coverage": {
+     "type": "string",
+     "enum": [
+      "full",
+      "salary",
+      "partial",
+      "tuition",
+      "stipend",
+      "varies",
+      "none",
+      "unknown"
+     ]
+    },
+    "amount": {
+     "type": "string",
+     "description": "Amount as written on the official page"
+    },
+    "deadline": {
+     "type": "string",
+     "description": "YYYY-MM-DD, or rolling / varies / unknown"
+    },
+    "status": {
+     "type": "string",
+     "enum": [
+      "open",
+      "upcoming",
+      "closed",
+      "rolling",
+      "ongoing"
+     ]
+    },
+    "cn_eligible": {
+     "type": "string",
+     "enum": [
+      "yes",
+      "partial",
+      "check",
+      "no"
+     ],
+     "description": "Can applicants from mainland China apply, per the official page; check = not stated"
+    },
+    "evidence_quote": {
+     "type": "string",
+     "description": "Sentence seen on the official page when it was checked"
+    },
+    "checked": {
+     "type": "string",
+     "format": "date",
+     "description": "Date the official page was last checked"
+    },
+    "intro_zh": {
+     "type": "string",
+     "description": "Short summary in Chinese"
+    },
+    "name_zh": {
+     "type": "string"
+    },
+    "deadline_note_zh": {
+     "type": "string"
+    },
+    "requirements_zh": {
+     "type": "string"
+    },
+    "open_now": {
+     "type": "boolean"
+    }
+   }
+  }
+ }
+}

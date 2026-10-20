@@ -8,6 +8,7 @@
     assets/catalog.json   首页加载的精简数据（全部信源，已核对条目带官网原句）
     assets/rank-rules.json “为我推荐”的排序规则（来自 scripts/rank_rules.py，浏览器端 assets/rank.js 使用）
     feeds/                RSS 订阅源与订阅说明页（scripts/build_feeds.py）
+    api/、llms.txt        给 AI agent 的静态 JSON 接口与说明（scripts/build_api.py，见 docs/agents.md）
 """
 from __future__ import annotations
 
@@ -171,6 +172,8 @@ def main() -> int:
     (ROOT / "assets" / "catalog.json").write_text(json.dumps(rows, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     from build_feeds import write_feeds
     n_feeds = write_feeds(rows, ROOT)
+    from build_api import write_api
+    write_api(rows, ROOT)
     from rank_rules import rules as rank_rules
     (ROOT / "assets" / "rank-rules.json").write_text(json.dumps(rank_rules(DISC_WORDS), ensure_ascii=False, separators=(",", ":")),
                                                      encoding="utf-8")

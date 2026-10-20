@@ -1,0 +1,94 @@
+{
+ "openapi": "3.1.0",
+ "info": {
+  "title": "PhDRadar API",
+  "version": "1.0",
+  "license": {
+   "name": "CC BY 4.0 (data)",
+   "identifier": "CC-BY-4.0"
+  },
+  "description": "Funded PhD and postdoc opportunities for students from mainland China, each checked against its official page. Static JSON files regenerated daily; read-only; no authentication. Every opportunity was checked against its official page; evidence_quote is the sentence seen there. Cite it, and send users to url to confirm before applying. Do not infer eligibility: cn_eligible 'check' means the official page does not say whether applicants from mainland China can apply. Deadlines are as stated on the official page; time zones are not normalised. Items disappear from opportunities.json after their deadline. Agents may draft materials, but the applicant reviews and submits every application personally. No automated mass submission. Data licence: CC BY 4.0. Attribute PhDRadar and link to the official page."
+ },
+ "servers": [
+  {
+   "url": "https://pingfanfan.github.io/PhDRadar"
+  }
+ ],
+ "paths": {
+  "/api/v1/index.json": {
+   "get": {
+    "operationId": "getIndex",
+    "summary": "API directory, counts and usage rules",
+    "responses": {
+     "200": {
+      "description": "OK"
+     }
+    }
+   }
+  },
+  "/api/v1/opportunities.json": {
+   "get": {
+    "operationId": "listOpportunities",
+    "summary": "Opportunities open now (3620)",
+    "responses": {
+     "200": {
+      "description": "OK",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object",
+         "properties": {
+          "generated": {
+           "type": "string"
+          },
+          "count": {
+           "type": "integer"
+          },
+          "items": {
+           "type": "array",
+           "items": {
+            "$ref": "https://pingfanfan.github.io/PhDRadar/api/v1/schema.json#/$defs/Opportunity"
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/sources.json": {
+   "get": {
+    "operationId": "listSources",
+    "summary": "Verified sources (3968)",
+    "responses": {
+     "200": {
+      "description": "OK",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object",
+         "properties": {
+          "generated": {
+           "type": "string"
+          },
+          "count": {
+           "type": "integer"
+          },
+          "items": {
+           "type": "array",
+           "items": {
+            "$ref": "https://pingfanfan.github.io/PhDRadar/api/v1/schema.json#/$defs/Source"
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}

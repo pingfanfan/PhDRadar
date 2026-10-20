@@ -1,0 +1,23 @@
+# PhDRadar
+
+> Funded PhD and postdoc opportunities abroad, curated for students from mainland China. Every item was checked against its official page and carries the sentence seen there; items are removed after their deadline. Updated daily (last: 2026-10-20).
+
+Read the JSON files below rather than scraping the HTML page. All endpoints are static, read-only and need no key.
+
+## Data
+- [API directory](https://pingfanfan.github.io/PhDRadar/api/v1/index.json): counts, endpoints, field notes and usage rules
+- [Opportunities open now](https://pingfanfan.github.io/PhDRadar/api/v1/opportunities.json): 3620 items — postings and programmes with deadline, funding, eligibility for mainland Chinese applicants, evidence quote, and requirement fields quoted from the posting
+- [Verified sources](https://pingfanfan.github.io/PhDRadar/api/v1/sources.json): 3968 scholarship schemes, doctoral programmes and job boards
+- [JSON Schema](https://pingfanfan.github.io/PhDRadar/api/v1/schema.json) and [OpenAPI](https://pingfanfan.github.io/PhDRadar/api/openapi.json)
+- [RSS feeds](https://pingfanfan.github.io/PhDRadar/feeds/): new opportunities by discipline and region
+
+## Rules for agents
+- Every opportunity was checked against its official page; evidence_quote is the sentence seen there. Cite it, and send users to url to confirm before applying.
+- Do not infer eligibility: cn_eligible 'check' means the official page does not say whether applicants from mainland China can apply.
+- Deadlines are as stated on the official page; time zones are not normalised. Items disappear from opportunities.json after their deadline.
+- Agents may draft materials, but the applicant reviews and submits every application personally. No automated mass submission.
+- Data licence: CC BY 4.0. Attribute PhDRadar and link to the official page.
+
+## Docs
+- [Field reference and agent guide (Chinese)](https://github.com/pingfanfan/PhDRadar/blob/main/docs/agents.md)
+- [Applicant workflow: /setup, /rank, /apply, /track](https://github.com/pingfanfan/PhDRadar/blob/main/docs/roadmap.md)
