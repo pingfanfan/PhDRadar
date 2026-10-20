@@ -131,26 +131,38 @@ def index_page(feeds: list[tuple[str, str, str, int]]) -> str:
 <!-- 本文件由 scripts/build_feeds.py 自动生成，请勿手动编辑 -->
 <title>订阅 · PhDRadar</title>
 <link rel="alternate" type="application/rss+xml" title="PhDRadar 全部现在可申请" href="all.xml">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='9' fill='%230E7A5A'/%3E%3Cg fill='none' stroke='%23fff' stroke-width='2.2' stroke-linecap='round'%3E%3Cpath d='M16 16 23.5 8.5'/%3E%3Cpath d='M9 16a7 7 0 1 0 7-7'/%3E%3C/g%3E%3Ccircle cx='16' cy='16' r='2.4' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@500&family=Noto+Sans+SC:wght@400;500;700&display=swap">
 <style>
-:root{{--bg:#F4F6F8;--surface:#fff;--ink:#111A24;--muted:#4A5664;--line:#E3E8ED;--brand:#0B6E4F;--brand-ink:#fff;--brand-text:#0B5C43}}
-@media (prefers-color-scheme:dark){{:root:not([data-theme="light"]){{--bg:#0E1419;--surface:#151D24;--ink:#E7EDF2;--muted:#A3B0BC;--line:#26313B;--brand:#3FBF8A;--brand-ink:#08130E;--brand-text:#6FD3A6}}}}
-:root[data-theme="dark"]{{--bg:#0E1419;--surface:#151D24;--ink:#E7EDF2;--muted:#A3B0BC;--line:#26313B;--brand:#3FBF8A;--brand-ink:#08130E;--brand-text:#6FD3A6}}
-body{{margin:0;background:var(--bg);color:var(--ink);font:15px/1.65 "Noto Sans SC",system-ui,sans-serif}}
-main{{max-width:760px;margin:0 auto;padding:24px 16px 48px}}
-a{{color:var(--brand-text)}} h1{{font-size:24px;margin:8px 0}} h2{{font-size:16px;margin:28px 0 8px}}
-.note{{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px 16px;color:var(--muted)}}
-ul{{list-style:none;padding:0;margin:0;background:var(--surface);border:1px solid var(--line);border-radius:12px}}
-li{{display:grid;grid-template-columns:1fr auto;gap:2px 12px;align-items:center;padding:10px 14px;border-top:1px solid var(--line)}}
-li:first-child{{border-top:0}} em{{font-style:normal;color:var(--muted);font-size:13px}}
-code{{grid-column:1;font-size:12px;color:var(--muted);overflow-wrap:anywhere}}
-button{{grid-row:1/3;grid-column:2;border:1px solid var(--brand);background:var(--brand);color:var(--brand-ink);border-radius:8px;padding:6px 12px;font:inherit;font-size:13px;cursor:pointer}}
+:root{{--bg:#F5F7F6;--surface:#fff;--ink:#0F1A17;--muted:#5B6863;--faint:#8A9692;--line:#E4E9E6;--soft:#EFF3F1;--brand:#0E7A5A;--brand-ink:#fff;--brand-soft:#E2F4EC;--brand-text:#0A6448;color-scheme:light}}
+@media (prefers-color-scheme:dark){{:root:not([data-theme="light"]){{--bg:#0B1110;--surface:#121A18;--ink:#E6EEEA;--muted:#93A29B;--faint:#66746E;--line:#1F2A27;--soft:#18221F;--brand:#34C38F;--brand-ink:#04120C;--brand-soft:#133026;--brand-text:#5FD6A8;color-scheme:dark}}}}
+:root[data-theme="dark"]{{--bg:#0B1110;--surface:#121A18;--ink:#E6EEEA;--muted:#93A29B;--faint:#66746E;--line:#1F2A27;--soft:#18221F;--brand:#34C38F;--brand-ink:#04120C;--brand-soft:#133026;--brand-text:#5FD6A8;color-scheme:dark}}
+*{{box-sizing:border-box}}
+body{{margin:0;background:var(--bg);color:var(--ink);font:15px/1.65 "Geist","Noto Sans SC","PingFang SC",system-ui,sans-serif;-webkit-font-smoothing:antialiased}}
+main{{max-width:760px;margin:0 auto;padding-block:20px 56px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}}
+a{{color:var(--brand-text)}}
+.top{{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:28px}}
+.brand{{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--ink);font-weight:700;font-size:17px}}
+.mark{{width:30px;height:30px;border-radius:9px;background:var(--brand);color:var(--brand-ink);display:grid;place-items:center}}
+.ic{{fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}}
+.top a.back{{font-size:14px;text-decoration:none;color:var(--muted)}}
+h1{{font-size:clamp(22px,4vw,28px);font-weight:700;letter-spacing:-.02em;margin:0 0 10px;text-wrap:balance}}
+h2{{font-size:12.5px;font-weight:600;color:var(--muted);letter-spacing:.04em;margin:30px 0 8px}}
+.note{{color:var(--muted);margin:0}} .note b{{color:var(--ink)}}
+.how{{margin:16px 0 0;padding:14px 16px;border-radius:12px;background:var(--brand-soft);color:var(--ink);font-size:14px}}
+ul{{list-style:none;padding:0;margin:0;background:var(--surface);border:1px solid var(--line);border-radius:14px;overflow:hidden}}
+li{{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 12px;align-items:center;padding:12px 14px;border-top:1px solid var(--line)}}
+li:first-child{{border-top:0}}
+li span{{font-weight:600}} em{{font-style:normal;font-family:"Geist Mono",ui-monospace,monospace;color:var(--faint);font-size:12.5px;font-weight:500;margin-left:6px}}
+code{{grid-column:1;font:12px/1.5 "Geist Mono",ui-monospace,monospace;color:var(--muted);overflow-wrap:anywhere}}
+button{{grid-row:1/3;grid-column:2;display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);background:var(--soft);color:var(--ink);border-radius:999px;padding:7px 14px;font:inherit;font-size:13px;cursor:pointer}}
+button:hover{{border-color:var(--brand);color:var(--brand-text)}}
+:focus-visible{{outline:2px solid var(--brand);outline-offset:2px}}
 </style></head><body><main>
-<p><a href="../">← 返回 PhDRadar</a></p>
+<div class="top"><a class="brand" href="../"><span class="mark" aria-hidden="true"><svg class="ic" width="20" height="20" viewBox="0 0 24 24" style="stroke-width:2.2"><path d="M12 12 17.5 6.5"/><path d="M6.5 12A5.5 5.5 0 1 0 12 6.5"/><path d="M3 12a9 9 0 1 0 9-9"/><circle cx="12" cy="12" r="1.6" fill="currentColor" stroke="none"/></svg></span>PhDRadar</a><a class="back" href="../">返回首页</a></div>
 <h1>订阅新机会</h1>
-<div class="note">
-<p>每个链接是一个 RSS 订阅源，每天随岗位更新刷新，只包含首页“现在可申请”的机会（核对过官网原句，截止后自动下架）。数字是该源当前的在招条数，每个源最多显示最新 {MAX_ITEMS} 条。</p>
-<p><b>怎么用：</b>复制链接，粘贴到 RSS 阅读器（如 Inoreader、Feedly、NetNewsWire、Folo）里订阅；想用邮箱接收，可以把链接交给 RSS 转邮件服务（如 Blogtrottr、FeedRabbit），本站不收集任何邮箱。</p>
-</div>
+<p class="note">每天随岗位更新刷新，只推送“现在可申请”的新机会：核对过官网原句，截止后自动下架。数字是当前在招条数，每个源最多保留最新 {MAX_ITEMS} 条。</p>
+<p class="how"><b>怎么用：</b>复制链接，粘贴到 RSS 阅读器（Inoreader、Feedly、NetNewsWire、Folo 等）。想在邮箱里收，把链接交给 RSS 转邮件服务（如 Blogtrottr、FeedRabbit）。本站不收集任何邮箱。</p>
 {''.join(sections)}
 </main>
 <script>
