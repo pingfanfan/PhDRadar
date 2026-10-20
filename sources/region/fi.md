@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 芬兰（FI） 信源（33）
+# 芬兰（FI） 信源（35）
 
-所有标注了地区 FI 的信源，共 33 条。
+所有标注了地区 FI 的信源，共 35 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 2](fi.md#aggregators) · [各国学术招聘门户与机构职位页 1](fi.md#national-portals) · [高校旗舰奖学金与资助检索 7](fi.md#university-schemes) · [结构化博士项目与研究机构 15](fi.md#doctoral-programs) · [博士后奖学金与项目 5](fi.md#postdoc-fellowships) · [科研实习与“曲线入口” 1](fi.md#pathways) · [个人信源与社交渠道 1](fi.md#people-channels) · [导师招生帖（社交平台个人发布） 1](fi.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 2](fi.md#aggregators) · [各国学术招聘门户与机构职位页 1](fi.md#national-portals) · [高校旗舰奖学金与资助检索 7](fi.md#university-schemes) · [结构化博士项目与研究机构 17](fi.md#doctoral-programs) · [博士后奖学金与项目 5](fi.md#postdoc-fellowships) · [科研实习与“曲线入口” 1](fi.md#pathways) · [个人信源与社交渠道 1](fi.md#people-channels) · [导师招生帖（社交平台个人发布） 1](fi.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
@@ -43,7 +43,7 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（15）
+## 结构化博士项目与研究机构（17）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -53,6 +53,8 @@
 | [Hanken 商学院博士资助方式说明（Financing doctoral studies）](https://www.hanken.fi/node/19317)<br><sub>芬兰 ｜ 商科/管理·经济/金融·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | Hanken 经济学院官方页：全日制博士生可通过雇员合同资助（页面称适用于 2027 年起全日制入学者：第 1 年 100% 合同 12 个月，第 2–4 年 50% 合同，其余需申请科研经费补足）、外部科研经费，或校内奖学金（名额有限）。页面未说明中国学生资格，保持 check。 |
 | [Tampere University 国际流行病学与公共卫生博士项目（IPPE）](https://www.tuni.fi/en/study-with-us/international-doctoral-programme-epidemiology-and-public-health-ippe)<br><sub>芬兰 ｜ 医学/公卫·社会科学/心理</sub> | 博士 | 不提供资助 | **2026-12-02**<br><sub>🔜 即将开放</sub><br><sub>2027 入学申请 11 月 2 日至 12 月 2 日；2027 年 8 月入学。免学费，但不提供个人或项目资助，需自备生活费。</sub> | ❔ | 面向国际申请者，第一年在坦佩雷修课。官网称项目不提供资助，学生需自行承担在芬兰约 10 个月的生活费。2027–2028 申请窗口 11 月 2 日至 12 月 2 日，2027 年 8 月入学。 |
 | [于韦斯屈莱大学博士项目申请（含体育与健康科学）](https://www.jyu.fi/en/news/get-ready-to-apply-to-doctoral-programmes-at-jyu-in-autumn-2026)<br><sub>芬兰 ｜ 医学/公卫·生物/生命科学·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 秋季窗口 9 月 1–30 日已关闭；2027 春季入学轮预计 2027 年 4 月开放，截止以 Studyinfo 为准</sub> | ❔ | **要求：** 需硕士学位（或同等学历），提交研究计划与博士学习计划，并事先联系 JYU 潜在导师；项目英文授课<br>于韦斯屈莱大学 2026 年起共六个博士项目（含体育与健康科学）。秋季窗口已结束，春季轮预计 2027 年 4 月开放，需事先与校内导师联系。 |
+| [图尔库大学 2026 秋季博士研究员招聘（OPPI/KEVEKO）](https://www.utu.fi/en/call-for-application-OPPI-and-KEVEKO)<br><sub>芬兰 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-09-08**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年秋季征集申请窗口为 8 月 25 日至 9 月 8 日，已结束；下一轮时间未确认。</sub> | ❔ | **要求：** 需相关硕士学位及征集文件规定的语言与论文成绩要求，以征集文件为准<br>图尔库大学 KEVEKO 与 OPPI 博士项目 2026 年秋季招募，包括有薪的博士研究员合同与博士学习权，申请窗口已于 9 月 8 日结束。下一轮时间未确认。 |
+| [图尔库大学 BGG 博士项目征集（2026 年 9 月，2027 年入学）](https://www.utu.fi/sites/default/files/media/DPMLS/BGG_call%20of%20applications_Sept_2026.pdf)<br><sub>芬兰 ｜ 生物/生命科学·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026 秋季窗口 8 月 25 日至 9 月 8 日已截止；2027 年各轮日期以官网为准，申请需在 My Studyinfo 申请学籍并在 TalentAdore 申请岗位</sub> | ❔ | 图尔库大学 BGG 博士项目按年征集带薪博士研究员岗位（定期合同）。2026 秋季窗口已关闭；申请需同时在 My Studyinfo 申请学籍并在 TalentAdore 申请岗位。 |
 | [图尔库大学 DPT 技术博士项目招生](https://www.utu.fi/sites/default/files/media/DPT/DPT%20Application%20call_September%202026_.pdf)<br><sub>芬兰 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 9 月轮申请窗口（8 月 25 日至 9 月 8 日）已关闭；下一轮以官网为准</sub> | ✅ | **要求：** 需已获得或即将获得可授予博士资格的学位（若无学习权，需在 Studyinfo 申请）；岗位在芬兰图尔库，需在芬兰工作，最长 4 年。<br>带薪博士研究员岗，雇佣期最长 4 年且不晚于 2030 年 12 月 31 日；页面称月薪大致 2,400 至 3,300 欧元。 |
 | [坦佩雷大学 公开招聘页（博士研究员）](https://www.tuni.fi/en/tau/work-with-us/open-positions)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>约 €2,600–3,000/月（税前，据大学招聘页起薪区间）</sub> | 各项目不同 | ❔ | 坦佩雷大学官方岗位页，博士研究员起薪约 €2,600–3,000/月（税前）。多数岗位要求签约前已被博士项目录取；非欧盟申请者资格与工作许可按各岗位公告确认。 |
 | [奥博学院（Åbo Akademi）博士研究员资助说明](https://www.abo.fi/en/research-at-aau/postgraduate-and-doctoral-studies/funding-for-doctoral-researchers/)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面称学校定期发布博士研究员资助岗位，未列具体截止日期；以各岗位公告为准。</sub> | ❔ | **要求：** 岗位多为带薪博士研究员，需硕士学位；以各岗位公告为准<br>页面说明 ÅAU 定期发布博士研究员资助岗位，并列出仅面向非 EU/EEA 公民的 Finland Fellowship，需在申请信中明确注明。页面称博士学习权不附带资助，研究员需自行解决资金。 |

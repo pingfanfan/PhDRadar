@@ -125,7 +125,7 @@
    - 10-20：接入 EGU Jobs（地球科学，结构化截止与薪资字段，16 条）、FENS Job Market（神经科学，40 条；字段写日期但正文说“no deadline”的不收）、ELLIS Jobs（AI，8 条）、因斯布鲁克大学招聘门户（今日无在期岗位）。暂缓：KIAS（详情要过同意页、列表与公告页对不上）、Quantiki（用户自发帖，常写“funded and unfunded”）、ICTP（仅 2 个在期征集，适合作为信源条目）、博洛尼亚大学 bandi（薪资只在 PDF）；TU Graz / Uni Graz（robots 全站禁止）、TU Wien / Uni Wien / Fraunhofer / Tyndall（招聘系统）、澳门大学（无截止日期）。
 6. `/rank` 金标准评测（50 个虚构画像）；之后加向量与模型打分。
    - 10-19（产品 C）：50 个画像标注完成（`tests/rank_eval_*`，冻结数据 `tests/rank_eval_catalog.json.gz`）；Claude 逐条判断把前 10 准确率从 70% 提到 91%；向量相似度（多语言 MiniLM）AUC 只有 0.63，不采用。`/setup` 让 Claude 把关键词扩写成 6–8 个中英文说法（召回 +6%，准确率由 Claude 判断兜底）。
-   - 10-20：硬性筛选接入工程 A 的申请须知字段（学位、语言要求原句、开始时间），“加分项”语言与“或协商”的日期不排除；浏览器与 `/rank` 结果仍逐条一致。岗位语言标签写了 B2 及以上的非英语语言也视为要求。为我推荐新增：关键词建议、方向对口只差一个条件的机会、下载为 profile.yml。
+   - 10-20：硬性筛选接入工程 A 的申请须知字段（学位、语言要求原句、开始时间），“加分项”语言与“或协商”的日期不排除；浏览器与 `/rank` 结果仍逐条一致。岗位语言标签写了 B2 及以上的非英语语言也视为要求。为我推荐新增：关键词建议、方向对口只差一个条件的机会、下载为 profile.yml。10-20：为我推荐标出“上次来之后新出现”的机会（本机按天记住，关键词变了不比较）；重排提速到手机约 0.4 秒。
 7. 【冲刺·产品 E 进行中】`/apply` 的申请清单与套磁信起草；`/track` 看板与提醒。
    - 10-19：`/apply`（`.claude/commands/apply.md` + `scripts/apply_check.py`）：`prepare` 取岗位原文生成申请清单（材料、推荐信数量、格式字数、截止时刻与时区、申请方式、开始时间、资格、资助，每项附原句），
      `papers` 查导师近期论文（OpenAlex）；起草 / 审稿子代理提示词在 `research/apply-draft-prompt.md`、`research/apply-review-prompt.md`；

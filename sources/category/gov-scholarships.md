@@ -2,13 +2,35 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 政府与国家级奖学金（119）
+# 政府与国家级奖学金（122）
 
 中国政府（CSC）及各留学目的地政府提供的博士奖学金。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [法国（FR） 14](gov-scholarships.md#r-fr) · [日本（JP） 14](gov-scholarships.md#r-jp) · [英国（UK） 11](gov-scholarships.md#r-uk) · [加拿大（CA） 10](gov-scholarships.md#r-ca) · [德国（DE） 9](gov-scholarships.md#r-de) · [美国（US） 6](gov-scholarships.md#r-us) · [澳大利亚（AU） 5](gov-scholarships.md#r-au) · [波兰（PL） 5](gov-scholarships.md#r-pl) · [新加坡（SG） 3](gov-scholarships.md#r-sg) · [土耳其（TR） 3](gov-scholarships.md#r-tr) · [阿根廷（AR） 2](gov-scholarships.md#r-ar) · [瑞士（CH） 2](gov-scholarships.md#r-ch) · [智利（CL） 2](gov-scholarships.md#r-cl) · [爱沙尼亚（EE） 2](gov-scholarships.md#r-ee) · [西班牙（ES） 2](gov-scholarships.md#r-es) · [全球（GLOBAL） 2](gov-scholarships.md#r-global) · [中国香港（HK） 2](gov-scholarships.md#r-hk) · [匈牙利（HU） 2](gov-scholarships.md#r-hu) · [爱尔兰（IE） 2](gov-scholarships.md#r-ie) · [韩国（KR） 2](gov-scholarships.md#r-kr) · [葡萄牙（PT） 2](gov-scholarships.md#r-pt) · [斯洛伐克（SK） 2](gov-scholarships.md#r-sk) · [奥地利（AT） 1](gov-scholarships.md#r-at) · [AZ 1](gov-scholarships.md#r-az) · [比利时（BE） 1](gov-scholarships.md#r-be) · [以色列（IL） 1](gov-scholarships.md#r-il) · [印度（IN） 1](gov-scholarships.md#r-in) · [冰岛（IS） 1](gov-scholarships.md#r-is) · [意大利（IT） 1](gov-scholarships.md#r-it) · [墨西哥（MX） 1](gov-scholarships.md#r-mx) · [马来西亚（MY） 1](gov-scholarships.md#r-my) · [荷兰（NL） 1](gov-scholarships.md#r-nl) · [挪威（NO） 1](gov-scholarships.md#r-no) · [塞尔维亚（RS） 1](gov-scholarships.md#r-rs) · [瑞典（SE） 1](gov-scholarships.md#r-se) · [中国台湾（TW） 1](gov-scholarships.md#r-tw) · [UY 1](gov-scholarships.md#r-uy)
+**按地区跳转：** [日本（JP） 15](gov-scholarships.md#r-jp) · [法国（FR） 14](gov-scholarships.md#r-fr) · [英国（UK） 11](gov-scholarships.md#r-uk) · [加拿大（CA） 10](gov-scholarships.md#r-ca) · [德国（DE） 9](gov-scholarships.md#r-de) · [美国（US） 6](gov-scholarships.md#r-us) · [澳大利亚（AU） 5](gov-scholarships.md#r-au) · [波兰（PL） 5](gov-scholarships.md#r-pl) · [瑞士（CH） 3](gov-scholarships.md#r-ch) · [匈牙利（HU） 3](gov-scholarships.md#r-hu) · [新加坡（SG） 3](gov-scholarships.md#r-sg) · [土耳其（TR） 3](gov-scholarships.md#r-tr) · [阿根廷（AR） 2](gov-scholarships.md#r-ar) · [智利（CL） 2](gov-scholarships.md#r-cl) · [爱沙尼亚（EE） 2](gov-scholarships.md#r-ee) · [西班牙（ES） 2](gov-scholarships.md#r-es) · [全球（GLOBAL） 2](gov-scholarships.md#r-global) · [中国香港（HK） 2](gov-scholarships.md#r-hk) · [爱尔兰（IE） 2](gov-scholarships.md#r-ie) · [韩国（KR） 2](gov-scholarships.md#r-kr) · [葡萄牙（PT） 2](gov-scholarships.md#r-pt) · [斯洛伐克（SK） 2](gov-scholarships.md#r-sk) · [奥地利（AT） 1](gov-scholarships.md#r-at) · [AZ 1](gov-scholarships.md#r-az) · [比利时（BE） 1](gov-scholarships.md#r-be) · [以色列（IL） 1](gov-scholarships.md#r-il) · [印度（IN） 1](gov-scholarships.md#r-in) · [冰岛（IS） 1](gov-scholarships.md#r-is) · [意大利（IT） 1](gov-scholarships.md#r-it) · [墨西哥（MX） 1](gov-scholarships.md#r-mx) · [马来西亚（MY） 1](gov-scholarships.md#r-my) · [荷兰（NL） 1](gov-scholarships.md#r-nl) · [挪威（NO） 1](gov-scholarships.md#r-no) · [塞尔维亚（RS） 1](gov-scholarships.md#r-rs) · [瑞典（SE） 1](gov-scholarships.md#r-se) · [中国台湾（TW） 1](gov-scholarships.md#r-tw) · [UY 1](gov-scholarships.md#r-uy)
+
+<a id="r-jp"></a>
+
+## 日本（JP）（15）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [JASSO（日本学生支援机构）](https://www.jasso.go.jp/en/)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ✅ | 日本留学信息和奖学金汇总，含大量民间财团奖学金（多为入学后申请）。 |
+| [JST SPRING 博士支援项目（九州大学 FY2027 指南）](https://k-spring.kyushu-u.ac.jp/_cms_dir/uploads/2026/06/8ca60fc15b7fc7cc88f7f2aab986659c.pdf)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>⏸ 本轮已截止</sub><br><sub>FY2027 按所在大学组织选拔；截止以所在校通知为准</sub> | ❔ | **要求：** 截至 2026 年 4 月 1 日为九州大学在籍硕士（或同类）学生，计划 2026 年 10 月或 2027 年 4 月入读九州大学博士课程；需经大学选拔。<br>页面为九州大学 K3-SPRING FY2027 预约招募（类别 2：留学生）指南，文件发布于 2026 年 6 月，称 FY2027 选拔正在进行，但 SPRING 项目审查中，可能不提供支援；以所在校通知为准。 |
+| [JST SPRING（博士生支援项目）](https://www.jst.go.jp/jisedai/spring/en/)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>⏸ 本轮已截止</sub> | 🟡 | **要求：** 需在日本大学攻读博士并通过所在大学申请；2025 年后新选拔的外国留学生不发放生活费，仅可获研究费，以学校最新通知为准<br>JST SPRING 资助在日本读博士的学生，经所在大学申请。据 JST 2025 年 8 月公告，文部科学省决定不再向新选拔的外国留学生发放生活费，外国学生仅可获研究费（已获选者不受影响）；2027 财年细则未在官网核实，以学校通知为准。 |
+| [NAIST 文部科学省（MEXT）奖学金申请指南（博士）](https://www.naist.jp/en/international_students/prospective_students/financial_support/mext_application_guidelines.html)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>¥145,000/月（博士，2025 年度参考，以当年为准）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>使馆初筛约 7 月，博士入学约 10 月；每年以当年指南为准</sub> | ❔ | **要求：** 需硕士学位（或经校方预筛认可）；具备日语或英语交流能力；需先联系实验室导师；须经使馆或大学推荐<br>NAIST 博士生 MEXT 奖学金，免学费与入学费，月额约 ¥145,000（2025 年度参考），含往返机票。需经使馆或大学推荐，名额有限，需提前与导师联系；中国大陆申请渠道以使馆通知为准。 |
+| [东京大学 Global Komaba 使馆推荐 MEXT 研究生（2027 入学）说明](https://www.globalkomaba.c.u-tokyo.ac.jp/en/inbound/admissions/2027_ER_EN.html)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-09-01**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 年入学材料截止 2026-09-01（已过）；2028 年轮次未见公告</sub> | ❔ | **要求：** 须先通过驻外日本使馆/领事馆初选（使馆推荐路线）；需选定拟指导教授<br>使馆推荐路线操作说明，先以研究生身份入学再考入学考试；2027 年度申请 2026-09-01 已过期，关注 2028 入学通知. |
+| [东京大学前沿科学研究科 MEXT 中国学生说明](https://www.ilo.k.u-tokyo.ac.jp/prospective_en/degree_seeking_en/mext_scholarship_cn_en)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>月津贴约 144,000 日元（MEXT 奖学金，另含往返机票、学费与入学费）</sub> | —<br><sub>🔜 即将开放</sub><br><sub>大学选拔信息通常每年 6 月公布，对应 4 月或 10 月入学；中国籍需先通过 CSC 初审。</sub> | 🟡 | **要求：** 中国籍需先通过国家留学基金委（CSC）初审，再参加东大选拔；CSC 高水平大学项目特别选拔自 2027 年起停止（以官网为准）。<br>前沿科学研究科对中国籍申请者的 MEXT 流程说明，可作 CSC 路线的操作参考；以官网当期说明为准。 |
+| [东京科学大学 MEXT 大学推荐（一般/优先）博士](https://www.titech.ac.jp/english/international-student-exchange/prospective-students/scholarships/mext-university-general)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>摘要称一般 MEXT 大学推荐申请约在每年 9 月中旬至 11 月下旬，对应次年 10 月入学；以当年官网为准</sub> | ❔ | **要求：** 需通过学校推荐；学历与国籍条件以当年 MEXT 指南和学校公告为准，中国大陆学生需先核实；搜索未找到 Science Tokyo 2027 年官方指南<br>页面称 MEXT 不再受理 2026 年起的一般类（General）大学推荐，仅余优先类（Priority）名额，且 75% 以上被推荐者来自 MEXT 指定国家；津贴最高 148,000 日元/月，申请期为入学前一年 9 月中旬至 11 月下旬。 |
+| [东京科学大学博士生支援项目（FY2026 起替代 SPRING）](https://www.spring-boost.i.isct.ac.jp/en/topics/135427/)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>180,000 日元/月（研究奖励金，年 2,160,000 日元）另加年 300,000 日元研究经费</sub> | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 为本校博士课程学生提供的支援；国际生资格以该校公告为准，搜索未见国籍限制<br>SPRING 2025 年度结束，FY2026 起由东京科学大学自有的博士生支援项目承接（SPRING 受援者自动转入）。该校称 FY2027 计划维持同等规模，FY2028 起新计划待定。2027 入学条件以该校公告为准，国际生资格未核实，保留 check。 |
+| [京都大学 MEXT 奖学金说明](https://www.kyoto-u.ac.jp/en/education-campus/procedures/scholarships/mext.html)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>使馆路线通常前一年 4–5 月进行初筛，具体以日本驻华使馆公告为准。</sub> | ✅ | **要求：** 博士阶段；须经驻华使馆 MEXT 选拔（笔试+面试）或大学推荐；中国学生在使馆路线下的名额与截止以当年 MEXT 与使馆公告为准。<br>京都大学 MEXT 奖学金说明页：中国学生的第一轮初审由中国教育部负责，之后需取得京大教授的临时录取函；具体日程与名额以中国教育部及京大官网公告为准。 |
+| [京都大学理学研究科 MEXT 奖学金申请说明](https://www.sci.kyoto-u.ac.jp/en/admissions/mext)<br><sub>日本 ｜ 物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>以当年 MEXT 指南为准（学费全免加月额补助）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>使馆推荐需约 1–1.5 年前开始准备；使馆初筛通常夏季，以当年指南为准（2027 批次窗口已过）</sub> | ❔ | **要求：** 需先联系目标导师取得预录取（provisional acceptance）；可经驻外使领馆推荐或大学推荐申请<br>京都大学理学研究科 MEXT 奖学金入学说明，覆盖学费与月生活费。理学研究科多经使馆推荐录取，需先联系导师；2027 批次窗口已过，下一轮以使馆通知与校方页面为准。 |
+| [北海道大学 MEXT 申请路径说明（使馆推荐为主）](https://www.oia.hokudai.ac.jp/cier/japanese-scholarship/)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>博士 ¥145,000/月（北大官网页面所列）</sub> | 未公布<br><sub>以当年使馆推荐通知与北大通知为准</sub> | ❔ | **要求：** 需先通过中国大陆日本使领馆初筛获推荐；大学推荐仅限研究生且名额极少，需导师先行接洽<br>多数 MEXT 博士生经使馆推荐录取，中国学生先查当年使馆推荐通知；大学推荐名额更少。 |
+| [北海道大学水产科学研究科国际学生奖学金页](https://www2.fish.hokudai.ac.jp/language-english/scholarships/)<br><sub>日本 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>博士 ¥145,000/月（11–3 月为 ¥148,000；全校 MEXT 口径，以官网为准）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面称申请须在入学前通过使馆或大学推荐完成，未给出具体截止日期。</sub> | ❔ | **要求：** MEXT 等奖学金需经使馆或校方推荐，条件以官网为准<br>页面列出 MEXT（使馆推荐或大学推荐）、JASSO、地方政府、私人基金会及外国政府奖学金等来源，未写明具体金额与截止日期。 |
+| [日本 MEXT 研究生奖学金 2027 年度](https://www.studyinjapan.go.jp/en/smap-stopj-applications-research.html)<br><sub>日本 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>中国申请者以驻华使馆公告为准；使馆推荐一般于上一年 4–5 月受理、5–7 月初审，2027 届已过，2028 届待公布</sub> | ❔ | **要求：** 需通过日本大学入学考试（使馆推荐路线由使馆初审）；中国名额与资格以驻华使馆公告为准；材料须交使馆，不直接寄 MEXT<br>原链接为印度使馆页，已改为 Study in Japan 官方说明页。使馆推荐须向中国的日本使馆或领事馆提交，不直接寄 MEXT；中国名额与截止以驻华使馆通知为准。 |
+| [日本文部科学省奖学金（MEXT）2027 年度研究生申请指南](https://www.studyinjapan.go.jp/en/_mt/2026/04/01-2027_Research_Guidelines_E.pdf)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | **要求：** 年龄通常需在 35 岁以下；需由所在国使馆或大学推荐；学历与研究经验要求以官方指南为准<br>官方 2027 年度 MEXT 研究生指南，分大使馆推荐与大学推荐两条途径。中国籍配额、时间表与金额需以指南与中国驻日使馆为准。 |
+| [筑波大学医学 MEXT 奖学金 2027 指南](https://www.md.tsukuba.ac.jp/FrontierSite/data/examination/01_Application_Guideline_MEXT_SCHOLARSHIP_PROGRAM_2027.pdf)<br><sub>日本 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>🔜 即将开放</sub><br><sub>2027 年 10 月入学；大学推荐申请通常在当年 11–12 月，以各研究科说明为准。</sub> | ✅ | **要求：** 以各研究科为准；多数项目要求日语 N2 或英语成绩；须为与日本有外交关系国家的国籍。<br>筑波大学前沿医学的大学推荐 MEXT 2027 申请指南，中国籍可申请，时间表见文件。 |
 
 <a id="r-fr"></a>
 
@@ -30,27 +52,6 @@
 | [法国国防创新署 AID 博士课题（经典论文）](https://www.defense.gouv.fr/aid/theses-aid-classiques-2026)<br><sub>法国 ｜ 工程·物理/天文·计算机·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>约覆盖一半薪酬，最高约 65,000 欧元（3 年，第三方聚合站数字）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 届截止 3 月 16 日已过（结果 6 月公布）；2027 届未在搜索中找到，关注 AID 官网</sub> | ⛔ | **要求：** 仅限欧盟、英国或瑞士国籍（第三方聚合站称无例外，官网未核实）；须在法国实验室开展研究<br>每年资助约一百个国防相关博士课题，但申请人仅限欧盟、英国或瑞士国民，中国大陆学生不可申请。列入仅作提醒，避免在此耗费时间。 |
 | [法国文化部建筑、城市与景观博士合同（Contrats doctoraux）](https://www.culture.gouv.fr/fr/catalogue-des-demarches-et-subventions/appels-a-projets-candidatures/attribution-des-contrats-doctoraux-du-ministere-de-la-culture-en-architecture-ville-et-paysage)<br><sub>法国 ｜ 工程·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>2026 年 1 月 1 日起最低 2 300 欧元毛额/月（不含服务补充），2 760 欧元毛额/月（含服务补充）</sub> | **2026-09-18**<br><sub>⏸ 本轮已截止</sub><br><sub>页面称为 2027 年 1 月 1 日起的合同批次（Campagne 2027），截止 2026-09-18，已过；选拔委员会预计 2026 年 10 月召开。</sub> | ❔ | **要求：** 外国申请者资格未在搜索结果中确认；论文需与 ENSA 建筑学院相关项目挂靠。<br>法国文化部为建筑、城市与景观方向博士论文设立的博士合同，分全额与半额合同两种申请表。 |
 | [索邦大学 CSC 博士生项目](https://www.sorbonne-universite.fr/recherche-et-innovation/le-doctorat/college-et-ecoles-doctorales/les-programmes-doctoraux/programmes-doctoraux-internationaux)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€1,350/月（官网所列，CSC 会定期调整）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮：学校候选人截止 2026 年 2 月 2 日，CSC 平台申请截止 3 月 31 日（均已过）；页面未见 2027 轮日程。</sub> | ✅ | **要求：** 仅限中国国籍，申请时不得有中国以外的任职；须先获课题负责人推荐并通过学校预录取，再在 CSC 网站申请；英语须达 TOEIC 700 / TOEFL 95 / IELTS 6.5（页面所列）<br>索邦大学 CSC 联合培养博士项目，资助最长 4 年，月奖学金 1350 欧元（页面称会定期调整）；接收实验室须将奖学金补足至法国博士合同月净额，学生需缴纳行政费用。页面另列出在境外就读的中国学生这一类申请者。 |
-
-<a id="r-jp"></a>
-
-## 日本（JP）（14）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [JASSO（日本学生支援机构）](https://www.jasso.go.jp/en/)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ✅ | 日本留学信息和奖学金汇总，含大量民间财团奖学金（多为入学后申请）。 |
-| [JST SPRING 博士支援项目（九州大学 FY2027 指南）](https://k-spring.kyushu-u.ac.jp/_cms_dir/uploads/2026/06/8ca60fc15b7fc7cc88f7f2aab986659c.pdf)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>⏸ 本轮已截止</sub><br><sub>FY2027 按所在大学组织选拔；截止以所在校通知为准</sub> | ❔ | **要求：** 截至 2026 年 4 月 1 日为九州大学在籍硕士（或同类）学生，计划 2026 年 10 月或 2027 年 4 月入读九州大学博士课程；需经大学选拔。<br>页面为九州大学 K3-SPRING FY2027 预约招募（类别 2：留学生）指南，文件发布于 2026 年 6 月，称 FY2027 选拔正在进行，但 SPRING 项目审查中，可能不提供支援；以所在校通知为准。 |
-| [JST SPRING（博士生支援项目）](https://www.jst.go.jp/jisedai/spring/en/)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>⏸ 本轮已截止</sub> | 🟡 | **要求：** 需在日本大学攻读博士并通过所在大学申请；2025 年后新选拔的外国留学生不发放生活费，仅可获研究费，以学校最新通知为准<br>JST SPRING 资助在日本读博士的学生，经所在大学申请。据 JST 2025 年 8 月公告，文部科学省决定不再向新选拔的外国留学生发放生活费，外国学生仅可获研究费（已获选者不受影响）；2027 财年细则未在官网核实，以学校通知为准。 |
-| [NAIST 文部科学省（MEXT）奖学金申请指南（博士）](https://www.naist.jp/en/international_students/prospective_students/financial_support/mext_application_guidelines.html)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>¥145,000/月（博士，2025 年度参考，以当年为准）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>使馆初筛约 7 月，博士入学约 10 月；每年以当年指南为准</sub> | ❔ | **要求：** 需硕士学位（或经校方预筛认可）；具备日语或英语交流能力；需先联系实验室导师；须经使馆或大学推荐<br>NAIST 博士生 MEXT 奖学金，免学费与入学费，月额约 ¥145,000（2025 年度参考），含往返机票。需经使馆或大学推荐，名额有限，需提前与导师联系；中国大陆申请渠道以使馆通知为准。 |
-| [东京大学 Global Komaba 使馆推荐 MEXT 研究生（2027 入学）说明](https://www.globalkomaba.c.u-tokyo.ac.jp/en/inbound/admissions/2027_ER_EN.html)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-09-01**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 年入学材料截止 2026-09-01（已过）；2028 年轮次未见公告</sub> | ❔ | **要求：** 须先通过驻外日本使馆/领事馆初选（使馆推荐路线）；需选定拟指导教授<br>使馆推荐路线操作说明，先以研究生身份入学再考入学考试；2027 年度申请 2026-09-01 已过期，关注 2028 入学通知. |
-| [东京科学大学 MEXT 大学推荐（一般/优先）博士](https://www.titech.ac.jp/english/international-student-exchange/prospective-students/scholarships/mext-university-general)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>摘要称一般 MEXT 大学推荐申请约在每年 9 月中旬至 11 月下旬，对应次年 10 月入学；以当年官网为准</sub> | ❔ | **要求：** 需通过学校推荐；学历与国籍条件以当年 MEXT 指南和学校公告为准，中国大陆学生需先核实；搜索未找到 Science Tokyo 2027 年官方指南<br>页面称 MEXT 不再受理 2026 年起的一般类（General）大学推荐，仅余优先类（Priority）名额，且 75% 以上被推荐者来自 MEXT 指定国家；津贴最高 148,000 日元/月，申请期为入学前一年 9 月中旬至 11 月下旬。 |
-| [东京科学大学博士生支援项目（FY2026 起替代 SPRING）](https://www.spring-boost.i.isct.ac.jp/en/topics/135427/)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>180,000 日元/月（研究奖励金，年 2,160,000 日元）另加年 300,000 日元研究经费</sub> | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 为本校博士课程学生提供的支援；国际生资格以该校公告为准，搜索未见国籍限制<br>SPRING 2025 年度结束，FY2026 起由东京科学大学自有的博士生支援项目承接（SPRING 受援者自动转入）。该校称 FY2027 计划维持同等规模，FY2028 起新计划待定。2027 入学条件以该校公告为准，国际生资格未核实，保留 check。 |
-| [京都大学 MEXT 奖学金说明](https://www.kyoto-u.ac.jp/en/education-campus/procedures/scholarships/mext.html)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>使馆路线通常前一年 4–5 月进行初筛，具体以日本驻华使馆公告为准。</sub> | ✅ | **要求：** 博士阶段；须经驻华使馆 MEXT 选拔（笔试+面试）或大学推荐；中国学生在使馆路线下的名额与截止以当年 MEXT 与使馆公告为准。<br>京都大学 MEXT 奖学金说明页：中国学生的第一轮初审由中国教育部负责，之后需取得京大教授的临时录取函；具体日程与名额以中国教育部及京大官网公告为准。 |
-| [京都大学理学研究科 MEXT 奖学金申请说明](https://www.sci.kyoto-u.ac.jp/en/admissions/mext)<br><sub>日本 ｜ 物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>以当年 MEXT 指南为准（学费全免加月额补助）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>使馆推荐需约 1–1.5 年前开始准备；使馆初筛通常夏季，以当年指南为准（2027 批次窗口已过）</sub> | ❔ | **要求：** 需先联系目标导师取得预录取（provisional acceptance）；可经驻外使领馆推荐或大学推荐申请<br>京都大学理学研究科 MEXT 奖学金入学说明，覆盖学费与月生活费。理学研究科多经使馆推荐录取，需先联系导师；2027 批次窗口已过，下一轮以使馆通知与校方页面为准。 |
-| [北海道大学 MEXT 申请路径说明（使馆推荐为主）](https://www.oia.hokudai.ac.jp/cier/japanese-scholarship/)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>博士 ¥145,000/月（北大官网页面所列）</sub> | 未公布<br><sub>以当年使馆推荐通知与北大通知为准</sub> | ❔ | **要求：** 需先通过中国大陆日本使领馆初筛获推荐；大学推荐仅限研究生且名额极少，需导师先行接洽<br>多数 MEXT 博士生经使馆推荐录取，中国学生先查当年使馆推荐通知；大学推荐名额更少。 |
-| [北海道大学水产科学研究科国际学生奖学金页](https://www2.fish.hokudai.ac.jp/language-english/scholarships/)<br><sub>日本 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>博士 ¥145,000/月（11–3 月为 ¥148,000；全校 MEXT 口径，以官网为准）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面称申请须在入学前通过使馆或大学推荐完成，未给出具体截止日期。</sub> | ❔ | **要求：** MEXT 等奖学金需经使馆或校方推荐，条件以官网为准<br>页面列出 MEXT（使馆推荐或大学推荐）、JASSO、地方政府、私人基金会及外国政府奖学金等来源，未写明具体金额与截止日期。 |
-| [日本 MEXT 研究生奖学金 2027 年度](https://www.studyinjapan.go.jp/en/smap-stopj-applications-research.html)<br><sub>日本 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>中国申请者以驻华使馆公告为准；使馆推荐一般于上一年 4–5 月受理、5–7 月初审，2027 届已过，2028 届待公布</sub> | ❔ | **要求：** 需通过日本大学入学考试（使馆推荐路线由使馆初审）；中国名额与资格以驻华使馆公告为准；材料须交使馆，不直接寄 MEXT<br>原链接为印度使馆页，已改为 Study in Japan 官方说明页。使馆推荐须向中国的日本使馆或领事馆提交，不直接寄 MEXT；中国名额与截止以驻华使馆通知为准。 |
-| [日本文部科学省奖学金（MEXT）2027 年度研究生申请指南](https://www.studyinjapan.go.jp/en/_mt/2026/04/01-2027_Research_Guidelines_E.pdf)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | **要求：** 年龄通常需在 35 岁以下；需由所在国使馆或大学推荐；学历与研究经验要求以官方指南为准<br>官方 2027 年度 MEXT 研究生指南，分大使馆推荐与大学推荐两条途径。中国籍配额、时间表与金额需以指南与中国驻日使馆为准。 |
-| [筑波大学医学 MEXT 奖学金 2027 指南](https://www.md.tsukuba.ac.jp/FrontierSite/data/examination/01_Application_Guideline_MEXT_SCHOLARSHIP_PROGRAM_2027.pdf)<br><sub>日本 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>🔜 即将开放</sub><br><sub>2027 年 10 月入学；大学推荐申请通常在当年 11–12 月，以各研究科说明为准。</sub> | ✅ | **要求：** 以各研究科为准；多数项目要求日语 N2 或英语成绩；须为与日本有外交关系国家的国籍。<br>筑波大学前沿医学的大学推荐 MEXT 2027 申请指南，中国籍可申请，时间表见文件。 |
 
 <a id="r-uk"></a>
 
@@ -140,6 +141,26 @@
 | [波兰 Doktorat wdrożeniowy 2026 产业博士计划（MNiSW）](https://www.gov.pl/attachment/9254200b-1fca-4c39-b2d1-f7e35b8685c3)<br><sub>波兰 ｜ 全学科·人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年主要征集 6 月 12 日已截止；部分大学有 2026/27 补充招生（如波兹南工业大学，需缴不可退的 250 zł 或 60 欧元报名费）</sub> | ❔ | **要求：** 需与合作企业签约，在企业工作的同时于博士学校学习；国际生资格以各校公告为准<br>博士生在合作企业工作并在博士学校学习。2026 主要征集截止 6 月 12 日已过，部分大学可能有补充招生。 |
 | [波兰 NCN PRELUDIUM（未取得博士学位者）](https://ncn.gov.pl/en/ogloszenia/konkursy/preludium25)<br><sub>波兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-06-16**<br><sub>⏸ 本轮已截止</sub><br><sub>PRELUDIUM 25 轮 2026 年 6 月 16 日 14:00 已截止；2027 轮待 ncn.gov.pl 公告</sub> | ❔ | **要求：** 申请时未取得博士学位；外籍申请者资格以 NCN 当期指南为准<br>12–36 个月项目，最高约 21 万兹罗提；2026 轮 6-16 截止，关注 2027 轮，外国申请者资格看 NCN 指南. |
 
+<a id="r-ch"></a>
+
+## 瑞士（CH）（3）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Swiss Government Excellence Scholarships](https://www.sbfi.admin.ch/en/scholarships-and-grants)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>CHF 2,450/月（第三方报道，需以官网为准）</sub> | —<br><sub>🔜 即将开放</sub><br><sub>2027–28 轮中国大陆截止日期未核实（第三方称 2026-08-20 开放），以 SERI 官网为准。</sub> | ✅ | **要求：** 需先获瑞士导师提名（博士或研究奖学金）；据第三方报道需在申请截止前完成硕士学位；中国大陆可否申请以官方国家名单为准。<br>瑞士使馆页面（swiss-government-excellence-scholarships-2027-2028）称自 2027–28 学年起不再授予博士后奖学金，仅保留博士研究奖学金与博士奖学金，博后请改看其他渠道。SERI 页面称政府卓越奖学金每年面向年轻外国研究人员和艺术学生授予，由联邦外国学生奖学金委员会（FCS）负责评选。 |
+| [瑞士政府卓越奖学金（ETH 页面）](https://ethz.ch/en/studies/non-degree-courses/sges.html)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>CHF 3,500/月（需导师同意）</sub> | **2026-11-30**<br><sub>🟢 开放申请</sub><br><sub>页面写明申请期为 2026 年 8 月 20 日至 11 月 30 日；各国具体截止日页面未载明。</sub> | ❔ | **要求：** 需先获得 ETH 教授同意并出具邀请函，之后仅可通过 Go-ESKAS.ch 提交；页面标明博后奖学金已不接受申请。<br>瑞士政府奖学金（博士奖学金与硕士后研究奖学金）经 Go-ESKAS.ch 申请，申请期为 2026 年 8 月 20 日至 11 月 30 日。页面明确博后奖学金已不接受申请，故级别修正为博士。 |
+| [瑞士联邦奖学金委员会（ESKAS）](https://www.sbfi.admin.ch/sbfi/en/home/bildung/stipendien/eskas.html)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 仅生活费<br><sub>CHF 2,450/月（二手来源，待官网核实）</sub> | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>各国截止日期不同，集中在 9 月至 12 月之间；中国截止日与博后类别对中国开放与否未核实，以 SERI 页面为准</sub> | ❔ | **要求：** 需已获博士学位。通过所在国瑞士使馆或 GO ESKAS 申请，国别名额与途径不同（美国须先走 Fulbright）。博后项目为期 12 个月，不可延长。<br>瑞士政府卓越奖学金（ESKAS）官方页，按国别名额申请，须经所在国瑞士使馆或 GO ESKAS 提交。设博士与研究员（博后）类别。2027–2028 轮各国截止日不同；中国的截止日与博后类别是否对中国开放未核实，以 SERI 页面为准。 |
+
+<a id="r-hu"></a>
+
+## 匈牙利（HU）（3）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Stipendium Hungaricum 2026/27 申请公告（匈牙利政府奖学金，含博士）](https://stipendiumhungaricum.hu/news/application-is-on-for-the-2026-2027-stipendium-hungaricum-scholarship/)<br><sub>匈牙利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-01-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 轮截止 2026-01-15 已过；2027/28 轮未见公告，以官网为准。</sub> | ❔ | **要求：** 须符合项目学历和语言条件；博士阶段需在线注册后按院校要求提交材料。<br>匈牙利政府 Stipendium Hungaricum 项目，覆盖学费与生活补助，博士项目可申请。 |
+| [匈牙利 Stipendium Hungaricum 博士项目（ELTE 页面）](https://wwwold.elte.hu/en/stipendium-hungaricum)<br><sub>匈牙利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 博士轮 2026 年 1 月 15 日已截止；2027/28 轮官方公告未找到，通常 11 月前后开放，以 Tempus / 官网为准</sub> | ❔ | 匈牙利政府奖学金（Stipendium Hungaricum）博士项目，通常 2+2 年。资格依据双边教育协议与国籍，并非所有国家都可申请。2026/27 博士轮截止 2026 年 1 月 15 日已过；2027/28 轮官方公告尚未找到，请以官网与 Tempus 公告为准。 |
+| [塞梅尔维斯大学社会科学博士学院 · Stipendium Hungaricum 入口](https://apply.stipendiumhungaricum.hu/courses/course/4126)<br><sub>匈牙利 ｜ 社会科学/心理·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>🔜 即将开放</sub><br><sub>Stipendium Hungaricum 申请通常为 11 月中旬至次年 1 月中旬；需先获得博士学院录取函才能参加 SH 入学考试；中国名额看年度公告</sub> | ❔ | **要求：** 英语 B2；需动机信与导师声明；须先获博士学院录取函（提交 CV、论文列表与 1–5 页研究计划）<br>通过匈牙利政府奖学金（Tempus 管理）申请的 8 学期英语授课社会学博士，资助覆盖学费、月生活津贴、医保与住宿支持。国籍资格以官网名单为准。 |
+
 <a id="r-sg"></a>
 
 ## 新加坡（SG）（3）
@@ -168,15 +189,6 @@
 | --- | --- | --- | --- | :-: | --- |
 | [CONICET 博士内部奖学金（Becas Internas Doctorales）2026 轮](https://www.conicet.gov.ar/tag/convocatoria-becas-2026/)<br><sub>阿根廷 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-08-21**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请期 7 月 27 日至 8 月 21 日（已截止），自 2027 年 4 月 1 日起生效；下一轮预计 2027 年夏季</sub> | ❔ | **要求：** 需已获学士学位，或申请时仅欠不超过 5 门课；外籍获奖者须按规定办理入境手续；CONICET 不承担机票与移民费用；外籍资格以 2026 bases 为准<br>阿根廷国家科研机构博士奖学金，需在阿根廷境内读博，语言为西语；外国人资格与金额以当年官方 bases 为准。 |
 | [布宜诺斯艾利斯省 CIC × 莫龙大学合作博士奖学金 UM26](https://www.cic.gba.gob.ar/wp-content/uploads/2026/05/UM-Bases-Becas-Cofinanciadas-CIC-UM26.pdf)<br><sub>阿根廷 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-05-31** | ⛔ | **要求：** 仅限布宜诺斯艾利斯省国立大学的毕业生；工作须在莫龙大学开展；申请经 SIGEVA 系统提交<br>CIC 与莫龙大学合作的单一名额博士奖学金（UM26），仅面向布宜诺斯艾利斯省国立大学毕业生，研究须在莫龙大学完成。中国大陆申请人基本不符合资格；截止日与金额需看 bases。 |
-
-<a id="r-ch"></a>
-
-## 瑞士（CH）（2）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [Swiss Government Excellence Scholarships](https://www.sbfi.admin.ch/en/scholarships-and-grants)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>CHF 2,450/月（第三方报道，需以官网为准）</sub> | —<br><sub>🔜 即将开放</sub><br><sub>2027–28 轮中国大陆截止日期未核实（第三方称 2026-08-20 开放），以 SERI 官网为准。</sub> | ✅ | **要求：** 需先获瑞士导师提名（博士或研究奖学金）；据第三方报道需在申请截止前完成硕士学位；中国大陆可否申请以官方国家名单为准。<br>瑞士使馆页面（swiss-government-excellence-scholarships-2027-2028）称自 2027–28 学年起不再授予博士后奖学金，仅保留博士研究奖学金与博士奖学金，博后请改看其他渠道。SERI 页面称政府卓越奖学金每年面向年轻外国研究人员和艺术学生授予，由联邦外国学生奖学金委员会（FCS）负责评选。 |
-| [瑞士政府卓越奖学金（ETH 页面）](https://ethz.ch/en/studies/non-degree-courses/sges.html)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>CHF 3,500/月（需导师同意）</sub> | **2026-11-30**<br><sub>🟢 开放申请</sub><br><sub>页面写明申请期为 2026 年 8 月 20 日至 11 月 30 日；各国具体截止日页面未载明。</sub> | ❔ | **要求：** 需先获得 ETH 教授同意并出具邀请函，之后仅可通过 Go-ESKAS.ch 提交；页面标明博后奖学金已不接受申请。<br>瑞士政府奖学金（博士奖学金与硕士后研究奖学金）经 Go-ESKAS.ch 申请，申请期为 2026 年 8 月 20 日至 11 月 30 日。页面明确博后奖学金已不接受申请，故级别修正为博士。 |
 
 <a id="r-cl"></a>
 
@@ -222,15 +234,6 @@
 | --- | --- | --- | --- | :-: | --- |
 | [CUHK 研究生院 HKPFS 宣传册](https://www.gs.cuhk.edu.hk/download/HKPFS_Leaflet.pdf)<br><sub>中国香港 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>🔜 即将开放</sub> | ✅ | CUHK HKPFS 2027–2028 宣传册，列出学费豁免、生活津贴、住宿津贴及会议与研究差旅津贴；CUHK 欢迎 2027–2028 学年的 HKPFS 申请。 |
 | [香港博士研究生奖学金计划（HKPFS）](https://cerg1.ugc.edu.hk/hkpfs/index.html)<br><sub>中国香港 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>HKD 28,700/月（另有每年差旅津贴）</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>2026 年 9 月 1 日开放申请；RGC 初步申请 12 月 1 日截止，之后需向院校提交正式申请。</sub> | ✅ | **要求：** 新入学全日制博士生；需先在 HKPFS 系统取得参考号再申请院校；已在读博士者不可申请。<br>页面写明 2026/27 学年年津贴 HK$344,400（约每月 HK$28,700），另有每年 HK$14,400 会议与研究差旅津贴（最多三年）；2027/28 学年将授出 400 个博士奖学金。 |
-
-<a id="r-hu"></a>
-
-## 匈牙利（HU）（2）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [Stipendium Hungaricum 2026/27 申请公告（匈牙利政府奖学金，含博士）](https://stipendiumhungaricum.hu/news/application-is-on-for-the-2026-2027-stipendium-hungaricum-scholarship/)<br><sub>匈牙利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-01-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 轮截止 2026-01-15 已过；2027/28 轮未见公告，以官网为准。</sub> | ❔ | **要求：** 须符合项目学历和语言条件；博士阶段需在线注册后按院校要求提交材料。<br>匈牙利政府 Stipendium Hungaricum 项目，覆盖学费与生活补助，博士项目可申请。 |
-| [匈牙利 Stipendium Hungaricum 博士项目（ELTE 页面）](https://wwwold.elte.hu/en/stipendium-hungaricum)<br><sub>匈牙利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 博士轮 2026 年 1 月 15 日已截止；2027/28 轮官方公告未找到，通常 11 月前后开放，以 Tempus / 官网为准</sub> | ❔ | 匈牙利政府奖学金（Stipendium Hungaricum）博士项目，通常 2+2 年。资格依据双边教育协议与国籍，并非所有国家都可申请。2026/27 博士轮截止 2026 年 1 月 15 日已过；2027/28 轮官方公告尚未找到，请以官网与 Tempus 公告为准。 |
 
 <a id="r-ie"></a>
 

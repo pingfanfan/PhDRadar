@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 爱尔兰（IE） 信源（25）
+# 爱尔兰（IE） 信源（28）
 
-所有标注了地区 IE 的信源，共 25 条。
+所有标注了地区 IE 的信源，共 28 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [政府与国家级奖学金 2](ie.md#gov-scholarships) · [高校旗舰奖学金与资助检索 13](ie.md#university-schemes) · [结构化博士项目与研究机构 1](ie.md#doctoral-programs) · [博士后奖学金与项目 3](ie.md#postdoc-fellowships) · [企业与基金会 Fellowship 4](ie.md#fellowships) · [个人信源与社交渠道 1](ie.md#people-channels) · [导师招生帖（社交平台个人发布） 1](ie.md#recruiting-posts)
+**按分类跳转：** [政府与国家级奖学金 2](ie.md#gov-scholarships) · [高校旗舰奖学金与资助检索 13](ie.md#university-schemes) · [结构化博士项目与研究机构 2](ie.md#doctoral-programs) · [博士后奖学金与项目 4](ie.md#postdoc-fellowships) · [企业与基金会 Fellowship 5](ie.md#fellowships) · [个人信源与社交渠道 1](ie.md#people-channels) · [导师招生帖（社交平台个人发布） 1](ie.md#recruiting-posts)
 
 <a id="gov-scholarships"></a>
 
@@ -41,28 +41,31 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（1）
+## 结构化博士项目与研究机构（2）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Irish Cancer Society 癌症生存研究博士奖学金（PhD 2026）](https://www.cancer.ie/researchers-hub/open-funding-calls/phd-research-scholarship-award-2026)<br><sub>爱尔兰 ｜ 医学/公卫·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>每年 €25,000（固定博士生津贴）；奖学金总额 €150,000（生存研究）或 €190,000（转化生物医学/临床），另有 €5,000 流动性经费</sub> | **2026-04-07**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请截止日为 2026 年 4 月 7 日（已关闭）；2027 轮待官网公布</sub> | ❔ | **要求：** 需与爱尔兰共和国认可的宿主机构建立关联并在奖学金期间保持；未见明确的国籍限制表述<br>爱尔兰癌症协会 PhD 奖学金，生存研究（Survivorship）为 2026 年三个主题之一，资助 3–4 年全日制。资助上限在不同版本指南中有不同说法，以官方最新指南为准。 |
+| [RCSI StAR 博士项目（四年结构化，爱尔兰皇家外科医学院）](https://rcsi.com/dublin/research-and-innovation/research-careers/star-programme/star-phd)<br><sub>爱尔兰 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>搜索到的最近公告截止日为 2025-04-11（已过）；2026 轮未确认，需查看官网</sub> | ❔ | **要求：** 面向有生物医学、临床、人口健康或卫生服务研究背景的申请者；需荣誉学士二等一级以上或相关硕士；须事先找到 RCSI 导师。中国学生资格需向 RCSI 确认。<br>RCSI StAR 四年结构化博士项目，官网称全额资助，学习在爱尔兰与合作地点各半。Fulbright 路线仅限美国公民。中国学生资格需向 RCSI 确认。 |
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（3）
+## 博士后奖学金与项目（4）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Government of Ireland Postdoctoral Fellowship](https://www.research.ie/funding/goipd/)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>第1年 €46,305，第2年 €47,879（页面所载，征集开放时的薪级标准）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 2025-10-23 截止，结果 2026 年 4 月公布；2027 轮官网未见公告，可能于 2026 年秋季发布（未核实）。</sub> | ❔ | **要求：** 需在爱尔兰合格高校找到合作导师；第三方转述 2026 轮要求 5 年内获博士学位，请以官方征集文件为准。<br>页面标注 'CURRENT CALL CLOSED'；页面所列薪资与关键日期对应 2024 年征集（申请截止 2024 年 10 月 10 日），当前轮次以官方征集文件为准。 |
 | [Irish Cancer Society 癌症研究博后奖学金（须在爱尔兰宿主机构）](https://cancer.ie/cancer-research/researchers-hub/apply-for-funding/fellowships)<br><sub>爱尔兰 ｜ 医学/公卫·生物/生命科学·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 研究须在爱尔兰共和国宿主机构进行；博士毕业 0–5 年（翻译研究类）或 0–6 年（社会/护理类）；需至少一名有经验的学术导师；检索到的资料未见国籍限制（资料多为 2020–2024 年，当期以官网为准）<br>各项目轮次不同，当期截止日请在官网查看；国籍限制以官方说明为准。 |
 | [Research Ireland 企业伙伴博后计划（EPS Postdoctoral）](https://research.ie/funding/eps-postdoc/?f=)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2025 Partnership Stream 截止 2025 年 7 月 15 日（已过）；2026 轮未确认</sub> | ❔ | 企业伙伴博后计划：2025 轮 Partnership Stream 已截止。官网称 Partnership Stream 将再运行一次，时间未公布，以 researchireland.ie 为准。 |
+| [Research Ireland 企业研究员入驻（Enterprise Fellowship Placement）](https://www.researchireland.ie/funding/enterprise-fellowships/placement)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | **2025-07-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2025 年 7 月 15 日截止（已关闭）；企业入驻项目正在重组为新的统一研究员项目，2026 轮未见公告</sub> | ❔ | **要求：** 面向博后及临近毕业的博士研究者，在企业开展 1–24 个月研究；国际申请人资格以官网为准<br>Research Ireland 企业研究员入驻：官网显示 2025 年 7 月 15 日截止的一轮已关闭，项目计划合并为新的统一研究员项目，目前未见 2026 年公告。面向博后及临近毕业博士到企业开展研究（1–24 个月）；资格需向官网确认。 |
 
 <a id="fellowships"></a>
 
-## 企业与基金会 Fellowship（4）
+## 企业与基金会 Fellowship（5）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [Research Ireland Enterprise Fellowships（企业合作博士/博后）](https://www.researchireland.ie/funding/enterprise-fellowships)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | **2025-07-15**<br><sub>⏸ 本轮已截止</sub><br><sub>旧版 Partnership 线 2025 年 7 月 15 日截止；统一新项目的征集时间未公布，以 researchireland.ie 为准。</sub> | ❔ | **要求：** 需在爱尔兰合格高校开展研究并与企业或公共机构合作；面向博士后及后期博士生；国籍限制未确认<br>爱尔兰研究署企业合作博士/博后资助：旧版 Partnership 线 2025 年 7 月 15 日截止；研究署将推出统一的新企业合作项目，时间与条件未确认。官网搜索结果未见国籍限制。 |
 | [Research Ireland 企业伙伴博士计划（EPS Postgraduate）](https://www.researchireland.ie/funding/enterprise-partnership-postgraduate/)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>€25,000/年</sub> | **2026-02-24**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮截止 2026 年 2 月 24 日，已关闭；2027 轮是否开放以 researchireland.ie 为准</sub> | ❔ | 企业伙伴博士计划（EPS）2025 轮（2025-04-10 截止，最高约 €34,000/年）已结束。Research Ireland 官网未见 2026 轮公告；以 researchireland.ie 官方页为准。 |
 | [Teagasc Walsh 学者计划 2026 博士与研究硕士招生（爱尔兰）](https://teagasc.ie/news--events/news/applications-open-for-2026-teagasc-walsh-scholars-phd-and-research-masters-opportunities/)<br><sub>爱尔兰 ｜ 生物/生命科学·生态/进化·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€25,000/年，学费最高覆盖 €6,000/年（2026 轮）</sub> | **2026-09-10**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 轮研究项目提案 2026 年 9 月 10 日截止（已过），由高校教师通过 SmartSimple 提交；学生不直接申请</sub> | ❔ | **要求：** 国际生资格未确认：须以 2027 Guidelines for Proposers 为准；学生需通过爱尔兰高校教师提交的研究项目申请<br>爱尔兰农业食品研究机构 Teagasc 的 Walsh 博士奖学金，面向农业、食品、环境方向。 |
 | [爱尔兰海洋研究所 Cullen 博士奖学金](https://www.marine.ie/site-area/research-funding/research-funding/cullen-scholarship-2025-call)<br><sub>爱尔兰 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>每年约 6 月初截止（2025 轮为 6 月 10 日）；2026 轮未见公告，可邮件 funding@marine.ie 核实</sub> | ❔ | **要求：** 宿主须为爱尔兰岛内高校导师；国际生资格以当年公告为准<br>每轮约 10 个海洋科学博士名额，挂靠 Marine Institute 项目。 |

@@ -2,19 +2,19 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 结构化博士项目与研究机构（1311） · 第 3/3 页
+# 结构化博士项目与研究机构（1375） · 第 3/3 页
 
 自带资金、统一招生的博士项目（研究所、博士训练中心、国际研究型大学）。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [美国（US） 361](doctoral-programs.md#r-us) · [德国（DE） 181](doctoral-programs.md#r-de) · [英国（UK） 179](doctoral-programs-2.md#r-uk) · [法国（FR） 80](doctoral-programs-2.md#r-fr) · [中国香港（HK） 60](doctoral-programs-2.md#r-hk) · [意大利（IT） 59](doctoral-programs-2.md#r-it) · [瑞士（CH） 56](doctoral-programs-2.md#r-ch) · [加拿大（CA） 31](doctoral-programs-2.md#r-ca) · [荷兰（NL） 28](doctoral-programs-2.md#r-nl) · [瑞典（SE） 28](doctoral-programs-2.md#r-se) · [日本（JP） 26](doctoral-programs-3.md#r-jp) · [奥地利（AT） 22](doctoral-programs-3.md#r-at) · [西班牙（ES） 21](doctoral-programs-3.md#r-es) · [丹麦（DK） 17](doctoral-programs-3.md#r-dk) · [芬兰（FI） 15](doctoral-programs-3.md#r-fi) · [新加坡（SG） 14](doctoral-programs-3.md#r-sg) · [中国内地（CN） 12](doctoral-programs-3.md#r-cn) · [捷克（CZ） 12](doctoral-programs-3.md#r-cz) · [阿联酋（AE） 11](doctoral-programs-3.md#r-ae) · [欧盟/欧洲（EU） 11](doctoral-programs-3.md#r-eu) · [澳大利亚（AU） 8](doctoral-programs-3.md#r-au) · [印度（IN） 8](doctoral-programs-3.md#r-in) · [挪威（NO） 8](doctoral-programs-3.md#r-no) · [沙特（SA） 8](doctoral-programs-3.md#r-sa) · [比利时（BE） 7](doctoral-programs-3.md#r-be) · [葡萄牙（PT） 6](doctoral-programs-3.md#r-pt) · [以色列（IL） 5](doctoral-programs-3.md#r-il) · [波兰（PL） 4](doctoral-programs-3.md#r-pl) · [克罗地亚（HR） 3](doctoral-programs-3.md#r-hr) · [罗马尼亚（RO） 3](doctoral-programs-3.md#r-ro) · [全球（GLOBAL） 2](doctoral-programs-3.md#r-global) · [匈牙利（HU） 2](doctoral-programs-3.md#r-hu) · [KE 2](doctoral-programs-3.md#r-ke) · [卢森堡（LU） 2](doctoral-programs-3.md#r-lu) · [拉脱维亚（LV） 2](doctoral-programs-3.md#r-lv) · [新西兰（NZ） 2](doctoral-programs-3.md#r-nz) · [卡塔尔（QA） 2](doctoral-programs-3.md#r-qa) · [中国台湾（TW） 2](doctoral-programs-3.md#r-tw) · [塞浦路斯（CY） 1](doctoral-programs-3.md#r-cy) · [爱沙尼亚（EE） 1](doctoral-programs-3.md#r-ee) · [希腊（GR） 1](doctoral-programs-3.md#r-gr) · [爱尔兰（IE） 1](doctoral-programs-3.md#r-ie) · [韩国（KR） 1](doctoral-programs-3.md#r-kr) · [立陶宛（LT） 1](doctoral-programs-3.md#r-lt) · [俄罗斯（RU） 1](doctoral-programs-3.md#r-ru) · [斯洛文尼亚（SI） 1](doctoral-programs-3.md#r-si) · [SM 1](doctoral-programs-3.md#r-sm) · [土耳其（TR） 1](doctoral-programs-3.md#r-tr) · [VN 1](doctoral-programs-3.md#r-vn)
+**按地区跳转：** [美国（US） 383](doctoral-programs.md#r-us) · [英国（UK） 189](doctoral-programs.md#r-uk) · [德国（DE） 187](doctoral-programs-2.md#r-de) · [法国（FR） 82](doctoral-programs-2.md#r-fr) · [意大利（IT） 63](doctoral-programs-2.md#r-it) · [中国香港（HK） 60](doctoral-programs-2.md#r-hk) · [瑞士（CH） 56](doctoral-programs-2.md#r-ch) · [加拿大（CA） 33](doctoral-programs-2.md#r-ca) · [荷兰（NL） 33](doctoral-programs-2.md#r-nl) · [日本（JP） 31](doctoral-programs-3.md#r-jp) · [瑞典（SE） 28](doctoral-programs-3.md#r-se) · [奥地利（AT） 22](doctoral-programs-3.md#r-at) · [西班牙（ES） 21](doctoral-programs-3.md#r-es) · [丹麦（DK） 17](doctoral-programs-3.md#r-dk) · [芬兰（FI） 17](doctoral-programs-3.md#r-fi) · [新加坡（SG） 14](doctoral-programs-3.md#r-sg) · [欧盟/欧洲（EU） 13](doctoral-programs-3.md#r-eu) · [中国内地（CN） 12](doctoral-programs-3.md#r-cn) · [捷克（CZ） 12](doctoral-programs-3.md#r-cz) · [阿联酋（AE） 11](doctoral-programs-3.md#r-ae) · [澳大利亚（AU） 8](doctoral-programs-3.md#r-au) · [印度（IN） 8](doctoral-programs-3.md#r-in) · [挪威（NO） 8](doctoral-programs-3.md#r-no) · [沙特（SA） 8](doctoral-programs-3.md#r-sa) · [比利时（BE） 7](doctoral-programs-3.md#r-be) · [葡萄牙（PT） 6](doctoral-programs-3.md#r-pt) · [以色列（IL） 5](doctoral-programs-3.md#r-il) · [波兰（PL） 5](doctoral-programs-3.md#r-pl) · [克罗地亚（HR） 3](doctoral-programs-3.md#r-hr) · [匈牙利（HU） 3](doctoral-programs-3.md#r-hu) · [罗马尼亚（RO） 3](doctoral-programs-3.md#r-ro) · [全球（GLOBAL） 2](doctoral-programs-3.md#r-global) · [爱尔兰（IE） 2](doctoral-programs-3.md#r-ie) · [KE 2](doctoral-programs-3.md#r-ke) · [卢森堡（LU） 2](doctoral-programs-3.md#r-lu) · [拉脱维亚（LV） 2](doctoral-programs-3.md#r-lv) · [新西兰（NZ） 2](doctoral-programs-3.md#r-nz) · [卡塔尔（QA） 2](doctoral-programs-3.md#r-qa) · [俄罗斯（RU） 2](doctoral-programs-3.md#r-ru) · [中国台湾（TW） 2](doctoral-programs-3.md#r-tw) · [塞浦路斯（CY） 1](doctoral-programs-3.md#r-cy) · [爱沙尼亚（EE） 1](doctoral-programs-3.md#r-ee) · [希腊（GR） 1](doctoral-programs-3.md#r-gr) · [韩国（KR） 1](doctoral-programs-3.md#r-kr) · [立陶宛（LT） 1](doctoral-programs-3.md#r-lt) · [斯洛文尼亚（SI） 1](doctoral-programs-3.md#r-si) · [SM 1](doctoral-programs-3.md#r-sm) · [土耳其（TR） 1](doctoral-programs-3.md#r-tr) · [VN 1](doctoral-programs-3.md#r-vn)
 
 **分页：** [第 1 页](doctoral-programs.md) · [第 2 页](doctoral-programs-2.md) · [第 3 页](doctoral-programs-3.md)
 
 <a id="r-jp"></a>
 
-## 日本（JP）（26）
+## 日本（JP）（31）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -29,7 +29,9 @@
 | [RIKEN Junior Research Associate / IPA](https://www.riken.jp/en/careers/programs/)<br><sub>日本 ｜ 物理/天文·生物/生命科学·化学/材料·计算机·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | 🟡 | **要求：** 须为非日本籍博士生，且就读于与理研有联合培养协议的合作大学（名单各版本不一，以当期为准）；申请时间与资助细节未核实<br>理化学研究所 IPA（International Program Associate）面向非日本籍博士生，须就读于参与理研联合培养的大学，在理研研究室开展博士课题。仅合作大学的在读生符合条件，资助与申请时间以当期公告为准。 |
 | [RIKEN 国际项目助理（IPA）博士生项目](https://www.riken.jp/en/careers/programs/ipa/index.html)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各实验室截止不同，需向具体实验室确认。</sub> | 🟡 | **要求：** 需为 RIKEN 合作研究生院伙伴大学的在读博士生，在 RIKEN 实验室开展研究。<br>RIKEN IPA 博士生项目：仅面向合作大学在读博士生，在 RIKEN 实验室做研究；提供生活津贴和住房支持，具体金额以官网为准。 |
 | [Science Tokyo 国际研究生项目 IGP-A](https://admissions.isct.ac.jp/en/013/graduate/programs/igp/igp-a)<br><sub>日本 ｜ 工程·化学/材料·物理/天文·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | **2026-11-22**<br><sub>🟢 开放申请</sub><br><sub>2027 年秋入学批次申请期为 2026 年 9 月 9 日至 11 月 22 日（同意函提交截止 11 月 15 日），结果 2027 年 3 月 3 日通知</sub> | ❔ | 东京科学大学（原东工大）国际研究生项目 IGP-A，英文授课，申请前须先获得本校教员担任指导教师。项目本身不直接提供资助；学校仅推荐少量优秀者申请 MEXT 奖学金。 |
+| [东京大学工学 International Graduate Program（MEE）](https://www.ime.t.u-tokyo.ac.jp)<br><sub>日本 ｜ 工程·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布 | 🟡 | **要求：** 需先联系导师；若通过驻外使馆推荐申请 MEXT 奖学金，则不能入读本项目<br>东京大学 IME 国际研究生项目（工学），全英文硕博。优秀申请者可获 MEXT 或 IME 奖学金，并非全员资助；需先联系导师。 |
 | [东京科学大学 International Graduate Program](https://www.titech.ac.jp/english/public-relations/global/featured/international-graduate)<br><sub>日本 ｜ 工程·计算机·化学/材料·物理/天文·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>🔜 即将开放</sub><br><sub>IGP(B)（RIKEN 合作，9 月入学）官网称下一轮 2027 年 1 月开始申请；IGP(A) 2027 轮时间待官网确认。</sub> | ✅ | **要求：** 需通过 IGP(A) 申请，MEXT 推荐名额极少且不可自选；全英文申请材料<br>全英文授课；IGP(A) 优秀者可申请 MEXT 大学推荐奖学金，IGP(C) 为自费或其他资助。 |
+| [东京科学大学 · 理化学研究所国际博士项目 IGP(B)](https://admissions.isct.ac.jp/en/013/graduate/programs/science-and-engineering/igp-b-riken)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>上一轮申请 2026 年 1 月 14 日至 4 月 5 日已关闭；官网称主批次 2027 年 1 月开放，具体日期未公布</sub> | ❔ | **要求：** 全英文授课，无需日语；申请前须先由东京科学大学教员同意担任学术指导。<br>全英文授课，每年 9 月入学，依托 RIKEN 资源；上一轮 2026 年 4 月已截止，官网称下一轮 2027 年 1 月开放；资助方式以官网为准。 |
 | [东京科学大学国际研究生项目（IGP）· 英语授课 博士课程](https://admissions.isct.ac.jp/en/013/graduate/programs/science-and-engineering)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>🔜 即将开放</sub><br><sub>IGP(A) 2027 年秋入学批次申请期为 2026 年 9 月 9 日至 11 月 22 日；IGP(B)-RIKEN 等路线以官方为准</sub> | 🟡 | **要求：** 须先取得教员指导同意；英语授课；IGP(B) 面向已获/拟获本国政府或机构奖学金（如 CSC）者，RIKEN 路线由 RIKEN 提供最长 3 年资助<br>东京科学大学 IGP 英语授课：IGP(A) 为 MEXT 推荐路线，IGP(B) 面向 CSC 等外国政府奖学金获得者，IGP(B)-RIKEN 由 RIKEN 提供最长 3 年资助；IGP(C) 一般无 MEXT 奖学金。是否有资助取决于路线，以官方申请指南为准。 |
 | [京都大学 iCeMS 入学与加入页（研究生与博后）](https://www.icems.kyoto-u.ac.jp/en/join)<br><sub>日本 ｜ 化学/材料·生物/生命科学·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 博士生须通过京都大学各研究科录取；博后需直接联系课题组；学历与语言要求以研究科或 PI 为准<br>博士通过京都大学各研究科录取，博后需直接联系课题组；资助需另行与导师或研究科确认。 |
 | [京都大学双学位项目列表（含与浙江大学博士双学位）](https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/jddd)<br><sub>日本·中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>以京都大学能源科学研究科当年博士招生简章为准；未找到截止日期</sub> | ❔ | **要求：** 需满足京都大学研究科博士入学要求（具体条件未核实）；双学位安排以两校协议为准<br>京都大学双学位项目列表（截至 2024 年 12 月）列有能源科学研究科与浙江大学的博士双学位。入学条件、截止与资助页面未列出，以京大当年招生简章为准。 |
@@ -41,9 +43,47 @@
 | [大阪大学工学研究科博士招生页（学费免除与公募）](https://www.es.osaka-u.ac.jp/en/admission-aid/graduate-admissions/index.html)<br><sub>日本 ｜ 工程·物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | —<br><sub>以页面公告为准；工学研究科学费免除仅限自费国际生中成绩优秀者；享受 CSC 公派奖学金的学生不适用大阪大学学费免除制度</sub> | 🟡 | **要求：** 需为自费国际生（在留资格为留学），入学考试成绩优秀；CSC 公派生不适用学费免除<br>博士公募批次（10 月或 4 月入学），自费国际生优秀入学者有学费免除；截止以页面公告为准. |
 | [奈良先端科学技术大学院大学（NAIST）博士招生指南](https://www.naist.jp/en/international_students/prospective_students/admission_information/guidelines.html)<br><sub>日本 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>2027 年博士招生指南已发布（含 2027 年春季及秋季入学考试安排，具体日期以 PDF 为准）；外国籍申请者需在申请期前至少一个月完成前置手续</sub> | ❔ | **要求：** 需硕士学位或预计 2027 年 3 月 31 日前取得；非日本国籍（永久居民除外）须在申请期前至少一个月完成预申请；建议先联系拟加入实验室的导师。<br>NAIST 2027 年博士招生指南：需硕士学位或预计 2027 年 3 月 31 日前获得；外国籍（永久居民除外）须在申请期前至少一个月完成预申请；建议先联系拟加入实验室的导师。资助以各项目为准。 |
 | [岐阜大学联合农学研究科英文授课博士项目（2027）](https://www.ugsas.gifu-u.ac.jp/file/EnglishProgramPoster2027.pdf)<br><sub>日本 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>约 6 万日元/月（若每月其他资助合计达 10 万日元以上则不可领取）</sub> | **2026-12-18**<br><sub>🔜 即将开放</sub><br><sub>2027 年 4 月或 10 月入学；网上报名与受理 2026-12-04 至 2026-12-18；笔试/面试 2027-02-04，合格公布 2027-02-16</sub> | ❔ | **要求：** 硕士学位或入学前取得（4 月入学截至 2027-03-31，10 月入学截至 2027-09-30）；TOEFL iBT 72 分以上或 IELTS 5.5 以上；MEXT 奖学金申请者不可申请<br>岐阜大学联合农学研究科英文授课博士项目：3 年学费（含入学费、考试费）免收，每月约 6 万日元补助；机票、住宿与保险自理。 |
+| [理研先进智能项目（RIKEN AIP）海外学生招收](https://aip.riken.jp/?p=15125)<br><sub>日本 ｜ 人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 未公布<br><sub>📋 持续更新</sub><br><sub>搜索结果未显示截止，需在官网核实。</sub> | ❔ | **要求：** AIP 海外合作计划面向在读硕博生，需母校许可并与 AIP 研究者合作（赴日 3–12 个月）；IPA 项目需母校与理研签有合作协议。<br>官网称欢迎海外硕博生与导师合作。两条路径：AIP 合作（赴日 3–12 个月）；IPA（非日本籍博士生，需母校与理研合作）。学位通常由合作大学授予，无统一截止。 |
+| [理研生物系统动力学研究中心（BDR）研究生入口](https://www.bdr.riken.jp/en/career/graduate-students/index.html)<br><sub>日本 ｜ 生物/生命科学·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | BDR 研究生多以合作大学兼职教授身份在其研究生院攻读，学位由大学授予，需先联系 BDR 研究组长。津贴与学费需与导师及合作大学确认。 |
+| [理研脑科学中心（CBS）研究生与联合培养](https://cbs.riken.jp/en/renkei/about_cbs.html)<br><sub>日本 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 需先联系 CBS 课题组负责人获同意，再通过合作研究生院的入学考试；具体以各合作大学要求为准<br>RIKEN CBS 通过与大学的合作研究生院制度让学生在中心做研究：先联系 CBS 课题组负责人获同意，再参加合作研究生院入学考试。RIKEN 另设面向外国博士生的 IPA 项目（据 RIKEN 页面含生活津贴、住宿与机票，期限原则上 1-3 年）；合作院校名单以官网为准。 |
 | [理研（RIKEN）量子计算中心招聘页（含 IPA 国际项目）](https://rqc.riken.jp/en/recruit.html)<br><sub>日本 ｜ 物理/天文·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 仅生活费 | 各项目不同<br><sub>📋 持续更新</sub> | 🟡 | **要求：** 非日本籍在读博士生，经海外或日本合作大学安排到理研研究，须由理研研究员指导；可获每日生活津贴，住宿支持最长 3 年<br>理研 IPA 面向非日本籍在读博士生，须经与理研签有联合研究生院协议的大学安排到理研研究，并非所有渠道对国际生开放，需经合作大学与理研 PI 确认；RQC 页面未见具体 IPA 招生公告。 |
 | [生理学研究所（NIPS）SOKENDAI 博士奖学金](https://www.nips.ac.jp/eng/graduate/phd_scholarship.html)<br><sub>日本 ｜ 生物/生命科学·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>大使馆推荐与大学推荐两条路径时间不同，以 SOKENDAI 官网公告为准。</sub> | ❔ | **要求：** 需符合 MEXT 奖学金国籍条件，经大使馆推荐、大学推荐或 SOKENDAI 国际项目路径申请；具体以官网为准。<br>面向日本以外的新入学外国学生，经 MEXT 奖学金路径（大使馆推荐或大学推荐）申请，通常覆盖学费与月津贴；中国大陆申请者的国籍与路径条件需以官网为准。 |
 | [综研大学院大学统计科学博士（统计数理研究所）](https://www.soken.ac.jp/en/admission/application_info/stat)<br><sub>日本 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>每年 10 月与次年 4 月入学，具体截止以招生指南为准</sub> | ❔ | **要求：** 按官方指南申请，海外自费生与 MEXT 路径各有指南<br>综研大学院大学统计科学博士（统计数理研究所）：英文指南覆盖 2026 年 10 月、2027 年 4 月与 10 月入学，有五年制与三年制两条轨道；海外自费生与 MEXT 路径各有指南。奖学金与截止日以当期英文指南为准，材料不全不予受理。 |
+
+<a id="r-se"></a>
+
+## 瑞典（SE）（28）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Chalmers Energy, Environment and Systems 研究生院](https://www.chalmers.se/en/research/we-train-new-researchers/graduate-schools/energy-environment-and-systems/)<br><sub>瑞典 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>博士岗位在 Chalmers 招聘页常年发布，没有统一截止日期。</sub> | ❔ | **要求：** 需硕士学位且与专业有足够关联；部分方向要求机械、工程物理或化工背景。<br>下设能源转换、工业能源系统、环境系统分析等方向。博士岗为全职固定期受雇岗位，一般不超过 5 年。 |
+| [Chalmers 博士生培养与雇佣说明（博士岗位入口）](https://www.chalmers.se/en/research/doctoral-studies/about-doctoral-studies/)<br><sub>瑞典 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>博士岗位在 Chalmers 招聘页分批发布，各自有截止日期，没有统一年度截止。</sub> | ❔ | **要求：** 需具备第二周期（硕士）学位（120 学分，或 60 学分硕士），专业须与博士课程有充分关联；英语最低要求为瑞典高中 English B/6；具体学科要求见各研究生院学习计划。<br>Chalmers 博士生为全职固定期限雇员，领取月薪，不收学费；博士岗位在招聘页逐条公布，各岗位截止日期不同。博士生的教学与系内工作最多占工作时间的 20%。 |
+| [Karolinska Institutet 博士岗位招聘](https://education.ki.se/available-positions-for-doctoral-education)<br><sub>瑞典 ｜ 医学/公卫·生物/生命科学·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub><br><sub>岗位按各招聘公告截止；需在 ki.se 逐个核实</sub> | ❔ | **要求：** 非欧盟申请人需确认工作与居留许可，并先与导师确认意向<br>页面称 KI 博士教育岗位在此持续发布，具体岗位的申请截止与资格以各公告为准。 |
+| [Karolinska Institutet 博士招生说明](https://education.ki.se/want-to-study-at-doctoral-level-at-karolinska-institutet)<br><sub>瑞典 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub><br><sub>按具体课题在 Varbi 系统发布岗位，截止日期以各岗位为准</sub> | ✅ | 卡罗林斯卡学院博士：按具体课题发布带薪岗位，需硕士学位及英语能力，按岗位要求提交申请材料。 |
+| [KTH 如何申请博士（受雇博士岗位入口说明）](https://kth.se/en/studies/phd/how-to-apply-1.520089)<br><sub>瑞典 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>KTH 博士空缺岗位分批公布，没有统一截止日，以各岗位公告为准。</sub> | ❔ | **要求：** 以各岗位公告为准；通过 KTH 招聘系统申请，博士生为 KTH 雇员并领取月薪。<br>官方页面说明从申请到录用的步骤；岗位通常先签一年合同后续约，全时博士学习总期限上限四年。可在 KTH 招聘页按 PhD 关键词筛选在招岗位。 |
+| [KTH 能源与环境系统博士培养](https://www.energy.kth.se/education/doctoral-studies/phd-studies-in-energy-and-environmental-systems-1.942695)<br><sub>瑞典 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>岗位分九次/年发布，截止日各不相同；博士为受雇员工，领取月薪</sub> | ❔ | **要求：** 需申请 KTH 空缺博士岗位，学历要求以岗位为准。<br>页面为能源技术系博士培养页，列出研究方向（热能存储、燃料电池、生物燃料、热泵等）及博士课程联系方式与表格；页面未列申请条件、薪酬或截止日期。 |
+| [KTH 车辆、海洋与航空航天工程博士项目](https://kth.se/en/sci/forskning/forskarutbildning/doktorsprogrammet-i-farkost-och-flygteknik-1.1304809)<br><sub>瑞典 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>无统一申请期；只能申请 KTH 招聘平台发布的在招岗位</sub> | ❔ | 博士生通常为带薪岗位，只有在 KTH 招聘平台发布的岗位才能申请，需订阅提醒。 |
+| [PRISMAS 同步辐射方法博士项目（MAX IV，瑞典隆德）](https://www.maxiv.lu.se/prismas)<br><sub>瑞典·欧盟/欧洲 ｜ 物理/天文·化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>📋 持续更新</sub><br><sub>首轮招生已公布，2026 年是否有新一轮未能确认，需到项目页查看</sub> | ❔ | Horizon Europe MSCA COFUND 资助的同步辐射方法博士项目，含隆德 MAX IV 必修访学。前两轮已关闭，第三轮据官网 7–8 月开放（约 5 个名额）；本轮是否已截止未能确认，请以 maxiv.lu.se/prismas 为准。MSCA 类项目常有国籍/居留限制，中国学生需逐条核对。 |
+| [乌普萨拉大学 · 进化与生态遗传学博士岗 (UFV-PA 2026/2654)](https://uu.varbi.com/en/what:job/jobID:967249/)<br><sub>瑞典 ｜ 生态/进化·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>2026 年 11 月 1 日截止，入职时间 2027 年内灵活安排；全职 4 年，按瑞典大学博士工资表聘用，以岗位公告为准。</sub> | ❔ | **要求：** 需硕士学位（进化生物学、生态学、生物信息学或相近专业）；岗位公告未列国籍限制，国际生是否满足需以公告为准。<br>乌普萨拉大学生态与遗传系招聘博士生，课题涉及进化与生态遗传学，偏定量遗传/群体基因组/实验进化。申请需在 uu.varbi.com 提交，材料含 2 页求职信、CV、硕士证书与成绩单、两位推荐人。联系人 David Berger。 |
+| [乌普萨拉大学和平与冲突研究系博士项目](https://www.uu.se/en/department/peace-and-conflict-research/study/phd-programme-in-peace-and-conflict-research)<br><sub>瑞典 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 3 月 25 日截止的一轮已结束；2027 轮未见公告，通常年初发布</sub> | ❔ | 乌普萨拉和平与冲突研究系：博士生是大学雇员，有薪水，项目一般 4 年（含约 1 年课程）。系里每年发布 1–2 轮全额资助岗位。国际申请者资格未在已核实页面明确，需以招聘公告为准。 |
+| [乌普萨拉大学数学系博士岗位（2026 年批次新闻）](https://www.uu.se/en/department/mathematics/news/archive/2026-02-18-four-open-phd-positions)<br><sub>瑞典 ｜ 数学/统计·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年数学系批次 3 月 16 日截止（已过）；下一轮通常 2 月前后公告，2027 年以官网为准</sub> | ❔ | **要求：** 需满足岗位公告的学位与英语要求；录取通过带薪博士生岗位完成<br>乌普萨拉数学系每年约 2 月公布带薪博士岗位。2026 年 3 月截止已过，下一轮关注次年 2 月公告。 |
+| [乌普萨拉大学数学系博士招生](https://www.uu.se/en/department/mathematics/study/phd-studies)<br><sub>瑞典 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮截止已过；2027 轮以乌普萨拉大学官网公告为准。</sub> | ❔ | **要求：** 需硕士学位或即将完成的硕士论文；具体资格以各岗位公告为准<br>数学博士岗多在春季集中招聘（约 3 月截止）。 |
+| [吕勒奥理工大学 Creaternity 博士研究员岗位（可持续材料与循环经济）](https://www.ltu.se/forskning/creaternity---hallbara-material-i-en-uppkopplad-och-cirkular-ekonomi/doktorander-i-creaternitys-forskarskola)<br><sub>瑞典 ｜ 工程·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>岗位随批次公布，截止日各不相同</sub> | ❔ | LTU 研究学校博士岗位，按瑞典博士雇员签约，一般 4 年；国际生需核对英语与学历要求。 |
+| [哥德堡大学 CUL 研究生院（教育科学/教师研究方向）](https://www.gu.se/culf/forskarskolan-cul/ansokan-till-cul-forskarskola)<br><sub>瑞典 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>上一轮 2025-10-31 至 2026-01-30 已关闭；以官网公告为准</sub> | ❔ | **要求：** 须持有瑞典教师资格证（lärarexamen）；另需满足高等教育基本资格（高级别学位或不少于 240 学分的课程）及所选学科的特别资格要求。<br>CUL 研究生院实为教育科学与教师研究方向的博士招生，并非人文社科方向；博士生以大学雇员身份获薪，申请前请确认学科匹配。 |
+| [哥德堡大学 Sahlgrenska 学院博士培养与招生说明](https://gu.se/en/sahlgrenska-akademin/doctoral-studies)<br><sub>瑞典 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub><br><sub>博士岗位在哥德堡大学 Vacancies 页持续发布，截止日以各岗位为准</sub> | ❔ | 医学与口腔方向博士岗经 Vacancies 页公开招聘；外部机构出资岗位需先提交个人学习计划。 |
+| [斯德哥尔摩大学人文地理系 · 成为研究者（博士职位说明）](https://www.su.se/english/divisions/department-of-human-geography/research/become-a-researcher)<br><sub>瑞典 ｜ 地球/环境/海洋·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>页面未列出博士岗位的申请截止日，需以系里当年招聘公告为准。</sub> | ❔ | **要求：** 硕士或同等学历；人文地理至少 90 学分或同等；英语或瑞典语达标（以岗位公告为准）<br>斯德哥尔摩大学人文地理系博士岗位说明页（2025-12-08 更新）：四年制全职博士项目，博士生通常受聘于系里。页面未列出申请截止日与资格要求，需以当年招聘公告为准。 |
+| [斯德哥尔摩大学经济学博士项目（与 IIES 合作）](https://www.su.se/english/divisions/department-of-economics/education/courses-and-programmes/phd-programme-in-economics)<br><sub>瑞典 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>🔜 即将开放</sub><br><sub>页面称每年 12 月初开放申请、1 月中旬截止</sub> | ❔ | **要求：** 需第二周期（硕士级）学位；经济学课程至少 90 ECTS，学位论文至少 15 ECTS；GRE 5 年内有效；2 封推荐信<br>瑞典博士通常为带薪雇员职位，约 4 年；申请窗口多在 12 月初至 1 月中旬。 |
+| [斯德哥尔摩大学经济系博士项目（带薪雇员制）](https://www.su.se/english/divisions/department-of-economics/education/courses-and-programmes/applying-to-the-phd-programme-in-economics)<br><sub>瑞典 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2027-01-31**<br><sub>🔜 即将开放</sub><br><sub>2027 入学申请期为 2026 年 12 月 1 日至 2027 年 1 月 31 日（官网申请页）；2026 入学轮已关闭。</sub> | ❔ | **要求：** 需经济学 90 ECTS 学分（或等价知识）并有经济学论文；申请要求 GRE 与推荐信；页面未说明国籍限制，国际生资格以官网为准。<br>博士生为受雇的博士候选人，按薪级发工资，全日制 48 个月；每年录取约 10 人。适合有较强经济学数理与实证基础的申请者。 |
+| [斯德哥尔摩经济学院（SSE）PhD 项目（经济与商管）](https://www.hhs.se/en/research/departments/de/phd-program/)<br><sub>瑞典 ｜ 经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>SEK 26,000/月（入学时，免税，后续年份可能调整）</sub> | —<br><sub>2027 年 8 月开学；官网搜索结果中未见申请截止日，以 SSE 官网为准</sub> | ❔ | **要求：** 需一个大学学位，至少三学期经济学课程，并有一年硕士水平学习或同等经历；全日制、英文授课<br>五年全日制英文博士，官方称录取者全程获资助（月津贴 SEK 26,000 起，免税），2027 年 8 月开学；申请截止未核实。 |
+| [斯德哥尔摩经济学院（SSE）博士奖学金（经济学）](https://www.hhs.se/education/phd/economics/)<br><sub>瑞典 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>SEK 26,000/月（免税）</sub> | 未公布<br><sub>🔜 即将开放</sub><br><sub>下一批入学为 2027 年 8 月；申请截止日未确认</sub> | ❔ | 官网称录取博士生可获免税月度奖学金 26,000 瑞典克朗，全部录取者获得资助保障，无学费，项目五年。下一批入学为 2027 年 8 月。旧版 FAQ 的 15,000/16,000 克朗数字已过时；官网未明确国籍条款，国际生资格需确认。 |
+| [林雪平大学 博士申请说明](https://liu.se/en/research/doctoral-studies/apply-for-doctoral-studies)<br><sub>瑞典 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各博士岗位截止日不同，以学校招聘页（Vacancies / PhD students）公告为准</sub> | ❔ | **要求：** 需完成硕士级学位，或完成至少 240 学分高等教育（其中至少 60 学分为高级水平）或同等知识；另需满足各学科具体入学要求。博士学习为两至四年全职。<br>博士生录取需同时受聘为博士生（有薪），申请岗位即申请入学。截止日各不相同，以学校招聘页为准。 |
+| [林雪平大学计算社会科学研究生院](https://liu.se/en/research/research-school-in-computational-social-science)<br><sub>瑞典 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>📋 持续更新</sub> | ❔ | 页面称由瑞典研究理事会拨款资助，覆盖项目活动期间的住宿与瑞典境内差旅，非瑞典参加者仅有限提供差旅补助。面向瑞典高校博士生，也接受其他国家申请者；两年一届，2025 届申请已关闭。 |
+| [隆德大学医学院 Prospective PhD students（受雇博士岗位）](https://www.lunduniversity.lu.se/admissions/phd-studies)<br><sub>瑞典 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>截止时间以隆德大学招聘门户各岗位公告为准</sub> | ❔ | **要求：** 须获得第三级（博士）入学资格，基础资格通常为硕士或同等学历；具体岗位要求以广告为准<br>隆德大学医学院博士岗位多为带薪受雇博士职位（固定期限，通常 4 年），一般以岗位招聘形式发布。个人凭外部奖学金申请的情形也可能存在，需看具体岗位是否对国际申请人开放。 |
+| [隆德大学博士教育（Doctoral studies）](https://www.lunduniversity.lu.se/study/study-opportunities-lund-university/doctoral-studies)<br><sub>瑞典 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 通过 Varbi 申请；竞争激烈；具体学历与语言要求以岗位公告为准<br>博士多为带薪雇佣，funded 岗位在学校招聘页按 Doctoral students 筛选，经 Varbi 申请。 |
+| [隆德大学心理学系博士项目](https://psy.lu.se/en/education/study-psychology-0/study-phd-programme)<br><sub>瑞典 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止不同，在大学招聘系统发布；以当期为准</sub> | ❔ | **要求：** 需心理学硕士学位；入学取决于获得博士雇员职位或同等外部资金；可能需面试；申请材料含 CV、学习计划与经费计划<br>隆德大学心理学系博士为约四年全职的带薪雇员职位（240 学分）；页面提供项目说明与岗位搜索入口，具体岗位在 Varbi 系统随时发布，截止各不相同。 |
+| [隆德大学性别研究博士培养页](https://www.soc.lu.se/en/doctoral-studies/doctoral-studies-gender)<br><sub>瑞典 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 滚动<br><sub>📋 持续更新</sub><br><sub>博士岗按校方公告发布，无固定截止</sub> | ❔ | 隆德大学性别研究博士培养页。隆德博士生为带薪雇员、免学费。具体岗位截止需到 Varbi 门户核对。 |
+| [隆德大学统计系博士研究生职位](https://lusem.lu.se/organisation/department-statistics/doctoral-studies-department-statistics)<br><sub>瑞典 ｜ 数学/统计·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年在招职位截止为 5 月 31 日或 6 月 10 日，均已过；2027 轮以 lu.varbi.com 为准</sub> | ✅ | 博士生为带薪职位，通常4年全职，部门称一般提供全程经济支持。2026年本轮截止已过（5月31日），可留意该页面的下一轮 Current job openings 与 lu.varbi.com 发布。 |
+| [隆德大学职位库（含 LTH 电气与信息技术系博士岗）](https://lunduniversity.lu.se/vacancies)<br><sub>瑞典 ｜ 工程·计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ✅ | 瑞典博士为带薪雇佣合同，官网称博士教育无学费。职位库为滚动发布，中国学生资格需看各岗位公告，申请通过 lu.varbi.com。 |
 
 <a id="r-at"></a>
 
@@ -128,7 +168,7 @@
 
 <a id="r-fi"></a>
 
-## 芬兰（FI）（15）
+## 芬兰（FI）（17）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -138,6 +178,8 @@
 | [Hanken 商学院博士资助方式说明（Financing doctoral studies）](https://www.hanken.fi/node/19317)<br><sub>芬兰 ｜ 商科/管理·经济/金融·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | Hanken 经济学院官方页：全日制博士生可通过雇员合同资助（页面称适用于 2027 年起全日制入学者：第 1 年 100% 合同 12 个月，第 2–4 年 50% 合同，其余需申请科研经费补足）、外部科研经费，或校内奖学金（名额有限）。页面未说明中国学生资格，保持 check。 |
 | [Tampere University 国际流行病学与公共卫生博士项目（IPPE）](https://www.tuni.fi/en/study-with-us/international-doctoral-programme-epidemiology-and-public-health-ippe)<br><sub>芬兰 ｜ 医学/公卫·社会科学/心理</sub> | 博士 | 不提供资助 | **2026-12-02**<br><sub>🔜 即将开放</sub><br><sub>2027 入学申请 11 月 2 日至 12 月 2 日；2027 年 8 月入学。免学费，但不提供个人或项目资助，需自备生活费。</sub> | ❔ | 面向国际申请者，第一年在坦佩雷修课。官网称项目不提供资助，学生需自行承担在芬兰约 10 个月的生活费。2027–2028 申请窗口 11 月 2 日至 12 月 2 日，2027 年 8 月入学。 |
 | [于韦斯屈莱大学博士项目申请（含体育与健康科学）](https://www.jyu.fi/en/news/get-ready-to-apply-to-doctoral-programmes-at-jyu-in-autumn-2026)<br><sub>芬兰 ｜ 医学/公卫·生物/生命科学·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 秋季窗口 9 月 1–30 日已关闭；2027 春季入学轮预计 2027 年 4 月开放，截止以 Studyinfo 为准</sub> | ❔ | **要求：** 需硕士学位（或同等学历），提交研究计划与博士学习计划，并事先联系 JYU 潜在导师；项目英文授课<br>于韦斯屈莱大学 2026 年起共六个博士项目（含体育与健康科学）。秋季窗口已结束，春季轮预计 2027 年 4 月开放，需事先与校内导师联系。 |
+| [图尔库大学 2026 秋季博士研究员招聘（OPPI/KEVEKO）](https://www.utu.fi/en/call-for-application-OPPI-and-KEVEKO)<br><sub>芬兰 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-09-08**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年秋季征集申请窗口为 8 月 25 日至 9 月 8 日，已结束；下一轮时间未确认。</sub> | ❔ | **要求：** 需相关硕士学位及征集文件规定的语言与论文成绩要求，以征集文件为准<br>图尔库大学 KEVEKO 与 OPPI 博士项目 2026 年秋季招募，包括有薪的博士研究员合同与博士学习权，申请窗口已于 9 月 8 日结束。下一轮时间未确认。 |
+| [图尔库大学 BGG 博士项目征集（2026 年 9 月，2027 年入学）](https://www.utu.fi/sites/default/files/media/DPMLS/BGG_call%20of%20applications_Sept_2026.pdf)<br><sub>芬兰 ｜ 生物/生命科学·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026 秋季窗口 8 月 25 日至 9 月 8 日已截止；2027 年各轮日期以官网为准，申请需在 My Studyinfo 申请学籍并在 TalentAdore 申请岗位</sub> | ❔ | 图尔库大学 BGG 博士项目按年征集带薪博士研究员岗位（定期合同）。2026 秋季窗口已关闭；申请需同时在 My Studyinfo 申请学籍并在 TalentAdore 申请岗位。 |
 | [图尔库大学 DPT 技术博士项目招生](https://www.utu.fi/sites/default/files/media/DPT/DPT%20Application%20call_September%202026_.pdf)<br><sub>芬兰 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 9 月轮申请窗口（8 月 25 日至 9 月 8 日）已关闭；下一轮以官网为准</sub> | ✅ | **要求：** 需已获得或即将获得可授予博士资格的学位（若无学习权，需在 Studyinfo 申请）；岗位在芬兰图尔库，需在芬兰工作，最长 4 年。<br>带薪博士研究员岗，雇佣期最长 4 年且不晚于 2030 年 12 月 31 日；页面称月薪大致 2,400 至 3,300 欧元。 |
 | [坦佩雷大学 公开招聘页（博士研究员）](https://www.tuni.fi/en/tau/work-with-us/open-positions)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>约 €2,600–3,000/月（税前，据大学招聘页起薪区间）</sub> | 各项目不同 | ❔ | 坦佩雷大学官方岗位页，博士研究员起薪约 €2,600–3,000/月（税前）。多数岗位要求签约前已被博士项目录取；非欧盟申请者资格与工作许可按各岗位公告确认。 |
 | [奥博学院（Åbo Akademi）博士研究员资助说明](https://www.abo.fi/en/research-at-aau/postgraduate-and-doctoral-studies/funding-for-doctoral-researchers/)<br><sub>芬兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面称学校定期发布博士研究员资助岗位，未列具体截止日期；以各岗位公告为准。</sub> | ❔ | **要求：** 岗位多为带薪博士研究员，需硕士学位；以各岗位公告为准<br>页面说明 ÅAU 定期发布博士研究员资助岗位，并列出仅面向非 EU/EEA 公民的 Finland Fellowship，需在申请信中明确注明。页面称博士学习权不附带资助，研究员需自行解决资金。 |
@@ -168,6 +210,26 @@
 | [SINGA 博士课题列表（A*STAR 研究项目）](https://www.a-star.edu.sg/scholarships/home/research-projects)<br><sub>新加坡 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>S$2,700/月（资格考试后升至 S$3,200/月）</sub> | — | ❔ | **要求：** 需为首次在新加坡高校就读的国际学生（非新加坡公民/PR），需良好英语及学术推荐人意见；曾在新加坡高校就读者不符合（官网表述）。<br>官网 FAQ 称海外奖学金学生需服 2–6 年 bond；页面称 A*STAR 学者在博士期间获得月津贴并全额资助学费，具体见各奖学金页面。 |
 | [SUTD ISTD 博士机会（按课题组列出在招项目）](https://sutd.edu.sg/programme-listing/istd-phd-programme)<br><sub>新加坡 ｜ 计算机·人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>S$3,600/月（国际生，2024-01-01 起）</sub> | — | ✅ | **要求：** PGF 面向所有国籍；覆盖博士学费至多 4 年，国际生需承担教学或实验室助教工作；其他条件以官网为准<br>页面称 ISTD 博士项目为 4 年，每年 9 月与 1 月两次入学；页面未列出奖学金金额。 |
 | [南洋理工大学南洋商学院博士财务支持](https://www.ntu.edu.sg/business/admissions/phd-programme/admission/financial-support)<br><sub>新加坡 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费<br><sub>S$4,300/月（国际生，2026 年 1 月起）</sub> | — | ✅ | **要求：** 需本科荣誉一等（Highest Distinction）或同等学历，应届生可凭大学证明申请；所有国籍均可申请（竞争性）；每年续期，最长 4 年。<br>页面写明获 NTU 奖学金者学费覆盖 4 年（每年续期），并列出 NPGS、PGA、NTU Research Scholarship；页面未列月补助金额及本科成绩、国籍资格要求，需以其他官方页核实。 |
+
+<a id="r-eu"></a>
+
+## 欧盟/欧洲（EU）（13）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [CORDIS：MSCA 博士网络 2026 批次（HORIZON-MSCA-2026-DN-01-01）项目页](https://cordis.europa.eu/programme/id/HORIZON_HORIZON-MSCA-2026-DN-01-01/es)<br><sub>欧盟/欧洲 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-11-24**<br><sub>🟢 开放申请</sub><br><sub>2026 批次联合体提交截止 2026-11-24 17:00（布鲁塞尔时间）；个人不能直接申请，须等获资助的博士网络在 EURAXESS 发布岗位</sub> | ❔ | **要求：** 个人不向欧委会申请；需待获资助网络发布岗位后再申请，学历与语言要求以岗位为准<br>2026 批次官方项目页（西语版），了解下一轮博士网络结构与时间；2026-11-24 截止是联合体提交方案的截止，个人不能直接申请，获资助网络的岗位将在 2027 年前后发布。 |
+| [ELLIS PhD & Postdoc Program 2026 中央招生（2027 入学）](https://ellis.eu/news/ellis-phd-program-call-for-applications-2026)<br><sub>欧盟/欧洲 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>2026-10-31 23:59 AoE 截止；门户 10 月 1 日开放，面向 2027 年入学；需先注册门户并找到愿意接收的 ELLIS 导师。</sub> | ❔ | **要求：** 需通过 ELLIS 门户提交完整申请；ELLIS 本身不发工资，资助由导师所在单位提供，需与导师确认。<br>ELLIS 本身不发工资，资助由导师所在单位提供；截止 2026-10-31 AoE，门户 10 月开放。需找到愿意接收的 ELLIS Fellow/Scholar 导师。 |
+| [ELLIS PhD & Postdoc Program（弗赖堡单元页）](https://ellis-d.cs.uni-freiburg.de/programs/ellis-phd-postdoc-program)<br><sub>欧盟/欧洲·德国 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 全奖<br><sub>100% E13 职位，按机构薪级；提供搬迁支持</sub> | — | ✅ | 页面称弗赖堡单元提供全额资助的 ELLIS PhD 职位（100% E13，按机构薪级），并提供搬迁支持。博士须由两名不同欧洲国家的 ELLIS 成员共同指导，并在共同导师的 ELLIS 单位做至少 6 个月研究。页面未列出 2027 入学的申请截止日期，请以门户为准。 |
+| [ELLIS PhD Program](https://ellis.eu/research/phd-postdoc)<br><sub>欧盟/欧洲 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>页面称 2026 年征集申请截止 10 月 31 日，对应 2027 年入学</sub> | ✅ | 欧洲 AI 与机器学习博士项目，提供两个欧洲国家的双导师、三种研究轨道及欧洲境内 6 个月研究交流；页面称 2026 年征集截止 10 月 31 日（2027 年入学）。资助情况页面未说明。 |
+| [EMBL International PhD Programme](https://www.embl.org/about/info/embl-international-phd-programme/)<br><sub>欧盟/欧洲·德国 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2027 冬季轮申请已关闭；页面称下一轮申请将于 1 月下旬开放（未注明年份）。</sub> | ✅ | **要求：** 需持可在学位授予国攻读博士的大学学位；需两位学术推荐人；申请不收费。<br>欧洲分子生物学实验室，海德堡等 6 个站点，全资助、对所有国籍开放。 |
+| [ESA Exploration Science 共同资助博士研究提案征集](https://explorationscience.esa.int/?p=2607)<br><sub>欧盟/欧洲 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>以页面公布为准。</sub> | ❔ | **要求：** 资格以官方征集文件为准。<br>2026 年 7 月发布的 ESA 与大学共同资助博士研究提案征集；资金额度、截止日期与国际生资格需逐项核实。 |
+| [HER-CARE 博士网络 CORDIS 项目页（MSCA DN，15 个博士岗）](https://cordis.europa.eu/project/id/101227105)<br><sub>欧盟/欧洲 ｜ 医学/公卫·生物/生命科学·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 博士岗需满足 MSCA 博士网络资格（未持博士学位、流动性规则）<br>CORDIS 项目页：协调机构为荷兰癌症研究所（NKI-AVL），项目 2026-01-01 至 2029-12-31，经 MSCA 资助，计划培养 15 名博士研究员。 |
+| [MSCA COFUND 2026 博士培训项目总入口](https://marie-sklodowska-curie-actions.ec.europa.eu/funding/msca-cofund-2026)<br><sub>欧盟/欧洲 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 批次结果已公布，共 29 个项目获资助；下一批次待公告。</sub> | ❔ | 欧盟 MSCA COFUND 2026 批次公布页，不是申请入口。2026 批次 29 个项目已获资助，博士岗位由各承办大学在 EURAXESS 与学校招聘页发布，须满足 MSCA 流动性规则。 |
+| [MSCA 博士网络 2025 批次评审结果（141 个项目，欧委会公告）](https://marie-sklodowska-curie-actions.ec.europa.eu/whats-new/news/msca-awards-eu61718-million-for-doctoral-programmes)<br><sub>欧盟/欧洲 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 2025 批次 141 个博士网络于 2026-03-25 公布（预算约 6.17 亿欧元，约 2115 名博士生）。查项目名与协调单位，再去 EURAXESS 或各网络官网找具体岗位，截止逐条核对。 |
+| [MSCA 博士网络 FlexCAT：15 个博士岗位（β-catenin / 无序蛋白与癌症药物发现，多国）](https://euraxess.ec.europa.eu/worldwide/india/news/europe-15-phd-positions-available-msca-flexcat-doctoral-network)<br><sub>欧盟/欧洲·奥地利·德国 ｜ 生物/生命科学·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>2026 年 10 月 31 日 23:59（维也纳时间）截止，经格拉茨医科大学博士招生门户申请；各岗位要求以单个岗位描述为准。</sub> | ❔ | **要求：** 需已有或即将获得理科硕士、尚未获得博士学位，英语 B2 及以上；MSCA 流动性规则：近 36 个月在招聘国居住或主要活动不得超过 12 个月。国籍不限，需逐岗核对流动性条件。<br>欧盟 MSCA 博士网络，15 个带薪全职博士岗位，36 个月，含流动津贴，多国多家宿主机构。方向偏蛋白质科学与癌症药物，化学/生物背景更匹配。信息来自 EURAXESS 新闻页，未找到项目官网。 |
+| [Pasiphae 欧洲博士网络（6G 与 AI）](https://pasiphae.eu/phd/)<br><sub>欧盟/欧洲 ｜ 工程·计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 5 月 31 日截止的批次已结束（岗位约 2026 年 7 月入职）；后续批次需看官网</sub> | ❔ | **要求：** MSCA 岗位有跨国流动规则，需确认是否符合<br>Pasiphae 是希腊地中海大学（HMU）与 NCSR Demokritos 的实验室，页面发布 MSCA 博士网络 ANCHOR 的 6G+AI 全资助岗位（赫拉克利翁）；2026-05-31 截止的岗位已结束，后续批次看官网。MSCA 有跨国流动规则。 |
+| [塔尔图大学化学研究所博士公开征集页](https://keemia.ut.ee/en/content/phd-open-calls)<br><sub>欧盟/欧洲 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>€2,100/月（2026 年初级研究员最低全职月薪，净额约 €1,580）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>塔尔图大学博士招生每年有多个窗口（2 月、5 月主招、9 月、11 月），具体岗位以本页公告为准</sub> | ❔ | **要求：** 一般需硕士或同等学历<br>集中列出化学研究所的博士公开征集，入学后一般以初级研究员身份受雇。 |
+| [里加斯特拉尼斯大学（RSU）博士资助（ERDF 项目）](https://www.rsu.lv/en/node/285790)<br><sub>欧盟/欧洲 ｜ 生物/生命科学·医学/公卫·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-01-11**<br><sub>⏸ 本轮已截止</sub><br><sub>页面显示征集开放，截止日期未确认</sub> | ❔ | **要求：** 需为 RSU 在读博士生，或论题符合拉脱维亚智能专业化方向的候选人；需有一篇 WOS/Scopus 论文<br>ERDF 项目期 2025-03 至 2029-10，计划至少资助 39 名博士生；金额与截止以征集通知为准。 |
 
 <a id="r-cn"></a>
 
@@ -225,24 +287,6 @@
 | [NYUAD 全球博士奖学金：生物](https://nyuad.nyu.edu/en/academics/graduate-and-phd/phd-programs/global-phd-student-fellowship-in-biology.html)<br><sub>阿联酋·美国 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>🔜 即将开放</sub><br><sub>2025 年秋季轮截止 2024 年 12 月 1 日（已过）；仅秋季入学，下一轮开放时间与截止以 GSAS 公告为准</sub> | ❔ | **要求：** 仅秋季入学；通过 GSAS 申请生物博士项目，无单独奖学金申请；需完成纽约课程与阿布扎比研究<br>NYUAD 全球博士奖学金（生物）：录取即全额资助，含学费、医保、研究助理津贴，阿布扎比住宿免费并补贴纽约住宿；纽约课程 1–2 年，阿布扎比研究 3–4 年。截止以 GSAS 公告为准。 |
 | [哈利法大学–清华深圳国际研究生院联合博士](https://www.ku.ac.ae/?p=124233)<br><sub>阿联酋·中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>首批 5 人于 2026 年 10 月入学；后续招生轮次与截止日未公布</sub> | ❔ | **要求：** 中国大陆申请人资格与资助以当期招生通知为准；双方授予双博士学位<br>2026-10-02 的 KU 新闻称，首批 5 名博士生已开始与清华大学深圳国际研究生院的联合授予博士项目，毕业后授予两校双博士学位。页面未公布后续招生轮次、资助与中国大陆申请人资格。 |
 
-<a id="r-eu"></a>
-
-## 欧盟/欧洲（EU）（11）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [CORDIS：MSCA 博士网络 2026 批次（HORIZON-MSCA-2026-DN-01-01）项目页](https://cordis.europa.eu/programme/id/HORIZON_HORIZON-MSCA-2026-DN-01-01/es)<br><sub>欧盟/欧洲 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-11-24**<br><sub>🟢 开放申请</sub><br><sub>2026 批次联合体提交截止 2026-11-24 17:00（布鲁塞尔时间）；个人不能直接申请，须等获资助的博士网络在 EURAXESS 发布岗位</sub> | ❔ | **要求：** 个人不向欧委会申请；需待获资助网络发布岗位后再申请，学历与语言要求以岗位为准<br>2026 批次官方项目页（西语版），了解下一轮博士网络结构与时间；2026-11-24 截止是联合体提交方案的截止，个人不能直接申请，获资助网络的岗位将在 2027 年前后发布。 |
-| [ELLIS PhD & Postdoc Program 2026 中央招生（2027 入学）](https://ellis.eu/news/ellis-phd-program-call-for-applications-2026)<br><sub>欧盟/欧洲 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>2026-10-31 23:59 AoE 截止；门户 10 月 1 日开放，面向 2027 年入学；需先注册门户并找到愿意接收的 ELLIS 导师。</sub> | ❔ | **要求：** 需通过 ELLIS 门户提交完整申请；ELLIS 本身不发工资，资助由导师所在单位提供，需与导师确认。<br>ELLIS 本身不发工资，资助由导师所在单位提供；截止 2026-10-31 AoE，门户 10 月开放。需找到愿意接收的 ELLIS Fellow/Scholar 导师。 |
-| [ELLIS PhD & Postdoc Program（弗赖堡单元页）](https://ellis-d.cs.uni-freiburg.de/programs/ellis-phd-postdoc-program)<br><sub>欧盟/欧洲·德国 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 全奖<br><sub>100% E13 职位，按机构薪级；提供搬迁支持</sub> | — | ✅ | 页面称弗赖堡单元提供全额资助的 ELLIS PhD 职位（100% E13，按机构薪级），并提供搬迁支持。博士须由两名不同欧洲国家的 ELLIS 成员共同指导，并在共同导师的 ELLIS 单位做至少 6 个月研究。页面未列出 2027 入学的申请截止日期，请以门户为准。 |
-| [ELLIS PhD Program](https://ellis.eu/research/phd-postdoc)<br><sub>欧盟/欧洲 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>页面称 2026 年征集申请截止 10 月 31 日，对应 2027 年入学</sub> | ✅ | 欧洲 AI 与机器学习博士项目，提供两个欧洲国家的双导师、三种研究轨道及欧洲境内 6 个月研究交流；页面称 2026 年征集截止 10 月 31 日（2027 年入学）。资助情况页面未说明。 |
-| [EMBL International PhD Programme](https://www.embl.org/about/info/embl-international-phd-programme/)<br><sub>欧盟/欧洲·德国 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2027 冬季轮申请已关闭；页面称下一轮申请将于 1 月下旬开放（未注明年份）。</sub> | ✅ | **要求：** 需持可在学位授予国攻读博士的大学学位；需两位学术推荐人；申请不收费。<br>欧洲分子生物学实验室，海德堡等 6 个站点，全资助、对所有国籍开放。 |
-| [ESA Exploration Science 共同资助博士研究提案征集](https://explorationscience.esa.int/?p=2607)<br><sub>欧盟/欧洲 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>以页面公布为准。</sub> | ❔ | **要求：** 资格以官方征集文件为准。<br>2026 年 7 月发布的 ESA 与大学共同资助博士研究提案征集；资金额度、截止日期与国际生资格需逐项核实。 |
-| [HER-CARE 博士网络 CORDIS 项目页（MSCA DN，15 个博士岗）](https://cordis.europa.eu/project/id/101227105)<br><sub>欧盟/欧洲 ｜ 医学/公卫·生物/生命科学·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 博士岗需满足 MSCA 博士网络资格（未持博士学位、流动性规则）<br>CORDIS 项目页：协调机构为荷兰癌症研究所（NKI-AVL），项目 2026-01-01 至 2029-12-31，经 MSCA 资助，计划培养 15 名博士研究员。 |
-| [MSCA COFUND 2026 博士培训项目总入口](https://marie-sklodowska-curie-actions.ec.europa.eu/funding/msca-cofund-2026)<br><sub>欧盟/欧洲 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 批次结果已公布，共 29 个项目获资助；下一批次待公告。</sub> | ❔ | 欧盟 MSCA COFUND 2026 批次公布页，不是申请入口。2026 批次 29 个项目已获资助，博士岗位由各承办大学在 EURAXESS 与学校招聘页发布，须满足 MSCA 流动性规则。 |
-| [MSCA 博士网络 2025 批次评审结果（141 个项目，欧委会公告）](https://marie-sklodowska-curie-actions.ec.europa.eu/whats-new/news/msca-awards-eu61718-million-for-doctoral-programmes)<br><sub>欧盟/欧洲 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 2025 批次 141 个博士网络于 2026-03-25 公布（预算约 6.17 亿欧元，约 2115 名博士生）。查项目名与协调单位，再去 EURAXESS 或各网络官网找具体岗位，截止逐条核对。 |
-| [MSCA 博士网络 FlexCAT：15 个博士岗位（β-catenin / 无序蛋白与癌症药物发现，多国）](https://euraxess.ec.europa.eu/worldwide/india/news/europe-15-phd-positions-available-msca-flexcat-doctoral-network)<br><sub>欧盟/欧洲·奥地利·德国 ｜ 生物/生命科学·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>2026 年 10 月 31 日 23:59（维也纳时间）截止，经格拉茨医科大学博士招生门户申请；各岗位要求以单个岗位描述为准。</sub> | ❔ | **要求：** 需已有或即将获得理科硕士、尚未获得博士学位，英语 B2 及以上；MSCA 流动性规则：近 36 个月在招聘国居住或主要活动不得超过 12 个月。国籍不限，需逐岗核对流动性条件。<br>欧盟 MSCA 博士网络，15 个带薪全职博士岗位，36 个月，含流动津贴，多国多家宿主机构。方向偏蛋白质科学与癌症药物，化学/生物背景更匹配。信息来自 EURAXESS 新闻页，未找到项目官网。 |
-| [Pasiphae 欧洲博士网络（6G 与 AI）](https://pasiphae.eu/phd/)<br><sub>欧盟/欧洲 ｜ 工程·计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 5 月 31 日截止的批次已结束（岗位约 2026 年 7 月入职）；后续批次需看官网</sub> | ❔ | **要求：** MSCA 岗位有跨国流动规则，需确认是否符合<br>Pasiphae 是希腊地中海大学（HMU）与 NCSR Demokritos 的实验室，页面发布 MSCA 博士网络 ANCHOR 的 6G+AI 全资助岗位（赫拉克利翁）；2026-05-31 截止的岗位已结束，后续批次看官网。MSCA 有跨国流动规则。 |
-
 <a id="r-au"></a>
 
 ## 澳大利亚（AU）（8）
@@ -255,7 +299,7 @@
 | [RMIT ARC 卓越中心 COMBS 博士奖学金（材料与光电方向）](https://www.rmit.edu.au/students/careers-opportunities/scholarships/research/phd-scholarship-in-arc-coe-combs)<br><sub>澳大利亚 ｜ 工程·物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>34,841（页面标示 $，以官网为准）</sub> | 未公布<br><sub>🟢 开放申请</sub><br><sub>列表截止日显示为 2030-12-31，疑似占位，以官网为准</sub> | ✅ | **要求：** 以获得 RMIT 博士录取为前提；国际生资格与学费覆盖未确认，需向 RMIT 研究奖学金办公室核实<br>RMIT 由 ARC 光学微梳卓越中心（COMBS）资助的博士奖学金，面向材料、电子与光子工程方向。申请处于开放状态；国际生资格与学费覆盖未经官网确认。 |
 | [UNSW Trustworthy Systems 研究组 博士招生与 top-up 奖学金](https://trustworthy.systems/students/research)<br><sub>澳大利亚 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>RTP 基础补助 AUD 39,206/年（免税，2026 费率，据研究组页面）；另有 AUD 10,000–29,404/年 top-up（须有项目经费支持）</sub> | 未公布<br><sub>页面未给截止日。先联系研究组学者，再通过 UNSW HDR 系统申请，截止以 UNSW 官方为准。</sub> | 🟡 | **要求：** 国际生通常需学位相当于澳洲一等荣誉（First Class Honours）才能获得学费奖学金，其余条件以 UNSW 为准。<br>方向包括操作系统、形式化方法与软件验证、编程语言、安全嵌入式系统。top-up 面向强候选人且与研究优先方向吻合者。 |
 | [悉尼大学数学与统计学博士研究奖学金](https://www.sydney.edu.au/scholarships/d/postgraduate-research-scholarship-in-mathematics-and-statistics.html)<br><sub>澳大利亚 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | —<br><sub>各轮次截止日以官网为准，搜索未见 2027 当期日期；AI 方向 2026 年 7 月窗口已关闭；量子方向仅限澳新公民或永居</sub> | ✅ | **要求：** 需先获得校级博士录取，再通过 RTP/USYDIS 竞争性评选申请；国际生可申请<br>悉尼大学数学与统计学院博士研究奖学金页（RTP 体系）：页面称提供 RTP 标准生活津贴及 SSAF，须获无条件录取或在读全日制博士，并通过 RTP 申请评选；截止日见官网时间线。 |
-| [悉尼科技大学城市规划博士（thesis 型）](https://uts.edu.au/courses/doctor-of-philosophy-phd-thesis-urban-planning)<br><sub>澳大利亚 ｜ 社会科学/心理·地球/环境/海洋</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>政府资助名额有限，截止与轮次以 UTS 官网为准。</sub> | ❔ | 澳洲城市规划博士，可申请政府资助的名额有限，申请时需同时申请奖学金。 |
+| [悉尼科技大学城市规划博士（thesis 型）](https://uts.edu.au/courses/doctor-of-philosophy-phd-thesis-urban-planning)<br><sub>澳大利亚 ｜ 社会科学/心理·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>政府资助名额有限，截止与轮次以 UTS 官网为准。</sub> | ❔ | 澳洲城市规划博士，可申请政府资助的名额有限，申请时需同时申请奖学金。 |
 | [澳国立大学 RSAA 天文与天体物理 PhD 国际生申请](https://rsaa.anu.edu.au/study/phd/information-international-students)<br><sub>澳大利亚 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>🔜 即将开放</sub><br><sub>2027 入学轮待官网公布（此前惯例为 11 月下旬）。</sub> | ✅ | **要求：** 优秀本科或硕士申请者，有天文研究经验者优先。<br>RSAA 提供全额 PhD 奖学金（国际生可申请）。2026 入学轮截止为 2025-11-15；2027 入学轮官网未见公告，此前惯例为 11 月下旬。 |
 
 <a id="r-in"></a>
@@ -344,13 +388,14 @@
 
 <a id="r-pl"></a>
 
-## 波兰（PL）（4）
+## 波兰（PL）（5）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [INTiBS PAN 博士学校 2026/27 招生](https://phd.intibs.pl/en/general-recruitment-2026-2027.html)<br><sub>波兰 ｜ 生物/生命科学·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 波兰科学院 INTiBS 下属四年制英文博士学校。2026/27 通用招生（5 月 25 日至 6 月 29 日）已截止，7 月公布结果；另有小批次招生，后续轮次关注官网。奖学金金额在检索结果中未确认，以 Doctoral School 官网为准。 |
 | [Nencki 研究所国际博士学校 Bio4Med（华沙）](https://nencki.edu.pl/education/bio4med/)<br><sub>波兰 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 两轮（5 月、7 月 27 日至 8 月 9 日）已关闭；官网称下一轮 2026 年 12 月 28 日开始，细则未公布</sub> | ❔ | **要求：** 需硕士学位，生物、生物技术、生物物理、神经信息学或相关学科（以新公告为准）<br>华沙 Nencki 研究所国际博士学校 Bio4Med，面向国际生的英文博士项目；2026/27 轮已关闭，关注 2027/28 轮。学费免除与奖学金额以官网为准。 |
 | [医科大学博士学校项目与竞赛页（umed.pl）](https://doctoralschool.umed.pl/offer/programmes-and-contests/)<br><sub>波兰 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 列出英文博士项目与资助竞赛的官方页面；资助额度和外国申请条件以各竞赛公告为准。 |
+| [华沙大学博士学院 2026/27 招生说明（含 Scholarship to Start）](https://en.uw.edu.pl/admissions-to-the-uw-doctoral-schools-for-the-2026-2027-academic-year/)<br><sub>波兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>PLN 4,346 gross/月（中期评估前）；中期评估后 PLN 5,500.50 gross/月</sub> | —<br><sub>⏸ 本轮已截止</sub> | ❔ | **要求：** 需硕士学位；2026/27 轮报名 4 月 14 日至 5 月 21 日已结束；非波兰语者可英文面试；Scholarship to Start 仅授予各学科前 20% 的录取者<br>华沙大学博士学院 2026/27 轮报名 4 月 14 日至 5 月 21 日已结束；2027/28 轮时间未公布。月津贴 PLN 4,346 / 5,500.50 见官方页。 |
 | [哥白尼天文中心（CAMK）2026/2027 博士招生（天文学）](https://geoplanetschool.camk.edu.pl/?p=2194)<br><sub>波兰 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>约 3077 PLN/月（净额下限，第 I–II 年，据 GeoPlanet 演示文稿）</sub> | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>抓取页面称 Four PhD positions are available，正文未给出截止日期；此前记录的关闭状态与本页不一致，需核对官网。</sub> | ❔ | **要求：** 抓取页面正文未列出具体招生条件，需看完整招生公告。<br>GeoPlanet 博士学校（CAMK 天文学）2026/2027 招生页，正文称哥白尼天文中心有 4 个博士岗位。 |
 
 <a id="r-hr"></a>
@@ -362,6 +407,16 @@
 | [克罗地亚 HRZZ DOK 博士助理征集](https://hrzz.hr/wp-content/uploads/DOK-2025-02_Natjecaj.pdf)<br><sub>克罗地亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2025-02-24**<br><sub>⏸ 本轮已截止</sub><br><sub>DOK-2025-02 本轮截止 2025 年 2 月 24 日 13 时（CET）；下一轮以 HRZZ 公告为准。</sub> | ❔ | HRZZ DOK-2025-02 征集文件（克罗地亚语）：资助导师依托 HRZZ 项目聘用博士助理，承担其工资总成本，期限为科研机构 5 年、高校 6 年。页面未写明外国申请人资格。 |
 | [斯普利特大学 FESB 博士研究 2026/27 招生](https://eng.fesb.unist.hr/?p=21386)<br><sub>克罗地亚 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 不提供资助 | 未公布<br><sub>2026/27 截止日未在搜索结果中查到；2025/26 轮 9 月 30 日截止，名额未满可延至 11 月 30 日</sub> | ❔ | **要求：** 外国学历需先经大学 Academic Recognition Office 认证，并随申请附上证明；申请邮件发至 protokol@fesb.hr<br>2026/27 学年招收电气与信息技术（最多 25 人）和机械工程（最多 20 人）博士，三年制。博士学费 7,800 欧元（6 个学期，每学期 1,300 欧元），页面列出由申请人或其单位承担费用；正文未列出奖学金。 |
 | [萨格勒布大学电气工程与计算学院（FER）博士招生](https://www.fer.unizg.hr/en/studies/doctoral/admissions)<br><sub>克罗地亚 ｜ 计算机·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 不提供资助 | **2027-01-21**<br><sub>🟢 开放申请</sub><br><sub>冬季 2026-08-24 已过；夏季 2027-01-21 截止（2027 年春季入学）</sub> | ❔ | **要求：** 需硕士（300 ECTS）或同等工程文凭，平均成绩≥3.5/5；需面试；外国学位须先经萨格勒布大学认可<br>页面为萨格勒布大学电气工程与计算学院 2026/27 学年博士招生公告（6 学期，名额 60 人）。学费 9,000 欧元，分 6 期缴纳；页面未列出奖学金。 |
+
+<a id="r-hu"></a>
+
+## 匈牙利（HU）（3）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [匈牙利农业与生命科学大学（MATE）国际博士奖学金试点](https://research.uni-mate.hu/call-2026-international-phd-scholarship)<br><sub>匈牙利 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>HUF 2,500,000/年（税前，最多 4 名，两年）</sub> | **2026-08-31**<br><sub>⏸ 本轮已截止</sub><br><sub>页面写明原定截止 2026 年 7 月 31 日，延长后截止为 2026 年 8 月 31 日；须同时向 MATE 博士学院申请，页面未列下一轮日期。</sub> | ✅ | **要求：** 需先获 MATE 博士学院录取（并按其截止日申请）；英文申请书需与导师共同完成，含学术背景、动机、研究计划与预期影响<br>MATE 国际博士奖学金试点（2026–2028）：最多 4 名，税前 HUF 2,500,000/年，共两年，并免除博士期间学费；需先获 MATE 博士学院录取，并与校内导师共同撰写英文申请书。页面写明延长后截止为 2026 年 8 月 31 日。 |
+| [匈牙利瑞尼数学研究所博士与访问研究员征集](https://ftp.renyi.hu/en/news/renyi-institute-announces-calls-doctoral-and-visiting-researcher-applications)<br><sub>匈牙利 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>最高 HUF 312,500/月（叠加在 ELTE/BME 博士奖学金之上）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 4 月 15 日截止（已过）；2027 轮未公布，关注 renyi.hu 新闻页</sub> | 🟡 | **要求：** 仅面向被 ELTE 或 BME 数学博士项目录取的学生（补助以录取为前提）<br>匈牙利瑞尼数学研究所博士补助，仅面向已被 ELTE 或 BME 数学博士项目录取、即将入学的学生，可叠加在校级博士奖学金之上。2026–27 轮已过，下一轮时间未公布。 |
+| [布达佩斯考文纽斯大学（Corvinus）博士项目与奖学金（2026）](https://www.uni-corvinus.hu/post/hir/apply-now-for-corvinus-2026-doctoral-programmes/?lang=en)<br><sub>匈牙利 ｜ 经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 申请期 2 月 23 日至 3 月 16 日已关闭；2027 轮待公布</sub> | ❔ | **要求：** 国际申请者资格须向校方确认<br>2026 申请期为 2 月 23 日至 3 月 16 日（校方新闻），已关闭。校方称博士奖学金每月 32 万福林；外国申请人资格未在官方页面确认，需向学校确认。 |
 
 <a id="r-ro"></a>
 
@@ -382,14 +437,14 @@
 | [ELLIS 博士录取指南](https://ellis.eu/phd-admission)<br><sub>全球·欧盟/欧洲 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>2026 轮中央申请截止为 2026 年 10 月 31 日 23:59（AoE），面向 2027 年入学；旧页写的 11 月 15 日已过时。</sub> | ✅ | 录取规则页：每名学生由两名不同欧洲国家导师共同指导，需至少 6 个月交流（沿用原记录）。中央招生每年一次，2026 轮截止 2026-10-31（AoE）；FAQ 写明欢迎各国合格申请者，不限国籍。 |
 | [中研院 TIGP-BIODIV 生物多样性与生态进化博士项目](https://tigp-biodiv.biodiv.tw/?p=198)<br><sub>全球 ｜ 生态/进化·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | **2027-02-01**<br><sub>🔜 即将开放</sub><br><sub>2027 年秋季入学，申请窗口 2026-11-01 至 2027-02-01，通过 TIGP 线上系统提交</sub> | ❔ | **要求：** 需本科或硕士学位（第三方说明，待官网确认）；英文授课；申请时需指定意向导师；大陆学生赴台申请受相关规定约束，需先核实资格<br>中研院与台湾师大、东海大学合办的生物多样性与生态进化博士项目，2027 年秋季入学。申请窗口 2026-11-01 至 2027-02-01，英文授课，录取者可获至少 3 年研究生奖学金。大陆学生赴台申请受相关规定约束，须先核实资格。 |
 
-<a id="r-hu"></a>
+<a id="r-ie"></a>
 
-## 匈牙利（HU）（2）
+## 爱尔兰（IE）（2）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
-| [匈牙利农业与生命科学大学（MATE）国际博士奖学金试点](https://research.uni-mate.hu/call-2026-international-phd-scholarship)<br><sub>匈牙利 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>HUF 2,500,000/年（税前，最多 4 名，两年）</sub> | **2026-08-31**<br><sub>⏸ 本轮已截止</sub><br><sub>页面写明原定截止 2026 年 7 月 31 日，延长后截止为 2026 年 8 月 31 日；须同时向 MATE 博士学院申请，页面未列下一轮日期。</sub> | ✅ | **要求：** 需先获 MATE 博士学院录取（并按其截止日申请）；英文申请书需与导师共同完成，含学术背景、动机、研究计划与预期影响<br>MATE 国际博士奖学金试点（2026–2028）：最多 4 名，税前 HUF 2,500,000/年，共两年，并免除博士期间学费；需先获 MATE 博士学院录取，并与校内导师共同撰写英文申请书。页面写明延长后截止为 2026 年 8 月 31 日。 |
-| [布达佩斯考文纽斯大学（Corvinus）博士项目与奖学金（2026）](https://www.uni-corvinus.hu/post/hir/apply-now-for-corvinus-2026-doctoral-programmes/?lang=en)<br><sub>匈牙利 ｜ 经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 申请期 2 月 23 日至 3 月 16 日已关闭；2027 轮待公布</sub> | ❔ | **要求：** 国际申请者资格须向校方确认<br>2026 申请期为 2 月 23 日至 3 月 16 日（校方新闻），已关闭。校方称博士奖学金每月 32 万福林；外国申请人资格未在官方页面确认，需向学校确认。 |
+| [Irish Cancer Society 癌症生存研究博士奖学金（PhD 2026）](https://www.cancer.ie/researchers-hub/open-funding-calls/phd-research-scholarship-award-2026)<br><sub>爱尔兰 ｜ 医学/公卫·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>每年 €25,000（固定博士生津贴）；奖学金总额 €150,000（生存研究）或 €190,000（转化生物医学/临床），另有 €5,000 流动性经费</sub> | **2026-04-07**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请截止日为 2026 年 4 月 7 日（已关闭）；2027 轮待官网公布</sub> | ❔ | **要求：** 需与爱尔兰共和国认可的宿主机构建立关联并在奖学金期间保持；未见明确的国籍限制表述<br>爱尔兰癌症协会 PhD 奖学金，生存研究（Survivorship）为 2026 年三个主题之一，资助 3–4 年全日制。资助上限在不同版本指南中有不同说法，以官方最新指南为准。 |
+| [RCSI StAR 博士项目（四年结构化，爱尔兰皇家外科医学院）](https://rcsi.com/dublin/research-and-innovation/research-careers/star-programme/star-phd)<br><sub>爱尔兰 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>搜索到的最近公告截止日为 2025-04-11（已过）；2026 轮未确认，需查看官网</sub> | ❔ | **要求：** 面向有生物医学、临床、人口健康或卫生服务研究背景的申请者；需荣誉学士二等一级以上或相关硕士；须事先找到 RCSI 导师。中国学生资格需向 RCSI 确认。<br>RCSI StAR 四年结构化博士项目，官网称全额资助，学习在爱尔兰与合作地点各半。Fulbright 路线仅限美国公民。中国学生资格需向 RCSI 确认。 |
 
 <a id="r-ke"></a>
 
@@ -436,6 +491,15 @@
 | [HBKU 人文与社会科学学院博士录取与资助要求](https://www.hbku.edu.qa/en/chss/admission-requirements)<br><sub>卡塔尔 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2027-02-01**<br><sub>🔜 即将开放</sub><br><sub>官网：国际研究生申请截止 2027-02-01；网上申请 2026 年 10 月起开放；卡塔尔籍与居民申请资助截止 2027-03-15</sub> | ❔ | **要求：** 相关领域硕士，GPA 不低于 3.0/4；雅思 6.5 或托福 79（符合条件可豁免）；需提交 1,000–2,000 词研究计划书、个人陈述及 2 封推荐信（至少 1 封学术推荐人）；申请费 QAR 250（原记录，本页未载）。<br>HBKU 人文与社会科学学院官网：博士国际生申请截止 2027 年 2 月 1 日，卡塔尔籍及居民申请资助截止 2027 年 3 月 15 日，网上申请 2026 年 10 月起开放。页面未说明资助名额与自费比例。 |
 | [HBKU 卡塔尔量子计算中心（QC2）招生入口](https://www.hbku.edu.qa/en/cse/qc2)<br><sub>卡塔尔 ｜ 物理/天文·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 未公布<br><sub>📋 持续更新</sub><br><sub>页面未给出固定截止，以官网或课题组通知为准。</sub> | ❔ | **要求：** 页面未列出具体学历或英语要求<br>页面称正在招聘博士、博后、科学家及高级科学家岗位，并列有短期访问与合作入口；页面未给出薪酬、资助细节或截止日期。 |
 
+<a id="r-ru"></a>
+
+## 俄罗斯（RU）（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Skoltech 博士项目招生页](https://www.skoltech.ru/en/admissions/)<br><sub>俄罗斯 ｜ 计算机·人工智能·工程·物理/天文·化学/材料·生物/生命科学·地球/环境/海洋·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>75,000 卢布/月起（竞争性选拔）</sub> | 未公布<br><sub>🔜 即将开放</sub><br><sub>2026 年第一轮为 2026-02-02 至 04-27，本轮已关闭；2027 年入学日期未公布</sub> | ❔ | **要求：** 需硕士或专家学位，英语成绩（如 TOEFL iBT 72 / Duolingo B2）；材料含动机信、简历、两封推荐信、研究计划<br>官方称博士学费由学校承担（国际生同样适用）；生活补助按录取批次竞争性发放，金额官方来源未确认。 |
+| [新西伯利亚国立大学（NSU）英语授课博士项目与政府奖学金](https://english.nsu.ru/admission/programs/phd-programs-english/)<br><sub>俄罗斯 ｜ 物理/天文·数学/统计·计算机·生物/生命科学·化学/材料·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面称政府奖学金按申请人国别设截止；该页面当前显示“Application is over.”</sub> | ❔ | **要求：** 外国博士生可申请俄联邦政府奖学金，需在 Education in Russia 注册并把 NSU 列为第一志愿<br>页面称奖学金覆盖学费与月生活补助，名额因国别而异；无奖学金时需自费。 |
+
 <a id="r-tw"></a>
 
 ## 中国台湾（TW）（2）
@@ -469,14 +533,6 @@
 | --- | --- | --- | --- | :-: | --- |
 | [帕特雷大学化学工程系项目资助博士奖学金](https://www.chemeng.upatras.gr/en/node/1185)<br><sub>希腊 ｜ 化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026–27 秋季批次截止 2026-06-04（已过），下一批次以系网站为准</sub> | ❔ | **要求：** 需硕士学位；希腊及海外毕业生均可申请；奖学金来自竞争性科研项目，期限 3–5 年。<br>系内由科研项目资助的博士奖学金，需关注新的项目招生公告；已知最近一批截止较早。 |
 
-<a id="r-ie"></a>
-
-## 爱尔兰（IE）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [Irish Cancer Society 癌症生存研究博士奖学金（PhD 2026）](https://www.cancer.ie/researchers-hub/open-funding-calls/phd-research-scholarship-award-2026)<br><sub>爱尔兰 ｜ 医学/公卫·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>每年 €25,000（固定博士生津贴）；奖学金总额 €150,000（生存研究）或 €190,000（转化生物医学/临床），另有 €5,000 流动性经费</sub> | **2026-04-07**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请截止日为 2026 年 4 月 7 日（已关闭）；2027 轮待官网公布</sub> | ❔ | **要求：** 需与爱尔兰共和国认可的宿主机构建立关联并在奖学金期间保持；未见明确的国籍限制表述<br>爱尔兰癌症协会 PhD 奖学金，生存研究（Survivorship）为 2026 年三个主题之一，资助 3–4 年全日制。资助上限在不同版本指南中有不同说法，以官方最新指南为准。 |
-
 <a id="r-kr"></a>
 
 ## 韩国（KR）（1）
@@ -492,14 +548,6 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [立陶宛 FTMC 维尔纽斯博士岗位页](https://ftmc.lt/phd-admission-and-2026-research-topics/)<br><sub>立陶宛·欧盟/欧洲 ｜ 化学/材料·工程·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮博士申请已关闭；页面称下一年度课题预计 2027 年 2 月公布，材料提交通常在春季至初夏。</sub> | ✅ | **要求：** 需相关硕士学位；海外学位需提前完成学历认可（2026 轮为 6 月 10 日前）；每人只能申请一个课题<br>页面称 2026 年博士招生已关闭；正文中未见课题列表、资助期限及全额资助的说明。 |
-
-<a id="r-ru"></a>
-
-## 俄罗斯（RU）（1）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [新西伯利亚国立大学（NSU）英语授课博士项目与政府奖学金](https://english.nsu.ru/admission/programs/phd-programs-english/)<br><sub>俄罗斯 ｜ 物理/天文·数学/统计·计算机·生物/生命科学·化学/材料·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面称政府奖学金按申请人国别设截止；该页面当前显示“Application is over.”</sub> | ❔ | **要求：** 外国博士生可申请俄联邦政府奖学金，需在 Education in Russia 注册并把 NSU 列为第一志愿<br>页面称奖学金覆盖学费与月生活补助，名额因国别而异；无奖学金时需自费。 |
 
 <a id="r-si"></a>
 
@@ -531,7 +579,7 @@
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
-| [越南科学技术大学（USTH）2026 联合培养博士（co-tutelle）岗位](https://usth.edu.vn/en/call-for-co-tutelle-partners-and-phd-subjects-2026-11462/)<br><sub>VN ｜ 工程·计算机·生物/生命科学·化学/材料·物理/天文</sub> | 博士 | 半奖/部分 | **2026-12-30**<br><sub>🔄 随时可申</sub><br><sub>2026 年 12 月 30 日前滚动申请（搜索摘要所述）</sub> | ❔ | **要求：** 需找到法国或其他欧洲合作方导师<br>越南与法国合作的联合培养博士，约 10 个岗位；学费只由一方每年支付。 |
+| [越南科学技术大学（USTH）2026 联合培养博士（co-tutelle）岗位](https://usth.edu.vn/en/call-for-co-tutelle-partners-and-phd-subjects-2026-11462/)<br><sub>VN ｜ 工程·计算机·生物/生命科学·化学/材料·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | **2026-12-30**<br><sub>🔄 随时可申</sub><br><sub>2026 年 12 月 30 日前滚动申请（搜索摘要所述）</sub> | ❔ | **要求：** 需找到法国或其他欧洲合作方导师<br>越南与法国合作的联合培养博士，约 10 个岗位；学费只由一方每年支付。 |
 
 **分页：** [第 1 页](doctoral-programs.md) · [第 2 页](doctoral-programs-2.md) · [第 3 页](doctoral-programs-3.md)
 

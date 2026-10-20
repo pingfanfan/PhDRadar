@@ -419,3 +419,16 @@ def _flags_post(case):
     facts = ac.fact_index(yaml.safe_load((FIX / f"{WHO[case['who']]}.yml").read_text(encoding="utf-8")))
     errs, warns = ac.check_sentence(case["sentence"], facts, {}, case.get("post"), NAMES[case["who"]])
     return errs + [w for w in warns if w.startswith("需核对")]
+
+
+def test_checklist_academictransfer_style():
+    """AcademicTransfer 式正文：推荐人写成“至少两位科学家”、截止句断成两行、弯引号的 Master’s。"""
+    text = ("Requirements\nMaster’s degree in physics, computer science, or a closely related field;\n"
+            "A CV that includes names and email addresses of at least two scientists who agreed to be contacted for reference letters;\n"
+            "We consider an inclusive environment to be essential for the development of talent.\n"
+            "For full consideration, please apply no later than\n30 November 2026\n.")
+    cl = ac.extract_checklist(text)
+    assert cl["references"] == ["2"]
+    assert any("30 November 2026" in s for s in cl["deadline"])
+    assert any("Master's degree" in s for s in cl["requirements"])
+    assert not any("inclusive" in s for s in cl["requirements"])

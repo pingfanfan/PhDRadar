@@ -2,17 +2,17 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 个人信源与社交渠道（148）
+# 个人信源与社交渠道（156）
 
 导师主页、学术社交媒体等“非公开招聘”信息，很多名额从不挂到平台上。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [德国（DE） 30](people-channels.md#r-de) · [美国（US） 21](people-channels.md#r-us) · [瑞士（CH） 13](people-channels.md#r-ch) · [英国（UK） 13](people-channels.md#r-uk) · [全球（GLOBAL） 10](people-channels.md#r-global) · [加拿大（CA） 6](people-channels.md#r-ca) · [日本（JP） 6](people-channels.md#r-jp) · [中国内地（CN） 4](people-channels.md#r-cn) · [欧盟/欧洲（EU） 4](people-channels.md#r-eu) · [中国香港（HK） 4](people-channels.md#r-hk) · [韩国（KR） 4](people-channels.md#r-kr) · [荷兰（NL） 4](people-channels.md#r-nl) · [新加坡（SG） 4](people-channels.md#r-sg) · [澳大利亚（AU） 3](people-channels.md#r-au) · [比利时（BE） 3](people-channels.md#r-be) · [印度（IN） 3](people-channels.md#r-in) · [意大利（IT） 3](people-channels.md#r-it) · [捷克（CZ） 2](people-channels.md#r-cz) · [丹麦（DK） 2](people-channels.md#r-dk) · [西班牙（ES） 2](people-channels.md#r-es) · [奥地利（AT） 1](people-channels.md#r-at) · [保加利亚（BG） 1](people-channels.md#r-bg) · [法国（FR） 1](people-channels.md#r-fr) · [爱尔兰（IE） 1](people-channels.md#r-ie) · [以色列（IL） 1](people-channels.md#r-il) · [波兰（PL） 1](people-channels.md#r-pl) · [瑞典（SE） 1](people-channels.md#r-se)
+**按地区跳转：** [德国（DE） 32](people-channels.md#r-de) · [美国（US） 22](people-channels.md#r-us) · [英国（UK） 16](people-channels.md#r-uk) · [瑞士（CH） 13](people-channels.md#r-ch) · [全球（GLOBAL） 10](people-channels.md#r-global) · [加拿大（CA） 7](people-channels.md#r-ca) · [日本（JP） 6](people-channels.md#r-jp) · [中国内地（CN） 4](people-channels.md#r-cn) · [欧盟/欧洲（EU） 4](people-channels.md#r-eu) · [中国香港（HK） 4](people-channels.md#r-hk) · [韩国（KR） 4](people-channels.md#r-kr) · [荷兰（NL） 4](people-channels.md#r-nl) · [新加坡（SG） 4](people-channels.md#r-sg) · [澳大利亚（AU） 3](people-channels.md#r-au) · [比利时（BE） 3](people-channels.md#r-be) · [印度（IN） 3](people-channels.md#r-in) · [意大利（IT） 3](people-channels.md#r-it) · [捷克（CZ） 2](people-channels.md#r-cz) · [丹麦（DK） 2](people-channels.md#r-dk) · [西班牙（ES） 2](people-channels.md#r-es) · [奥地利（AT） 1](people-channels.md#r-at) · [保加利亚（BG） 1](people-channels.md#r-bg) · [法国（FR） 1](people-channels.md#r-fr) · [爱尔兰（IE） 1](people-channels.md#r-ie) · [以色列（IL） 1](people-channels.md#r-il) · [挪威（NO） 1](people-channels.md#r-no) · [波兰（PL） 1](people-channels.md#r-pl) · [瑞典（SE） 1](people-channels.md#r-se)
 
 <a id="r-de"></a>
 
-## 德国（DE）（30）
+## 德国（DE）（32）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -34,12 +34,14 @@
 | [Max Planck Young Researchers Heidelberg ERC StG REPROMECH 博士岗位](https://jobrxiv.org/job/phd-position-m-f-d-reproductive-mechanobiology/)<br><sub>德国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>岗位信息列截止 2026 年 11 月 1 日；以岗位页为准</sub> | ❔ | **要求：** 需硕士或同等学历，专业为生殖生物学、发育生物学、生物学、生物物理、物理、生物工程或相关学科；需优秀的英语读写与口语能力；需愿意使用实验小鼠并完成实验动物培训。<br>马普医学研究所 Möllmert 课题组 ERC StG REPROMECH 生殖力学方向博士岗位，36 个月，计划 2027 年 1 月 1 日起，薪资 TVöD Bund E13（75%）。 |
 | [Ommer 实验室（LMU 慕尼黑）职位页](https://ommer-lab.com/jobs/)<br><sub>德国 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 需机器学习/计算机视觉实践经验，英语读写流利；需提交 CV、成绩单、推荐人及研究陈述（以当前岗位要求为准）<br>LMU 计算机视觉与机器学习组（Björn Ommer）的职位页，接收博士、博后与硕士申请；页面未写明薪资形式，需以具体岗位公告为准。 |
 | [TUM 系统研究组（dse）博士与博后岗位](https://dse.in.tum.de/)<br><sub>德国 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 滚动<br><sub>🔄 随时可申</sub> | ✅ | 组页面称有开放的博士与博后岗位，所有岗位按 TV-L 13（100%）标准支付并含社会福利；简历请发送至 application.dse@xcit.tum.de。页面未写截止日期，也未写国际生资格。 |
+| [亚琛工业大学人机交互组 · 博士岗位](https://hci.rwth-aachen.de/jobs)<br><sub>德国 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 未找到该组当前博士岗位公告，原稿“每年一两个全额资助岗位”的说法未能核实。申请前请到官网确认在招岗位、英语要求与截止日期。 |
 | [图宾根大学 Hector 教育科学与心理学研究所 · 招聘页（博士岗）](https://uni-tuebingen.de/en/faculties/faculty-of-economics-and-social-sciences/subjects/department-of-social-sciences/education-sciences-and-psychology/institute/job-listings)<br><sub>德国 ｜ 社会科学/心理·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>页面列出的博士后岗位为 100%、E 13 TV-L、3 年（可延长）；其他岗位薪资未在列表中给出</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面列表仅显示发布日期（如 2026 年 9 月 11 日、2026 年 6 月 1 日），未显示截止日，需进入各岗位核对</sub> | ❔ | **要求：** 页面未列出统一的学历、背景或国籍要求，需逐条查看岗位公告。<br>图宾根大学 Hector 教育研究所官方招聘列表，近期条目包括攻读博士的研究助理（2026 年 6 月 1 日发布）与数字教育数据计算建模方向博士后（2026 年 9 月 11 日发布，100%，E 13 TV-L，3 年）。 |
 | [图宾根大学机器学习理论组（TML）职位页](https://www.tml.cs.uni-tuebingen.de/jobs/index.php)<br><sub>德国 ｜ 人工智能·计算机·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | —<br><sub>🔄 随时可申</sub> | ❔ | 页面称可随时发送博士或博后申请，课题组直投；页面无日期，投递前确认。博后多可直接联系课题组，博士多经 IMPRS-IS/ELLIS 招收。 |
 | [图宾根神经科学研究生院岗位列表](https://www.neuroschool-tuebingen.de/news/hiwi-phd-postdoc/)<br><sub>德国 ｜ 神经/认知·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 汇总图宾根大学、马普所与 Hertie 研究所的神经科学博士/博后岗位公告。 |
 | [康斯坦茨大学进化生物学课题组岗位页](https://www.evolutionsbiologie-uni-konstanz.com/job-opportunities.html)<br><sub>德国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止不同</sub> | ❔ | 页面称全年欢迎博士与博后咨询，可直接联系 Axel Meyer 教授；页面另列 Assistant Professor（Jr. Group Leader）岗位，入职时间待定。 |
 | [德累斯顿系统生物学中心（CSBD）招聘页](https://www.csbdresden.de/join-us/jobs)<br><sub>德国 ｜ 生物/生命科学·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面写 ELBE 博后下一截止为 2026 年 9 月 11 日（已过），未见下一轮日期。</sub> | ❔ | CSBD 岗位汇总页：博士招生仅经 IMPRS Bio-MAP 统一进行，页面写明不接受直接联系课题组的申请。ELBE 博后项目页面所写截止已过，下一轮未见公布；各岗位资助与国际生条件需逐条核对官网。 |
 | [萨尔大学 Demberg 计算语言学实验室招聘页](https://www.uni-saarland.de/lehrstuhl/demberg/job-vacancies-at-the-lab.html)<br><sub>德国 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>页面列出 2 个博士岗位（W2935、W2936），截止 2026-10-31</sub> | ❔ | 萨大 Demberg 实验室可见 ELIZA 项目博士岗（W2866，E13 全职，4 年，需硕士学位），公告未见截止日期，以 uni-saarland.de 招聘页为准；未见博后岗位。 |
+| [雷根斯堡大学 HCI 邮件列表汇总](https://hci.uni-regensburg.de/_export/xhtml/mailing_lists)<br><sub>德国·全球 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | 汇总 SIGCHI 及德国、国际 HCI 社区邮件列表，主要用于岗位与征稿公告。 |
 | [马普人类认知与脑科学研究所招聘页](https://www.mpg.de/5706671/Jobs)<br><sub>德国 ｜ 神经/认知·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub><br><sub>各职位截止不一，以具体广告为准</sub> | ❔ | **要求：** 需相关领域博士学位；英文申请；岗位合同与截止以各广告为准<br>马普人类认知与脑科学研究所的博士与博后岗位，多为带薪合同。招聘页未逐条说明国际申请人资格。 |
 | [马普动物行为研究所（康斯坦茨/雷道尔夫策尔）官方招聘页](https://www.ab.mpg.de/322153/job-offers)<br><sub>德国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各职位截止不一，以具体岗位广告为准；博士多经 IMPRS-QBEE 统一申请，以当年官网为准。</sub> | ❔ | 马普动物行为所官方职位总页，列出博士/博后岗位；需德语的岗位另有德文页。薪资按 TVöD 公共部门标准。 |
 | [马普外国与国际私法研究所博士候选人](https://www.mpipriv.de/1499891/promotion-am-mpi)<br><sub>德国 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | — | ❔ | 马普外国与国际私法研究所以员工身份招收博士候选人，博士研究合同通常覆盖约三年。检索未见当期岗位；其他项目以研究所官网为准。 |
@@ -49,7 +51,7 @@
 
 <a id="r-us"></a>
 
-## 美国（US）（21）
+## 美国（US）（22）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -72,8 +74,32 @@
 | [普渡大学 Jianguo Wang 组博士招生页](https://cs.purdue.edu/homes/csjgwang/hiring)<br><sub>美国 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>页面面向 2027 年春季/秋季入学招生，未列出具体截止日</sub> | ❔ | **要求：** CS 相关硕士或本科；需提交 TOEFL 成绩；须同时递交 Purdue CS 正式申请并将 Wang 列为首选导师；先发邮件至 csjgwang@purdue.edu<br>数据库与数据系统方向导师招生页，页面针对 2026 秋季，下一轮需关注更新；资助以导师通知为准，邮件联系。 |
 | [普渡大学 uSMART 研究中心在招博士岗](https://engineering.purdue.edu/uSMART/Position-openings)<br><sub>美国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | 🟡 | 2026 年秋季 3 个资助博士岗（可持续交通、交通系统建模、可持续韧性供应链），其中 1 个因 NSF 资助限美国公民/永久居民，其余页面未限国籍。联系 Hua Cai 教授申请，页面未给截止日期，2027 批次未见公告。 |
 | [普渡大学统计系职位页（含 stat-jobs 邮件列表）](https://www.stat.purdue.edu/resources/jobs/)<br><sub>美国 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 普渡统计系招聘入口。搜索未能确认普渡统计系存在可订阅的 stat-jobs 邮件列表（该名称见于北卡州立 statjobs 站点），原说明不成立，勿当作订阅入口。统计系博士后岗位多在 careers.purdue.edu 或第三方站发布，搜索可见的多为 2025 年旧帖，投递前需核对截止日。 |
+| [洛克菲勒大学理论神经科学实验室博士与博后岗位（comp-neuro 帖）](https://lists.cnsorg.org/hyperkitty/list/comp-neuro@lists.cnsorg.org/thread/TA5XQJJATNKEFUKLAMC4L3I7LAN5DUAY/)<br><sub>美国 ｜ 神经/认知·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | — | ❔ | **要求：** PhD：需学士或硕士（或同等国际学历），并在生物、化学、数学或物理科学方面有高水平成就，通过 David Rockefeller Graduate Program 申请；博后条件及国际生资格未在所见页面说明<br>洛克菲勒大学理论神经科学实验室以邮件列表公告招收博士与博后，目标入职 2027 年 1 月。博士经 David Rockefeller Graduate Program 申请，校方称全额资助、学费为 0；国际生名额与申请截止日期未确认，以校方页面为准。 |
 | [科罗拉多大学博尔德分校心理与神经科学系招生导师页](https://www.colorado.edu/psych-neuro/node/2303)<br><sub>美国 ｜ 社会科学/心理·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>行为神经科学页面写 11 月 15 日（另一版本为 11 月 20 日），以研究生院为准</sub> | ❔ | **要求：** 国际申请费 $80；GRE 不作要求；非英语教育背景需 TOEFL 550 或同等成绩<br>系内招生导师名单可据此直接联系 PI。资助以助教（TA）和助研（RA）为主，含学费减免；生活津贴金额未查到，向导师确认。 |
 | [肯塔基大学 IRA 机器人实验室博士岗位](https://bxie.engr.uky.edu/open-positions)<br><sub>美国 ｜ 工程·计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>页面未见截止日期，以页面申请表为准</sub> | ❔ | 肯塔基大学 Biyun Xie 教授 IRA 实验室官网称有 3 个 2026 年秋季入学的全额资助博士岗（机器人、自动化、控制或机器学习背景），通过页面申请表申请；旧版页面为邮件投递且名额不同，以导师确认为准。国际生资格页面未明确。 |
+
+<a id="r-uk"></a>
+
+## 英国（UK）（16）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Cambridge · Guimarães 课题组 · 物理博士 2027](https://guimaraes.phy.cam.ac.uk/?p=4783)<br><sub>英国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>🔜 即将开放</sub><br><sub>2027 年 10 月入学；组页未写截止日期与资助方式，请先邮件联系 PI</sub> | ❔ | Guimarães 课题组页面称正在招收 2027 年 10 月入学的博士生，要求直接邮件联系 PI。页面未写明具体截止日期与资助方式，需向 PI 确认。 |
+| [Cambridge · Rao 课题组 · 物理博士 2027](https://rao.oe.phy.cam.ac.uk/join-the-group/)<br><sub>英国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-12-09**<br><sub>🟢 开放申请</sub><br><sub>页面列出 2027 年 10 月入学博士岗位截止 2026-12-09；大学资助截止通常在 12 月初，建议提前联系。</sub> | ❔ | 剑桥 Rao 课题组（物理）正在招收 2027 年 10 月入学的博士，页面称资助竞争激烈，建议提前联系 PI。 |
+| [Edinburgh Neuroscience 职位页](https://edinburghneuroscience.ed.ac.uk/opportunities/jobs)<br><sub>英国 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 该 URL 重定向到 jobs-internships-phds 页面，抓取内容与 edinburgh-neuro-jobs-phds 相同（可见条目为伦敦国王学院 King's Prize Fellowship，页面日期 26 Oct, 2026）。部分资助仅限英国本地生（页面未核实）。 |
+| [Ivan Titov 课题组（爱丁堡大学 NLP）加入与申请说明](https://ivan-titov.org/join.html)<br><sub>英国 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面未给出统一截止日，博士通常经 ILCC 博士项目或 UKRI NLP 培训中心录取，建议先联系课题组。</sub> | ❔ | 页面称目前招收博士生，可通过 ILCC 博士项目或两个 CDT（Responsible NLP、Machine Learning Systems）申请；页面写明目前没有有资助的博后岗位，访问博士需自备经费。 |
+| [Manish Chhowalla 课题组（剑桥材料）博士与博后招聘](https://www.chhowalla.msm.cam.ac.uk/opportunities)<br><sub>英国 ｜ 工程·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>PhD 经大学门户申请，申请大学资助截止 12 月 1 日（页面未标年份）；页面列有 3 个 Research Associate（TMDs）固定期限岗位，并称多个 Research Associate 岗位可立即入职。</sub> | ❔ | 二维材料与薄膜方向课题组招聘页，职位资金来自课题组经费；先读项目说明再邮件联系导师。 |
+| [RSS 计算统计与机器学习小组邮件列表](https://groups.google.com/g/rss-csml)<br><sub>英国 ｜ 数学/统计·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 不提供资助 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 无统一申请条件，岗位要求以各招聘帖为准；加入小组需 Google 账号并申请<br>皇家统计学会 CSML 小组的 Google Group。检索未见官方说明其用于发布英国高校统计/机器学习博士与博后岗位，岗位以各招聘帖为准。 |
+| [Sheffield 应用数学与理论物理组博士机会页](https://agmp.sites.sheffield.ac.uk/phd-opportunities)<br><sub>英国 ｜ 物理/天文·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-01-15**<br><sub>🟢 开放申请</sub><br><sub>页面称 2027/28 入学：本组有 1 个 EPSRC DLA 项目，截止 2027-01-15 17:00 GMT；DLA 仅覆盖 Home 学费，只有极少数名额可覆盖国际学费</sub> | 🟡 | **要求：** 页面所列 EPSRC DLA 与 Leverhulme 资助仅覆盖 Home 学费水平，国际生差额需自付；一般要求一等学位或硕士优异<br>Sheffield 应用数学与理论物理组博士机会页：2026/27 列出 3 个全额资助名额，但 DLA 与 Leverhulme 资助仅限 Home 学费水平，国际学生需自行解决学费差额。页面按年度更新，部分名额标注 open until filled，下一轮需关注页面。 |
+| [Sirringhaus 课题组（剑桥物理）共轭聚合物与软功能材料博士岗位](https://sirringhaus.oe.phy.cam.ac.uk/join-us)<br><sub>英国 ｜ 物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>页面列出 2026 年 10 月入学的若干资助博士岗位，具体截止未公布，本轮多已过，请直接联系 Sirringhaus 教授确认</sub> | ❔ | **要求：** 需通过剑桥物理系 MPhil/PhD 申请流程申请；需直接联系导师<br>剑桥大学 Cavendish 实验室 Sirringhaus 课题组列出多个资助博士岗位（有机与钙钛矿晶体管、导电聚合物热电等方向）；直接发邮件联系教授。国际生资格需确认，仍标 check。 |
+| [Tyndall 气候变化研究中心职位与机会页](https://tyndall.ac.uk/jobs-and-opportunities)<br><sub>英国 ｜ 地球/环境/海洋·生态/进化·工程·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止不同；页面有 2026 年 2 月发布的博士岗，已过期</sub> | ❔ | 英国气候变化研究中心官方招聘页，汇总曼彻斯特等节点的博士与博后机会。 |
+| [剑桥计算机实验室 Rainbow 图形与交互组申请说明](https://www.cl.cam.ac.uk/research/rainbow/applying.html)<br><sub>英国 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面写：英国申请人及已获外部资助的海外申请人的绝对截止为每年 3 月 31 日（次年 10 月入学）；希望参加资助竞争的海外申请人需更早申请，关键日期见大学资助页。</sub> | ❔ | 组级说明：已有资助的海外申请人需在每年 3 月 31 日前申请（次年 10 月入学）；与剑桥统一的 Cambridge Trusts 截止是两套时间线，需同时准备。 |
+| [帝国理工 Frontier AI 实验室 · 全奖博士（与 Thomson Reuters 合作）](https://www.imperial.ac.uk/a-z-research/frontier-ai/join-us-for-a-phd/)<br><sub>英国 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 滚动<br><sub>🔄 随时可申</sub><br><sub>滚动评审，无固定截止</sub> | ✅ | **要求：** 需先向中心发送 CV，入选后再提交正式申请；学位与语言要求以项目页为准<br>奖学金覆盖海外学费与 42 个月生活津贴；先向中心发送 CV，入选后再提交正式申请；滚动评审。 |
+| [格拉斯哥大学 Terrier 信息检索团队招聘页](https://terrierteam.dcs.gla.ac.uk/Jobs.html)<br><sub>英国 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ⛔ | Terrier 团队招聘页称长期招收信息检索方向博士与博后。当前可见的博士岗（初始资助 12 个月）仅面向英国与欧盟申请者，直至岗位招满；页面无日期，未见博后岗位公告。 |
+| [牛津 Dynamic Robotics Lab 招生说明](https://dynamic.robots.ox.ac.uk/join_us)<br><sub>英国 ｜ 工程·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2024/25 DPhil 截止 2024-12-03 已过；2026 年 10 月检索仅见 Fallon 组 PRA 岗位（截止 2026-07-20 已过）；下一轮以组页为准</sub> | ❔ | **要求：** 需申请 Engineering Science DPhil 并指定 Maurice Fallon 为导师；具体学位与语言要求以官网为准<br>牛津 Dynamic Robot Systems 组招生页（2024/25 版本，信息偏旧）：需申请 Engineering Science DPhil 并指定 Maurice Fallon 为导师，建议在 12 月截止前申请以参加牛津奖学金评选；具体项目以官网为准。 |
+| [牛津大学物理系 磁性与智能器件课题组 · 招生](https://www.physics.ox.ac.uk/research/group/magnetism-intelligent-devices-mind/join-group)<br><sub>英国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>🔜 即将开放</sub> | ❔ | 页面称该组招收 2027 年 10 月入学的 2 个 Royal Society 资助全奖 PhD（含学费与津贴），申请入口预计 2026 年 10 月开放，2027 年 1 月截止。 |
+| [谢菲尔德大学 Natural Robotics 实验室加入说明](https://sheffield.ac.uk/naturalrobotics/joining)<br><sub>英国 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>请进入页面查看当前招生方式。</sub> | ❔ | **要求：** 先向大学提交博士入学申请并获得申请号，再申请博士奖学金；可先将 CV 发邮件给 Roderich Gross 博士<br>谢菲尔德自然机器人实验室加入页，介绍博士与研究员的申请途径；资助金额需进入页面确认。 |
+| [雷丁大学 DARC 数据同化与气候中心招聘页](https://research.reading.ac.uk/met-darc/aboutus/vacancies-in-darc/)<br><sub>英国 ｜ 地球/环境/海洋·数学/统计·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | DARC 招聘页称当前无数据同化岗位公告，主要入口为 Mathematics for our Future Climate（MFC）CDT：4 年全额资助（含津贴与 Home 标准学费），需数学或相关硕士。2026 轮截止 3 月 8 日已过，2027 轮未公布；国际生学费资格未确认。 |
 
 <a id="r-ch"></a>
 
@@ -95,26 +121,6 @@
 | [苏黎世大学 DAST 组职位页](https://www.ifi.uzh.ch/en/dast/jobs.html)<br><sub>瑞士 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 滚动<br><sub>📋 持续更新</sub><br><sub>页面称 DaST 组持续招募优秀候选人，未给出固定截止日期；需向 Dan Olteanu 教授发邮件联系。</sub> | ✅ | **要求：** 申请需发送简历与求职信（说明研究兴趣），后续可能要求至少三位推荐人与成绩单；入学时间灵活；官网摘要未说明国际生资格<br>苏黎世大学信息学系 DaST 组招博士生与博士后，方向为数据管理的理论与系统，页面称博士生年薪约 7.5 万瑞士法郎（另加 15% 社保），博士后超过 10 万瑞士法郎。页面明确不接受应用 ML/AI 方向的申请，且未说明国际生资格。 |
 | [苏黎世大学 SPiNS 组 Prospective PhDs and PostDocs](https://www.ifi.uzh.ch/en/spins/Prospective-PhDs-and-PostDocs.html)<br><sub>瑞士 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 仅生活费 | 滚动<br><sub>📋 持续更新</sub> | ✅ | SPiNS 组当前招收 2 名博士生和 1 名博士后，理想入学时间为 2027 年 1 月，页面称提供有竞争力的津贴与养老金，首年博士生可申请补贴住房。页面明确说明不适合应用 ML、LLM 等方向的申请者。 |
 
-<a id="r-uk"></a>
-
-## 英国（UK）（13）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [Cambridge · Guimarães 课题组 · 物理博士 2027](https://guimaraes.phy.cam.ac.uk/?p=4783)<br><sub>英国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>🔜 即将开放</sub><br><sub>2027 年 10 月入学；组页未写截止日期与资助方式，请先邮件联系 PI</sub> | ❔ | Guimarães 课题组页面称正在招收 2027 年 10 月入学的博士生，要求直接邮件联系 PI。页面未写明具体截止日期与资助方式，需向 PI 确认。 |
-| [Cambridge · Rao 课题组 · 物理博士 2027](https://rao.oe.phy.cam.ac.uk/join-the-group/)<br><sub>英国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-12-09**<br><sub>🟢 开放申请</sub><br><sub>页面列出 2027 年 10 月入学博士岗位截止 2026-12-09；大学资助截止通常在 12 月初，建议提前联系。</sub> | ❔ | 剑桥 Rao 课题组（物理）正在招收 2027 年 10 月入学的博士，页面称资助竞争激烈，建议提前联系 PI。 |
-| [Edinburgh Neuroscience 职位页](https://edinburghneuroscience.ed.ac.uk/opportunities/jobs)<br><sub>英国 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 该 URL 重定向到 jobs-internships-phds 页面，抓取内容与 edinburgh-neuro-jobs-phds 相同（可见条目为伦敦国王学院 King's Prize Fellowship，页面日期 26 Oct, 2026）。部分资助仅限英国本地生（页面未核实）。 |
-| [Ivan Titov 课题组（爱丁堡大学 NLP）加入与申请说明](https://ivan-titov.org/join.html)<br><sub>英国 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面未给出统一截止日，博士通常经 ILCC 博士项目或 UKRI NLP 培训中心录取，建议先联系课题组。</sub> | ❔ | 页面称目前招收博士生，可通过 ILCC 博士项目或两个 CDT（Responsible NLP、Machine Learning Systems）申请；页面写明目前没有有资助的博后岗位，访问博士需自备经费。 |
-| [Manish Chhowalla 课题组（剑桥材料）博士与博后招聘](https://www.chhowalla.msm.cam.ac.uk/opportunities)<br><sub>英国 ｜ 工程·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>PhD 经大学门户申请，申请大学资助截止 12 月 1 日（页面未标年份）；页面列有 3 个 Research Associate（TMDs）固定期限岗位，并称多个 Research Associate 岗位可立即入职。</sub> | ❔ | 二维材料与薄膜方向课题组招聘页，职位资金来自课题组经费；先读项目说明再邮件联系导师。 |
-| [Sirringhaus 课题组（剑桥物理）共轭聚合物与软功能材料博士岗位](https://sirringhaus.oe.phy.cam.ac.uk/join-us)<br><sub>英国 ｜ 物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>页面列出 2026 年 10 月入学的若干资助博士岗位，具体截止未公布，本轮多已过，请直接联系 Sirringhaus 教授确认</sub> | ❔ | **要求：** 需通过剑桥物理系 MPhil/PhD 申请流程申请；需直接联系导师<br>剑桥大学 Cavendish 实验室 Sirringhaus 课题组列出多个资助博士岗位（有机与钙钛矿晶体管、导电聚合物热电等方向）；直接发邮件联系教授。国际生资格需确认，仍标 check。 |
-| [Tyndall 气候变化研究中心职位与机会页](https://tyndall.ac.uk/jobs-and-opportunities)<br><sub>英国 ｜ 地球/环境/海洋·生态/进化·工程·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止不同；页面有 2026 年 2 月发布的博士岗，已过期</sub> | ❔ | 英国气候变化研究中心官方招聘页，汇总曼彻斯特等节点的博士与博后机会。 |
-| [剑桥计算机实验室 Rainbow 图形与交互组申请说明](https://www.cl.cam.ac.uk/research/rainbow/applying.html)<br><sub>英国 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面写：英国申请人及已获外部资助的海外申请人的绝对截止为每年 3 月 31 日（次年 10 月入学）；希望参加资助竞争的海外申请人需更早申请，关键日期见大学资助页。</sub> | ❔ | 组级说明：已有资助的海外申请人需在每年 3 月 31 日前申请（次年 10 月入学）；与剑桥统一的 Cambridge Trusts 截止是两套时间线，需同时准备。 |
-| [帝国理工 Frontier AI 实验室 · 全奖博士（与 Thomson Reuters 合作）](https://www.imperial.ac.uk/a-z-research/frontier-ai/join-us-for-a-phd/)<br><sub>英国 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 滚动<br><sub>🔄 随时可申</sub><br><sub>滚动评审，无固定截止</sub> | ✅ | **要求：** 需先向中心发送 CV，入选后再提交正式申请；学位与语言要求以项目页为准<br>奖学金覆盖海外学费与 42 个月生活津贴；先向中心发送 CV，入选后再提交正式申请；滚动评审。 |
-| [格拉斯哥大学 Terrier 信息检索团队招聘页](https://terrierteam.dcs.gla.ac.uk/Jobs.html)<br><sub>英国 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ⛔ | Terrier 团队招聘页称长期招收信息检索方向博士与博后。当前可见的博士岗（初始资助 12 个月）仅面向英国与欧盟申请者，直至岗位招满；页面无日期，未见博后岗位公告。 |
-| [牛津 Dynamic Robotics Lab 招生说明](https://dynamic.robots.ox.ac.uk/join_us)<br><sub>英国 ｜ 工程·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2024/25 DPhil 截止 2024-12-03 已过；2026 年 10 月检索仅见 Fallon 组 PRA 岗位（截止 2026-07-20 已过）；下一轮以组页为准</sub> | ❔ | **要求：** 需申请 Engineering Science DPhil 并指定 Maurice Fallon 为导师；具体学位与语言要求以官网为准<br>牛津 Dynamic Robot Systems 组招生页（2024/25 版本，信息偏旧）：需申请 Engineering Science DPhil 并指定 Maurice Fallon 为导师，建议在 12 月截止前申请以参加牛津奖学金评选；具体项目以官网为准。 |
-| [牛津大学物理系 磁性与智能器件课题组 · 招生](https://www.physics.ox.ac.uk/research/group/magnetism-intelligent-devices-mind/join-group)<br><sub>英国 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>🔜 即将开放</sub> | ❔ | 页面称该组招收 2027 年 10 月入学的 2 个 Royal Society 资助全奖 PhD（含学费与津贴），申请入口预计 2026 年 10 月开放，2027 年 1 月截止。 |
-| [谢菲尔德大学 Natural Robotics 实验室加入说明](https://sheffield.ac.uk/naturalrobotics/joining)<br><sub>英国 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>请进入页面查看当前招生方式。</sub> | ❔ | **要求：** 先向大学提交博士入学申请并获得申请号，再申请博士奖学金；可先将 CV 发邮件给 Roderich Gross 博士<br>谢菲尔德自然机器人实验室加入页，介绍博士与研究员的申请途径；资助金额需进入页面确认。 |
-
 <a id="r-global"></a>
 
 ## 全球（GLOBAL）（10）
@@ -134,7 +140,7 @@
 
 <a id="r-ca"></a>
 
-## 加拿大（CA）（6）
+## 加拿大（CA）（7）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -144,6 +150,7 @@
 | [圭尔夫大学 AI 安全实验室博士招生](https://www.aisecurity.uoguelph.ca/join-us)<br><sub>加拿大 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>页面称入学时间为 2027 年夏季与秋季（Summer 2027 and Fall 2027），未见截止日期；请直接邮件联系导师确认。</sub> | ❔ | **要求：** 需计算机科学或计算机工程背景；有 AI/机器学习或网络安全经验者优先；需发送邮件至 Wenjing Zhang 博士，附 CV、成绩单、研究兴趣陈述及两位推荐人联系方式。<br>圭尔夫大学 AI 安全实验室招收网络安全与 AI/机器学习方向的资助博士生及硕士生，页面写明入学时间为 2027 年夏季与秋季。申请需直接邮件联系 Wenjing Zhang 博士。 |
 | [女王大学 IRIS 机器人实验室 Join us（博士）](https://iris.smithengineering.queensu.ca/join-us)<br><sub>加拿大 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>约 C$29,500/年（页面所示，以官网为准）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub> | ❔ | **要求：** 需硕士学位（工程类，如 ECE、生物医学、机电），GPA 高于 85% 并有发表记录；页面称国际生与本国学生均可申请，本国申请人优先；未见截止日期，需直接联系导师确认名额<br>页面所列博士岗位针对 2026 年 9 月入学，该轮已过；下一轮未见公告。页面称国际生与本国学生均可申请但优先本国申请人，需先联系导师确认名额。 |
 | [拉瓦尔大学 Norlab 机器人实验室研究生招生](https://norlab.ulaval.ca/research/prospective-students/)<br><sub>加拿大 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 仅生活费 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>无固定截止，按导师名额；页面称资助申请约需 8 个月回复，建议提前一年规划。</sub> | ❔ | **要求：** 国际申请者需由实验室认可的教授推荐，否则邮件通常不回复。<br>页面列出博士阶段实验室资助每年 $36 000（最长 4.5 年），并称国际学生可获学费减免；国际申请者须经实验室认可的教授推荐才会收到回复。 |
+| [滑铁卢大学 Future graduate student research opportunities（受资助博士/硕士课题目录）](https://uwaterloo.ca/future-graduate-students/catalogs/future-graduate-student-research-opportunities)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>目录内各项目截止与入学批次不同，以各条目页面为准。</sub> | ❔ | **要求：** 各项目要求不同，国际生资格看具体条目。<br>滑铁卢官方持续更新的研究机会目录，列出由教授发布的受资助博士岗位；目录本身不写统一资助额，单条目需核对是否已关闭。 |
 
 <a id="r-jp"></a>
 
@@ -330,6 +337,14 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [希伯来大学医学研究所（IMRIC）职位页](https://imric.huji.ac.il/node/3207305)<br><sub>以色列 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各职位截止日不同，逐条查看。</sub> | ❔ | IMRIC 实验室的博士与博后开放职位汇总，适合直接联系 PI。资助形式按各职位而定。 |
+
+<a id="r-no"></a>
+
+## 挪威（NO）（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Simula 研究所（奥斯陆）招聘总页](https://simula.no/careers/job-openings)<br><sub>挪威 ｜ 计算机·人工智能·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | — | ❔ | 常年发布 ML、AI 及科学计算等方向博士/博后岗（挪威全薪雇佣），常见 3 年合同；2026 年上半年批次多已截止，关注新公告。 |
 
 <a id="r-pl"></a>
 

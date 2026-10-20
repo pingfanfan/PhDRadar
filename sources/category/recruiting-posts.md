@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 导师招生帖（社交平台个人发布）（78）
+# 导师招生帖（社交平台个人发布）（83）
 
 导师/课题组在小红书、知乎、微信公众号、微博、B站、X、Bluesky、LinkedIn 等平台亲自发布的单条博士/博后招生帖，时效性强，请留意发布日期。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [中国香港（HK） 20](recruiting-posts.md#r-hk) · [美国（US） 10](recruiting-posts.md#r-us) · [德国（DE） 7](recruiting-posts.md#r-de) · [瑞士（CH） 6](recruiting-posts.md#r-ch) · [荷兰（NL） 6](recruiting-posts.md#r-nl) · [新加坡（SG） 5](recruiting-posts.md#r-sg) · [丹麦（DK） 4](recruiting-posts.md#r-dk) · [韩国（KR） 4](recruiting-posts.md#r-kr) · [加拿大（CA） 3](recruiting-posts.md#r-ca) · [中国内地（CN） 3](recruiting-posts.md#r-cn) · [奥地利（AT） 1](recruiting-posts.md#r-at) · [比利时（BE） 1](recruiting-posts.md#r-be) · [欧盟/欧洲（EU） 1](recruiting-posts.md#r-eu) · [芬兰（FI） 1](recruiting-posts.md#r-fi) · [法国（FR） 1](recruiting-posts.md#r-fr) · [以色列（IL） 1](recruiting-posts.md#r-il) · [日本（JP） 1](recruiting-posts.md#r-jp) · [挪威（NO） 1](recruiting-posts.md#r-no) · [瑞典（SE） 1](recruiting-posts.md#r-se) · [英国（UK） 1](recruiting-posts.md#r-uk)
+**按地区跳转：** [中国香港（HK） 20](recruiting-posts.md#r-hk) · [美国（US） 13](recruiting-posts.md#r-us) · [荷兰（NL） 8](recruiting-posts.md#r-nl) · [德国（DE） 7](recruiting-posts.md#r-de) · [瑞士（CH） 6](recruiting-posts.md#r-ch) · [新加坡（SG） 5](recruiting-posts.md#r-sg) · [丹麦（DK） 4](recruiting-posts.md#r-dk) · [韩国（KR） 4](recruiting-posts.md#r-kr) · [加拿大（CA） 3](recruiting-posts.md#r-ca) · [中国内地（CN） 3](recruiting-posts.md#r-cn) · [奥地利（AT） 1](recruiting-posts.md#r-at) · [比利时（BE） 1](recruiting-posts.md#r-be) · [欧盟/欧洲（EU） 1](recruiting-posts.md#r-eu) · [芬兰（FI） 1](recruiting-posts.md#r-fi) · [法国（FR） 1](recruiting-posts.md#r-fr) · [以色列（IL） 1](recruiting-posts.md#r-il) · [日本（JP） 1](recruiting-posts.md#r-jp) · [挪威（NO） 1](recruiting-posts.md#r-no) · [瑞典（SE） 1](recruiting-posts.md#r-se) · [英国（UK） 1](recruiting-posts.md#r-uk)
 
 <a id="r-hk"></a>
 
@@ -39,7 +39,7 @@
 
 <a id="r-us"></a>
 
-## 美国（US）（10）
+## 美国（US）（13）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -51,8 +51,26 @@
 | [Rajan 课题组 · 哈佛医学院 / Kempner 研究所 · 计算神经科学 招生](https://rajanlab.com/join-us)<br><sub>美国 ｜ 神经/认知·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>招生页未给出截止日，建议直接邮件询问当前名额。</sub> | ❔ | **要求：** 页面未列具体学历、语言与国际生要求；需先确认名额所属机构（PI 现为哈佛医学院/Kempner，西奈山为 adjunct），再邮件询问。<br>页面称实验室目前不招聘博后，将来可能招募；机构为哈佛医学院神经生物学系与 Kempner 研究所。 |
 | [Seok-Yong Lee 课题组 · Duke University School of Medicine · 结构与膜生物学 博后招聘](https://sites.duke.edu/leelab/open-lab-positions/)<br><sub>美国 ｜ 生物/生命科学·化学/材料·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 未公布<br><sub>🟢 开放申请</sub> | ❔ | **要求：** 页面未明确写博士学位要求；有冷冻电镜、膜蛋白生化或电生理背景者更佳，但非必需。申请材料为简历（含论文列表与三位推荐人联系方式）及研究兴趣陈述，发送至 seok-yong.lee@duke.edu。国际生签证与资格页面未写，需咨询 PI。<br>PI 课题组自有招聘页，列出一个由 NIH 资助的博士后岗位（膜转运机制方向）；页面未写薪资与截止日期，申请前需向 PI 确认。 |
 | [Sihui Li · 华盛顿州立大学 · 机器人方向全奖博士](https://labs.wsu.edu/ropal/)<br><sub>美国 ｜ 计算机·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>🟢 开放申请</sub> | ❔ | **要求：** 需计算机背景或扎实 C/C++ 基础，有机器人研究经验者优先<br>WSU 机器人规划与自主实验室（RoPAL）官网称招收硕士与博士生，咨询 Sihui Li 教授。论坛帖称 2026 秋招 1 名全奖 CS 博士，但官网未写明资助类型，申请截止与资格以官网或教授通知为准。 |
+| [USC · iLAB 2027 秋季博士岗位](https://i-lab.usc.edu/)<br><sub>美国 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>🟢 开放申请</sub><br><sub>官网列出博士申请截止日 10 月 1 日、2 月 15 日、3 月 15 日；12 月 15 日前完成申请可考虑助学金</sub> | ❔ | 实验室主页列出 2027 秋季开放的博士岗位，提示不要直接发邮件咨询，应按页面流程操作。 |
+| [UT Austin · INSPIRE Lab（Guo）· 2027 秋季全奖博士](https://sites.utexas.edu/guo/opportunities/)<br><sub>美国 ｜ 工程·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>🟢 开放申请</sub> | ❔ | UT Austin INSPIRE 实验室称招收 1 名 2027 年秋季入学的全奖博士，方向为基础设施系统的 AI、优化与决策智能；申请须走 Cockrell School 正式流程，截止日期待核实。 |
 | [俄勒冈州立大学灰鲸生物能量学博后](https://hr.oregonstate.edu/open-postdoctoral-scholar-positions/bioenergetics-and-ecology-gray-whales)<br><sub>美国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-11-01**<br><sub>🟢 开放申请</sub> | ❔ | OSU GRANITE 项目 12 个月全职博后（可续至 3 年），2026-11-01 截止，2027-05-01 起聘。要求生命科学博士（获博不超过 3 年）。国际申请资格未在岗位文件中确认。 |
 | [普渡大学 Xiaoqian Wang 课题组 · 可信 AI/ML 博士招生](https://engineering.purdue.edu/~joywang)<br><sub>美国 ｜ 计算机·人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 滚动<br><sub>🔄 随时可申</sub><br><sub>教师主页称长期招收自驱动博士生，发送 CV 与成绩单；资助以学校政策为准</sub> | ❔ | **要求：** 需先申请 Purdue ECE 博士项目并在申请中写明导师；提交 CV 与成绩单；机器学习或 AI 研究经验为优先（第三方转载的招生帖）。<br>导师主页称一直招自驱动博士生,请发送 CV 和成绩单。需先申请 Purdue ECE 博士并在申请中写明导师,资助以学校政策为准。 |
+| [罗格斯大学 SPACE 实验室博士岗位（VLEO 空气动力学与推进）](https://sites.rutgers.edu/space-lab/open-positions/)<br><sub>美国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>美国申请人 2026-11-01 截止（2027 春季入学）；国际申请人 2026-09-01 截止已过。</sub> | ❔ | **要求：** 需正式通过研究生院申请；先将 CV 与简短研究兴趣陈述发给负责人 Steven Berg 确认岗位仍开放<br>罗格斯大学 SPACE 实验室全额资助博士项目（VLEO 空气动力学与推进），面向 2027 春季入学。国际申请人截止已过，美国申请人截止 11 月 1 日。请先将 CV 与研究兴趣陈述发给 Steven Berg（steven.berg@rutgers.edu）。 |
+
+<a id="r-nl"></a>
+
+## 荷兰（NL）（8）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Radboud 去殖民化与赔偿研究博士岗位（2026）](https://www.ru.nl/en/working-at/job-opportunities/phd-position-decolonising-reparations)<br><sub>荷兰 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>€3,204–€4,051/月（税前总额）</sub> | **2026-11-08**<br><sub>🟢 开放申请</sub> | ❔ | **要求：** 需研究型大学学位；原职位要求政治学或相近学科硕士及定性研究经验，具体以职位原文为准。<br>Radboud 带薪博士岗位，截止 2026-11-08。要求政治学或相近学科硕士及定性研究经验。 |
+| [Radboud 物理信息生成式 AI 博士岗位（2026）](https://www.ru.nl/en/working-at/job-opportunities/phd-position-physics-informed-generative-ai-for-synthetic-energy-data)<br><sub>荷兰 ｜ 人工智能·计算机·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>€3,204–4,051/月（税前，1.0 FTE）</sub> | **2026-10-25**<br><sub>🟢 开放申请</sub><br><sub>招聘平台列明 2026-10-25 截止（需对照官网核实）；拟 2027-01-01 入职</sub> | ❔ | **要求：** 需相关领域硕士；需机器学习、Python 与 PyTorch 经验；无需能源背景<br>Radboud 理学院 NWO 资助 SHARE 项目带薪博士岗位，合同先 1.5 年，评估后可延至 4 年；截止 2026-10-25（据招聘平台，需以官网核实）。 |
+| [TU Delft QuTech 半导体量子计算博士岗位（2026）](https://careers.tudelft.nl/job/Delft-PhD-Opportunity-in-Semiconductor-Quantum-Computing-2628-CD/1373054957/)<br><sub>荷兰 ｜ 物理/天文·工程</sub> | 博士 | 带薪岗位<br><sub>€3,204–4,051/月（税前，据招聘平台，以官网为准）</sub> | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>2026-10-31 截止（招聘平台所载）</sub> | ❔ | **要求：** 物理、应用物理、纳米电子学或相近领域硕士；流利英语<br>QuTech 半导体量子计算方向带薪博士岗位，截止 2026-10-31。要求物理、应用物理或纳米电子学硕士。 |
+| [UvA 政治学博士岗位（2026）](https://werkenbij.uva.nl/en/vacancies/phd-position-in-political-science-netherlands-15555)<br><sub>荷兰 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>€3,204–€4,051/月</sub> | **2026-11-11**<br><sub>🟢 开放申请</sub> | ❔ | 阿姆斯特丹大学带薪雇员博士岗位，截止 2026-11-11。荷兰博士为 4 年雇员合同，需核对岗位要求中的学历与研究计划。 |
+| [UvA 阿尔茨海默病突触修饰博士岗位（2026）](https://werkenbij.uva.nl/en/vacancies/phd-position-in-modifying-synapses-to-mitigate-alzheimer-s-disease-netherlands-15559)<br><sub>荷兰 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>€3,204–€4,051/月</sub> | **2026-10-30**<br><sub>🟢 开放申请</sub><br><sub>岗位页标注截止 2026-10-30，以岗位页为准</sub> | ❔ | **要求：** 硕士（神经科学或相关方向）；全职雇员博士岗位<br>UvA 神经科学方向 4 年全职雇员博士，截止 2026-10-30，计划 2027 年 1 月入职。准备英文申请材料与成绩单，国籍条件以岗位页为准。 |
+| [WUR 博士岗位：沿海泥炭地景观形成与洪水模拟（Re-Flex Zeeland）](https://www.wur.nl/en/vacancy/phd-position-modelling-formation-and-flooding-coastal-peat-landscapes)<br><sub>荷兰 ｜ 工程·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>€3,204–€4,051/月（税前，第 1 年至第 4 年）</sub> | **2026-10-25**<br><sub>🟢 开放申请</sub><br><sub>岗位页写明可申请至 2026 年 10 月 25 日，截止在即。</sub> | ❔ | **要求：** 需硕士学位（地球科学、水利或海岸工程、物理海洋学、地理等相关专业）；需水动力、形态动力或沉积输运背景及数值建模经验；英语 C1 水平；需在瓦赫宁根大学与 Vlissingen 的 Delta Climate Center 两地工作。<br>瓦赫宁根水文与环境水力学方向的博士岗位，隶属 Re-Flex Zeeland 项目，做泥炭地形成与洪水的数值建模；薪资条款以岗位页为准。 |
+| [代尔夫特理工 QuTech Taminiau 组量子控制博士岗位](https://www.academictransfer.com/364776/)<br><sub>荷兰 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>€3204–€4051 / 月（税前，第 1–4 年）</sub> | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>搜索结果显示申请截止 2026-10-31，经页面在线申请</sub> | ✅ | **要求：** 需物理或量子科学与技术相关硕士，英语达到 TU Delft 研究生院要求；需 CV 与动机信<br>QuTech Taminiau 组量子控制方向带薪博士岗位，4 年（首份合同 1.5 年，15 个月考核）。月薪未在搜索结果中看到，需到页面核实。 |
+| [莱顿大学印度尼西亚语言文献学博士（NWO，2 名额）](https://careers.universiteitleiden.nl/job/Two-PhD-candidates,-DescriptiveDocumentary-Linguistics-in-Indonesia/16880-en_US)<br><sub>荷兰 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>税前月薪 €3,204（第 1 年）至 €4,051（第 4 年），全职；另有假期与年终津贴</sub> | **2026-10-25**<br><sub>🟢 开放申请</sub><br><sub>页面写申请截止 2026-10-25；入职时间为 2027 年 2 至 7 月之间，具体另议</sub> | ❔ | **要求：** 语言学硕士（入职前取得）；对语言记录、田野语言学或描写语言学有兴趣；英语学术能力优秀；具备或愿意在入职后半年内学习印尼语；非西方田野经验为加分项；同等条件下优先印尼籍候选人<br>莱顿大学语言学中心招 2 名 NWO 资助博士，研究印尼东部濒危语言 Usku 与 Banda 的记录与描写，合同为 4 年全职（首份合同 12 个月）。 |
 
 <a id="r-de"></a>
 
@@ -80,19 +98,6 @@
 | [Suong Nguyen 课题组 · EPFL · 合成高分子化学 招生](https://www.epfl.ch/labs/lcps/open-positions)<br><sub>瑞士 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面未列截止日期，也未写明博士名额是否有经费。</sub> | ❔ | EPFL Nguyen 课题组招生页称目前没有有经费的博士或博后岗位，建议将 CV 与求职信发邮件给 Nguyen 教授咨询。页面未列截止日期。 |
 | [Sylvain Calinon 团队 · Idiap · 机器人学习博士招生页](https://www.idiap.ch/~scalinon/open-positions.htm)<br><sub>瑞士 ｜ 人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-04-15**<br><sub>⏸ 本轮已截止</sub><br><sub>上一轮岗位截止 2026 年 4 月 15 日；岗位为 4 年合同，页面称滚动发布，入学需同时申请 EPFL 博士项目</sub> | ✅ | **要求：** 需工程、计算机、物理或应用数学硕士，具备信号处理、控制、优化或机器学习背景；须先被 EPFL 博士学院录取；国际生资格未在页面确认<br>Idiap 研究所机器人学习团队博士岗位页，岗位为 4 年带薪合同，入学需通过 EPFL 博士项目录取。最近一轮岗位截止 2026 年 4 月 15 日已过，后续岗位以页面最新公告为准；页面未明确国际生资格，需确认。 |
 | [卢塞恩大学博士岗位（ERC Starting Grant REPAIR 项目，AI 与福利国家）](https://www.unilu.ch/en/university/personnel/human-resources-department/vacancies/phd-candidate-doctoral-researcher-100-2216512)<br><sub>瑞士 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-11-15**<br><sub>🟢 开放申请</sub><br><sub>本轮 2026-11-15 截止，以 PDF 单文件提交。</sub> | ❔ | **要求：** 页面摘要未列明国籍与学历细则，需以完整岗位公告为准。<br>卢塞恩大学 100% 全职博士岗，挂在 ERC Starting Grant 项目 REPAIR 下（研究 AI 对福利国家政治的影响），固定期限 4 年，以论文集形式完成。薪资金额未核实，请看岗位原文。 |
-
-<a id="r-nl"></a>
-
-## 荷兰（NL）（6）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [Radboud 去殖民化与赔偿研究博士岗位（2026）](https://www.ru.nl/en/working-at/job-opportunities/phd-position-decolonising-reparations)<br><sub>荷兰 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>€3,204–€4,051/月（税前总额）</sub> | **2026-11-08**<br><sub>🟢 开放申请</sub> | ❔ | **要求：** 需研究型大学学位；原职位要求政治学或相近学科硕士及定性研究经验，具体以职位原文为准。<br>Radboud 带薪博士岗位，截止 2026-11-08。要求政治学或相近学科硕士及定性研究经验。 |
-| [Radboud 物理信息生成式 AI 博士岗位（2026）](https://www.ru.nl/en/working-at/job-opportunities/phd-position-physics-informed-generative-ai-for-synthetic-energy-data)<br><sub>荷兰 ｜ 人工智能·计算机·工程</sub> | 博士 | 带薪岗位<br><sub>€3,204–4,051/月（税前，1.0 FTE）</sub> | **2026-10-25**<br><sub>🟢 开放申请</sub><br><sub>招聘平台列明 2026-10-25 截止（需对照官网核实）；拟 2027-01-01 入职</sub> | ❔ | **要求：** 需相关领域硕士；需机器学习、Python 与 PyTorch 经验；无需能源背景<br>Radboud 理学院 NWO 资助 SHARE 项目带薪博士岗位，合同先 1.5 年，评估后可延至 4 年；截止 2026-10-25（据招聘平台，需以官网核实）。 |
-| [TU Delft QuTech 半导体量子计算博士岗位（2026）](https://careers.tudelft.nl/job/Delft-PhD-Opportunity-in-Semiconductor-Quantum-Computing-2628-CD/1373054957/)<br><sub>荷兰 ｜ 物理/天文·工程</sub> | 博士 | 带薪岗位<br><sub>€3,204–4,051/月（税前，据招聘平台，以官网为准）</sub> | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>2026-10-31 截止（招聘平台所载）</sub> | ❔ | **要求：** 物理、应用物理、纳米电子学或相近领域硕士；流利英语<br>QuTech 半导体量子计算方向带薪博士岗位，截止 2026-10-31。要求物理、应用物理或纳米电子学硕士。 |
-| [UvA 阿尔茨海默病突触修饰博士岗位（2026）](https://werkenbij.uva.nl/en/vacancies/phd-position-in-modifying-synapses-to-mitigate-alzheimer-s-disease-netherlands-15559)<br><sub>荷兰 ｜ 生物/生命科学·医学/公卫</sub> | 博士 | 带薪岗位<br><sub>€3,204–€4,051/月</sub> | **2026-10-30**<br><sub>🟢 开放申请</sub><br><sub>岗位页标注截止 2026-10-30，以岗位页为准</sub> | ❔ | **要求：** 硕士（神经科学或相关方向）；全职雇员博士岗位<br>UvA 神经科学方向 4 年全职雇员博士，截止 2026-10-30，计划 2027 年 1 月入职。准备英文申请材料与成绩单，国籍条件以岗位页为准。 |
-| [WUR 博士岗位：沿海泥炭地景观形成与洪水模拟（Re-Flex Zeeland）](https://www.wur.nl/en/vacancy/phd-position-modelling-formation-and-flooding-coastal-peat-landscapes)<br><sub>荷兰 ｜ 工程·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>€3,204–€4,051/月（税前，第 1 年至第 4 年）</sub> | **2026-10-25**<br><sub>🟢 开放申请</sub><br><sub>岗位页写明可申请至 2026 年 10 月 25 日，截止在即。</sub> | ❔ | **要求：** 需硕士学位（地球科学、水利或海岸工程、物理海洋学、地理等相关专业）；需水动力、形态动力或沉积输运背景及数值建模经验；英语 C1 水平；需在瓦赫宁根大学与 Vlissingen 的 Delta Climate Center 两地工作。<br>瓦赫宁根水文与环境水力学方向的博士岗位，隶属 Re-Flex Zeeland 项目，做泥炭地形成与洪水的数值建模；薪资条款以岗位页为准。 |
-| [莱顿大学印度尼西亚语言文献学博士（NWO，2 名额）](https://careers.universiteitleiden.nl/job/Two-PhD-candidates,-DescriptiveDocumentary-Linguistics-in-Indonesia/16880-en_US)<br><sub>荷兰 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>税前月薪 €3,204（第 1 年）至 €4,051（第 4 年），全职；另有假期与年终津贴</sub> | **2026-10-25**<br><sub>🟢 开放申请</sub><br><sub>页面写申请截止 2026-10-25；入职时间为 2027 年 2 至 7 月之间，具体另议</sub> | ❔ | **要求：** 语言学硕士（入职前取得）；对语言记录、田野语言学或描写语言学有兴趣；英语学术能力优秀；具备或愿意在入职后半年内学习印尼语；非西方田野经验为加分项；同等条件下优先印尼籍候选人<br>莱顿大学语言学中心招 2 名 NWO 资助博士，研究印尼东部濒危语言 Usku 与 Banda 的记录与描写，合同为 4 年全职（首份合同 12 个月）。 |
 
 <a id="r-sg"></a>
 

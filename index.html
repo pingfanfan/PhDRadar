@@ -281,6 +281,7 @@ body.rec .recp{display:flex}
 .recsum ul{margin:6px 0 0;padding-left:18px}
 .why{display:flex;flex-direction:column;gap:2px;margin-top:4px;padding:8px 10px;border-radius:9px;background:var(--proof);font-size:13px;line-height:1.5;color:var(--proof-ink)}
 .why b{font-family:var(--f-mono);font-size:12.5px;color:var(--brand-text)}
+.why i.new{font-style:normal;font-family:var(--f-body);font-size:11.5px;padding:0 6px;margin-left:6px;border-radius:999px;background:var(--urgent);color:#fff}
 .why span{color:var(--ink-2);overflow-wrap:anywhere}
 .why small{font-size:12px;overflow-wrap:anywhere}
 .why.weak{background:var(--soft);color:var(--muted)}
@@ -736,6 +737,22 @@ function recRun(){
   if (!RULES || !DATA.length || !kwList(PROF.kw).length) return;
   const res = PhDRank.rank(DATA, profileOf(PROF), RULES, iso(TODAY));
   REC = {res, by: new Map(res.ranked.concat(res.related).map(a => [a.id, a])), hit: new Set(res.ranked.map(a => a.id))};
+  recMarkNew();
+}
+// “上次来之后新出现的”：按天记住推荐过的 id（只在本机）；关键词变了就不比较，免得全标成新的
+const SKEY = "phdradar-rec-seen";
+function recMarkNew(){
+  const today = iso(TODAY), sig = kwList(PROF.kw).map(k => k.toLowerCase()).sort().join("|"), ids = REC.res.ranked.map(a => a.id);
+  let st0 = {};
+  try { st0 = JSON.parse(localStorage.getItem(SKEY) || "{}") || {}; } catch (e) { st0 = {}; }
+  if (st0.sig !== sig) st0 = {sig};
+  if (st0.cur && st0.cur.date !== today) st0.prev = st0.cur;
+  if (!st0.cur || st0.cur.date !== today) st0.cur = {date: today, ids: []};
+  st0.cur.ids = [...new Set(st0.cur.ids.concat(ids))];
+  try { localStorage.setItem(SKEY, JSON.stringify(st0)); } catch (e) {}
+  const prev = st0.prev ? new Set(st0.prev.ids) : null;
+  REC.newIds = prev ? new Set(ids.filter(i => !prev.has(i))) : new Set();
+  REC.prevDate = st0.prev ? st0.prev.date : "";
 }
 function recList(){
   if (!REC) return [];
@@ -747,7 +764,7 @@ function recWhy(x){
   const a = REC.by.get(x.id);
   if (!a) return "";
   const strip = s => s.replace(/^[^：]+：/, "").replace(/\b[A-Z]{2,6}\b/g, c => LABELS.region[c] || c);
-  return `<span class="why${REC.hit.has(x.id) ? "" : " weak"}"><b>匹配 ${a.score}</b><span>${esc(strip(a.reasons[0]))}</span><small>${esc(strip(a.reasons[1]))} · ${esc(strip(a.reasons[2]))}</small></span>`;
+  return `<span class="why${REC.hit.has(x.id) ? "" : " weak"}"><b>匹配 ${a.score}${REC.newIds && REC.newIds.has(x.id) ? ' <i class="new">新</i>' : ""}</b><span>${esc(strip(a.reasons[0]))}</span><small>${esc(strip(a.reasons[1]))} · ${esc(strip(a.reasons[2]))}</small></span>`;
 }
 function recDetail(x){
   if (!recOn() || !REC.by.has(x.id)) return "";
@@ -770,7 +787,8 @@ function recSummary(){
   const top = Object.entries(counts).sort((p, q) => q[1] - p[1]);
   const disc = (r.disc || []).map(d => LABELS.discipline[d] || d).join("、");
   const near = r.excluded.filter(a => a.hits.length && a.excluded.length === 1 && !/^层次不符|^博后岗位/.test(a.excluded[0])), byIdRec = new Map(DATA.map(x => [x.id, x]));
-  return `现在可申请的 <b>${r.considered.toLocaleString()}</b> 条里：命中你关键词的 <b>${r.ranked.length}</b> 条，学科相同但没命中关键词的 <b>${r.related.length}</b> 条，
+  const fresh = REC.prevDate ? `上次（${REC.prevDate}）之后新出现 <b>${REC.newIds.size}</b> 条，卡片上标了“新”。` : "";
+  return `${fresh}现在可申请的 <b>${r.considered.toLocaleString()}</b> 条里：命中你关键词的 <b>${r.ranked.length}</b> 条，学科相同但没命中关键词的 <b>${r.related.length}</b> 条，
     被你的条件排除 <b>${r.excluded.length.toLocaleString()}</b> 条，方向不相关 <b>${r.unrelated.toLocaleString()}</b> 条。${disc ? `识别出的学科：${esc(disc)}。` : ""}
     资格写“待核实”的，投递前请自己读官网确认。${kwTips(r)}
     ${near.length ? `<details><summary>方向对口、只差一个条件的 ${near.length} 条</summary><ul>${near.slice(0, 8).map(a => `<li><a href="#${encodeURIComponent(a.id)}" data-id="${esc(a.id)}">${esc((byIdRec.get(a.id) || {}).n || a.id)}</a>：${esc(a.excluded[0])}</li>`).join("")}</ul></details>` : ""}

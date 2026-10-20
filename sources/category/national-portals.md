@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 各国学术招聘门户与机构职位页（90）
+# 各国学术招聘门户与机构职位页（95）
 
 某个国家/研究机构体系内的官方或主流职位库，欧洲带薪 PhD 大多首发在这里。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [德国（DE） 14](national-portals.md#r-de) · [法国（FR） 10](national-portals.md#r-fr) · [英国（UK） 9](national-portals.md#r-uk) · [荷兰（NL） 6](national-portals.md#r-nl) · [奥地利（AT） 4](national-portals.md#r-at) · [丹麦（DK） 4](national-portals.md#r-dk) · [日本（JP） 4](national-portals.md#r-jp) · [美国（US） 4](national-portals.md#r-us) · [比利时（BE） 3](national-portals.md#r-be) · [瑞士（CH） 3](national-portals.md#r-ch) · [瑞典（SE） 3](national-portals.md#r-se) · [加拿大（CA） 2](national-portals.md#r-ca) · [西班牙（ES） 2](national-portals.md#r-es) · [欧盟/欧洲（EU） 2](national-portals.md#r-eu) · [卢森堡（LU） 2](national-portals.md#r-lu) · [挪威（NO） 2](national-portals.md#r-no) · [中国台湾（TW） 2](national-portals.md#r-tw) · [阿根廷（AR） 1](national-portals.md#r-ar) · [澳大利亚（AU） 1](national-portals.md#r-au) · [巴西（BR） 1](national-portals.md#r-br) · [芬兰（FI） 1](national-portals.md#r-fi) · [全球（GLOBAL） 1](national-portals.md#r-global) · [中国香港（HK） 1](national-portals.md#r-hk) · [克罗地亚（HR） 1](national-portals.md#r-hr) · [匈牙利（HU） 1](national-portals.md#r-hu) · [印度（IN） 1](national-portals.md#r-in) · [墨西哥（MX） 1](national-portals.md#r-mx) · [马来西亚（MY） 1](national-portals.md#r-my) · [波兰（PL） 1](national-portals.md#r-pl) · [葡萄牙（PT） 1](national-portals.md#r-pt) · [南非（ZA） 1](national-portals.md#r-za)
+**按地区跳转：** [德国（DE） 14](national-portals.md#r-de) · [法国（FR） 10](national-portals.md#r-fr) · [英国（UK） 9](national-portals.md#r-uk) · [荷兰（NL） 6](national-portals.md#r-nl) · [丹麦（DK） 5](national-portals.md#r-dk) · [日本（JP） 5](national-portals.md#r-jp) · [瑞典（SE） 5](national-portals.md#r-se) · [奥地利（AT） 4](national-portals.md#r-at) · [美国（US） 4](national-portals.md#r-us) · [比利时（BE） 3](national-portals.md#r-be) · [瑞士（CH） 3](national-portals.md#r-ch) · [卢森堡（LU） 3](national-portals.md#r-lu) · [加拿大（CA） 2](national-portals.md#r-ca) · [西班牙（ES） 2](national-portals.md#r-es) · [欧盟/欧洲（EU） 2](national-portals.md#r-eu) · [挪威（NO） 2](national-portals.md#r-no) · [中国台湾（TW） 2](national-portals.md#r-tw) · [阿根廷（AR） 1](national-portals.md#r-ar) · [澳大利亚（AU） 1](national-portals.md#r-au) · [巴西（BR） 1](national-portals.md#r-br) · [芬兰（FI） 1](national-portals.md#r-fi) · [全球（GLOBAL） 1](national-portals.md#r-global) · [中国香港（HK） 1](national-portals.md#r-hk) · [克罗地亚（HR） 1](national-portals.md#r-hr) · [匈牙利（HU） 1](national-portals.md#r-hu) · [印度（IN） 1](national-portals.md#r-in) · [墨西哥（MX） 1](national-portals.md#r-mx) · [马来西亚（MY） 1](national-portals.md#r-my) · [波兰（PL） 1](national-portals.md#r-pl) · [葡萄牙（PT） 1](national-portals.md#r-pt) · [南非（ZA） 1](national-portals.md#r-za)
 
 <a id="r-de"></a>
 
@@ -77,6 +77,42 @@
 | [莱顿 NWO「PhDs in the Humanities」2027 轮（考古学院）](https://www.student.universiteitleiden.nl/en/announcements/2026/10/nwo-phd-in-the-humanities-2027-at-the-faculty-of-archaeology)<br><sub>荷兰 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2027-02-16**<br><sub>🔜 即将开放</sub><br><sub>NWO 截止 2027-02-16 14:00；校内第二轮截止 2027-01-07 17:00；校内第一轮预选截止页面写为 11 月 12 日（页面年份写作 2027，但星期与 2026 年吻合，需核实）</sub> | ❔ | **要求：** 以 NWO 2027 轮正式公告为准；每人最多两次申请机会，由导师正式提交<br>莱顿大学考古学院参与 NWO「PhDs in the Humanities」2027 轮，页面发布于 2026-10-07。页面称 NWO 官方征集文件可能于 11 月发布；每位候选人最多两次申请机会，由导师正式提交。 |
 | [马斯特里赫特大学职位搜索](https://vacancies.maastrichtuniversity.nl/search/)<br><sub>荷兰 ｜ 医学/公卫·生物/生命科学·全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>按岗位分别发布，无统一截止；2026 年 10 月检索未见在招 NUTRIM 博士岗位。</sub> | ❔ | **要求：** 博士岗位为带薪雇员合同（按 CAO 薪级）；需硕士或同等学历，语言要求以具体岗位为准；未见国籍限制说明。<br>马大官方职位库（含 NUTRIM 营养与运动科学），博士为带薪合同，按岗位分别发布，需以职位页为准。 |
 
+<a id="r-dk"></a>
+
+## 丹麦（DK）（5）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [DTU Vacant Positions](https://www.dtu.dk/english/about/job-and-career/vacant-positions)<br><sub>丹麦 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位<br><sub>约 DKK 34,000+/月（税前，含养老金，依职级；DTU 页面数据为 2024 年）</sub> | — | ✅ | **要求：** 国内外候选人均可申请；学位与语言要求以各岗位招聘信息为准<br>丹麦技术大学 PhD 为受薪雇员，通常签 3 年期固定期限合同，月薪约 DKK 34,000 起（含养老金，依职级）；DTU 说明国内外候选人均可申请。丹麦其他大学（KU、AU、AAU、SDU）也有各自职位页。 |
+| [Jobindex 科研岗位搜索（丹麦）](https://www.jobindex.dk/jobsoegning/undervisning/forskning?q=thesis)<br><sub>丹麦 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 视具体职位而定；丹麦科研岗位多为带薪合同，国际生资格需逐条核对<br>抓取页面为 Jobindex 科研岗位搜索的 RSS 源，列出 DTU 等机构的博士奖学金，如 DTU Management 的可持续供应链管理与组织博士奖学金。国际生资格与截止日需逐条核对职位页。 |
+| [Roskilde Universitet（RUC）Vacant Positions 招聘总页](https://ruc.dk/en/vacant-positions-roskilde-university)<br><sub>丹麦 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止不一，以岗位公告为准；RUC 称所有学术岗位在官网公告且截止至少 14 天。</sub> | ❔ | **要求：** 丹麦 PhD fellowship 为三年固定期限受薪岗位；需同时被 RUC 博士学院录取后才签约；国际生资格以岗位公告为准。<br>丹麦罗斯基勒大学的学术岗位总入口，PhD fellow 为三年带薪岗位，工资按公共部门集体协议。申请前请到 ruc.dk 核对具体岗位与截止日。 |
+| [University of Copenhagen PhD Positions](https://employment.ku.dk/phd/)<br><sub>丹麦 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 哥本哈根大学博士岗位汇总页。 |
+| [哥本哈根商学院（CBS）Vacant positions 博士奖学金列表](https://www.cbs.dk/en/about-cbs/job-and-career/vacant-positions)<br><sub>丹麦 ｜ 商科/管理·经济/金融·社会科学/心理·全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止不一，以列表页为准。</sub> | ❔ | **要求：** 部分岗位对硕士论文成绩及加权平均分有要求（以各岗位页为准）；多数博士奖学金为三年受薪，含教学义务；国际生资格以岗位公告为准。<br>页面为 CBS 招聘列表，列出截止日期在 2026 年 10 月至 12 月之间的多个岗位，包括运营管理、审计与会计、营销、数字化等方向的博士、博后与讲师职位；各岗位要求与资助以岗位页为准。 |
+
+<a id="r-jp"></a>
+
+## 日本（JP）（5）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [EURAXESS Japan（欧日科研职位与流动信息）](https://japan.euraxess.org)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 欧盟与日本的研究人员流动门户，汇集日本的研究职位、MSCA 资助的博士岗位与合作资助项目信息。这是信息入口而非单一资助，每个职位需核对截止日期与申请条件。 |
+| [JREC-IN Portal（日本 JST 研究职位门户）](https://jrecin.jst.go.jp/)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 可切换英文界面，注册与浏览免费；部分岗位要求日语，需逐条确认语言要求<br>日本最大研究职位库，有英文界面，以博后/教职为主，也有带薪博士生岗位；部分要求日语。 |
+| [Nature Careers 日本博士岗位筛选页](https://www.nature.com/naturecareers/jobs/japan/fixed-term/phd)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | Nature Careers 日本「固定期限 + 博士学位」筛选页，所见多为教员、博后和研究员岗位（如东北大学、东京大学、NIMS ICYS），并非博士生招生；岗位少，需与 JREC-IN 结合使用，资格逐条看。 |
+| [Study in Japan：MEXT 2027 年度使馆推荐（研究生）入口](https://studyinjapan.go.jp/en/smap-stopj-applications-research.html)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2027 年入学使馆推荐报名多在 2026 年 4–5 月，初审 5–7 月已结束；2028 年入学轮次预计 2027 年 4–5 月启动（未官方确认）。</sub> | ✅ | **要求：** 需通过中国使馆初审（材料、笔试、面试）并取得日本大学暂定录取函；以使馆公告为准。<br>日本政府官方门户，MEXT 使馆推荐总入口；中国申请者在中国使馆教育处确认本地初审时间，通常前一年 5–7 月. |
+| [理研 Junior Research Associate（JRA）兼职研究员](https://www.riken.jp/en/careers/programs/jra/jra2026)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>截止日以 riken.jp 当年公告为准；FY2025 轮已关闭，FY2026 公告页已发布</sub> | 🟡 | **要求：** 须在日本大学博士项目在读，且所在研究科与理研有合作协议；须先与理研实验室沟通并获同意<br>申请人须在与理研有合作协议的日本高校博士项目就读，且需先选定理研实验室并获其同意。截止日以 riken.jp 当年公告为准。 |
+
+<a id="r-se"></a>
+
+## 瑞典（SE）（5）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [DDLS 研究学院职位入口（SciLifeLab / KAW 资助）](https://www.scilifelab.se/data-driven/ddls-opportunities/)<br><sub>瑞典 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各职位截止日不同，后续批次以页面为准。</sub> | ❔ | DDLS 研究学院 2026 年扩招 25 名学术博士和 7 名产业博士，覆盖细胞与分子生物学、进化、精准医学、感染生物学。职位发布在各高校，此页为统一入口；瑞典博士通常带薪，国际生资格需核实。 |
+| [KTH 皇家理工 Vacancies](https://www.kth.se/lediga-jobb?l=en)<br><sub>瑞典 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ✅ | **要求：** 博士岗位为受雇员工并领取月薪；岗位分批公布，需联系所在项目负责人<br>筛选 “Doctoral students”。 |
+| [SciLifeLab 职位页（瑞典）](https://www.scilifelab.se/careers/)<br><sub>瑞典 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | SciLifeLab 职位页（瑞典）。PhD 岗位实际挂在斯德哥尔摩大学、乌普萨拉大学、KTH、卡罗琳斯卡等合作高校，以带薪雇员形式招聘。页面为汇总列表，需到各校招聘系统申请并核对截止日期。 |
+| [Varbi（瑞典高校招聘系统）](https://varbi.com/en/)<br><sub>瑞典 ｜ 全学科</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 博士岗位为受雇合同；国际申请人须按岗位核实工作许可；学位与语言要求以各岗位公告为准<br>瑞典多数大学（隆德、乌普萨拉、斯德哥尔摩大学等）用 Varbi 发布 “Doctoral student” 岗位；也可直接看各校 vacancies 页面。 |
+| [卡罗林斯卡学院职位空缺](https://ki.se/en/vacancies)<br><sub>瑞典 ｜ 医学/公卫·神经/认知·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 博士岗位需满足通用要求（硕士或同等学历，或 240 ECTS 含 60 ECTS 高阶课程）及专项要求；英语需达到瑞典高中 English B 水平；须按 KI 入学指引认证资格。国籍限制未见<br>KI 官方职位空缺页，列出博士与博士后等在招岗位及各自截止日期（如 PhD Position Translational Neuroscience，2026-10-21），可按部门筛选。 |
+
 <a id="r-at"></a>
 
 ## 奥地利（AT）（4）
@@ -87,28 +123,6 @@
 | [OeAD 上海科学合作处（奥地利学术交流处）](https://oead.at/en/to-austria/science-cooperation-offices/shanghai)<br><sub>奥地利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | 奥地利学术交流机构在上海的合作处，是中国学生赴奥读博与做博后的咨询入口；具体奖学金以 OeAD 当年公告为准。 |
 | [OeAD 奥地利奖学金项目汇总](https://oead.at/en/news/article/2025/11/oead-scholarship-programmes-and-further-grants-to-austria-for-2026-2027)<br><sub>奥地利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>2026/27 批次已截止；Ernst Mach 全球奖学金 2027/28 学年申请截止 2026 年 12 月 1 日（Study in Austria 公告；部分聚合站显示 2027 年 2 月 1 日，以 oead.at 为准）。</sub> | ❔ | **要求：** 面向奥地利境外高校的博士生、硕士生、博后与研究人员（Ernst Mach 全球项目）；各子项目资格不同，需逐项核对。<br>OeAD 奥地利奖学金项目汇总页，含 Ernst Mach 全球奖学金等博士与博后研修项目；多数项目每年征集一次，以各项目当期公告为准。 |
 | [维也纳医科大学（MedUni Wien）在招岗位总页](https://www.meduniwien.ac.at/web/en/karriere/offene-stellen/)<br><sub>奥地利 ｜ 医学/公卫·生物/生命科学·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>博士岗按 Kennzahl 陆续发布；所见 2026 年岗位多已截止，以在招页为准</sub> | ❔ | 含医学数据科学与 AI 等博士岗，医学院博士岗多为受雇形式，国籍限制以岗位为准。 |
-
-<a id="r-dk"></a>
-
-## 丹麦（DK）（4）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [DTU Vacant Positions](https://www.dtu.dk/english/about/job-and-career/vacant-positions)<br><sub>丹麦 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位<br><sub>约 DKK 34,000+/月（税前，含养老金，依职级；DTU 页面数据为 2024 年）</sub> | — | ✅ | **要求：** 国内外候选人均可申请；学位与语言要求以各岗位招聘信息为准<br>丹麦技术大学 PhD 为受薪雇员，通常签 3 年期固定期限合同，月薪约 DKK 34,000 起（含养老金，依职级）；DTU 说明国内外候选人均可申请。丹麦其他大学（KU、AU、AAU、SDU）也有各自职位页。 |
-| [Jobindex 科研岗位搜索（丹麦）](https://www.jobindex.dk/jobsoegning/undervisning/forskning?q=thesis)<br><sub>丹麦 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 视具体职位而定；丹麦科研岗位多为带薪合同，国际生资格需逐条核对<br>抓取页面为 Jobindex 科研岗位搜索的 RSS 源，列出 DTU 等机构的博士奖学金，如 DTU Management 的可持续供应链管理与组织博士奖学金。国际生资格与截止日需逐条核对职位页。 |
-| [University of Copenhagen PhD Positions](https://employment.ku.dk/phd/)<br><sub>丹麦 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 哥本哈根大学博士岗位汇总页。 |
-| [哥本哈根商学院（CBS）Vacant positions 博士奖学金列表](https://www.cbs.dk/en/about-cbs/job-and-career/vacant-positions)<br><sub>丹麦 ｜ 商科/管理·经济/金融·社会科学/心理·全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止不一，以列表页为准。</sub> | ❔ | **要求：** 部分岗位对硕士论文成绩及加权平均分有要求（以各岗位页为准）；多数博士奖学金为三年受薪，含教学义务；国际生资格以岗位公告为准。<br>页面为 CBS 招聘列表，列出截止日期在 2026 年 10 月至 12 月之间的多个岗位，包括运营管理、审计与会计、营销、数字化等方向的博士、博后与讲师职位；各岗位要求与资助以岗位页为准。 |
-
-<a id="r-jp"></a>
-
-## 日本（JP）（4）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [EURAXESS Japan（欧日科研职位与流动信息）](https://japan.euraxess.org)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 欧盟与日本的研究人员流动门户，汇集日本的研究职位、MSCA 资助的博士岗位与合作资助项目信息。这是信息入口而非单一资助，每个职位需核对截止日期与申请条件。 |
-| [JREC-IN Portal（日本 JST 研究职位门户）](https://jrecin.jst.go.jp/)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 可切换英文界面，注册与浏览免费；部分岗位要求日语，需逐条确认语言要求<br>日本最大研究职位库，有英文界面，以博后/教职为主，也有带薪博士生岗位；部分要求日语。 |
-| [Nature Careers 日本博士岗位筛选页](https://www.nature.com/naturecareers/jobs/japan/fixed-term/phd)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | Nature Careers 日本「固定期限 + 博士学位」筛选页，所见多为教员、博后和研究员岗位（如东北大学、东京大学、NIMS ICYS），并非博士生招生；岗位少，需与 JREC-IN 结合使用，资格逐条看。 |
-| [Study in Japan：MEXT 2027 年度使馆推荐（研究生）入口](https://studyinjapan.go.jp/en/smap-stopj-applications-research.html)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2027 年入学使馆推荐报名多在 2026 年 4–5 月，初审 5–7 月已结束；2028 年入学轮次预计 2027 年 4–5 月启动（未官方确认）。</sub> | ✅ | **要求：** 需通过中国使馆初审（材料、笔试、面试）并取得日本大学暂定录取函；以使馆公告为准。<br>日本政府官方门户，MEXT 使馆推荐总入口；中国申请者在中国使馆教育处确认本地初审时间，通常前一年 5–7 月. |
 
 <a id="r-us"></a>
 
@@ -141,15 +155,15 @@
 | [ETH Zurich Jobs](https://jobs.ethz.ch/)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 通常需硕士或相当学历；ETH 无统一博士岗位库，需先联系目标教授或课题组<br>苏黎世联邦理工（ETH）没有统一的博士岗位库：博士职位由各教授自行招募，博士生通常具有 ETH 在职身份。官方建议直接联系相关课题组，并可查看 jobs.ethz.ch 上的公开岗位。 |
 | [SNSF NCCR 国家研究能力中心（博士/博后岗位上游）](https://www.snf.ch/en/FJBJ8XGQ1tjG8J8w/funding/programmes/national-centres-of-competence-in-research)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>岗位由各 NCCR 承办院校发布，无统一截止；2026 年起新一批 6 个 NCCR 启动</sub> | ❔ | NCCR 本身不直接招博士，岗位由承办院校各项目组发布，按官网承办项目清单逐一关注。 |
 
-<a id="r-se"></a>
+<a id="r-lu"></a>
 
-## 瑞典（SE）（3）
+## 卢森堡（LU）（3）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
-| [KTH 皇家理工 Vacancies](https://www.kth.se/lediga-jobb?l=en)<br><sub>瑞典 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ✅ | **要求：** 博士岗位为受雇员工并领取月薪；岗位分批公布，需联系所在项目负责人<br>筛选 “Doctoral students”。 |
-| [Varbi（瑞典高校招聘系统）](https://varbi.com/en/)<br><sub>瑞典 ｜ 全学科</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 博士岗位为受雇合同；国际申请人须按岗位核实工作许可；学位与语言要求以各岗位公告为准<br>瑞典多数大学（隆德、乌普萨拉、斯德哥尔摩大学等）用 Varbi 发布 “Doctoral student” 岗位；也可直接看各校 vacancies 页面。 |
-| [卡罗林斯卡学院职位空缺](https://ki.se/en/vacancies)<br><sub>瑞典 ｜ 医学/公卫·神经/认知·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 博士岗位需满足通用要求（硕士或同等学历，或 240 ECTS 含 60 ECTS 高阶课程）及专项要求；英语需达到瑞典高中 English B 水平；须按 KI 入学指引认证资格。国籍限制未见<br>KI 官方职位空缺页，列出博士与博士后等在招岗位及各自截止日期（如 PhD Position Translational Neuroscience，2026-10-21），可按部门筛选。 |
+| [Research Luxembourg 卢森堡博士招生入口](https://www.researchluxembourg.org/?p=1346)<br><sub>卢森堡 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | — | ✅ | 卢森堡国家研究机构门户，介绍读博途径与各机构博士项目；具体岗位到各机构招聘页查找。 |
+| [卢森堡 FNR PRIDE 博士培养单元](https://fnr.lu/funding-instruments/pride)<br><sub>卢森堡 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | **2025-10-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2025 轮 DTU 全文截止 2025-10-15；未查到 2026 轮公告，关注 FNR 页面；个人申请须按各 DTU 公开岗位</sub> | ✅ | **要求：** 按各 DTU 公开岗位要求申请；岗位为 4 年博士雇佣合同<br>FNR 主要博士资助项目 PRIDE：由博士培养单元（DTU）作为申请主体获得成批博士岗位，每个博士岗含 4 年博士雇佣合同与培训流动津贴；候选人直接向获资助的 DTU 申请岗位。2025 轮全文截止 2025 年 10 月 15 日。 |
+| [卢森堡国家研究基金 FNR · AFdoc 博士资助计划（2026 首轮）](https://www.fnr.lu/?p=86405)<br><sub>卢森堡 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>最高年度薪资资助 EUR 54,574（按 2026 年 6 月 1 日薪级指数，含雇主费用、社保与养老金）</sub> | **2026-11-25**<br><sub>🟢 开放申请</sub><br><sub>首轮 2026 年 11 月 25 日 14:00（CET）截止；后续轮次以官网为准</sub> | ❔ | **要求：** 需证明与卢森堡有关联（如在卢累计 5 年以上教育或居住）；未获博士学位；博士须在海外公立授予博士学位机构或卢企合作项目中完成<br>卢森堡 FNR 的 AFdoc 博士资助计划，首轮 2026 年 11 月 25 日 14:00（CET）截止；自 2027 年起每年两轮（4 月与 11 月截止）。页面要求申请人与卢森堡有关联，承办机构须为海外公立博士授予机构或获认可的卢森堡研发企业；资助覆盖雇用薪资，不含学费。 |
 
 <a id="r-ca"></a>
 
@@ -177,15 +191,6 @@
 | --- | --- | --- | --- | :-: | --- |
 | [MSCA Doctoral Networks](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks)<br><sub>欧盟/欧洲 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ✅ | **要求：** 招聘时未取得博士学位，任何国籍均可；流动性规则：招聘日前 36 个月内在招聘机构所在国居住或开展主要活动不超过 12 个月。<br>欧盟玛丽居里博士网络，岗位在 EURAXESS 发布；页面称研究人员可获生活津贴与流动津贴，并需遵守流动性规则（招聘日前 36 个月内在招聘国居住或工作不超过 12 个月）。 |
 | [欧盟 MSCA 官方岗位库](https://marie-sklodowska-curie-actions.ec.europa.eu/jobs)<br><sub>欧盟/欧洲 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止日不同，以 EURAXESS 发布页为准</sub> | ❔ | **要求：** MSCA 博士岗位不得已持有博士学位；流动性规则：申请前 36 个月内在东道国居住或工作不得超过 12 个月<br>欧盟官方 MSCA 博士与博后岗位列表（内容来自 EURAXESS，每日更新）。按国家与学科筛选，各岗位资格与截止日以发布页为准。 |
-
-<a id="r-lu"></a>
-
-## 卢森堡（LU）（2）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [卢森堡 FNR PRIDE 博士培养单元](https://fnr.lu/funding-instruments/pride)<br><sub>卢森堡 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | **2025-10-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2025 轮 DTU 全文截止 2025-10-15；未查到 2026 轮公告，关注 FNR 页面；个人申请须按各 DTU 公开岗位</sub> | ✅ | **要求：** 按各 DTU 公开岗位要求申请；岗位为 4 年博士雇佣合同<br>FNR 主要博士资助项目 PRIDE：由博士培养单元（DTU）作为申请主体获得成批博士岗位，每个博士岗含 4 年博士雇佣合同与培训流动津贴；候选人直接向获资助的 DTU 申请岗位。2025 轮全文截止 2025 年 10 月 15 日。 |
-| [卢森堡国家研究基金 FNR · AFdoc 博士资助计划（2026 首轮）](https://www.fnr.lu/?p=86405)<br><sub>卢森堡 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>最高年度薪资资助 EUR 54,574（按 2026 年 6 月 1 日薪级指数，含雇主费用、社保与养老金）</sub> | **2026-11-25**<br><sub>🟢 开放申请</sub><br><sub>首轮 2026 年 11 月 25 日 14:00（CET）截止；后续轮次以官网为准</sub> | ❔ | **要求：** 需证明与卢森堡有关联（如在卢累计 5 年以上教育或居住）；未获博士学位；博士须在海外公立授予博士学位机构或卢企合作项目中完成<br>卢森堡 FNR 的 AFdoc 博士资助计划，首轮 2026 年 11 月 25 日 14:00（CET）截止；自 2027 年起每年两轮（4 月与 11 月截止）。页面要求申请人与卢森堡有关联，承办机构须为海外公立博士授予机构或获认可的卢森堡研发企业；资助覆盖雇用薪资，不含学费。 |
 
 <a id="r-no"></a>
 

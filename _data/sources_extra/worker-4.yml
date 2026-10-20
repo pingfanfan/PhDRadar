@@ -1379,6 +1379,30 @@
   verify_method: page
   page_evidence: Out-of-state graduate students who become graduate assistants are not required to pay out-of-state tuition while under GA contract.
   verified: 2026-10-19
+- id: uta-graduate-tuition-support
+  name: 德州大学阿灵顿分校（UTA）博士助教/助研学费支持
+  url: https://resources.uta.edu/research/grants-and-contracts-services/find-funding/stem-tuition.php
+  category: university-schemes
+  regions:
+  - US
+  disciplines:
+  - all
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: tuition
+  deadline: varies
+  deadline_note: 随院系招聘，需联系系里
+  status: ongoing
+  requirements: 需获院系聘用为半职（half-time）带薪 GTA/GRA；秋春学期需 9 学分、夏季 3 学分；国际生资格未在搜索结果中确认
+  notes: UTA 自 2023 年起为博士生提供 100% 学费与强制费用减免，前提是半职带薪任命（GTA/GRA）。
+  verify_method: page
+  page_evidence: Graduate Research Assistants at The University of Texas at Arlington receive remission of tuition and fees as a benefit of their employment.
+  verified: 2026-10-20
 - id: fau-math-phd-ta-stipend
   name: 佛罗里达大西洋大学数学系博士助教
   url: https://www.math.fau.edu/ta.php
@@ -1546,11 +1570,38 @@
   language: en
   coverage: varies
   deadline: 2026-12-14
-  deadline_note: 2027/28 入学：先于 2026-12-14 提交 PhD 申请并取得申请编号，再于 2027-02-19 17:00（GMT）前提交 AHRC DLA 资助申请；2026/27 轮已于 2026-01-21 截止。日期来自第三方站点，需以官网为准
+  deadline_note: 官网：先于 2026-12-14 提交 PhD 入学申请，再于 2027-02-19 17:00 GMT 前提交资助申请；学校最迟 2027 年 3 月底通知结果
   status: open
   requirements: 需未持有 PhD 录取（已在读博士者不接受）；每年 4 个名额，国际候选人至多 1 个，竞争激烈
   notes: 谢菲尔德大学人文与社科 AHRC 博士 Landscape Award，2027/28 入学，资助 3.5 年；国际名额有限（至多 1 个）。需先获 PhD 录取编号，再单独提交资助申请。
-  verified: 2026-10-13
+  verify_method: page
+  page_evidence: Applications to the AHRC Doctoral Landscape Award at the University of Sheffield for 2027/28 entry are open.
+  verified: 2026-10-20
+- id: siepr-young-scholars-postdoc
+  name: 斯坦福 SIEPR Young Scholars 博士后研究员项目
+  url: https://siepr.stanford.edu/programs/new-and-recent-phds/young-scholars-program-postdoctoral-fellows-application
+  category: postdoc-fellowships
+  regions:
+  - US
+  disciplines:
+  - econ
+  - social
+  funding: position
+  levels:
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: unknown
+  deadline_note: 上一轮截止 2025-11-01；下一轮预计秋季，未确认
+  status: upcoming
+  requirements: 近期取得经济学或政策相关博士学位；签证担保需向项目核实
+  notes: 斯坦福政策经济学研究所的 1–2 年博后，偏应用政策与经济学。
+  verify_method: page
+  page_evidence: SIEPR invites applications for postdoctoral fellowships in applied or policy-oriented economics to start Summer/Fall as part of the
+  verified: 2026-10-20
 - id: jk-nature-jp-jobs-board
   name: Nature Careers 日本职位板（学术岗位）
   url: https://www.nature.com/naturecareers/jobs/japan
@@ -1812,6 +1863,31 @@
   verify_method: page
   page_evidence: 281 jobs found
   verified: 2026-10-17
+- id: sheffield-agmp-phd-opportunities
+  name: Sheffield 应用数学与理论物理组博士机会页
+  url: https://agmp.sites.sheffield.ac.uk/phd-opportunities
+  category: people-channels
+  regions:
+  - UK
+  disciplines:
+  - physics
+  - math
+  funding: scholarship
+  levels:
+  - phd
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  coverage: full
+  deadline: 2027-01-15
+  deadline_note: 页面称 2027/28 入学：本组有 1 个 EPSRC DLA 项目，截止 2027-01-15 17:00 GMT；DLA 仅覆盖 Home 学费，只有极少数名额可覆盖国际学费
+  status: open
+  requirements: 页面所列 EPSRC DLA 与 Leverhulme 资助仅覆盖 Home 学费水平，国际生差额需自付；一般要求一等学位或硕士优异
+  notes: Sheffield 应用数学与理论物理组博士机会页：2026/27 列出 3 个全额资助名额，但 DLA 与 Leverhulme 资助仅限 Home 学费水平，国际学生需自行解决学费差额。页面按年度更新，部分名额标注 open until filled，下一轮需关注页面。
+  verify_method: page
+  page_evidence: 'Deadline: 15 January 2027 at 5pm GMT.'
+  verified: 2026-10-20
 - id: cuni-juniorstar-postdoc
   name: 查理大学 JuniorStar 博后岗位（GAČR 项目）
   url: https://iuuk.mff.cuni.cz/~sbraunfeld/juniorstar.php
@@ -1911,6 +1987,57 @@
   verify_method: page
   page_evidence: The PhD degree in Business is a research education that leads to the degree Philosophiae Doctor (Ph.D.).
   verified: 2026-10-19
+- id: rsu-doctoral-grants-erdf
+  name: 里加斯特拉尼斯大学（RSU）博士资助（ERDF 项目）
+  url: https://www.rsu.lv/en/node/285790
+  category: doctoral-programs
+  regions:
+  - EU
+  disciplines:
+  - bio
+  - med
+  - chem
+  funding: fellowship
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: 2026-01-11
+  deadline_note: 页面显示征集开放，截止日期未确认
+  status: closed
+  requirements: 需为 RSU 在读博士生，或论题符合拉脱维亚智能专业化方向的候选人；需有一篇 WOS/Scopus 论文
+  notes: ERDF 项目期 2025-03 至 2029-10，计划至少资助 39 名博士生；金额与截止以征集通知为准。
+  verify_method: page
+  page_evidence: The second selection competition for doctoral grants at Riga Stradiņš University is announced
+  verified: 2026-10-20
+- id: ut-keemia-phd-open-calls
+  name: 塔尔图大学化学研究所博士公开征集页
+  url: https://keemia.ut.ee/en/content/phd-open-calls
+  category: doctoral-programs
+  regions:
+  - EU
+  disciplines:
+  - chem
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: salary
+  stipend: €2,100/月（2026 年初级研究员最低全职月薪，净额约 €1,580）
+  deadline: varies
+  deadline_note: 塔尔图大学博士招生每年有多个窗口（2 月、5 月主招、9 月、11 月），具体岗位以本页公告为准
+  status: ongoing
+  requirements: 一般需硕士或同等学历
+  notes: 集中列出化学研究所的博士公开征集，入学后一般以初级研究员身份受雇。
+  verify_method: page
+  page_evidence: In most cases, the admitted doctoral researchers are employed as
+  verified: 2026-10-20
 - id: ku-geotop-phd-postdoc
   name: 哥本哈根大学 GeoTop 地球动力学中心博士/博后岗位页
   url: https://geotop.math.ku.dk/job-opportunities/
@@ -2705,7 +2832,9 @@
   status: rolling
   requirements: 需找到法国或其他欧洲合作方导师
   notes: 越南与法国合作的联合培养博士，约 10 个岗位；学费只由一方每年支付。
-  verified: 2026-10-13
+  verify_method: page
+  page_evidence: Applications are accepted on a rolling basis until December 30, 2026 and will close once all positions are filled.
+  verified: 2026-10-20
 - id: brin-postdoc-program
   name: 印尼国家研究创新署（BRIN）博士后项目（2025 第三批，2026 执行）
   url: https://manajementalenta.brin.go.id/program/88
@@ -3084,6 +3213,32 @@
   verify_method: page
   page_evidence: All students who are admitted to the Biomedical & Biological Sciences (BBS) Graduate Program are admitted with funding.
   verified: 2026-10-19
+- id: uu-vet-faculty-jobs
+  name: 乌特勒支大学兽医学院 · 职位页（含 PhD 岗位）
+  url: https://www.uu.nl/en/organisation/faculty-of-veterinary-medicine/about-the-faculty/jobs
+  category: university-schemes
+  regions:
+  - NL
+  disciplines:
+  - med
+  - bio
+  funding: position
+  levels:
+  - phd
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: unknown
+  deadline: varies
+  deadline_note: 各岗位单独设截止日期
+  status: ongoing
+  requirements: 以各岗位公告为准
+  notes: 兽医学院官方职位页，列出当前 PhD 与博后空缺；薪资与国际生资格以具体岗位公告为准。
+  verify_method: page
+  page_evidence: PhD position in health effects from the exposure to pesticides
+  verified: 2026-10-20
 - id: galway-research-jobs-phd-studentships
   name: 爱尔兰高威大学 · 研究岗位与带奖博士招聘页（含 Research Ireland 资助中心课题）
   url: https://www.universityofgalway.ie/about-us/jobs/research/
@@ -3244,6 +3399,30 @@
   verify_method: page
   page_evidence: 2026 IBS YSF, Junior CI Invitation
   verified: 2026-10-19
+- id: uw-social-work-phd-financial-support
+  name: University of Washington 社会工作学院 · 博士资助
+  url: https://socialwork.uw.edu/admissions/financial-support-scholarships/admissions-phd-financial-aid-and-fellowships/
+  category: doctoral-programs
+  regions:
+  - US
+  disciplines:
+  - social
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  deadline: unknown
+  deadline_note: 以学院博士招生页为准
+  status: ongoing
+  requirements: 页面称所有学生前四年每学年（9 个月）都有某种形式资助；某一年的奖项不代表下一年承诺
+  notes: 学院官方页：前四年资助形式为助学金、奖学金或研究/教学助理岗位。页面未给出金额，国际生资格请向学院确认。
+  verify_method: page
+  page_evidence: The guaranteed four years of support is in the form of grants, fellowships, or research and/or teaching assistantships.
+  verified: 2026-10-20
 - id: umn-fscn-phd-assistantships
   name: University of Minnesota 食品科学与营养系 · 研究生助研/助教资助
   url: https://fscn.cfans.umn.edu/admissions/funding

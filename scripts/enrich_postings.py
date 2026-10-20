@@ -76,9 +76,10 @@ WORD_NUM.update(dict(zip("first second third fourth fifth sixth seventh eighth n
 # 瑞典语 / 挪威语 / 丹麦语 / 德语 / 荷兰语 / 法语公告里的 2–10（1 的写法与冠词同形，不收）
 for words in ("två tre fyra fem sex sju åtta nio tio", "to tre fire fem seks sju åtte ni ti",
               "zwei drei vier fünf sechs sieben acht neun zehn", "twee drie vier vijf zes zeven acht negen tien",
-              "deux trois quatre cinq six sept huit neuf dix"):
+              "deux trois quatre cinq six sept huit neuf dix", "dois três quatro cinco seis sete oito nove dez",
+              "dos tres cuatro cinco seis siete ocho nueve diez", "due tre quattro cinque sei sette otto nove dieci"):
     WORD_NUM.update({w: str(i) for i, w in enumerate(words.split(), start=2) if w not in ("to", "ni", "sex")})
-WORD_NUM.update({"två": "2", "andra": "2", "tredje": "3", "fjärde": "4", "zweite": "2", "dritte": "3",
+WORD_NUM.update({"duas": "2", "segundo": "2", "terceiro": "3", "två": "2", "andra": "2", "tredje": "3", "fjärde": "4", "zweite": "2", "dritte": "3",
                  "deuxième": "2", "troisième": "3", "six": "6"})
 MONTH_NUM = {m: str(i + 1) for i, m in enumerate(
     "january february march april may june july august september october november december".split())}
@@ -86,6 +87,10 @@ MONTH_NUM.update({m[:3]: n for m, n in MONTH_NUM.items()} | {"sept": "9"})
 for i, names in enumerate(["januari januar janvier", "februari februar février", "mars märz maart", "april avril",
                            "maj mai mei", "juni juin", "juli juillet", "augusti august augustus août",
                            "september septembre", "oktober octobre", "november novembre", "december dezember desember décembre"], 1):
+    MONTH_NUM.update({n: str(i) for n in names.split()})
+for i, names in enumerate(["janeiro enero gennaio", "fevereiro febrero febbraio", "março marzo", "abril aprile", "maio mayo maggio",
+                           "junho junio giugno", "julho julio luglio", "agosto", "setembro septiembre settembre",
+                           "outubro octubre ottobre", "novembro noviembre", "dezembro diciembre dicembre"], 1):
     MONTH_NUM.update({n: str(i) for n in names.split()})
 CN_NUM = dict(zip("一二两三四五六七八九十", ["1", "2", "2", "3", "4", "5", "6", "7", "8", "9", "10"]))
 
@@ -104,7 +109,7 @@ def numbers(text: str) -> set[str]:
 
 def quote_numbers(quote: str) -> set[str]:
     out = numbers(quote)
-    for w in re.findall(r"[a-zäöåüéèûà]+", quote.lower()):
+    for w in re.findall(r"[a-zäöåüéèûàçãõêíóúâ]+", quote.lower()):
         if w in WORD_NUM:
             out.add(WORD_NUM[w])
         if w in MONTH_NUM:

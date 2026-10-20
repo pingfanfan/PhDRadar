@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 瑞士（CH） 信源（127）
+# 瑞士（CH） 信源（129）
 
-所有标注了地区 CH 的信源，共 127 条。
+所有标注了地区 CH 的信源，共 129 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 5](ch.md#aggregators) · [各国学术招聘门户与机构职位页 3](ch.md#national-portals) · [政府与国家级奖学金 2](ch.md#gov-scholarships) · [高校旗舰奖学金与资助检索 12](ch.md#university-schemes) · [结构化博士项目与研究机构 56](ch.md#doctoral-programs) · [博士后奖学金与项目 12](ch.md#postdoc-fellowships) · [企业与基金会 Fellowship 6](ch.md#fellowships) · [学科专属信源 2](ch.md#discipline) · [科研实习与“曲线入口” 8](ch.md#pathways) · [个人信源与社交渠道 13](ch.md#people-channels) · [导师招生帖（社交平台个人发布） 7](ch.md#recruiting-posts) · [选校与申请辅助工具 1](ch.md#tools)
+**按分类跳转：** [综合聚合平台 5](ch.md#aggregators) · [各国学术招聘门户与机构职位页 3](ch.md#national-portals) · [政府与国家级奖学金 3](ch.md#gov-scholarships) · [高校旗舰奖学金与资助检索 12](ch.md#university-schemes) · [结构化博士项目与研究机构 56](ch.md#doctoral-programs) · [博士后奖学金与项目 13](ch.md#postdoc-fellowships) · [企业与基金会 Fellowship 6](ch.md#fellowships) · [学科专属信源 2](ch.md#discipline) · [科研实习与“曲线入口” 8](ch.md#pathways) · [个人信源与社交渠道 13](ch.md#people-channels) · [导师招生帖（社交平台个人发布） 7](ch.md#recruiting-posts) · [选校与申请辅助工具 1](ch.md#tools)
 
 <a id="aggregators"></a>
 
@@ -34,12 +34,13 @@
 
 <a id="gov-scholarships"></a>
 
-## 政府与国家级奖学金（2）
+## 政府与国家级奖学金（3）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Swiss Government Excellence Scholarships](https://www.sbfi.admin.ch/en/scholarships-and-grants)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>CHF 2,450/月（第三方报道，需以官网为准）</sub> | —<br><sub>🔜 即将开放</sub><br><sub>2027–28 轮中国大陆截止日期未核实（第三方称 2026-08-20 开放），以 SERI 官网为准。</sub> | ✅ | **要求：** 需先获瑞士导师提名（博士或研究奖学金）；据第三方报道需在申请截止前完成硕士学位；中国大陆可否申请以官方国家名单为准。<br>瑞士使馆页面（swiss-government-excellence-scholarships-2027-2028）称自 2027–28 学年起不再授予博士后奖学金，仅保留博士研究奖学金与博士奖学金，博后请改看其他渠道。SERI 页面称政府卓越奖学金每年面向年轻外国研究人员和艺术学生授予，由联邦外国学生奖学金委员会（FCS）负责评选。 |
 | [瑞士政府卓越奖学金（ETH 页面）](https://ethz.ch/en/studies/non-degree-courses/sges.html)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>CHF 3,500/月（需导师同意）</sub> | **2026-11-30**<br><sub>🟢 开放申请</sub><br><sub>页面写明申请期为 2026 年 8 月 20 日至 11 月 30 日；各国具体截止日页面未载明。</sub> | ❔ | **要求：** 需先获得 ETH 教授同意并出具邀请函，之后仅可通过 Go-ESKAS.ch 提交；页面标明博后奖学金已不接受申请。<br>瑞士政府奖学金（博士奖学金与硕士后研究奖学金）经 Go-ESKAS.ch 申请，申请期为 2026 年 8 月 20 日至 11 月 30 日。页面明确博后奖学金已不接受申请，故级别修正为博士。 |
+| [瑞士联邦奖学金委员会（ESKAS）](https://www.sbfi.admin.ch/sbfi/en/home/bildung/stipendien/eskas.html)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 仅生活费<br><sub>CHF 2,450/月（二手来源，待官网核实）</sub> | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>各国截止日期不同，集中在 9 月至 12 月之间；中国截止日与博后类别对中国开放与否未核实，以 SERI 页面为准</sub> | ❔ | **要求：** 需已获博士学位。通过所在国瑞士使馆或 GO ESKAS 申请，国别名额与途径不同（美国须先走 Fulbright）。博后项目为期 12 个月，不可延长。<br>瑞士政府卓越奖学金（ESKAS）官方页，按国别名额申请，须经所在国瑞士使馆或 GO ESKAS 提交。设博士与研究员（博后）类别。2027–2028 轮各国截止日不同；中国的截止日与博后类别是否对中国开放未核实，以 SERI 页面为准。 |
 
 <a id="university-schemes"></a>
 
@@ -125,7 +126,7 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（12）
+## 博士后奖学金与项目（13）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -137,6 +138,7 @@
 | [IBSA 基金会研究奖学金（医学与生物，2026 征集）](https://www.ibsafoundation.org/en/fellowship/call-2026)<br><sub>瑞士 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 仅生活费<br><sub>€32,000（12 个月，覆盖生活费与差旅）</sub> | **2027-01-31**<br><sub>🟢 开放申请</sub> | ✅ | **要求：** 申请人截止时需 40 岁以下（任何国籍）；需医学、生物、药学、生物技术或生物工程学位；永久教职不可申请；在线提交 CV、1–3 篇代表论文与求职信。<br>IBSA 基金会 2026 年征集，官方页称提供 7 项 €32,000 研究奖学金（皮肤、内分泌、生育与泌尿、骨科与疼痛、健康老龄化等方向），另设发展中国家研究 €5,000 奖项。官方征集页要求 2027-01-31 前在线提交。资格以 2026 征集文件为准。 |
 | [NOMIS–ETH Fellowship（起源生命方向博士后，ETH Zurich COPL）](https://copl.ethz.ch/opportunities/nomis-eth-fellowships.html)<br><sub>瑞士 ｜ 生物/生命科学·化学/材料·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-11-06**<br><sub>🟢 开放申请</sub><br><sub>每年一轮；本轮 2026-11-06 17:00（苏黎世时间）截止，通过 ETH 岗位平台申请，面向 2027 年入职。</sub> | ❔ | **要求：** 需已提交博士论文，博士学位约 3 年内（可例外）；需有学术或研究机构附属身份；需与 1–2 位 ETH COPL 成员教授合作。国籍限制未见，以官网为准。<br>NOMIS 基金会与 ETH 起源生命研究中心（COPL）合办，本轮约录取 1 人；资助为 3 年工资，另有每年最高 CHF 20,000 研究与差旅经费（据官方征集页）。申请前需先找到 COPL 合作教授。 |
 | [RobotX Postdoctoral Fellowship（ETH Zurich）](https://jobs.ethz.ch/job/view/JOPG_ethz_58u057ys6BxuEciK5P)<br><sub>瑞士 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-11-27**<br><sub>🟢 开放申请</sub><br><sub>页面写明申请截止 2026 年 11 月 27 日；仅接受在线门户提交，邮件或邮寄申请不予考虑。</sub> | ❔ | **要求：** 需在 2027 年 8 月前取得博士学位（或提供预计答辩日期）；需附一至两篇代表性论文及完整论文列表；申请一次即可供多个 RobotX 课题组考虑。<br>ETH RobotX 中心博后岗位，一年合同（通常可续约），按 ETH 博后工资标准受聘，可选择至多三位教授。 |
+| [Roche 博士后 Fellowship 项目](https://careers.roche.com/global/en/the-roche-postdoctoral-fellowship-programme)<br><sub>瑞士 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 持博士学位（部分岗位要求博士毕业 4 年内）；需按具体 RPF 岗位投递<br>罗氏 2–4 年博后项目，需投递具体岗位；在 careers.roche.com 按 postdoctoral 筛选。 |
 | [瑞士癌症研究基金会 International Research Fellowships（临床医生）](https://www.cancerresearch.ch/for-researchers/funding-opportunities/translate-to-english-fellowships/translate-to-english-international-research-fellowships/)<br><sub>瑞士 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2027-01-31**<br><sub>🔜 即将开放</sub><br><sub>每年两轮：1 月 31 日与 7 月 31 日（中午 12:00 CET）。2026-07-31 轮已截止，下一轮 2027-01-31。</sub> | ❔ | **要求：** 需医学学位和肿瘤研究或治疗经验，面向早期职业临床医生；资助最长两年<br>面向临床医生的国际研究奖学金，纯基础研究博后不适用。 |
 | [苏黎世大学 CEES 东欧与欧亚研究员计划](https://www.cees.uzh.ch/en/Fellowship-Program/Current-Call.html)<br><sub>瑞士 ｜ 生态/进化·地球/环境/海洋·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | **2026-10-12**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 年春季学期征集截止 2026 年 10 月 12 日（已过）；页面未给出下一轮时间，以征集页为准。</sub> | ❔ | **要求：** 面向东欧、俄罗斯、高加索或中亚研究的社会科学与人文学者；需研究计划、写作样本与两封推荐信。其他资格条件以征集页为准。<br>页面为 2027 年春季学期征集（约 4 个月驻校，5–6 个名额），资助含生活津贴、差旅与行政费用，并协助在苏黎世找房；仅限在本校就读或任职的申请者。 |
 | [苏黎世大学博后资助页：ERC Consolidator Grant](https://www.research.uzh.ch/en/funding/postdoc/ERC-Consolidator-Grant.html)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2027-01-12**<br><sub>🟢 开放申请</sub><br><sub>页面写明下一截止为 2027 年 1 月 12 日</sub> | ✅ | **要求：** 博士后后 5–15 年经验的研究者；需机构书面确认（通过 AVA 系统获取）<br>苏黎世大学页面说明 ERC Consolidator Grant 面向取得博士学位 5–15 年、所有国籍的研究者，最长 5 年、最高 200 万欧元（含 40 万欧元间接费用）。申请需机构书面确认，经 AVA 系统获取。 |

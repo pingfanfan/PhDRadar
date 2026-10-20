@@ -120,7 +120,7 @@ HOW_RE = re.compile(r"\b(apply (online|via|through|using|here)|application (port
 START_RE = re.compile(r"\b(start(ing)? date|expected to start|commenc(e|ing|ement)|start in|starting (in|on|from))\b", re.I)
 INTERVIEW_RE = re.compile(r"\binterviews?\b.*\b(held|expected|take place|scheduled|will be)\b", re.I)
 REQ_RE = re.compile(r"\b(acceptable (first )?degree|entry requirements?|eligibility|we (seek|are looking for) (a )?candidates?|candidates? (should|must|will) (have|hold|possess)|"
-                    r"applicants? (should|must|will) (have|hold|possess)|(2:1|upper second|first[- ]class)|master'?s degree|bachelor'?s degree|person specification|essential|desirable)\b", re.I)
+                    r"applicants? (should|must|will) (have|hold|possess)|(2:1|upper second|first[- ]class)|master'?s degree|bachelor'?s degree|person specification|selection criteria|requirements?:)\b", re.I)
 FUND_RE = re.compile(r"\b(stipend|funding (amount|for)|salary|maintenance|tuition fees?|(home|international) fees?|fee waiver|fully[- ]funded|studentships? (covers?|includes?)|per annum|p\.a\.)\b|[£€$]\s?\d", re.I)
 CONTACT_RE = re.compile(r"\b(informal enquiries|for (further|more) information|contact (person|details)|questions? (about|regarding))\b", re.I)
 
@@ -131,12 +131,13 @@ BOILER = re.compile(r"^(jobs by email|skip to main content|back to search result
 def sentences_of(text: str) -> list[str]:
     """网页正文常把一句话断成几行（标签与取值、括号、邮箱各占一行）：先并行再切句。"""
     lines: list[str] = []
-    for line in text.splitlines():
+    for line in text.replace("’", "'").replace("‘", "'").splitlines():
         line = line.strip()
         if not line or BOILER.match(line):
             continue
         prev = lines[-1] if lines else ""
         if prev and (prev.endswith(":") and len(prev) < 60 or re.match(r"^[)\],.;:a-z(]", line)
+                     or re.search(r"\b(than|by|on|until|before|of|to|at|is|are|from|the|and|or|in)$", prev)
                      or re.fullmatch(r"[\w.+-]+@[\w-]+\.[\w.-]+\)?\.?", line) or re.search(r"[(,]$", prev)):
             lines[-1] = f"{prev} {line}"
         else:
@@ -156,6 +157,9 @@ def extract_checklist(text: str) -> dict:
     for s in sents:
         for m in REF_RE.finditer(s):
             refs.append(NUM_WORDS.get(m.group(1).lower(), m.group(1)))
+        if re.search(r"referen|recommend", s, re.I):  # “at least two scientists who agreed to be contacted for reference letters”
+            for m in re.finditer(r"\b(?:at least |minimum of )?(\d|one|two|three|four|five)\s+(?:\w+\s+)?(scientists|academics|people|persons|contacts|names|individuals|professors|supervisors)\b", s, re.I):
+                refs.append(NUM_WORDS.get(m.group(1).lower(), m.group(1)))
     deadline = [s for s in sents if DEADLINE_RE.search(s)][:4]
     return {
         "materials": {k: v for k, v in items.items() if v},

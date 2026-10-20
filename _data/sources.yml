@@ -141,11 +141,13 @@ sources:
   - email
   language: en
   notes: AAAS 旗下职位板，可按 “Graduate Student/PhD” 职位类型筛选。
-  verified: 2026-10-13
+  verified: 2026-10-20
   coverage: varies
   status: ongoing
   deadline: varies
   requirements: 依职位而定；需按职位页核对学位与语言要求
+  verify_method: page
+  page_evidence: Found 534 jobs
 - id: discoverphds
   name: DiscoverPhDs
   url: https://www.discoverphds.com/phds
@@ -3413,6 +3415,27 @@ sources:
   requirements: 不限国籍；最长 4 年学费与月津贴；国际生需承担教学或实验室辅导任务
   verify_method: page
   page_evidence: Awardees will receive a scholarship which covers the applicable tuition fees
+- id: utokyo-igp-engineering
+  name: 东京大学工学 International Graduate Program（MEE）
+  url: https://www.ime.t.u-tokyo.ac.jp
+  category: doctoral-programs
+  regions:
+  - JP
+  disciplines:
+  - engineering
+  - physics
+  funding: mixed
+  cn_eligible: partial
+  access:
+  - web
+  language: en
+  notes: 东京大学 IME 国际研究生项目（工学），全英文硕博。优秀申请者可获 MEXT 或 IME 奖学金，并非全员资助；需先联系导师。
+  verified: 2026-10-20
+  coverage: unknown
+  deadline: unknown
+  requirements: 需先联系导师；若通过驻外使馆推荐申请 MEXT 奖学金，则不能入读本项目
+  verify_method: page
+  page_evidence: Applicants who have exceptional academic records will be awarded scholarship.
 - id: science-tokyo-igp
   name: 东京科学大学 International Graduate Program
   url: https://www.titech.ac.jp/english/public-relations/global/featured/international-graduate
@@ -3918,6 +3941,30 @@ sources:
   deadline_note: 抓取的页面为 2020 年 Industrial PhD（全领域·私营部门）征集，申请截止 2020 年 9 月 17 日（已过）；2026 年当期截止以创新基金官网为准。
   verify_method: page
   page_evidence: In addition, in 2026 the Innovation Fund supports Industrial PhD projects in Greenland and the Faroe Islands.
+- id: rcn-industrial-phd-norway
+  name: 挪威研究理事会 Industrial PhD 计划
+  url: https://www.forskningsradet.no/en/call-for-proposals/2026/industrial-phd-scheme-doctoral-projects-industry-2026/?tab=1
+  category: pathways
+  regions:
+  - 'NO'
+  disciplines:
+  - all
+  funding: position
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  notes: 挪威研究理事会 2026 年工业博士计划为持续受理，博士岗位由在挪威注册、有经济活动且至少 2 名全职员工的企业招聘，候选人以企业岗位为准；学历、语言与国际生资格官网未明确，需看具体岗位。
+  verified: 2026-10-20
+  levels:
+  - phd
+  deadline: rolling
+  status: rolling
+  deadline_note: 官网（2026 年 Industrial PhD 征集）称持续受理，符合条件的申请按序处理，资金用尽为止；第三方称 12 月 31 日截止，未在官网确认。
+  requirements: 通常由挪威企业与研究机构合作申请，博士岗位由企业招聘；国际生资格官网未明确，需核实
+  coverage: unknown
+  verify_method: page
+  page_evidence: This call has ongoing application reception and processing from the time the call opens.
 - id: ill-phd-positions
   name: Institut Laue-Langevin（ILL）博士岗位
   url: https://www.ill.eu/en/careers/open-phd-positions/

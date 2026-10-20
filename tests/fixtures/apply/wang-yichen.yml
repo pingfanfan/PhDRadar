@@ -1,0 +1,38 @@
+# 虚构申请者（演示与测试用，人物与学校均为虚构）。格式同 docs/profile-schema.md 的 cv-facts.yml。
+name: Wang Yichen
+email: wang.yc@example.com
+source: cv.pdf
+extracted: 2026-10-20
+facts:
+  - id: edu-1
+    type: education
+    text: 2024-09 至 2026-07 Westlake Institute of Physics 理论物理硕士（已毕业），GPA 3.9/4.0；导师 Prof. Liu Chen
+    quote: "MSc in Theoretical Physics, Westlake Institute of Physics, 2024–2026 (completed July 2026), GPA 3.9/4.0. Thesis: Neural-network quantum states for frustrated spin chains. Supervisor: Prof. Liu Chen"
+  - id: edu-2
+    type: education
+    text: 2020-09 至 2024-06 Riverside University 物理学学士，GPA 3.7/4.0
+    quote: "BSc in Physics, Riverside University, 2020–2024, GPA 3.7/4.0"
+  - id: pub-1
+    type: publication
+    text: 第一作者预印本，arXiv 2026，题为 Transfer learning of neural-network quantum states across system sizes
+    quote: "Wang Y., Liu C. Transfer learning of neural-network quantum states across system sizes. arXiv preprint, 2026."
+  - id: proj-1
+    type: project
+    text: 2025-01 至 2026-05 硕士课题：用变分蒙特卡洛训练神经网络量子态，研究一维阻挫自旋链基态；用 JAX 实现，最大体系 64 个格点
+    quote: "Trained neural-network quantum states with variational Monte Carlo for ground states of 1D frustrated spin chains; implemented in JAX; largest system 64 sites."
+  - id: proj-2
+    type: project
+    text: 2023-07 至 2023-09 暑期科研：用张量网络（DMRG）计算基准能量，供神经网络结果对比
+    quote: "Summer research (Jul–Sep 2023): computed DMRG benchmark energies with ITensor to compare against neural-network results."
+  - id: work-1
+    type: work
+    text: 2025 年春季学期 量子力学课程助教，批改作业并每周答疑一次
+    quote: "Teaching assistant, Quantum Mechanics (Spring 2025): graded homework and held one office hour per week."
+  - id: skill-1
+    type: skill
+    text: Python、JAX、NumPy、ITensor（Julia）、Git、Linux 集群作业
+    quote: "Python, JAX, NumPy, ITensor (Julia), Git, Linux cluster job submission"
+  - id: lang-1
+    type: language
+    text: 托福 102（R27 L26 S23 W26），2026-04
+    quote: "TOEFL iBT 102 (R27 L26 S23 W26), April 2026"

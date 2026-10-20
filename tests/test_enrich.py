@@ -151,3 +151,12 @@ def test_french_and_german_number_words():
     assert ep.check_field("duration", {"value": "3 年，2027 年 1 月起", "quote": q}, ep.norm(q)) is None
     q = "Die Stelle ist auf drei Jahre befristet"
     assert ep.check_field("duration", {"value": "3 年", "quote": q}, ep.norm(q)) is None
+
+
+def test_portuguese_spanish_italian_words():
+    q = "Inicio: novembro de 2026"
+    assert ep.check_field("start", {"value": "2026 年 11 月", "quote": q}, ep.norm(q)) is None
+    q = "dois nomes de referência com email"
+    assert ep.check_field("documents", {"value": "两位推荐人", "quote": q}, ep.norm(q)) is None
+    q = "contratto di tre anni a partire da gennaio 2027"
+    assert ep.check_field("duration", {"value": "3 年，2027 年 1 月起", "quote": q}, ep.norm(q)) is None

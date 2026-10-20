@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 地球/环境/海洋 信源（197）
+# 地球/环境/海洋 信源（207）
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 21](geo.md#aggregators) · [各国学术招聘门户与机构职位页 2](geo.md#national-portals) · [政府与国家级奖学金 1](geo.md#gov-scholarships) · [高校旗舰奖学金与资助检索 36](geo.md#university-schemes) · [结构化博士项目与研究机构 82](geo.md#doctoral-programs) · [博士后奖学金与项目 20](geo.md#postdoc-fellowships) · [企业与基金会 Fellowship 8](geo.md#fellowships) · [学科专属信源 21](geo.md#discipline) · [个人信源与社交渠道 4](geo.md#people-channels) · [导师招生帖（社交平台个人发布） 2](geo.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 21](geo.md#aggregators) · [各国学术招聘门户与机构职位页 2](geo.md#national-portals) · [政府与国家级奖学金 1](geo.md#gov-scholarships) · [高校旗舰奖学金与资助检索 36](geo.md#university-schemes) · [结构化博士项目与研究机构 88](geo.md#doctoral-programs) · [博士后奖学金与项目 21](geo.md#postdoc-fellowships) · [企业与基金会 Fellowship 8](geo.md#fellowships) · [学科专属信源 23](geo.md#discipline) · [个人信源与社交渠道 5](geo.md#people-channels) · [导师招生帖（社交平台个人发布） 2](geo.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
@@ -100,7 +100,7 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（82）
+## 结构化博士项目与研究机构（88）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -138,8 +138,12 @@
 | [NERC Panorama DTP（利兹大学牵头，大气与地球过程）](https://panorama-dtp.ac.uk/how-to-apply/faqs/)<br><sub>英国 ｜ 地球/环境/海洋·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2024 批次截止 1 月 5 日（历史）；2026 批次已结束，2027 批次时间未查到，需至官网确认</sub> | 🟡 | **要求：** 需先联系拟申请项目的主导师，且只能申请一个项目；国际生搬迁相关费用（机票、签证、医疗附加费等）不在资助范围内<br>Panorama 为长期 NERC DTP，学位含 3.5 年生活津贴（RCUK 标准）与学费。国际生搬迁相关费用（机票、签证、医疗附加费等）不包括。2026 批次已结束，2027 批次时间未在搜索中找到，需至官网确认。 |
 | [NTNU 海洋与海岸研究平台博士与博后页](https://www.ntnu.edu/ocean-coast/announcements)<br><sub>挪威 ｜ 地球/环境/海洋·生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>🔜 即将开放</sub><br><sub>页面称当前无在招岗位，新的博士公告通常在年底发布</sub> | ❔ | **要求：** 需与拟任主导师共同拟定项目大纲，项目须属于学院 11 个跨学科研究团队之一；页面称当前无空缺，新博士公告通常年底发布<br>NTNU 海洋与海岸平台公告页称目前无空缺，新博士公告通常年底发布；岗位多同步发布在 Jobbnorge，申请以各岗位公告为准。 |
 | [NYU Abu Dhabi 全球博士生奖学金（城市系统）](https://nyuad.nyu.edu/en/academics/graduate-and-phd/phd-programs/global-phd-student-fellowship-in-urban-systems.html)<br><sub>阿联酋·美国 ｜ 工程·地球/环境/海洋·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>🔜 即将开放</sub><br><sub>官网未给固定截止日；同系列 NYUAD 全球博士奖学金通常秋季入学、申请于 9–10 月开放，2027 轮以官网为准</sub> | ❔ | **要求：** 通常需英文成绩和硕士或同等学历。<br>由 NYU Tandon 管理的全球博士生奖学金页面，与 NYUAD 其他全球博士奖学金共用申请流程。 |
+| [Oxford Smith School 博士（DPhil）入学路径](https://www.smithschool.ox.ac.uk/node/544)<br><sub>英国 ｜ 生态/进化·地球/环境/海洋·社会科学/心理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>Oxford 设统一 DPhil 申请截止（具体日期以 Oxford 官网为准）；Smith School 页面标注 TBC。官网称仅约 20% 录取者获大学资助。</sub> | ❔ | **要求：** 需通过牛津地理与环境学院（SoGE）DPhil 项目申请，并由 Smith School 教员担任导师；建议先联系潜在导师<br>Smith School 不单独招生，博士申请经牛津地理与环境学院（SoGE）进行；先与 Smith School 高级学者沟通合作意向，奖学金另在牛津奖学金库检索。 |
 | [PIK 波茨坦气候影响研究所青年科学家与博士岗位](https://www.pik-potsdam.de/en/people/career/young-scientists)<br><sub>德国 ｜ 地球/环境/海洋·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub><br><sub>博士岗位按研究组单独发布；2025 年博后岗截止已过</sub> | ❔ | **要求：** 博后需博士学位；外国学位需 ZAB 认证<br>PIK 波茨坦气候影响研究所青年科学家与博士岗位：博士多为 TV-L 合同制有薪岗位，按研究组发布。未找到当前博士岗位的官方公告。 |
+| [Scripps 海洋研究所博士资助说明](https://scripps.ucsd.edu/doctoral/cost-funding)<br><sub>美国 ｜ 地球/环境/海洋·生物/生命科学·物理/天文·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | 🟡 | 官网称博士生通常获得约五年的保障资助包（薪资或奖学金、学费及非居民补充学费）；表述为 typically。国际生是否可获命名奖学金需逐项核对。 |
 | [Scripps 海洋研究所博士项目 FAQ（录取与资助）](https://scripps.ucsd.edu/doctoral/frequently-asked-questions)<br><sub>美国 ｜ 地球/环境/海洋·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>每年申请季一次，具体日期以 Scripps 招生页为准</sub> | ❔ | **要求：** 国际申请者须提交 TOEFL；GRE 不要求；国际生非居民学费安排需向项目确认<br>Scripps 官方 FAQ 称博士生通常保证五年资助（津贴/薪资、学费与非居民附加学费）。国际生可按同样流程申请，但页面对非居民学费的说明主要针对美国公民/永居者，国际生具体安排需向项目确认。 |
+| [SICSS 汉堡气候系统博士项目（CLICCS II）](https://www.sicss.uni-hamburg.de/phd-program/become-member.html)<br><sub>德国 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | **2027-01-04**<br><sub>🟢 开放申请</sub><br><sub>页面列出会员申请截止 2026-09-21 与 2027-01-04；入学后 6 个月内须提交；没有导师和资助者者不能申请</sub> | ❔ | **要求：** 需硕士或同等学历并已获博士入学资格、有导师与 SICSS 监督协议；课题需与 CLICCS II 气候主题相关。<br>2026 年会员申请截止（1 月 26 日、4 月 6 日、6 月 8 日、9 月 21 日）均已过，未见 2027 日期。CLICCS II 资助者原则上自动入会，无资助者需递交动机信并由导师背书；页面“全程资助”条件与指南不一致，申请前向办公室确认。 |
+| [Skoltech 博士项目招生页](https://www.skoltech.ru/en/admissions/)<br><sub>俄罗斯 ｜ 计算机·人工智能·工程·物理/天文·化学/材料·生物/生命科学·地球/环境/海洋·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>75,000 卢布/月起（竞争性选拔）</sub> | 未公布<br><sub>🔜 即将开放</sub><br><sub>2026 年第一轮为 2026-02-02 至 04-27，本轮已关闭；2027 年入学日期未公布</sub> | ❔ | **要求：** 需硕士或专家学位，英语成绩（如 TOEFL iBT 72 / Duolingo B2）；材料含动机信、简历、两封推荐信、研究计划<br>官方称博士学费由学校承担（国际生同样适用）；生活补助按录取批次竞争性发放，金额官方来源未确认。 |
 | [UC Berkeley 地球与行星科学系（EPS）研究生招生常见问题](https://eps.berkeley.edu/graduate-admissions-frequently-asked-questions)<br><sub>美国 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>📋 持续更新</sub><br><sub>2026-27 轮已过；下一轮以招生页为准。</sub> | ❔ | **要求：** 非英语母语申请人需 TOEFL/IELTS；国际生校外工作受限。<br>伯克利 EPS 官方招生 FAQ 称录取的 PhD 学生获学费与生活津贴的资助安排（包括非居民补充学费），无需先读硕士；具体金额以研究生院页面为准。 |
 | [UC Berkeley 能源与资源集团（ERG）博士招生](https://erg.berkeley.edu/graduate-programs/graduate-admissions)<br><sub>美国 ｜ 工程·生态/进化·社会科学/心理·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>页面称 2027 年秋季入学的申请门户已开放，截止 2026 年 12 月 1 日；截止后不接受申请，除非导师证明有特殊情况。</sub> | ❔ | **要求：** 需美国学士或同等学历（或国际同等学历）；有 2 年以上相关工作经验者优先；每年约 350 人申请，录取约 20 人<br>跨学科能源与环境博士项目，仅秋季入学。页面称资助方案可能与录取通知分开提供，国际生资助条款页面未列。 |
 | [UChicago 地球科学（Geophysical Sciences）博士招生与资助页](https://geosci.uchicago.edu/academics/graduate-program-and-admissions)<br><sub>美国 ｜ 地球/环境/海洋·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>📋 持续更新</sub><br><sub>页面未给出截止日期，请以当年 UChicago 招生页为准。</sub> | ❔ | **要求：** 页面未写明国籍限制，国际生是否同等适用需向系确认。<br>页面称所有录取博士生获得全额学费奖学金，并覆盖必需服务费与个人医保保费，生活费主要来自 RA、TA 或奖学金。未写具体津贴金额。 |
@@ -151,6 +155,7 @@
 | [佐治亚理工学院地球与大气科学研究生资助](https://www.eas.gatech.edu/graduate-student-financial-assistance)<br><sub>美国 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$37,500/年（$3,125/月，含学费）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各系截止不同，以院系当年说明为准。</sub> | ❔ | 页面称助研/助教津贴含学费；Presidential Fellowship 限美国居民或永久居民，学院 Dean 资助限美国公民和永久居民中代表性不足的群体。建议 GPA 3.6 以上者尽早申请。 |
 | [佛罗里达大学自然资源与环境学院研究生资助](https://snre.ifas.ufl.edu/academics/graduate/financial-support)<br><sub>美国 ｜ 生物/生命科学·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各系截止不同，以院系当年说明为准。</sub> | ✅ | 佛罗里达大学 SNRE 资助预算有限，按竞争性评选发放奖学金、助教与助研岗位，不保证人人获得；未找到面向国际生的明确资格声明，国际生应在申请时注明资助意向并向潜在导师咨询。 |
 | [北卡州立大学自然资源学院研究生资助（CNR Graduate Support）](https://cnr.ncsu.edu/fb/graduate/graduate-support)<br><sub>美国 ｜ 生物/生命科学·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>约 $22,500–25,000/年（学院样例，TA/RA 津贴，依赖当年经费）</sub> | 各项目不同<br><sub>勾选研究生申请表中的财务援助选项即自动参与院系评审；截止以研究生院当年安排为准</sub> | ❔ | **要求：** 国际生需单独确认 TA 的英语要求；资助金额依赖当年经费与院系分配<br>页面称多数硕博生获得教学或研究助理（TA/RA）职位，样例津贴约 2.25-2.5 万美元/年加学费减免。勾选研究生申请表即自动参与院系资助评审，国际生需单独确认 TA 的英语要求。 |
+| [华盛顿大学地球与空间科学系博士资助](https://ess.uw.edu/education/graduate-program)<br><sub>美国 ｜ 地球/环境/海洋·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>2027 年秋入学申请截止 2026-12-01；官网称 TA/RA 视经费与学业进展而定</sub> | ❔ | **要求：** 国际申请者须提交 Statement of Financial Ability 表<br>页面称录取的博士生可获 RA 或 TA 职位支持，保证 5 年（9 个月学年）；暑期资助不保证。 |
 | [华盛顿大学地球与空间科学系（ESS）研究生项目页](https://ess.washington.edu/education/grad)<br><sub>美国 ｜ 地球/环境/海洋·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>📋 持续更新</sub><br><sub>页面称秋季入学申请截止为 12 月 1 日。</sub> | ❔ | **要求：** 需被 PhD 项目录取；资助以 RA/TA 形式发放，视学业进度与经费而定。<br>UW 地球与空间科学系 2023 年研究生指南称，PhD 学生在学业进展令人满意时保证 5 个学年的资助（TA 或 RA，视经费而定）；夏季资助不保证。 |
 | [南安普顿海洋与地球科学博士（NOC 合作）](https://www.southampton.ac.uk/study/postgraduate-research/ocean-earth-science)<br><sub>英国 ｜ 地球/环境/海洋·生物/生命科学·物理/天文·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | 🟡 | 南安普顿与英国国家海洋中心合作的博士，经 INSPIRE 等 NERC 项目资助；国际生有少量 GSNOCS 奖学金，截止因课题而异。 |
 | [卡尔加里大学地球科学博士](https://grad.ucalgary.ca/future-students/explore-programs/geoscience-phd?page=1)<br><sub>加拿大 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面写明 9 月入学的申请截止为 1 月 15 日（国际生与加拿大生相同）；页面未说明资助。2027 轮以官网为准。</sub> | ✅ | **要求：** 需硕士或相当学位（地质/地球物理或物理、数学等相关领域），近两年全日制 GPA 至少 3.0/4.0；需提交研究兴趣陈述和两封推荐信，申请时须列出潜在导师。<br>申请时须列出潜在导师；国际生与加拿大生截止均为 1 月 15 日（9 月入学）。页面未写明资助金额。 |
@@ -159,13 +164,14 @@
 | [哈佛 GSAS 自然科学与工程博士资助保障](https://gsas.harvard.edu/natural-sciences-engineering-and-applied-sciences-and-medical-sciences-support)<br><sub>美国 ｜ 地球/环境/海洋·物理/天文·化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>各项目截止日不同，多数在前一年 11–12 月；资助年限按项目为 5 或 6 年，以录取时的资助通知为准</sub> | ❔ | **要求：** 硕士或本科；语言成绩按项目要求；官网资助页未写国籍限制，国际生条件需以项目页为准<br>哈佛 GSAS 自然科学与工程方向博士通常提供至少 5 年全额资助（学费、医保、基本生活费），物理等部分项目为 6 年；金额每年变化，以录取通知为准。 |
 | [哈佛地球与行星科学系博士招生](https://eps.harvard.edu/education/graduate-program/admissions)<br><sub>美国 ｜ 地球/环境/海洋·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-12-15**<br><sub>🟢 开放申请</sub> | ❔ | **要求：** EPS 只招博士；GRE 可选；申请时可列出最多三位感兴趣的 EPS 教师；国际生资格未在页面明确<br>只招博士，不招 AM 学位；申请时可列出最多三位感兴趣的 EPS 教师。页面称录取后提供研究或助教资助、全额学费及研究津贴；国际生具体条款页面未写明，需向系里确认。 |
 | [哥本哈根大学 GeoTop 地球动力学中心博士/博后岗位页](https://geotop.math.ku.dk/job-opportunities/)<br><sub>丹麦 ｜ 地球/环境/海洋·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>页面给出：博士岗位下一轮截止为 2026 年 11 月 1 日；博后岗位本年度截止为 2026 年 11 月 15 日。</sub> | ❔ | **要求：** 国际生需满足丹麦博士入学要求<br>数学系下的地球动力学中心，博士和博后岗位均为受雇式。 |
+| [图尔库大学 BGG 博士项目征集（2026 年 9 月，2027 年入学）](https://www.utu.fi/sites/default/files/media/DPMLS/BGG_call%20of%20applications_Sept_2026.pdf)<br><sub>芬兰 ｜ 生物/生命科学·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026 秋季窗口 8 月 25 日至 9 月 8 日已截止；2027 年各轮日期以官网为准，申请需在 My Studyinfo 申请学籍并在 TalentAdore 申请岗位</sub> | ❔ | 图尔库大学 BGG 博士项目按年征集带薪博士研究员岗位（定期合同）。2026 秋季窗口已关闭；申请需同时在 My Studyinfo 申请学籍并在 TalentAdore 申请岗位。 |
 | [宾州州立大学气象与大气科学研究生项目](https://www.met.psu.edu/graduate/prospective-graduate-students-ms-phd)<br><sub>美国 ｜ 地球/环境/海洋·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 博士资助多通过导师课题的研究助理（RA）安排，也可能有教学助理（TA）或奖学金。具体金额与资格未在官方手册摘录中找到，建议参考系所研究生手册并提前联系导师。 |
 | [布法罗大学城市与区域规划 PhD](https://archplan.buffalo.edu/academics/graduate-degrees/phd/phd-in-urban-and-regional-planning-admissions.html)<br><sub>美国 ｜ 社会科学/心理·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2027-01-15**<br><sub>🟢 开放申请</sub><br><sub>页面写明 Fall Semester admissions 截止 January 15, 2027（Fall 2026 已截止）；资助以系方说明为准。</sub> | ❔ | **要求：** 通常需规划或相关领域硕士，研究生 GPA 不低于 3.0；英语：雅思 6.5（单项不低于 6.0）或托福网考 79；页面称不要求 GRE。<br>页面说明资助不保证，申请时需主动咨询助研或助教机会。页面列出国际生学费约 $12,495/学期（不含费用）、申请费 $75；具体助研或奖学金条件未在搜索中查到，建议联系系方。 |
 | [布里斯托地理数据科学博士（含奖学金）](https://www.bristol.ac.uk/geography/courses/postgraduate/phd-in-geographic-data-science/)<br><sub>英国 ｜ 地球/环境/海洋·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>🔜 即将开放</sub><br><sub>大学奖学金 2026 年 9 月入学截止 2026-01-19（已过）；2027 入学各项截止未能核实，以官网为准</sub> | ✅ | **要求：** 需提交研究计划，并至少列出 2 位拟导师；建议先联系导师。<br>奖学金覆盖国际与本地学费并发 UKRI 标准津贴，通常 1 月截止。 |
 | [布里斯托大学 Cabot 环境研究所博士机会页](https://www.bristol.ac.uk/cabot/postgraduate-opportunities/phds)<br><sub>英国 ｜ 地球/环境/海洋·生态/进化·工程·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各项目截止不同</sub> | ❔ | 列出环境类博士机会（含 NERC GW4+ DTC、Sustainable Futures 等）；建议先与感兴趣的导师沟通再投递。 |
 | [德州农工大学大气科学研究生资助](https://artsci.tamu.edu/atmos-science/academics/graduate/funding.html)<br><sub>美国 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>月津贴 $2,750（硕士及未通过博士资格考试者）；$2,900（已通过资格考试的博士生）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各系截止不同，以院系当年说明为准。</sub> | ✅ | 页面称所有助教与助研岗位都包含学费；研究岗位多依赖导师在研经费。 |
 | [德州农工大学海洋学研究生资助](https://artsci.tamu.edu/oceanography/academics/graduate/funding.html)<br><sub>美国 ｜ 地球/环境/海洋·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各系截止不同，以院系当年说明为准。</sub> | ❔ | 页面称录取的硕博生通常会获得研究助理或助教资助，所有助理职位包含学费，学业进展良好通常可维持到毕业，无需单独申请。页面未列出具体生活津贴金额，也未说明国际生是否免除非本州学费，故标 check；请以院系当年说明为准。 |
-| [悉尼科技大学城市规划博士（thesis 型）](https://uts.edu.au/courses/doctor-of-philosophy-phd-thesis-urban-planning)<br><sub>澳大利亚 ｜ 社会科学/心理·地球/环境/海洋</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>政府资助名额有限，截止与轮次以 UTS 官网为准。</sub> | ❔ | 澳洲城市规划博士，可申请政府资助的名额有限，申请时需同时申请奖学金。 |
+| [悉尼科技大学城市规划博士（thesis 型）](https://uts.edu.au/courses/doctor-of-philosophy-phd-thesis-urban-planning)<br><sub>澳大利亚 ｜ 社会科学/心理·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>政府资助名额有限，截止与轮次以 UTS 官网为准。</sub> | ❔ | 澳洲城市规划博士，可申请政府资助的名额有限，申请时需同时申请奖学金。 |
 | [斯德哥尔摩大学人文地理系 · 成为研究者（博士职位说明）](https://www.su.se/english/divisions/department-of-human-geography/research/become-a-researcher)<br><sub>瑞典 ｜ 地球/环境/海洋·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>页面未列出博士岗位的申请截止日，需以系里当年招聘公告为准。</sub> | ❔ | **要求：** 硕士或同等学历；人文地理至少 90 学分或同等；英语或瑞典语达标（以岗位公告为准）<br>斯德哥尔摩大学人文地理系博士岗位说明页（2025-12-08 更新）：四年制全职博士项目，博士生通常受聘于系里。页面未列出申请截止日与资格要求，需以当年招聘公告为准。 |
 | [新西伯利亚国立大学（NSU）英语授课博士项目与政府奖学金](https://english.nsu.ru/admission/programs/phd-programs-english/)<br><sub>俄罗斯 ｜ 物理/天文·数学/统计·计算机·生物/生命科学·化学/材料·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>页面称政府奖学金按申请人国别设截止；该页面当前显示“Application is over.”</sub> | ❔ | **要求：** 外国博士生可申请俄联邦政府奖学金，需在 Education in Russia 注册并把 NSU 列为第一志愿<br>页面称奖学金覆盖学费与月生活补助，名额因国别而异；无奖学金时需自费。 |
 | [日内瓦大学地球与环境科学系博士岗位](https://unige.ch/sciences/terre/fr/infos-pratiques/jobs)<br><sub>瑞士 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>列表持续更新；申请前需逐岗核对截止日。</sub> | ❔ | 系内列出的博士/助教型岗位（如 75% 助理-博士，兼教学）。列表页持续更新，单个岗位截止以岗位公告为准。 |
@@ -189,7 +195,7 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（20）
+## 博士后奖学金与项目（21）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -203,6 +209,7 @@
 | [NSERC 加拿大博士后研究奖（CPRA）](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program)<br><sub>加拿大 ｜ 物理/天文·化学/材料·生物/生命科学·数学/统计·计算机·工程·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>CAD 70,000/年（24 个月）</sub> | **2026-10-17**<br><sub>⏸ 本轮已截止</sub><br><sub>本轮外部截止 2026-10-17 已过，下一轮时间以官网为准</sub> | 🟡 | NSERC 加拿大博士后研究奖，年资助 CAD 70,000，共 24 个月；国际名额有限，国际申请人须有加拿大博士训练或加拿大博后经历。NSERC 外部截止 2026-10-17，各校内部截止更早，需尽快联系加拿大导师并核对校内期限。 |
 | [NSF NCAR 高级研究项目（ASP）博士后研究员](https://edec.ucar.edu/advanced-study-program/prospective-applicants)<br><sub>美国 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>第一年 $82,650，第二年 $85,520，另含不少于 $3,500 年度科研差旅资助</sub> | **2026-10-25**<br><sub>🟢 开放申请</sub><br><sub>近年截止日在 9 月初至 11 月初之间（2025 轮 9 月 1 日已过），以官网为准</sub> | ❔ | **要求：** 需近 5 年内获得博士学位（更早者个案考虑）；提供签证担保与搬迁补助；国际生资格需向项目确认<br>大气与地球系统科学方向最长 2 年博士后研究员,要求近 5 年内获得博士学位。申请窗口以官网公告为准,国际生资格需向项目确认。 |
 | [Scripps 海洋研究所博士后奖（Scripps Postdoctoral Scholar Award）](https://apol-recruit.ucsd.edu/JPF04644)<br><sub>美国 ｜ 地球/环境/海洋·生态/进化·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>最低 $74,000/年（另含福利），一次性研究津贴 $6,000</sub> | **2027-01-31**<br><sub>🟢 开放申请</sub><br><sub>2027 轮页面称 2026 年 9 月 4 日开放；2026 年 10 月 16 日为优先评审日（已过），最终截止 2027 年 1 月 31 日（太平洋时间），之后仅在职位未招满时考虑。</sub> | ✅ | **要求：** 需先联系潜在导师，再通过 UCSD 招聘系统提交申请；两年期<br>UCSD Scripps 海洋研究所博士后奖，两年期并提供薪资与津贴；须先联系潜在导师。 |
+| [Scripps 海洋研究所博士后职位页](https://scripps.ucsd.edu/postdocs/employment)<br><sub>美国 ｜ 地球/环境/海洋·生物/生命科学·物理/天文·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>最低 USD 74,000/年（另含福利与 $6,000 一次性研究经费）</sub> | **2027-01-31**<br><sub>🟢 开放申请</sub><br><sub>2027 轮 Scripps Postdoctoral Award：2026 年 9 月 4 日开放，10 月 16 日为首轮审核日，1 月 31 日为截止日。</sub> | ❔ | **要求：** 需已获博士学位；博后工作年限不超过 3 年；须先联系拟合作的 SIO 导师并确认研究兴趣；2027 轮以当年公告为准。<br>Scripps 海洋研究所博士后奖，两年期，多为课题经费支持的雇员合同；须先与导师沟通，签证类型需确认。 |
 | [Stanford Science Fellows](https://stanfordsciencefellows.stanford.edu/apply)<br><sub>美国 ｜ 生物/生命科学·化学/材料·物理/天文·数学/统计·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>$98,000/年（官网申请页）</sub> | **2026-10-16**<br><sub>⏸ 本轮已截止</sub><br><sub>官网申请页：2027 选拔周期门户已关闭；材料须于 10 月 16 日 23:59 美东时间前到达</sub> | ✅ | **要求：** 博士学位须在入职前 3 年内获得，且前期博后经历不超过 2 年；研究须为自然科学；持 H-1B 者不符合；须有斯坦福教员接收<br>斯坦福 Science Fellows：三年期自然科学博后，年薪 $98,000，另有最高 $10,000/年研究与发展经费及最高 $2,500 搬家费。国际学者可申请，但持 H-1B 者不符合；2027 选拔周期门户已关闭。 |
 | [加州理工地震实验室主任博士后学者](https://www.gps.caltech.edu/about/positions-available/postdoctoral-positions/seismological-laboratory-directors-postdoctoral-scholar)<br><sub>美国 ｜ 地球/环境/海洋·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>$78,000/年（页面本轮公布）</sub> | **2026-12-15**<br><sub>🟢 开放申请</sub><br><sub>2026 年 12 月 15 日截止（申请材料与推荐信）。</sub> | ✅ | **要求：** 需博士学位；提交 CV、约 1 页研究兴趣与经历陈述，并请 3 位推荐人将推荐信以电子方式发送至页面指定联系人。<br>页面（2026 轮）写明年薪 $78,000，初聘 2 年（第一年表现良好后续聘），截止 2026 年 12 月 15 日；此前记录的 1 年初聘与 2025 年截止已过时。 |
 | [多伦多大学 Daniels 学院 · 博士后资助机会列表](https://www.daniels.utoronto.ca/research-excellence-postdoctoral-fellowship-program)<br><sub>加拿大 ｜ 地球/环境/海洋·工程·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位<br><sub>CAD 80,000/年（另加每年 10,000 加元独立研究经费）</sub> | **2026-04-30**<br><sub>⏸ 本轮已截止</sub><br><sub>Daniels 页面检索未见截止日；同校其他学院 2026 轮截止为 2 月至 4 月，均已过，需看 2027 轮公告</sub> | ✅ | **要求：** 入职时需已获得或即将完成博士学位要求；大学级 Research Excellence Postdoctoral Fellows 计划称对国内外候选人开放（以大学项目页为准）；以大学博后身份受雇<br>Daniels 官方页面：提供两个 Research Excellence Postdoctoral Fellowship 名额，分“纯研究”和“有限教学”两条线，只能申请其一，同时申请两条线将被取消资格；有限教学线由大学承担 60% 薪资与福利，纯研究线 Daniels 不出资。具体薪资与 2027 轮截止日期页面未见，请看官网。 |
@@ -231,7 +238,7 @@
 
 <a id="discipline"></a>
 
-## 学科专属信源（21）
+## 学科专属信源（23）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -254,12 +261,14 @@
 | [斯德哥尔摩大学气象系（MISU）岗位页](https://www.su.se/english/divisions/department-of-meteorology/about-the-department/work-with-us)<br><sub>瑞典 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | **2026-11-03**<br><sub>🟢 开放申请</sub> | ❔ | 学系称所有博士岗位统一在校方官网（Varbi 系统）发布，属带薪职位。该页面快照写明暂无空缺，但称 2026 年至少会招一个岗位，需定期查看。国际生资格以各岗位公告为准。 |
 | [普利茅斯海洋生物协会（MBA）博士机会页](https://www.mba.ac.uk/phd-opportunities)<br><sub>英国 ｜ 生物/生命科学·地球/环境/海洋·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | MBA 本身不长期发布独立博士岗位，博士机会多经 Marine Research Plymouth（MRP）发布。MRP 2026 年入学的 3.5 年博士奖学金已发布，截止日期需看 MRP 页面。国际生资格以项目说明为准。 |
 | [波茨坦气候影响研究所（PIK）招聘页](https://www.pik-potsdam.de/en/people/career)<br><sub>德国 ｜ 地球/环境/海洋·生态/进化·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 未公布<br><sub>📋 持续更新</sub><br><sub>已见岗位 2026-08-23 截止，已过；新岗位在 jobs 页发布，无统一截止日</sub> | ❔ | **要求：** 德国带薪合同；具体学历、语言与国籍要求以各岗位公告为准<br>PIK 官方招聘页，博士与博后岗位为德国带薪合同；已知多数 2026 岗位已截止，请长期跟踪新发布。国籍与签证要求以岗位说明为准。 |
+| [犹他大学大气科学系研究生 FAQ](https://atmos.utah.edu/graduate/graduate-faq.php)<br><sub>美国 ｜ 地球/环境/海洋·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>博士最低 $35,000/年（税前），硕士 $31,500</sub> | — | ❔ | 系 FAQ 称研究生免学费，并提供最低 stipend 与健康福利：博士最低 $35,000/年（税前），硕士 $31,500。金额来自教授科研经费，以官网当期为准；国际生是否同等待遇以系内 FAQ 为准。 |
 | [萨尔茨堡大学 Z_GIS · 最新招聘与新闻页](https://www.plus.ac.at/zgis/news/)<br><sub>奥地利 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | Z_GIS 的新闻页会发布研究员与博士岗位，是地理信息方向最直接的入口。搜索结果中的博士类岗位多已过期，请定期查看并注意奥地利职位的国籍与语言要求。 |
 | [诺森比亚大学太阳与空间物理全奖博士机会](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/solar-and-space-physics/fully-funded-phd-opportunities/)<br><sub>英国 ｜ 物理/天文·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£20,780/年（2025/26 参考值）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 6 月 1 日截止（已过），2027 轮待公告</sub> | ✅ | STFC 资助的太阳与空间物理全奖博士名额，含学费与生活津贴（2025/26 年 £20,780/年）。2026 轮 6 月 1 日已截止；国际生学费差额需按校方规定确认，关注官网下一轮公告。 |
+| [雷丁大学气象系机会页](https://research.reading.ac.uk/meteorology/research/opportunities/)<br><sub>英国 ｜ 地球/环境/海洋·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>无统一截止日，博士与博后机会按项目陆续发布；PhD 咨询邮箱 met-phdinfo@lists.reading.ac.uk。检索到的岗位多为 2023–2025 年已截止。</sub> | ❔ | 雷丁大学气象系研究机会汇总，含博士与博后入口。 |
 
 <a id="people-channels"></a>
 
-## 个人信源与社交渠道（4）
+## 个人信源与社交渠道（5）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -267,6 +276,7 @@
 | [NUS Urban Analytics Lab 招聘岗位页](https://ual.sg/opportunities/vacancies/)<br><sub>新加坡 ｜ 计算机·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止日不同，以页面当前公告为准；过往博后公告均已关闭。</sub> | ❔ | 实验室岗位汇总页，列出博士与博后机会；该实验室称不回复泛泛的申请，建议先熟悉其研究再发送针对性邮件。 |
 | [Tyndall 气候变化研究中心职位与机会页](https://tyndall.ac.uk/jobs-and-opportunities)<br><sub>英国 ｜ 地球/环境/海洋·生态/进化·工程·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止不同；页面有 2026 年 2 月发布的博士岗，已过期</sub> | ❔ | 英国气候变化研究中心官方招聘页，汇总曼彻斯特等节点的博士与博后机会。 |
 | [维也纳大学 Urban Lab 职位](https://urbanlab.univie.ac.at/en/vacancies)<br><sub>奥地利 ｜ 社会科学/心理·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ❔ | Urban Lab 城市研究方向的 Prae-Doc / 博后岗位不定期发布；最近可见的是 2025 年 12 月发布的维也纳大学校级博士岗位征集，多已截止，需以页面最新公告为准。 |
+| [雷丁大学 DARC 数据同化与气候中心招聘页](https://research.reading.ac.uk/met-darc/aboutus/vacancies-in-darc/)<br><sub>英国 ｜ 地球/环境/海洋·数学/统计·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | DARC 招聘页称当前无数据同化岗位公告，主要入口为 Mathematics for our Future Climate（MFC）CDT：4 年全额资助（含津贴与 Home 标准学费），需数学或相关硕士。2026 轮截止 3 月 8 日已过，2027 轮未公布；国际生学费资格未确认。 |
 
 <a id="recruiting-posts"></a>
 

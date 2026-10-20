@@ -2,15 +2,62 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 高校旗舰奖学金与资助检索（1046） · 第 3/3 页
+# 高校旗舰奖学金与资助检索（1085） · 第 3/3 页
 
 名校层面的全奖项目和校内奖学金检索入口。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [英国（UK） 265](university-schemes.md#r-uk) · [加拿大（CA） 112](university-schemes.md#r-ca) · [美国（US） 98](university-schemes.md#r-us) · [澳大利亚（AU） 69](university-schemes-2.md#r-au) · [中国香港（HK） 64](university-schemes-2.md#r-hk) · [德国（DE） 58](university-schemes-2.md#r-de) · [日本（JP） 49](university-schemes-2.md#r-jp) · [法国（FR） 35](university-schemes-2.md#r-fr) · [荷兰（NL） 34](university-schemes-2.md#r-nl) · [西班牙（ES） 19](university-schemes-2.md#r-es) · [意大利（IT） 19](university-schemes-2.md#r-it) · [新西兰（NZ） 17](university-schemes-2.md#r-nz) · [韩国（KR） 16](university-schemes-2.md#r-kr) · [比利时（BE） 15](university-schemes-2.md#r-be) · [新加坡（SG） 14](university-schemes-2.md#r-sg) · [中国台湾（TW） 14](university-schemes-2.md#r-tw) · [爱尔兰（IE） 13](university-schemes-2.md#r-ie) · [瑞典（SE） 13](university-schemes-2.md#r-se) · [瑞士（CH） 12](university-schemes-2.md#r-ch) · [丹麦（DK） 10](university-schemes-2.md#r-dk) · [以色列（IL） 10](university-schemes-2.md#r-il) · [波兰（PL） 8](university-schemes-2.md#r-pl) · [阿联酋（AE） 6](university-schemes-2.md#r-ae) · [芬兰（FI） 6](university-schemes-2.md#r-fi) · [挪威（NO） 6](university-schemes-2.md#r-no) · [泰国（TH） 6](university-schemes-2.md#r-th) · [土耳其（TR） 6](university-schemes-2.md#r-tr) · [沙特（SA） 5](university-schemes-2.md#r-sa) · [ID 4](university-schemes-3.md#r-id) · [印度（IN） 4](university-schemes-3.md#r-in) · [中国澳门（MO） 4](university-schemes-3.md#r-mo) · [奥地利（AT） 3](university-schemes-3.md#r-at) · [智利（CL） 3](university-schemes-3.md#r-cl) · [中国内地（CN） 3](university-schemes-3.md#r-cn) · [欧盟/欧洲（EU） 3](university-schemes-3.md#r-eu) · [巴西（BR） 2](university-schemes-3.md#r-br) · [捷克（CZ） 2](university-schemes-3.md#r-cz) · [冰岛（IS） 2](university-schemes-3.md#r-is) · [马来西亚（MY） 2](university-schemes-3.md#r-my) · [卡塔尔（QA） 2](university-schemes-3.md#r-qa) · [爱沙尼亚（EE） 1](university-schemes-3.md#r-ee) · [全球（GLOBAL） 1](university-schemes-3.md#r-global) · [克罗地亚（HR） 1](university-schemes-3.md#r-hr) · [KE 1](university-schemes-3.md#r-ke) · [KW 1](university-schemes-3.md#r-kw) · [立陶宛（LT） 1](university-schemes-3.md#r-lt) · [卢森堡（LU） 1](university-schemes-3.md#r-lu) · [马耳他（MT） 1](university-schemes-3.md#r-mt) · [罗马尼亚（RO） 1](university-schemes-3.md#r-ro) · [俄罗斯（RU） 1](university-schemes-3.md#r-ru) · [斯洛文尼亚（SI） 1](university-schemes-3.md#r-si) · [斯洛伐克（SK） 1](university-schemes-3.md#r-sk) · [VN 1](university-schemes-3.md#r-vn)
+**按地区跳转：** [英国（UK） 275](university-schemes.md#r-uk) · [加拿大（CA） 121](university-schemes.md#r-ca) · [美国（US） 103](university-schemes.md#r-us) · [澳大利亚（AU） 71](university-schemes-2.md#r-au) · [中国香港（HK） 64](university-schemes-2.md#r-hk) · [德国（DE） 59](university-schemes-2.md#r-de) · [日本（JP） 51](university-schemes-2.md#r-jp) · [荷兰（NL） 38](university-schemes-2.md#r-nl) · [法国（FR） 35](university-schemes-2.md#r-fr) · [西班牙（ES） 19](university-schemes-2.md#r-es) · [意大利（IT） 19](university-schemes-2.md#r-it) · [新西兰（NZ） 17](university-schemes-2.md#r-nz) · [韩国（KR） 16](university-schemes-2.md#r-kr) · [比利时（BE） 15](university-schemes-2.md#r-be) · [瑞典（SE） 14](university-schemes-2.md#r-se) · [新加坡（SG） 14](university-schemes-2.md#r-sg) · [中国台湾（TW） 14](university-schemes-2.md#r-tw) · [爱尔兰（IE） 13](university-schemes-2.md#r-ie) · [瑞士（CH） 12](university-schemes-2.md#r-ch) · [丹麦（DK） 11](university-schemes-2.md#r-dk) · [以色列（IL） 10](university-schemes-2.md#r-il) · [波兰（PL） 9](university-schemes-2.md#r-pl) · [挪威（NO） 7](university-schemes-2.md#r-no) · [阿联酋（AE） 6](university-schemes-2.md#r-ae) · [芬兰（FI） 6](university-schemes-2.md#r-fi) · [泰国（TH） 6](university-schemes-2.md#r-th) · [土耳其（TR） 6](university-schemes-3.md#r-tr) · [沙特（SA） 5](university-schemes-3.md#r-sa) · [智利（CL） 4](university-schemes-3.md#r-cl) · [中国内地（CN） 4](university-schemes-3.md#r-cn) · [ID 4](university-schemes-3.md#r-id) · [印度（IN） 4](university-schemes-3.md#r-in) · [中国澳门（MO） 4](university-schemes-3.md#r-mo) · [奥地利（AT） 3](university-schemes-3.md#r-at) · [欧盟/欧洲（EU） 3](university-schemes-3.md#r-eu) · [巴西（BR） 2](university-schemes-3.md#r-br) · [捷克（CZ） 2](university-schemes-3.md#r-cz) · [冰岛（IS） 2](university-schemes-3.md#r-is) · [马来西亚（MY） 2](university-schemes-3.md#r-my) · [卡塔尔（QA） 2](university-schemes-3.md#r-qa) · [爱沙尼亚（EE） 1](university-schemes-3.md#r-ee) · [全球（GLOBAL） 1](university-schemes-3.md#r-global) · [克罗地亚（HR） 1](university-schemes-3.md#r-hr) · [KE 1](university-schemes-3.md#r-ke) · [KW 1](university-schemes-3.md#r-kw) · [立陶宛（LT） 1](university-schemes-3.md#r-lt) · [卢森堡（LU） 1](university-schemes-3.md#r-lu) · [马耳他（MT） 1](university-schemes-3.md#r-mt) · [罗马尼亚（RO） 1](university-schemes-3.md#r-ro) · [俄罗斯（RU） 1](university-schemes-3.md#r-ru) · [斯洛文尼亚（SI） 1](university-schemes-3.md#r-si) · [斯洛伐克（SK） 1](university-schemes-3.md#r-sk) · [VN 1](university-schemes-3.md#r-vn)
 
 **分页：** [第 1 页](university-schemes.md) · [第 2 页](university-schemes-2.md) · [第 3 页](university-schemes-3.md)
+
+<a id="r-tr"></a>
+
+## 土耳其（TR）（6）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Bilkent University 历史系 MA/PhD 奖学金（学费全免加月津贴）](https://history.bilkent.edu.tr/scholarship-and-housing/)<br><sub>土耳其 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>📋 持续更新</sub> | ❔ | **要求：** 页面称录取者通常可获得学费全免和月津贴，津贴随学业进度增加<br>具体金额与国际生资格请看官方页面。 |
+| [Bilkent 商学院 PhD 项目（全额学费奖学金）](https://fba.bilkent.edu.tr/phd-program/)<br><sub>土耳其 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 学年申请期为 2026-02-15 至 2026-05-15（已过）；另一官方页写日期待公布，下一轮以官网为准</sub> | ❔ | **要求：** 需有论文的硕士学位、GMAT 或 GRE、英语成绩；综合申请陈述、推荐信与面试评审；津贴可通过研究/教学助理岗位另行获得<br>页面写明所有录取的 PhD 学生获全额学费奖学金，续期取决于学业进度；津贴情况页面未写，请向项目确认。 |
+| [Bilkent 大学工程与科学研究生院资助说明（博士）](https://mfbe.bilkent.edu.tr/?page_id=35)<br><sub>土耳其 ｜ 工程·计算机·物理/天文·化学/材料·生物/生命科学·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 未公布<br><sub>📋 持续更新</sub><br><sub>下一轮日期未见，请到官网确认</sub> | ❔ | **要求：** 页面称几乎所有研究生可获学费减免和津贴；国际生材料要求以官网为准<br>官方页称几乎所有研究生有学费减免和津贴。具体金额以官网为准。 |
+| [TOBB 经济与技术大学（ETÜ）研究生全额奖学金](https://www.etu.edu.tr/en/uluslararasi/sayfa/ogrenim-ucreti-ve-burs-olanaklari-2)<br><sub>土耳其 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布 | ❔ | **要求：** 需联系目标院系确认国际生奖学金资格；学校页面称目前对国际生暂无宿舍或补充奖学金<br>学校官网页：全额奖学金包括月生活津贴，或部分津贴加住宿；按学术成绩、科研项目或校内任职分配，需联系院系确认。 |
+| [奥兹耶金大学（Özyeğin）商学院博士全额奖学金](https://library.ozyegin.edu.tr/en/phd-business/scholarship-opportunities)<br><sub>土耳其 ｜ 商科/管理·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>2026-27 页面数据：月津贴分三档 70,000 / 58,000 / 45,000 土耳其里拉</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 秋季申请截止 7 月 17 日（已过）；2027 轮未公布</sub> | ❔ | 商学院博士通常获 100% 学费减免并发放分档月津贴，另有住宿或交通补贴、私人医疗保险等；2025-26 数字可能已变。2026 秋季申请截止 7 月 17 日已过，下一轮待学院公告。国际生资格未见官方明确声明，保持 check。 |
+| [科奇大学理工研究生院奖学金与资助](https://gsse.ku.edu.tr/en/?p=15776)<br><sub>土耳其 ｜ 计算机·工程·物理/天文·化学/材料·生物/生命科学·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>博士生月津贴 60.000 TL（KU Graduate Fellowship，页面标注 2026 年 10 月起生效）</sub> | — | ✅ | **要求：** 博士录取者可参加 KU 研究生奖学金竞争；学费减免与津贴细则以 GSSE 官网当年页面为准<br>页面标注 2026 年 10 月起生效：KU Graduate Fellowship 博士生免学费、月津贴 6 万土耳其里拉并含住宿或住房补贴；土耳其政府奖学金博士项目对所有国籍开放，仅限秋季入学。 |
+
+<a id="r-sa"></a>
+
+## 沙特（SA）（5）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [KAUST 全奖硕博研究生资助](https://admissions.kaust.edu.sa/fees-funding)<br><sub>沙特 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>USD 25,000–30,000/年（依资质与进度）</sub> | —<br><sub>🔜 即将开放</sub><br><sub>本页未给出具体入学轮次或截止日期，以 KAUST 官网为准。</sub> | ❔ | **要求：** 需被 KAUST 录取（页面称将向获得录取者提供详细资助信息）；部分获得外部资助者可能不符合，以官网为准。<br>KAUST 全奖覆盖学费与实验室费、基础住房与医保，并发放月津贴（博士约 2.5–3 万美元/年，依资质）；外部资助者可能不符合，入学窗口需以官网为准。 |
+| [KFUPM 化学工程系研究生奖学金](https://che.kfupm.edu.sa/academic-programs/grad-scholarships)<br><sub>沙特 ｜ 化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>CGIS 显示 2026 年 5 月 20 日至 6 月 30 日窗口已关闭；第三方称 10 月 31 日，需向系里确认</sub> | ✅ | **要求：** 博士申请需已获同专业两年制硕士学位；累计 GPA 高于 3.2/4.0；英语 TOEFL iBT 70 或 IELTS 6.0（页面所列）。<br>系官网称欢迎全球申请者申请硕士或博士，录取研究生可获月津贴、校内住宿、医疗、每年往返机票及免费教材；申请通过研究生院门户提交。 |
+| [KFUPM 国际生学费与奖学金（官方）](https://www.kfupm.edu.sa/study/international-students/fees-and-scholarships)<br><sub>沙特 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ✅ | 官网国际生页称 PhD 免学费，并提供免费家具住宿、水电、医保、餐食及国际生机票；现金津贴按奖学金类别确定；下一轮以研究生招生办公室公告为准。 |
+| [KFUPM 沙特石油大学全额奖学金（MS/PhD）](https://cgis.kfupm.edu.sa/admission/kfupm-scholarship)<br><sub>沙特 ｜ 工程·化学/材料·物理/天文·数学/统计·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ❔ | **要求：** 需本科或硕士成绩优异（高 GPA）并被录取为全日制 MS/PhD；搜索结果中官网未写明中国籍条款，需以 CGIS 页面为准。<br>页面称为所有博士项目（含 PhD 直通项目）提供奖学金，福利包括免学费、按类别发放津贴、校内住宿、医疗牙科、补贴餐食，国际生机票仅限国际学生。国际生资格与截止日期页面未写明，需以官网为准。 |
+| [KSU 沙特国王大学全球博士奖学金计划](https://dgsinitiative.ksu.edu.sa/)<br><sub>沙特 ｜ 计算机·人工智能·工程·物理/天文·化学/材料·生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>年生活补贴 54,000（页面标注折合 14,400 美元），学制 3 年</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2025 年轮次已截止；2026 年轮次以官网为准</sub> | ❔ | **要求：** 需认可机构硕士学位；TOEFL iBT 61 / IELTS 6 / STEP 85（在美、加、英、爱尔兰、澳、新西兰获硕士可豁免）；两封推荐信、CV、研究陈述；GRE 非必须。<br>页面列出全额学费、住宿与医疗等福利；2025 年申请期已关闭，页面未公布下一轮时间。 |
+
+<a id="r-cl"></a>
+
+## 智利（CL）（4）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [塔尔卡大学 博士奖学金（外国无居留学生学费减免）](https://g5noticias.cl/2026/01/05/utalca-ofrece-atractiva-oferta-de-becas-para-sus-programas-de-doctorado/)<br><sub>智利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-01-09**<br><sub>⏸ 本轮已截止</sub><br><sub>新闻称本轮开放中的征集于 2026 年 1 月 9 日截止；下一轮以官网为准。</sub> | ❔ | **要求：** 面向没有智利居留的外国学生，具体要求以官网为准。<br>据 2026 年 1 月新闻，外国无居留博士生可获 100% 学费减免，并有月生活费和医保；来源为新闻报道，以官网为准。 |
+| [智利圣地亚哥大学外国学生卓越奖学金（BEE）](https://www.doctmat.dmcc.usach.cl/wp-content/uploads/2024/10/Bases-BEE-Arancel-y-Mant-para-Doct-1sem-2025.pdf)<br><sub>智利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 第一学期轮次申请期为 2025 年 10 月 20 日至 11 月 21 日（已关闭）；2027 轮以 Vicerrectoría de Postgrado 公告为准</sub> | ✅ | **要求：** 外国国籍且不在智利居住；本科和/或研究生平均成绩不低于 5.0（智利 1–7 分制）<br>圣地亚哥大学面向非居住外国人的博士奖学金（BEE），含学费减免、每年生活维持费与一次性安置补助；2026 轮已于 2025 年 11 月结束，关注下一轮公告（西语条款）。 |
+| [智利大学国际研究所 国际研究博士（2027 届）奖学金政策](https://iei.uchile.cl/dam/jcr:5f576ee7-b253-4c8c-89c8-ed1c6d6e0cba/Pol%C3%ADtica%20de%20Becas%20Doctorado%20-%20A%C3%B1o%202027.pdf)<br><sub>智利 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | 未公布<br><sub>🔜 即将开放</sub><br><sub>录取后按政策发放，申请期以项目公告为准。</sub> | ❔ | **要求：** 需被该博士项目录取，并须申请 ANID 国家博士奖学金；外国人资格以项目政策为准。<br>录取排名前两名的学生可获学费全免和学术协作津贴，视预算而定。 |
+| [智利奥斯特拉尔大学（UACh）博士机构奖学金（Beca Institucional de Doctorado）](https://www.postgradociencias.uach.cl/becas-y-beneficios/)<br><sub>智利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | **2026-04-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年第一学期申请已于 2026-05-29 截止；2027 年轮次未查到，需关注 UACh Escuela de Graduados 公告。</sub> | ❔ | **要求：** 须已被 UACh 博士项目录取（2026 新生或 2025 年续领），且不得同时领取外部奖学金；页面未设国籍限制，但外籍资格需以当年 bases 为准。<br>页面列出博士学费减免 50%（Rebaja 50% de arancel programas de doctorado），每个学年一年；需附博士录取信与 ANID 博士奖学金申请回执。本轮申请截止 2026-04-15。 |
+
+<a id="r-cn"></a>
+
+## 中国内地（CN）（4）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [HKUST(GZ) 研究生助学金（PGS）说明](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees)<br><sub>中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>CNY 15,000/月，全日制博士最长 4 年（官网 Scholarships & Fees 页）</sub> | 各项目不同<br><sub>无单独申请，全日制博士录取后自动参评，按年发放；以 PGS 条款为准</sub> | ✅ | **要求：** 全日制博士录取生；续领需学业与研究进展、英语及 GTA 表现达标<br>官网费用页：PGS 为全日制研究生助学金，博士每月 CNY 15,000、最长 4 年；PGS 持有者全日制研究生学费为每学年 CNY 40,000（2027/28 入学起为 CNY 60,000）。 |
+| [NYU 上海校区博士奖学金（神经科学上海轨道）](https://shanghai.nyu.edu/node/18058)<br><sub>中国内地 ｜ 神经/认知·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>📋 持续更新</sub><br><sub>随纽约大学神经科学项目的申请周期处理，截止需向上海校区核实。</sub> | ❔ | 上海校区的博士轨道，奖学金覆盖学费、杂费与年度津贴（据搜索摘要），适合希望在国内就读并获海外学位的同学。 |
+| [上海交通大学李政道研究所博士后招聘](https://tdli.sjtu.edu.cn/en/join-us/postdocs)<br><sub>中国内地 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 未公布<br><sub>📋 持续更新</sub><br><sub>官网招聘页为准；搜索到的外部列表截止日均已过</sub> | ❔ | **要求：** 需博士学位；提交求职信、CV、研究陈述、发表列表及至少 3 封推荐信<br>上海交通大学李政道研究所全职有薪博后。理论粒子与核物理/宇宙学方向岗位截止 2026-12-20，其他岗位以各岗位说明为准；申请前请核对 tdli.sjtu.edu.cn。 |
+| [南方科技大学－澳门大学全额奖学金联合培养博士项目](https://ese.sustech.edu.cn/Wap/Content/index/nid/151/id/374.html?language=2)<br><sub>中国内地·中国澳门 ｜ 工程·化学/材料·物理/天文·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 滚动<br><sub>🔄 随时可申</sub><br><sub>检索到的页面为 2016 年旧版，当前批次截止未核实</sub> | ❔ | **要求：** 托福不低于 550 或雅思不低于 6.0；本科 GPA 3.5 或硕士 GPA 3.0 以上；需经南科大与澳门大学联合面试<br>南科大与澳门大学全额奖学金联合培养博士，前约 1.5 年在澳大修博士课程，其余研究在南科大完成，学位由澳大授予；旧页面的津贴数字异常，未采用，需向南科大确认。 |
 
 <a id="r-id"></a>
 
@@ -54,26 +101,6 @@
 | [TU Wien 招聘门户（含 Doctoral College）](https://jobs.tuwien.ac.at/)<br><sub>奥地利 ｜ 计算机·工程·数学/统计·物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ✅ | **要求：** 硕士或同等学位（相关理工方向）；具体资格以各岗位公告为准；部分岗位限制此前在 TU Wien 任博士候选人的时长<br>页面为 TU Wien 招聘门户首页，列出 Current vacancies at the TU Wien，并称申请只接受在线提交；正文未列出具体博士或博后岗位、Prae-Doc 或 Doctoral College 项目，也未给截止日期。 |
 | [因斯布鲁克大学 博士奖学金](https://www.uibk.ac.at/en/research/research-funding/phd/doctoral-scholarship/)<br><sub>奥地利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€1,150/月（2026 年第三批，最长 24 个月）</sub> | **2026-10-09**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年第三批申请期为 2026-08-24 至 2026-10-09（已过）；下一轮预计 2026 年底/2027 年初公布</sub> | ❔ | **要求：** 须已在因斯布鲁克大学注册博士课程并有注册论文；看重学术记录与科研成果，优先与校内重点研究领域或项目相关者<br>面向已注册博士生的奖学金，不是直接招生岗位。官网显示每月 1,120 欧元，最长 24 个月；具体申请窗口以官网为准。 |
 | [维也纳大学理工科博士岗位招聘（Doctoral Recruitment STEM）](https://careers.univie.ac.at/en/praedoc/stem-call/)<br><sub>奥地利 ｜ 计算机·数学/统计·物理/天文·化学/材料·生物/生命科学·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-03-27**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 STEM 征集截止 2026 年 3 月 27 日（已过），下一轮以官网公告为准</sub> | ✅ | **要求：** 需相关学科硕士或同等学位；申请材料须用英文；欢迎持外国学位者申请。<br>维也纳大学统一公开招聘的全额资助博士岗位（带薪雇佣），涵盖理工与生命科学。截止日期与资格以官网公告为准。 |
-
-<a id="r-cl"></a>
-
-## 智利（CL）（3）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [智利圣地亚哥大学外国学生卓越奖学金（BEE）](https://www.doctmat.dmcc.usach.cl/wp-content/uploads/2024/10/Bases-BEE-Arancel-y-Mant-para-Doct-1sem-2025.pdf)<br><sub>智利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 第一学期轮次申请期为 2025 年 10 月 20 日至 11 月 21 日（已关闭）；2027 轮以 Vicerrectoría de Postgrado 公告为准</sub> | ✅ | **要求：** 外国国籍且不在智利居住；本科和/或研究生平均成绩不低于 5.0（智利 1–7 分制）<br>圣地亚哥大学面向非居住外国人的博士奖学金（BEE），含学费减免、每年生活维持费与一次性安置补助；2026 轮已于 2025 年 11 月结束，关注下一轮公告（西语条款）。 |
-| [智利大学国际研究所 国际研究博士（2027 届）奖学金政策](https://iei.uchile.cl/dam/jcr:5f576ee7-b253-4c8c-89c8-ed1c6d6e0cba/Pol%C3%ADtica%20de%20Becas%20Doctorado%20-%20A%C3%B1o%202027.pdf)<br><sub>智利 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | 未公布<br><sub>🔜 即将开放</sub><br><sub>录取后按政策发放，申请期以项目公告为准。</sub> | ❔ | **要求：** 需被该博士项目录取，并须申请 ANID 国家博士奖学金；外国人资格以项目政策为准。<br>录取排名前两名的学生可获学费全免和学术协作津贴，视预算而定。 |
-| [智利奥斯特拉尔大学（UACh）博士机构奖学金（Beca Institucional de Doctorado）](https://www.postgradociencias.uach.cl/becas-y-beneficios/)<br><sub>智利 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅免学费 | **2026-04-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年第一学期申请已于 2026-05-29 截止；2027 年轮次未查到，需关注 UACh Escuela de Graduados 公告。</sub> | ❔ | **要求：** 须已被 UACh 博士项目录取（2026 新生或 2025 年续领），且不得同时领取外部奖学金；页面未设国籍限制，但外籍资格需以当年 bases 为准。<br>页面列出博士学费减免 50%（Rebaja 50% de arancel programas de doctorado），每个学年一年；需附博士录取信与 ANID 博士奖学金申请回执。本轮申请截止 2026-04-15。 |
-
-<a id="r-cn"></a>
-
-## 中国内地（CN）（3）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [HKUST(GZ) 研究生助学金（PGS）说明](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees)<br><sub>中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>CNY 15,000/月，全日制博士最长 4 年（官网 Scholarships & Fees 页）</sub> | 各项目不同<br><sub>无单独申请，全日制博士录取后自动参评，按年发放；以 PGS 条款为准</sub> | ✅ | **要求：** 全日制博士录取生；续领需学业与研究进展、英语及 GTA 表现达标<br>官网费用页：PGS 为全日制研究生助学金，博士每月 CNY 15,000、最长 4 年；PGS 持有者全日制研究生学费为每学年 CNY 40,000（2027/28 入学起为 CNY 60,000）。 |
-| [NYU 上海校区博士奖学金（神经科学上海轨道）](https://shanghai.nyu.edu/node/18058)<br><sub>中国内地 ｜ 神经/认知·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>📋 持续更新</sub><br><sub>随纽约大学神经科学项目的申请周期处理，截止需向上海校区核实。</sub> | ❔ | 上海校区的博士轨道，奖学金覆盖学费、杂费与年度津贴（据搜索摘要），适合希望在国内就读并获海外学位的同学。 |
-| [南方科技大学－澳门大学全额奖学金联合培养博士项目](https://ese.sustech.edu.cn/Wap/Content/index/nid/151/id/374.html?language=2)<br><sub>中国内地·中国澳门 ｜ 工程·化学/材料·物理/天文·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 滚动<br><sub>🔄 随时可申</sub><br><sub>检索到的页面为 2016 年旧版，当前批次截止未核实</sub> | ❔ | **要求：** 托福不低于 550 或雅思不低于 6.0；本科 GPA 3.5 或硕士 GPA 3.0 以上；需经南科大与澳门大学联合面试<br>南科大与澳门大学全额奖学金联合培养博士，前约 1.5 年在澳大修博士课程，其余研究在南科大完成，学位由澳大授予；旧页面的津贴数字异常，未采用，需向南科大确认。 |
 
 <a id="r-eu"></a>
 

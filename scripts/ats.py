@@ -168,6 +168,10 @@ LISTS = [  # (学校, 列表页或站点地图, 岗位链接正则：(路径, �
     # prospective.ch 公开接口（JSON 里的 directlink 指向学校招聘页）
     ("University of Zurich", "https://ohws.prospective.ch/public/v1/medium/1002007/jobs?lang=en&offset=0&limit=500",
      r'"directlink"\s*:\s*"https://jobs\.uzh\.ch(/job-vacancies/([a-z0-9-]+/[0-9a-f-]+))"', "https://jobs.uzh.ch", "CH"),
+    ("University of Bern", "https://ohws.prospective.ch/public/v1/medium/1001892/jobs?lang=en&offset=0&limit=500",
+     r'"directlink"\s*:\s*"https://jobs\.unibe\.ch(/job-vacancies/([a-z0-9-]+/[0-9a-f-]+))"', "https://jobs.unibe.ch", "CH"),
+    ("King's College London", [f"https://www.kcl.ac.uk/jobs/search?sort=closeDate&categories=Research&page={n}" for n in range(1, 4)],
+     r'href="(/jobs/(\d+)-[a-z0-9-]+)"', "https://www.kcl.ac.uk", "UK", r"<title[^>]*>(.*?)(?:\s*\|\s*King&#x27;s College London)?</title>"),
 ]
 
 # 标题 / 链接里的博士、博后关键词（含芬兰语、荷兰语、法语、德语常见写法）
@@ -203,6 +207,16 @@ ROMANCE_MONTHS = {"janvier": "January", "février": "February", "fevrier": "Febr
                   "diciembre": "December"}
 GAP = r"([^.\d]{0,60}?)"  # 关键词与日期之间的文字；含 start / begin 的是开始日期，不是截止
 NOT_DEADLINE = re.compile(r"start|begin|commenc|from\b", re.I)
+def started(text: str, pos: int) -> bool:
+    """关键词前面紧挨着讲的是到岗时间（如 “start as soon as possible, and no later than 1 January 2027”）；
+    光秃秃的 “no later than” 前面 80 字内要有申请字样才算截止。"""
+    if re.match(r"no later than", text[pos:pos + 13], re.I):
+        return not re.search(r"appl|submi|receiv|bewerb|candidat", text[max(0, pos - 80):pos], re.I)
+    before = text[max(0, pos - 60):pos]
+    return bool(re.search(r"\b(start|begin|commenc|take up|appointment|employment|contract)\w*[^.;|!?\d]*$", before, re.I)) and \
+        not re.search(r"appl|bewerb|candidat|submi", before, re.I)
+
+
 DATE_OF = r"(\d{1,2}(?:st|nd|rd|th)?\s+of\s+[A-Za-z]{3,9},?\s+\d{4})"  # “25th of October 2026”
 NUM_DATE = r"(\d{1,2})[/-](\d{1,2})[/-](\d{4})"  # “30/10/2026”“11/30/2026”：日月顺序看同页其他日期，判断不了就不收
 
@@ -221,7 +235,7 @@ def deadline(text: str, end_date: str = "", order_hint: str = "") -> tuple[str |
     kw = rf"(?:{cp.DEADLINE_KW}|{EXTRA_KW})"
     found: list[tuple[int, str, str]] = []
     for m in re.finditer(kw + GAP + "(?:" + cp.ANY_DATE + "|" + DATE_OF + ")", text, re.I):
-        if NOT_DEADLINE.search(m.group(1)):
+        if NOT_DEADLINE.search(m.group(1)) or started(text, m.start()):
             continue
         day = m.group(2) or m.group(3).replace(" of ", " ").replace(",", "")
         day = re.sub(r"[A-Za-zÀ-ÿ]+", lambda w: ROMANCE_MONTHS.get(w.group(0).lower().rstrip("."), w.group(0)), day)
@@ -233,7 +247,7 @@ def deadline(text: str, end_date: str = "", order_hint: str = "") -> tuple[str |
         d, mo, y = (int(x) for x in m.groups()[-3:])
         if order == "MDY":
             d, mo = mo, d
-        if NOT_DEADLINE.search(m.group(1)) or not order or mo > 12 or d > 31:
+        if NOT_DEADLINE.search(m.group(1)) or started(text, m.start()) or not order or mo > 12 or d > 31:
             continue
         found.append((m.start(), f"{y}-{mo:02d}-{d:02d}", m.group(0).strip()))
     if found:

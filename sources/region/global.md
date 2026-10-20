@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 全球（GLOBAL） 信源（167）
+# 全球（GLOBAL） 信源（171）
 
-所有标注了地区 GLOBAL 的信源，共 167 条。
+所有标注了地区 GLOBAL 的信源，共 171 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 61](global.md#aggregators) · [各国学术招聘门户与机构职位页 1](global.md#national-portals) · [政府与国家级奖学金 2](global.md#gov-scholarships) · [高校旗舰奖学金与资助检索 2](global.md#university-schemes) · [结构化博士项目与研究机构 5](global.md#doctoral-programs) · [博士后奖学金与项目 13](global.md#postdoc-fellowships) · [企业与基金会 Fellowship 24](global.md#fellowships) · [学科专属信源 45](global.md#discipline) · [科研实习与“曲线入口” 2](global.md#pathways) · [个人信源与社交渠道 10](global.md#people-channels) · [导师招生汇总（指向个人主页的集合） 1](global.md#faculty-aggregators) · [选校与申请辅助工具 1](global.md#tools)
+**按分类跳转：** [综合聚合平台 61](global.md#aggregators) · [各国学术招聘门户与机构职位页 1](global.md#national-portals) · [政府与国家级奖学金 2](global.md#gov-scholarships) · [高校旗舰奖学金与资助检索 2](global.md#university-schemes) · [结构化博士项目与研究机构 5](global.md#doctoral-programs) · [博士后奖学金与项目 14](global.md#postdoc-fellowships) · [企业与基金会 Fellowship 24](global.md#fellowships) · [学科专属信源 47](global.md#discipline) · [科研实习与“曲线入口” 2](global.md#pathways) · [个人信源与社交渠道 11](global.md#people-channels) · [导师招生汇总（指向个人主页的集合） 1](global.md#faculty-aggregators) · [选校与申请辅助工具 1](global.md#tools)
 
 <a id="aggregators"></a>
 
@@ -70,7 +70,7 @@
 | [Population Europe 研究与职业机会板（人口学）](https://population-europe.eu/study-career/study-opportunities)<br><sub>欧盟/欧洲·全球 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各条目截止不同，需逐条确认。</sub> | ❔ | 欧洲人口学博士与岗位公告板，多为欧洲项目；国际生资格看各校公告。 |
 | [Rocq 证明助手社区招聘板（形式化验证与编程语言）](https://discourse.rocq-prover.org/tag/jobs)<br><sub>全球 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | Rocq（原 Coq）社区 jobs 标签页，集中发布形式化验证、程序证明与编程语言方向的博士及博后信息。 |
 | [ROS Discourse 招聘分区（jobs）](https://discourse.openrobotics.org/c/jobs/15)<br><sub>全球 ｜ 计算机·工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | ROS 社区官方招聘分区，机器人实验室和企业发布博士与博后岗位；按时间排序查看最新，需 ROS 技能的岗位较多。 |
-| [Science Careers](https://jobs.sciencecareers.org/jobs/graduate-student/)<br><sub>全球 ｜ 生物/生命科学·化学/材料·物理/天文·医学/公卫</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 依职位而定；需按职位页核对学位与语言要求<br>AAAS 旗下职位板，可按 “Graduate Student/PhD” 职位类型筛选。 |
+| [Science Careers](https://jobs.sciencecareers.org/jobs/graduate-student/)<br><sub>全球 ｜ 生物/生命科学·化学/材料·物理/天文·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 依职位而定；需按职位页核对学位与语言要求<br>AAAS 旗下职位板，可按 “Graduate Student/PhD” 职位类型筛选。 |
 | [Times Higher Education Unijobs](https://www.timeshighereducation.com/unijobs/listings/)<br><sub>全球·英国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | THE 旗下职位板，英联邦高校较多。 |
 | [区域研究协会（Regional Studies Association）博士机会板块](https://www.regionalstudies.org/category_opportunities/phd)<br><sub>全球 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 多数奖项需 RSA 会员身份。<br>RSA 博士相关条目多为学会奖项与研究资助（如 PhD Student Award 500 英镑），并非全额博士岗位；多数需 RSA 会员身份，申请前看截止日期。 |
 | [国际电化学学会（ISE）职位板](https://www.ise-online.org/jobs-positions)<br><sub>全球 ｜ 化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各职位截止日期不同，需在岗位页核实。</sub> | ❔ | **要求：** 以各职位要求为准。<br>电化学、电池与电解水方向的博士和博后职位汇总板，职位来源多样，需逐条核实。 |
@@ -118,7 +118,7 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（13）
+## 博士后奖学金与项目（14）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -131,7 +131,8 @@
 | [Microsoft Research 职位列表（博后与研究员）](https://www.microsoft.com/research/careers/)<br><sub>全球 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>岗位全年陆续开放，以各岗位原文截止日为准</sub> | ❔ | **要求：** 需博士学位（或即将完成）；各岗位要求不同；中国籍需确认签证支持<br>微软研究院官方职位页，可按地区与类型筛选博后岗位；截止日期以各岗位原文为准，中国籍需确认签证支持。 |
 | [NOMIS-STRI 热带动物行为博士后奖学金](https://fundit.fr/en/calls/three-year-nomis-stri-postdoctoral-fellowships-animal-behavior)<br><sub>全球 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>$62,000/年（另有研究与差旅经费最多 $13,000/年）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请截止 4 月 15 日已过；STRI 页面标注下一轮待定，需关注官网</sub> | ❔ | **要求：** 需在入职前取得博士学位；须在巴拿马驻留并以该地为主要研究地；偏好已有博后经验者；需 STRI 科学家作为导师<br>三年期热带动物行为博士后奖学金，由 STRI 与 NOMIS 基金会合办。2026 轮申请截止 4 月 15 日已过，下一轮时间未公布，请关注 STRI 官网后续征集。 |
 | [Schmidt Science Fellows](https://schmidtsciencefellows.org/)<br><sub>全球 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>$110,000/年（最长 2 年；MIT 页另列 $100,000，需以官网为准）</sub> | **2026-07-13**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 轮项目申请截止 2026-07-13（已过）；2028 轮指南通常 2 月前后发布</sub> | ✅ | **要求：** 须由其博士授予院校提名，且该院校须在官方提名机构名单内；限自然科学、工程、数学、计算机方向<br>面向自然科学/工程/计算领域博士毕业生的跨学科博士后奖学金，需由合作大学提名，不限国籍。 |
-| [Simons 基金会 Fellows-to-Faculty Award](https://www.simonsfoundation.org/2026/10/13/applications-open-for-2027-fellows-to-faculty-award-program/)<br><sub>全球 ｜ 神经/认知·生物/生命科学</sub> | 博后 | 力度未注明 | **2027-01-13**<br><sub>🟢 开放申请</sub><br><sub>2027 轮截止 2027 年 1 月 13 日（官网 2026-10-13 公告）。</sub> | ❔ | **要求：** PhD 和/或 MD；处于带教研究训练岗位，计划下一学年起任教职；国籍资格以官网为准。<br>面向资深博后的过渡资助，3 年研究经费最高 $600,000，领域为自闭症与衰老脑科学，通常 1 月截止。 |
+| [Schmidt Sciences AI2050 Early Career Fellowship](https://schmidtsciences.org/ai2050/)<br><sub>全球 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>官网称早期研究员为提名制，无公开申请；聚合站称 2026-09-15 截止，与官网冲突，以官网为准</sub> | ❔ | **要求：** 面向博后及 pre-tenure 早期研究者；需经提名，无公开申请通道<br>AI2050 官网称早期研究员（Early Career Fellows）采用封闭提名制、无公开申请；每年通常约 15 个名额，资助两年项目。聚合站所称 2026-09-15 截止与金额官网未证实，请勿据此申请。 |
+| [Simons 基金会 Fellows-to-Faculty Award](https://www.simonsfoundation.org/2026/10/13/applications-open-for-2027-fellows-to-faculty-award-program/)<br><sub>全球 ｜ 神经/认知·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2027-01-13**<br><sub>🟢 开放申请</sub><br><sub>2027 轮截止 2027 年 1 月 13 日（官网 2026-10-13 公告）。</sub> | ❔ | **要求：** PhD 和/或 MD；处于带教研究训练岗位，计划下一学年起任教职；国籍资格以官网为准。<br>面向资深博后的过渡资助，3 年研究经费最高 $600,000，领域为自闭症与衰老脑科学，通常 1 月截止。 |
 | [摩纳哥 / ITER 博士后奖学金（Monaco/ITER Postdoctoral Fellowships）](https://www.iter.org/public/education/international/monaco/iter-and-iter-postdoctoral-fellowships)<br><sub>全球 ｜ 物理/天文·工程</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 3 月 1 日截止已过；该项目按两年一轮，未见 2027 轮公告，以 iter.org 为准</sub> | ✅ | **要求：** 国籍须为中国、欧盟及瑞士、印度、日本、韩国、俄罗斯、美国或摩纳哥之一；博士学位须于 2023 年 1 月 1 日后获得，或预计于 2026 年 12 月 31 日前获得（2026 轮条件）<br>摩纳哥政府与 ITER 联合设立的有限名额博后奖学金。2026 轮已截止；中国国籍在 2026 轮资格名单内。下一轮时间未确认。 |
 | [诺和诺德基金会博后（牛津/ETH 等合作院校）](https://novonordiskfonden.dk/grant/postdoctoral-fellowships-at-university-of-oxford-2026/)<br><sub>全球 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明<br><sub>整体资助最高 DKK 3.6 百万</sub> | **2027-01-29**<br><sub>🟢 开放申请</sub><br><sub>2027 轮 2026-09-30 开放、2027-01-29 14:00（哥本哈根时间）截止（基金会官网牛津页）；下一轮 2027 年 9 月。</sub> | ❔ | **要求：** 博士学位须在 5 年内获得；需与丹麦机构有关联，前两年在牛津、后一年回丹麦；需有牛津等合作组的研究计划。<br>诺和诺德基金会与牛津等合作院校的博后项目，需与丹麦机构有关联，前两年在合作院校、后一年回丹麦，整体资助最高约 DKK 3.6 百万。2026 轮 1 月 29 日已截止；2027 轮日期据第三方聚合站，基金会官网未核实，请以官网为准。 |
 | [阿尔茨海默病协会研究员奖学金（AARF）](https://www.alz.org/research/for_researchers/grants/types-of-grants/alzheimer_s_association_research_fellowship_-aarf)<br><sub>美国·全球 ｜ 医学/公卫·神经/认知·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>各轮截止日未确认；页面当前标注关闭，下一轮请以 alz.org 当期征集为准。</sub> | ❔ | **要求：** 页面称向美国及国际研究人员开放；须为博士后或同等职位、在学位获得后研究经历少于 10 年，并在非营利学术、医疗或研究机构全职任职；已为助理教授或以上者不符合条件<br>协会为美国慈善机构，须遵守美国法律，个别申请人或国家可能因此不获资助。 |
@@ -169,7 +170,7 @@
 
 <a id="discipline"></a>
 
-## 学科专属信源（45）
+## 学科专属信源（47）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -186,6 +187,7 @@
 | [CS Theory Jobs](https://cstheory-jobs.org/)<br><sub>全球 ｜ 计算机·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 理论计算机科学职位板（由 CATCS 维护）；页面可见的广告以博士后与教职为主，机构分布于美国、加拿大、以色列、阿联酋、韩国、德国等，未见博士生岗位。 |
 | [CVML（计算机视觉与机器学习）邮件列表](https://lists.auth.gr/sympa/info/cvml)<br><sub>全球·欧盟/欧洲 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 有审核的视觉/机器学习列表，用 [Jobs]/[Studies] 标签发布 PhD 招生与岗位。 |
 | [DBWorld](https://dbworld.sigmod.org/)<br><sub>全球 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | — | ❔ | 数据库/数据管理方向的会议、职位邮件列表（已迁至 SIGMOD 托管），常有 PhD 招生帖。 |
+| [EAPLS 程序语言职位列表（博士与博后）](https://eapls.org/items/jobs/list/)<br><sub>欧盟/欧洲·全球 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止日期不同，需逐条查看</sub> | ❔ | **要求：** 各岗位自定，请在每条岗位页核对国际生资格<br>欧洲程序语言与软件工程学会维护的职位板，列表里混有旧帖，先看发布日期和截止日期。 |
 | [EAPLS 职位列表（编程语言与验证）](https://eapls.org/jobs/vacancies/)<br><sub>全球·欧盟/欧洲 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位单独截止，需逐条核对</sub> | ❔ | **要求：** 以各岗位要求为准，博士与博后岗位并存<br>欧洲编程语言与系统协会招聘板，PL/形式化验证博士与博后集中；更新不规律，截止逐条核对。 |
 | [ECOLOG-L](https://esa.org/membership/ecolog/)<br><sub>美国·全球 ｜ 生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 依职位而定；列表中的 PhD 岗位多为 RA/TA 或助研名额<br>美国生态学会（ESA）的 ECOLOG-L 邮件列表，主要用于发布研究生与博后岗位。归档需申请口令访问；订阅无需 ESA 会员。当前职位请查看归档。 |
 | [EconJobMarket（含 predoc/RA）](https://econjobmarket.org/positions)<br><sub>全球 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 经济学求职平台；EEA 与 EconJobMarket 合作，免费发布预博士（pre-doc）与 RA 岗位。该类岗位板块需登录查看，完整列表请直接访问核实。 |
@@ -214,6 +216,7 @@
 | [SfN NeuroJobs](https://www.sfn.org/neurojobs)<br><sub>全球 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 美国神经科学学会职位板。 |
 | [SIGCHI CHI-JOBS 招聘列表](https://sigchi.org/operations/listserv/)<br><sub>全球 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 无需 ACM/SIGCHI 会员身份即可订阅；岗位须经审核发布，具体条件以帖为准。<br>人机交互（HCI）方向的招聘邮件列表，发布博士与博后岗位，无需会员身份即可订阅。 |
 | [SIGdial 机会页（对话系统/NLP）](https://www.sigdial.org/opportunities/)<br><sub>全球 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | 对话系统方向的机会页，持续发布 PhD、博后与教职岗位。 |
+| [SIGIR SIG-IRList（信息检索招聘通告列表）](https://sigir.org/sig-irlist/)<br><sub>全球 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 列表本身无统一国际生条件；各通告条件不同，以具体通告为准。<br>IR/推荐/搜索方向官方招聘列表，需通过 listserv@acm.org 订阅；国际生资格看各通告。 |
 | [古生物学会（Paleontological Society）职位公告](https://www.paleosoc.org/job-announcements)<br><sub>全球·美国 ｜ 地球/环境/海洋·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>公告保留至截止日或最多 3 个月</sub> | ❔ | **要求：** 以博后与博物馆、策展岗为主，博士岗位较少<br>古生物学职位公告，主要是博物馆、大学的博后与策展岗，研究生岗位较少。公告保留至截止日或最多 3 个月。 |
 | [国际政治学会（IPSA）岗位板](https://www.ipsa.org/na/job-offer/all?page=0)<br><sub>全球 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 政治学岗位板，页面当前列出博后岗位（如 The Mark Grosjean Postdoctoral Fellowship in Political Science、MPIfG 的 Postdoctoral Researcher），另有大量教职岗位，需自行筛选。 |
 | [比较生物学会（SICB）职位与奖学金板](https://sicb.org/jobs-and-fellowships/)<br><sub>美国·全球 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 比较生理与进化生物学方向的职位与奖学金入口，博后较多。以美国岗位为主，中国学生需核对工作许可。 |
@@ -230,7 +233,7 @@
 
 <a id="people-channels"></a>
 
-## 个人信源与社交渠道（10）
+## 个人信源与社交渠道（11）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -244,6 +247,7 @@
 | [ES_JOBS_NET 地球与环境科学岗位邮件列表归档](https://mailman.ucar.edu/pipermail/es_jobs_net/2026-June/date.html)<br><sub>全球 ｜ 地球/环境/海洋·工程</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | UCAR 维护的地球科学岗位邮件列表，常转发欧洲 MSCA 博士网络岗位；可订阅并按月浏览归档，逐条核对截止。 |
 | [GAPS-Careers 邮件列表（TRIUMF 核/粒子物理）](https://lists.triumf.ca/pipermail/gaps-careers/2026-May/000049.html)<br><sub>全球·加拿大 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | TRIUMF 维护的 GAPS-Careers 岗位转发列表，覆盖核物理、粒子物理与加速器相关的博后与博士岗，可在列表存档中按月浏览并订阅邮件。原单月存档页会过期，故改为列表主站。 |
 | [RANDOM 邮件列表（概率与随机过程，比萨大学托管）](https://lists.dm.unipi.it/hyperkitty/list/random@lists.dm.unipi.it/)<br><sub>全球 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 欧洲概率圈常用邮件列表，经常转发博士岗位和招生公告（如比萨高师 SNS 博士招生）；可订阅或在归档中搜索 PhD。 |
+| [雷根斯堡大学 HCI 邮件列表汇总](https://hci.uni-regensburg.de/_export/xhtml/mailing_lists)<br><sub>德国·全球 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | 汇总 SIGCHI 及德国、国际 HCI 社区邮件列表，主要用于岗位与征稿公告。 |
 
 <a id="faculty-aggregators"></a>
 

@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 挪威（NO） 信源（25）
+# 挪威（NO） 信源（29）
 
-所有标注了地区 NO 的信源，共 25 条。
+所有标注了地区 NO 的信源，共 29 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 2](no.md#aggregators) · [各国学术招聘门户与机构职位页 2](no.md#national-portals) · [政府与国家级奖学金 1](no.md#gov-scholarships) · [高校旗舰奖学金与资助检索 7](no.md#university-schemes) · [结构化博士项目与研究机构 8](no.md#doctoral-programs) · [博士后奖学金与项目 3](no.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](no.md#fellowships) · [导师招生帖（社交平台个人发布） 1](no.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 2](no.md#aggregators) · [各国学术招聘门户与机构职位页 2](no.md#national-portals) · [政府与国家级奖学金 1](no.md#gov-scholarships) · [高校旗舰奖学金与资助检索 8](no.md#university-schemes) · [结构化博士项目与研究机构 8](no.md#doctoral-programs) · [博士后奖学金与项目 3](no.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](no.md#fellowships) · [科研实习与“曲线入口” 2](no.md#pathways) · [个人信源与社交渠道 1](no.md#people-channels) · [导师招生帖（社交平台个人发布） 1](no.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
@@ -38,7 +38,7 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（7）
+## 高校旗舰奖学金与资助检索（8）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -46,6 +46,7 @@
 | [NTNU 知识技术学院（KT）· 博士/博后岗位页](https://www.ntnu.edu/kt/phd-postdoc-vacancies)<br><sub>挪威 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>随岗位发布，各公告自带截止日期</sub> | ❔ | **要求：** 需硕士学位，入职后须被博士项目录取；国际生资格以各公告为准<br>NTNU 院系级博士/博后岗位列表。挪威博士为带薪岗位，申请通过 Jobbnorge。 |
 | [OsloMet 职位公告页](https://oslomet.no/en/work/job-openings)<br><sub>挪威 ｜ 社会科学/心理·人文/语言·医学/公卫·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止不同；2026 年多数岗位已截止，需在 stilling.forskning.no 按 OsloMet 筛选</sub> | 🟡 | 偏社科、健康与工程；缓存列表较旧，同时在 stilling.forskning.no 按 OsloMet 筛选。 |
 | [卑尔根大学空缺岗位总页（指向 Jobbnorge）](https://www.uib.no/positions)<br><sub>挪威 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | — | 🟡 | **要求：** 所有岗位通过 Jobbnorge 在线投递；需满足 UiB 博士项目录取条件（以具体岗位为准）<br>所有岗位在 Jobbnorge 投递，挪威博士为带薪三年（可附 25% 教学）；缓存日期多为旧，以 Jobbnorge 当前为准. |
+| [南挪威大学（USN）CELECT 中心职位公告](https://www.usn.no/celect/stillingsutlysninger)<br><sub>挪威 ｜ 工程·社会科学/心理·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>各岗位截止不一；搜索中可见的 NTNU 与 UiA 合作 CELECT 博士岗截止已过（4 月、3 月），需到 Jobbnorge 核实当前岗位。</sub> | ❔ | 南挪威大学（USN）系统创新中心 CELECT 为挪威研究型创新中心（SFI），由 USN 牵头，与 NTNU、UiA 等合作。搜索未找到 USN 官网 CELECT 博士/博后公告页，岗位多由合作高校发布在 Jobbnorge 等平台；挪威博士岗为带薪研究员职位，国际生资格以各岗位公告为准。 |
 | [奥斯陆城市大学职位页](https://www.oslomet.no/no/om/ledige-stillinger)<br><sub>挪威 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各 stipendiat 岗位截止日不同，以职位页为准。</sub> | ❔ | **要求：** 按岗位公告，常见要求为硕士或同等学历。<br>挪威 stipendiat（博士研究员）为带薪雇员职位；需看具体岗位公告，常见要求为硕士学位。 |
 | [奥斯陆大学数学与自然科学学院（MN）职位页](https://www.mn.uio.no/om/ledige-stillinger/)<br><sub>挪威 ｜ 数学/统计·物理/天文·化学/材料·生物/生命科学·地球/环境/海洋·计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>页面当前列有多个 PhD 与博后岗位，截止日期从 2026-10-22 到 2026-11-30 不等</sub> | ❔ | MN 学院汇总各系的 PhD 与博后岗位，覆盖数学、计算机、地球科学等。本轮搜索未找到 2026 年仍在招的 MN 岗位。挪威博士岗为带薪雇员，常见 3 年。以官网职位页为准。 |
 | [奥斯陆大学牙医学院（Dentistry）职位页](https://www.odont.uio.no/om/ledige-stillinger/index.html)<br><sub>挪威 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>🟢 开放申请</sub> | ❔ | 页面当前列有多个牙医学院 stipendiat（PhD）岗位，截止日期为 2026 年 10 月 20 日至 29 日。 |
@@ -82,6 +83,23 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Norges Bank 学术项目（NBAP）博士奖学金（宏观/金融经济学）](https://www.norges-bank.no/en/topics/Research/nbap/phd-scholarship/)<br><sub>挪威 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>NOK 200,000/学年</sub> | **2027-04-15**<br><sub>🔜 即将开放</sub><br><sub>官网招聘页称每年 4 月 15 日截止；2026 轮已过，2027 轮以官网为准</sub> | ⛔ | **要求：** 须为挪威国民，或在挪威连续居住满 5 年的 EEA 国民并满足就业/居留条件；须被海外顶尖经济学博士项目录取<br>NBAP 奖学金资格条款（官方 PDF）限挪威国民及在挪威居住的 EEA 国民，中国大陆学生不符合。 |
+
+<a id="pathways"></a>
+
+## 科研实习与“曲线入口”（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [南挪威大学工业博士（Industrial Ph.D. in Systems Engineering）](https://www.usn.no/english/research/our-research/technology/norwegian-industrial-systems-engineering-research-group/research/industrial-ph-d-in-systems-engineering)<br><sub>挪威 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | — | ❔ | **要求：** 需工程或相近领域硕士学位；由企业雇用并在职攻读。<br>挪威南部大学的系统工程工业博士岗位，由企业与大学联合招聘，博士生在职攻读并领取工资，常与挪威研究理事会工业博士计划配套。具体岗位与截止日期以该页面及学校招聘页为准，授课与工作语言为英语。 |
+| [挪威研究理事会 Industrial PhD 计划](https://www.forskningsradet.no/en/call-for-proposals/2026/industrial-phd-scheme-doctoral-projects-industry-2026/?tab=1)<br><sub>挪威 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 滚动<br><sub>🔄 随时可申</sub><br><sub>官网（2026 年 Industrial PhD 征集）称持续受理，符合条件的申请按序处理，资金用尽为止；第三方称 12 月 31 日截止，未在官网确认。</sub> | ❔ | **要求：** 通常由挪威企业与研究机构合作申请，博士岗位由企业招聘；国际生资格官网未明确，需核实<br>挪威研究理事会 2026 年工业博士计划为持续受理，博士岗位由在挪威注册、有经济活动且至少 2 名全职员工的企业招聘，候选人以企业岗位为准；学历、语言与国际生资格官网未明确，需看具体岗位。 |
+
+<a id="people-channels"></a>
+
+## 个人信源与社交渠道（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Simula 研究所（奥斯陆）招聘总页](https://simula.no/careers/job-openings)<br><sub>挪威 ｜ 计算机·人工智能·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | — | ❔ | 常年发布 ML、AI 及科学计算等方向博士/博后岗（挪威全薪雇佣），常见 3 年合同；2026 年上半年批次多已截止，关注新公告。 |
 
 <a id="recruiting-posts"></a>
 

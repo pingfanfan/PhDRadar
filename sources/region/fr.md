@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 法国（FR） 信源（176）
+# 法国（FR） 信源（179）
 
-所有标注了地区 FR 的信源，共 176 条。
+所有标注了地区 FR 的信源，共 179 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 6](fr.md#aggregators) · [各国学术招聘门户与机构职位页 10](fr.md#national-portals) · [政府与国家级奖学金 14](fr.md#gov-scholarships) · [高校旗舰奖学金与资助检索 36](fr.md#university-schemes) · [结构化博士项目与研究机构 80](fr.md#doctoral-programs) · [博士后奖学金与项目 19](fr.md#postdoc-fellowships) · [企业与基金会 Fellowship 2](fr.md#fellowships) · [学科专属信源 1](fr.md#discipline) · [科研实习与“曲线入口” 5](fr.md#pathways) · [个人信源与社交渠道 1](fr.md#people-channels) · [导师招生帖（社交平台个人发布） 1](fr.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 1](fr.md#faculty-aggregators)
+**按分类跳转：** [综合聚合平台 6](fr.md#aggregators) · [各国学术招聘门户与机构职位页 10](fr.md#national-portals) · [政府与国家级奖学金 14](fr.md#gov-scholarships) · [高校旗舰奖学金与资助检索 36](fr.md#university-schemes) · [结构化博士项目与研究机构 82](fr.md#doctoral-programs) · [博士后奖学金与项目 19](fr.md#postdoc-fellowships) · [企业与基金会 Fellowship 3](fr.md#fellowships) · [学科专属信源 1](fr.md#discipline) · [科研实习与“曲线入口” 5](fr.md#pathways) · [个人信源与社交渠道 1](fr.md#people-channels) · [导师招生帖（社交平台个人发布） 1](fr.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 1](fr.md#faculty-aggregators)
 
 <a id="aggregators"></a>
 
@@ -106,7 +106,7 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（80）
+## 结构化博士项目与研究机构（82）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -146,6 +146,7 @@
 | [PSL「古代的工坊」（Les Fabriques de l'Antique）博士合同](https://psl.eu/actualites/appel-candidature-pour-des-contrats-doctoraux-les-fabriques-de-lantique)<br><sub>法国 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>最低税前月薪 €2,100（2025 轮，合同 3 年）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2025 轮 2025 年 5 月 18 日截止；2026 轮博士合同公告未找到</sub> | ❔ | PSL「古代的工坊」博士合同。2025 轮共两名博士合同，5 月 18 日截止；未见 2026 年博士合同公告，是否续设以 PSL 官网为准。国际生资格未核实。 |
 | [QuanG2 格勒诺布尔量子科技博士项目（MSCA COFUND）](https://phdquantumgrenoble.univ-grenoble-alpes.fr/)<br><sub>法国 ｜ 物理/天文·工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-09-07**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 秋批次申请已于 2026 年 9 月 7 日截止，最终结果 12 月 7 日公布；下一批次未见公布</sub> | ✅ | QuanG2 格勒诺布尔 MSCA COFUND 带薪博士项目，学制 36 个月，可申请最多 10,000 欧元交流与会议经费；需硕士或同等学位，须符合 MSCA 流动性规则（法国居住或工作超过 12 个月者不符合）。2026 秋批次已截止。 |
 | [Quantalps（格勒诺布尔）博士项目 2026 秋季批次](https://quantalps.univ-grenoble-alpes.fr/education/phd-programs/automn-2026-phd-program-1783596.kjsp)<br><sub>法国 ｜ 物理/天文·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>税前 2,300 欧元（QuantAlps Labex 与 QuanTEdu-France），QuanG2 为 2,400 欧元；页面未注明按月</sub> | **2026-09-07**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 秋季批次申请期 2026-06-08 至 2026-09-07（已过）；后续批次未见公告。</sub> | ✅ | **要求：** 需硕士学位或在 2026-09-07 前取得；官方页未明确国籍条件。<br>阿尔卑斯地区量子科技博士项目批次页，博士生为带薪雇员；后续批次通常在此公布。 |
+| [Sciences Po 博士学费与资助页](https://www.sciencespo.fr/ecole-recherche/en/admissions/phd/phd-tuition-fees-funding/)<br><sub>法国 ｜ 社会科学/心理·人文/语言·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>€2,100/月（毛薪，合同博士生）</sub> | — | ❔ | 官网称自 2025–26 学年起全体博士生免学费（页面未按国籍限制）；博士合同为雇佣合同，月毛薪约 €2,100，需另缴 CVEC；国际生能否获得合同以官网招生说明为准。 |
 | [Sciences Po 经济学博士（三年带薪博士合同）](https://www.sciencespo.fr/ecole-doctorale/en/content/doctorate-economics.html)<br><sub>法国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | Sciences Po 经济学博士合同：检索未见 2027 轮公告，以官网为准；第三方站点称税前月薪约 2,100 欧元（未经官网核实）。 |
 | [Université Gustave Eiffel 博士课题（外部候选人入口）](https://theses.univ-eiffel.fr/pages_candidats_externes/index.php?lang=en)<br><sub>法国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-04-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 UGE 提交截止 5 月 20 日、面试 6 月 3 日，已结束；2027 年按学校日历发布</sub> | ❔ | **要求：** 硕士（或即将取得）；先选定实验室课题并联系导师，再经在线表格申请<br>外部候选人从实验室发布的课题中选题，先联系导师，再通过课题页在线表格申请。页面称博士合同税前约 2300 欧元/月、3 年（暂定），以具体课题为准。 |
 | [Université Paris-Saclay 博士项目与资助总览](https://www.universite-paris-saclay.fr/recherche/doctorat-et-hdr/programmes-doctoraux-et-financements)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各项目与各 Graduate School 轮次不同，以当年公告为准；页面本身不列出固定截止日期。</sub> | ❔ | **要求：** 中国学生需看具体项目的国籍与学历条件。<br>学校官方博士资助总览页，区分定向项目（国际 ADI、气候转型等）和挂靠 Graduate School 的项目；页面自述列表可能不完整，适合用来找到具体 ED 与项目名称，再到 ADUM 或各 Graduate School 页面核对岗位。 |
@@ -185,6 +186,7 @@
 | [索邦大学 ED 515（复杂生命系统）博士合同](https://ed515.sorbonne-universite.fr/en/financements/doctoral-contract)<br><sub>法国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>未找到 2026 年 ED515 合同征集；历史轮次通过 ADUM 申请，结果约 6 月公布（以 ED515 官网为准）</sub> | ❔ | 三年全职博士合同；2026 年征集信息与国际生资格以 ED515 官网与 ADUM 为准。 |
 | [索邦大学 ED 法国与比较文学博士合同](https://www.sorbonne-universite.fr/ecoles-doctorales/litteratures-francaises-et-comparee)<br><sub>法国 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-04-26**<br><sub>⏸ 本轮已截止</sub> | ❔ | 索邦大学 ED 019 法国与比较文学博士合同，合同期 3 年，名额有限，通常 3 月至 4 月招生。2026 轮已过，2027 年具体公告以官网为准。 |
 | [索邦大学博士资助总览](https://www.sorbonne-universite.fr/recherche-et-innovation/le-doctorat/candidature-et-admission/le-financement)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>€2,300/月（税前，2026 年 1 月起）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各博士学院每年组织竞聘，多在 3–4 月（2024 年春季 LLSHS 征集为 3 月初开放、4 月底截止）；2027 轮未公布</sub> | ❔ | **要求：** 需硕士学位；经学院录取注册的外国籍学生可申请合同；每个课题仅接收一名候选人，需先与导师联系<br>索邦大学博士合同总览页：各博士学院于春季组织竞聘，合同为 3 年；外籍学生资格与薪资以官网和各学院公告为准。 |
+| [萨瓦-勃朗峰大学（USMB）博士学院资助征集](https://www.univ-smb.fr/college-doctoral/en/doctorat/candidater-au-concours/)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-05-18**<br><sub>⏸ 本轮已截止</sub> | ❔ | **要求：** 须先联系 USMB 拟定导师；项目由 USMB 教师指导，并在校内研究单位完成<br>学院每年征集资助型博士课题，限 USMB 教师指导、在校内单位完成，需先联系拟定导师。官网页面所见为 2025 轮（2025-05-19 提交）；2026 轮公告未确认，请以官网公告为准。国际生资格未核实。 |
 | [蒙彼利埃大学 IDIL 博士招聘](https://idil.edu.umontpellier.fr/en/tag/doctorat)<br><sub>法国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年招生为 12 个三年期博士合同，官网 2026-04-08 公告；2027 轮未公布，以官网为准。</sub> | ❔ | **要求：** 需满足 IDIL 与各课题的硕士学历与语言要求。<br>IDIL 研究生项目的博士招聘页，每轮约 12 个带资助的岗位。 |
 | [里尔大学 ED ENGSYS · 博士申请与选拔页](https://egengsys.univ-lille.fr/en/before-phd/application-to-a-phd)<br><sub>法国 ｜ 工程·计算机·人工智能·物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-05-07**<br><sub>⏸ 本轮已截止</sub> | ❔ | 里尔大学工程与系统博士学院申请流程，合同 3 年。境外学位需与法国硕士等值，先与拟定导师联系。 |
 | [里昂 ED 340 BMIC 博士合同竞赛](https://edbmic.universite-lyon.fr/ecoles-doctorales/ed-340-bmic/site-anglais/navigation/applying-to-bmic-/doctoral-contract-exam/)<br><sub>法国 ｜ 生物/生命科学·医学/公卫·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-04-24**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 4 月 24 日截止（已过）；2025 轮为 6 月 12 日；2027 轮以官网为准</sub> | ✅ | **要求：** Master 2 或同等学位（近五年内取得）；须计划在 BMIC 研究团队内完成博士课题；10 分钟课题陈述加 10 分钟答辩，可用法语或英语<br>里昂 ED 340 BMIC 博士合同竞赛（带薪合同）：官网称面向持 Master 2 或同等学位（近五年内取得，法国或外国学位均可）的所有候选人，须计划在 BMIC 研究团队内完成博士课题，申请以电邮提交至 bmic@ens-lyon.fr。2026 轮截止 4 月 24 日已过；2025 轮为 6 月 12 日，2027 轮以官网为准。 |
@@ -219,12 +221,13 @@
 
 <a id="fellowships"></a>
 
-## 企业与基金会 Fellowship（2）
+## 企业与基金会 Fellowship（3）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [ANRS MIE 博士/博后研究分配（Allocations de recherche，2026 规则）](https://anrs.fr/wp-content/uploads/2026/06/reglement-allocations-de-recherche-2027-1.pdf)<br><sub>法国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | **2026-03-25**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮截止 2026-03-25；2027 规则已于 2026 年 6 月发布，具体开放与截止日以当期公告为准</sub> | ❔ | **要求：** 课题须属传染病方向；博士须为法国博士学校候选人（据 2024 规则）；须隶属法国科研机构；申请材料为英文<br>ANRS-MIE 支持传染病方向博士与博后分配，2027 年规则已于 2026 年 6 月发布，可关注下一轮。 |
 | [法国 Eiffel 卓越奖学金 2027 校内申请说明（巴黎大学）](https://u-paris.fr/language/en/eiffel-excellence-scholarship-2027/)<br><sub>法国 ｜ 生物/生命科学·数学/统计·计算机·工程·经济/金融·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>博士生每月津贴 2000 欧元；获奖者免除巴黎城市大学学费（页面：monthly allowance of €2 000）。</sub> | **2026-11-02**<br><sub>🟢 开放申请</sub><br><sub>2027–28 学年校内申请 2026 年 11 月 2 日 23:59（巴黎时间）截止；须由法国高校提交，学生不可直接向 Campus France 投递。</sub> | ❔ | Eiffel 2027–28 学年博士申请已开放，校内截止 2026 年 11 月 2 日；学生需通过法国高校提交，不能直接向 Campus France 投递。资助细节与中国大陆申请资格仍以官网为准。 |
+| [法国生态与进化学会（SFE²）资助与奖学金栏目](https://sfecologie.org/category/bourses)<br><sub>法国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 半奖/部分 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 学会资助栏目，多为小额野外研究资助，并非全额奖学金。 |
 
 <a id="discipline"></a>
 

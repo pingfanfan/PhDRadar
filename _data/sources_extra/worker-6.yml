@@ -463,6 +463,30 @@
   verify_method: page
   page_evidence: Each student at Mila is supervised by one of our affiliated professors.
   verified: 2026-10-19
+- id: riken-aip-student-recruitment
+  name: 理研先进智能项目（RIKEN AIP）海外学生招收
+  url: https://aip.riken.jp/?p=15125
+  category: doctoral-programs
+  regions:
+  - JP
+  disciplines:
+  - ai
+  funding: info
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  deadline: unknown
+  deadline_note: 搜索结果未显示截止，需在官网核实。
+  status: ongoing
+  requirements: AIP 海外合作计划面向在读硕博生，需母校许可并与 AIP 研究者合作（赴日 3–12 个月）；IPA 项目需母校与理研签有合作协议。
+  notes: 官网称欢迎海外硕博生与导师合作。两条路径：AIP 合作（赴日 3–12 个月）；IPA（非日本籍博士生，需母校与理研合作）。学位通常由合作大学授予，无统一截止。
+  verify_method: page
+  page_evidence: The AIP Center is seeking students at the master’s or PhD level from overseas and their supervisors to collaborate with us.
+  verified: 2026-10-20
 - id: acl-wiki-employment-postdoc
   name: ACL Wiki 就业与博后信息
   url: https://www.aclweb.org/aclwiki/Employment_opportunities%2C_postdoctoral_positions%2C_summer_jobs
@@ -687,6 +711,30 @@
   verify_method: page
   page_evidence: 'Application deadline: 30 Oct 2026'
   verified: 2026-10-18
+- id: utoronto-molecular-genetics-intl-phd
+  name: 多伦多大学分子遗传学系国际生博士申请页
+  url: https://moleculargenetics.utoronto.ca/international-students
+  category: doctoral-programs
+  regions:
+  - CA
+  disciplines:
+  - bio
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: varies
+  deadline: 2026-11-15
+  deadline_note: 国际生页写明仅考虑 11 月 15 日与 1 月 15 日两轮；系截止日期页写国际生 9 月入学最晚 1 月 15 日，两页略有出入，以当年官网为准；资助条款未见
+  status: open
+  requirements: 国际申请者须在提交申请前找到系内导师担保，并由导师提交国际生担保表，否则申请不予审核；页面建议国际生申请直博 PhD。
+  notes: 页面写明国际生每年 11 月 15 日与 1 月 15 日两轮截止（以官网当年公告为准）；直博申请无需先获导师同意。资助条款未见，以学院页面为准。
+  verify_method: page
+  page_evidence: Sponsorship of PhD applicants does not imply a guaranteed spot.
+  verified: 2026-10-20
 - id: imprs-cbp-call-for-applications
   name: IMPRS-CBP 马普国际研究生院招生页（法兰克福/美因茨）
   url: https://imprs-cbp.mpg.de/call-for-applications
@@ -2558,6 +2606,31 @@
   verify_method: page
   page_evidence: Queen’s University has a minimum guarantee of funding for full-time doctoral students of $25,000 per year for each of the first four years of full-time study.
   verified: 2026-10-19
+- id: queens-cs-finances
+  name: 皇后大学计算机系研究生经费说明
+  url: https://www.cs.queensu.ca/graduate/finances/
+  category: university-schemes
+  regions:
+  - CA
+  disciplines:
+  - cs
+  funding: mixed
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: partial
+  stipend: 校方通用页称博士第 1–4 年最低保障 $20,000 CAD/年（以 offer 为准）
+  deadline: varies
+  deadline_note: 各院系/批次截止不同，以官网公告为准。
+  status: ongoing
+  requirements: 国际生条件以官网为准。
+  notes: 计算机系页面（2026 年 2 月更新）称研究型硕博士的基本学费和生活费在学业进展满意的前提下有保障，具体最低金额以 offer letter 为准；资助政策由研究生院统一制定。校内奖学金主要面向本国学生，国际博士自 2021 年起学费与本国生相同；Queen's 与 CSC 有博士合作协议。
+  verify_method: page
+  page_evidence: Financial support for the PhD program is provided for a maximum of 4 years.
+  verified: 2026-10-20
 - id: dal-psych-financial-information
   name: 达尔豪斯大学心理与神经科学系研究生资助信息
   url: https://dal.ca/faculty/science/psychology_neuroscience/programs/graduate-programs/financial-information.html
@@ -3272,6 +3345,28 @@
   verify_method: page
   page_evidence: Positions are fully funded including salary and travel/publication costs, salaries follow the host universities’ pay scales.
   verified: 2026-10-19
+- id: riken-researcher-26-372
+  name: 理研（RIKEN）研究员/博士后公开招聘 26-372
+  url: https://www.riken.jp/en/careers/researchers/20260520_4/index.html
+  category: postdoc-fellowships
+  regions:
+  - JP
+  disciplines:
+  - all
+  funding: position
+  levels:
+  - postdoc
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: unknown
+  deadline_note: 截止日以公告为准。
+  notes: 理研公开招聘研究员或博士后（编号 26-372，2026 年 5 月发布）。研究室与领域、是否接受海外申请者需在公告中确认。
+  verify_method: page
+  page_evidence: Seeking a Research Scientist or a Postdoctoral Researcher at AI Security and Privacy Team (26-372) | RIKEN
+  verified: 2026-10-20
 - id: mpi-inf-computer-graphics-offers
   name: 马普信息学所 视觉计算与人工智能部门招聘页（原计算机图形学部门）
   url: https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence/offers
@@ -3391,6 +3486,30 @@
   verify_method: page
   page_evidence: 'Positions available: Postdoctoral Fellow & Graduate Student'
   verified: 2026-10-19
+- id: scilifelab-ddls-opportunities
+  name: DDLS 研究学院职位入口（SciLifeLab / KAW 资助）
+  url: https://www.scilifelab.se/data-driven/ddls-opportunities/
+  category: national-portals
+  regions:
+  - SE
+  disciplines:
+  - bio
+  - med
+  funding: position
+  levels:
+  - phd
+  cn_eligible: check
+  access:
+  - web
+  language: en
+  coverage: salary
+  deadline: varies
+  deadline_note: 各职位截止日不同，后续批次以页面为准。
+  status: ongoing
+  notes: DDLS 研究学院 2026 年扩招 25 名学术博士和 7 名产业博士，覆盖细胞与分子生物学、进化、精准医学、感染生物学。职位发布在各高校，此页为统一入口；瑞典博士通常带薪，国际生资格需核实。
+  verify_method: page
+  page_evidence: All vacancies within the DDLS program are published on this page.
+  verified: 2026-10-20
 - id: kyoto-gfls-dc-lab-list
   name: 京都大学生命科学研究科（GFLS）博士招生指南与课题组名单
   url: https://www.lif.kyoto-u.ac.jp/e/wp-content/uploads/sites/2/2024/09/00-DC-Admission-Guidelines-2025-2026DC-Lab-List.pdf

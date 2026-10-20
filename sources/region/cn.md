@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 中国内地（CN） 信源（61）
+# 中国内地（CN） 信源（62）
 
-所有标注了地区 CN 的信源，共 61 条。
+所有标注了地区 CN 的信源，共 62 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 5](cn.md#aggregators) · [各国学术招聘门户与机构职位页 1](cn.md#national-portals) · [高校旗舰奖学金与资助检索 11](cn.md#university-schemes) · [结构化博士项目与研究机构 22](cn.md#doctoral-programs) · [博士后奖学金与项目 11](cn.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](cn.md#fellowships) · [个人信源与社交渠道 4](cn.md#people-channels) · [导师招生帖（社交平台个人发布） 3](cn.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 2](cn.md#faculty-aggregators) · [中文社区与官方服务 1](cn.md#chinese-community)
+**按分类跳转：** [综合聚合平台 5](cn.md#aggregators) · [各国学术招聘门户与机构职位页 1](cn.md#national-portals) · [高校旗舰奖学金与资助检索 12](cn.md#university-schemes) · [结构化博士项目与研究机构 22](cn.md#doctoral-programs) · [博士后奖学金与项目 11](cn.md#postdoc-fellowships) · [企业与基金会 Fellowship 1](cn.md#fellowships) · [个人信源与社交渠道 4](cn.md#people-channels) · [导师招生帖（社交平台个人发布） 3](cn.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 2](cn.md#faculty-aggregators) · [中文社区与官方服务 1](cn.md#chinese-community)
 
 <a id="aggregators"></a>
 
@@ -32,12 +32,13 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（11）
+## 高校旗舰奖学金与资助检索（12）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [HKUST(GZ) 研究生助学金（PGS）说明](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees)<br><sub>中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>CNY 15,000/月，全日制博士最长 4 年（官网 Scholarships & Fees 页）</sub> | 各项目不同<br><sub>无单独申请，全日制博士录取后自动参评，按年发放；以 PGS 条款为准</sub> | ✅ | **要求：** 全日制博士录取生；续领需学业与研究进展、英语及 GTA 表现达标<br>官网费用页：PGS 为全日制研究生助学金，博士每月 CNY 15,000、最长 4 年；PGS 持有者全日制研究生学费为每学年 CNY 40,000（2027/28 入学起为 CNY 60,000）。 |
 | [NYU 上海校区博士奖学金（神经科学上海轨道）](https://shanghai.nyu.edu/node/18058)<br><sub>中国内地 ｜ 神经/认知·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>📋 持续更新</sub><br><sub>随纽约大学神经科学项目的申请周期处理，截止需向上海校区核实。</sub> | ❔ | 上海校区的博士轨道，奖学金覆盖学费、杂费与年度津贴（据搜索摘要），适合希望在国内就读并获海外学位的同学。 |
+| [上海交通大学李政道研究所博士后招聘](https://tdli.sjtu.edu.cn/en/join-us/postdocs)<br><sub>中国内地 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 未公布<br><sub>📋 持续更新</sub><br><sub>官网招聘页为准；搜索到的外部列表截止日均已过</sub> | ❔ | **要求：** 需博士学位；提交求职信、CV、研究陈述、发表列表及至少 3 封推荐信<br>上海交通大学李政道研究所全职有薪博后。理论粒子与核物理/宇宙学方向岗位截止 2026-12-20，其他岗位以各岗位说明为准；申请前请核对 tdli.sjtu.edu.cn。 |
 | [利兹大学 × 南方科技大学联合博士项目（Split-Site）](https://environment.leeds.ac.uk/see-research-degrees/doc/leeds-sustech-split-site-phd-programme-1/)<br><sub>英国·中国内地 ｜ 地球/环境/海洋·生态/进化·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | — | ❔ | 利兹大学与南方科技大学联合培养博士：第一年在利兹，中间约两年九个月在深圳南科大，最后三个月回利兹完成论文；要求英国二等一荣誉学位，IELTS 6.5。南科大提供覆盖学费及部分生活费的资助；页面未说明国籍限制，需确认。 |
 | [加泰罗尼亚理工大学（UPC）CSC 博士研修项目](https://www.upc.edu/sri/en/cscupcscholarships/copy_of_csc-upc-scholarships-for-full-phd)<br><sub>西班牙·中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-03-25**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 3 月 25 日为索取 UPC 官方邀请函的截止日，已过；页面未给出下一轮时间。</sub> | ✅ | **要求：** 须为中国公民并已在国内高校注册博士；需取得 UPC 无条件邀请函（unconditional invitation letter）；需满足 UPC 入学要求（含英语水平）。<br>UPC-CSC 访问博士研修项目：每年最多 30 名已在国内高校注册博士的中国学生，在 UPC 研修最长 24 个月；需先获 UPC 教授接收并取得 UPC 邀请函，再向 CSC 申请资助。 |
 | [南方科技大学－澳门大学全额奖学金联合培养博士项目](https://ese.sustech.edu.cn/Wap/Content/index/nid/151/id/374.html?language=2)<br><sub>中国内地·中国澳门 ｜ 工程·化学/材料·物理/天文·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 滚动<br><sub>🔄 随时可申</sub><br><sub>检索到的页面为 2016 年旧版，当前批次截止未核实</sub> | ❔ | **要求：** 托福不低于 550 或雅思不低于 6.0；本科 GPA 3.5 或硕士 GPA 3.0 以上；需经南科大与澳门大学联合面试<br>南科大与澳门大学全额奖学金联合培养博士，前约 1.5 年在澳大修博士课程，其余研究在南科大完成，学位由澳大授予；旧页面的津贴数字异常，未采用，需向南科大确认。 |

@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 瑞典（SE） 信源（65）
+# 瑞典（SE） 信源（70）
 
-所有标注了地区 SE 的信源，共 65 条。
+所有标注了地区 SE 的信源，共 70 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 3](se.md#aggregators) · [各国学术招聘门户与机构职位页 3](se.md#national-portals) · [政府与国家级奖学金 1](se.md#gov-scholarships) · [高校旗舰奖学金与资助检索 13](se.md#university-schemes) · [结构化博士项目与研究机构 28](se.md#doctoral-programs) · [博士后奖学金与项目 5](se.md#postdoc-fellowships) · [企业与基金会 Fellowship 3](se.md#fellowships) · [学科专属信源 5](se.md#discipline) · [科研实习与“曲线入口” 1](se.md#pathways) · [个人信源与社交渠道 1](se.md#people-channels) · [导师招生帖（社交平台个人发布） 1](se.md#recruiting-posts) · [选校与申请辅助工具 1](se.md#tools)
+**按分类跳转：** [综合聚合平台 3](se.md#aggregators) · [各国学术招聘门户与机构职位页 5](se.md#national-portals) · [政府与国家级奖学金 1](se.md#gov-scholarships) · [高校旗舰奖学金与资助检索 14](se.md#university-schemes) · [结构化博士项目与研究机构 28](se.md#doctoral-programs) · [博士后奖学金与项目 7](se.md#postdoc-fellowships) · [企业与基金会 Fellowship 3](se.md#fellowships) · [学科专属信源 5](se.md#discipline) · [科研实习与“曲线入口” 1](se.md#pathways) · [个人信源与社交渠道 1](se.md#people-channels) · [导师招生帖（社交平台个人发布） 1](se.md#recruiting-posts) · [选校与申请辅助工具 1](se.md#tools)
 
 <a id="aggregators"></a>
 
@@ -22,11 +22,13 @@
 
 <a id="national-portals"></a>
 
-## 各国学术招聘门户与机构职位页（3）
+## 各国学术招聘门户与机构职位页（5）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [DDLS 研究学院职位入口（SciLifeLab / KAW 资助）](https://www.scilifelab.se/data-driven/ddls-opportunities/)<br><sub>瑞典 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各职位截止日不同，后续批次以页面为准。</sub> | ❔ | DDLS 研究学院 2026 年扩招 25 名学术博士和 7 名产业博士，覆盖细胞与分子生物学、进化、精准医学、感染生物学。职位发布在各高校，此页为统一入口；瑞典博士通常带薪，国际生资格需核实。 |
 | [KTH 皇家理工 Vacancies](https://www.kth.se/lediga-jobb?l=en)<br><sub>瑞典 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ✅ | **要求：** 博士岗位为受雇员工并领取月薪；岗位分批公布，需联系所在项目负责人<br>筛选 “Doctoral students”。 |
+| [SciLifeLab 职位页（瑞典）](https://www.scilifelab.se/careers/)<br><sub>瑞典 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | SciLifeLab 职位页（瑞典）。PhD 岗位实际挂在斯德哥尔摩大学、乌普萨拉大学、KTH、卡罗琳斯卡等合作高校，以带薪雇员形式招聘。页面为汇总列表，需到各校招聘系统申请并核对截止日期。 |
 | [Varbi（瑞典高校招聘系统）](https://varbi.com/en/)<br><sub>瑞典 ｜ 全学科</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | **要求：** 博士岗位为受雇合同；国际申请人须按岗位核实工作许可；学位与语言要求以各岗位公告为准<br>瑞典多数大学（隆德、乌普萨拉、斯德哥尔摩大学等）用 Varbi 发布 “Doctoral student” 岗位；也可直接看各校 vacancies 页面。 |
 | [卡罗林斯卡学院职位空缺](https://ki.se/en/vacancies)<br><sub>瑞典 ｜ 医学/公卫·神经/认知·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 博士岗位需满足通用要求（硕士或同等学历，或 240 ECTS 含 60 ECTS 高阶课程）及专项要求；英语需达到瑞典高中 English B 水平；须按 KI 入学指引认证资格。国籍限制未见<br>KI 官方职位空缺页，列出博士与博士后等在招岗位及各自截止日期（如 PhD Position Translational Neuroscience，2026-10-21），可按部门筛选。 |
 
@@ -40,7 +42,7 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（13）
+## 高校旗舰奖学金与资助检索（14）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -51,6 +53,7 @@
 | [Umeå 大学人文学部博士生岗位公告](https://www.umu.se/humanistisk-fakultet/utbildning/doktorananstallningar/)<br><sub>瑞典 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年春季征集截止 3 月 6 日已关闭；下一轮以学部页面为准。</sub> | ❔ | **要求：** 非欧盟申请人需确认资格；申请需在 Varbi 系统注册，具体以各岗位公告为准。<br>人文学部按学科发布博士生（doktorandanställning）带薪雇员岗位，约 4 年。2026 年春季征集（截止 3 月 6 日）已关闭，搜索未见更晚截止的岗位；下一轮以页面为准，非欧盟申请人需确认资格。 |
 | [Örebro 大学职位公告（博士岗位入口）](https://oru.se/english/career/available-positions/)<br><sub>瑞典 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 瑞典博士岗位通常为带薪雇员（doctoral employment）。2026 年已发布的博士岗位截止日多在 6–9 月，目前基本关闭；关注 2027 年春季入学的新公告，并核实该岗对非欧盟申请人的工作许可要求。 |
 | [乌普萨拉大学招聘页](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies)<br><sub>瑞典 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止日不同，招聘页按岗位发布</sub> | ❔ | **要求：** 博士生与博后岗位为带薪受雇身份，具体学历与语言要求以各岗位公告为准。<br>各系带薪博士生与博后岗位统一在此发布，按岗位截止；国际生资格需看具体岗位公告。 |
+| [乌普萨拉大学法学院带薪博士岗位](https://www.uu.se/en/department/law/research/doctoral-education/become-a-doctoral-student)<br><sub>瑞典 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>上一轮 2026 年 3 月 1 日截止已过；通常每年 12 月发布下一轮（待官网确认）</sub> | ❔ | **要求：** 需在瑞典取得法学学士或硕士，或在国外取得相当法学知识；需英语或瑞典语达标<br>乌普萨拉大学法学院带薪博士岗（雇佣合同）。上一轮 2026 年 3 月 1 日截止已过，通常 12 月发布下一轮。招聘页未写国籍限制，需以官网为准。 |
 | [卡罗琳斯卡学院可申请职位列表（博士岗）](https://ki.se/en/about-ki/jobs-at-ki/available-positions-at-ki)<br><sub>瑞典 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 滚动<br><sub>📋 持续更新</sub><br><sub>岗位持续发布，各有截止日</sub> | ❔ | **要求：** 需高级水平学位；通过 Varbi 申请，截止后不能补交材料<br>KI 全部在招职位列表（页面显示共 102 条，首页 25 条），其中包含多个博士岗位，截止日期各不相同，需逐一核实。 |
 | [哥德堡大学全校职位页（博士岗）](https://gu.se/en/work-at-the-university-of-gothenburg/vacancies)<br><sub>瑞典 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>全校职位页随时更新，按截止日期筛选</sub> | 🟡 | 瑞典博士为带薪雇员（四年合同含少量教学），在全校 Vacancies 页按截止日期筛选；非欧盟申请者确认工作许可与英语成绩。 |
 | [斯德哥尔摩大学计算机与系统科学系（DSV）职位页](https://dsv.su.se/english/divisions/department-of-computer-and-systems-sciences/about-the-department/work-with-us)<br><sub>瑞典 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>页面最近列出的两个岗位（能源市场设计 2026-02-27、数据科学 2026-04-15）均已截止；SU 通常春、秋学期各招一轮，新岗位以本页及 SU 招聘系统为准</sub> | ❔ | **要求：** 需硕士或同等学历<br>瑞典博士为带薪雇员，按项目申请；DSV 的 CS/AI 方向岗位在本页发布。 |
@@ -72,7 +75,7 @@
 | [KTH 能源与环境系统博士培养](https://www.energy.kth.se/education/doctoral-studies/phd-studies-in-energy-and-environmental-systems-1.942695)<br><sub>瑞典 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>岗位分九次/年发布，截止日各不相同；博士为受雇员工，领取月薪</sub> | ❔ | **要求：** 需申请 KTH 空缺博士岗位，学历要求以岗位为准。<br>页面为能源技术系博士培养页，列出研究方向（热能存储、燃料电池、生物燃料、热泵等）及博士课程联系方式与表格；页面未列申请条件、薪酬或截止日期。 |
 | [KTH 车辆、海洋与航空航天工程博士项目](https://kth.se/en/sci/forskning/forskarutbildning/doktorsprogrammet-i-farkost-och-flygteknik-1.1304809)<br><sub>瑞典 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>无统一申请期；只能申请 KTH 招聘平台发布的在招岗位</sub> | ❔ | 博士生通常为带薪岗位，只有在 KTH 招聘平台发布的岗位才能申请，需订阅提醒。 |
 | [PRISMAS 同步辐射方法博士项目（MAX IV，瑞典隆德）](https://www.maxiv.lu.se/prismas)<br><sub>瑞典·欧盟/欧洲 ｜ 物理/天文·化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>📋 持续更新</sub><br><sub>首轮招生已公布，2026 年是否有新一轮未能确认，需到项目页查看</sub> | ❔ | Horizon Europe MSCA COFUND 资助的同步辐射方法博士项目，含隆德 MAX IV 必修访学。前两轮已关闭，第三轮据官网 7–8 月开放（约 5 个名额）；本轮是否已截止未能确认，请以 maxiv.lu.se/prismas 为准。MSCA 类项目常有国籍/居留限制，中国学生需逐条核对。 |
-| [乌普萨拉大学 · 进化与生态遗传学博士岗 (UFV-PA 2026/2654)](https://uu.varbi.com/en/what:job/jobID:967249/)<br><sub>瑞典 ｜ 生态/进化·生物/生命科学</sub> | 博士 | 带薪岗位 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>2026 年 11 月 1 日截止，入职时间 2027 年内灵活安排；全职 4 年，按瑞典大学博士工资表聘用，以岗位公告为准。</sub> | ❔ | **要求：** 需硕士学位（进化生物学、生态学、生物信息学或相近专业）；岗位公告未列国籍限制，国际生是否满足需以公告为准。<br>乌普萨拉大学生态与遗传系招聘博士生，课题涉及进化与生态遗传学，偏定量遗传/群体基因组/实验进化。申请需在 uu.varbi.com 提交，材料含 2 页求职信、CV、硕士证书与成绩单、两位推荐人。联系人 David Berger。 |
+| [乌普萨拉大学 · 进化与生态遗传学博士岗 (UFV-PA 2026/2654)](https://uu.varbi.com/en/what:job/jobID:967249/)<br><sub>瑞典 ｜ 生态/进化·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>2026 年 11 月 1 日截止，入职时间 2027 年内灵活安排；全职 4 年，按瑞典大学博士工资表聘用，以岗位公告为准。</sub> | ❔ | **要求：** 需硕士学位（进化生物学、生态学、生物信息学或相近专业）；岗位公告未列国籍限制，国际生是否满足需以公告为准。<br>乌普萨拉大学生态与遗传系招聘博士生，课题涉及进化与生态遗传学，偏定量遗传/群体基因组/实验进化。申请需在 uu.varbi.com 提交，材料含 2 页求职信、CV、硕士证书与成绩单、两位推荐人。联系人 David Berger。 |
 | [乌普萨拉大学和平与冲突研究系博士项目](https://www.uu.se/en/department/peace-and-conflict-research/study/phd-programme-in-peace-and-conflict-research)<br><sub>瑞典 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 3 月 25 日截止的一轮已结束；2027 轮未见公告，通常年初发布</sub> | ❔ | 乌普萨拉和平与冲突研究系：博士生是大学雇员，有薪水，项目一般 4 年（含约 1 年课程）。系里每年发布 1–2 轮全额资助岗位。国际申请者资格未在已核实页面明确，需以招聘公告为准。 |
 | [乌普萨拉大学数学系博士岗位（2026 年批次新闻）](https://www.uu.se/en/department/mathematics/news/archive/2026-02-18-four-open-phd-positions)<br><sub>瑞典 ｜ 数学/统计·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年数学系批次 3 月 16 日截止（已过）；下一轮通常 2 月前后公告，2027 年以官网为准</sub> | ❔ | **要求：** 需满足岗位公告的学位与英语要求；录取通过带薪博士生岗位完成<br>乌普萨拉数学系每年约 2 月公布带薪博士岗位。2026 年 3 月截止已过，下一轮关注次年 2 月公告。 |
 | [乌普萨拉大学数学系博士招生](https://www.uu.se/en/department/mathematics/study/phd-studies)<br><sub>瑞典 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮截止已过；2027 轮以乌普萨拉大学官网公告为准。</sub> | ❔ | **要求：** 需硕士学位或即将完成的硕士论文；具体资格以各岗位公告为准<br>数学博士岗多在春季集中招聘（约 3 月截止）。 |
@@ -95,12 +98,14 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（5）
+## 博士后奖学金与项目（7）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Knut and Alice Wallenberg 基金会博士后项目日历（Program for Mathematics 等）](https://kaw.wallenberg.org/en/node/245)<br><sub>瑞典·全球 ｜ 数学/统计·物理/天文·生物/生命科学·工程</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2026-10-06**<br><sub>⏸ 本轮已截止</sub><br><sub>页面写明数学项目申请截止延长至 2026 年 10 月 6 日下午 1 点前；已过。2027 轮以 KAW 官网公告为准。</sub> | ❔ | **要求：** 面向瑞典境外研究者（据 KAW 数学项目页标题）；学历、语言等其他要求以官网公告为准<br>瓦伦堡基金会博后奖学金（数学项目，面向瑞典境外研究者，与瑞典皇家科学院合作）。2026 年截止已过且每年重复，2027 轮待官方公告。 |
 | [NNF-IAS 健康与可持续发展研究员（北欧四所高等研究院联合博后）](https://www.swedishcollegium.se/fellowships/nnf-ias-fellowship-programme-on-health-and-sustainability)<br><sub>瑞典·丹麦·芬兰·挪威 ｜ 医学/公卫·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-10-01**<br><sub>⏸ 本轮已截止</sub><br><sub>第一轮截止 2026-10-01 已过；2027 年 9 月 1 日起入职，下一轮时间以官网为准。</sub> | ❔ | **要求：** 面向任何国籍、各学科的研究者；博士毕业后有 2–10 年工作经验（博士阶段不计）；申请截止前两年内在优先国家居住或主要工作超过 12 个月者不符合条件。<br>北欧四所高等研究院（丹麦 AIAS、挪威 CAS、芬兰 HCAS、瑞典 SCAS）联合的跨学科研究员项目，主题为健康与可持续发展，全职有薪、需迁往北欧宿主研究所工作。 |
+| [SciLifeLab DDLS 数据驱动生命科学博士后](https://www.scilifelab.se/career/postdoctoral-fellowships-in-data-driven-life-science-ddls/)<br><sub>瑞典 ｜ 生物/生命科学·计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2026-03-31**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 首轮 3 月 31 日 15:00（斯德哥尔摩时间）已截止；下一轮未公告</sub> | ❔ | **要求：** 须已取得博士学位；学术线岗位需在瑞典大学或自然历史博物馆任职，博士通常在截止前 3 年内获得（可按记录的职业中断顺延）<br>学术/产业两条线，2026 首轮 3 月 31 日已截止（共 22 个职位，秋季开始），下一轮待公告。学术线需在瑞典大学任职，产业线为瑞典生命科学企业。 |
+| [SciLifeLab PULSE 博士后计划（学术与创业双轨，MSCA COFUND）](https://www.scilifelab.se/scilifelab-national-cofund-postdoc-program/)<br><sub>瑞典 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>第二批征集于 2026-03-16 截止，已关闭；第三批时间未确认，请关注 scilifelab.se 职位页。</sub> | ❔ | **要求：** 须在申请截止前三年内获得博士学位；需符合 MSCA 流动规则：截止前三年内在瑞典居住或工作累计超过 12 个月则不符合。<br>SciLifeLab 与欧盟 MSCA COFUND 共同资助的三年期博士后，分学术与创业两条线，需由 SciLifeLab 群组长或参与大学 PI 推荐申请。 |
 | [瓦伦堡基金会 Broad Institute 博士后项目（瑞典籍）](https://kaw.wallenberg.org/postdoctoral-fellowship-program-broad-institute)<br><sub>美国·瑞典 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费<br><sub>约 USD 50,000/年（官网页面）</sub> | 未公布 | ⛔ | **要求：** 须持瑞典高校博士学位并与瑞典高校有长期关联，需先找到 MIT/Broad 导师；中国籍通常不符合。<br>资助在瑞典高校获得博士的人到麻省理工与 Broad 研究所做博后，要求与瑞典高校有长期关联，中国籍不符合。仅作排除项保留。 |
 | [诺和诺德基金会 乌普萨拉大学博后奖学金 2026](https://novonordiskfonden.dk/en/grant/postdoctoral-fellowships-at-uppsala-university-2026/)<br><sub>瑞典 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2027-01-29**<br><sub>🟢 开放申请</sub><br><sub>2027 轮 2026-09-30 开放、2027-01-29 14:00（哥本哈根时间）截止（基金会官网）；下一轮 2027 年 9 月。</sub> | ❔ | 诺和诺德基金会 Uppsala 博后项目：2027 轮据聚合站 2026-09-30 开放、2027-01-29 截止（待官网确认）；博士学位需 5 年内获得，资助最高约 360 万丹麦克朗/三年。 |
 | [诺和诺德基金会博后奖学金（ETH Zurich / MIT / Oxford / Uppsala）](https://novonordiskfonden.dk/grant/postdoctoral-fellowships-at-eth-zurich-2026/)<br><sub>瑞士·美国·英国·瑞典 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2027-01-29**<br><sub>🟢 开放申请</sub> | ❔ | **要求：** 需有丹麦教育或研究环境关联（如丹麦大学毕业、丹麦国籍或在丹麦机构多年研究经历）；博士学位须在资助起始日前 5 年内获得；前 2 年在 ETH Zurich，最后 1 年回丹麦机构。<br>诺和诺德基金会博后奖学金：ETH Zurich 2027 轮 2026-09-30 开放、2027-01-29 截止（搜索摘要），每项最高 DKK 360 万（最长 3 年）；MIT 与 Oxford 的 2026 轮已于 2026 年 1 月截止，需核对是否要求丹麦关联。 |

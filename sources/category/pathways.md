@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 科研实习与“曲线入口”（46）
+# 科研实习与“曲线入口”（50）
 
 暑研/访问项目，常是拿到导师认可、进而获得全奖 offer 的关键路径。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [瑞士（CH） 8](pathways.md#r-ch) · [法国（FR） 5](pathways.md#r-fr) · [荷兰（NL） 5](pathways.md#r-nl) · [英国（UK） 5](pathways.md#r-uk) · [美国（US） 5](pathways.md#r-us) · [丹麦（DK） 3](pathways.md#r-dk) · [比利时（BE） 2](pathways.md#r-be) · [加拿大（CA） 2](pathways.md#r-ca) · [德国（DE） 2](pathways.md#r-de) · [全球（GLOBAL） 2](pathways.md#r-global) · [阿联酋（AE） 1](pathways.md#r-ae) · [西班牙（ES） 1](pathways.md#r-es) · [芬兰（FI） 1](pathways.md#r-fi) · [中国香港（HK） 1](pathways.md#r-hk) · [日本（JP） 1](pathways.md#r-jp) · [沙特（SA） 1](pathways.md#r-sa) · [瑞典（SE） 1](pathways.md#r-se)
+**按地区跳转：** [瑞士（CH） 8](pathways.md#r-ch) · [英国（UK） 6](pathways.md#r-uk) · [法国（FR） 5](pathways.md#r-fr) · [荷兰（NL） 5](pathways.md#r-nl) · [美国（US） 5](pathways.md#r-us) · [丹麦（DK） 3](pathways.md#r-dk) · [比利时（BE） 2](pathways.md#r-be) · [加拿大（CA） 2](pathways.md#r-ca) · [德国（DE） 2](pathways.md#r-de) · [全球（GLOBAL） 2](pathways.md#r-global) · [挪威（NO） 2](pathways.md#r-no) · [阿联酋（AE） 1](pathways.md#r-ae) · [西班牙（ES） 1](pathways.md#r-es) · [芬兰（FI） 1](pathways.md#r-fi) · [中国香港（HK） 1](pathways.md#r-hk) · [日本（JP） 1](pathways.md#r-jp) · [沙特（SA） 1](pathways.md#r-sa) · [瑞典（SE） 1](pathways.md#r-se) · [南非（ZA） 1](pathways.md#r-za)
 
 <a id="r-ch"></a>
 
@@ -24,6 +24,19 @@
 | [SNF 博士生最低薪资上调（2026 起）](https://snf.ch/en/kHunysxdKHpyUL8s/news/salary-increase-for-doctoral-students)<br><sub>瑞士 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ✅ | 页面（2024-07-24 发布）称 SNSF 项目下博士生薪资下限自 2026-01-01 起由 47,040 瑞郎提高至 50,000 瑞郎（税前）；2024 年薪资上限调整为 55,000 瑞郎。SNSF 不作为直接雇主，薪资在区间内由高校确定。 |
 | [Summer@EPFL](https://summer.epfl.ch/)<br><sub>瑞士 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>CHF 1,800/月（按实际时长折算，另报销差旅）</sub> | —<br><sub>每年申请一次，截止日为 12 月 1 日之前最近的周日；据此推算 2027 届约 2026 年 11 月 29 日，未见官方 2027 公告，以 summer.epfl.ch 为准</sub> | ✅ | **要求：** 计算机、计算机工程、电信或电气工程相关专业在读；需为本科二年级及以上或硕士在读<br>EPFL 计算机学院暑研项目，每年申请一次，月津贴 CHF 1,800（按实际时长折算，另报销差旅），竞争激烈。截止日期据学院规则推算，需以官网 2027 届公告为准。 |
 | [国际清算银行（BIS）博士研究奖学金](https://www.bis.org/careers/graduate_page.htm)<br><sub>瑞士 ｜ 经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮截止于 2025 年 11 月 24 日（第三方信息）；2027 轮通常夏末公告，关注官网</sub> | ✅ | BIS 博士研究奖学金为巴塞尔短期研究驻留（约 3–11 个月），含工资、医保与差旅等；需在读经济、金融或相关领域博士，BIS 材料称欢迎全球申请者。通常夏末开放、秋季截止。 |
+
+<a id="r-uk"></a>
+
+## 英国（UK）（6）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [Innovate UK 知识转移伙伴计划（KTP）2026-27 第一轮](https://iuk-business-connect.org.uk/opportunities/knowledge-transfer-partnership-ktp-2026-2027-round-1/)<br><sub>英国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | **2026-04-01**<br><sub>⏸ 本轮已截止</sub><br><sub>本页为 2026–27 第一轮，截止 2026-04-01 11:00；页面称未赶上本轮的机构可申请之后的轮次，具体轮次以官网为准。</sub> | ❔ | **要求：** 国际生需持有英国工作签证或具备合法工作权利（以 Innovate UK 要求为准）<br>高校与企业合作的 KTP 计划，Associate 在企业完成 12–36 个月项目，以雇员身份工作，不是传统博士。国际生需具备英国工作权利（以 Innovate UK 要求为准）。 |
+| [LSE 经济绩效中心（CEP）预博士研究助理](https://cep.lse.ac.uk/_new/about/work/)<br><sub>英国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-10-18**<br><sub>🟢 开放申请</sub><br><sub>页面写明申请截止为 2026 年 10 月 18 日（英国时间 23:59），即今日截止。</sub> | ❔ | **要求：** 要求经济学、统计或其他定量学科本科学位（入职前完成），熟练使用 STATA 或 R，并能在无密切监督下独立工作。<br>LSE 经济绩效中心（CEP）招募固定期限一年（可延长至两年）的研究助理，薪资 £36,513 至 £41,565，截止 2026 年 10 月 18 日。页面称兼职研究助理仅面向在英国的研究生，且需已有英国工作权利。 |
+| [利兹大学国际博士学院（医学研究，4 年制含基础训练）](https://medicinehealth.leeds.ac.uk/leeds-institute-research-st-james/doc/international-phd-academy-medical-research)<br><sub>英国 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>每年 9 月入学一次，名额 5 个（官网）；2027 年批次申请截止未确认。</sub> | ❔ | **要求：** 需至少 2:1（或同等）相关学科学位；IELTS 6.5（单项不低于 6.0）。页面列出的申请者为自费（个人、政府或雇主资助均可），需自付海外学费、实验耗材与生活费。<br>利兹大学国际博士学院（医学研究）为 4 年制，首年为基础训练；页面称每年 9 月中旬入学，名额 5 个。 |
+| [剑桥心理学系研究生申请与资助指南（PDF）](https://www.psychol.cam.ac.uk/files/2025-26_postgraduate_application_and_funding_guide.pdf)<br><sub>英国 ｜ 神经/认知·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>2025–26 指南中的截止日已过；2026–27 或 2027–28 版本尚未出现</sub> | 🟡 | 剑桥心理学博士资助路线（剑桥信托、Gates、学院及研究理事会资金等）与时间表指南。此为 2025–26 版，使用时请换成最新学年版本。 |
+| [索尔福德大学 Industry PhD（与 KTP 联动）](https://www.salford.ac.uk/knowledge-transfer-partnership-and-industry-phd)<br><sub>英国 ｜ 工程·计算机·全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 学生由企业与大学共同出资招聘，边在企业工作边攻读博士，属于校级工业博士项目，并非英国创新署统一资助。岗位陆续发布，国际生需确认英国工作签证与全职工作安排。 |
+| [英格兰银行博士实习（PhD Internship）](https://www.bankofengland.co.uk/careers/future-talent/phds)<br><sub>英国 ｜ 经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>£30,000/年（伦敦，按比例）；利兹 £27,000/年</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮已关闭；官网称可登记 2027 年机会，未见 2027 截止日期</sub> | ❔ | **要求：** 需在读博士，学科须与中央银行政策相关；2026 轮申请已关闭，官网可登记 2027 年机会<br>英格兰银行约 12 周带薪博士实习，伦敦或利兹混合办公。2026 年申请已关闭，可在官网登记 2027 年机会。 |
 
 <a id="r-fr"></a>
 
@@ -48,18 +61,6 @@
 | [伊拉斯谟大学鹿特丹（EUR）未来博士候选人页面](https://eur.nl/en/research/phd-erasmus-university-rotterdam/phd-vacancies)<br><sub>荷兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 硕士（研究型）；英语需达 CEFR C1；个别岗位要求 GRE/GMAT<br>EUR 博士入口页，列出各学院博士岗位与申请流程；按学院进入 vacancies 页核对截止日期。 |
 | [莱顿大学博士名额与入学说明](https://www.universiteitleiden.nl/en/humanities/graduate-school/admission-to-the-graduate-school)<br><sub>荷兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>带薪岗位示例 €2,541–3,247/月（毛薪，2024 年某岗位公告）</sub> | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 需荷兰大学硕士学位或同等学历（特殊情况院长可豁免）；合同博士须先找到可全程指导的人文学院教授。<br>莱顿大学人文学院博士招生说明，区分受雇（带薪）、合同（奖学金）和自筹博士。页面列出博士年费：低档 400 欧元/年，高档 2800 欧元/年，适用类别以页面说明为准。 |
 | [马斯特里赫特大学 CSC 博士奖学金页](https://www.maastrichtuniversity.nl/csc-scholarships)<br><sub>荷兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>UM 称与 CSC 的合作协议 2024 年 9 月到期未续，目前不接收新的 CSC 博士申请；新协议谈判中</sub> | ❔ | 马斯特里赫特大学与 CSC 的博士合作目前暂停：校方称现行协议已到期，暂不接收新申请，恢复时间未知，申请前请联系 UM China Team。 |
-
-<a id="r-uk"></a>
-
-## 英国（UK）（5）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [Innovate UK 知识转移伙伴计划（KTP）2026-27 第一轮](https://iuk-business-connect.org.uk/opportunities/knowledge-transfer-partnership-ktp-2026-2027-round-1/)<br><sub>英国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | **2026-04-01**<br><sub>⏸ 本轮已截止</sub><br><sub>本页为 2026–27 第一轮，截止 2026-04-01 11:00；页面称未赶上本轮的机构可申请之后的轮次，具体轮次以官网为准。</sub> | ❔ | **要求：** 国际生需持有英国工作签证或具备合法工作权利（以 Innovate UK 要求为准）<br>高校与企业合作的 KTP 计划，Associate 在企业完成 12–36 个月项目，以雇员身份工作，不是传统博士。国际生需具备英国工作权利（以 Innovate UK 要求为准）。 |
-| [LSE 经济绩效中心（CEP）预博士研究助理](https://cep.lse.ac.uk/_new/about/work/)<br><sub>英国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-10-18**<br><sub>🟢 开放申请</sub><br><sub>页面写明申请截止为 2026 年 10 月 18 日（英国时间 23:59），即今日截止。</sub> | ❔ | **要求：** 要求经济学、统计或其他定量学科本科学位（入职前完成），熟练使用 STATA 或 R，并能在无密切监督下独立工作。<br>LSE 经济绩效中心（CEP）招募固定期限一年（可延长至两年）的研究助理，薪资 £36,513 至 £41,565，截止 2026 年 10 月 18 日。页面称兼职研究助理仅面向在英国的研究生，且需已有英国工作权利。 |
-| [利兹大学国际博士学院（医学研究，4 年制含基础训练）](https://medicinehealth.leeds.ac.uk/leeds-institute-research-st-james/doc/international-phd-academy-medical-research)<br><sub>英国 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>每年 9 月入学一次，名额 5 个（官网）；2027 年批次申请截止未确认。</sub> | ❔ | **要求：** 需至少 2:1（或同等）相关学科学位；IELTS 6.5（单项不低于 6.0）。页面列出的申请者为自费（个人、政府或雇主资助均可），需自付海外学费、实验耗材与生活费。<br>利兹大学国际博士学院（医学研究）为 4 年制，首年为基础训练；页面称每年 9 月中旬入学，名额 5 个。 |
-| [剑桥心理学系研究生申请与资助指南（PDF）](https://www.psychol.cam.ac.uk/files/2025-26_postgraduate_application_and_funding_guide.pdf)<br><sub>英国 ｜ 神经/认知·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>2025–26 指南中的截止日已过；2026–27 或 2027–28 版本尚未出现</sub> | 🟡 | 剑桥心理学博士资助路线（剑桥信托、Gates、学院及研究理事会资金等）与时间表指南。此为 2025–26 版，使用时请换成最新学年版本。 |
-| [英格兰银行博士实习（PhD Internship）](https://www.bankofengland.co.uk/careers/future-talent/phds)<br><sub>英国 ｜ 经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>£30,000/年（伦敦，按比例）；利兹 £27,000/年</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮已关闭；官网称可登记 2027 年机会，未见 2027 截止日期</sub> | ❔ | **要求：** 需在读博士，学科须与中央银行政策相关；2026 轮申请已关闭，官网可登记 2027 年机会<br>英格兰银行约 12 周带薪博士实习，伦敦或利兹混合办公。2026 年申请已关闭，可在官网登记 2027 年机会。 |
 
 <a id="r-us"></a>
 
@@ -119,6 +120,15 @@
 | [Google DeepMind 学生研究员 / 实习（博士在读）](https://deepmind.google/careers/internships/)<br><sub>全球 ｜ 计算机·人工智能·数学/统计·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 需在读本科、硕士或博士项目；带薪，12–24 周，每周五天，在谷歌办公室现场工作。<br>官方页面现写 2026–2027 周期可申请（Apply for the 2026-2027 cycle），申请按学位层次（本科、硕士、博士）和地点组织。 |
 | [J-PAL 通用实地研究助理（多国岗位）](https://www.povertyactionlab.org/careers/general-field-research-associate-job-105607)<br><sub>全球 ｜ 经济/金融·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2027-01-13**<br><sub>🟢 开放申请</sub><br><sub>早期批 2026-09-08 至 10-09 已结束；2026-11-25 全面开放；截止 2027-01-13，以岗位页为准</sub> | ❔ | **要求：** 学士或硕士学位，专业为经济学、社会科学、公共政策或相关领域；需受过微观经济学、计量经济学、统计学与高等数学训练；需流利英语。<br>页面显示最早开始日期为 2027 年 5 月 1 日，起始时间为 2027 年夏季（具体日期待定）；岗位派驻地多为发展中国家，国家列为 Multiple。 |
 
+<a id="r-no"></a>
+
+## 挪威（NO）（2）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [南挪威大学工业博士（Industrial Ph.D. in Systems Engineering）](https://www.usn.no/english/research/our-research/technology/norwegian-industrial-systems-engineering-research-group/research/industrial-ph-d-in-systems-engineering)<br><sub>挪威 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | — | ❔ | **要求：** 需工程或相近领域硕士学位；由企业雇用并在职攻读。<br>挪威南部大学的系统工程工业博士岗位，由企业与大学联合招聘，博士生在职攻读并领取工资，常与挪威研究理事会工业博士计划配套。具体岗位与截止日期以该页面及学校招聘页为准，授课与工作语言为英语。 |
+| [挪威研究理事会 Industrial PhD 计划](https://www.forskningsradet.no/en/call-for-proposals/2026/industrial-phd-scheme-doctoral-projects-industry-2026/?tab=1)<br><sub>挪威 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 滚动<br><sub>🔄 随时可申</sub><br><sub>官网（2026 年 Industrial PhD 征集）称持续受理，符合条件的申请按序处理，资金用尽为止；第三方称 12 月 31 日截止，未在官网确认。</sub> | ❔ | **要求：** 通常由挪威企业与研究机构合作申请，博士岗位由企业招聘；国际生资格官网未明确，需核实<br>挪威研究理事会 2026 年工业博士计划为持续受理，博士岗位由在挪威注册、有经济活动且至少 2 名全职员工的企业招聘，候选人以企业岗位为准；学历、语言与国际生资格官网未明确，需看具体岗位。 |
+
 <a id="r-ae"></a>
 
 ## 阿联酋（AE）（1）
@@ -174,4 +184,12 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [KTH × Ericsson 工业博士（SSF 资助）](https://www.kth.se/en/om/nyheter/centrala-nyheter/battre-forskning-i-samspel-med-industripartner-1.1368761)<br><sub>瑞典 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub> | ❔ | SSF 工业博士项目：候选人受雇于合作企业至少 80% 并在高校读博，SSF 资助约一半成本。2026 轮截止 2026-05-13，项目 2027 年 1–6 月开始；未能确认 KTH×Ericsson 的具体项目，以 SSF 与 KTH 公告为准。 |
+
+<a id="r-za"></a>
+
+## 南非（ZA）（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [SARChI 研究主席项目研究生与博后机会（Cosmopolitan Karoo）](https://cosmopolitankaroo.co.za/post-graduate-opportunities/)<br><sub>南非 ｜ 社会科学/心理·人文/语言·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 未公布<br><sub>站点称 2027 年度申请征集已开放，但页面日期不明，截止日未见</sub> | ❔ | **要求：** 助学金名额每年有限，面向社会科学学生；国际生资格与金额以当年公告为准<br>南非 Stellenbosch 大学 SARChI（Cosmopolitan Karoo）研究主席项目的研究生助学金与博后机会页。站点称 2027 年申请征集开放（页面日期不明，需核对）；国际生资格、金额与截止日以公告为准。 |
 

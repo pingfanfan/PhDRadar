@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 欧盟/欧洲（EU） 信源（85）
+# 欧盟/欧洲（EU） 信源（89）
 
-所有标注了地区 EU 的信源，共 85 条。
+所有标注了地区 EU 的信源，共 89 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 20](eu.md#aggregators) · [各国学术招聘门户与机构职位页 2](eu.md#national-portals) · [高校旗舰奖学金与资助检索 5](eu.md#university-schemes) · [结构化博士项目与研究机构 19](eu.md#doctoral-programs) · [博士后奖学金与项目 11](eu.md#postdoc-fellowships) · [企业与基金会 Fellowship 10](eu.md#fellowships) · [学科专属信源 11](eu.md#discipline) · [个人信源与社交渠道 5](eu.md#people-channels) · [导师招生帖（社交平台个人发布） 1](eu.md#recruiting-posts) · [中文社区与官方服务 1](eu.md#chinese-community)
+**按分类跳转：** [综合聚合平台 20](eu.md#aggregators) · [各国学术招聘门户与机构职位页 2](eu.md#national-portals) · [高校旗舰奖学金与资助检索 5](eu.md#university-schemes) · [结构化博士项目与研究机构 21](eu.md#doctoral-programs) · [博士后奖学金与项目 12](eu.md#postdoc-fellowships) · [企业与基金会 Fellowship 10](eu.md#fellowships) · [学科专属信源 12](eu.md#discipline) · [个人信源与社交渠道 5](eu.md#people-channels) · [导师招生帖（社交平台个人发布） 1](eu.md#recruiting-posts) · [中文社区与官方服务 1](eu.md#chinese-community)
 
 <a id="aggregators"></a>
 
@@ -60,7 +60,7 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（19）
+## 结构化博士项目与研究机构（21）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -78,15 +78,17 @@
 | [Pasiphae 欧洲博士网络（6G 与 AI）](https://pasiphae.eu/phd/)<br><sub>欧盟/欧洲 ｜ 工程·计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 5 月 31 日截止的批次已结束（岗位约 2026 年 7 月入职）；后续批次需看官网</sub> | ❔ | **要求：** MSCA 岗位有跨国流动规则，需确认是否符合<br>Pasiphae 是希腊地中海大学（HMU）与 NCSR Demokritos 的实验室，页面发布 MSCA 博士网络 ANCHOR 的 6G+AI 全资助岗位（赫拉克利翁）；2026-05-31 截止的岗位已结束，后续批次看官网。MSCA 有跨国流动规则。 |
 | [PRISMAS 同步辐射方法博士项目（MAX IV，瑞典隆德）](https://www.maxiv.lu.se/prismas)<br><sub>瑞典·欧盟/欧洲 ｜ 物理/天文·化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>📋 持续更新</sub><br><sub>首轮招生已公布，2026 年是否有新一轮未能确认，需到项目页查看</sub> | ❔ | Horizon Europe MSCA COFUND 资助的同步辐射方法博士项目，含隆德 MAX IV 必修访学。前两轮已关闭，第三轮据官网 7–8 月开放（约 5 个名额）；本轮是否已截止未能确认，请以 maxiv.lu.se/prismas 为准。MSCA 类项目常有国籍/居留限制，中国学生需逐条核对。 |
 | [TrackAF 博士网络 CORDIS 项目页（房颤，MSCA 产业博士，15 个岗）](https://cordis.europa.eu/project/id/101226362)<br><sub>德国·欧盟/欧洲 ｜ 医学/公卫·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>首轮招聘（15 个 DC 岗）2026-04-12 已截止，2026-09-01 起聘；未见后续批次公告</sub> | ❔ | **要求：** 硕士或同等学历；MSCA 流动性规则（申请前 3 年在东道国居住不超过 12 个月）；36 个月全额资助博士岗<br>MSCA 博士网络 TrackAF（房颤，15 岗，合作方含 KIT、汉堡-艾彭多夫大学医院、马斯特里赫特、特伦托）。2026 年首轮已截止，未见后续招聘，仅作参考；如有新批次以 EURAXESS 与合作机构为准。 |
+| [塔尔图大学化学研究所博士公开征集页](https://keemia.ut.ee/en/content/phd-open-calls)<br><sub>欧盟/欧洲 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>€2,100/月（2026 年初级研究员最低全职月薪，净额约 €1,580）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>塔尔图大学博士招生每年有多个窗口（2 月、5 月主招、9 月、11 月），具体岗位以本页公告为准</sub> | ❔ | **要求：** 一般需硕士或同等学历<br>集中列出化学研究所的博士公开征集，入学后一般以初级研究员身份受雇。 |
 | [格勒诺布尔量子博士项目（QuanG2 / QuanTEdu）· 2026 秋季博士招生](https://phdquantumgrenoble.univ-grenoble-alpes.fr/node/16)<br><sub>法国·欧盟/欧洲 ｜ 物理/天文·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>税前月薪 €2,400（QuanG2 路线，其他路线 €2,300）</sub> | **2026-09-07**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年招生于 9 月 7 日已截止；下一轮以官网公告为准</sub> | ✅ | **要求：** 需持硕士或同等学位；英语为工作语言；MSCA 流动性条件以官网资格页为准<br>页面为格勒诺布尔量子科学博士统一招生页，涵盖 QuanG2（MSCA COFUND）、QuanTEdu-France 与 QuantAlps 三条项目路线。正文写明申请平台于 1 月 26 日开放，但未给出年份、截止日期与薪资数字。 |
 | [欧洲同步辐射装置（ESRF）· 博士生项目与招聘条件](https://www.esrf.fr/Jobs/Conditions/PhDStudents)<br><sub>法国·欧盟/欧洲 ｜ 物理/天文·化学/材料·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>2286–2560 EUR/月（税前毛额，页面所列区间）</sub> | 各项目不同<br><sub>📋 持续更新</sub><br><sub>岗位陆续发布，无统一截止，以 ESRF 招聘页为准</sub> | ❔ | ESRF 官方博士生页面：博士课题可由 ESRF 提出，也接受学生或导师自带课题；需被大学或博士学校录取注册并有学术导师，70% 以上研究时间在 ESRF；岗位多为带薪固定期限劳动合同。页面未说明国籍资格。 |
 | [立陶宛 FTMC 维尔纽斯博士岗位页](https://ftmc.lt/phd-admission-and-2026-research-topics/)<br><sub>立陶宛·欧盟/欧洲 ｜ 化学/材料·工程·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮博士申请已关闭；页面称下一年度课题预计 2027 年 2 月公布，材料提交通常在春季至初夏。</sub> | ✅ | **要求：** 需相关硕士学位；海外学位需提前完成学历认可（2026 轮为 6 月 10 日前）；每人只能申请一个课题<br>页面称 2026 年博士招生已关闭；正文中未见课题列表、资助期限及全额资助的说明。 |
 | [莱顿天文台（Leiden Observatory）· 博士与博后岗位页](https://www.universiteitleiden.nl/en/science/astronomy/jobs)<br><sub>荷兰·欧盟/欧洲 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>博士年度统一征集截止通常在 11 月前后；个别岗位随时发布，以官网为准</sub> | ✅ | 莱顿天文台招聘页，含博士与博后岗位。当前岗位、薪资与外国申请者资格需以官网岗位说明为准。 |
+| [里加斯特拉尼斯大学（RSU）博士资助（ERDF 项目）](https://www.rsu.lv/en/node/285790)<br><sub>欧盟/欧洲 ｜ 生物/生命科学·医学/公卫·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-01-11**<br><sub>⏸ 本轮已截止</sub><br><sub>页面显示征集开放，截止日期未确认</sub> | ❔ | **要求：** 需为 RSU 在读博士生，或论题符合拉脱维亚智能专业化方向的候选人；需有一篇 WOS/Scopus 论文<br>ERDF 项目期 2025-03 至 2029-10，计划至少资助 39 名博士生；金额与截止以征集通知为准。 |
 | [马普 AI 网络博士招生（PhD Call 2026，与 ELLIS 联动）](https://ai.mpg.de/how-to-join-phd)<br><sub>德国·欧盟/欧洲 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>ELLIS 统一博士招生中央截止 2026 年 10 月 31 日 23:59 AoE（2027 入学）；部分院校有更早内部截止</sub> | ❔ | **要求：** 需硕士学位（已获得或即将获得）及优秀学术背景<br>马普 AI 网络博士项目（MP-AIX）与 ELLIS 统一招生，一次申请可同时考虑两个项目。2027 入学，中央截止 10 月 31 日。国际生国籍规定未找到，cn_eligible 为 check。 |
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（11）
+## 博士后奖学金与项目（12）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -97,6 +99,7 @@
 | [EUROfusion 工程资助（Engineering Grants）](https://euro-fusion.org/eurofusion-news/applications-open-for-the-2027-eurofusion-engineering-grants/)<br><sub>欧盟/欧洲 ｜ 工程·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2026-07-17**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 轮 2026-07-17 已截止；未见后续轮次公告</sub> | ❔ | **要求：** 面向硕士或博士学位的年轻工程师，需通过成员单位申请<br>面向硕士后或博士后的 2 年期工程类资助，含培训计划，适合聚变与能源工程；需通过成员单位申请。 |
 | [MSCA Choose Europe for Science（欧盟科研人才引进，博士后）](https://marie-sklodowska-curie-actions.ec.europa.eu/whats-new/news/msca-announce-eu125-billion-to-support-cutting-edge-research-and-a-second-choose-europe-for-science-call)<br><sub>欧盟/欧洲 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2027-04-06**<br><sub>🔜 即将开放</sub><br><sub>第二轮 Choose Europe for Science 征集预计 2026-12-08 开放，2027-04-06 截止（MSCA 2026-27 工作计划）；由接收机构申报，入选后招募并支付博后工资</sub> | ❔ | **要求：** 须具备博士学位；岗位要求以各公告为准<br>欧盟 MSCA「Choose Europe for Science」计划：由接收机构申报项目，入选后雇用博后并支付工资；具体岗位以 EURAXESS 及接收机构公告为准。 |
 | [MSCA Postdoctoral Fellowships（玛丽居里博士后）](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)<br><sub>欧盟/欧洲 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | **2026-09-09**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮截止 2026 年 9 月 9 日 17:00（已结束）；2027 轮时间未公布。</sub> | ✅ | **要求：** 需已取得博士学位；研究经验不超过 8 年；须满足流动性规则（截止日前 36 个月内在东道国居住或工作不超过 12 个月）<br>欧盟最重要的博士后个人奖学金，不限国籍，与欧洲导师共同撰写申请书；需满足流动性规则（过去 3 年在东道国居住不超过 12 个月），每年约 9 月截止。 |
+| [斯洛伐克科学院物理研究所 IP SAS Fellow 博后征集](https://fu.sav.sk/ip-sas-fellow-for-year-2027/)<br><sub>欧盟/欧洲 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | **2026-08-31**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 轮已于 2026 年 8 月 31 日截止；该所定期发布 IP SAS Fellow 征集，下一轮时间以官网为准。</sub> | ❔ | **要求：** 需在 2011-01-01 之后获得首个博士学位；需提交所内导师、一页研究陈述与论文清单，并由系主任与导师各出推荐信。<br>斯洛伐克科学院（SAV）物理研究所的博后岗位定期征集，本轮已截止，保留以便追踪下一轮。 |
 | [欧洲央行 Wim Duisenberg 研究学者奖学金（2027 轮）](https://www.ecb.europa.eu/pub/economic-research/programmes/shared/pdf/WDFP_2027.en.pdf)<br><sub>欧盟/欧洲 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | **2026-06-30**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 轮申请截止 2026-06-30（已过）；下一轮以欧洲央行官网为准。</sub> | ❔ | **要求：** 已获博士学位，并在顶级学术期刊有突出发表记录；需在欧洲央行法兰克福总部访问 2–6 个月（2027 年内，可分段）；申请材料包括详细 CV、一页研究计划及期望时段，通过邮件发送至 WDFP@ecb.europa.eu。<br>欧洲央行研究部的访问学者项目，面向已有博士学位的研究者，不是学生资助；页面称提供按资历确定的财务津贴，金额未列出。 |
 | [欧盟 ERA Fellowships（拓宽参与国家宿主的博后）](https://rea.ec.europa.eu/funding-and-grants/horizon-europe-widening-participation-and-spreading-excellence/era-fellowships_en)<br><sub>欧盟/欧洲 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮于 2026-09-09 截止；本页未公布 2027 轮时间。</sub> | ✅ | 页面称该行动以 MSCA 博士后奖学金为基础，面向拓宽参与国家（Widening Countries）的宿主机构，研究人员不限国籍。2025 轮于 2025-09-10 截止，2026 轮于 2026-09-09 截止，本页未见 2027 轮公告。 |
 | [蒋经国基金会欧洲博士论文与博后奖学金](https://application.cckf.org.tw/e-europeDDPD.htm)<br><sub>欧盟/欧洲 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 仅生活费<br><sub>博士论文：€15,000（一年）；博士后：每年最高 €21,000，最长两年（官网页面）</sub> | **2027-01-15**<br><sub>⏸ 本轮已截止</sub><br><sub>每年 1 月 15 日截止，12 月 1 日起开放申请；2027 年 1 月轮以官网当期公告为准</sub> | ❔ | **要求：** 需为非中华民国国籍；博士论文奖助限欧洲大学在读博士最后阶段、中国研究人文社科方向，并需两封推荐信；博后须在获博士学位 5 年内且无全职有薪职位。须通过基金会在线系统申请。<br>蒋经国基金会官网称博士论文与博后两项奖助的申请截止日均为 1 月 15 日；博士论文奖助限非中华民国国籍、在欧洲大学完成最后阶段的博士候选人，研究方向为中国研究的人文社科；博后须获博士学位 5 年内且无全职有薪职位。页面文字未列出奖助金额，以官网当期公告为准。 |
@@ -121,12 +124,13 @@
 
 <a id="discipline"></a>
 
-## 学科专属信源（11）
+## 学科专属信源（12）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [Chemistry World Jobs](https://jobs.chemistryworld.com/)<br><sub>英国·欧盟/欧洲·全球 ｜ 化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | 英国皇家化学会旗下职位板。页面称职位来自主要行业雇主、大学与专业招聘机构，页面分类中研究生（Graduate）类仅列 1 条。 |
 | [CVML（计算机视觉与机器学习）邮件列表](https://lists.auth.gr/sympa/info/cvml)<br><sub>全球·欧盟/欧洲 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | 有审核的视觉/机器学习列表，用 [Jobs]/[Studies] 标签发布 PhD 招生与岗位。 |
+| [EAPLS 程序语言职位列表（博士与博后）](https://eapls.org/items/jobs/list/)<br><sub>欧盟/欧洲·全球 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止日期不同，需逐条查看</sub> | ❔ | **要求：** 各岗位自定，请在每条岗位页核对国际生资格<br>欧洲程序语言与软件工程学会维护的职位板，列表里混有旧帖，先看发布日期和截止日期。 |
 | [EAPLS 职位列表（编程语言与验证）](https://eapls.org/jobs/vacancies/)<br><sub>全球·欧盟/欧洲 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位单独截止，需逐条核对</sub> | ❔ | **要求：** 以各岗位要求为准，博士与博后岗位并存<br>欧洲编程语言与系统协会招聘板，PL/形式化验证博士与博后集中；更新不规律，截止逐条核对。 |
 | [EGU Jobs](https://www.egu.eu/jobs/)<br><sub>欧盟/欧洲·全球 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | EGU 职位板（egu.eu/jobs），可按学科分区（division）与关键词检索，收录地球、行星与空间科学岗位。未能核实专用的博士岗位筛选项，可用关键词 PhD 检索，使用前到站点确认在招状态。 |
 | [European Ornithologists' Union · 职位与机会公告（鸟类学博士/博后）](https://eounion.org/announcements/positions-opportunities-available/)<br><sub>欧盟/欧洲·全球 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 未公布<br><sub>📋 持续更新</sub><br><sub>以系/学院招生页为准</sub> | ❔ | **要求：** 各岗位要求以原公告为准<br>欧洲鸟类学家联盟的岗位公告汇总页，持续发布鸟类生态、迁徙、行为生态方向的博士/博后岗位。资助与国际生资格需在原公告核对。 |

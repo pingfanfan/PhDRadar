@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 新加坡（SG） 信源（59）
+# 新加坡（SG） 信源（60）
 
-所有标注了地区 SG 的信源，共 59 条。
+所有标注了地区 SG 的信源，共 60 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 4](sg.md#aggregators) · [政府与国家级奖学金 3](sg.md#gov-scholarships) · [高校旗舰奖学金与资助检索 14](sg.md#university-schemes) · [结构化博士项目与研究机构 14](sg.md#doctoral-programs) · [博士后奖学金与项目 10](sg.md#postdoc-fellowships) · [企业与基金会 Fellowship 3](sg.md#fellowships) · [学科专属信源 2](sg.md#discipline) · [个人信源与社交渠道 4](sg.md#people-channels) · [导师招生帖（社交平台个人发布） 5](sg.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 4](sg.md#aggregators) · [政府与国家级奖学金 3](sg.md#gov-scholarships) · [高校旗舰奖学金与资助检索 14](sg.md#university-schemes) · [结构化博士项目与研究机构 14](sg.md#doctoral-programs) · [博士后奖学金与项目 11](sg.md#postdoc-fellowships) · [企业与基金会 Fellowship 3](sg.md#fellowships) · [学科专属信源 2](sg.md#discipline) · [个人信源与社交渠道 4](sg.md#people-channels) · [导师招生帖（社交平台个人发布） 5](sg.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
@@ -75,7 +75,7 @@
 
 <a id="postdoc-fellowships"></a>
 
-## 博士后奖学金与项目（10）
+## 博士后奖学金与项目（11）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -85,6 +85,7 @@
 | [NTU 李光耀博士后研究员计划（LKYPDF）](https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf))<br><sub>新加坡 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面显示上一轮申请窗口为 2025-11-25 至 2026-02-06，下一轮未公布</sub> | ❔ | 3 年期博士后，面向近期毕业的博士（或至多一段博后经历），研究经费最高 S$180,000。NTU 官网资格条款中未见国籍限制，但检索中未找到 NTU 官方“各国籍可申”的明确表述（该表述出自 NUS 的同名计划），故标 check；下一轮窗口以官网当期公告为准。 |
 | [NUS Presidential Fellowship](https://www.nus.edu.sg/careers/wp-content/uploads/2025/11/NUS-Presidential-Fellowship8.pdf)<br><sub>新加坡 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | —<br><sub>🔄 随时可申</sub> | ✅ | **要求：** 博士学位在一年内获得或一年内即将获得；全年接受申请；国籍条款未在搜索结果中确认<br>NUS 总统研究员计划（Presidential Fellowship）：2 年研究期，之后可转为助理教授轨道，可参与总统青年教授（PYP）竞争。文件称全年接受申请，可将 CV 等材料发至 pyp@nus.edu.sg。国际申请者资格未确认，请以最新招聘文件为准。 |
 | [NUS 海外博士后奖学金（NUS-OPF）申请流程](https://nus.edu.sg/careers/wp-content/uploads/2024/01/NUS-OPF-scheme.pdf)<br><sub>新加坡 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2026-03-16**<br><sub>⏸ 本轮已截止</sub> | ⛔ | **要求：** 须为新加坡公民或永久居民；博士学位授予后两年内；须赴与博士毕业院校不同的海外机构<br>NUS 海外博士后奖学金（NUS-OPF）官方方案面向新加坡公民和永久居民，中国大陆学生不符合申请资格。2026/27 轮截止 2026-03-16 已过，下一轮以 NUS Careers 当年公告为准。 |
+| [Schmidt AI in Science 博后奖学金（南洋理工站）](https://www.ntu.edu.sg/research/research-careers/the-eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship)<br><sub>新加坡 ｜ 工程·物理/天文·化学/材料·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | **2026-12-31**<br><sub>🟢 开放申请</sub><br><sub>页面显示 2026 年征集截止 2026-12-31（新加坡时间 23:59）。</sub> | ❔ | **要求：** 须为非计算机方向博士学位且取得不超过 3 年；须提交跨学科 AI 提案并有 NTU 导师；最长两年<br>同一计划的新加坡南洋理工站，要求博士学位 3 年以内且研究含 AI+STEM；截止以 NTU 页面为准。 |
 | [南洋理工大学理学院 国际博士后奖学金（College of Science IPF）](https://www.ntu.edu.sg/science/research/college-of-science-international-postdoctoral-fellowship)<br><sub>新加坡 ｜ 物理/天文·化学/材料·生物/生命科学·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博后 | 全奖 | **2026-12-31**<br><sub>🟢 开放申请</sub><br><sub>截止日期未确认或各轮不同，以官网为准。</sub> | ⛔ | **要求：** 仅限新加坡公民；需持理学院相关领域博士学位，获聘后赴海外大学做最长约 2 年博后，之后转为 NTU 助理教授轨道。<br>NTU 理学院国际博后奖学金（IPF）仅面向新加坡公民，资助其海外博后研究并在完成后转为 NTU 助理教授。非新加坡公民不符合条件。 |
 | [南洋理工大学计算机学院 国际博士后奖学金（CCDS IPF）](https://www.ntu.edu.sg/computing/careers-CCDS/ccds-international-postdoctoral-fellowship-(ipf))<br><sub>新加坡 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 未公布<br><sub>📋 持续更新</sub><br><sub>官网列出 2025-12-31 截止（已过）；2026 轮以 CCDS-IPF 信息手册为准</sub> | ⛔ | **要求：** 仅限新加坡公民；需在 NTU 计算机学院获聘并赴海外知名高校做约 2 年博后，之后可转助理教授轨道<br>NTU 计算机学院国际博后计划，面向新加坡公民；非新加坡公民不符合资格。 |
 | [新加坡国立大学 ISEM 王冠一组全额资助博士后（2 个名额）](https://sites.google.com/view/guanyiwang)<br><sub>新加坡 ｜ 工程·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | 滚动<br><sub>🔄 随时可申</sub><br><sub>招满为止，滚动审核；可随时邮件 CV、研究陈述</sub> | ❔ | **要求：** 需优化或运筹相关博士学位；资格以 NUS 公告为准<br>两个全额资助博后，1+1 年续聘；个人主页页面，投递前邮件确认名额仍开放。 |

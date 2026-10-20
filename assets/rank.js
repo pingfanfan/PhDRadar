@@ -75,14 +75,33 @@
   }
 
   // 用来匹配关键词的标题与简介：去掉资助方 / 机构名；标题写了“focus on”时只用它后面的方向（简介里多半是系名，不用）
+  // 同一份规则下，每条岗位清洗后的文本只算一次（网站上每次改画像都要重排，手机上能省一半时间）
+  const textCache = new WeakMap();
   function matchTexts(x, P) {
+    const c = textCache.get(x);
+    if (c && c[0] === P.R) return c[1];
+    const r = matchTextsRaw(x, P);
+    textCache.set(x, [P.R, r]);
+    return r;
+  }
+  function matchTextsRaw(x, P) {
     let mtitle = (x.n || "").replace(P.noise, " ");
     let mbody = (x.in || "").replace(P.noise, " ").replace(P.noise_body, " ");
     const fm = P.focus.exec(mtitle);
     if (fm) { mtitle = mtitle.slice(fm.index + fm[0].length); mbody = ""; }
     return [mtitle, mbody];
   }
-  const kwHitsText = (kw, text) => !!text && ((kw.lit && find(kw.lit[0], text) >= 0)
+  // 一个关键词的全部词合成一个预检：大多数岗位一个词都不中，预检不中就不用逐词找（只是提速，结果不变）
+  function quickOf(kw) {
+    const terms = (kw.lit ? [kw.lit[0]] : []).concat(...kw.concepts.map(([, c]) => c.map(t => t[0])));
+    const ci = terms.filter(t => t[0] === "re" && t[1].flags.includes("i")).map(t => t[1].source);
+    const cs = terms.filter(t => t[0] === "re" && !t[1].flags.includes("i")).map(t => t[1].source);
+    return {ci: ci.length ? new RegExp(ci.join("|"), "i") : null, cs: cs.length ? new RegExp(cs.join("|")) : null,
+      sub: terms.filter(t => t[0] === "sub").map(t => t[1])};
+  }
+  const quickHit = (kw, text) => !!text && ((kw.quick.ci && kw.quick.ci.test(text)) || (kw.quick.cs && kw.quick.cs.test(text))
+    || kw.quick.sub.some(w => text.indexOf(w) >= 0));
+  const kwHitsText = (kw, text) => quickHit(kw, text) && ((kw.lit && find(kw.lit[0], text) >= 0)
     || kw.concepts.some(([, concept]) => concept.some(t => find(t[0], text) >= 0)));
   // 关键词越常见，每次命中的分越低
   function specificity(df, W) {
@@ -149,8 +168,10 @@
       if (!kept.length) Object.keys(R.disc_words).forEach(d => {
         if (new RegExp(R.disc_words[d], "i").test(k) && !has(disc, d)) disc.push(d);
       });
-      return {k, lit: own ? [compileTerm(k), k.toLowerCase()] : null, concepts: kept.map(gi => ["g" + gi, groups[gi].all]),
+      const kw = {k, lit: own ? [compileTerm(k), k.toLowerCase()] : null, concepts: kept.map(gi => ["g" + gi, groups[gi].all]),
         need_lit: !!rest || !kept.length, method: kept.length > 0 && kept.every(gi => groups[gi].m)};
+      kw.quick = quickOf(kw);
+      return kw;
     });
     const target = profile.target || {}, start = ymd(target.start);
     let deg = 0;
@@ -240,7 +261,7 @@
     [["标题", mtitle, W.title], ["简介", mbody, W.body]].forEach(([where, text, w]) => {
       if (!text) return;
       P.keywords.forEach(kw => {
-        if (hits.some(h => h[1] === kw.k)) return;
+        if (!quickHit(kw, text) || hits.some(h => h[1] === kw.k)) return;
         // got：命中的记分标签（组号 + 实际命中的词），同一组或同一个词只记一次分
         let got = kw.lit && find(kw.lit[0], text) >= 0 ? ["k:" + kw.lit[1], kw.lit[1]] : [];
         let full = got.length > 0;

@@ -209,3 +209,11 @@ def test_romance_language_deadlines():
     # 学校自己的页面（非美加）默认 日/月/年；没有提示时日月可互换就不收
     assert ats.deadline("Date limite : 07/10/2026") == (None, "")
     assert ats.deadline("Date limite : 07/10/2026", order_hint="DMY")[0] == "2026-10-07"
+
+
+def test_start_date_is_not_deadline():
+    text = ("We hope the person selected will be able to start as soon as possible, and no later than 1 January 2027. "
+            "Join us! The application deadline is 30 October 2026.")
+    assert ats.deadline(text) == ("2026-10-30", "application deadline is 30 October 2026")
+    assert ats.deadline("The expected start date is 1 January 2027 or by agreement (no later than 1 March 2027).") == (None, "")
+    assert ats.deadline("The position should be filled by no later than 1 March 2027.") == (None, "")

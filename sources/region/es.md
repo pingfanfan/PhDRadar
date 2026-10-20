@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 西班牙（ES） 信源（71）
+# 西班牙（ES） 信源（72）
 
-所有标注了地区 ES 的信源，共 71 条。
+所有标注了地区 ES 的信源，共 72 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 5](es.md#aggregators) · [各国学术招聘门户与机构职位页 2](es.md#national-portals) · [政府与国家级奖学金 2](es.md#gov-scholarships) · [高校旗舰奖学金与资助检索 19](es.md#university-schemes) · [结构化博士项目与研究机构 21](es.md#doctoral-programs) · [博士后奖学金与项目 7](es.md#postdoc-fellowships) · [企业与基金会 Fellowship 7](es.md#fellowships) · [学科专属信源 4](es.md#discipline) · [科研实习与“曲线入口” 1](es.md#pathways) · [个人信源与社交渠道 2](es.md#people-channels) · [导师招生帖（社交平台个人发布） 1](es.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 5](es.md#aggregators) · [各国学术招聘门户与机构职位页 2](es.md#national-portals) · [政府与国家级奖学金 2](es.md#gov-scholarships) · [高校旗舰奖学金与资助检索 19](es.md#university-schemes) · [结构化博士项目与研究机构 21](es.md#doctoral-programs) · [博士后奖学金与项目 7](es.md#postdoc-fellowships) · [企业与基金会 Fellowship 8](es.md#fellowships) · [学科专属信源 4](es.md#discipline) · [科研实习与“曲线入口” 1](es.md#pathways) · [个人信源与社交渠道 2](es.md#people-channels) · [导师招生帖（社交平台个人发布） 1](es.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
@@ -110,11 +110,12 @@
 
 <a id="fellowships"></a>
 
-## 企业与基金会 Fellowship（7）
+## 企业与基金会 Fellowship（8）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [DIPC Severo Ochoa 博士岗（圣塞巴斯蒂安）](https://dipc.ehu.eus/en/dipc/join-us/phd-student-positions-within-the-framework-of-the-severo-ochoa-program-2)<br><sub>西班牙 ｜ 物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-02-28**<br><sub>⏸ 本轮已截止</sub><br><sub>本轮 2026-02-28 截止，已结束；Severo Ochoa 博士岗按年发布，下一轮以 DIPC 官网为准</sub> | ❔ | **要求：** 面向近期毕业的物理相关学生；国际生资格未核实，以官网为准<br>DIPC Severo Ochoa 博士岗页面列出 2026/03 至 2026/08 共六个岗位，截止日 2026-02-28，本轮已结束。下一轮需关注 DIPC 官网，国际生资格未核实。 |
+| [Fundación Ramón Areces 海外博士后进修（生命与材料科学，不适用）](https://boe.es/boe/dias/2026/01/21/pdfs/BOE-B-2026-1428.pdf)<br><sub>西班牙 ｜ 生物/生命科学·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026–27 学年申请期 2026-01-21 至 2026-02-23 已关闭；下一轮预计 2027 年初，以官网为准</sub> | ⛔ | Fundación Ramón Areces 海外博士后进修（生命与材料科学）。依据上一届 bases，申请人须持西班牙国籍，中国籍不符合；最新一届原文未能读取，保留 no，以官网当期为准。 |
 | [ICM-CSIC INPhINIT 博士候选人接收公告（巴塞罗那）](https://www.icm.csic.es/en/calls/looking-phd-candidates-hosting-offers-inphinit-fellowships-programme-0)<br><sub>西班牙 ｜ 化学/材料·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-02-18**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮宿主 offer 截止 2026-02-18（已关闭）；下一轮待公布</sub> | ✅ | 宿主单位（ICM-CSIC）发布博士候选人需求；2026 年 INPhINIT 轮次已截止，需联系课题组后通过 INPhINIT 统一申请。 |
 | [IFAE 粒子与天体物理研究所博士奖学金](https://www.ifae.es/careers/phd-fellowships)<br><sub>西班牙 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>INPhINIT incoming 2026 轮已于 2026-01-28 截止；下一轮以官网为准。</sub> | 🟡 | **要求：** INPhINIT incoming 路线要求申请人近三年内在西班牙居住或工作不超过 12 个月，且未曾攻读博士；需先获得 IFAE 研究线导师支持<br>IFAE 提供多条博士资助：INPhINIT incoming（la Caixa，面向近三年未在西班牙居住超过 12 个月者）、Severo Ochoa 博士奖学金（面向西班牙及海外候选人），以及西班牙和加泰罗尼亚预博士合同。国际生可申请的路线以各自公告为准。 |
 | [INPhINIT “la Caixa” 博士奖学金（Incoming，西班牙/葡萄牙）](https://www.crg.eu/es/node/23039)<br><sub>西班牙·葡萄牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 Incoming 轮已关闭；2027 轮未见公告，需关注 la Caixa 官网。</sub> | ❔ | 官网页面列出 30 个名额、最长 4 年全额资助（含劳务与科研费用、学费）；页面同时给出 2026 年 1 月 28 日与 2 月 18 日两个截止日期，以当期公告为准。 |

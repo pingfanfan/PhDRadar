@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 波兰（PL） 信源（23）
+# 波兰（PL） 信源（25）
 
-所有标注了地区 PL 的信源，共 23 条。
+所有标注了地区 PL 的信源，共 25 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [各国学术招聘门户与机构职位页 1](pl.md#national-portals) · [政府与国家级奖学金 5](pl.md#gov-scholarships) · [高校旗舰奖学金与资助检索 8](pl.md#university-schemes) · [结构化博士项目与研究机构 4](pl.md#doctoral-programs) · [博士后奖学金与项目 4](pl.md#postdoc-fellowships) · [个人信源与社交渠道 1](pl.md#people-channels)
+**按分类跳转：** [各国学术招聘门户与机构职位页 1](pl.md#national-portals) · [政府与国家级奖学金 5](pl.md#gov-scholarships) · [高校旗舰奖学金与资助检索 9](pl.md#university-schemes) · [结构化博士项目与研究机构 5](pl.md#doctoral-programs) · [博士后奖学金与项目 4](pl.md#postdoc-fellowships) · [个人信源与社交渠道 1](pl.md#people-channels)
 
 <a id="national-portals"></a>
 
@@ -32,7 +32,7 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（8）
+## 高校旗舰奖学金与资助检索（9）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -42,18 +42,20 @@
 | [Wroclaw Tech (PWr) · Doctoral School 招生与奖学金](https://pwr.edu.pl/en/university/news/phd-at-wroclaw-tech--interdisciplinary-research--high-scholarships--and-international-internships-10828.html)<br><sub>波兰 ｜ 工程·计算机·物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>税后约 PLN 4,171/月(中期评估前)，PLN 5,058/月(评估通过后)</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年主轮 6 月 2 日截止；补充招生 9 月 4 日截止，均已过；下一轮预计 2027 年春，需关注 szd.pwr.edu.pl</sub> | ❔ | **要求：** 需硕士学历；具体国际生条件以招生简章为准<br>弗罗茨瓦夫理工官方新闻稿，列明博士生月奖学金与名额。下一轮开放后用于确认国际生申请流程与语言要求。 |
 | [三城博士学校（PAN）2026/27 招生规则](https://www.iopan.pl/assets/files/szkoly-doktorskie/tsd/rules-of-recruitment-2026-fv.pdf)<br><sub>波兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 批次已过；2027/28 通常春季公告</sub> | ❔ | **要求：** 需硕士或同等学历，须获 IOPAN 参与单位教授或具 habilitation 导师的许可，并通过招生委员会审核；外国人入学经内政部批准<br>按学科竞争录取，本规则为 2026/27 版。外国申请人材料与费用条款需看完整 PDF。2026/27 批次已过，2027/28 通常春季公告。 |
 | [格但斯克理工大学 Polonium 国际博士奖学金](https://pg.edu.pl/en/research-university/eiru-programs/polonium-international-doctoral-fellowships)<br><sub>波兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>最高 PLN 2,500/月（税前），最长 12 个月</sub> | 各项目不同<br><sub>🔜 即将开放</sub><br><sub>页面写明征集期为 October 6 to November 15（23:59），未标注年份；以当期 MojaPG 公告为准。</sub> | ❔ | **要求：** 须已被格但斯克理工博士学校录取，处于博士第一或第二学年，导师须为该校在职员工，且此前未在该校读过博士；申请人月均总收入（含其他来源）不得超过 PLN 8,000 税前。<br>格但斯克理工大学 Polonium 项目面向波兰境外的博士生，为补充奖学金，最高 PLN 2,500 税前/月、最长 12 个月。页面未标注征集年份，需核对当期公告。 |
+| [热舒夫大学（UR）博士学校 STER NAWA 外国最优秀候选人名额](https://www.ur.edu.pl/en/university/the-doctoral-school-/rzeszow-university-doctoral-school-recruitment/recruitment-by-ster-nawa-program-the-internationalization-of-doctoral-schools/recruitment-for-the-best-foreign-candidates)<br><sub>波兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明<br><sub>PLN 5,000/月（早期周期的 NAWA 资助金额）</sub> | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2025/26 外国候选人名单已于 2025 年 9 月 23 日公布；项目执行至 2026-12-31，2026/27 轮次未公布，以 UR 官网为准</sub> | ❔ | 需先进入 UR 博士学校常规招生流程，再参与外国最优秀候选人名额评选；官网各版本对名额数与月资助金额表述不一，以当期页面为准。 |
 | [赫希菲尔德免疫与实验治疗研究所博士学校（PAN）招生](https://szkoladoktorska.hirszfeld.pl/?p=6791)<br><sub>波兰 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>PLN 3,570.50/月（税前，第 I–II 年；第 III–IV 年 PLN 5,500.50）</sub> | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 批次申请 6 月 1–30 日已截止；下一批次通常在 6 月前后，待官网确认</sub> | ❔ | 官网招生页显示当前无新招生（No new recruitment），页面设有招生档案（Recruitment archive）。页面未列出奖学金金额与国际生资格，需以官网其他页面为准。 |
 | [雅盖隆大学博士学院奖学金（英文项目）](https://phd.uj.edu.pl/pl_PL/scholarship-financial-support/regular)<br><sub>波兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>法定最低 PLN 3,168.46/月（净，中期评估前）；PLN 4,881.14/月（净，中期评估通过后）</sub> | 各项目不同<br><sub>申请截止以各学院公告为准</sub> | ❔ | 博士学院项目免学费，所有博士生有奖学金，中期评估前后分档（官网约2779至4282兹罗提/月，含保险，需核实）。部分外国人名额绑定科研项目，申请截止以各学院公告为准。 |
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（4）
+## 结构化博士项目与研究机构（5）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [INTiBS PAN 博士学校 2026/27 招生](https://phd.intibs.pl/en/general-recruitment-2026-2027.html)<br><sub>波兰 ｜ 生物/生命科学·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 波兰科学院 INTiBS 下属四年制英文博士学校。2026/27 通用招生（5 月 25 日至 6 月 29 日）已截止，7 月公布结果；另有小批次招生，后续轮次关注官网。奖学金金额在检索结果中未确认，以 Doctoral School 官网为准。 |
 | [Nencki 研究所国际博士学校 Bio4Med（华沙）](https://nencki.edu.pl/education/bio4med/)<br><sub>波兰 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 两轮（5 月、7 月 27 日至 8 月 9 日）已关闭；官网称下一轮 2026 年 12 月 28 日开始，细则未公布</sub> | ❔ | **要求：** 需硕士学位，生物、生物技术、生物物理、神经信息学或相关学科（以新公告为准）<br>华沙 Nencki 研究所国际博士学校 Bio4Med，面向国际生的英文博士项目；2026/27 轮已关闭，关注 2027/28 轮。学费免除与奖学金额以官网为准。 |
 | [医科大学博士学校项目与竞赛页（umed.pl）](https://doctoralschool.umed.pl/offer/programmes-and-contests/)<br><sub>波兰 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 列出英文博士项目与资助竞赛的官方页面；资助额度和外国申请条件以各竞赛公告为准。 |
+| [华沙大学博士学院 2026/27 招生说明（含 Scholarship to Start）](https://en.uw.edu.pl/admissions-to-the-uw-doctoral-schools-for-the-2026-2027-academic-year/)<br><sub>波兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>PLN 4,346 gross/月（中期评估前）；中期评估后 PLN 5,500.50 gross/月</sub> | —<br><sub>⏸ 本轮已截止</sub> | ❔ | **要求：** 需硕士学位；2026/27 轮报名 4 月 14 日至 5 月 21 日已结束；非波兰语者可英文面试；Scholarship to Start 仅授予各学科前 20% 的录取者<br>华沙大学博士学院 2026/27 轮报名 4 月 14 日至 5 月 21 日已结束；2027/28 轮时间未公布。月津贴 PLN 4,346 / 5,500.50 见官方页。 |
 | [哥白尼天文中心（CAMK）2026/2027 博士招生（天文学）](https://geoplanetschool.camk.edu.pl/?p=2194)<br><sub>波兰 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>约 3077 PLN/月（净额下限，第 I–II 年，据 GeoPlanet 演示文稿）</sub> | 各项目不同<br><sub>🟢 开放申请</sub><br><sub>抓取页面称 Four PhD positions are available，正文未给出截止日期；此前记录的关闭状态与本页不一致，需核对官网。</sub> | ❔ | **要求：** 抓取页面正文未列出具体招生条件，需看完整招生公告。<br>GeoPlanet 博士学校（CAMK 天文学）2026/2027 招生页，正文称哥白尼天文中心有 4 个博士岗位。 |
 
 <a id="postdoc-fellowships"></a>

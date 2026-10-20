@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 丹麦（DK） 信源（60）
+# 丹麦（DK） 信源（62）
 
-所有标注了地区 DK 的信源，共 60 条。
+所有标注了地区 DK 的信源，共 62 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 6](dk.md#aggregators) · [各国学术招聘门户与机构职位页 4](dk.md#national-portals) · [高校旗舰奖学金与资助检索 10](dk.md#university-schemes) · [结构化博士项目与研究机构 17](dk.md#doctoral-programs) · [博士后奖学金与项目 8](dk.md#postdoc-fellowships) · [企业与基金会 Fellowship 5](dk.md#fellowships) · [学科专属信源 1](dk.md#discipline) · [科研实习与“曲线入口” 3](dk.md#pathways) · [个人信源与社交渠道 2](dk.md#people-channels) · [导师招生帖（社交平台个人发布） 4](dk.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 6](dk.md#aggregators) · [各国学术招聘门户与机构职位页 5](dk.md#national-portals) · [高校旗舰奖学金与资助检索 11](dk.md#university-schemes) · [结构化博士项目与研究机构 17](dk.md#doctoral-programs) · [博士后奖学金与项目 8](dk.md#postdoc-fellowships) · [企业与基金会 Fellowship 5](dk.md#fellowships) · [学科专属信源 1](dk.md#discipline) · [科研实习与“曲线入口” 3](dk.md#pathways) · [个人信源与社交渠道 2](dk.md#people-channels) · [导师招生帖（社交平台个人发布） 4](dk.md#recruiting-posts)
 
 <a id="aggregators"></a>
 
@@ -25,22 +25,24 @@
 
 <a id="national-portals"></a>
 
-## 各国学术招聘门户与机构职位页（4）
+## 各国学术招聘门户与机构职位页（5）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [DTU Vacant Positions](https://www.dtu.dk/english/about/job-and-career/vacant-positions)<br><sub>丹麦 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位<br><sub>约 DKK 34,000+/月（税前，含养老金，依职级；DTU 页面数据为 2024 年）</sub> | — | ✅ | **要求：** 国内外候选人均可申请；学位与语言要求以各岗位招聘信息为准<br>丹麦技术大学 PhD 为受薪雇员，通常签 3 年期固定期限合同，月薪约 DKK 34,000 起（含养老金，依职级）；DTU 说明国内外候选人均可申请。丹麦其他大学（KU、AU、AAU、SDU）也有各自职位页。 |
 | [Jobindex 科研岗位搜索（丹麦）](https://www.jobindex.dk/jobsoegning/undervisning/forskning?q=thesis)<br><sub>丹麦 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 视项目而定 | —<br><sub>📋 持续更新</sub> | ❔ | **要求：** 视具体职位而定；丹麦科研岗位多为带薪合同，国际生资格需逐条核对<br>抓取页面为 Jobindex 科研岗位搜索的 RSS 源，列出 DTU 等机构的博士奖学金，如 DTU Management 的可持续供应链管理与组织博士奖学金。国际生资格与截止日需逐条核对职位页。 |
+| [Roskilde Universitet（RUC）Vacant Positions 招聘总页](https://ruc.dk/en/vacant-positions-roskilde-university)<br><sub>丹麦 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止不一，以岗位公告为准；RUC 称所有学术岗位在官网公告且截止至少 14 天。</sub> | ❔ | **要求：** 丹麦 PhD fellowship 为三年固定期限受薪岗位；需同时被 RUC 博士学院录取后才签约；国际生资格以岗位公告为准。<br>丹麦罗斯基勒大学的学术岗位总入口，PhD fellow 为三年带薪岗位，工资按公共部门集体协议。申请前请到 ruc.dk 核对具体岗位与截止日。 |
 | [University of Copenhagen PhD Positions](https://employment.ku.dk/phd/)<br><sub>丹麦 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 哥本哈根大学博士岗位汇总页。 |
 | [哥本哈根商学院（CBS）Vacant positions 博士奖学金列表](https://www.cbs.dk/en/about-cbs/job-and-career/vacant-positions)<br><sub>丹麦 ｜ 商科/管理·经济/金融·社会科学/心理·全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位截止不一，以列表页为准。</sub> | ❔ | **要求：** 部分岗位对硕士论文成绩及加权平均分有要求（以各岗位页为准）；多数博士奖学金为三年受薪，含教学义务；国际生资格以岗位公告为准。<br>页面为 CBS 招聘列表，列出截止日期在 2026 年 10 月至 12 月之间的多个岗位，包括运营管理、审计与会计、营销、数字化等方向的博士、博后与讲师职位；各岗位要求与资助以岗位页为准。 |
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（10）
+## 高校旗舰奖学金与资助检索（11）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [丹麦技术大学（DTU）PhD 雇员制薪资说明](https://www.dtu.dk/english/Education/PhD/Intro/Salary)<br><sub>丹麦 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 滚动<br><sub>📋 持续更新</sub><br><sub>各岗位各自设截止，页面本身不是招生公告；请到具体岗位页核实。</sub> | ❔ | **要求：** PhD 生以雇员身份受聘（丹麦 PhD fellow 制度）；国籍与学历资格需看具体岗位招聘条件。<br>大学级官方页面，说明 PhD fellow 为雇员、有薪资（金额以当年页面为准，未入库）。国际生资格页面未说明。 |
+| [南丹麦大学（SDU）学术岗位招聘总页（含 PhD 岗位）](https://www.sdu.dk/en/om-sdu/job-sdu/videnskabelige)<br><sub>丹麦 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各岗位自行设截止，以岗位公告为准</sub> | ❔ | **要求：** 以各岗位公告为准；博士岗位为雇佣合同<br>SDU 官方学术岗位入口，博士岗位为带薪雇佣；国际生资格以单个公告为准。 |
 | [哥本哈根大学人文学院博士奖学金申请流程与时间表](https://phd.humanities.ku.dk/how-to-obtain-a-phd-scholarship/application-process-and-timeline/)<br><sub>丹麦 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | —<br><sub>各年截止不同；通常 9 月 1 日入学，4–5 月面试，录取后签署入学与雇佣函；以 UCPH 当期公告为准</sub> | ❔ | 页面为哥本哈根大学人文学院博士奖学金申请流程说明：公开征集（open calls）每年一次，12 月发布岗位广告、2 月截止，3 月初筛、4–5 月面试，5 月发放录取与雇佣函，9 月 1 日入学。专项征集（specific calls）在截止前 6–8 周发布广告。 |
 | [哥本哈根大学社会科学学院 Industrial PhD](https://socialsciences.ku.dk/research/industrialphd/)<br><sub>丹麦 ｜ 社会科学/心理·经济/金融·商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>最高 DKK 17,000/月（丹麦创新基金会对学生薪资的补贴上限）</sub> | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 页面为社会科学学院工业博士（Industrial PhD）说明页：该计划培养能理解企业研发业务的研究人员，学位在本院攻读。申请截止与方式见丹麦创新基金会（Innovation Fund Denmark）页面，本页不列具体课题。 |
 | [哥本哈根大学艺术与文化研究系 嘉士伯基金会资助博士/博后岗位](https://artsandculturalstudies.ku.dk/research/funding/new-carlsberg-foundation-research-funding-2018/)<br><sub>丹麦 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位<br><sub>薪资资助最高 DKK 2,000,000（基金会与合作机构共同出资，页面所示）</sub> | **2026-10-05**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 2026-10-05 12:00 截止（已过）；2027 轮通常在秋季，未公布。</sub> | ❔ | **要求：** 个人不能直接申请 PhD/博后名额，需由博物馆或展览机构与大学合作提出；有意者需联系院系。<br>哥本哈根大学艺术与文化研究系（IKK）的新嘉士伯基金会资助博士与博后岗位。基金会仅允许博物馆和展览机构申请 PhD/博后名额，个人应关注院系合作公告；2026 轮截止 10 月 5 日。 |

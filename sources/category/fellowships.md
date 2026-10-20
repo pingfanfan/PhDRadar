@@ -2,17 +2,17 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 企业与基金会 Fellowship（215）
+# 企业与基金会 Fellowship（226）
 
 面向博士生（多为在读）的额外资助，可叠加或作为后续资金来源。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [美国（US） 48](fellowships.md#r-us) · [德国（DE） 32](fellowships.md#r-de) · [全球（GLOBAL） 24](fellowships.md#r-global) · [英国（UK） 13](fellowships.md#r-uk) · [日本（JP） 11](fellowships.md#r-jp) · [澳大利亚（AU） 8](fellowships.md#r-au) · [加拿大（CA） 7](fellowships.md#r-ca) · [西班牙（ES） 7](fellowships.md#r-es) · [欧盟/欧洲（EU） 7](fellowships.md#r-eu) · [比利时（BE） 6](fellowships.md#r-be) · [瑞士（CH） 6](fellowships.md#r-ch) · [以色列（IL） 6](fellowships.md#r-il) · [丹麦（DK） 5](fellowships.md#r-dk) · [爱尔兰（IE） 4](fellowships.md#r-ie) · [中国香港（HK） 3](fellowships.md#r-hk) · [瑞典（SE） 3](fellowships.md#r-se) · [爱沙尼亚（EE） 2](fellowships.md#r-ee) · [法国（FR） 2](fellowships.md#r-fr) · [荷兰（NL） 2](fellowships.md#r-nl) · [沙特（SA） 2](fellowships.md#r-sa) · [新加坡（SG） 2](fellowships.md#r-sg) · [奥地利（AT） 1](fellowships.md#r-at) · [保加利亚（BG） 1](fellowships.md#r-bg) · [中国内地（CN） 1](fellowships.md#r-cn) · [捷克（CZ） 1](fellowships.md#r-cz) · [埃及（EG） 1](fellowships.md#r-eg) · [希腊（GR） 1](fellowships.md#r-gr) · [印度（IN） 1](fellowships.md#r-in) · [意大利（IT） 1](fellowships.md#r-it) · [韩国（KR） 1](fellowships.md#r-kr) · [挪威（NO） 1](fellowships.md#r-no) · [新西兰（NZ） 1](fellowships.md#r-nz) · [罗马尼亚（RO） 1](fellowships.md#r-ro) · [斯洛文尼亚（SI） 1](fellowships.md#r-si) · [土耳其（TR） 1](fellowships.md#r-tr) · [中国台湾（TW） 1](fellowships.md#r-tw)
+**按地区跳转：** [美国（US） 49](fellowships.md#r-us) · [德国（DE） 36](fellowships.md#r-de) · [全球（GLOBAL） 24](fellowships.md#r-global) · [英国（UK） 14](fellowships.md#r-uk) · [日本（JP） 13](fellowships.md#r-jp) · [澳大利亚（AU） 8](fellowships.md#r-au) · [西班牙（ES） 8](fellowships.md#r-es) · [加拿大（CA） 7](fellowships.md#r-ca) · [欧盟/欧洲（EU） 7](fellowships.md#r-eu) · [比利时（BE） 6](fellowships.md#r-be) · [瑞士（CH） 6](fellowships.md#r-ch) · [以色列（IL） 6](fellowships.md#r-il) · [丹麦（DK） 5](fellowships.md#r-dk) · [爱尔兰（IE） 5](fellowships.md#r-ie) · [法国（FR） 3](fellowships.md#r-fr) · [中国香港（HK） 3](fellowships.md#r-hk) · [瑞典（SE） 3](fellowships.md#r-se) · [爱沙尼亚（EE） 2](fellowships.md#r-ee) · [荷兰（NL） 2](fellowships.md#r-nl) · [沙特（SA） 2](fellowships.md#r-sa) · [新加坡（SG） 2](fellowships.md#r-sg) · [奥地利（AT） 1](fellowships.md#r-at) · [保加利亚（BG） 1](fellowships.md#r-bg) · [中国内地（CN） 1](fellowships.md#r-cn) · [捷克（CZ） 1](fellowships.md#r-cz) · [埃及（EG） 1](fellowships.md#r-eg) · [希腊（GR） 1](fellowships.md#r-gr) · [印度（IN） 1](fellowships.md#r-in) · [意大利（IT） 1](fellowships.md#r-it) · [韩国（KR） 1](fellowships.md#r-kr) · [挪威（NO） 1](fellowships.md#r-no) · [新西兰（NZ） 1](fellowships.md#r-nz) · [罗马尼亚（RO） 1](fellowships.md#r-ro) · [斯洛文尼亚（SI） 1](fellowships.md#r-si) · [土耳其（TR） 1](fellowships.md#r-tr) · [中国台湾（TW） 1](fellowships.md#r-tw)
 
 <a id="r-us"></a>
 
-## 美国（US）（48）
+## 美国（US）（49）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -54,6 +54,7 @@
 | [加州大学伯克利分校 Michael B. Teitz 奖学金（城市规划）](https://ced.berkeley.edu/awards/michael-b-teitz-fellowship)<br><sub>美国 ｜ 社会科学/心理·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>最高 $2,500</sub> | 未公布<br><sub>🟢 开放申请</sub><br><sub>页面截止日列为 TBD；需向系里确认当年周期</sub> | ❔ | **要求：** UC Berkeley 城市与区域规划全日制 MCP 或博士生；提交 CV、近期研究成果与研究计划信<br>面向伯克利城市与区域规划博士生的小额奖金，优先博士生。 |
 | [康奈尔兽医学院 DVM 攻读 PhD 研究奖学金（Graduate Research Award）](https://www.vet.cornell.edu/education/graduate-studies/phd-program/admissions/dvms-seeking-phd/graduate-research-award)<br><sub>美国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$45,240/年（学院页面所列，需以当期为准）</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>页面称申请截止为每年 12 月 1 日（未注明年份），申请须遵循 Biomedical & Biological Sciences PhD 项目的申请程序。</sub> | ❔ | **要求：** 仅限已持有 DVM 或同等兽医学位、拟在康奈尔兽医学院攻读 PhD 的申请者；中国兽医学位是否视为同等需向招生办确认。<br>康奈尔兽医学院官网称 DVM 申请者可获五年资助，含全额学费奖学金、学生健康保险与生活津贴。页面写明前 9 个月由 BBS 项目资助，之后由导师提供标准 BBS 基础津贴（当前 $45,240）及学费与健康保险。 |
 | [德勤基金会会计博士奖学金](https://www.deloitte.com/us/en/about/deloitte-foundation/deloitte-foundation-doctoral-fellowship.html)<br><sub>美国 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-03-01**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请截止 2026-03-01（已过）；2027 轮待德勤基金会公告</sub> | ❔ | **要求：** 需由本校会计博士项目提名；官方页未说明国籍限制，需向德勤确认<br>每年约 10 名会计博士获 25,000 美元，需本校会计系提名；是否限美国公民未说明，需向学院确认。 |
+| [德国历史研究所华盛顿分所（GHI）博士与博后研究奖学金](https://www.ghi-dc.org/programs/doctoral-and-postdoctoral-research-fellowships)<br><sub>美国·德国 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 仅生活费 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>每年两轮截止，具体日期以官方页为准</sub> | ❔ | **要求：** 博士生需已达 ABD 状态；项目须主要使用北美档案；申请者须常驻北美或欧洲<br>短期档案研究资助（一般 1 至 4 个月），不是完整博士资助。中国大陆学生需先确认资格。 |
 | [斯坦福 Knight-Hennessy Scholars 申请资格](https://knight-hennessy.stanford.edu/admission/before-you-apply/eligibility)<br><sub>美国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>每年秋季截止，具体日期以官方页为准</sub> | ✅ | **要求：** 官方页：欢迎所有国家的公民和居民申请；须先满足所报斯坦福研究生项目的要求；本科学位年份有限制<br>官方资格页确认国际生可申请；奖学金金额与年限以官网为准。 |
 | [旧金山联储 Thomas J. Sargent 博士论文奖学金](https://www.frbsf.org/economic-research-dissertation-fellowships)<br><sub>美国 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮已关闭；申请通常在冬春开放，2027 轮时间以官网为准</sub> | ❔ | 旧金山联储 Sargent 博士论文奖学金：面向论文研究阶段的博士生，6 月至 8 月在旧金山联储现场驻行约六周并领取津贴；页面称 2026 轮已关闭，未写明国籍限制。 |
 | [林肯土地政策研究院研究奖学金列表](https://www.lincolninst.edu/research-fellowship-opportunities/)<br><sub>美国 ｜ 经济/金融·社会科学/心理·地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>C. Lowell Harriss 博士论文奖学金 2026 轮截止 2026 年 3 月 2 日（已过）；2027 轮以官网为准</sub> | ❔ | **要求：** 须为美国认可高校在读博士生，论文主题与土地价值、财产税或城市经济相关；2026 轮已于 2026 年 3 月 2 日截止，2027 轮以官网为准。<br>土地价值、财产税与城市经济方向的研究资助入口；Harriss 论文奖学金主要面向美国高校博士生，中国学生需核对资格。 |
@@ -67,7 +68,7 @@
 
 <a id="r-de"></a>
 
-## 德国（DE）（32）
+## 德国（DE）（36）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -97,8 +98,12 @@
 | [海德堡跨文化研究中心（HCTS）跨文化研究博士奖学金（GPTS）](https://www.hcts.uni-heidelberg.de/de/node/504)<br><sub>德国 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€1,300/月</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>最近可见一轮为 2025/26 冬季招生，已结束；2026 轮未确认，可发邮件询问。</sub> | ✅ | **要求：** 人文或社会科学硕士（或同等学历），成绩优良，英语能力强；仅限非德国籍国际申请者；研究主题需与亚欧文化交流相关<br>HCTS 跨文化研究博士奖学金（GPTS）：每次最多 2 名国际博士生，3 年期，面向亚欧文化交流相关研究；金额以官网为准。 |
 | [科隆大学地球科学研究生院（GSGS）DAAD GSSP 奖学金入口](https://geosciences.uni-koeln.de/gsgs/opportunities/graduate-school-scholarship-programme)<br><sub>德国 ｜ 地球/环境/海洋</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明<br><sub>€1,400/月（页面所列当前金额，以当期公告为准）</sub> | **2026-01-31**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请截止 2026 年 1 月 31 日，该轮已结束；2027 轮未见公告，以 GSGS 新闻页为准</sub> | ❔ | **要求：** 非德国国籍，持境外硕士或同等学历；中国大陆学生的资格以当年公告为准<br>DAAD 研究生院奖学金项目（GSSP）由各德国高校自行征集，申请直接投递研究生院而非 DAAD。该页为科隆 GSGS 的征集入口，地球与环境科学方向国际博士生可关注。 |
 | [维尔茨堡大学国际博士完成资助（International PhD Completion Grant，DAAD 资助）](https://www.uni-wuerzburg.de/graduate-academy/promovierende-1/foerderung/)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€1,050/月（最多 4 个月）</sub> | **2026-09-01**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请截止 9 月 1 日已过；资助视 DAAD 拨款而定，下一轮未确认</sub> | 🟡 | **要求：** 须为外国籍、在国外取得硕士或同等学历，已在维尔茨堡全日制攻读博士且处于最后阶段，需证明经济需要且无其他博士奖学金；仅面向在读博士，不是入学资助<br>只面向已在维尔茨堡读博、处于博士最后阶段的人，不是入学申请资助。申请需证明经济需要。 |
+| [罗斯托克大学 STIBET 国际博士完成学业奖学金](https://www.uni-rostock.de/forschung/nachwuchsfoerderung/graduiertenakademie/newskalender/n/stibet-abschlussstipendien-fuer-internationale-studierende-und-promovierende-stibet-graduation-grants-for-international-students-and-doctoral-candidates-266091/)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | **2026-04-01**<br><sub>⏸ 本轮已截止</sub><br><sub>公告截止 2026-04-01 已过，本轮已关闭；未见 2027 轮公告，申请前需问国际办公室（International Office）。</sub> | ✅ | **要求：** 面向国际学生与博士生；具体以公告为准<br>罗斯托克大学国际办公室面向国际学生与博士生的 STIBET 完成学业生活费资助，短期（最长约 6 个月），需因非自身原因陷入经济困难且能在约一年内完成学业；上一轮截止 2026-04-01。 |
+| [罗莎·卢森堡基金会国际博士生奖学金（德国）](https://www.rosalux.de/en/foundation/studienwerk/scholarships/doctoral-scholarship)<br><sub>德国 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€1,350/月 + 研究津贴 €100（一次性）</sub> | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>通常每年 10 月 1 日截止，资助自次年 4 月起；2026 年 10 月 1 日已过，2027 轮以官网为准。</sub> | ✅ | **要求：** 需获德国高校博士录取；德语 B2（即使论文用英文撰写）；学术成绩优秀并认同基金会价值观；不可同时领取其他公共资助；医学、牙医、兽医博士不在资助范围。<br>面向外国博士生的基金会奖学金，信息登记于 DAAD 数据库；截止日与国籍条款以基金会官网为准。 |
 | [耶拿大学博士完成期资助（国际博士生）](https://www.uni-jena.de/en/16055/completing-a-doctorate)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 滚动<br><sub>🔄 随时可申</sub><br><sub>页面称目前可随时在线提交申请，不受指南中截止日期限制</sub> | 🟡 | 耶拿大学为国际博士生提供的答辩前完成期资助，每月最高约 1000 欧元；须为在耶拿攻读博士的非德国籍博士生，申请后 4 个月内提交论文。不同页面对期限说法不一，以现行指南为准。 |
 | [艾伯特基金会（FES）外国博士生奖学金](https://www.fes.de/studienfoerderung/information-in-english)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 各项目不同<br><sub>各项目截止以官网项目说明为准；聚合站称 5 月 31 日与 11 月 30 日，未经官网核实</sub> | ⛔ | **要求：** 须居住在德国并在德国高校就读；申请须用德文提交，需很好的德语能力；需体现社会民主价值观契合<br>艾伯特基金会（FES）外国博士生奖学金：官网英文页称申请人须居住在德国并在德国高校就读，须用德语申请并具备很好的德语能力。月津贴金额以官网为准。 |
+| [莱茵金属博士岗位（Einstieg für Doktoranden）](https://www.rheinmetall.com/de/karriere/einstiegsmoeglichkeiten/doktoranden)<br><sub>德国 ｜ 工程·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 滚动<br><sub>🔄 随时可申</sub> | ❔ | 申请人在线提交拟研究课题与说明，由公司与大学共同推进；页面为德语，可随时提交。 |
+| [锡根大学 HYT Young Academy 博士奖学金征集](https://www.uni-siegen.de/en/hyt/academy/ausschreibung)<br><sub>德国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€1,750/月（最长 3 年）</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>每年两次征集；2026/27 冬季学期征集已于 2026-06-09 截止；下一批以官网为准</sub> | ❔ | **要求：** 硕士或同等学历；学科不限；可用德语或英语申请；需导师担任 mentor；国际生资格未在官方页面明确<br>每年两次征集，博士奖学金每月 1750 欧元（最长 3 年），接受各学科申请，可用德语或英语申请。 |
 | [马尔堡大学经验文化研究系博士奖学金](https://www.uni-marburg.de/de/fb03/ekw/forschung/stipendien)<br><sub>德国 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 未公布<br><sub>📋 持续更新</sub><br><sub>摘要未显示金额与截止日，申请前需进入页面确认</sub> | ❔ | 马尔堡大学经验文化研究系博士奖学金页面，偏人文社科。 |
 | [马普比较公法与国际法研究所（海德堡）外国博士访学资助](https://www.mpil.de/en/pub/research-interaction/visiting-scholars/institute-grants-for-internati.cfm)<br><sub>德国 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€1,650/月（博士候选人，MPIL 页面）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>年度申请期 6 月 1 日至 7 月 31 日；2026 年已过，2027 年申请期待官网公布</sub> | ✅ | **要求：** 面向非德国撰写学位的外国博士候选人、博后与教授；停留最长 6 个月；须通过官网在线系统提交，邮件申请直接淘汰<br>面向不在德国撰写论文的外国研究者，停留最长 6 个月；博士候选人月资助 €1,650。年度申请期为 6 月 1 日至 7 月 31 日，须通过官网在线系统提交，邮件申请会被直接淘汰；决定在截止后 8 至 10 周内通知。 |
 | [马普犯罪、安全与法律研究所（CSL，原外国与国际刑法研究所）刑法研究奖学金](https://csl.mpg.de/en/career/fellowships-criminal-law)<br><sub>德国 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 仅生活费<br><sub>博士生 EUR 1365/月</sub> | 未公布<br><sub>🟢 开放申请</sub><br><sub>2027 年度截止日期未能核实，以 CSL 官网为准</sub> | ✅ | 页面称博士生月津贴 EUR 1365，访学期限为两至最多四个月；面向外国研究者（含博士生），并非长期博士岗位。下一轮（2027 年度）申请截止为 2026 年 10 月 31 日。 |
@@ -137,7 +142,7 @@
 
 <a id="r-uk"></a>
 
-## 英国（UK）（13）
+## 英国（UK）（14）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -152,12 +157,13 @@
 | [爱丁堡 McIntosh-Patterson 历史语言学博士奖学金](https://www.amc.lel.ed.ac.uk/students/prizes/the-mcintosh-patterson-schollarship/)<br><sub>英国 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£15,500/年（生活费），共三年</sub> | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>页面称目前不接受申请，未给出下一轮时间</sub> | ✅ | **要求：** 研究计划需为历史语言学且可由爱丁堡语言学教师指导；需优秀本科学位，硕士优先<br>历史语言学全额博士奖学金，提供全额学费（英国、欧盟或海外）及每年 £15,500 生活费，为期三年；页面列出过往入学年份为 2015、2019、2021、2024 年，目前不接受申请。 |
 | [英国与爱尔兰鱼类学会（FSBI）博士奖学金](https://fsbi.org.uk/phd-studentships-fsbi-3/)<br><sub>英国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>🔜 即将开放</sub><br><sub>每年 1 月 30 日 17:00 GMT 截止（页面写 30 January），逾期不予考虑；以当年公告为准。</sub> | ❔ | **要求：** 需学士学位（一等或上二等荣誉，生物相关学科）；申请时须为 FSBI 付费会员；课题须与鱼类相关<br>页面称学会每年面向会员开放一次 PhD 奖学金竞争，资助四年全额（含学费与生活费）。申请人须为付费会员并计划在英国高校工作（页面列为基本条件）；不符合英国居住条件的学生须自行补足学费差额。 |
 | [英国心脏基金会四年制博士项目](https://www.bhf.org.uk/for-professionals/information-for-researchers/what-we-fund/4-year-phd-programme)<br><sub>英国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | —<br><sub>⏸ 本轮已截止</sub> | 🟡 | BHF 四年制博士：国际生政策因校而异，部分项目全额资助国际生，部分项目国际生需自付英国与海外学费差额；需一级或高二荣誉学位。各校截止不同。 |
+| [英国皇家工程院研究员基金官方入口（RAEng Research Fellowships）](https://raeng.org.uk/research-fellowships)<br><sub>英国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博后 | 半奖/部分 | **2026-12-10**<br><sub>⏸ 本轮已截止</sub><br><sub>2026/27 轮分两阶段：EOI 截止 2026-06-25（已过）；仅受邀者于 2026-12-10 提交全申请；各大学内部截止更早</sub> | ❔ | **要求：** 博士须在 EOI 截止前四年内获得；须由英国高校或 UKRI 合格机构承办并取得所在机构内部遴选；国籍规则以官网 applicant guidance 为准<br>英国皇家工程院研究员基金：面向工程领域早期研究者，5 年期资助，学院最高承担 80% 完整经济成本，需先经所在大学内部选拔；每年轮次与国籍规则以官网为准。 |
 | [英国药理学会（BPS）博士资助计划](https://www.bps.ac.uk/news/article/phd-funding-programme/)<br><sub>英国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>£21,805/年（英国校外，2026/27）；伦敦 £23,805/年，另有每年最多 £10,000 研究经费</sub> | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>2027 年奖学金截止日为 2026 年 10 月 31 日（BPS 官网）；单次申请，由学会决定 AJ Clark 或 Sir David Jack 奖学金</sub> | ❔ | **要求：** 需药理学或相关学科学位，并拟在英国或爱尔兰认可机构攻读博士；主导师须为（或将成为）学会会员；页面称国际学生可以申请，但系主任须说明国际学费如何覆盖。<br>英国药理学会博士奖学金（AJ Clark Studentship 或 Sir David Jack Scholarship，共用一次申请）：2027 年奖学金申请截止 2026 年 10 月 31 日。2026/27 生活津贴校外 £21,805、伦敦 £23,805，另有研究经费每年最多 £10,000。 |
 | [谢菲尔德哈勒姆大学 · AHRC 博士景观奖（建筑方向）](https://www.shu.ac.uk/research/degrees/phd-scholarships/ahrc-doctoral-landscape-awards)<br><sub>英国 ｜ 人文/语言·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-10-22**<br><sub>🟢 开放申请</sub><br><sub>页面称截止为英国时间 2026 年 10 月 22 日（周四）17:00，逾期不受理；面试预计 2026 年 11 月中下旬。</sub> | ⛔ | **要求：** 仅限 Home 申请人；研究须属于 AHRC 资助范围（艺术与人文）；需满足对应博士课程入学要求；已开始博士学习者不符合条件。<br>谢菲尔德哈勒姆大学 AHRC 博士景观奖，提供 1 个博士名额，2027 年 2 月开始。页面将名额限定于艺术与设计（Fine Art and Design）方向，未提及建筑方向；学费与标准博士津贴（2025/26 学年 £22,152）已由页面列出。 |
 
 <a id="r-jp"></a>
 
-## 日本（JP）（11）
+## 日本（JP）（13）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -166,7 +172,9 @@
 | [NIMS 研究生研究助理 / Junior Researcher（物质材料研究机构，筑波/九州等）](https://www.nims.go.jp/tsukuba/en/junior)<br><sub>日本 ｜ 工程·化学/材料·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>博士约 20 万日元/月（筑波分所页面，按每月约 14 日工作计）</sub> | **2026-10-22**<br><sub>🟢 开放申请</sub><br><sub>2027 年 4 月/10 月入学轮次申请期为 2026 年 9 月 1 日至 10 月 22 日；2026 年 4 月轮已关闭，下一轮 2027 年 4 月开始。</sub> | ❔ | **要求：** 面向攻读博士/硕士、从事材料科学研究的学生；需先被筑波大学等合作大学研究生项目录取。合同一年一签，博士最长 3 年；各分所规定不同，以所在分所为准。<br>NIMS 为日本国立材料研究机构，研究助理为有月度津贴的在职研究岗位，可在 NIMS 课题组做博士研究。各分所（筑波、九州等）规则略有差异。津贴金额未核实，未列入。 |
 | [Science Tokyo WISE-SSS 博士生支援制度](https://www.wise-sss.titech.ac.jp/en/?p=1240)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 页面为 2022 年 5 月发布的博士教育与支援制度总览，列出 4 个卓越博士学位项目（含 WISE 学院）与 2 项经济支援及职业支援项目。页面未给出津贴金额与国际生资格，需以 WISE-SSS 官网当前说明为准。 |
 | [SPRING 博士生奖学金 2026 年度公告 · 东京科学大学](https://www.spring-boost.i.isct.ac.jp/en/topics/137356/)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>研究激励（生活费）：一般项目 216 万日元/年（18 万/月），AI 项目 360 万日元/年（30 万/月）；研究经费 30 万日元/年</sub> | **2026-04-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 4 月入学批次申请期为 2026-04-01 至 2026-04-15，已结束。页面称 2027 年 4 月入学的预先名额尚未决定。</sub> | ❔ | **要求：** 仅面向 2026 年 4 月入学的东京科学大学科学与工程博士课程学生；页面写明不面向其他在读生，医学、牙科等领域不通过本网站申请。<br>东京科学大学博士生支援项目 SPRING FY2026 批次，含一般项目（页面预计约 50 名）与 AI 项目（页面预计约 7 名）两类。 |
+| [东京大学 Todai Fellowship（入学前国际学生特别奖学金）](https://www.k.u-tokyo.ac.jp/en/exam/master/foreign_research_students/tokyo_fellowship/)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>20 万日元/月，支付 3 年</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>与 GSFS 博士入学申请同时提交（FY2026 轮参考截止 2026-06-10，仅见第三方列出）；FY2026 指南中 2027 年 4 月与 10 月名额待定</sub> | ❔ | **要求：** 须申请东大 GSFS 博士课程；已获日本政府外国留学生奖学金者不可申请，且不可同时领取其他私人奖学金<br>东大 GSFS 面向拟入学国际学生设立的入学前奖学金，与博士入学申请同时提交。FY2026 指南：月额 20 万日元，支付 3 年；已领取日本政府外国留学生奖学金者不可申请。2027 年 4 月与 10 月入学名额待定，以当年官网文件为准。 |
 | [东京大学 TodaiFellow 博士生资助项目（2026 英文说明）](https://www.k.u-tokyo.ac.jp/en/assets/files/TodaiFellow_2026_EN_Aver.2_0526.pdf)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>200,000 日元/月，共 3 年</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮申请期为 6 月 4–10 日（已截止）；2027 轮以官网公告为准</sub> | 🟡 | **要求：** 须同时申请并获东京大学前沿科学研究科博士录取，入学时持 College Student 签证；不能同时领取外国学生奖学金或外国政府派遣资助，也不能同时持有私人机构奖学金<br>东京大学前沿科学研究科面向国际博士生的月度生活补助（3 年）。需与博士入学申请同时提交，2026 轮已截止，关注 2027 年度公告。 |
+| [东京大学 UTokyo Fellowship（国际博士生专项资助）](https://www.u-tokyo.ac.jp/en/prospective-students/fellowship.html)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>每月 20 万日元</sub> | — | 🟡 | UTokyo Fellowship 面向自费入读的海外国际生，标准修业期间每月 20 万日元（不可与学费减免等其他奖学金并用）；另有新领域创成研究科的 Todai Fellowship，需与博士入学申请同时申请。各研究科截止日期不同；第三方称 2026 年 Todai Fellowship 截止为 6 月 10 日（已过），2027 年以所在研究科官网为准。 |
 | [京都大学 Hakubi 计划（特定项目助理教授公开招聘）](https://www.hakubi.kyoto-u.ac.jp/en/recruitment)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 带薪岗位 | —<br><sub>⏸ 本轮已截止</sub><br><sub>第 17 轮 2026 年 5 月 17 日截止（已结束），2027 年 4 月 1 日入职；第 18 轮公告未找到。</sub> | ✅ | **要求：** 需博士学位或同等研究能力，全学科开放；曾任 Hakubi 研究员者不可申请；任期原则五年。<br>面向持博士学位或同等研究能力的全学科研究者，入选者获五年任期（不可续聘）的特定项目岗位，研究经费每年约 100–400 万日元。第 17 轮截止为 2026 年 5 月 17 日已关闭，第 18 轮公告需在官网关注。 |
 | [平和中岛财团留学生奖学金（日本）](https://www.hama-med.ac.jp/uni-e/campus-life/mt_files/heiwanakajima2026.pdf)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>约 15 万日元/月（通常 1 年，自 4 月起）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2027 年度各校内部截止不同，多数已在 2026 年 10 月初结束；以所在大学公告为准。</sub> | ✅ | **要求：** 需为在读日本大学的留学生，由所在大学推荐，各校名额有限<br>本页为日本某大学国际中心的 2027 年度校内公告：资助期 2027 年 4 月至 2028 年 3 月（12 个月），大学院生每月 20 万日元。校内选拔材料截止 2026 年 9 月 18 日，每个实验室限推荐 1 人。 |
 | [广岛大学 Global Doctoral Fellowship（国际博士生有薪研究员计划）](https://www.hiroshima-u.ac.jp/node/94245)<br><sub>日本 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位<br><sub>月薪上限 144,000 日元（年上限 1,728,000 日元），另有研究经费最高 40 万日元/年（200,000 日元/学期）</sub> | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 10 月入学轮截止 2026 年 6 月 19 日（已过）；2026 年 4 月入学轮截止 1 月 5 日；2027 年度轮次待公布</sub> | ❔ | **要求：** 面向国际博士生；需被录取到广岛大学博士课程并注册入学；需说明毕业后为日本科技创新作贡献的意愿<br>广岛大学 Global Doctoral Fellowship，以研究员身份聘用国际博士生，工资上限约 144,000 日元/月，研究经费最高约 40 万日元/年，支持 3–4 年，共 30 名。2026 年度两轮截止已过，2027 年度是否开放以官网为准。 |
@@ -188,6 +196,21 @@
 | [日本国际交流基金会日本研究奖学金（悉尼）](https://sydney.jpf.go.jp/japanese-studies/grants/fellowships/)<br><sub>澳大利亚·日本 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>FY2027-2028 轮提交截止为 2026 年 12 月 1 日 13:00（日本时间），须通过在线申请系统并使用 2027-2028 表格提交；赴日开始时间须在 2027 年 6 月 20 日至 2028 年 3 月 20 日之间。</sub> | ❔ | **要求：** 人文社科博士候选人，需赴日开展日本研究；总部指南要求申请人为与日本有外交关系国家的国民或永久居民（Sydney 轮待核实）；需在截止前落实赴日单位安排<br>日本国际交流基金会日本研究奖学金（悉尼）面向赴日开展日本研究的人文社科博士候选人与资深学者。页面已更新为 FY2027-2028 轮信息（2026 年 10 月 8 日更新），原条目中的 2025 年 12 月 2 日截止不再适用。 |
 | [澳大利亚国家图书馆 2027 年博士奖学金](https://www.library.gov.au/news-media/scholarships-2027-explore-question-discover-and-share)<br><sub>澳大利亚 ｜ 人文/语言·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明<br><sub>A$10,000（馆内研究资助，共 8 个名额）</sub> | **2026-05-01**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 轮已于 2026-05-01 截止；2028 轮未公布</sub> | 🟡 | **要求：** 须已在澳大利亚大学攻读博士；需在国家图书馆现场使用馆藏研究<br>澳大利亚国家图书馆 2027 年博士奖学金，8 个名额，每名 1 万澳元用于馆内研究。2027 轮已截止；须已在澳大利亚大学攻读博士方可申请。 |
 
+<a id="r-es"></a>
+
+## 西班牙（ES）（8）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [DIPC Severo Ochoa 博士岗（圣塞巴斯蒂安）](https://dipc.ehu.eus/en/dipc/join-us/phd-student-positions-within-the-framework-of-the-severo-ochoa-program-2)<br><sub>西班牙 ｜ 物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-02-28**<br><sub>⏸ 本轮已截止</sub><br><sub>本轮 2026-02-28 截止，已结束；Severo Ochoa 博士岗按年发布，下一轮以 DIPC 官网为准</sub> | ❔ | **要求：** 面向近期毕业的物理相关学生；国际生资格未核实，以官网为准<br>DIPC Severo Ochoa 博士岗页面列出 2026/03 至 2026/08 共六个岗位，截止日 2026-02-28，本轮已结束。下一轮需关注 DIPC 官网，国际生资格未核实。 |
+| [Fundación Ramón Areces 海外博士后进修（生命与材料科学，不适用）](https://boe.es/boe/dias/2026/01/21/pdfs/BOE-B-2026-1428.pdf)<br><sub>西班牙 ｜ 生物/生命科学·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博后 | 力度未注明 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026–27 学年申请期 2026-01-21 至 2026-02-23 已关闭；下一轮预计 2027 年初，以官网为准</sub> | ⛔ | Fundación Ramón Areces 海外博士后进修（生命与材料科学）。依据上一届 bases，申请人须持西班牙国籍，中国籍不符合；最新一届原文未能读取，保留 no，以官网当期为准。 |
+| [ICM-CSIC INPhINIT 博士候选人接收公告（巴塞罗那）](https://www.icm.csic.es/en/calls/looking-phd-candidates-hosting-offers-inphinit-fellowships-programme-0)<br><sub>西班牙 ｜ 化学/材料·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-02-18**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮宿主 offer 截止 2026-02-18（已关闭）；下一轮待公布</sub> | ✅ | 宿主单位（ICM-CSIC）发布博士候选人需求；2026 年 INPhINIT 轮次已截止，需联系课题组后通过 INPhINIT 统一申请。 |
+| [IFAE 粒子与天体物理研究所博士奖学金](https://www.ifae.es/careers/phd-fellowships)<br><sub>西班牙 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>INPhINIT incoming 2026 轮已于 2026-01-28 截止；下一轮以官网为准。</sub> | 🟡 | **要求：** INPhINIT incoming 路线要求申请人近三年内在西班牙居住或工作不超过 12 个月，且未曾攻读博士；需先获得 IFAE 研究线导师支持<br>IFAE 提供多条博士资助：INPhINIT incoming（la Caixa，面向近三年未在西班牙居住超过 12 个月者）、Severo Ochoa 博士奖学金（面向西班牙及海外候选人），以及西班牙和加泰罗尼亚预博士合同。国际生可申请的路线以各自公告为准。 |
+| [INPhINIT “la Caixa” 博士奖学金（Incoming，西班牙/葡萄牙）](https://www.crg.eu/es/node/23039)<br><sub>西班牙·葡萄牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 Incoming 轮已关闭；2027 轮未见公告，需关注 la Caixa 官网。</sub> | ❔ | 官网页面列出 30 个名额、最长 4 年全额资助（含劳务与科研费用、学费）；页面同时给出 2026 年 1 月 28 日与 2 月 18 日两个截止日期，以当期公告为准。 |
+| [IRB Barcelona 国际博士奖学金](https://www.irbbarcelona.org/ca/careers/young-scientists/irb-barcelona-international-phd-fellowships-2026)<br><sub>西班牙 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面显示本轮（2026-2027 学年）已关闭（Call closed），正文未给出截止日期；下一轮以官网为准。</sub> | ❔ | 生命科学与生物医学国际博士奖学金，2026-2027 学年最多提供 15 个博士奖学金名额，页面显示本轮已关闭。学历条件：非欧洲高等教育区大学的学位须可在西班牙获得相应博士入学资格。 |
+| [UAB 博士奖学金综合说明（2026 版）](https://webs.uab.cat/grdec/wp-content/uploads/sites/486/2026/04/Info_PhD_scholarships_EN-4.pdf)<br><sub>西班牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | — | ❔ | 汇总页，列出 UAB 各类博士奖学金与预博士合同。各项目资助与国际生资格不同，需逐项核对。 |
+| [巴塞罗那经济学院（BSE）la Caixa Severo Ochoa 国际博士奖学金](https://bse.eu/la-caixa-severo-ochoa-international-doctoral-fellowships)<br><sub>西班牙 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€18,069/年（第1-2年）；€26,700/年（第3-4年）</sub> | 未公布<br><sub>第三方页面显示“下一截止 19 March”，年份未确认，以官网为准</sub> | ❔ | **要求：** 须同时被录取到 BSE 的 GPEFM 或 IDEA 博士项目；国籍限制未确认<br>BSE 页面列出 la Caixa Severo Ochoa 奖学金：第1–2年 €18,069/年 + 研究费 €1,500；第3–4年 €26,700/年 + €1,700。需同时录取 BSE 的 GPEFM 或 IDEA 博士项目。国籍资格未确认，截止日以官网为准。 |
+
 <a id="r-ca"></a>
 
 ## 加拿大（CA）（7）
@@ -201,20 +224,6 @@
 | [约克大学 Schulich 商学院博士奖学金](https://schulich.yorku.ca/student-life-services/financial-aid/phd-scholarships-awards/)<br><sub>加拿大 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>国际生 $43,000/年（第 1–5 年，页面称可能调整）</sub> | 未公布<br><sub>📋 持续更新</sub><br><sub>无单独截止日，随博士入学申请评审；学费需从奖学金中自付。</sub> | ✅ | **要求：** 须全日制入学，前三年绑定研究助理工作<br>官网列出国际生与本地生不同金额的前五年奖学金；学费不在资助范围内，需从奖学金中自行支付。 |
 | [阿尔伯塔大学 Killam 信托博士奖学金总页](https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/killam-trust-scholarships.html)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>最高 CAD 45,000/年，共两年</sub> | —<br><sub>⏸ 本轮已截止</sub><br><sub>提名经院系进行，各系有内部截止；校级 2026 年提名截止约 2 月中（聚合站信息，未在官网核实）。本轮已截止，2027 轮未公布。</sub> | ✅ | **要求：** 需为在读或已获推荐录取的全日制博士生（2026 年起剩余至少 18 个月）；GPA 至少 3.5（新生用入学 GPA）；首次博士入读需一等成绩并经系提名；国际生与加拿大公民均可申请。<br>阿尔伯塔大学 Killam 信托奖学金总页，博士奖为 Izaak Walton Killam 纪念奖学金，金额最高 $45,000/年、共两年。持学习许可的国际生另享国际研究生差额学费补助。须经院系提名，本轮已截止，下一轮时间未公布。 |
 | [麦吉尔大学 Chiu-Kay Lui CSC 博士奖学金](https://www.mcgill.ca/gps/node/82795)<br><sub>加拿大 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>$16,000（国际学费差额，可续 3 年）</sub> | **2026-04-23**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 4 月 23 日已截止，5 月公布结果；2027 轮待 McGill 公布</sub> | ✅ | **要求：** 持 CSC 奖学金的博士生，就读 PhD1–3，GPA ≥3.30/4.00；需导师支持信、中英文研究摘要与中文学业目标陈述<br>面向持 CSC 奖学金的中国籍博士生，补足国际学费差额，最多可续 3 年；2026 轮申请截止 2026 年 4 月 23 日，结果 5 月公布。页面未列出下一轮申请时间。 |
-
-<a id="r-es"></a>
-
-## 西班牙（ES）（7）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [DIPC Severo Ochoa 博士岗（圣塞巴斯蒂安）](https://dipc.ehu.eus/en/dipc/join-us/phd-student-positions-within-the-framework-of-the-severo-ochoa-program-2)<br><sub>西班牙 ｜ 物理/天文·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-02-28**<br><sub>⏸ 本轮已截止</sub><br><sub>本轮 2026-02-28 截止，已结束；Severo Ochoa 博士岗按年发布，下一轮以 DIPC 官网为准</sub> | ❔ | **要求：** 面向近期毕业的物理相关学生；国际生资格未核实，以官网为准<br>DIPC Severo Ochoa 博士岗页面列出 2026/03 至 2026/08 共六个岗位，截止日 2026-02-28，本轮已结束。下一轮需关注 DIPC 官网，国际生资格未核实。 |
-| [ICM-CSIC INPhINIT 博士候选人接收公告（巴塞罗那）](https://www.icm.csic.es/en/calls/looking-phd-candidates-hosting-offers-inphinit-fellowships-programme-0)<br><sub>西班牙 ｜ 化学/材料·物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-02-18**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮宿主 offer 截止 2026-02-18（已关闭）；下一轮待公布</sub> | ✅ | 宿主单位（ICM-CSIC）发布博士候选人需求；2026 年 INPhINIT 轮次已截止，需联系课题组后通过 INPhINIT 统一申请。 |
-| [IFAE 粒子与天体物理研究所博士奖学金](https://www.ifae.es/careers/phd-fellowships)<br><sub>西班牙 ｜ 物理/天文</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>INPhINIT incoming 2026 轮已于 2026-01-28 截止；下一轮以官网为准。</sub> | 🟡 | **要求：** INPhINIT incoming 路线要求申请人近三年内在西班牙居住或工作不超过 12 个月，且未曾攻读博士；需先获得 IFAE 研究线导师支持<br>IFAE 提供多条博士资助：INPhINIT incoming（la Caixa，面向近三年未在西班牙居住超过 12 个月者）、Severo Ochoa 博士奖学金（面向西班牙及海外候选人），以及西班牙和加泰罗尼亚预博士合同。国际生可申请的路线以各自公告为准。 |
-| [INPhINIT “la Caixa” 博士奖学金（Incoming，西班牙/葡萄牙）](https://www.crg.eu/es/node/23039)<br><sub>西班牙·葡萄牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 Incoming 轮已关闭；2027 轮未见公告，需关注 la Caixa 官网。</sub> | ❔ | 官网页面列出 30 个名额、最长 4 年全额资助（含劳务与科研费用、学费）；页面同时给出 2026 年 1 月 28 日与 2 月 18 日两个截止日期，以当期公告为准。 |
-| [IRB Barcelona 国际博士奖学金](https://www.irbbarcelona.org/ca/careers/young-scientists/irb-barcelona-international-phd-fellowships-2026)<br><sub>西班牙 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>⏸ 本轮已截止</sub><br><sub>页面显示本轮（2026-2027 学年）已关闭（Call closed），正文未给出截止日期；下一轮以官网为准。</sub> | ❔ | 生命科学与生物医学国际博士奖学金，2026-2027 学年最多提供 15 个博士奖学金名额，页面显示本轮已关闭。学历条件：非欧洲高等教育区大学的学位须可在西班牙获得相应博士入学资格。 |
-| [UAB 博士奖学金综合说明（2026 版）](https://webs.uab.cat/grdec/wp-content/uploads/sites/486/2026/04/Info_PhD_scholarships_EN-4.pdf)<br><sub>西班牙 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | — | ❔ | 汇总页，列出 UAB 各类博士奖学金与预博士合同。各项目资助与国际生资格不同，需逐项核对。 |
-| [巴塞罗那经济学院（BSE）la Caixa Severo Ochoa 国际博士奖学金](https://bse.eu/la-caixa-severo-ochoa-international-doctoral-fellowships)<br><sub>西班牙 ｜ 经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€18,069/年（第1-2年）；€26,700/年（第3-4年）</sub> | 未公布<br><sub>第三方页面显示“下一截止 19 March”，年份未确认，以官网为准</sub> | ❔ | **要求：** 须同时被录取到 BSE 的 GPEFM 或 IDEA 博士项目；国籍限制未确认<br>BSE 页面列出 la Caixa Severo Ochoa 奖学金：第1–2年 €18,069/年 + 研究费 €1,500；第3–4年 €26,700/年 + €1,700。需同时录取 BSE 的 GPEFM 或 IDEA 博士项目。国籍资格未确认，截止日以官网为准。 |
 
 <a id="r-eu"></a>
 
@@ -283,14 +292,25 @@
 
 <a id="r-ie"></a>
 
-## 爱尔兰（IE）（4）
+## 爱尔兰（IE）（5）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
+| [Research Ireland Enterprise Fellowships（企业合作博士/博后）](https://www.researchireland.ie/funding/enterprise-fellowships)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | **2025-07-15**<br><sub>⏸ 本轮已截止</sub><br><sub>旧版 Partnership 线 2025 年 7 月 15 日截止；统一新项目的征集时间未公布，以 researchireland.ie 为准。</sub> | ❔ | **要求：** 需在爱尔兰合格高校开展研究并与企业或公共机构合作；面向博士后及后期博士生；国籍限制未确认<br>爱尔兰研究署企业合作博士/博后资助：旧版 Partnership 线 2025 年 7 月 15 日截止；研究署将推出统一的新企业合作项目，时间与条件未确认。官网搜索结果未见国籍限制。 |
 | [Research Ireland 企业伙伴博士计划（EPS Postgraduate）](https://www.researchireland.ie/funding/enterprise-partnership-postgraduate/)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>€25,000/年</sub> | **2026-02-24**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮截止 2026 年 2 月 24 日，已关闭；2027 轮是否开放以 researchireland.ie 为准</sub> | ❔ | 企业伙伴博士计划（EPS）2025 轮（2025-04-10 截止，最高约 €34,000/年）已结束。Research Ireland 官网未见 2026 轮公告；以 researchireland.ie 官方页为准。 |
 | [Teagasc Walsh 学者计划 2026 博士与研究硕士招生（爱尔兰）](https://teagasc.ie/news--events/news/applications-open-for-2026-teagasc-walsh-scholars-phd-and-research-masters-opportunities/)<br><sub>爱尔兰 ｜ 生物/生命科学·生态/进化·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€25,000/年，学费最高覆盖 €6,000/年（2026 轮）</sub> | **2026-09-10**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 轮研究项目提案 2026 年 9 月 10 日截止（已过），由高校教师通过 SmartSimple 提交；学生不直接申请</sub> | ❔ | **要求：** 国际生资格未确认：须以 2027 Guidelines for Proposers 为准；学生需通过爱尔兰高校教师提交的研究项目申请<br>爱尔兰农业食品研究机构 Teagasc 的 Walsh 博士奖学金，面向农业、食品、环境方向。 |
 | [爱尔兰海洋研究所 Cullen 博士奖学金](https://www.marine.ie/site-area/research-funding/research-funding/cullen-scholarship-2025-call)<br><sub>爱尔兰 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>⏸ 本轮已截止</sub><br><sub>每年约 6 月初截止（2025 轮为 6 月 10 日）；2026 轮未见公告，可邮件 funding@marine.ie 核实</sub> | ❔ | **要求：** 宿主须为爱尔兰岛内高校导师；国际生资格以当年公告为准<br>每轮约 10 个海洋科学博士名额，挂靠 Marine Institute 项目。 |
 | [都柏林圣三一学院 Ussher 奖学金（博士）](https://www.tcd.ie/study/international/scholarships/postgraduate/ussher.php)<br><sub>爱尔兰 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>页面写作每月生活津贴 €13,000，共三年（原文 monthly maintenance），与条目“每年”口径不一致，需核实</sub> | —<br><sub>页面未列出截止日期，称需与博士申请同时提交。</sub> | ✅ | **要求：** 仅限新入读全日制博士的学生；通常需一等荣誉学位或 TCD 硕士学位；面向所有国籍。<br>页面称全额覆盖学费并提供生活津贴，按学术成绩竞争授予，需与博士申请同时提交。页面未写明面向国际申请者，也未列截止日期。 |
+
+<a id="r-fr"></a>
+
+## 法国（FR）（3）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [ANRS MIE 博士/博后研究分配（Allocations de recherche，2026 规则）](https://anrs.fr/wp-content/uploads/2026/06/reglement-allocations-de-recherche-2027-1.pdf)<br><sub>法国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | **2026-03-25**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮截止 2026-03-25；2027 规则已于 2026 年 6 月发布，具体开放与截止日以当期公告为准</sub> | ❔ | **要求：** 课题须属传染病方向；博士须为法国博士学校候选人（据 2024 规则）；须隶属法国科研机构；申请材料为英文<br>ANRS-MIE 支持传染病方向博士与博后分配，2027 年规则已于 2026 年 6 月发布，可关注下一轮。 |
+| [法国 Eiffel 卓越奖学金 2027 校内申请说明（巴黎大学）](https://u-paris.fr/language/en/eiffel-excellence-scholarship-2027/)<br><sub>法国 ｜ 生物/生命科学·数学/统计·计算机·工程·经济/金融·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>博士生每月津贴 2000 欧元；获奖者免除巴黎城市大学学费（页面：monthly allowance of €2 000）。</sub> | **2026-11-02**<br><sub>🟢 开放申请</sub><br><sub>2027–28 学年校内申请 2026 年 11 月 2 日 23:59（巴黎时间）截止；须由法国高校提交，学生不可直接向 Campus France 投递。</sub> | ❔ | Eiffel 2027–28 学年博士申请已开放，校内截止 2026 年 11 月 2 日；学生需通过法国高校提交，不能直接向 Campus France 投递。资助细节与中国大陆申请资格仍以官网为准。 |
+| [法国生态与进化学会（SFE²）资助与奖学金栏目](https://sfecologie.org/category/bourses)<br><sub>法国 ｜ 生物/生命科学·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 半奖/部分 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 学会资助栏目，多为小额野外研究资助，并非全额奖学金。 |
 
 <a id="r-hk"></a>
 
@@ -320,15 +340,6 @@
 | --- | --- | --- | --- | :-: | --- |
 | [塔林理工大学博士生奖学金（TLU Doctoral Scholarship）](https://www.tlu.ee/en/taxonomy/term/1806/tlu-doktorandistipendium)<br><sub>爱沙尼亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>€500/月</sub> | 未公布<br><sub>通过所在学院学习顾问申请，无统一截止日；以校方当期公告为准</sub> | ❔ | **要求：** 需为全日制博士生、未超名义学习期且通过中期考核（一年级生除外）；不得同时领取外国政府或合作项目奖学金；官方资格页仅列 2019/20–2021/22 年入学学生，2026 年新生是否适用需向校方确认<br>塔林大学（TLU）博士生奖学金：每月 500 欧元，最长 48 个月，需全日制、未超名义学习期且通过中期考核（或为一年级），通过所在学院学习顾问申请。官方资格页仅列 2019/20–2021/22 年入学学生，对 2026 年新生是否适用不明。请以校方当期公告为准。 |
 | [爱沙尼亚 MSCA 博后通道（塔尔图大学通知）](https://ut.ee/en/news/call-msca-postdoctoral-fellowships-open)<br><sub>爱沙尼亚 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博后 | 仅生活费 | **2026-09-09**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年征集申请截止 2026 年 9 月 9 日（已过）；页面未给出 2027 年征集时间</sub> | ✅ | **要求：** 截止时需已获博士学位，科研经验不超过 8 年；截止前 3 年内在爱沙尼亚居留或工作不得超过 12 个月；需先联系依托导师<br>塔尔图大学通知：2026 年 MSCA 博士后征集截止 2026 年 9 月 9 日（已过）。赴爱沙尼亚的博士后不能直接向 ETAG 申请，须通过 MSCA 途径，大学资助办公室要求 8 月 17 日前把申请提交给协调员。 |
-
-<a id="r-fr"></a>
-
-## 法国（FR）（2）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [ANRS MIE 博士/博后研究分配（Allocations de recherche，2026 规则）](https://anrs.fr/wp-content/uploads/2026/06/reglement-allocations-de-recherche-2027-1.pdf)<br><sub>法国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | **2026-03-25**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮截止 2026-03-25；2027 规则已于 2026 年 6 月发布，具体开放与截止日以当期公告为准</sub> | ❔ | **要求：** 课题须属传染病方向；博士须为法国博士学校候选人（据 2024 规则）；须隶属法国科研机构；申请材料为英文<br>ANRS-MIE 支持传染病方向博士与博后分配，2027 年规则已于 2026 年 6 月发布，可关注下一轮。 |
-| [法国 Eiffel 卓越奖学金 2027 校内申请说明（巴黎大学）](https://u-paris.fr/language/en/eiffel-excellence-scholarship-2027/)<br><sub>法国 ｜ 生物/生命科学·数学/统计·计算机·工程·经济/金融·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>博士生每月津贴 2000 欧元；获奖者免除巴黎城市大学学费（页面：monthly allowance of €2 000）。</sub> | **2026-11-02**<br><sub>🟢 开放申请</sub><br><sub>2027–28 学年校内申请 2026 年 11 月 2 日 23:59（巴黎时间）截止；须由法国高校提交，学生不可直接向 Campus France 投递。</sub> | ❔ | Eiffel 2027–28 学年博士申请已开放，校内截止 2026 年 11 月 2 日；学生需通过法国高校提交，不能直接向 Campus France 投递。资助细节与中国大陆申请资格仍以官网为准。 |
 
 <a id="r-nl"></a>
 
