@@ -7,6 +7,7 @@ PhDRadar 的数据每天随网站一起生成一套静态 JSON，放在 GitHub P
 | [`llms.txt`](https://pingfanfan.github.io/PhDRadar/llms.txt) | 给大模型读的站点说明（[llms.txt 约定](https://llmstxt.org)） |
 | [`api/v1/index.json`](https://pingfanfan.github.io/PhDRadar/api/v1/index.json) | 接口目录：版本、生成日期、条数、各端点、枚举值、地区与学科中文名、使用规则 |
 | [`api/v1/opportunities.json`](https://pingfanfan.github.io/PhDRadar/api/v1/opportunities.json) | 现在可申请的机会，与首页“现在可申请”同一份，按截止日期排序 |
+| [`api/v1/changes.json`](https://pingfanfan.github.io/PhDRadar/api/v1/changes.json) | 最近 30 天每天新增、下架了哪些机会（只有 id）。agent 先读它，有变化再下载 opportunities.json，做增量同步 |
 | [`api/v1/sources.json`](https://pingfanfan.github.io/PhDRadar/api/v1/sources.json) | 逐页核对过官网的信源：奖学金、博士项目、招聘平台等 |
 | [`api/v1/schema.json`](https://pingfanfan.github.io/PhDRadar/api/v1/schema.json) | 两类记录的 JSON Schema |
 | [`api/openapi.json`](https://pingfanfan.github.io/PhDRadar/api/openapi.json) | OpenAPI 3.1 描述，可直接导入成 agent 的工具（如 GPT Actions、各类 tool-calling 框架） |
@@ -52,11 +53,10 @@ PhDRadar 的数据每天随网站一起生成一套静态 JSON，放在 GitHub P
 ## 典型用法
 
 - **按画像筛选排序：** 读 opportunities.json，按 `levels`、`regions`、`funding_coverage`、`cn_eligible`、`requirements.degree` / `language` 做硬性筛选，再按研究方向匹配。仓库里的 `scripts/rank.py`（命令 `/rank`）就是这样做的，浏览器版在 `assets/rank.js`。
-- **每天提醒新机会：** 比较 `first_seen`，或订阅对应的 RSS。
+- **每天提醒新机会：** 读 `changes.json` 里当天的 `added`，或比较 `first_seen`，或订阅对应的 RSS。
 - **起草材料：** 用 `/apply` 生成申请清单与草稿，每条经历都要能在申请者自己的 `cv-facts.yml` 里找到。
 
 ## 以后的接入方式（规划）
 
 - **MCP 服务器：** 把“搜索机会 / 查看详情 / 按画像排序”做成 MCP 工具，直接读上面的 JSON，让 Claude 等客户端开箱即用。
 - **按地区、学科拆分的小文件**（如 `api/v1/opportunities/UK.json`）：数据变大后减少下载量。
-- **变更记录：** 每天新增、下架了哪些机会，方便 agent 增量同步。

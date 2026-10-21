@@ -1103,14 +1103,21 @@ def main() -> int:
             elif why not in ("详情页失败", "robots 不允许"):  # 页面读到了但按现行规则不再收录（已截止、不再写资助等）：去掉旧记录
                 rows.pop(f"{name}:{jid}", None)
         print(f"[{name}] 列表 {len(urls)} 个：{stats}")
-    deduped, dropped = dedupe(list(rows.values()))
-    print(f"去重：合并 {dropped} 条跨平台重复岗位")
-    out = sorted(deduped, key=lambda r: (r["deadline"], r["id"]))
+        if not args.dry_run:  # 每个平台采完就存一次：全量采集要好几个小时，中途被打断也不丢已采到的
+            save(rows)
+    out = save(rows, final=True) if not args.dry_run else sorted(dedupe(list(rows.values()))[0], key=lambda r: (r["deadline"], r["id"]))
     print(f"岗位清单共 {len(out)} 条（中国学生可申 {sum(r['cn'] == 'yes' for r in out)} · 待确认 "
           f"{sum(r['cn'] == 'check' for r in out)} · 限本土 {sum(r['cn'] == 'no' for r in out)}）")
-    if not args.dry_run:
-        OUT.write_text(yaml.safe_dump(out, allow_unicode=True, sort_keys=False, width=200), encoding="utf-8")
     return 0
+
+
+def save(rows: dict[str, dict], final: bool = False) -> list[dict]:
+    deduped, dropped = dedupe(list(rows.values()))
+    if final:
+        print(f"去重：合并 {dropped} 条跨平台重复岗位")
+    out = sorted(deduped, key=lambda r: (r["deadline"], r["id"]))
+    OUT.write_text(yaml.safe_dump(out, allow_unicode=True, sort_keys=False, width=200), encoding="utf-8")
+    return out
 
 
 if __name__ == "__main__":

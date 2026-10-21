@@ -144,4 +144,5 @@
 8. Agent 接入准备（为以后接入 AI agent 打基础，见 `docs/agents.md`）。
    - 10-20：随网站生成静态接口：`api/v1/index.json`（目录、枚举、规则）、`opportunities.json`（现在可申请，字段用完整英文名，附官网原句与公告原文摘出的申请须知）、`sources.json`（核对过的信源）、
      `schema.json`（JSON Schema）、`api/openapi.json`（OpenAPI 3.1，可导入为 agent 工具）、根目录 `llms.txt`；生成脚本 `scripts/build_api.py`，测试 `tests/test_api.py`。同日上线 RSS 订阅（`feeds/`）与新版界面。
-   - 下一步：MCP 服务器（搜索机会 / 查看详情 / 按画像排序，直接读上述 JSON）；按地区、学科拆分的小文件；每日变更记录（新增 / 下架）供增量同步。
+   - 10-21：每日变更记录 `api/v1/changes.json`：和上一次生成的 opportunities.json 比较，按天记新增 / 下架的机会 id，同一天多次生成会合并（当天加了又撤、撤了又回的不计），保留 30 天；已写进 index.json、OpenAPI、llms.txt 与 `docs/agents.md`，`tests/test_api.py` 覆盖。
+   - 下一步：MCP 服务器（搜索机会 / 查看详情 / 按画像排序，直接读上述 JSON）；按地区、学科拆分的小文件。

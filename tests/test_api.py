@@ -26,5 +26,19 @@ def test_api_files(tmp_path):
     srcs = json.loads((tmp_path / "api/v1/sources.json").read_text())
     assert "unverified" not in [x["id"] for x in srcs["items"]]  # 只公开核对过的
     spec = json.loads((tmp_path / "api/openapi.json").read_text())
-    assert set(spec["paths"]) == {"/api/v1/index.json", "/api/v1/opportunities.json", "/api/v1/sources.json"}
+    assert set(spec["paths"]) == {"/api/v1/index.json", "/api/v1/opportunities.json", "/api/v1/changes.json", "/api/v1/sources.json"}
     assert "opportunities.json" in (tmp_path / "llms.txt").read_text()
+
+
+def test_changes_log(tmp_path):
+    write_api(ROWS, tmp_path, today="2026-10-20")  # 第一次：没有上一版，不记变更
+    assert json.loads((tmp_path / "api/v1/changes.json").read_text())["days"] == []
+    later = [r for r in ROWS if r["id"] != "ajo:1"] + [
+        {"id": "new", "n": "新岗位", "u": "https://example.org/x", "e": "yes", "v": True, "o": {"st": "open", "dl": "2026-12-01"}}]
+    write_api(later, tmp_path, today="2026-10-21")
+    write_api(later, tmp_path, today="2026-10-21")  # 同一天再生成一次：合并，不重复
+    days = json.loads((tmp_path / "api/v1/changes.json").read_text())["days"]
+    assert days == [{"date": "2026-10-21", "added": ["new"], "removed": ["ajo:1"]}]
+    write_api(ROWS, tmp_path, today="2026-10-21")  # 当天又回来：既不算新增也不算下架
+    days = json.loads((tmp_path / "api/v1/changes.json").read_text())["days"]
+    assert days == [{"date": "2026-10-21", "added": [], "removed": []}]

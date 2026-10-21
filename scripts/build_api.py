@@ -9,6 +9,7 @@
     api/v1/index.json           接口目录：版本、生成日期、条数、各端点、使用规则
     api/v1/opportunities.json   现在可申请的机会（与首页“现在可申请”同一份）
     api/v1/sources.json         逐页核对过官网的信源（项目页、奖学金、招聘平台等）
+    api/v1/changes.json         最近 30 天每天新增 / 下架的机会 id（增量同步用）
     api/v1/schema.json          以上两类记录的 JSON Schema
     api/openapi.json            OpenAPI 3.1 描述（可直接导入为 agent 的工具）
     llms.txt                    给大模型读的站点说明（https://llmstxt.org 约定）
@@ -124,6 +125,8 @@ def openapi(counts: dict) -> dict:
             "/api/v1/index.json": {"get": {"operationId": "getIndex", "summary": "API directory, counts and usage rules",
                                            "responses": {"200": {"description": "OK"}}}},
             "/api/v1/opportunities.json": get(f"Opportunities open now ({counts['opportunities']})", "Opportunity", "listOpportunities"),
+            "/api/v1/changes.json": {"get": {"operationId": "getChanges", "summary": "Opportunity ids added / removed per day (last 30 days), for incremental sync",
+                                             "responses": {"200": {"description": "OK"}}}},
             "/api/v1/sources.json": get(f"Verified sources ({counts['sources']})", "Source", "listSources"),
         },
     }
@@ -139,6 +142,7 @@ Read the JSON files below rather than scraping the HTML page. All endpoints are 
 ## Data
 - [API directory]({SITE}api/v1/index.json): counts, endpoints, field notes and usage rules
 - [Opportunities open now]({SITE}api/v1/opportunities.json): {counts['opportunities']} items — postings and programmes with deadline, funding, eligibility for mainland Chinese applicants, evidence quote, and requirement fields quoted from the posting
+- [Daily changes]({SITE}api/v1/changes.json): ids of opportunities added and removed each day over the last 30 days — fetch this first and only re-download when something changed
 - [Verified sources]({SITE}api/v1/sources.json): {counts['sources']} scholarship schemes, doctoral programmes and job boards
 - [JSON Schema]({SITE}api/v1/schema.json) and [OpenAPI]({SITE}api/openapi.json)
 - [RSS feeds]({SITE}feeds/): new opportunities by discipline and region
@@ -150,6 +154,32 @@ Read the JSON files below rather than scraping the HTML page. All endpoints are 
 - [Field reference and agent guide (Chinese)]({REPO}/blob/main/docs/agents.md)
 - [Applicant workflow: /setup, /rank, /apply, /track]({REPO}/blob/main/docs/roadmap.md)
 """
+
+
+KEEP_DAYS = 30
+
+
+def update_changes(out: Path, ids: list[str], today: str) -> list[dict]:
+    """和上一次生成的 opportunities.json 比较，记下今天新增 / 下架的机会；同一天多次生成会合并，只保留最近 30 天。"""
+    prev_file, log_file = out / "opportunities.json", out / "changes.json"
+    prev = {x["id"] for x in json.loads(prev_file.read_text(encoding="utf-8"))["items"]} if prev_file.exists() else None
+    days = json.loads(log_file.read_text(encoding="utf-8"))["days"] if log_file.exists() else []
+    if prev is None:  # 第一次生成：没有可比较的上一版
+        return days
+    now = set(ids)
+    day = next((d for d in days if d["date"] == today), None)
+    if day is None:
+        day = {"date": today, "added": [], "removed": []}
+        days.append(day)
+    start = (prev - set(day["added"])) | set(day["removed"])  # 当天第一次生成前的状态（上一版 = 起点 + 新增 − 下架）
+    day["added"], day["removed"] = sorted(now - start), sorted(start - now)  # 当天加了又撤、撤了又回的都不计
+    days = sorted(days, key=lambda d: d["date"])
+    return [d for d in days if d["date"] > _days_before(today, KEEP_DAYS)]
+
+
+def _days_before(day: str, n: int) -> str:
+    from datetime import date, timedelta
+    return (date.fromisoformat(day) - timedelta(days=n)).isoformat()
 
 
 def write_api(rows: list[dict], root: Path = ROOT, today: str | None = None) -> dict:
@@ -168,13 +198,15 @@ def write_api(rows: list[dict], root: Path = ROOT, today: str | None = None) -> 
         path.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":") if compact else None,
                                    indent=None if compact else 1) + "\n", encoding="utf-8")
 
+    changes = update_changes(out, [x["id"] for x in opps], today)
+    dump(out / "changes.json", {"generated": today, "days": changes})
     dump(out / "opportunities.json", {"generated": today, "count": len(opps), "items": opps})
     dump(out / "sources.json", {"generated": today, "count": len(srcs), "items": srcs})
     dump(out / "schema.json", schema(), compact=False)
     dump(out / "index.json", {
         "name": "PhDRadar API", "version": VERSION, "generated": today, "site": SITE, "counts": counts,
         "endpoints": {"opportunities": f"{SITE}api/v1/opportunities.json", "sources": f"{SITE}api/v1/sources.json",
-                      "schema": f"{SITE}api/v1/schema.json", "openapi": f"{SITE}api/openapi.json", "feeds": f"{SITE}feeds/"},
+                      "changes": f"{SITE}api/v1/changes.json", "schema": f"{SITE}api/v1/schema.json", "openapi": f"{SITE}api/openapi.json", "feeds": f"{SITE}feeds/"},
         "enums": ENUMS, "region_names_zh": REGION_NAMES, "discipline_names_zh": DISCIPLINE_NAMES,
         "rules": RULES, "docs": f"{REPO}/blob/main/docs/agents.md", "license": "CC BY 4.0",
     }, compact=False)
