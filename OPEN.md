@@ -1,10 +1,10 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-10-20。共 **467** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-10-21。共 **464** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
 - [30 天内截止](#30-天内截止)（125）
-- [之后截止](#之后截止)（225）
+- [之后截止](#之后截止)（222）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（65）
 - [即将开放](#即将开放)（52）
 
@@ -12,9 +12,6 @@
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-20 | [Aalto 大学 MSCA 博士网络岗：电推进太阳风帆任务设计](https://www.aalto.fi/en/open-positions/doctoral-researcher-msca-doctoral-network-position-electric-solar-wind-sail-mission-design) | 芬兰 | 博士 | 带薪岗位 | ❔ 官网未写明 | 页面写 Application closes on 20.10.2026，距今仅 2 天；MSCA 博士网络岗，需满足流动性规则。<br>官网原句：“Application closes on 20.10.2026” |
-| 2026-10-20 | [杜伦大学国际生奖学金总览（博士）](https://www.dur.ac.uk/study/scholarships/postgraduate/) | 英国 | 博士 | 视项目而定 | ❔ 官网未写明 | Commonwealth PhD Scholarships（2027 入学）申请截止 2026-10-20 16:00 GMT；页面写面向发展中英联邦国家申请人，中国大陆申请人资格未在页面确认。<br>官网原句：“20 October 2026 16:00 GMT” |
-| 2026-10-20 | [ESO 博士生研习计划（ESO Studentship）](https://recruitment.eso.org/jobs/2026_0055) | 德国、智利 | 博士 | 官网未写明 | ❔ 官网未写明 | 2026/27 欧洲轮申请截止 2026 年 10 月 20 日（含推荐信），须已在读天文相关博士并与 ESO 员工天文学家协调<br>官网原句：“is 20 October 2026 (including reference letters)” |
 | 2026-10-21 | [GW4 BioMed3 MRC 博士培训伙伴（英国西南与威尔士多校联合）](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/fundedcentres/mrcgw4/) | 英国 | 博士 | 全奖（学费＋生活费） | 🟡 部分可申 | 2027 年 9 月入学的全额资助博士名额申请开放至 2026-10-21；英国与国际学生均可申请，正文未写具体截止时刻。<br>官网原句：“Applications for fully-funded studentships are open from 9th September 2026 to 21st October 2026.” |
 | 2026-10-22 | [AI Singapore（AISG）PhD Fellowship](https://aisingapore.org/?p=1973) | 新加坡 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | AISG 2027 年 1 月入学批次提名截止为 2026-10-22 17:00（新加坡时间）；学生需经新加坡 AU 大学推荐，不能直接向 AISG 提交。<br>官网原句：“22 October 2026, 5:00 PM SGT” |
 | 2026-10-23 | [埃克塞特大学释放野鸡对低地生态系统影响博士 studentship（BASC 资助）](https://www.jobs.ac.uk/job/DTE203/phd-studentship-the-effects-of-released-gamebirds-on-the-lowland-ecosystems-of-s-england-phd-industry-funded) | 英国 | 博士 | 半奖 / 部分资助 | 🟡 部分可申 | 2027 年 1 月入学的 BASC 资助博士，截止 2026-10-23；资助覆盖英国学费与津贴，国际生需自付学费差额及签证等费用<br>官网原句：“23rd October 2026” |
@@ -137,14 +134,14 @@
 | 2026-11-17 | [剑桥法学 PhD 资助入口](https://www.postgraduate.study.cam.ac.uk/courses/directory/lwlwpdlaw/finance) | 英国 | 博士 | 官网未写明 | 🟡 部分可申 | 正文显示 2027 年 10 月入学的申请于 2026-09-09 开放，截止 2026-11-17；Gates Cambridge 美国轮截止 2026-12-08。<br>官网原句：“Application deadline Nov. 17, 2026” |
 | 2026-11-17 | [岭南大学 MSoDA 博士后（26/241/JAC）](https://www.jobs.ac.uk/job/DSZ284/postdoctoral-fellow-msoda) | 中国香港 | 博后 | 带薪岗位 | ❔ 官网未写明 | 页面写明 2026 年 11 月 17 日到期，全职固定期限合同最长两年；要求社会学或计算社会科学相关博士学位，未列具体薪酬。<br>官网原句：“17th November 2026” |
 | 2026-11-19 | [Lundbeck Foundation 博后（LF Postdocs，神经科学）](https://www.thetransmitter.org/funding-opportunity/lf-postdocs-danish-neuroscience/) | 丹麦 | 博后 | 全奖（学费＋生活费） | ❔ 官网未写明 | 正文显示状态 OPEN（2026-10-16 更新），截止 2026-11-19；要求博士在 5 年内取得或 6 个月内完成，国际学者需在丹麦宿主机构工作。<br>官网原句：“Applications close on November 19, 2026.” |
+| 2026-11-20 | [巴塞尔历史研究生院（BGSH）Starter Scholarship（2027 年 4 月开始）](https://jobs.unibas.ch/offene-stellen/starter-scholarships-of-the-basel-graduate-school-of-history/43646da9-a53a-4dba-86dc-b823a312cefb) | 瑞士 | 博士 | 仅生活费 | ❔ 官网未写明 | 2027 年 4 月开始的一年期 starter scholarship，CHF 32,000 分两期发放；申请时须列出一名 BGSH 导师作为拟定导师。<br>官网原句：“Deadline for applications: 20 November 2026” |
+| 2026-11-20 | [纽伯里图书馆（Newberry Library）长期研究员](https://www.newberry.org/long-term-fellowships) | 美国 | 博后 | 仅生活费 | ❔ 官网未写明 | 2027-28 长期研究员项目已开放申请，截止 2026-11-20，经 SlideRoom 提交，每月津贴 5000 美元，须已获博士学位。<br>官网原句：“Deadline: November 20, 2026” |
+| 2026-11-20 | [东北大学 JF-CIJS-EAJS 日本研究博士生奖学金](https://cijs.oii.tohoku.ac.jp/en/fellowship/detail---id-178.html) | 欧盟/欧洲、日本 | 博士 | 仅生活费 | 🟡 部分可申 | 2027 年征集期至 2026-11-20（日本时间）；需在欧洲高校攻读人文社科博士，并由申请人、推荐人与日语评审在截止前提交表格<br>官网原句：“before the deadline of November 20, 2026 in Japan Standard Time.” |
 
 ## 之后截止
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-20 | [巴塞尔历史研究生院（BGSH）Starter Scholarship（2027 年 4 月开始）](https://jobs.unibas.ch/offene-stellen/starter-scholarships-of-the-basel-graduate-school-of-history/43646da9-a53a-4dba-86dc-b823a312cefb) | 瑞士 | 博士 | 仅生活费 | ❔ 官网未写明 | 2027 年 4 月开始的一年期 starter scholarship，CHF 32,000 分两期发放；申请时须列出一名 BGSH 导师作为拟定导师。<br>官网原句：“Deadline for applications: 20 November 2026” |
-| 2026-11-20 | [纽伯里图书馆（Newberry Library）长期研究员](https://www.newberry.org/long-term-fellowships) | 美国 | 博后 | 仅生活费 | ❔ 官网未写明 | 2027-28 长期研究员项目已开放申请，截止 2026-11-20，经 SlideRoom 提交，每月津贴 5000 美元，须已获博士学位。<br>官网原句：“Deadline: November 20, 2026” |
-| 2026-11-20 | [东北大学 JF-CIJS-EAJS 日本研究博士生奖学金](https://cijs.oii.tohoku.ac.jp/en/fellowship/detail---id-178.html) | 欧盟/欧洲、日本 | 博士 | 仅生活费 | 🟡 部分可申 | 2027 年征集期至 2026-11-20（日本时间）；需在欧洲高校攻读人文社科博士，并由申请人、推荐人与日语评审在截止前提交表格<br>官网原句：“before the deadline of November 20, 2026 in Japan Standard Time.” |
 | 2026-11-22 | [CRG 国际博士项目 2027 批次（巴塞罗那）](https://www.crg.eu/ca/node/1414765) | 西班牙 | 博士 | 官网未写明 | ❔ 官网未写明 | 2027 批次申请截止 2026 年 11 月 22 日；页面列有 10 月 21 日与 11 月 12 日的申请工作坊，正文未见国籍限制。<br>官网原句：“Deadline 22nd November 2026” |
 | 2026-11-22 | [肯特大学 SEDarc ESRC 博士奖学金](https://www.kent.ac.uk/scholarships/search/FNADSEDARC01) | 英国 | 博士 | 全奖（学费＋生活费） | 🟡 部分可申 | 肯特大学 SEDarc 校内截止为 2026-11-22 23:59 GMT，需在截止前把申请表提交给研究生与研究员学院。<br>官网原句：“23:59 GMT, Sunday 22 November 2026” |
 | 2026-11-23 | [马普研究员基金（Max Planck Fellowship，AEI 引力物理所）](https://www.aei.mpg.de/26182/max-planck-fellowship) | 德国 | 博后 | 仅生活费 | ❔ 官网未写明 | 完整考虑截止 2026 年 11 月 23 日（含推荐信送达），页面称名额满前持续考虑；预计 2027 年秋季入职。<br>官网原句：“Deadline for full consideration: 23 November 2026, including receipt of reference letters.” |

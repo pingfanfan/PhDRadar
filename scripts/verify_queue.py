@@ -56,6 +56,13 @@ def dead_ids() -> dict[str, str]:
                 dead[sid] = v.get("detail", "")
             else:
                 dead.pop(sid, None)
+    full = ROOT / "reports" / "access-all.csv"  # 全部信源的检查（access_report.py --all），补上未逐页核对的条目
+    if full.exists():
+        import csv
+        with full.open(encoding="utf-8-sig") as f:
+            for r in csv.DictReader(f):
+                if r["能否打开"] == "失效":
+                    dead.setdefault(r["id"], r["详情"])
     return dead
 
 

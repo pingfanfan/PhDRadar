@@ -3,6 +3,7 @@
 
     python scripts/access_report.py              # 平台 + 全部逐页核对过的信源（约 2000 条，需外网，约 10 分钟）
     python scripts/access_report.py --platforms  # 只检查平台
+    python scripts/access_report.py --all        # 全部信源（含未逐页核对的）逐条访问，写 reports/access-all.csv，不改报告
 
 写入：
     docs/access.md              给读者看的报告（平台接入状态 + 打不开的信源清单）
@@ -198,8 +199,8 @@ def own_ua(url: str) -> tuple[str, str]:
     return ("dead" if r.status_code in (404, 410) else "warn"), f"HTTP {r.status_code}"
 
 
-def check_sources() -> dict[str, dict]:
-    sources = [s for s in load_catalog()["sources"] if s.get("verify_method") == "page"]
+def check_sources(only_verified: bool = True) -> dict[str, dict]:
+    sources = [s for s in load_catalog()["sources"] if not only_verified or s.get("verify_method") == "page"]
 
     def one(s):
         status, detail = own_ua(s["url"])  # 先用本站的真实标识访问；打不开再按浏览器请求头试一次（check_links 的做法）
@@ -243,6 +244,28 @@ def write_doc(platforms: list[dict], sources: dict[str, dict] | None, when: str,
     DOC.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
+def write_all(results: dict[str, dict], when: str) -> int:
+    """全部信源的可访问性清单（CSV，带 BOM 方便 Excel 打开中文）。GitHub Actions 那边能打开的也算能打开。"""
+    import csv
+    remote = (remote_results().get("sources") or {})
+    label = {"ok": "能打开", "warn": "拦截脚本 / 需登录", "dead": "失效"}
+    cat = {s["id"]: s for s in load_catalog()["sources"]}
+    out = ROOT / "reports" / "access-all.csv"
+    with out.open("w", encoding="utf-8-sig", newline="") as f:
+        w = csv.writer(f)
+        w.writerow(["id", "名称", "链接", "分类", "地区", "逐页核对过", "能否打开", "详情", "检查时间（UTC）"])
+        for sid, v in sorted(results.items(), key=lambda kv: (RANK[kv[1]["status"]] * -1, kv[1]["name"])):
+            rv = remote.get(sid)
+            if rv and RANK[rv["status"]] < RANK[v["status"]]:
+                v["status"], v["detail"] = rv["status"], f"{rv['detail']}（GitHub Actions 上可访问）"
+            s = cat.get(sid, {})
+            w.writerow([sid, v["name"], v["url"], s.get("category", ""), " ".join(s.get("regions") or []),
+                        "是" if s.get("verify_method") == "page" else "否", label[v["status"]], v["detail"], when[:16].replace("T", " ")])
+    c = Counter(v["status"] for v in results.values())
+    print(f"全部信源 {len(results)} 条：能打开 {c['ok']} · 拦截 {c['warn']} · 失效 {c['dead']} → {out}")
+    return 0
+
+
 def remote_results() -> dict:
     try:
         r = requests.get(REMOTE, timeout=30)
@@ -255,8 +278,11 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--platforms", action="store_true", help="只检查招聘平台")
     ap.add_argument("--raw", help="只把检查结果写到这个 JSON 文件（GitHub Actions 上用），不生成报告")
+    ap.add_argument("--all", action="store_true", help="全部信源逐条访问，结果写到 reports/access-all.csv")
     args = ap.parse_args()
     when = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    if args.all:
+        return write_all(check_sources(only_verified=False), when)
     platforms = check_platforms()
     sources = None if args.platforms else check_sources()
     if args.raw:

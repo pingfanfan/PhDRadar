@@ -35,6 +35,12 @@
 - 不确定中国大陆学生能否申请时标 `'check'`，不要猜。政策类说明要能在官方页面找到出处。
 - 面向用户的文字使用简体中文。
 
+## 网站前端
+
+- 首页是 `web/` 里的 React 应用（Vite + shadcn/ui Nova、Lucide、Motion、react-resizable-panels、dnd-kit、Zustand；说明见 `web/README.md`）。能用这些已有依赖表达的，不要自己写组件和行为，也不要引入功能重复的库。
+- 改了 `web/` 就运行 `cd web && npm run build`，提交生成的根目录 `index.html` 与 `app/`。日常数据更新不需要重新构建：数据由 `scripts/build_site.py` 写到 `assets/`，前端运行时读取。
+- 旧版单页 `classic.html`（模板 `scripts/site_template.html`）保留作备用。
+
 ## 常用命令
 
 ```bash

@@ -25,6 +25,7 @@ PUBLIC_NAME = "PhDRadar"
 # 不公开的内部文件（前缀匹配）
 PRIVATE = ("research/inbox/", "research/verify-sprint.txt", "research/workers.yml", "data/discovery/",
            "data/jobs.json", "data/jobs.md", "data/seen.json", "reports/discovery.md", "research/outreach.md",
+           "reports/access-all.csv",  # 含未核实的信源
            # 这两个定时工作流会提交未核实的导师线索与原始岗位，公开仓库不运行
            ".github/workflows/discover.yml", ".github/workflows/scrape.yml")
 REBUILD = ["scripts/build_sources.py", "scripts/export_data.py", "scripts/build_open.py", "scripts/build_site.py"]
