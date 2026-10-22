@@ -160,3 +160,19 @@ def test_portuguese_spanish_italian_words():
     assert ep.check_field("documents", {"value": "两位推荐人", "quote": q}, ep.norm(q)) is None
     q = "contratto di tre anni a partire da gennaio 2027"
     assert ep.check_field("duration", {"value": "3 年，2027 年 1 月起", "quote": q}, ep.norm(q)) is None
+
+
+def test_jobbnorge_body_from_listing_json():
+    d = {"activeLanguages": [1, 2], "components": [
+        {"typeId": 0, "heading": "PhD Fellowship in railway systems", "text": ""},
+        {"typeId": 4, "heading": "Qualification requirements",
+         "text": "<ul><li>A master's degree in civil engineering</li><li>Very good English skills</li></ul>"},
+        {"typeId": 3, "image": {}},
+        {"typeId": 1, "heading": "About us", "column1": "<p>OsloMet is ...</p>"},
+    ], "contacts": [{"name": "Mahdi Kioumarsi", "title": "Professor", "email": "x@oslomet.no"}]}
+    body = ep.jobbnorge_body(d)
+    assert body.startswith("PhD Fellowship in railway systems Qualification requirements")
+    assert "master's degree in civil engineering" in body and "Very good English skills" in body
+    assert "About us" not in body and "OsloMet is" not in body
+    assert body.endswith("Contact: Mahdi Kioumarsi, Professor")
+    assert "Jobbnorge" not in ep.SKIP_VIA

@@ -104,7 +104,8 @@
      新平台（10-19 晚）：Workday / Oracle / 联邦劳动局读公开岗位接口正文，CNRS、SuccessFactors、哥本哈根、奥胡斯、MathJobs、EconJobMarket 等读页面；在招 2931 条中可读取的 2349 条 67% 有学位/语言/材料至少两项（占全部 54%）。
      新平台抽查：独立 Sonnet 审核员 100 个岗位 485 个字段，ok 466 / 小问题 19 / 错 0（小问题多为材料清单漏项、页面自身前后日期不一致）。CNRS 只有 35%：公告多不写语言与材料（统一在 CNRS 门户投递），非抽取遗漏。
      已知局限：数字校验无法区分 01/02/2027 的日月顺序，靠子代理按所在国写法判断。
-     未覆盖：FindAPhD（455 条，本机被拦，只有 Actions 能访问）、Jobbnorge（130 条，详情页靠脚本渲染、无公开接口）；jobs.ac.uk 公告多把要求放在附件 PDF，覆盖只有 25%。
+     未覆盖：FindAPhD（455 条，本机被拦，只有 Actions 能访问）；jobs.ac.uk 公告多把要求放在附件 PDF，覆盖只有 25%。
+   - 10-22：接入 Jobbnorge（132 条）：详情页靠脚本渲染，改读页面自己加载的公告 JSON（`id.jobbnorge.no/api/joblisting`，robots 未限制、无需登录；有英文版用英文版，只有挪威语版的退回挪威语，原句保留原文）。125 条读到正文，5 个 Sonnet 子代理抽取后程序校验通过 616 个字段（14 个因原句或数字不符丢弃），Jobbnorge 有学位/语言/材料至少两项的 114 条（86%）；全部在招岗位升到 52%（占可读取 60%）。人工抽看 3 条原句与公告一致。下一步：FindAPhD（只有 Actions 能访问，考虑在 Actions 里只做规则提取并缓存正文）或 jobs.ac.uk 附件。
 2. 接入大学招聘系统：先做 Workday 与 SuccessFactors 的通用适配器，再按国家列出高价值学校。
    - 10-19：`scripts/ats.py`（经 `platforms_ats.py` 注册，已在本地默认清单）接入 6 类：Workday（24 个站点：Aalto、NTU、NUS、悉尼、墨尔本、Monash、UQ、UBC、McGill 等）、SuccessFactors（12 所：EPFL、TU Delft、维也纳、赫尔辛基、根特、巴塞尔、FU Berlin、NUS 等）、Oracle Recruiting（DTU、SDU）、PageUp（港大、La Trobe）、ReachMee（Chalmers）、学校自建招聘页（哥本哈根大学）。首轮收录 289 条（Oracle 93、SuccessFactors 125、Workday 52、哥本哈根 36、Chalmers 18）。截止日期只取正文原句（数字日期按同页写法判断日月顺序，判断不了不收）；PageUp 访问稍快就弹 AWS WAF 验证，目前被拦，不绕过。
    - 10-20：扩到约 80 个学校 / 研究机构入口：Workday 25、SuccessFactors 17（加多伦多、Fraunhofer、A*STAR、CSIRO）、Oracle 4（加爱丁堡、阿尔伯塔）、ReachMee 1，以及 34 个学校自建招聘页（理大、剑桥、ANU、RWTH、TUM、LMU、汉堡、于利希、KIT、DKFZ、PSI/Eawag/Empa/WSL、苏黎世大学、Leibniz、HZDR、TU Berlin、奥尔堡、奥卢、安特卫普、CBS、塔尔图、SISSA、巴斯德、IRB、IIT、INRAE、博洛尼亚等；列表页、表格行、站点地图或 RSS/Atom）。第二轮采集 546 条（去重后在库 476 条）。新规则：德语 WiMi 岗位按正文判断博士 / 博后；法 / 意 / 西月份；学校自己的页面（非美加）数字日期默认 日/月/年。不接入：robots 禁止（UNIL、海德堡、TU Graz / Uni Graz、阿德莱德 / 塔斯马尼亚、帝国理工 / 布里斯托的 TalentLink、奥克兰接口、Tampere 明确拒绝 AI 爬虫）；人机验证拦截（PageUp 各校、牛津、城大、SMU、OIST、USI、HU Berlin、卢森堡大学、Maynooth）；只能表单 POST（爱尔兰 CoreHR 各校）。

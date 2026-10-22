@@ -10,7 +10,7 @@
 - 原句（quote）必须一字不差地出现在该岗位的页面正文里（只统一空白、引号、连字符和大小写）；
 - 中文简述（value）里的每个数字都必须出现在原句里（英文数字词与月份按数字算）；
 - 申请方式只能是“在线系统 / 邮件 / 其他”开头；不合格的字段整项丢弃，宁缺毋滥。
-结果写入 _data/posting_fields.yml（按岗位 id）；已处理的 id 记下日期，增量运行。FindAPhD 本机被拦，不处理；Jobbnorge 详情页靠脚本渲染，暂不处理。
+结果写入 _data/posting_fields.yml（按岗位 id）；已处理的 id 记下日期，增量运行。FindAPhD 本机被拦，不处理；Jobbnorge 详情页靠脚本渲染，读页面自己加载的公告 JSON。
 """
 from __future__ import annotations
 
@@ -24,6 +24,7 @@ from datetime import date
 from urllib.parse import urlparse
 from pathlib import Path
 
+import requests
 import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -39,7 +40,7 @@ FIELDS = ["degree", "language", "start", "duration", "documents", "apply_via", "
 KEY3 = ["degree", "language", "documents"]  # 路线图“做完的标准”看的三项
 MAX_TEXT = 15000
 QUOTE_LEN = {"documents": 900}  # 材料清单常是一整段列表，允许长一些
-SKIP_VIA = {"FindAPhD", "Jobbnorge"}
+SKIP_VIA = {"FindAPhD"}
 RETRY_DAYS = 7  # 读取失败的岗位隔几天再试
 
 # 各平台正文的起止标记：只把岗位本身交给子代理，去掉导航、推荐岗位、页脚
@@ -322,7 +323,39 @@ def ats_text(f: Fetcher, p: dict) -> str | None:
     return None
 
 
+JN_LISTING = "https://id.jobbnorge.no/api/joblisting?jobId={id}&languageId={lang}"
+JN_ACCEPT = {"Accept": "application/json"}
+
+
+def jobbnorge_body(d: dict) -> str:
+    """Jobbnorge 公告 JSON → 正文：各栏目“标题 + 内容”，去掉末尾的雇主介绍（About us），附联系人。"""
+    parts = []
+    for c in d.get("components") or []:
+        if c.get("typeId") == 1:  # 雇主介绍栏，与岗位无关
+            continue
+        text = page_text(c.get("text") or "")
+        parts += [x for x in ((c.get("heading") or "").strip(), text) if x]
+    for c in d.get("contacts") or []:
+        who = ", ".join(x for x in (c.get("name"), c.get("title")) if x)
+        if who:
+            parts.append(f"Contact: {who}")
+    return " ".join(parts)
+
+
+def jobbnorge_text(f: Fetcher, url: str) -> str:
+    """Jobbnorge 详情页靠脚本渲染：读页面自己加载的公告 JSON（id.jobbnorge.no/api/joblisting），有英文版就用英文版。"""
+    jid = re.search(r"/stilling/(\d+)", url).group(1)
+    try:
+        return jobbnorge_body(f.get(JN_LISTING.format(id=jid, lang=2), headers=JN_ACCEPT).json())
+    except requests.HTTPError as e:  # 只有挪威语版的公告，英文版返回 404
+        if e.response is None or e.response.status_code != 404:
+            raise
+    return jobbnorge_body(f.get(JN_LISTING.format(id=jid, lang=1), headers=JN_ACCEPT).json())
+
+
 def page_body(f: Fetcher, p: dict) -> str:
+    if p["via"] == "Jobbnorge":
+        return jobbnorge_text(f, p["url"])[:MAX_TEXT]
     if p["via"] == "INSPIRE-HEP Jobs":
         return inspire_text(f, p["url"])[:MAX_TEXT]
     if p["via"] in ("Workday", "Oracle Recruiting", "Bundesagentur für Arbeit"):
