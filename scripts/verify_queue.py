@@ -44,16 +44,22 @@ def all_sources(k: int, n: int) -> list[dict]:
     return [s for s in load_sources() if zlib.crc32(s["id"].encode()) % n == k - 1]
 
 
-def dead_ids() -> dict[str, str]:
+def dead_ids() -> dict[str, tuple[str, str]]:
+    """失效条目 → (详情, 检查日期)。核实日期不早于检查日期的条目已经人工核过，不再按失效优先排队。"""
     report = ROOT / "reports" / "source-health.md"
-    dead = {} if not report.exists() else {
-        m.group(1): m.group(2).strip()
-        for m in re.finditer(r"\| `([^`]+)`[^|]*\| ❌ \| ([^|]*)\|", report.read_text(encoding="utf-8"))}
+    dead: dict[str, tuple[str, str]] = {}
+    if report.exists():
+        text = report.read_text(encoding="utf-8")
+        when = (re.search(r"生成时间：(\d{4}-\d{2}-\d{2})", text) or [None, ""])[1]
+        dead = {m.group(1): (m.group(2).strip(), when)
+                for m in re.finditer(r"\| `([^`]+)`[^|]*\| ❌ \| ([^|]*)\|", text)}
     access = ROOT / "reports" / "access.json"  # 每日可访问性检查（access_report.py）的结果更新，以它为准
     if access.exists():
-        for sid, v in (json.loads(access.read_text(encoding="utf-8")).get("sources") or {}).items():
+        data = json.loads(access.read_text(encoding="utf-8"))
+        when = str(data.get("generated_at") or "")[:10]
+        for sid, v in (data.get("sources") or {}).items():
             if v.get("status") == "dead":
-                dead[sid] = v.get("detail", "")
+                dead[sid] = (v.get("detail", ""), when)
             else:
                 dead.pop(sid, None)
     full = ROOT / "reports" / "access-all.csv"  # 全部信源的检查（access_report.py --all），补上未逐页核对的条目
@@ -62,7 +68,7 @@ def dead_ids() -> dict[str, str]:
         with full.open(encoding="utf-8-sig") as f:
             for r in csv.DictReader(f):
                 if r["能否打开"] == "失效":
-                    dead.setdefault(r["id"], r["详情"])
+                    dead.setdefault(r["id"], (r["详情"], (r.get("检查时间（UTC）") or "")[:10]))
     return dead
 
 
@@ -79,7 +85,7 @@ def main() -> int:
     ap.add_argument("--chunks", type=int, default=1, help="把队列分成几份（每个子代理一份）")
     ap.add_argument("--out", help="与 --chunks 合用：写入 <out>-1.yml … 而不是打印")
     args = ap.parse_args()
-    dead = dead_ids()
+    dead_all = dead_ids()
 
     def priority(s):
         missing = not s.get("coverage")
@@ -87,6 +93,8 @@ def main() -> int:
                 str(s.get("verified") or ""))
 
     pool = all_sources(args.worker, args.of) if args.scope == "all" else owned(args.worker, args.of)
+    verified = {s["id"]: str(s.get("verified") or "") for s in pool}
+    dead = {sid: why for sid, (why, when) in dead_all.items() if not when or verified.get(sid, "") < when}
     if args.before:
         sprint = ROOT / "research" / "verify-sprint.txt"  # 冲刺开始日：当天已核实的条目不再排队，否则队列永远清不空
         if sprint.exists():

@@ -599,7 +599,7 @@ def cmd_stats(args) -> int:
     today = args.today or date.today().isoformat()
     data = load_yaml(OUT, {})
     allp = [p for p in load_yaml(POSTINGS, []) if p.get("cn") != "no" and (p["deadline"] == "rolling" or p["deadline"] >= today)]
-    reach = [p for p in allp if p["via"] not in SKIP_VIA]
+    reach = [p for p in allp if p["via"] not in SKIP_VIA and (p["via"] not in NO_FETCH or cache_path(p["id"]).exists())]
     two = [p for p in allp if sum(k in (data.get(p["id"]) or {}) for k in KEY3) >= 2]
     print(f"在招岗位 {len(allp)}（可读取 {len(reach)}）；学位/语言/材料至少两项：{len(two)} = "
           f"{len(two) / max(len(allp), 1):.0%}（占可读取 {len(two) / max(len(reach), 1):.0%}）")
