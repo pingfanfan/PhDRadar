@@ -558,7 +558,7 @@ sources:
   - web
   language: en
   notes: 瑞典多数大学（隆德、乌普萨拉、斯德哥尔摩大学等）用 Varbi 发布 “Doctoral student” 岗位；也可直接看各校 vacancies 页面。
-  verified: '2026-10-14'
+  verified: 2026-10-22
   coverage: salary
   deadline: varies
   status: ongoing
@@ -1508,7 +1508,7 @@ sources:
   - web
   language: en
   notes: 面向在读博士，仅受邀大学可提名（学校提名制，学生不能直接申请）。2026 周期提名窗口于 2026-09-08 关闭（已过）；资格与学校内部截止日期以本校研究生院通知为准。
-  verified: 2026-10-17
+  verified: 2026-10-22
   status: closed
   coverage: full
   stipend: 最高 $40,000/年（生活费），另含学费与 $5,000/年差旅
@@ -1632,7 +1632,7 @@ sources:
   - rss
   language: en
   notes: 理论计算机科学职位板（由 CATCS 维护）；页面可见的广告以博士后与教职为主，机构分布于美国、加拿大、以色列、阿联酋、韩国、德国等，未见博士生岗位。
-  verified: 2026-10-17
+  verified: 2026-10-22
   coverage: varies
   deadline: varies
   status: ongoing
@@ -2369,7 +2369,7 @@ sources:
   - web
   language: en
   notes: OCNS 计算神经科学邮件列表页面显示，过去 30 天有 57 个讨论帖、52 位参与者；正文未列出岗位帖，需进入归档逐月查看。
-  verified: 2026-10-17
+  verified: 2026-10-22
   feed: https://lists.cnsorg.org/hyperkitty/list/comp-neuro@lists.cnsorg.org/feed
   coverage: varies
   deadline: varies
@@ -2417,7 +2417,7 @@ sources:
   - web
   language: en
   notes: 冰雪/冰冻圈研究的全球邮件列表，接受招聘广告，有历史存档。
-  verified: 2026-10-17
+  verified: 2026-10-22
   coverage: varies
   status: ongoing
   verify_method: page
@@ -2537,7 +2537,7 @@ sources:
   - web
   language: en
   notes: '页面（Modified: Wed Sep 23 2026）仍在更新，列出 2026 年发布的博士与博后职位（如 26.07.09 内布拉斯加-林肯大学计算材料科学博士岗位）；列表不含截止日期。'
-  verified: 2026-10-17
+  verified: 2026-10-22
   coverage: varies
   status: ongoing
   verify_method: page
@@ -2738,7 +2738,7 @@ sources:
   - web
   language: en
   notes: Pioneer Centre for AI 教员定期发布 PhD 岗位（页面称为全职、12 个月有薪职位）；另列出愿意考虑 DARA 申请者的教员，需先以项目构想直接联系，且须在截止日前至少 1 个月达成同意。
-  verified: 2026-10-17
+  verified: 2026-10-22
   coverage: full
   status: upcoming
   deadline: unknown
@@ -2806,12 +2806,12 @@ sources:
   - cs
   - ai
   funding: position
-  cn_eligible: check
+  cn_eligible: 'yes'
   access:
   - web
   language: en
-  notes: CISPA 博士页面：博士生为全职雇员，按 TVöD 支付（至 E13 级），起薪约 €4,000/月（税前），博士期限估计 3–4 年；通用招聘已关闭，下一轮预计 2026 年底。
-  verified: 2026-10-17
+  notes: CISPA 博士页面称不限国籍（regardless of national origin or citizenship），工作语言英语、无需德语；博士生为全职雇员，按 TVöD 付薪，起薪约 €4,000/月（税前）。通用招聘目前已关闭，下一轮预计 2026 年底，各课题组可单独发岗。
+  verified: 2026-10-22
   status: upcoming
   coverage: salary
   stipend: 约 €4,000/月（税前，TVöD 公共部门工资）
@@ -2974,7 +2974,7 @@ sources:
   - web
   language: en
   notes: 波恩大学 BIGS 数学博士：录取不自动含资助，BIGS 会筛选可用资助来源；需硕士或同等学历，英语需达 B2 水平（页面称对应 TOEFL iBT 80 或 IELTS 5.5）。
-  verified: 2026-10-17
+  verified: 2026-10-22
   coverage: varies
   requirements: 需数学硕士或同等学历；英语 TOEFL iBT 80 以上或 IELTS 5.5；录取不自动包含资助
   deadline_note: '页面 ''Current application'' 栏写 Deadline for applications: 06.12.2026（按德文日期理解为 12 月 6 日）；但正文又写每年 11 月 15 日与 4 月 15 日两个申请期，两处不一致，以申请门户为准。'
@@ -3910,7 +3910,7 @@ sources:
   - web
   language: fr
   notes: 法国 ANRT 管理的 CIFRE（企业联合培养博士）：由 ANRT 批准财政资助（PSL 2026 年 4 月网络研讨会资料）；页面未载明国籍条件与申请期。
-  verified: 2026-10-17
+  verified: 2026-10-22
   coverage: salary
   status: rolling
   deadline: rolling
@@ -4002,7 +4002,7 @@ sources:
   - web
   language: en
   notes: 页面（2025 年 10 月的新闻稿）称该项目为期两年，覆盖 2025–2026 与 2026–2027 两个学年；学生资助合计 1000 万美元，另有每学年 2400 万美元 AWS 云计算积分。
-  verified: 2026-10-17
+  verified: 2026-10-22
   coverage: unknown
   status: closed
   deadline: unknown
