@@ -28,6 +28,8 @@ PRIVATE = ("research/inbox/", "research/verify-sprint.txt", "research/workers.ym
            "reports/access-all.csv",  # 含未核实的信源
            # 这两个定时工作流会提交未核实的导师线索与原始岗位，公开仓库不运行
            ".github/workflows/discover.yml", ".github/workflows/scrape.yml")
+# 公开仓库自己的工作流生成并提交的文件：以公开仓库里的版本为准，同步时保留，不用私有库的旧副本覆盖
+PUBLIC_OWNED = ("reports/source-health.json", "reports/source-health.md", "reports/access-actions.json")
 REBUILD = ["scripts/build_sources.py", "scripts/export_data.py", "scripts/build_open.py", "scripts/build_site.py"]
 
 
@@ -54,6 +56,7 @@ def main() -> int:
         return 2
     keep = public_ids()
     files = subprocess.run(["git", "ls-files"], cwd=ROOT, capture_output=True, text=True, check=True).stdout.split()
+    owned = {f: (dest / f).read_bytes() for f in PUBLIC_OWNED if (dest / f).exists()}
     # 先清空目标（保留 .git），保证删掉的文件在公开仓库里也删掉
     for p in dest.iterdir():
         if p.name != ".git":
@@ -69,6 +72,9 @@ def main() -> int:
             shutil.copy2(src, out)
             continue
         out.write_text(text.replace("PhDRadar", PUBLIC_NAME), encoding="utf-8")
+    for f, data in owned.items():
+        (dest / f).parent.mkdir(parents=True, exist_ok=True)
+        (dest / f).write_bytes(data)
     (dest / "research" / "inbox").mkdir(parents=True, exist_ok=True)
     (dest / "research" / "inbox" / ".gitkeep").touch()
 
