@@ -558,7 +558,7 @@ sources:
   - web
   language: en
   notes: 瑞典多数大学（隆德、乌普萨拉、斯德哥尔摩大学等）用 Varbi 发布 “Doctoral student” 岗位；也可直接看各校 vacancies 页面。
-  verified: 2026-10-14
+  verified: '2026-10-14'
   coverage: salary
   deadline: varies
   status: ongoing
@@ -1932,7 +1932,7 @@ sources:
   - api
   language: en
   notes: 2024 年后大量学者迁移到 Bluesky，学术招聘帖活跃。官方文档列出 searchPosts 的响应；多方报告未登录访问 searchPosts 返回 403，实际抓取需使用应用密码登录后再测试。
-  verified: 2026-10-14
+  verified: '2026-10-14'
   coverage: varies
 - id: euraxess-china
   name: EURAXESS China

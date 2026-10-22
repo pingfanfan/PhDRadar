@@ -24,7 +24,9 @@ For EACH entry decide one action, based only on what you actually saw in search 
   * requirements: Simplified Chinese, one line on international applicant requirements: degree (硕士/本科), language (IELTS/TOEFL), nationality limits, age/years-since-PhD, need a supervisor first, etc.
   Leave a field out rather than guess.
 
-Output exactly one YAML code block, one item per input entry, in this schema:
+**Only output entries you actually checked with at least one search in this run.** If you ran out of searches or skipped an entry, leave it OUT of the YAML entirely (do not write keep with "not searched") — an unchecked keep would wrongly mark the entry as verified today.
+
+Output exactly one YAML code block, one item per checked entry, in this schema:
   - id: <same id>
     action: keep | update | delete
     fields: {url: https://..., cn_eligible: 'yes', coverage: full, stipend: "€2,100/月", deadline: 2027-01-15, deadline_note: ..., status: upcoming, requirements: ..., notes: ...}   # only for update
