@@ -175,4 +175,21 @@ def test_jobbnorge_body_from_listing_json():
     assert "master's degree in civil engineering" in body and "Very good English skills" in body
     assert "About us" not in body and "OsloMet is" not in body
     assert body.endswith("Contact: Mahdi Kioumarsi, Professor")
-    assert "Jobbnorge" not in ep.SKIP_VIA
+    assert "Jobbnorge" not in ep.SKIP_VIA and "Jobbnorge" not in ep.NO_FETCH
+
+
+def test_findaphd_body_and_import(tmp_path, monkeypatch):
+    import collect_postings as cp
+    raw = ("<html><nav>PhDs Events Funding</nav><h1>Flexible thermoelectrics</h1><p>About the Project</p>"
+           "<p>Supervisory team: Professor Iris Nandhakumar. " + "Project text. " * 30 + "</p>"
+           "<p>Entry requirements A UK 2:1 honours degree, or its international equivalent.</p>"
+           "<p>Funding Notes Full stipend.</p><p>Register your interest for this project</p><form>Dialling code</form></html>")
+    cp.save_text(tmp_path / "texts", "findaphd:200322", raw)
+    body = (tmp_path / "texts" / "findaphd_200322.txt").read_text(encoding="utf-8")
+    assert body.startswith("About the Project") and "Entry requirements A UK 2:1" in body
+    assert "Funding Notes Full stipend." in body and "Register your interest" not in body and "Dialling" not in body
+    monkeypatch.setattr(ep, "CACHE", tmp_path / "cache")
+    monkeypatch.setattr(ep, "live_postings", lambda today: [{"id": "findaphd:200322", "via": "FindAPhD"}])
+    assert ep.cmd_import_texts(type("A", (), {"dir": str(tmp_path / "texts"), "today": "2026-10-22"})()) == 0
+    assert (tmp_path / "cache" / "findaphd_200322.txt").read_text(encoding="utf-8") == body
+    assert "FindAPhD" in ep.NO_FETCH

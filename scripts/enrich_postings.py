@@ -10,7 +10,7 @@
 - 原句（quote）必须一字不差地出现在该岗位的页面正文里（只统一空白、引号、连字符和大小写）；
 - 中文简述（value）里的每个数字都必须出现在原句里（英文数字词与月份按数字算）；
 - 申请方式只能是“在线系统 / 邮件 / 其他”开头；不合格的字段整项丢弃，宁缺毋滥。
-结果写入 _data/posting_fields.yml（按岗位 id）；已处理的 id 记下日期，增量运行。FindAPhD 本机被拦，不处理；Jobbnorge 详情页靠脚本渲染，读页面自己加载的公告 JSON。
+结果写入 _data/posting_fields.yml（按岗位 id）；已处理的 id 记下日期，增量运行。FindAPhD 本机被拦，正文由 Actions 采集时存下（collect_postings.py --save-texts），用 import-texts 导入；Jobbnorge 详情页靠脚本渲染，读页面自己加载的公告 JSON。
 """
 from __future__ import annotations
 
@@ -40,7 +40,8 @@ FIELDS = ["degree", "language", "start", "duration", "documents", "apply_via", "
 KEY3 = ["degree", "language", "documents"]  # 路线图“做完的标准”看的三项
 MAX_TEXT = 15000
 QUOTE_LEN = {"documents": 900}  # 材料清单常是一整段列表，允许长一些
-SKIP_VIA = {"FindAPhD"}
+SKIP_VIA: set[str] = set()
+NO_FETCH = {"FindAPhD"}  # 本机被拦：只用 Actions 存下的正文（import-texts）
 RETRY_DAYS = 7  # 读取失败的岗位隔几天再试
 
 # 各平台正文的起止标记：只把岗位本身交给子代理，去掉导航、推荐岗位、页脚
@@ -378,6 +379,8 @@ def cmd_fetch(args) -> int:
     for p in live_postings(today):
         if args.via and p["via"] != args.via:
             continue
+        if p["via"] in NO_FETCH and not cache_path(p["id"]).exists():
+            continue
         rec = data.get(p["id"]) or {}
         if rec.get("checked") and not rec.get("error") and (cache_path(p["id"]).exists() or rec.get("llm")):
             continue
@@ -579,6 +582,19 @@ def cmd_recheck(args) -> int:
     return 0
 
 
+def cmd_import_texts(args) -> int:
+    """导入 Actions 存下的公告正文（collect_postings.py --save-texts 的产物）到正文缓存，之后照常 fetch / bundle。"""
+    CACHE.mkdir(parents=True, exist_ok=True)
+    live = {cache_path(p["id"]).name for p in live_postings(args.today or date.today().isoformat())}
+    n = 0
+    for src in sorted(Path(args.dir).glob("*.txt")):
+        if src.name in live and not (CACHE / src.name).exists() and len(src.read_text(encoding="utf-8")) >= 200:
+            (CACHE / src.name).write_text(src.read_text(encoding="utf-8"), encoding="utf-8")
+            n += 1
+    print(f"导入 {n} 篇正文 → {CACHE}")
+    return 0
+
+
 def cmd_stats(args) -> int:
     today = args.today or date.today().isoformat()
     data = load_yaml(OUT, {})
@@ -622,8 +638,11 @@ def main() -> int:
     a = sub.add_parser("recheck")
     a.add_argument("-v", "--verbose", action="store_true")
     sub.add_parser("stats")
+    a = sub.add_parser("import-texts")
+    a.add_argument("--dir", required=True, help="collect_postings.py --save-texts 存下的正文目录（如 Actions 附件解压处）")
     args = ap.parse_args()
-    return {"fetch": cmd_fetch, "bundle": cmd_bundle, "apply": cmd_apply, "rules": cmd_rules, "recheck": cmd_recheck, "stats": cmd_stats}[args.cmd](args)
+    return {"fetch": cmd_fetch, "bundle": cmd_bundle, "apply": cmd_apply, "rules": cmd_rules, "recheck": cmd_recheck, "stats": cmd_stats,
+            "import-texts": cmd_import_texts}[args.cmd](args)
 
 
 if __name__ == "__main__":

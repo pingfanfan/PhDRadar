@@ -1058,6 +1058,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("-s", "--sources", default="default", help="逗号分隔的平台名；default = 本地清单，actions = 只能在 Actions 上采集的清单")
     ap.add_argument("--save-samples", type=int, default=0, help="把前 N 个详情页原文存到 research/inbox/samples/，便于调整解析规则")
+    ap.add_argument("--save-texts", default="", help="把收录岗位的公告正文存到该目录（<id>.txt），供 enrich_postings.py import-texts 使用；FindAPhD 只有 Actions 能访问")
     ap.add_argument("--today", default=date.today().isoformat())
     ap.add_argument("--max-pages", type=int, default=80)
     ap.add_argument("--max-details", type=int, default=3000)
@@ -1100,6 +1101,8 @@ def main() -> int:
             if row:
                 row["checked"] = args.today
                 rows[row["id"]] = row
+                if args.save_texts:
+                    save_text(Path(args.save_texts), row["id"], raw)
             elif why not in ("详情页失败", "robots 不允许"):  # 页面读到了但按现行规则不再收录（已截止、不再写资助等）：去掉旧记录
                 rows.pop(f"{name}:{jid}", None)
         print(f"[{name}] 列表 {len(urls)} 个：{stats}")
@@ -1109,6 +1112,27 @@ def main() -> int:
     print(f"岗位清单共 {len(out)} 条（中国学生可申 {sum(r['cn'] == 'yes' for r in out)} · 待确认 "
           f"{sum(r['cn'] == 'check' for r in out)} · 限本土 {sum(r['cn'] == 'no' for r in out)}）")
     return 0
+
+
+# 公告正文的起止标记（--save-texts 用）：只留岗位本身，去掉导航、报名表与推荐岗位
+TEXT_BODY = {"findaphd": (r"About the Project", r"Register your interest for this project|Open Days \d")}
+
+
+def post_body(pid: str, raw: str) -> str:
+    text = page_text(raw)
+    start, end = TEXT_BODY.get(pid.split(":")[0], ("", ""))
+    m = re.search(start, text) if start else None
+    if m:
+        text = text[m.start():]
+    m = re.search(end, text) if end else None
+    if m:
+        text = text[:m.start()]
+    return text.strip()[:15000]
+
+
+def save_text(d: Path, pid: str, raw: str) -> None:
+    d.mkdir(parents=True, exist_ok=True)
+    (d / (re.sub(r"[^\w.-]", "_", pid) + ".txt")).write_text(post_body(pid, raw), encoding="utf-8")
 
 
 def save(rows: dict[str, dict], final: bool = False) -> list[dict]:

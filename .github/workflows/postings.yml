@@ -42,12 +42,20 @@ jobs:
       - name: 采集
         run: |
           python scripts/collect_postings.py -s "${{ inputs.sources || 'actions' }}" --max-details "${{ inputs.max_details || '3000' }}" \
-            --save-samples 40 $([ "${{ inputs.dry_run }}" = "true" ] && echo --dry-run) | tee -a "$GITHUB_STEP_SUMMARY"
+            --save-samples 40 --save-texts posting-texts $([ "${{ inputs.dry_run }}" = "true" ] && echo --dry-run) | tee -a "$GITHUB_STEP_SUMMARY"
       - uses: actions/upload-artifact@v4
         if: always()
         with:
           name: samples
           path: research/inbox/samples/
+          if-no-files-found: ignore
+      # 公告正文（只有 Actions 能访问的平台）：本地用 enrich_postings.py import-texts 导入后抽取申请须知；只作附件，不提交
+      - uses: actions/upload-artifact@v4
+        if: inputs.dry_run != 'true'
+        with:
+          name: posting-texts
+          path: posting-texts/
+          retention-days: 7
           if-no-files-found: ignore
       - uses: actions/upload-artifact@v4
         if: inputs.dry_run != 'true'

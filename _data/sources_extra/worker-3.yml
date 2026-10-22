@@ -7563,11 +7563,13 @@
   access:
   - web
   language: en
-  coverage: unknown
-  notes: 官网中国页面列出与中国国家留学基金委（CSC）合作的博士奖学金，鼓励中国优秀学生申请。页面未写免学费年限、生活费等细节，需以 Learn more 页面为准。
+  coverage: full
+  status: ongoing
+  requirements: 须先找到导师并获其支持、申请录取后再申请 CSC；约需至少 3 个月评审。
+  notes: 奥克兰大学官网中国页面称与 CSC 合作的博士奖学金最长 4 年：大学承担学费，CSC 承担生活费、往返机票、签证费与医保；每年最多支持约 100 名新 CSC 博士生。
   verify_method: page
   page_evidence: Top students from China are encouraged to study for their PhD at the University of Auckland through a scholarship programme
-  verified: 2026-10-16
+  verified: 2026-10-22
 - id: massey-csc-phd
   name: 梅西大学–CSC 博士学者项目
   url: https://www.massey.ac.nz/study/scholarships-and-awards/china-scholarship-council-massey-university-phd-scholars-programme
