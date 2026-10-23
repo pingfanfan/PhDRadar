@@ -106,6 +106,10 @@
      已知局限：数字校验无法区分 01/02/2027 的日月顺序，靠子代理按所在国写法判断。
      未覆盖：FindAPhD（455 条，本机被拦，只有 Actions 能访问）；jobs.ac.uk 公告多把要求放在附件 PDF，覆盖只有 25%。
    - 10-22：接入 Jobbnorge（132 条）：详情页靠脚本渲染，改读页面自己加载的公告 JSON（`id.jobbnorge.no/api/joblisting`，robots 未限制、无需登录；有英文版用英文版，只有挪威语版的退回挪威语，原句保留原文）。125 条读到正文，5 个 Sonnet 子代理抽取后程序校验通过 616 个字段（14 个因原句或数字不符丢弃），Jobbnorge 有学位/语言/材料至少两项的 114 条（86%）；全部在招岗位升到 52%（占可读取 60%）。人工抽看 3 条原句与公告一致。下一步：FindAPhD（只有 Actions 能访问，考虑在 Actions 里只做规则提取并缓存正文）或 jobs.ac.uk 附件。
+   - 10-22：FindAPhD 接入：Actions 采集时用 `collect_postings.py --save-texts` 把公告正文存为附件（7 天，不提交），本地 `enrich_postings.py import-texts` 导入后照常抽取；10-23 首批 85 条有申请须知，其余随每日任务补完。补抽 477 个积压岗位后全部在招 63%。
+   - 10-23：读取失败的岗位里网络类错误（ConnectionError / Timeout / 5xx）改为第二天就重试，其余仍隔 7 天（香港理大 15 条因此从 0 恢复）。
+     现状分析：模型已读过的 2844 个岗位里，有学位/语言/材料至少两项的按平台差别很大——北欧、荷兰、德国与各校招聘系统 85–99%，jobs.ac.uk 32%、CNRS 37%、FindAPhD 36%、INSPIRE 62%。差的原因是公告本身不写：英国 / 美国岗位几乎不写语言要求（jobs.ac.uk 只有 8% 写了），CNRS 统一在门户投递、公告不列材料；jobs.ac.uk 的附件（/enhanced/fp/）被 robots.txt 禁止，不读。
+     因此“80% 的岗位三项都有”在公告不写的平台上达不到；建议把标准改为“公告里写了的都抽到”（按抽检衡量漏抽率），需要仓库主人决定。
 2. 接入大学招聘系统：先做 Workday 与 SuccessFactors 的通用适配器，再按国家列出高价值学校。
    - 10-19：`scripts/ats.py`（经 `platforms_ats.py` 注册，已在本地默认清单）接入 6 类：Workday（24 个站点：Aalto、NTU、NUS、悉尼、墨尔本、Monash、UQ、UBC、McGill 等）、SuccessFactors（12 所：EPFL、TU Delft、维也纳、赫尔辛基、根特、巴塞尔、FU Berlin、NUS 等）、Oracle Recruiting（DTU、SDU）、PageUp（港大、La Trobe）、ReachMee（Chalmers）、学校自建招聘页（哥本哈根大学）。首轮收录 289 条（Oracle 93、SuccessFactors 125、Workday 52、哥本哈根 36、Chalmers 18）。截止日期只取正文原句（数字日期按同页写法判断日月顺序，判断不了不收）；PageUp 访问稍快就弹 AWS WAF 验证，目前被拦，不绕过。
    - 10-20：扩到约 80 个学校 / 研究机构入口：Workday 25、SuccessFactors 17（加多伦多、Fraunhofer、A*STAR、CSIRO）、Oracle 4（加爱丁堡、阿尔伯塔）、ReachMee 1，以及 34 个学校自建招聘页（理大、剑桥、ANU、RWTH、TUM、LMU、汉堡、于利希、KIT、DKFZ、PSI/Eawag/Empa/WSL、苏黎世大学、Leibniz、HZDR、TU Berlin、奥尔堡、奥卢、安特卫普、CBS、塔尔图、SISSA、巴斯德、IRB、IIT、INRAE、博洛尼亚等；列表页、表格行、站点地图或 RSS/Atom）。第二轮采集 546 条（去重后在库 476 条）。新规则：德语 WiMi 岗位按正文判断博士 / 博后；法 / 意 / 西月份；学校自己的页面（非美加）数字日期默认 日/月/年。不接入：robots 禁止（UNIL、海德堡、TU Graz / Uni Graz、阿德莱德 / 塔斯马尼亚、帝国理工 / 布里斯托的 TalentLink、奥克兰接口、Tampere 明确拒绝 AI 爬虫）；人机验证拦截（PageUp 各校、牛津、城大、SMU、OIST、USI、HU Berlin、卢森堡大学、Maynooth）；只能表单 POST（爱尔兰 CoreHR 各校）。

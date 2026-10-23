@@ -193,3 +193,11 @@ def test_findaphd_body_and_import(tmp_path, monkeypatch):
     assert ep.cmd_import_texts(type("A", (), {"dir": str(tmp_path / "texts"), "today": "2026-10-22"})()) == 0
     assert (tmp_path / "cache" / "findaphd_200322.txt").read_text(encoding="utf-8") == body
     assert "FindAPhD" in ep.NO_FETCH
+
+
+def test_transient_errors_retry_next_day():
+    assert ep.retry_due({"checked": "2026-10-22", "error": "读取失败 ConnectionError"}, "2026-10-23")
+    assert not ep.retry_due({"checked": "2026-10-23", "error": "读取失败 ConnectionError"}, "2026-10-23")
+    assert not ep.retry_due({"checked": "2026-10-22", "error": "读取失败 HTTPError"}, "2026-10-23")
+    assert not ep.retry_due({"checked": "2026-10-22", "error": "robots.txt 不允许"}, "2026-10-28")
+    assert ep.retry_due({"checked": "2026-10-16", "error": "正文太短"}, "2026-10-23")

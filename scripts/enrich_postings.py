@@ -43,6 +43,13 @@ QUOTE_LEN = {"documents": 900}  # 材料清单常是一整段列表，允许长�
 SKIP_VIA: set[str] = set()
 NO_FETCH = {"FindAPhD"}  # 本机被拦：只用 Actions 存下的正文（import-texts）
 RETRY_DAYS = 7  # 读取失败的岗位隔几天再试
+TRANSIENT = re.compile(r"ConnectionError|Timeout|ChunkedEncodingError|HTTPError 5\d\d")  # 网络抖动类失败：第二天就重试
+
+
+def retry_due(rec: dict, today: str) -> bool:
+    """读取失败的记录是否到了重试时间：网络类错误隔 1 天，其余（403、robots、正文太短等）隔 RETRY_DAYS 天。"""
+    days = (date.fromisoformat(today) - date.fromisoformat(rec["checked"])).days
+    return days >= (1 if TRANSIENT.search(rec.get("error", "")) else RETRY_DAYS)
 
 # 各平台正文的起止标记：只把岗位本身交给子代理，去掉导航、推荐岗位、页脚
 BODY = {
@@ -384,7 +391,7 @@ def cmd_fetch(args) -> int:
         rec = data.get(p["id"]) or {}
         if rec.get("checked") and not rec.get("error") and (cache_path(p["id"]).exists() or rec.get("llm")):
             continue
-        if rec.get("error") and (date.fromisoformat(today) - date.fromisoformat(rec["checked"])).days < RETRY_DAYS:
+        if rec.get("error") and not retry_due(rec, today):
             continue
         todo.append(p)
     todo = todo[: args.limit] if args.limit else todo
