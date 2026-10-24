@@ -33,6 +33,18 @@ PUBLIC_OWNED = ("reports/source-health.json", "reports/source-health.md", "repor
 REBUILD = ["scripts/build_sources.py", "scripts/export_data.py", "scripts/build_open.py", "scripts/build_site.py"]
 
 
+def newer_platform_rows(mine: list[dict], public: list[dict], names) -> list[dict]:
+    """只能在公开仓库 Actions 上采集的平台（names）：公开仓库里的那份更新（checked 更晚）就用公开仓库的，其余平台用本仓库的。
+    避免同步把 Actions 刚采到、本仓库还没并回的岗位冲掉。"""
+    plat = lambda r: r["id"].split(":")[0]  # noqa: E731
+    out = list(mine)
+    for name in names:
+        latest = lambda rows: max((str(r.get("checked") or "") for r in rows if plat(r) == name), default="")  # noqa: E731
+        if latest(public) > latest(mine):
+            out = [r for r in out if plat(r) != name] + [r for r in public if plat(r) == name]
+    return sorted(out, key=lambda r: (str(r.get("deadline")), r["id"]))
+
+
 def public_ids() -> set[str]:
     open_ids = {r["id"] for r in yaml.safe_load((ROOT / "_data" / "open_now.yml").read_text(encoding="utf-8")) or []}
     from scrapers.sources import ADAPTERS  # 抓取器对应的招聘平台本身（EURAXESS、jobs.ac.uk 等）也保留
@@ -57,6 +69,8 @@ def main() -> int:
     keep = public_ids()
     files = subprocess.run(["git", "ls-files"], cwd=ROOT, capture_output=True, text=True, check=True).stdout.split()
     owned = {f: (dest / f).read_bytes() for f in PUBLIC_OWNED if (dest / f).exists()}
+    pub_postings = dest / "_data" / "postings.yml"
+    public_rows = yaml.safe_load(pub_postings.read_text(encoding="utf-8")) or [] if pub_postings.exists() else []
     # 先清空目标（保留 .git），保证删掉的文件在公开仓库里也删掉
     for p in dest.iterdir():
         if p.name != ".git":
@@ -77,6 +91,15 @@ def main() -> int:
         (dest / f).write_bytes(data)
     (dest / "research" / "inbox").mkdir(parents=True, exist_ok=True)
     (dest / "research" / "inbox" / ".gitkeep").touch()
+
+    if public_rows:
+        sys.path.insert(0, str(ROOT / "scripts"))
+        from collect_postings import ACTIONS
+        mine = yaml.safe_load(pub_postings.read_text(encoding="utf-8")) or []
+        merged = newer_platform_rows(mine, public_rows, ACTIONS)
+        if merged != mine:
+            dump(pub_postings, merged)
+            print("保留公开仓库里更新的平台岗位：" + ", ".join(sorted(ACTIONS)))
 
     main_file = dest / "_data" / "sources.yml"
     data = yaml.safe_load(main_file.read_text(encoding="utf-8"))
