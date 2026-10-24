@@ -217,3 +217,10 @@ def test_start_date_is_not_deadline():
     assert ats.deadline(text) == ("2026-10-30", "application deadline is 30 October 2026")
     assert ats.deadline("The expected start date is 1 January 2027 or by agreement (no later than 1 March 2027).") == (None, "")
     assert ats.deadline("The position should be filled by no later than 1 March 2027.") == (None, "")
+
+
+def test_workday_maintenance_page_keeps_old_rows():
+    import ats
+    row, why = ats.wd_detail("aalto-R1", "https://aalto.wd3.myworkdayjobs.com/aalto/job/x_R1",
+                             "<html><title>Workday is currently unavailable.</title></html>", "2026-10-24")
+    assert row is None and why == "详情页失败"

@@ -199,5 +199,6 @@ def test_transient_errors_retry_next_day():
     assert ep.retry_due({"checked": "2026-10-22", "error": "读取失败 ConnectionError"}, "2026-10-23")
     assert not ep.retry_due({"checked": "2026-10-23", "error": "读取失败 ConnectionError"}, "2026-10-23")
     assert not ep.retry_due({"checked": "2026-10-22", "error": "读取失败 HTTPError"}, "2026-10-23")
+    assert ep.retry_due({"checked": "2026-10-22", "error": "读取失败 JSONDecodeError"}, "2026-10-23")  # Workday 维护页
     assert not ep.retry_due({"checked": "2026-10-22", "error": "robots.txt 不允许"}, "2026-10-28")
     assert ep.retry_due({"checked": "2026-10-16", "error": "正文太短"}, "2026-10-23")

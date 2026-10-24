@@ -365,8 +365,8 @@ def wd_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, st
     import json
     try:
         info = json.loads(raw).get("jobPostingInfo") or {}
-    except json.JSONDecodeError:
-        info = {}
+    except json.JSONDecodeError:  # 维护页 / 报错页（不是岗位数据）：当作读取失败，保留旧记录，不当成岗位已下架
+        return None, "详情页失败"
     if not info:
         return None, "页面无岗位数据"
     school, country, public = _WD_SCHOOL.get(jid, ("", "", url))

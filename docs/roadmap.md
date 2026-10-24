@@ -113,6 +113,7 @@
 2. 接入大学招聘系统：先做 Workday 与 SuccessFactors 的通用适配器，再按国家列出高价值学校。
    - 10-19：`scripts/ats.py`（经 `platforms_ats.py` 注册，已在本地默认清单）接入 6 类：Workday（24 个站点：Aalto、NTU、NUS、悉尼、墨尔本、Monash、UQ、UBC、McGill 等）、SuccessFactors（12 所：EPFL、TU Delft、维也纳、赫尔辛基、根特、巴塞尔、FU Berlin、NUS 等）、Oracle Recruiting（DTU、SDU）、PageUp（港大、La Trobe）、ReachMee（Chalmers）、学校自建招聘页（哥本哈根大学）。首轮收录 289 条（Oracle 93、SuccessFactors 125、Workday 52、哥本哈根 36、Chalmers 18）。截止日期只取正文原句（数字日期按同页写法判断日月顺序，判断不了不收）；PageUp 访问稍快就弹 AWS WAF 验证，目前被拦，不绕过。
    - 10-20：扩到约 80 个学校 / 研究机构入口：Workday 25、SuccessFactors 17（加多伦多、Fraunhofer、A*STAR、CSIRO）、Oracle 4（加爱丁堡、阿尔伯塔）、ReachMee 1，以及 34 个学校自建招聘页（理大、剑桥、ANU、RWTH、TUM、LMU、汉堡、于利希、KIT、DKFZ、PSI/Eawag/Empa/WSL、苏黎世大学、Leibniz、HZDR、TU Berlin、奥尔堡、奥卢、安特卫普、CBS、塔尔图、SISSA、巴斯德、IRB、IIT、INRAE、博洛尼亚等；列表页、表格行、站点地图或 RSS/Atom）。第二轮采集 546 条（去重后在库 476 条）。新规则：德语 WiMi 岗位按正文判断博士 / 博后；法 / 意 / 西月份；学校自己的页面（非美加）数字日期默认 日/月/年。不接入：robots 禁止（UNIL、海德堡、TU Graz / Uni Graz、阿德莱德 / 塔斯马尼亚、帝国理工 / 布里斯托的 TalentLink、奥克兰接口、Tampere 明确拒绝 AI 爬虫）；人机验证拦截（PageUp 各校、牛津、城大、SMU、OIST、USI、HU Berlin、卢森堡大学、Maynooth）；只能表单 POST（爱尔兰 CoreHR 各校）。
+   - 10-24：Workday 维护时（接口跳到 “Workday is currently unavailable” 页）详情返回的不是 JSON：采集改为记“详情页失败”保留旧记录，不再误当成岗位下架删掉；申请须知读取遇到这类错误第二天就重试。
 3. 全部信源用更强的模型重新核实一遍（失效 → 资格待核实 → 缺字段 → 最久未核实）。
 4. `profile.yml` 结构与 `/setup` 命令；`/rank` 硬性筛选 + 关键词匹配版；网站“为我推荐”。
    - 10-19：画像结构 `docs/profile-schema.md` + `profile.example.yml`（真实画像、简历要点、排序结果写进 .gitignore）；`/setup`、`/rank` 命令；

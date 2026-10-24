@@ -43,7 +43,7 @@ QUOTE_LEN = {"documents": 900}  # 材料清单常是一整段列表，允许长�
 SKIP_VIA: set[str] = set()
 NO_FETCH = {"FindAPhD"}  # 本机被拦：只用 Actions 存下的正文（import-texts）
 RETRY_DAYS = 7  # 读取失败的岗位隔几天再试
-TRANSIENT = re.compile(r"ConnectionError|Timeout|ChunkedEncodingError|HTTPError 5\d\d")  # 网络抖动类失败：第二天就重试
+TRANSIENT = re.compile(r"ConnectionError|Timeout|ChunkedEncodingError|JSONDecodeError|HTTPError 5\d\d")  # 网络抖动、维护页（接口返回非 JSON）：第二天就重试
 
 
 def retry_due(rec: dict, today: str) -> bool:
