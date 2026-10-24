@@ -1064,7 +1064,15 @@ def main() -> int:
     ap.add_argument("--max-details", type=int, default=3000)
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--dedupe-only", action="store_true", help="不采集，只对现有 _data/postings.yml 去重")
+    ap.add_argument("--merge-from", help="不采集：用该文件里 -s 所列平台的岗位替换现有 _data/postings.yml 中这些平台的岗位（Actions 提交前与仓库最新版合并用）")
     args = ap.parse_args()
+    if args.merge_from:
+        names = set(expand(args.sources))
+        new = yaml.safe_load(Path(args.merge_from).read_text(encoding="utf-8")) or []
+        old = yaml.safe_load(OUT.read_text(encoding="utf-8")) or [] if OUT.exists() else []
+        out = save(merge_platforms(old, new, names))
+        print(f"合并：{', '.join(sorted(names))} 共 {sum(r['id'].split(':')[0] in names for r in out)} 条，全部 {len(out)} 条")
+        return 0
     if args.dedupe_only:
         rows, dropped = dedupe(yaml.safe_load(OUT.read_text(encoding="utf-8")) or [])
         OUT.write_text(yaml.safe_dump(sorted(rows, key=lambda r: (r["deadline"], r["id"])), allow_unicode=True,
@@ -1133,6 +1141,14 @@ def post_body(pid: str, raw: str) -> str:
 def save_text(d: Path, pid: str, raw: str) -> None:
     d.mkdir(parents=True, exist_ok=True)
     (d / (re.sub(r"[^\w.-]", "_", pid) + ".txt")).write_text(post_body(pid, raw), encoding="utf-8")
+
+
+def merge_platforms(old: list[dict], new: list[dict], names: set[str]) -> dict[str, dict]:
+    """把 new 里属于 names 平台的岗位换进 old（其他平台保持 old 的版本）。"""
+    plat = lambda r: r["id"].split(":")[0]  # noqa: E731
+    rows = {r["id"]: r for r in old if plat(r) not in names}
+    rows.update({r["id"]: r for r in new if plat(r) in names})
+    return rows
 
 
 def save(rows: dict[str, dict], final: bool = False) -> list[dict]:

@@ -1,12 +1,12 @@
 # PhDRadar
 
-> Funded PhD and postdoc opportunities abroad, curated for students from mainland China. Every item was checked against its official page and carries the sentence seen there; items are removed after their deadline. Updated daily (last: 2026-10-23).
+> Funded PhD and postdoc opportunities abroad, curated for students from mainland China. Every item was checked against its official page and carries the sentence seen there; items are removed after their deadline. Updated daily (last: 2026-10-24).
 
 Read the JSON files below rather than scraping the HTML page. All endpoints are static, read-only and need no key.
 
 ## Data
 - [API directory](https://pingfanfan.github.io/PhDRadar/api/v1/index.json): counts, endpoints, field notes and usage rules
-- [Opportunities open now](https://pingfanfan.github.io/PhDRadar/api/v1/opportunities.json): 3842 items — postings and programmes with deadline, funding, eligibility for mainland Chinese applicants, evidence quote, and requirement fields quoted from the posting
+- [Opportunities open now](https://pingfanfan.github.io/PhDRadar/api/v1/opportunities.json): 3770 items — postings and programmes with deadline, funding, eligibility for mainland Chinese applicants, evidence quote, and requirement fields quoted from the posting
 - [Daily changes](https://pingfanfan.github.io/PhDRadar/api/v1/changes.json): ids of opportunities added and removed each day over the last 30 days — fetch this first and only re-download when something changed
 - [Verified sources](https://pingfanfan.github.io/PhDRadar/api/v1/sources.json): 3968 scholarship schemes, doctoral programmes and job boards
 - [JSON Schema](https://pingfanfan.github.io/PhDRadar/api/v1/schema.json) and [OpenAPI](https://pingfanfan.github.io/PhDRadar/api/openapi.json)

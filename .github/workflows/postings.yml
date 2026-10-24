@@ -68,7 +68,14 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add _data/postings.yml 2>/dev/null || exit 0
-          git diff --cached --quiet && exit 0
-          git commit -m "岗位采集：${{ inputs.sources || 'actions' }}"
-          git pull --rebase && git push
+          # 采集要跑一个多小时，期间同步任务常会推送新的 postings.yml：每次都取仓库最新版，只换入本次采集的平台，再提交
+          cp _data/postings.yml "$RUNNER_TEMP/collected.yml"
+          for i in 1 2 3; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            python scripts/collect_postings.py -s "${{ inputs.sources || 'actions' }}" --merge-from "$RUNNER_TEMP/collected.yml"
+            git add _data/postings.yml
+            git diff --cached --quiet && exit 0
+            git commit -qm "岗位采集：${{ inputs.sources || 'actions' }}" && git push && exit 0
+            sleep 5
+          done
+          exit 1
