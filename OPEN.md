@@ -1,10 +1,10 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-10-24。共 **459** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-10-25。共 **458** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
 - [30 天内截止](#30-天内截止)（124）
-- [之后截止](#之后截止)（218）
+- [之后截止](#之后截止)（217）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（65）
 - [即将开放](#即将开放)（52）
 
@@ -12,7 +12,6 @@
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-24 | [慕尼黑量子科学与技术中心（MCQST）博士后奖学金](https://www.mcqst.de/support/postdoctoral-programs/postdoc-fellowship.html) | 德国 | 博后 | 全奖（学费＋生活费） | ✅ 可申 | MCQST 博后奖学金，申请截止 2026-10-24 23:59 CET，推荐信截止 2026-10-31；可申请时列出 3–5 位想加入的 PI。<br>官网原句：“Application deadline: 24 October 2026, 23:59 CET” |
 | 2026-10-25 | [莱顿大学印度尼西亚语言文献学博士（NWO，2 名额）](https://careers.universiteitleiden.nl/job/Two-PhD-candidates,-DescriptiveDocumentary-Linguistics-in-Indonesia/16880-en_US) | 荷兰 | 博士 | 带薪岗位 | ❔ 官网未写明 | NWO 项目 2 个博士岗，申请截止 2026-10-25；入职时间 2027 年 2 至 7 月；需语言学硕士（入职前取得）。<br>官网原句：“25 October 2026” |
 | 2026-10-25 | [Radboud 物理信息生成式 AI 博士岗位（2026）](https://www.ru.nl/en/working-at/job-opportunities/phd-position-physics-informed-generative-ai-for-synthetic-energy-data) | 荷兰 | 博士 | 带薪岗位 | ❔ 官网未写明 | Radboud 理学院 NWO 资助 SHARE 项目带薪博士岗位（1.0 FTE），正文写明申请截止 2026-10-25，距今仅一周，需尽快申请。<br>官网原句：“25 October 2026” |
 | 2026-10-26 | [蒂尔蒙大学 Tranzo 博士岗位：预防赌博伤害（promovendus）](https://www.academictransfer.com/en/jobs/364568/promovendus-preventie-van-gokschade/apply/) | 荷兰 | 博士 | 带薪岗位 | ❔ 官网未写明 | 蒂尔堡大学 Tranzo 系单一博士岗位（0.8 fte，带薪）；页面称聘用最好 2026-12-01 起；原条目标注的 AWV 未在页面确认。<br>官网原句：“Make sure to apply no later than 26 okt 2026 23:59 (Europe/Amsterdam).” |
@@ -136,12 +135,12 @@
 | 2026-11-22 | [肯特大学 SEDarc ESRC 博士奖学金](https://www.kent.ac.uk/scholarships/search/FNADSEDARC01) | 英国 | 博士 | 全奖（学费＋生活费） | 🟡 部分可申 | 肯特大学 SEDarc 校内截止为 2026-11-22 23:59 GMT，需在截止前把申请表提交给研究生与研究员学院。<br>官网原句：“23:59 GMT, Sunday 22 November 2026” |
 | 2026-11-23 | [马普研究员基金（Max Planck Fellowship，AEI 引力物理所）](https://www.aei.mpg.de/26182/max-planck-fellowship) | 德国 | 博后 | 仅生活费 | ❔ 官网未写明 | 完整考虑截止 2026 年 11 月 23 日（含推荐信送达），页面称名额满前持续考虑；预计 2027 年秋季入职。<br>官网原句：“Deadline for full consideration: 23 November 2026, including receipt of reference letters.” |
 | 2026-11-23 | [EPFL IPHYS：ERC Consolidator 资助研究组](https://www.epfl.ch/schools/sb/research/iphys/erc-consolidator-grants/) | 瑞士 | 博士、博后 | 视项目而定 | ❔ 官网未写明 | IPHYS 内部截止 2026 年 11 月 23 日，需先取得 IPHYS 教授支持信；EPFL 内部截止 12 月 15 日，ERC 截止 2027 年 1 月 12 日。<br>官网原句：“no later than 23/11/2026” |
+| 2026-11-24 | [爱丁堡大学法学院博士奖学金](https://www.law.ed.ac.uk/study/research-degrees/scholarships-funding) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | SGSSS Open 竞争截止 2026 年 11 月 24 日 17:00 GMT，入学申请须同时在 11 月 19 日 17:00 GMT 前提交；仅限社会科学视角研究，国际名额有限。<br>官网原句：“17:00 (GMT) 24th November 2026” |
 
 ## 之后截止
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-24 | [爱丁堡大学法学院博士奖学金](https://www.law.ed.ac.uk/study/research-degrees/scholarships-funding) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | SGSSS Open 竞争截止 2026 年 11 月 24 日 17:00 GMT，入学申请须同时在 11 月 19 日 17:00 GMT 前提交；仅限社会科学视角研究，国际名额有限。<br>官网原句：“17:00 (GMT) 24th November 2026” |
 | 2026-11-27 | [智利 ANID 国家博士奖学金（Beca de Doctorado Nacional）](https://anid.cl/capital-humano-2/doctorado-nacional/) | 智利 | 博士 | 官网未写明 | ❔ 官网未写明 | 智利 ANID 2027 学年博士奖学金征集，截止 2026 年 11 月 27 日 13:00；页面未说明外国国籍是否可申请。<br>官网原句：“Cierre: 27 de noviembre, 2026 - 13:00” |
 | 2026-11-27 | [RobotX PhD Fellowship 2027（ETH Zurich）](https://jobs.ethz.ch/job/view/JOPG_ethz_zBtPwWHnM0fumyTFso) | 瑞士 | 博士 | 带薪岗位 | ❔ 官网未写明 | RobotX 2027 轮博士岗位，截止 2026 年 11 月 27 日，仅接受在线门户提交。<br>官网原句：“Application deadline: 27 November 2026.” |
 | 2026-11-27 | [RobotX Postdoctoral Fellowship（ETH Zurich）](https://jobs.ethz.ch/job/view/JOPG_ethz_58u057ys6BxuEciK5P) | 瑞士 | 博后 | 带薪岗位 | ❔ 官网未写明 | RobotX 博后岗位，截止 2026 年 11 月 27 日，仅接受在线门户提交。<br>官网原句：“Application deadline: 27 November 2026.” |
