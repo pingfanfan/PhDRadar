@@ -1,7 +1,8 @@
 // 数据集与筛选、推荐排序。推荐复用 assets/rank.js（与 scripts/rank.py 同一套规则，测试保证两边一致）。
 import { useMemo } from "react"
 import { create } from "zustand"
-import { days, dlOf, isDate, isNow, iso, TODAY, type Labels, type Row } from "@/lib/data"
+import { days, dlOf, isDate, isNow, iso, payParts, TODAY, type Labels, type Row } from "@/lib/data"
+import { matcher } from "@/lib/search"
 import { stageOf, useApp, type Profile, type StageRec } from "@/store"
 
 export interface RankItem { id: string; score: number; reasons: string[]; hits: string[]; excluded: string[] }
@@ -41,29 +42,44 @@ export function useRanking() {
 }
 export type Ranking = NonNullable<ReturnType<typeof useRanking>>
 
+const useVocab = () => {
+  const rows = useData((s) => s.rows)
+  return useMemo(() => { const v = new Set<string>(); rows.forEach((x) => x._ws.forEach((w) => v.add(w))); return [...v] }, [rows])
+}
+
+// 某天之前截止的不再算“这天仍可申请”；滚动招生与没写截止的都算；即将开放的要到开放日
+export const openOn = (x: Row, day: string) => {
+  if (isNow(x) && x.o!.st === "upcoming" && isDate(x.o!.op)) return x.o!.op! <= day
+  const d = dlOf(x)
+  return !isDate(d) || d! >= day
+}
+
 export function useFiltered(ignoreDay = false) {
   const { rows } = useData()
-  const { view, q, region, disc, flags, day, saved } = useApp()
+  const vocab = useVocab()
+  const { view, q, region, disc, flags, day, dayMode, saved, skipped } = useApp()
+  const match = useMemo(() => matcher(q, vocab), [q, vocab])
   return useMemo(() => {
-    const qq = q.trim().toLowerCase(), f = new Set(flags)
+    const f = new Set(flags)
     const out = rows.filter((x) => {
-      if (!ignoreDay && day && dlOf(x) !== day) return false
+      if (!ignoreDay && day && (dayMode === "due" ? dlOf(x) !== day : !openOn(x, day))) return false
       if (view === "saved") { if (!saved[x.id]) return false }
+      else if (view === "skipped") { if (!skipped[x.id]) return false }
+      else if (skipped[x.id]) return false
       else if (view === "now" && !isNow(x)) return false
       else if (view === "ver" && !x.v) return false
       if (f.has("cn") && x.e !== "yes") return false
       const lv = x.l || []
       if (f.has("phd") !== f.has("pd") && !lv.includes(f.has("phd") ? "phd" : "postdoc")) return false
-      if (f.has("full") && !["full", "salary"].includes(x.c || "")) return false
-      if (f.has("soon")) { const d = dlOf(x); if (!isDate(d) || days(d!) < 0 || days(d!) > 30) return false }
+      if (f.has("amt") && !payParts(x).amt) return false
       if (region && !(x.r || []).includes(region)) return false
       if (disc && !(x.d || []).includes(disc)) return false
-      if (qq && !x._hay.includes(qq)) return false
+      if (match && !match(x._hay, x._ws)) return false
       return true
     })
     const key = (x: Row) => { const d = dlOf(x); return isDate(d) && days(d!) >= 0 ? d! : d === "rolling" ? "9998" : "9999" }
     return out.sort((a, b) => (key(a) < key(b) ? -1 : key(a) > key(b) ? 1 : a.n.localeCompare(b.n, "zh")))
-  }, [rows, view, q, region, disc, flags, day, saved, ignoreDay])
+  }, [rows, view, match, region, disc, flags, day, dayMode, saved, skipped, ignoreDay])
 }
 
 // 准备清单：材料取自公告原文摘出的材料清单；公告没列时给常见材料

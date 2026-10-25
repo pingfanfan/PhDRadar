@@ -1,3 +1,5 @@
+import { norm, words } from "@/lib/search"
+
 // 首页数据（assets/catalog.json，由 scripts/build_site.py 生成）与通用的日期、文案工具。
 export type AfKey = "dg" | "lg" | "sd" | "du" | "dc" | "av" | "sv" | "na"
 
@@ -27,6 +29,7 @@ export interface Row {
   al?: string[]
   o?: { st?: string; dl?: string; op?: string; q?: string; ck?: string }
   _hay: string
+  _ws: Set<string>
 }
 
 export interface Labels {
@@ -57,36 +60,18 @@ export const screened = (x: Row) => (x.fl || []).includes("security-screening")
 
 export async function loadData(): Promise<{ rows: Row[]; labels: Labels }> {
   const [rows, labels] = await Promise.all([
-    fetch("assets/catalog.json").then((r) => r.json()) as Promise<Omit<Row, "_hay">[]>,
+    fetch("assets/catalog.json").then((r) => r.json()) as Promise<Omit<Row, "_hay" | "_ws">[]>,
     fetch("assets/labels.json").then((r) => r.json()) as Promise<Labels>,
   ])
-  const region = (x: Omit<Row, "_hay">) => (x.r || []).map((r) => labels.region[r] || r).join(" ")
+  const region = (x: Omit<Row, "_hay" | "_ws">) => (x.r || []).map((r) => labels.region[r] || r).join(" ")
   return {
     labels,
-    rows: rows.map((x) => ({
-      ...x,
-      _hay: [x.n, x.org, x.in, region(x), (x.d || []).map((d) => labels.discipline[d] || d).join(" "),
-        x.s, x.rq, x.lt, x.af?.dg?.[0]].join(" ").toLowerCase(),
-    })),
+    rows: rows.map((x) => {
+      const hay = norm([x.n, x.org, x.in, region(x), (x.d || []).map((d) => labels.discipline[d] || d).join(" "),
+        x.s, x.rq, x.lt, x.af?.dg?.[0], (x.l || []).map((l) => labels.level[l] || l).join(" ")].join(" "))
+      return { ...x, _hay: hay, _ws: new Set(words(hay)) }
+    }),
   }
-}
-
-// 国家 / 地区旗帜 emoji；Windows 不显示旗帜 emoji（只会出两个字母），这时不显示
-const NO_FLAG = typeof navigator !== "undefined" && /Windows/.test(navigator.userAgent)
-export function flag(code?: string) {
-  if (code === "GLOBAL") return "🌐"
-  const c = code === "UK" ? "GB" : code
-  if (NO_FLAG || !c || !/^[A-Z]{2}$/.test(c)) return ""
-  return String.fromCodePoint(...[...c].map((ch) => 0x1f1e6 + ch.charCodeAt(0) - 65))
-}
-
-// 列表里的短截止：30 天内写“还有几天”，更远写日期
-export function dueShort(x: Row, labels: Labels): [string, Tone] {
-  const [text, tone] = due(x, labels), d = dlOf(x)
-  if (!isDate(d) || (isNow(x) && x.o!.st === "upcoming")) return [d === "rolling" ? "滚动招生" : text, tone]
-  const n = days(d!)
-  if (n < 0) return ["已截止", ""]
-  return [n === 0 ? "今天截止" : n <= 30 ? `${n} 天后截止` : `${+d!.slice(5, 7)}/${+d!.slice(8)} 截止`, tone]
 }
 
 // 卡片上只放简短金额（如 €47,000–€64,000/年）；官网原文放在详情里
@@ -118,15 +103,71 @@ export function due(x: Row, labels: Labels): [string, Tone] {
   return [d ? labels.deadline[d] || d : "截止日期官网未写明", ""]
 }
 
+// 大屏分组：今天 / 明天 / 本周 / 下周 / 按月 / 滚动招生 / 即将开放 / 未写截止
 export function group(x: Row) {
+  if (isNow(x) && x.o!.st === "upcoming") return "即将开放"
   const d = dlOf(x)
-  if (d === "rolling") return "滚动招生"
-  if (!isDate(d)) return "截止日期官网未写明"
+  if (d === "rolling") return "滚动招生 · 招满为止"
+  if (!isDate(d)) return "截止日期未写明"
   const n = days(d!), wkEnd = (7 - TODAY.getDay()) % 7
   if (n < 0) return "已截止"
+  if (n === 0) return "今天截止"
+  if (n === 1) return "明天截止"
   if (n <= wkEnd) return "本周截止"
   if (n <= wkEnd + 7) return "下周截止"
   return `${+d!.slice(0, 4) === TODAY.getFullYear() ? "" : `${d!.slice(0, 4)} 年 `}${+d!.slice(5, 7)} 月截止`
+}
+
+const WK = "日一二三四五六"
+export const weekday = (d: string) => "周" + WK[new Date(d + "T00:00:00").getDay()]
+const slash = (d: string) => `${+d.slice(5, 7)}/${+d.slice(8)}`
+
+// 大屏左列：大字写剩余时间，小字写日期
+export function dueCell(x: Row): { main: string; sub: string; tone: "today" | "upcoming" | "" } {
+  if (isNow(x) && x.o!.st === "upcoming") return { main: x.o!.op && isDate(x.o!.op) ? slash(x.o!.op) : "即将", sub: "开放申请", tone: "upcoming" }
+  const d = dlOf(x)
+  if (d === "rolling") return { main: "滚动", sub: "招满为止", tone: "" }
+  if (!isDate(d)) return { main: "—", sub: "未写明", tone: "" }
+  const n = days(d!)
+  if (n < 0) return { main: slash(d!), sub: "已截止", tone: "" }
+  if (n === 0) return { main: "今天", sub: slash(d!), tone: "today" }
+  if (n === 1) return { main: "明天", sub: slash(d!), tone: "" }
+  if (n <= 13) return { main: `${n} 天`, sub: `${slash(d!)} ${weekday(d!)}`, tone: "" }
+  return { main: slash(d!), sub: `${n} 天后`, tone: "" }
+}
+
+// 资助统一成“主信息 + 一行小字”：有金额写金额和周期；德国公职薪级写薪级；只有类别写类别并注明金额未写
+const MONEY = new RegExp(String.raw`(?:(R\$|HK\$|A\$|NZ\$|S\$|C\$|US\$|CHF|EUR|GBP|USD|SEK|NOK|DKK|AUD|CAD|NZD|HKD|SGD|CNY|RMB|JPY|KRW|[€£$¥])\s?(\d[\d,.\s]*\d|\d))|(?:(\d[\d,.\s]*\d|\d)\s?(€|£|EUR|CHF|SEK|NOK|DKK|euros?|kr)(?![A-Za-z]))`, "gi")
+const RANGE_SEP = /^\s*(?:–|—|-|~|to|à|a|et|bis|and|und|até)\s*$/i
+const tidy = (n: string) => n.replace(/\s/g, "").replace(/[.,]00$/, "").replace(/[.,]\d{2}$/, (m) => (/[.,]\d{3}/.test(n) ? "" : m))
+export interface Pay { main: string; note: string; amt: boolean; none: boolean }
+const COVER: Record<string, string> = { full: "全额资助", salary: "带薪岗位", stipend: "生活费津贴", partial: "部分资助", tuition: "仅免学费", varies: "视项目而定", none: "不提供资助" }
+export function payParts(x: Row): Pay {
+  const s = String(x.s || "").trim()
+  const found = [...s.matchAll(MONEY)].slice(0, 2).map((m) => {
+    const raw = m[1] || m[4]
+    return { cur: /^euros?$/i.test(raw) ? "€" : raw.toUpperCase() === raw ? raw : raw.toUpperCase(), num: tidy(m[2] || m[3]), at: m.index!, end: m.index! + m[0].length, after: !!m[4] }
+  })
+  if (found.length && /\d{3}/.test(found[0].num.replace(/[.,]/g, ""))) {
+    let [a, b] = found
+    // “29,662–33,448 €”：前一个数字没带货币，按同一货币算区间
+    const lead = a.after ? s.slice(0, a.at).match(/(\d[\d,.\s]*\d)\s*(?:–|—|-|~|to|à|et|bis|and|und|entre)?\s*$/i) : null
+    if (lead && /\d{3}/.test(lead[1].replace(/[.,\s]/g, "")) && !/[€£$]/.test(lead[0])) { b = a; a = { ...a, num: tidy(lead[1]) } }
+    const range = !!b && b !== a && b.cur === a.cur && RANGE_SEP.test(s.slice(a.end, b.at).replace(/[€£$]|euros?/gi, ""))
+      || (lead !== null && b === found[0])
+    const cur = a.cur.length > 1 && !/\$/.test(a.cur) ? a.cur + " " : a.cur
+    const upto = /\b(up to|max(imum)?)\b|最高/i.test(s) && !range ? "最高 " : ""
+    const per = /per (year|annum)|\/\s?(year|yr|annum|jahr)|p\.\s?a\b|annual|yearly|annuel|jährlich|pro jahr|每年|\/年|年薪/i.test(s) ? "每年"
+      : /per month|\/\s?(month|monat)|monthly|mensuel|monatlich|每月|\/月|月薪/i.test(s) ? "每月" : "周期未写"
+    return { main: upto + cur + a.num + (range ? "–" + b.num : ""), note: per, amt: true, none: false }
+  }
+  const scale = s.match(/(?:TV-?L|TVöD|TV-?H|Entgeltgruppe|EG|E)\s?(1[0-5])\b/)
+  if (scale || /TVöD|TV-?L\b/.test(s)) {
+    const pct = s.match(/(\d{2,3})\s?%/)
+    return { main: scale ? `薪级 E${scale[1]}` : "薪级 TVöD", note: "德国公职薪级" + (pct ? ` · ${pct[1]}% 工时` : ""), amt: false, none: false }
+  }
+  if (x.c && COVER[x.c]) return { main: COVER[x.c], note: x.c === "none" ? "" : "金额未写", amt: false, none: x.c === "none" }
+  return { main: "资助未写明", note: "以官网为准", amt: false, none: true }
 }
 
 // .ics 日历：截止前 14 / 7 / 1 天提醒（RFC 5545 折行，不拆多字节字符）

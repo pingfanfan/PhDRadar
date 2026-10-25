@@ -1,14 +1,17 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 @import "shadcn/tailwind.css";
-@import "@fontsource-variable/geist";
 
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
     --font-heading: var(--font-sans);
-    --font-sans: 'Geist Variable', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif;
-    --font-mono: 'Geist Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+    --font-sans: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', system-ui, sans-serif;
+    --font-mono: 'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+    --color-urgent: var(--urgent);
+    --color-upcoming: var(--upcoming);
+    --color-line-soft: var(--line-soft);
+    --color-page: var(--page);
     --color-sidebar-ring: var(--sidebar-ring);
     --color-sidebar-border: var(--sidebar-border);
     --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
@@ -50,72 +53,82 @@
 }
 
 :root {
-    --background: oklch(1 0 0);
-    --foreground: oklch(0.145 0 0);
-    --card: oklch(1 0 0);
-    --card-foreground: oklch(0.145 0 0);
-    --popover: oklch(1 0 0);
-    --popover-foreground: oklch(0.145 0 0);
-    --primary: oklch(0.52 0.12 162);
-    --primary-foreground: oklch(0.985 0 0);
-    --secondary: oklch(0.962 0.004 165);
-    --secondary-foreground: oklch(0.205 0 0);
-    --muted: oklch(0.968 0.003 165);
-    --muted-foreground: oklch(0.52 0.012 165);
-    --accent: oklch(0.962 0.012 165);
-    --accent-foreground: oklch(0.205 0 0);
-    --destructive: oklch(0.577 0.245 27.325);
-    --border: oklch(0.928 0.004 165);
-    --input: oklch(0.91 0.005 165);
-    --ring: oklch(0.62 0.12 162);
-    --chart-1: oklch(0.87 0 0);
-    --chart-2: oklch(0.556 0 0);
-    --chart-3: oklch(0.439 0 0);
-    --chart-4: oklch(0.371 0 0);
-    --chart-5: oklch(0.269 0 0);
-    --radius: 0.5rem;
-    --sidebar: oklch(0.985 0 0);
-    --sidebar-foreground: oklch(0.145 0 0);
-    --sidebar-primary: oklch(0.205 0 0);
-    --sidebar-primary-foreground: oklch(0.985 0 0);
-    --sidebar-accent: oklch(0.97 0 0);
-    --sidebar-accent-foreground: oklch(0.205 0 0);
-    --sidebar-border: oklch(0.922 0 0);
-    --sidebar-ring: oklch(0.708 0 0);
+    --page: #F4F3EE;
+    --background: #F4F3EE;
+    --foreground: #16161A;
+    --card: #FFFFFF;
+    --card-foreground: #16161A;
+    --popover: #FFFFFF;
+    --popover-foreground: #16161A;
+    --primary: #16161A;
+    --primary-foreground: #FFFFFF;
+    --secondary: #F1EFE8;
+    --secondary-foreground: #16161A;
+    --muted: #F3F1EA;
+    --muted-foreground: #5F5E58;
+    --accent: #F8F7F2;
+    --accent-foreground: #16161A;
+    --destructive: #B42318;
+    --border: #D9D7CE;
+    --input: #D9D7CE;
+    --ring: #16161A;
+    --line-soft: #ECEAE3;
+    --urgent: #B45309;
+    --upcoming: #1D4ED8;
+    --sig: 245, 176, 0;
+    --chart-1: #F5B000;
+    --chart-2: #5F5E58;
+    --chart-3: #16161A;
+    --chart-4: #D9D7CE;
+    --chart-5: #1D4ED8;
+    --radius: 0.25rem;
+    --sidebar: #FFFFFF;
+    --sidebar-foreground: #16161A;
+    --sidebar-primary: #16161A;
+    --sidebar-primary-foreground: #FFFFFF;
+    --sidebar-accent: #F8F7F2;
+    --sidebar-accent-foreground: #16161A;
+    --sidebar-border: #D9D7CE;
+    --sidebar-ring: #16161A;
 }
 
 .dark {
-    --background: oklch(0.145 0 0);
-    --foreground: oklch(0.985 0 0);
-    --card: oklch(0.205 0 0);
-    --card-foreground: oklch(0.985 0 0);
-    --popover: oklch(0.205 0 0);
-    --popover-foreground: oklch(0.985 0 0);
-    --primary: oklch(0.74 0.15 162);
-    --primary-foreground: oklch(0.18 0.03 162);
-    --secondary: oklch(0.269 0 0);
-    --secondary-foreground: oklch(0.985 0 0);
-    --muted: oklch(0.269 0 0);
-    --muted-foreground: oklch(0.708 0 0);
-    --accent: oklch(0.26 0.014 165);
-    --accent-foreground: oklch(0.985 0 0);
-    --destructive: oklch(0.704 0.191 22.216);
-    --border: oklch(1 0 0 / 10%);
-    --input: oklch(1 0 0 / 15%);
-    --ring: oklch(0.6 0.12 162);
-    --chart-1: oklch(0.87 0 0);
-    --chart-2: oklch(0.556 0 0);
-    --chart-3: oklch(0.439 0 0);
-    --chart-4: oklch(0.371 0 0);
-    --chart-5: oklch(0.269 0 0);
-    --sidebar: oklch(0.205 0 0);
-    --sidebar-foreground: oklch(0.985 0 0);
-    --sidebar-primary: oklch(0.488 0.243 264.376);
-    --sidebar-primary-foreground: oklch(0.985 0 0);
-    --sidebar-accent: oklch(0.269 0 0);
-    --sidebar-accent-foreground: oklch(0.985 0 0);
-    --sidebar-border: oklch(1 0 0 / 10%);
-    --sidebar-ring: oklch(0.556 0 0);
+    --page: #0F0F0D;
+    --background: #0F0F0D;
+    --foreground: #ECE8DC;
+    --card: #141412;
+    --card-foreground: #ECE8DC;
+    --popover: #141412;
+    --popover-foreground: #ECE8DC;
+    --primary: #ECE8DC;
+    --primary-foreground: #0F0F0D;
+    --secondary: #1E1D1A;
+    --secondary-foreground: #ECE8DC;
+    --muted: #1E1D1A;
+    --muted-foreground: #9C988C;
+    --accent: #1A1A17;
+    --accent-foreground: #ECE8DC;
+    --destructive: #F97066;
+    --border: #34332D;
+    --input: #34332D;
+    --ring: #ECE8DC;
+    --line-soft: #24231F;
+    --urgent: #FFB020;
+    --upcoming: #8FB0FF;
+    --sig: 255, 176, 32;
+    --chart-1: #FFB020;
+    --chart-2: #9C988C;
+    --chart-3: #ECE8DC;
+    --chart-4: #34332D;
+    --chart-5: #8FB0FF;
+    --sidebar: #141412;
+    --sidebar-foreground: #ECE8DC;
+    --sidebar-primary: #ECE8DC;
+    --sidebar-primary-foreground: #0F0F0D;
+    --sidebar-accent: #1A1A17;
+    --sidebar-accent-foreground: #ECE8DC;
+    --sidebar-border: #34332D;
+    --sidebar-ring: #ECE8DC;
 }
 
 @layer base {
@@ -131,4 +144,39 @@
   html {
     @apply font-sans;
     }
+}
+/* 截止大屏：宽屏四列（截止 · 资助 · 地点 · 机会）；窄屏左边截止，右边依次是标题、资助、地点 */
+@layer components {
+  .board-head, .board-grid {
+    display: grid;
+    grid-template-columns: 84px 132px 64px minmax(0, 1fr);
+    column-gap: 20px;
+  }
+  .board-grid { grid-template-areas: "due pay place title"; row-gap: 6px; align-items: start; }
+  .board-grid .c-due { grid-area: due; }
+  .board-grid .c-pay { grid-area: pay; display: flex; flex-direction: column; gap: 2px; }
+  .board-grid .c-place { grid-area: place; }
+  .board-grid .c-title { grid-area: title; }
+  .board-exp {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: 32px;
+    padding-left: 124px;
+    padding-right: 20px;
+  }
+  .month-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 32px 48px; }
+  @media (max-width: 900px) {
+    .board-head { display: none; }
+    .board-grid {
+      grid-template-columns: 60px minmax(0, 1fr);
+      grid-template-areas: "due title" "due pay" "due place";
+      column-gap: 14px;
+    }
+    .board-grid .c-pay { flex-direction: row; align-items: baseline; gap: 8px; }
+    .board-exp { grid-template-columns: minmax(0, 1fr); gap: 18px; padding-left: 16px; padding-right: 16px; }
+    .month-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px 32px; }
+  }
+  @media (max-width: 560px) {
+    .month-grid { grid-template-columns: minmax(0, 1fr); }
+  }
 }

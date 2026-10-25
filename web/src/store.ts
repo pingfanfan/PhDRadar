@@ -3,10 +3,11 @@ import { create } from "zustand"
 import { createJSONStorage, persist } from "zustand/middleware"
 import { iso } from "@/lib/data"
 
-export type View = "now" | "rec" | "ver" | "saved"
+export type View = "now" | "rec" | "ver" | "saved" | "skipped"
 export type Stage = "want" | "prep" | "sent" | "interview" | "result"
 export type Result = "offer" | "reject" | "withdraw"
-export type Flag = "cn" | "full" | "soon" | "phd" | "pd"
+export type Flag = "cn" | "amt" | "phd" | "pd"
+export type DayMode = "due" | "open"
 
 export const STAGES: [Stage, string][] = [["want", "想投"], ["prep", "准备中"], ["sent", "已投"], ["interview", "面试"], ["result", "结果"]]
 export const RESULTS: [Result, string][] = [["offer", "录取"], ["reject", "未录取"], ["withdraw", "放弃"]]
@@ -27,16 +28,20 @@ interface State {
   disc: string
   flags: Flag[]
   day: string
+  dayMode: DayMode
+  calOpen: boolean
   sel: string
   shown: number
   saved: Record<string, 1>
+  skipped: Record<string, 1>
   status: Record<string, StageRec>
   profile: Profile
   setView: (v: View) => void
-  set: (p: Partial<Pick<State, "q" | "region" | "disc" | "flags" | "day">>) => void
+  set: (p: Partial<Pick<State, "q" | "region" | "disc" | "flags" | "day" | "dayMode" | "calOpen">>) => void
   select: (id: string) => void
   more: () => void
   toggleSave: (id: string) => boolean
+  toggleSkip: (id: string) => boolean
   setStage: (id: string, s: Stage, r?: Result) => void
   toggleCheck: (id: string, i: number) => void
   setProfile: (p: Partial<Profile>) => void
@@ -65,9 +70,12 @@ export const useApp = create<State>()(
       disc: "",
       flags: [],
       day: "",
+      dayMode: "due",
+      calOpen: false,
       sel: "",
       shown: PAGE,
       saved: legacy<Record<string, 1>>("phdradar-saved", {}),
+      skipped: {},
       status: legacy<Record<string, StageRec>>("phdradar-status", {}),
       profile: legacy<Profile>("phdradar-profile", EMPTY_PROFILE),
       setView: (view) => set({ view, shown: PAGE, day: "" }),
@@ -79,6 +87,12 @@ export const useApp = create<State>()(
         const on = !saved[id]
         if (on) { saved[id] = 1; status[id] = { s: "want", t: today() } } else { delete saved[id]; delete status[id] }
         set({ saved, status })
+        return on
+      },
+      toggleSkip: (id) => {
+        const skipped = { ...get().skipped }, on = !skipped[id]
+        if (on) skipped[id] = 1; else delete skipped[id]
+        set({ skipped, sel: on && get().sel === id ? "" : get().sel })
         return on
       },
       setStage: (id, s, r) => {
@@ -100,7 +114,7 @@ export const useApp = create<State>()(
     {
       name: "phdradar-app",
       storage: createJSONStorage(() => localStorage),
-      partialize: (s) => ({ saved: s.saved, status: s.status, profile: s.profile, view: s.view === "saved" ? "now" : s.view }),
+      partialize: (s) => ({ saved: s.saved, skipped: s.skipped, status: s.status, profile: s.profile, view: s.view === "saved" || s.view === "skipped" ? "now" : s.view }),
     },
   ),
 )
