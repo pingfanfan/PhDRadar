@@ -37,7 +37,7 @@
   - 国籍 / 学费身份限制、需提交的材料清单、申请方式（在线系统 / 邮件）、联系人、导师姓名与主页
   - 提取规则：只摘原文，每个字段附原句，取不到就留空。
 - **可访问性**：`docs/access.md` 每天更新，目标是核对过的信源 99% 能打开；打不开的进入核实队列。
-- **做完的标准**：在招岗位 ≥ 5000 条，覆盖 25 个以上国家；80% 的岗位有学位要求、语言、材料清单三项结构化字段；每日更新连续 30 天无中断。
+- **做完的标准**：在招岗位 ≥ 5000 条，覆盖 25 个以上国家；公告里写了的学位要求、语言、材料清单都抽到（每周抽检 20 个岗位，漏抽率 < 10%；公告本身没写的不算缺失。仓库主人 10-24 决定，原标准是“80% 的岗位三项都有”）；每日更新连续 30 天无中断。
 
 ### 阶段 2　申请者画像 `/setup`
 
@@ -109,7 +109,7 @@
    - 10-22：FindAPhD 接入：Actions 采集时用 `collect_postings.py --save-texts` 把公告正文存为附件（7 天，不提交），本地 `enrich_postings.py import-texts` 导入后照常抽取；10-23 首批 85 条有申请须知，其余随每日任务补完。补抽 477 个积压岗位后全部在招 63%。
    - 10-23：读取失败的岗位里网络类错误（ConnectionError / Timeout / 5xx）改为第二天就重试，其余仍隔 7 天（香港理大 15 条因此从 0 恢复）。
      现状分析：模型已读过的 2844 个岗位里，有学位/语言/材料至少两项的按平台差别很大——北欧、荷兰、德国与各校招聘系统 85–99%，jobs.ac.uk 32%、CNRS 37%、FindAPhD 36%、INSPIRE 62%。差的原因是公告本身不写：英国 / 美国岗位几乎不写语言要求（jobs.ac.uk 只有 8% 写了），CNRS 统一在门户投递、公告不列材料；jobs.ac.uk 的附件（/enhanced/fp/）被 robots.txt 禁止，不读。
-     因此“80% 的岗位三项都有”在公告不写的平台上达不到；建议把标准改为“公告里写了的都抽到”（按抽检衡量漏抽率），需要仓库主人决定。
+     因此“80% 的岗位三项都有”在公告不写的平台上达不到；10-24 仓库主人同意改为“公告里写了的都抽到”（按抽检衡量漏抽率）。
 2. 接入大学招聘系统：先做 Workday 与 SuccessFactors 的通用适配器，再按国家列出高价值学校。
    - 10-19：`scripts/ats.py`（经 `platforms_ats.py` 注册，已在本地默认清单）接入 6 类：Workday（24 个站点：Aalto、NTU、NUS、悉尼、墨尔本、Monash、UQ、UBC、McGill 等）、SuccessFactors（12 所：EPFL、TU Delft、维也纳、赫尔辛基、根特、巴塞尔、FU Berlin、NUS 等）、Oracle Recruiting（DTU、SDU）、PageUp（港大、La Trobe）、ReachMee（Chalmers）、学校自建招聘页（哥本哈根大学）。首轮收录 289 条（Oracle 93、SuccessFactors 125、Workday 52、哥本哈根 36、Chalmers 18）。截止日期只取正文原句（数字日期按同页写法判断日月顺序，判断不了不收）；PageUp 访问稍快就弹 AWS WAF 验证，目前被拦，不绕过。
    - 10-20：扩到约 80 个学校 / 研究机构入口：Workday 25、SuccessFactors 17（加多伦多、Fraunhofer、A*STAR、CSIRO）、Oracle 4（加爱丁堡、阿尔伯塔）、ReachMee 1，以及 34 个学校自建招聘页（理大、剑桥、ANU、RWTH、TUM、LMU、汉堡、于利希、KIT、DKFZ、PSI/Eawag/Empa/WSL、苏黎世大学、Leibniz、HZDR、TU Berlin、奥尔堡、奥卢、安特卫普、CBS、塔尔图、SISSA、巴斯德、IRB、IIT、INRAE、博洛尼亚等；列表页、表格行、站点地图或 RSS/Atom）。第二轮采集 546 条（去重后在库 476 条）。新规则：德语 WiMi 岗位按正文判断博士 / 博后；法 / 意 / 西月份；学校自己的页面（非美加）数字日期默认 日/月/年。不接入：robots 禁止（UNIL、海德堡、TU Graz / Uni Graz、阿德莱德 / 塔斯马尼亚、帝国理工 / 布里斯托的 TalentLink、奥克兰接口、Tampere 明确拒绝 AI 爬虫）；人机验证拦截（PageUp 各校、牛津、城大、SMU、OIST、USI、HU Berlin、卢森堡大学、Maynooth）；只能表单 POST（爱尔兰 CoreHR 各校）。
@@ -130,6 +130,12 @@
    - 10-19 晚：首轮并入 617 条（CNRS 244、劳动局 119、TAMU 111、MathJobs 49、EconJobMarket 43、Aarhus 27、INFN 9、Pasteur 5、PSI/ESO/IBS 10）。再调研后不接入或暂缓：SISSA（“Open”状态不更新，现无在招博后）、CRG（现无研究型博后）、ICFO / CSIC / CNR（页面无截止日期或只在 PDF）、University Affairs（多为 open until filled）、HigherEdJobs / AcademicKeys / BSC / 卢森堡大学（人机验证拦截）、Chemistry World 与 NeuroJobs（几乎无博士博后或被拦）；法国公务员招聘门户 choisirleservicepublic.gouv.fr 可用但每页 4.5MB、博后占比低，留作候选。
    - 10-20：接入 FAPESP Oportunidades（巴西圣保罗州研究基金会博士/博后奖学金，首轮 51 条，奖学金额取页面原文）与 LINGUIST List（语言学 RSS，9 条）。调研后暂缓：RIKEN（90 个岗位只有 5 个写日期）、EvolDir（邮件列表自由文本、多为其他平台转帖）、巴塞尔大学（Prospective 招聘系统，可见截止只占 7/12，交给工程 B）、KAUST / MBZUAI / ASA（招聘系统或只有 validThrough）、IMS / SCB（人机验证）。不允许程序访问的平台已补进 `research/outreach.md` 的数据合作申请草稿（JREC-IN、ADUM、PhilJobs、AEA JOE、HiBrain）。
    - 10-20：接入 EGU Jobs（地球科学，结构化截止与薪资字段，16 条）、FENS Job Market（神经科学，40 条；字段写日期但正文说“no deadline”的不收）、ELLIS Jobs（AI，8 条）、因斯布鲁克大学招聘门户（今日无在期岗位）。暂缓：KIAS（详情要过同意页、列表与公告页对不上）、Quantiki（用户自发帖，常写“funded and unfunded”）、ICTP（仅 2 个在期征集，适合作为信源条目）、博洛尼亚大学 bandi（薪资只在 PDF）；TU Graz / Uni Graz（robots 全站禁止）、TU Wien / Uni Wien / Fraunhofer / Tyndall（招聘系统）、澳门大学（无截止日期）。
+   - 10-24 起（仓库主人同意）：被拦或条款不允许的平台，逐个找**合规**的接入方式，不伪装、不破解人机验证、不违反 robots.txt 与条款。顺序：
+     ① 找岗位的原始出处——学校 / 研究所自己的招聘页、RSS、站点地图（先做 PageUp 拦住的港大、La Trobe，牛津、城大等）；
+     ② 平台允许的订阅渠道——RSS、邮件提醒、公开检索订阅（JREC-IN、H-Net 等），并按对方限速（H-Net 的 429 说明我们太快）；
+     ③ 官方接口 / 数据合作——`research/outreach.md` 的申请草稿由仓库主人本人发出，有回复后再对接。
+     每个平台做完在这里记一行：用了哪个渠道、收录多少、robots / 条款依据。
+     - 10-25 港大 / La Trobe（PageUp）：robots.txt 允许 `/en/listing/`，放慢到每 15 秒一次后单次能打开列表（402 个链接），但连续访问仍弹 AWS WAF 人机验证（列表页与详情页都会）；港大 HR 站 `hr.hku.hk/career_opportunities/` 返回 403、RSS 也被验证拦住。结论：程序访问不被欢迎，停在这里不绕过；适配器保留 15 秒间隔，列表页被拦时报“被拦截”而不是“没有岗位”。港大的博士资助已由信源覆盖（HKPFS / 研究生院、数学、物理、理学院），博后岗位等数据合作（已列入 `research/outreach.md` 候选）。
 6. `/rank` 金标准评测（50 个虚构画像）；之后加向量与模型打分。
    - 10-19（产品 C）：50 个画像标注完成（`tests/rank_eval_*`，冻结数据 `tests/rank_eval_catalog.json.gz`）；Claude 逐条判断把前 10 准确率从 70% 提到 91%；向量相似度（多语言 MiniLM）AUC 只有 0.63，不采用。`/setup` 让 Claude 把关键词扩写成 6–8 个中英文说法（召回 +6%，准确率由 Claude 判断兜底）。
    - 10-20：硬性筛选接入工程 A 的申请须知字段（学位、语言要求原句、开始时间），“加分项”语言与“或协商”的日期不排除；浏览器与 `/rank` 结果仍逐条一致。岗位语言标签写了 B2 及以上的非英语语言也视为要求。为我推荐新增：关键词建议、方向对口只差一个条件的机会、下载为 profile.yml。10-20：为我推荐标出“上次来之后新出现”的机会（本机按天记住，关键词变了不比较）；重排提速到手机约 0.4 秒。

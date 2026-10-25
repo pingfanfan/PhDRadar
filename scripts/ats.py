@@ -478,11 +478,15 @@ def pu_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
     out: dict[str, str] = {}
     for school, listing, country in PAGEUP:
         origin = "/".join(listing.split("/")[:3])
-        f.host_delay[origin.split("//")[1]] = 4  # 访问稍快就会弹 AWS WAF 验证
+        f.host_delay[origin.split("//")[1]] = 15  # 访问稍快就会弹 AWS WAF 验证；放慢到每 15 秒一次是守速率，不是绕过
         seen: set[str] = set()
         try:
             for page in range(1, max_pages + 1):
-                found = PU_LINK.findall(f.get(f"{listing}?page={page}&page-items=200").text)
+                text = f.get(f"{listing}?page={page}&page-items=200").text
+                if "awsWafCookie" in text[:3000]:  # 列表页也可能被 WAF 拦：报出来并停下，不当作“没有岗位”
+                    print(f"[pageup] {school} 列表被 AWS WAF 人机验证拦截，停止")
+                    break
+                found = PU_LINK.findall(text)
                 if not {num for _, num, _ in found} - seen:  # 翻到底了（没有新岗位）
                     break
                 for href, num, slug in found:

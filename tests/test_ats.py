@@ -224,3 +224,10 @@ def test_workday_maintenance_page_keeps_old_rows():
     row, why = ats.wd_detail("aalto-R1", "https://aalto.wd3.myworkdayjobs.com/aalto/job/x_R1",
                              "<html><title>Workday is currently unavailable.</title></html>", "2026-10-24")
     assert row is None and why == "详情页失败"
+
+
+def test_pageup_listing_waf_is_reported_not_empty(capsys):
+    f = _Fetch('<html><script>window.awsWafCookieDomainList = [];</script></html>')
+    f.host_delay = {}
+    assert ats.pu_urls(f, 3) == []
+    assert "AWS WAF" in capsys.readouterr().out and f.host_delay["jobs.hku.hk"] == 15
