@@ -37,8 +37,8 @@ function Workspace({ list, rank, emptyText }: { list: Row[]; rank: Ranking | nul
   const current = byId.get(sel) || (mobile ? undefined : list[0])
   const open = (id: string) => { select(id); history.replaceState(null, "", "#" + encodeURIComponent(id)) }
   const header = (
-    <div className="flex items-baseline justify-between px-1 pb-3 text-sm text-muted-foreground">
-      <span><b className="font-mono text-base text-foreground">{list.length.toLocaleString()}</b> 个机会</span>
+    <div className="flex items-baseline justify-between border-b px-4 py-2.5 text-xs text-muted-foreground">
+      <span><b className="font-mono text-sm text-foreground">{list.length.toLocaleString()}</b> 个机会</span>
       <span>{rank ? "按匹配度排序" : "按截止日期分组"}</span>
     </div>
   )
@@ -55,18 +55,20 @@ function Workspace({ list, rank, emptyText }: { list: Row[]; rank: Ranking | nul
   if (mobile)
     return (
       <div className="px-4 pb-16">
-        {header}
-        <OpportunityList list={list} onOpen={open} rank={rank} emptyText={emptyText} />
+        <div className="overflow-hidden rounded-xl border bg-card">
+          {header}
+          <OpportunityList list={list} onOpen={open} rank={rank} emptyText={emptyText} />
+        </div>
         <MobileOrSideSheet rank={rank} />
       </div>
     )
 
   return (
     <div className="mx-auto max-w-7xl px-4 pb-10">
-      <ResizablePanelGroup orientation="horizontal" className="h-[calc(100dvh-5rem)] rounded-xl border bg-card">
+      <ResizablePanelGroup orientation="horizontal" className="h-[calc(100dvh-5rem)] rounded-xl border bg-card shadow-xs">
         <ResizablePanel defaultSize="40" minSize="28">
-          <ScrollArea className="h-full">
-            <div className="p-4">{header}<OpportunityList list={list} onOpen={open} rank={rank} emptyText={emptyText} /></div>
+          <ScrollArea className="h-full [&_[data-slot=scroll-area-viewport]>div]:block!">
+            <div>{header}<OpportunityList list={list} onOpen={open} rank={rank} emptyText={emptyText} /></div>
           </ScrollArea>
         </ResizablePanel>
         <ResizableHandle withHandle />
@@ -107,7 +109,7 @@ export default function App() {
     : "没有符合条件的机会，试试放宽筛选。"
 
   return (
-    <div className="min-h-dvh bg-muted/30">
+    <div className="min-h-dvh bg-muted/40">
       <AppHeader />
       {error ? <p className="p-10 text-center text-muted-foreground">{error}</p>
         : !rows.length ? (

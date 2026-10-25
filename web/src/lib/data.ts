@@ -71,12 +71,22 @@ export async function loadData(): Promise<{ rows: Row[]; labels: Labels }> {
   }
 }
 
-// 机构标识：中文取首字，英文取两个词的首字母
-export function monogram(x: Row) {
-  const s = (x.org || x.n).replace(/[（(].*$/, "").trim()
-  if (/^[一-鿿]/.test(s)) return s[0]
-  const w = s.replace(/^(the|university of|universit[äe]t|universidad)\s+/i, "").match(/[A-Za-z]+/g) || [s]
-  return (w.length > 1 ? w[0][0] + w[1][0] : w[0].slice(0, 2)).toUpperCase()
+// 国家 / 地区旗帜 emoji；Windows 不显示旗帜 emoji（只会出两个字母），这时不显示
+const NO_FLAG = typeof navigator !== "undefined" && /Windows/.test(navigator.userAgent)
+export function flag(code?: string) {
+  if (code === "GLOBAL") return "🌐"
+  const c = code === "UK" ? "GB" : code
+  if (NO_FLAG || !c || !/^[A-Z]{2}$/.test(c)) return ""
+  return String.fromCodePoint(...[...c].map((ch) => 0x1f1e6 + ch.charCodeAt(0) - 65))
+}
+
+// 列表里的短截止：30 天内写“还有几天”，更远写日期
+export function dueShort(x: Row, labels: Labels): [string, Tone] {
+  const [text, tone] = due(x, labels), d = dlOf(x)
+  if (!isDate(d) || (isNow(x) && x.o!.st === "upcoming")) return [d === "rolling" ? "滚动招生" : text, tone]
+  const n = days(d!)
+  if (n < 0) return ["已截止", ""]
+  return [n === 0 ? "今天截止" : n <= 30 ? `${n} 天后截止` : `${+d!.slice(5, 7)}/${+d!.slice(8)} 截止`, tone]
 }
 
 // 卡片上只放简短金额（如 €47,000–€64,000/年）；官网原文放在详情里

@@ -13,7 +13,7 @@ import { cn } from "@/lib/utils"
 import { download, due, icsCalendar, iso, TODAY, type Labels, type Row } from "@/lib/data"
 import { exportable, useData } from "@/lib/select"
 import { STAGES, stageOf, stageText, useApp, type Stage } from "@/store"
-import { OrgAvatar, TONE } from "@/components/opportunity-list"
+import { OrgLine, TONE } from "@/components/opportunity-list"
 
 function BoardCard({ x, labels, onOpen, overlay = false }: { x: Row; labels: Labels; onOpen?: () => void; overlay?: boolean }) {
   const status = useApp((s) => s.status)
@@ -28,8 +28,8 @@ function BoardCard({ x, labels, onOpen, overlay = false }: { x: Row; labels: Lab
             <GripVertical className="size-4" />
           </button>
           <button className="flex min-w-0 flex-1 items-start gap-2.5 text-left" onClick={onOpen}>
-            <OrgAvatar x={x} />
             <span className="flex min-w-0 flex-col gap-1">
+              <OrgLine x={x} labels={labels} className="text-xs text-muted-foreground" />
               <span className="line-clamp-2 text-sm leading-snug font-medium">{x.n}</span>
               <span className={cn("inline-flex items-center gap-1 text-xs", TONE[tone])}><Clock className="size-3" />{dt}</span>
               {v.s === "result" && v.r && <Badge variant="secondary" className="w-fit">{stageText(v)}</Badge>}

@@ -12,7 +12,7 @@ import { cn } from "@/lib/utils"
 import { AF_LABELS, days, dlOf, download, due, icsCalendar, isDate, isNow, shortPay, screened, type Row } from "@/lib/data"
 import { prepItems, useData, type Ranking } from "@/lib/select"
 import { RESULTS, STAGES, stageOf, useApp, type Result, type Stage } from "@/store"
-import { OrgAvatar, SaveButton, TONE } from "@/components/opportunity-list"
+import { OrgLine, SaveButton, TONE } from "@/components/opportunity-list"
 
 const REPO = "https://github.com/pingfanfan/PhDRadar"
 
@@ -96,13 +96,10 @@ export function DetailPanel({ x, rank }: { x?: Row; rank?: Ranking | null }) {
   return (
     <article className="flex flex-col">
       <header className="flex flex-col gap-4 p-6 pb-5">
-        <div className="flex items-start gap-4">
-          <OrgAvatar x={x} size="lg" />
-          <div className="min-w-0 flex-1">
-            <h2 className="text-xl leading-snug font-semibold tracking-tight text-balance">{x.n}</h2>
-            <p className="mt-1 text-sm text-muted-foreground">{[x.org, ...(x.r || []).map((r) => labels.region[r] || r)].filter(Boolean).join(" · ")}</p>
-            {disc.length > 0 && <div className="mt-2 flex flex-wrap gap-1.5">{disc.map((t) => <Badge key={t} variant="secondary">{t}</Badge>)}</div>}
-          </div>
+        <div className="flex min-w-0 flex-col gap-2">
+          <OrgLine x={x} labels={labels} className="text-sm text-muted-foreground" />
+          <h2 className="text-xl leading-snug font-semibold tracking-tight text-balance md:text-2xl">{x.n}</h2>
+          {disc.length > 0 && <div className="flex flex-wrap gap-1.5">{disc.map((t) => <Badge key={t} variant="secondary" className="rounded-md font-normal">{t}</Badge>)}</div>}
         </div>
         {x.in && <p className="text-[15px] leading-relaxed text-foreground/85">{x.in}</p>}
         <div className="sticky bottom-0 z-10 -mx-6 flex flex-wrap items-center gap-2 border-t bg-background/95 px-6 py-3 backdrop-blur md:static md:mx-0 md:border-0 md:bg-transparent md:p-0 md:backdrop-blur-none">
