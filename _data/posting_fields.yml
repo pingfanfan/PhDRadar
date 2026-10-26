@@ -4340,8 +4340,52 @@ academictransfer:364937:
   llm: '2026-10-22'
 academictransfer:364940:
   checked: '2026-10-23'
+  degree:
+    value: 数学、计算机科学或相近领域的大学学位
+    quote: A university degree* in mathematics, computer science or a closely related field.
+  language:
+    value: 英语沟通能力良好
+    quote: Good English communication skills.
+  start:
+    value: 尽快，最晚 2027 年 4 月
+    quote: to commence at the earliest possible date and no later than April 2027
+  duration:
+    value: 首期 1 年，考核通过后再延长 3 年
+    quote: We offer a full-time position for initially one year. After a positive evaluation of the progress of the thesis, personal capabilities and compatibility, the appointment will be extended by a
+      further three years.
+  documents:
+    value: 简历与本科、硕士完整成绩单、求职信（不超过 2 页）、近期写作样本、至少 1 位推荐人的联系方式
+    quote: Your CV and full academic transcripts (bachelor’s and master’s) A short cover letter of at most 2 pages detailing your motivation to apply for the position A recent writing example (paper or
+      thesis) that you are proud of and that reflects your academic writing skills Names and contact details of at least one person who has agreed to be contacted for an academic reference
+  apply_via:
+    value: 在线系统：仅接受通过大学申请系统提交的申请
+    quote: Only applications received via the university’s application tool by 24 November 2026 can be considered.
+  supervisor:
+    value: Moritz Otto 博士、Akrati Saxena 博士（共同指导）
+    quote: The position will be co-supervised by dr. Moritz Otto (MI) and dr. Akrati Saxena (LIACS).
+  llm: '2026-10-26'
 academictransfer:364941:
   checked: '2026-10-23'
+  degree:
+    value: 生命科学与技术、生物化学、生物技术或相关学科硕士
+    quote: has a Master’s degree in Life Sciences and Technology, Biochemistry, Biotechnology, or a related discipline
+  language:
+    value: 良好的（科学）英语能力
+    quote: has a good proficiency in (scientific) English
+  duration:
+    value: 合同期 1 年，并着眼于长期雇用
+    quote: An employment contract for the duration of one year with a view to permanent employment.
+  documents:
+    value: 动机信、详细简历、硕士课程与成绩、至少 2 位推荐人联系方式
+    quote: Your application should include a motivation letter clearly indicating WHY you apply for this position and project and WHAT makes you a suitable candidate, an extensive CV, the courses you took
+      and grades you obtained in your Master’s studies, and the names and contact details of at least two references.
+  apply_via:
+    value: 在线系统：点击申请按钮
+    quote: If you want to apply to this position, please click the application button.
+  supervisor:
+    value: Lars Jeuken 教授（课题组负责人）
+    quote: within the group of Prof. Lars Jeuken
+  llm: '2026-10-26'
 academictransfer:364942:
   checked: '2026-10-23'
   degree:
@@ -4595,6 +4639,16 @@ academictransfer:364979:
   llm: '2026-10-24'
 academictransfer:364981:
   checked: '2026-10-23'
+  degree:
+    value: 博士学位（或已满足全部要求、即将获得）
+    quote: You need to have a doctoral degree, or have met all the requirements and will receive the doctoral degree shortly.
+  duration:
+    value: 3 年
+    quote: for the duration of 3 years
+  apply_via:
+    value: 在线系统：通过页面按钮在线申请
+    quote: You can respond to this vacancy online via the button below
+  llm: '2026-10-26'
 academictransfer:364982:
   checked: '2026-10-23'
   degree:
@@ -6524,6 +6578,21 @@ ajo:33221:
   checked: '2026-10-24'
 ajo:33229:
   checked: '2026-10-25'
+ajo:33231:
+  checked: '2026-10-26'
+  start:
+    value: 2027 年 10 月
+    quote: starting in October 2027
+  duration:
+    value: 每个职位三年
+    quote: The two positions are for three years each
+  documents:
+    value: 求职信（可选）、简历、研究陈述、两封或更多推荐信
+    quote: Cover letters (optional) Curriculum Vitae Research statement Two or more reference letters
+  apply_via:
+    value: 在线系统：在该网站在线提交材料
+    quote: Submit the following items online at this website to complete your application
+  llm: '2026-10-26'
 arbeitsagentur:10000-1207869912-S:
   checked: '2026-10-19'
   degree:
@@ -8210,6 +8279,25 @@ arbeitsagentur:10001-1003893617-S:
   llm: '2026-10-22'
 arbeitsagentur:10001-1003896108-S:
   checked: '2026-10-23'
+  degree:
+    value: 物理、应用物理或相关领域硕士
+    quote: Master in physics, applied physics or a related field
+  language:
+    value: 英语口头与书面沟通能力良好
+    quote: Good verbal and written English communication skills
+  start:
+    value: 尽快
+    quote: 'Starting date: earliest possible'
+  duration:
+    value: 2 + 1 年
+    quote: 'Limited: 2 + 1 years'
+  documents:
+    value: 动机信、简历、相关证书、两封推荐信
+    quote: Please submit your complete application documents (letter of motivation, CV, relevant certificates and two letters of references) via our application portal.
+  apply_via:
+    value: 在线系统：通过申请门户提交
+    quote: We look forward to receiving your application via our application portal
+  llm: '2026-10-26'
 arbeitsagentur:10001-1003896531-S:
   checked: '2026-10-23'
   degree:
@@ -8254,6 +8342,21 @@ arbeitsagentur:10001-1003902242-S:
   checked: '2026-10-24'
 arbeitsagentur:10001-1003905598-S:
   checked: '2026-10-24'
+arbeitsagentur:10001-1003908593-S:
+  checked: '2026-10-26'
+  start:
+    value: 2027 年 1 月 1 日
+    quote: ist zum 01.01.2027 eine Qualifizierungsstelle
+  duration:
+    value: 最长五年
+    quote: befristet für bis zu fünf Jahre zu besetzen
+  degree:
+    value: 相关博士学位（成绩优秀，已获得或即将完成）
+    quote: sehr gut abgeschlossene oder kurz vor dem Abschluss stehende einschlägige Promotion
+  apply_via:
+    value: 在线系统：仅通过学校申请门户
+    quote: ausschließlich über unser Bewerbungsportal
+  llm: '2026-10-26'
 arbeitsagentur:12951-a6df1f61-6cc3-4db5--S:
   checked: '2026-10-19'
   degree:
@@ -13365,6 +13468,10 @@ daad:10498:
   documents:
     value: 动机信、学历证书、简历
     quote: Required Documents Required Documents Motivation letter CV Certificates
+  apply_via:
+    value: 邮件：优先通过 TUD SecureMail 门户以单个 PDF 文件发送
+    quote: preferably via the TUD SecureMail Portal https://securemail.tu-dresden.de by sending it as a single pdf file
+  llm: '2026-10-26'
 daad:10499:
   checked: '2026-10-23'
   degree:
@@ -13382,6 +13489,10 @@ daad:10499:
   documents:
     value: 动机信、学历证书、简历
     quote: Required Documents Required Documents Motivation letter CV Certificates
+  apply_via:
+    value: 邮件：优先通过 TUD SecureMail 门户以单个 PDF 文件发送
+    quote: preferably via the TUD SecureMail Portal https://securemail.tu-dresden.de by sending it as a single pdf file
+  llm: '2026-10-26'
 daad:10501:
   checked: '2026-10-23'
   degree:
@@ -14404,6 +14515,22 @@ econjobmarket:12895:
   checked: '2026-10-23'
 econjobmarket:12909:
   checked: '2026-10-23'
+  degree:
+    value: 经济学、卫生经济学或相近领域博士，或预计最晚 2027 年 9 月完成博士学位
+    quote: Candidates should hold a PhD in Economics, Health Economics, or closely related field, or expected to complete their PhD no later than September 2027.
+  start:
+    value: 2027 年 9 月 1 日
+    quote: 'Job start date: 2027-09-01'
+  duration:
+    value: 2 年
+    quote: 'Job duration: 2 years'
+  documents:
+    value: 简历、求职信、求职论文、其他研究样本、3 位学术推荐人的推荐信
+    quote: submitting a CV, cover letter, job market paper, other samples of the research, and recommendation letters from three academic references
+  apply_via:
+    value: 在线系统：登录 EJM 并选择申请人角色提交
+    quote: To apply for this position, log in and choose your Applicant role (or, if you have no account, create one )
+  llm: '2026-10-26'
 econjobmarket:12911:
   checked: '2026-10-24'
   degree:
@@ -14633,6 +14760,12 @@ egu:8627:
     value: 在线系统：通过吉森大学官方申请门户提交
     quote: Applications must be submitted through the official Justus Liebig University Giessen application portal.
   llm: '2026-10-22'
+egu:8660:
+  checked: '2026-10-26'
+  start:
+    value: 最晚 2027 年 3 月 1 日前开始
+    quote: Applicants should be able to commence their PhD by 1 March 2027
+  llm: '2026-10-26'
 egu:8661:
   checked: '2026-10-22'
   degree:
@@ -16603,12 +16736,64 @@ findaphd:195087:
   checked: '2026-10-23'
 findaphd:195280:
   checked: '2026-10-23'
+  degree:
+    value: 计算机科学、应用数学、生物医学工程或相关领域硕士
+    quote: Required MSc in Computer Science, Applied Mathematics, Biomedical Engineering, or related field
+  start:
+    value: 2027 年春季
+    quote: 'Start: Spring 2027'
+  apply_via:
+    value: 在线系统：马萨里克大学电子申请系统
+    quote: Apply through the Masaryk University e-application system
+  supervisor:
+    value: Michal Kozubek
+    quote: 'Supervisor: Michal Kozubek'
+  llm: '2026-10-26'
 findaphd:195281:
   checked: '2026-10-23'
+  degree:
+    value: 计算机科学、生物医学工程或相关领域硕士
+    quote: Required MSc in Computer Science, Biomedical Engineering, or related field
+  start:
+    value: 2027 年春季
+    quote: 'Start: Spring 2027'
+  apply_via:
+    value: 在线系统：马萨里克大学电子申请系统
+    quote: Apply through the Masaryk University e-application system
+  supervisor:
+    value: Martin Maška
+    quote: 'Supervisor: Martin Maška'
+  llm: '2026-10-26'
 findaphd:195282:
   checked: '2026-10-23'
+  degree:
+    value: 计算机科学、应用数学、生物医学工程或相关领域硕士
+    quote: Required MSc in Computer Science, Applied Mathematics, Biomedical Engineering, or related field
+  start:
+    value: 2027 年春季
+    quote: 'Start: Spring 2027'
+  apply_via:
+    value: 在线系统：马萨里克大学电子申请系统
+    quote: Apply through the Masaryk University e-application system
+  supervisor:
+    value: Pavel Matula
+    quote: 'Supervisor: Pavel Matula'
+  llm: '2026-10-26'
 findaphd:195283:
   checked: '2026-10-23'
+  degree:
+    value: 计算机科学、应用数学、生物医学工程或相关领域硕士
+    quote: Required MSc in Computer Science, Applied Mathematics, Biomedical Engineering, or related field
+  start:
+    value: 2027 年春季
+    quote: 'Start: Spring 2027'
+  apply_via:
+    value: 在线系统：马萨里克大学电子申请系统
+    quote: Apply through the Masaryk University e-application system
+  supervisor:
+    value: Petr Matula
+    quote: 'Supervisor: Petr Matula'
+  llm: '2026-10-26'
 findaphd:195466:
   checked: '2026-10-23'
 findaphd:197177:
@@ -16867,8 +17052,44 @@ findaphd:198276:
   checked: '2026-10-23'
 findaphd:198278:
   checked: '2026-10-23'
+  degree:
+    value: 化学背景扎实（侧重有机与不对称化学），成绩优秀（一等荣誉，或 10 分制 8.5 以上、4 分制 3.7 以上）
+    quote: We are looking for a candidate with an excellent academic record (first-class honours, above 8.5 on a 10-point scale, or above 3.7 on a 4-point scale CGPA) and a strong background in chemistry,
+      with particular emphasis on organic and asymmetric chemistry.
+  start:
+    value: 约 2027 年 10 月 1 日
+    quote: The expected starting date would be around 1st of October 2027
+  documents:
+    value: 完整简历（含成绩单）、求职信、两位学术推荐人的姓名与联系方式
+    quote: A full curriculum vitae (CV), including your academic transcripts. A cover letter highlighting your research background and the areas of our work that interest you. Names and contact information
+      for two academic references.
+  apply_via:
+    value: 邮件：发给 mis40@cam.ac.uk
+    quote: 'Please email your application materials to: mis40@cam.ac.uk'
+  nationality:
+    value: 资助涵盖学费与薪资，本国与国际学生均可
+    quote: Covering tuition fees and salary for both home and international students.
+  llm: '2026-10-26'
 findaphd:198279:
   checked: '2026-10-23'
+  degree:
+    value: 分子生物学、生物技术、生物化学或相近学科背景，成绩优秀（一等荣誉，或 10 分制 8.5 以上、4 分制 3.7 以上）
+    quote: We are looking for a candidate with an excellent academic record (first-class honours, above 8.5 on a 10-point scale, or above 3.7 on a 4-point scale CGPA) and a strong background in molecular
+      biology, biotechnology, biochemistry, or a closely related discipline.
+  start:
+    value: 约 2027 年 10 月 1 日
+    quote: The expected starting date would be around 1st of October 2027.
+  documents:
+    value: 完整简历（含成绩单）、求职信、两位学术推荐人的姓名与联系方式
+    quote: A full curriculum vitae (CV), including your academic transcripts. A cover letter highlighting your research background and the areas of our work that interest you. Names and contact information
+      for two academic references.
+  apply_via:
+    value: 邮件：发给 mis40@cam.ac.uk
+    quote: 'Please email your application materials to: mis40@cam.ac.uk'
+  nationality:
+    value: 资助涵盖学费与薪资，本国与国际学生均可
+    quote: Covering tuition fees and salary for both home and international students
+  llm: '2026-10-26'
 findaphd:198289:
   checked: '2026-10-23'
 findaphd:198293:
@@ -16940,6 +17161,26 @@ findaphd:198470:
   llm: '2026-10-24'
 findaphd:198488:
   checked: '2026-10-23'
+  duration:
+    value: 资助期可达 3 年
+    quote: which can span for 3 years
+  documents:
+    value: 简历、求职信、研究计划、两位推荐人、英语证书（母语非英语者）、其他证书
+    quote: CV (max 2 pages) Cover letter (max 4,500 characters) stating clearly in the first page whether you are eligible for a scholarship as a UK resident ( https://epsrc.ukri.org/skills/students/guidance-on-epsrc-studentships/eligibility
+      ) Research proposal (max 500 words) 2 References Certificate of English Language (for students whose first language is not English) Other Certificates
+  start:
+    value: 2027 年 1 月、4 月或 9 月
+    quote: The successful candidate will start either in January, April, or September 2027.
+  apply_via:
+    value: 其他：按学院网页上的申请说明提交
+    quote: 'Applicants should submit their application following the instructions at: http://eecs.qmul.ac.uk/phd/how-to-apply/'
+  supervisor:
+    value: Da Huo 博士
+    quote: Supervisor Dr Da Huo (he/his)
+  nationality:
+    value: 非英国学生可申请，但须自付学费差额
+    quote: Non-home/non-UK students may apply, but if accepted, they will be responsible for the substantial difference in tuition fees
+  llm: '2026-10-26'
 findaphd:198502:
   checked: '2026-10-23'
 findaphd:198525:
@@ -17255,10 +17496,25 @@ findaphd:198719:
   checked: '2026-10-23'
 findaphd:198728:
   checked: '2026-10-23'
+  duration:
+    value: 资助 4 年
+    quote: 'Funding of the study and research for 4 years: Czech Science Foundation (GA26-20768S), institutional funding.'
+  supervisor:
+    value: Nicola Silva 博士
+    quote: 'Supervisor: Dr. Nicola Silva, Ph.D.'
+  llm: '2026-10-26'
 findaphd:198730:
   checked: '2026-10-23'
+  supervisor:
+    value: Zdenek Andrysik 博士
+    quote: 'Supervisor: Zdenek Andrysik, Ph.D.'
+  llm: '2026-10-26'
 findaphd:198731:
   checked: '2026-10-23'
+  supervisor:
+    value: Zdenek Andrysik 博士
+    quote: 'Supervisor: Zdenek Andrysik, Ph.D.'
+  llm: '2026-10-26'
 findaphd:198734:
   checked: '2026-10-25'
   degree:
@@ -18014,6 +18270,13 @@ findaphd:199283:
   checked: '2026-10-23'
 findaphd:199284:
   checked: '2026-10-23'
+  apply_via:
+    value: 其他：先邮件联系 y.elani@imperial.ac.uk
+    quote: If this is of interest please get in touch at y.elani@imperial.ac.uk
+  nationality:
+    value: 英国或国际学生均获全额资助
+    quote: The post is fully funded for UK or international students.
+  llm: '2026-10-26'
 findaphd:199287:
   checked: '2026-10-23'
   duration:
@@ -19030,6 +19293,7 @@ findaphd:199878:
   llm: '2026-10-25'
 findaphd:199879:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199880:
   checked: '2026-10-23'
   degree:
@@ -19056,74 +19320,165 @@ findaphd:199880:
   llm: '2026-10-24'
 findaphd:199881:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199882:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199883:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199884:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199885:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199886:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199887:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199889:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199890:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199891:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199892:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199893:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199895:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199897:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199898:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199899:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199901:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199902:
   checked: '2026-10-23'
+  degree:
+    value: 相关学科一等或二等一级（2:1）学士学位，项目部分不低于 60% 或总平均不低于 60%
+    quote: Minimum of a 2:1 first degree in a relevant discipline/subject area with a minimum 60% mark in the project element or equivalent with a minimum 60% overall module average
+  language:
+    value: 非英语母语者需证明英语水平；IELTS 学术总分 7.0（各项不低于 6.5）或 TOEFL iBT 总分 95（各项不低于 21）
+    quote: The general requirement is a minimum overall IELTS Academic score of 7.0 with a minimum of 6.5 in each of the four sections, or the TOEFL iBT test with a minimum overall score of 95 with a minimum
+      of 21 in each of the four sections.
+  llm: '2026-10-26'
 findaphd:199907:
   checked: '2026-10-23'
+  degree:
+    value: 相关学科一等或二等一级（2:1）学士学位，项目部分不低于 60% 或总平均不低于 60%
+    quote: Minimum of a 2:1 first degree in a relevant discipline/subject area with a minimum 60% mark in the project element or equivalent with a minimum 60% overall module average
+  language:
+    value: 非英语母语者需证明英语水平；IELTS 学术总分 7.0（各项不低于 6.5）或 TOEFL iBT 总分 95（各项不低于 21）
+    quote: The general requirement is a minimum overall IELTS Academic score of 7.0 with a minimum of 6.5 in each of the four sections, or the TOEFL iBT test with a minimum overall score of 95 with a minimum
+      of 21 in each of the four sections.
+  llm: '2026-10-26'
 findaphd:199909:
   checked: '2026-10-23'
+  degree:
+    value: 相关学科一等或二等一级（2:1）学士学位，项目部分不低于 60% 或总平均不低于 60%
+    quote: Minimum of a 2:1 first degree in a relevant discipline/subject area with a minimum 60% mark in the project element or equivalent with a minimum 60% overall module average
+  language:
+    value: 非英语母语者需证明英语水平；IELTS 学术总分 7.0（各项不低于 6.5）或 TOEFL iBT 总分 95（各项不低于 21）
+    quote: The general requirement is a minimum overall IELTS Academic score of 7.0 with a minimum of 6.5 in each of the four sections, or the TOEFL iBT test with a minimum overall score of 95 with a minimum
+      of 21 in each of the four sections.
+  llm: '2026-10-26'
 findaphd:199910:
   checked: '2026-10-23'
+  degree:
+    value: 相关学科一等或二等一级（2:1）学士学位，项目部分不低于 60% 或总平均不低于 60%
+    quote: Minimum of a 2:1 first degree in a relevant discipline/subject area with a minimum 60% mark in the project element or equivalent with a minimum 60% overall module average
+  language:
+    value: 非英语母语者需证明英语水平；IELTS 学术总分 7.0（各项不低于 6.5）或 TOEFL iBT 总分 95（各项不低于 21）
+    quote: The general requirement is a minimum overall IELTS Academic score of 7.0 with a minimum of 6.5 in each of the four sections, or the TOEFL iBT test with a minimum overall score of 95 with a minimum
+      of 21 in each of the four sections.
+  llm: '2026-10-26'
 findaphd:199911:
   checked: '2026-10-23'
+  supervisor:
+    value: Dr Ewan Ross
+    quote: Project supervisors Dr Ewan Ross
+  llm: '2026-10-26'
 findaphd:199912:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199913:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199914:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199915:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199916:
   checked: '2026-10-23'
+  degree:
+    value: 相关学科一等或二等一级（2:1）学士学位，项目部分不低于 60% 或总平均不低于 60%
+    quote: Minimum of a 2:1 first degree in a relevant discipline/subject area with a minimum 60% mark in the project element or equivalent with a minimum 60% overall module average
+  language:
+    value: 非英语母语者需证明英语水平；IELTS 学术总分 7.0（各项不低于 6.5）或 TOEFL iBT 总分 95（各项不低于 21）
+    quote: The general requirement is a minimum overall IELTS Academic score of 7.0 with a minimum of 6.5 in each of the four sections, or the TOEFL iBT test with a minimum overall score of 95 with a minimum
+      of 21 in each of the four sections.
+  llm: '2026-10-26'
 findaphd:199917:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199919:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199920:
   checked: '2026-10-23'
+  degree:
+    value: 相关学科的 2:1 学士学位，项目部分成绩不低于 60%（或总体模块平均分不低于 60%）
+    quote: Minimum of a 2:1 first degree in a relevant discipline/subject area with a minimum 60% mark in the project element or equivalent with a minimum 60% overall module average
+  language:
+    value: 英语；雅思学术类总分 7.0，各单项不低于 6.5
+    quote: a minimum overall IELTS Academic score of 7.0 with a minimum of 6.5 in each of the four sections
+  llm: '2026-10-26'
 findaphd:199921:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199922:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199923:
   checked: '2026-10-23'
+  llm: '2026-10-26'
 findaphd:199924:
   checked: '2026-10-23'
+  degree:
+    value: 相关学科的 2:1 学士学位，项目部分成绩不低于 60%（或总体模块平均分不低于 60%）
+    quote: Minimum of a 2:1 first degree in a relevant discipline/subject area with a minimum 60% mark in the project element or equivalent with a minimum 60% overall module average
+  language:
+    value: 英语；雅思学术类总分 7.0，各单项不低于 6.5
+    quote: a minimum overall IELTS Academic score of 7.0 with a minimum of 6.5 in each of the four sections
+  llm: '2026-10-26'
 findaphd:199925:
   checked: '2026-10-23'
+  degree:
+    value: 相关学科的 2:1 学士学位，项目部分成绩不低于 60%（或总体模块平均分不低于 60%）
+    quote: Minimum of a 2:1 first degree in a relevant discipline/subject area with a minimum 60% mark in the project element or equivalent with a minimum 60% overall module average
+  language:
+    value: 英语；雅思学术类总分 7.0，各单项不低于 6.5
+    quote: a minimum overall IELTS Academic score of 7.0 with a minimum of 6.5 in each of the four sections
+  llm: '2026-10-26'
 findaphd:199928:
   checked: '2026-10-23'
 findaphd:199935:
@@ -19157,12 +19512,61 @@ findaphd:200035:
   checked: '2026-10-23'
 findaphd:200048:
   checked: '2026-10-23'
+  degree:
+    value: 至少相当于英国荣誉学士学位 2:1
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category)'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年
+    quote: This project is awarded with a 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD CASE studentship
+  supervisor:
+    value: Jonathan Todd 教授
+    quote: Primary Supervisor - Professor Jonathan Todd
+  llm: '2026-10-26'
 findaphd:200049:
   checked: '2026-10-23'
+  degree:
+    value: 至少相当于英国荣誉学士学位 2:1
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category)'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年
+    quote: This project is awarded with a 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD CASE studentship
+  supervisor:
+    value: Jose De Vega 博士
+    quote: Primary Supervisor - Dr Jose De Vega
+  llm: '2026-10-26'
 findaphd:200050:
   checked: '2026-10-23'
+  degree:
+    value: 至少相当于英国荣誉学士学位 2:1
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category)'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  supervisor:
+    value: Simon Griffiths 博士
+    quote: Primary Supervisor - Dr Simon Griffiths
+  llm: '2026-10-26'
 findaphd:200054:
   checked: '2026-10-23'
+  supervisor:
+    value: Vivienne Wild 教授（圣安德鲁斯大学）、Andrew Hopkins 教授（麦考瑞大学）
+    quote: 'This project will be co-supervised by: • Professor Vivienne Wild (St Andrews) • Professor Andrew Hopkins (Macquarie)'
+  llm: '2026-10-26'
 findaphd:200083:
   checked: '2026-10-23'
   degree:
@@ -19696,6 +20100,25 @@ findaphd:200331:
   checked: '2026-10-23'
 findaphd:200334:
   checked: '2026-10-25'
+  degree:
+    value: 相关学科英国一等或良好二等一荣誉学士学位（或同等）
+    quote: Applicants should hold, or expect to receive, a First Class or good Upper Second Class UK Honours degree (or the equivalent) in a relevant subject.
+  language:
+    value: 非英国申请人须在截止日前满足项目的英语要求
+    quote: Non-UK applicants must meet the programme’s English language requirement by the application deadline.
+  duration:
+    value: 资助至少 3 年
+    quote: Funding is currently available for at least 3 years.
+  apply_via:
+    value: 在线系统：通过巴斯大学在线申请表提交
+    quote: Formal applications should be submitted via the University of Bath’s online application form for a PhD in Mathematics
+  supervisor:
+    value: Daniel Loughran 教授（项目负责人）
+    quote: supervised by the project lead, Professor Daniel Loughran
+  nationality:
+    value: 英国本国学生与国际学生均可申请
+    quote: Studentships are open to both Home and International students
+  llm: '2026-10-26'
 findaphd:200349:
   checked: '2026-10-25'
 findaphd:200350:
@@ -19730,6 +20153,25 @@ findaphd:200356:
   llm: '2026-10-25'
 findaphd:200358:
   checked: '2026-10-25'
+  degree:
+    value: 合成有机或药物/生物化学背景，英国一等或 2:1 荣誉学位或海外同等
+    quote: have obtained a first-class or upper second-class (2:1) UK Honours degree, or overseas equivalent
+  language:
+    value: 非英语母语者需 IELTS 至少 6.5，各单项不低于 5.5
+    quote: you must have an IELTS score of at least 6.5 with no component below 5.5
+  duration:
+    value: 4 年（48 个月）
+    quote: Fully funded 4-year (48-month) PhD studentship
+  apply_via:
+    value: 邮件：发给 glenn.burley@strath.ac.uk
+    quote: please email Professor Glenn Burley ( glenn.burley@strath.ac.uk )
+  documents:
+    value: 最新成绩单、简历、两位推荐人的联系方式
+    quote: with your most up-to-date academic transcript, CV and email contact details for two referees
+  nationality:
+    value: 苏格兰、英国其他地区及国际学费身份均可申请
+    quote: The studentship is open to applicants of Home (Scottish), Rest of UK and International fee status.
+  llm: '2026-10-26'
 findaphd:200367:
   checked: '2026-10-25'
   degree:
@@ -19802,6 +20244,29 @@ findaphd:200411:
   checked: '2026-10-25'
 findaphd:200413:
   checked: '2026-10-25'
+  degree:
+    value: 工程或物理专业 2:1 以上荣誉学位（或海外同等），或同等相关行业经验
+    quote: A minimum of an upper-class honours degree (2:1) or overseas equivalent in Engineering or Physics, or equivalent relevant industrial experience.
+  language:
+    value: 须满足最低英语要求
+    quote: Applicants must meet the minimum English language requirements.
+  duration:
+    value: 资助 3.5 年
+    quote: offering funding for 3.5 years
+  documents:
+    value: 个人陈述、简历、两位推荐人信息、已认证的学位证书与成绩单
+    quote: Applications must include a personal statement, up-to-date curriculum vitae (CV), details of two referees (one from your highest degree qualification), certified certificates and transcripts
+      for all completed degree programmes
+  apply_via:
+    value: 在线系统：在线提交申请
+    quote: All applications should be made online
+  supervisor:
+    value: Stephanos Theodossiades（主导师）
+    quote: 'Primary supervisor: Stephanos Theodossiades'
+  nationality:
+    value: 国际学生可申请，但须自付与英国学费标准的差额
+    quote: Applications from international students will be considered; however, successful applicants must be able to cover the difference between the UK and international tuition fee rates.
+  llm: '2026-10-26'
 findaphd:200420:
   checked: '2026-10-25'
 findaphd:200436:
@@ -19823,12 +20288,34 @@ findaphd:200447:
   checked: '2026-10-25'
 findaphd:200454:
   checked: '2026-10-25'
+  degree:
+    value: 机械、航空航天、材料、物理或计算机等相关理工科一等或较高 2:1 学位
+    quote: A first-class or strong 2:1 degree in a relevant science or engineering subject such as Mechanical Engineering, Aerospace Engineering, Materials Science, Physics, or Computer Science
+  language:
+    value: 非英语教育背景者需 IELTS 总分 6.5，各单项不低于 6.0
+    quote: an overall IELTS score of 6.5 with at least 6.0 in each section
+  duration:
+    value: 四年
+    quote: fully funded four-year postgraduate research degree
+  apply_via:
+    value: 在线系统：通过谢菲尔德大学招生系统提交
+    quote: Applications are made only via the University of Sheffield admissions system
+  documents:
+    value: 成绩单（及学位证书）、简历、个人陈述
+    quote: Complete transcripts (and final degree certificates where available). If your qualification documents are in a language other than English, you will need to supply translated versions in addition
+      to the originals. Your Curriculum Vitae (CV) A personal statement
+  nationality:
+    value: 英国与国际学生均可申请
+    quote: This project is open to Home (UK) and International students.
+  llm: '2026-10-26'
 findaphd:200482:
   checked: '2026-10-25'
 findaphd:200501:
   checked: '2026-10-25'
+  llm: '2026-10-26'
 findaphd:200502:
   checked: '2026-10-25'
+  llm: '2026-10-26'
 findaphd:200504:
   checked: '2026-10-25'
 findaphd:200517:
@@ -21097,6 +21584,13 @@ inria:2026-10647:
   apply_via:
     value: 在线系统：Inria 招聘网站
     quote: Applications must be submitted online on the Inria website.
+  language:
+    value: 法语或英语
+    quote: 'Languages : French or English'
+  start:
+    value: 2026 年 12 月 1 日
+    quote: 'Starting date : 2026-12-01'
+  llm: '2026-10-26'
 inspire:1753873:
   checked: '2026-10-19'
   duration:
@@ -24057,6 +24551,19 @@ inspire:3217509:
   llm: '2026-10-24'
 inspire:3217553:
   checked: '2026-10-23'
+  start:
+    value: 预计 2027 年 9 月
+    quote: with an anticipated start date in September 2027
+  duration:
+    value: 3 年
+    quote: Each position is for three years
+  documents:
+    value: 简历、求职信、发表列表、研究经历与兴趣陈述（不超过 2 页）、至少 2 位推荐人（建议 3 位）
+    quote: Your CV, cover letter and publication list; A statement of research experience and interests (maximum 2 pages); and Details of at least two referees; three are preferred.
+  apply_via:
+    value: 在线系统：通过爱丁堡大学对应的申请链接提交
+    quote: Applications must be submitted through the relevant University of Edinburgh links above.
+  llm: '2026-10-26'
 inspire:3217632:
   checked: '2026-10-23'
   degree:
@@ -24089,6 +24596,22 @@ inspire:3218253:
   checked: '2026-10-24'
 inspire:3218289:
   checked: '2026-10-24'
+  degree:
+    value: 理论物理或相关学科博士，并有引力波波源建模经验
+    quote: Successful candidates will have a PhD in Theoretical Physics or a related discipline and previous experience in gravitational-wave source modelling.
+  start:
+    value: 2027 年 1 月至 9 月之间
+    quote: The preferred start date is between January and September 2027
+  duration:
+    value: 2 年，表现合格可延长
+    quote: the positions are envisioned for a period of 2 years with possible extension conditional on satisfactory performance
+  documents:
+    value: 简历（含两位推荐信作者信息）、两页研究兴趣与计划陈述
+    quote: Applications should comprise a CV (including details of two reference letter writers) and a two-page statement covering research interests and plans.
+  apply_via:
+    value: 在线系统：通过指定的在线表单提交
+    quote: interested candidates should submit their application using the linked form
+  llm: '2026-10-26'
 inspire:3218307:
   checked: '2026-10-24'
 jobbnorge:286892:
@@ -24487,6 +25010,17 @@ jobbnorge:308334:
   llm: '2026-10-22'
 jobbnorge:308356:
   checked: '2026-10-23'
+  documents:
+    value: 研究计划（按模板）、简历、硕士学位证书与成绩单
+    quote: project proposal, see template available on our website . CV with a complete overview of your education, experience, and any scientific or scholarly work diploma and transcript of records documenting
+      completion of a master's degree
+  apply_via:
+    value: 在线系统：仅接受通过 Jobbnorge 提交的申请
+    quote: UiS only considers applications and attachments submitted through Jobbnorge.
+  supervisor:
+    value: Bianka Karshikoff 教授（项目负责人）
+    quote: is led by Professor Bianka Karshikoff
+  llm: '2026-10-26'
 jobbnorge:308373:
   checked: '2026-10-22'
   degree:
@@ -28531,8 +29065,14 @@ jobs-ac-uk:DTE213:
     quote: This is a full-time, fixed term post for 48 months and is expected to start January 1 st 2027.
   llm: '2026-10-19'
 jobs-ac-uk:DTE220:
-  checked: '2026-10-19'
-  error: 正文太短
+  checked: '2026-10-26'
+  duration:
+    value: 定期合同，至 2029 年 6 月 30 日
+    quote: This post is available on a fixed term basis until 30th June 2029
+  degree:
+    value: 刚获得博士学位者或有博后经历者均可
+    quote: The post could suit equally those who have just qualified with a PhD, or those with postdoctoral experience
+  llm: '2026-10-26'
 jobs-ac-uk:DTE231:
   checked: '2026-10-19'
   degree:
@@ -28967,8 +29507,20 @@ jobs-ac-uk:DTE950:
     quote: 'Funding Minimum: Home fees student Funding Maximum: International student (subject to gaining an NDM studentship)'
   llm: '2026-10-19'
 jobs-ac-uk:DTE954:
-  checked: '2026-10-19'
-  error: 正文太短
+  checked: '2026-10-26'
+  degree:
+    value: 机器学习、计算机科学、计算神经科学、数学或相关定量学科的博士学位（或接近完成）
+    quote: You will have or be close to the completion of PhD/DPhil in machine learning, computer science, computational neuroscience, mathematics, or a related quantitative discipline
+  duration:
+    value: 全职，资助 2 年
+    quote: The post is full-time and funded for 2 years
+  documents:
+    value: 求职信 / 支持陈述、简历、两位推荐人的信息
+    quote: You will be required to upload a covering letter/supporting statement, CV and the details of two referees as part of your online application
+  apply_via:
+    value: 在线系统：在线申请时上传材料
+    quote: You will be required to upload a covering letter/supporting statement, CV and the details of two referees as part of your online application
+  llm: '2026-10-26'
 jobs-ac-uk:DTE958:
   checked: '2026-10-19'
   nationality:
@@ -30041,6 +30593,11 @@ jobs-ac-uk:DTH004:
     value: 在线系统：通过申请按钮提交研究计划
     quote: submit your research proposal at the apply button above
   llm: '2026-10-19'
+jobs-ac-uk:DTH043:
+  checked: '2026-10-26'
+  nationality:
+    value: 资助对象：英国学生、国际学生
+    quote: 'Funding for: UK Students, International Students'
 jobs-ac-uk:DTH087:
   checked: '2026-10-19'
   degree:
@@ -31128,21 +31685,55 @@ jobs-ac-uk:DTJ290:
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 英国学士（荣誉）2:1 或同等学历
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等要求）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category).'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年
+    quote: awarded with a 4-year Norwich Research Park
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ294:
   checked: '2026-10-23'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 英国学士（荣誉）2:1 或同等学历
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等要求）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category).'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年
+    quote: awarded with a 4-year Norwich Research Park
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ296:
   checked: '2026-10-23'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  duration:
+    value: 4 年
+    quote: awarded with a 4-year Norwich Research Park
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ299:
   checked: '2026-10-23'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  duration:
+    value: 4 年
+    quote: awarded with a 4-year Norwich Research Park
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ300:
   checked: '2026-10-23'
   degree:
@@ -31157,16 +31748,46 @@ jobs-ac-uk:DTJ302:
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  duration:
+    value: 4 年
+    quote: awarded with a 4-year Norwich Research Park
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ303:
   checked: '2026-10-23'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 英国学士（荣誉）2:1 或同等学历
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等要求）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category).'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年
+    quote: awarded with a 4-year Norwich Research Park
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ311:
   checked: '2026-10-23'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 英国学士（荣誉）2:1 或同等学历
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等要求）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category).'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: 'Start date: 1 October 2027'
+  duration:
+    value: 4 年
+    quote: awarded with a 4-year Norwich Research Park
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ317:
   checked: '2026-10-23'
   nationality:
@@ -31186,6 +31807,10 @@ jobs-ac-uk:DTJ320:
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  duration:
+    value: 4 年
+    quote: awarded with a 4-year Norwich Research Park
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ323:
   checked: '2026-10-23'
   nationality:
@@ -31217,6 +31842,10 @@ jobs-ac-uk:DTJ336:
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  duration:
+    value: 4 年
+    quote: awarded with a 4-year Norwich
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ340:
   checked: '2026-10-23'
   nationality:
@@ -31244,6 +31873,10 @@ jobs-ac-uk:DTJ359:
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  duration:
+    value: 4 年
+    quote: awarded with a 4-year Norwich Research Park
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ362:
   checked: '2026-10-23'
   nationality:
@@ -31298,6 +31931,10 @@ jobs-ac-uk:DTJ380:
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  duration:
+    value: 4 年
+    quote: awarded with a 4-year Norwich Research Park
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ385:
   checked: '2026-10-23'
   nationality:
@@ -31308,11 +31945,19 @@ jobs-ac-uk:DTJ386:
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  duration:
+    value: 4 年
+    quote: awarded with a 4-year Norwich Research Park
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ393:
   checked: '2026-10-23'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  duration:
+    value: 4 年
+    quote: awarded with a 4-year Norwich Research Park
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ397:
   checked: '2026-10-23'
   duration:
@@ -31327,11 +31972,19 @@ jobs-ac-uk:DTJ407:
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  duration:
+    value: 4 年
+    quote: awarded with a 4-year Norwich Research Park
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ413:
   checked: '2026-10-23'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  duration:
+    value: 4 年
+    quote: awarded with a 4-year Norwich Research Park
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ422:
   checked: '2026-10-23'
   degree:
@@ -31372,6 +32025,22 @@ jobs-ac-uk:DTJ443:
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 英国学士（荣誉）2:1 或同等学历
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等要求）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category).'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年
+    quote: awarded with a 4-year Norwich Research Park
+  supervisor:
+    value: Professor Steven Penfield
+    quote: Primary Supervisor - Professor Steven Penfield
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ444:
   checked: '2026-10-23'
   nationality:
@@ -31382,26 +32051,64 @@ jobs-ac-uk:DTJ451:
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  duration:
+    value: 4 年
+    quote: awarded with a 4-year Norwich Research Park
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ453:
   checked: '2026-10-23'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 英国学士（荣誉）2:1 或同等学历
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等要求）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category).'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年
+    quote: awarded with a 4-year Norwich Research Park
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ456:
   checked: '2026-10-23'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  duration:
+    value: 4 年
+    quote: awarded with a 4-year Norwich Research Park
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ459:
   checked: '2026-10-23'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 英国学士（荣誉）2:1 或同等学历
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等要求）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category).'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年
+    quote: awarded with a 4-year Norwich Research Park
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ461:
   checked: '2026-10-23'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  duration:
+    value: 4 年
+    quote: awarded with a 4-year Norwich Research Park
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ465:
   checked: '2026-10-23'
   degree:
@@ -31419,6 +32126,22 @@ jobs-ac-uk:DTJ468:
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 英国学士（荣誉）2:1 或同等学历
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等要求）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category).'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年
+    quote: awarded with a 4-year Norwich Research Park
+  supervisor:
+    value: Dr Tatsuya Nobori
+    quote: Primary Supervisor - Dr Tatsuya Nobori
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ473:
   checked: '2026-10-23'
   nationality:
@@ -31444,6 +32167,22 @@ jobs-ac-uk:DTJ486:
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 英国学士（荣誉）2:1 或同等学历
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等要求）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category).'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年
+    quote: awarded with a 4-year Norwich Research Park
+  supervisor:
+    value: Dr Chris Morgan
+    quote: Primary Supervisor - Dr Chris Morgan
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ487:
   checked: '2026-10-23'
   nationality:
@@ -31454,31 +32193,106 @@ jobs-ac-uk:DTJ488:
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 英国同等学力学士（荣誉）2:1 或以上
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等标准）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category)'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年（NRPDTP 博士培养合作项目资助，含学费、津贴与科研经费）
+    quote: awarded with a 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD DTP studentship
+  supervisor:
+    value: Andrea Munsterberg 教授
+    quote: Primary Supervisor - Professor Andrea Munsterberg
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ494:
   checked: '2026-10-23'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 英国同等学力学士（荣誉）2:1 或以上
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等标准）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category)'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年（NRPDTP 博士培养合作项目资助，含学费、津贴与科研经费）
+    quote: awarded with a 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD DTP studentship
+  supervisor:
+    value: Conrad Nieduszynski 博士
+    quote: Project Supervisor - Dr Conrad Nieduszynski
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ496:
   checked: '2026-10-23'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 英国同等学力学士（荣誉）2:1 或以上
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等标准）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category)'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年（NRPDTP 博士培养合作项目资助，含学费、津贴与科研经费）
+    quote: awarded with a 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD DTP studentship
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ499:
   checked: '2026-10-23'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 英国同等学力学士（荣誉）2:1 或以上
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等标准）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category)'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年（NRPDTP 博士培养合作项目资助，含学费、津贴与科研经费）
+    quote: awarded with a 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD DTP studentship
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ502:
   checked: '2026-10-23'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 英国同等学力学士（荣誉）2:1 或以上
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等标准）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category)'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年（NRPDTP 博士培养合作项目资助，含学费、津贴与科研经费）
+    quote: awarded with a 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD DTP studentship
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ504:
   checked: '2026-10-23'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  duration:
+    value: 4 年（NRPDTP 博士培养合作项目资助，含学费、津贴与科研经费）
+    quote: awarded with a 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD DTP studentship
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ507:
   checked: '2026-10-23'
   duration:
@@ -31490,21 +32304,85 @@ jobs-ac-uk:DTJ508:
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 微生物学、分子生物学、生物化学、生物医学或相关学科，至少 2:1 荣誉学位（或同等）
+    quote: Applicants should have, or expect to obtain, at least a 2:1 honours degree (or equivalent) in microbiology, molecular biology, biochemistry, biomedical sciences or a related discipline
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等标准）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category)'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年（NRPDTP 博士培养合作项目资助，含学费、津贴与科研经费）
+    quote: awarded with a 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD DTP studentship
+  supervisor:
+    value: Stefan Bidula 博士
+    quote: Primary Supervisor - Dr Stefan Bidula
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ514:
   checked: '2026-10-23'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 英国同等学力学士（荣誉）2:1 或以上
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等标准）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category)'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年（NRPDTP 博士培养合作项目资助，含学费、津贴与科研经费）
+    quote: awarded with a 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD DTP studentship
+  supervisor:
+    value: Alessia Buscaino 教授
+    quote: Primary Supervisor - Professor Alessia Buscaino
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ520:
   checked: '2026-10-23'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 英国同等学力学士（荣誉）2:1 或以上
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等标准）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category)'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年（NRPDTP 博士培养合作项目资助，含学费、津贴与科研经费）
+    quote: awarded with a 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD DTP studentship
+  supervisor:
+    value: Julea Butt 教授
+    quote: Primary Supervisor - Professor Julea Butt
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ525:
   checked: '2026-10-23'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 英国同等学力学士（荣誉）2:1 或以上
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等标准）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category)'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年（NRPDTP 博士培养合作项目资助，含学费、津贴与科研经费）
+    quote: awarded with a 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD DTP studentship
+  supervisor:
+    value: Anders Bergstrom 博士
+    quote: Primary Supervisor - Dr Anders Bergstrom
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ526:
   checked: '2026-10-23'
   nationality:
@@ -31515,21 +32393,82 @@ jobs-ac-uk:DTJ527:
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 英国同等学力学士（荣誉）2:1 或以上
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等标准）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category)'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年（NRPDTP 博士培养合作项目资助，含学费、津贴与科研经费）
+    quote: awarded with a 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD DTP studentship
+  supervisor:
+    value: Mark Banfield 教授
+    quote: Primary Supervisor - Professor Mark Banfield
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ531:
   checked: '2026-10-23'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 一等或 2(i) 荣誉学位（或同等），生物化学、分子生物学、化学或相关领域
+    quote: You will have, or expect to obtain a first class, 2(i) or equivalent Honours degree in Biochemistry, Molecular Biology, Chemistry, or a related area
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等标准）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category)'
+  duration:
+    value: 4 年（NRPDTP 博士培养合作项目资助，含学费、津贴与科研经费）
+    quote: awarded with a 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD DTP studentship
+  supervisor:
+    value: Andrew Beekman 博士
+    quote: Primary Supervisor - Dr Andrew Beekman
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ533:
   checked: '2026-10-23'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 英国同等学力学士（荣誉）2:1 或以上
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等标准）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category)'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年（NRPDTP 博士培养合作项目资助，含学费、津贴与科研经费）
+    quote: awarded with a 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD DTP studentship
+  supervisor:
+    value: Naiara Beraza 教授
+    quote: Primary Supervisor - Professor Naiara Beraza
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ535:
   checked: '2026-10-23'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 英国同等学力学士（荣誉）2:1 或以上
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等标准）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category)'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年（NRPDTP 博士培养合作项目资助，含学费、津贴与科研经费）
+    quote: awarded with a 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD DTP studentship
+  supervisor:
+    value: Trey Koev 博士
+    quote: Primary Supervisor - Dr Trey Koev
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ544:
   checked: '2026-10-23'
   nationality:
@@ -31555,11 +32494,25 @@ jobs-ac-uk:DTJ679:
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  duration:
+    value: 4 年（与 Tozer Seeds 合作的 CASE studentship）
+    quote: 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD CASE studentship with Tozer Seeds
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ683:
   checked: '2026-10-24'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 一等或 2(i) 荣誉学位（或同等），生物学、生物化学、分子生物学、植物科学、遗传学或相关学科
+    quote: The student will have, or expect to obtain, a first-class, 2(i) or equivalent Honours degree in Biology, Biochemistry, Molecular Biology, Plant Science, Genetics or a related discipline
+  duration:
+    value: 4 年（NRPDTP 博士培养合作项目资助，含学费、津贴与科研经费）
+    quote: awarded with a 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD DTP studentship
+  supervisor:
+    value: Yiliang Ding 教授
+    quote: will be supervised by Prof Yiliang Ding
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ686:
   checked: '2026-10-24'
   nationality:
@@ -31575,6 +32528,10 @@ jobs-ac-uk:DTJ725:
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  duration:
+    value: 4 年（NRPDTP 博士培养合作项目资助，含学费、津贴与科研经费）
+    quote: awarded with a 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD DTP studentship
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ728:
   checked: '2026-10-24'
   nationality:
@@ -31634,13 +32591,52 @@ jobs-ac-uk:DTJ753:
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 英国同等学力学士（荣誉）2:1 或以上
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等标准）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category)'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年（NRPDTP 博士培养合作项目资助，含学费、津贴与科研经费）
+    quote: awarded with a 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD DTP studentship
+  supervisor:
+    value: Tracey Chapman 教授
+    quote: Primary Supervisor - Professor Tracey Chapman
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ755:
   checked: '2026-10-24'
+  degree:
+    value: 生物化学、化学生物学、分子生物学、有机化学或相关学科博士学位（已完成或即将完成）
+    quote: A PhD (completed or nearing completion) in biochemistry, chemical biology, molecular biology, organic chemistry or a related discipline
+  duration:
+    value: 预计 12 个月
+    quote: fixed term role with an expected duration of 12 months
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ756:
   checked: '2026-10-24'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 英国同等学力学士（荣誉）2:1 或以上
+    quote: At least UK equivalence Bachelors (Honours) 2:1.
+  language:
+    value: 英语；IELTS 总分 6.5，各单项 6（理学院同等标准）
+    quote: 'English Language requirement (Faculty of Science equivalent: IELTS 6.5 overall, 6 in each category)'
+  start:
+    value: 2027 年 10 月 1 日
+    quote: Start date 1 October 2027
+  duration:
+    value: 4 年（NRPDTP 博士培养合作项目资助，含学费、津贴与科研经费）
+    quote: awarded with a 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD DTP studentship
+  supervisor:
+    value: Myriam Charpentier 教授
+    quote: Primary Supervisor - Professor Myriam Charpentier
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ764:
   checked: '2026-10-24'
   nationality:
@@ -31651,16 +32647,31 @@ jobs-ac-uk:DTJ766:
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  duration:
+    value: 4 年（NRPDTP 博士培养合作项目资助，含学费、津贴与科研经费）
+    quote: awarded with a 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD DTP studentship
+  supervisor:
+    value: Falk Hildebrand 教授、Wilfried Haerty 博士
+    quote: The project is supervised by Prof Falk Hildebrand ( https://www.falk.science ), Dr Wilfried Haerty
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ770:
   checked: '2026-10-24'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  duration:
+    value: 4 年（NRPDTP 博士培养合作项目资助，含学费、津贴与科研经费）
+    quote: awarded with a 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD DTP studentship
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ775:
   checked: '2026-10-24'
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  duration:
+    value: 4 年（NRPDTP 博士培养合作项目资助，含学费、津贴与科研经费）
+    quote: awarded with a 4-year Norwich Research Park Biosciences Doctoral Training Partnership PhD DTP studentship
+  llm: '2026-10-26'
 jobs-ac-uk:DTJ783:
   checked: '2026-10-24'
   llm: '2026-10-25'
@@ -37086,6 +38097,10 @@ naturecareers:12865775:
     quote: A letter of motivation (1 page). Complete CV, including a list of academic achievements (2 pages). A transcript of your Master's Curriculum. Abstract of your Master's Thesis. A research pitch
       for your idea how to contribute to the H4DES project (1 page). With 1-2 names of academic references and their contact addresses
   llm: '2026-10-19'
+naturecareers:12865788:
+  checked: '2026-10-26'
+naturecareers:12865795:
+  checked: '2026-10-26'
 naturecareers:12865797:
   checked: '2026-10-19'
   degree:
@@ -37151,6 +38166,172 @@ naturecareers:12865818:
     value: Dr. Chozha Rathinam（癌症免疫学实验室负责人）
     quote: The Laboratory for Cancer Immunology, led by Dr. Chozha Rathinam
   llm: '2026-10-19'
+naturecareers:12865826:
+  checked: '2026-10-26'
+  degree:
+    value: 细胞生物学、分子生物学、生理学、遗传学、生物工程或相关领域的博士学位（或同等）
+    quote: PhD (or equivalent) in cell biology, molecular biology, physiology, genetics, bioengineering, or a related field
+  documents:
+    value: 简历、至少 2 封推荐信、不超过 1 页的研究兴趣与职业目标陈述
+    quote: Please submit your current CV, at least 2 letters of reference, and 1-page (maximum) statement of Research Interests and Career Goals at time of application
+  llm: '2026-10-26'
+naturecareers:12865834:
+  checked: '2026-10-26'
+  degree:
+    value: 博士学位（PhD 或同等）；若尚未获得，须在截止日前提交博士论文送审
+    quote: Applicants must hold a doctoral degree – PhD or equivalent.
+  language:
+    value: 英语口语和书面表达流利
+    quote: Fluent oral and written communication skills in English.
+  duration:
+    value: 3 年
+    quote: A 100% 3-year Postdoctoral Research Fellow position
+  supervisor:
+    value: Philippe Collas 教授（课题组负责人）
+    quote: in the research group of Prof. Philippe Collas, project group of Dr. Marie Rogne
+  apply_via:
+    value: 在线系统：通过 Jobbnorge 招聘系统提交
+    quote: Application with attachments must be submitted via our recruitment system Jobbnorge
+  documents:
+    value: 求职信及研究兴趣与动机陈述、简历、学历证书（仅成绩单）
+    quote: Cover letter statement of your research interests and motivation for the position CV summarizing education, positions, and academic work Copies of educational certificates (academic transcripts
+      only)
+  llm: '2026-10-26'
+naturecareers:12865847:
+  checked: '2026-10-26'
+naturecareers:12865872:
+  checked: '2026-10-26'
+naturecareers:12865877:
+  checked: '2026-10-26'
+naturecareers:12865883:
+  checked: '2026-10-26'
+naturecareers:12865891:
+  checked: '2026-10-26'
+  degree:
+    value: 心理学、医学或其他相关专业的博士学位
+    quote: PhD in Psychology, medicine or another degree programme with relevant subject matter
+  documents:
+    value: 简历、求职信，如适用另附推荐信和资格证明
+    quote: consisting of a CV, covering letter and, if applicable, references and certificates in support of the required qualifications
+  llm: '2026-10-26'
+naturecareers:12865897:
+  checked: '2026-10-26'
+  start:
+    value: 2026 年 12 月 1 日
+    quote: The position as university assistant (predoctoral) is available from 01 December 2026
+  duration:
+    value: 4 年
+    quote: The employment duration is 4 years
+  degree:
+    value: 大气科学（如气象学、气候学）或相关领域的硕士 / 文凭
+    quote: Completed master or diploma in the atmospheric sciences (e.g., meteorology, climatology), or a related field
+  language:
+    value: 英语很好
+    quote: Very good command of the English language
+  apply_via:
+    value: 在线系统：通过招聘门户的申请按钮提交
+    quote: Via our job portal / Apply now - button.
+  documents:
+    value: 简短求职信、含发表清单的简历、两位推荐人的联系方式
+    quote: With a short letter stating your interest in the position; With your CV including a list of publications; With contact details of two persons who could provide a recommendation upon request
+  llm: '2026-10-26'
+naturecareers:12865920:
+  checked: '2026-10-26'
+  duration:
+    value: 定期合同，至 2029 年 8 月 31 日
+    quote: The position is fixed-term until 31 August 2029
+  degree:
+    value: 物理、电气工程或相关领域的博士学位
+    quote: PhD in Physics, Electrical Engineering, or a related field
+  language:
+    value: 英语 C1 水平
+    quote: English proficiency at C1 level
+  documents:
+    value: 申请信、简历、发表清单、学位证书与成绩单（附英文翻译）、三位潜在推荐人姓名
+    quote: Letter of application Curriculum Vitae List of publications Copies of diploma and grades with English translation Name of three potential reviewers
+  llm: '2026-10-26'
+naturecareers:12865921:
+  checked: '2026-10-26'
+naturecareers:12865924:
+  checked: '2026-10-26'
+naturecareers:12865931:
+  checked: '2026-10-26'
+naturecareers:12865933:
+  checked: '2026-10-26'
+naturecareers:12865978:
+  checked: '2026-10-26'
+  llm: '2026-10-26'
+naturecareers:12865980:
+  checked: '2026-10-26'
+naturecareers:12865982:
+  checked: '2026-10-26'
+  degree:
+    value: 物理、电气工程、光子学或密切相关领域的博士学位（或同等的国外学位）
+    quote: A doctoral degree in Physics, Electrical Engineering, Photonics, or a closely related field, or an equivalent foreign degree
+  language:
+    value: 英语书面和口头表达能力强
+    quote: Strong written and verbal communication skills in English
+  llm: '2026-10-26'
+naturecareers:12865985:
+  checked: '2026-10-26'
+  start:
+    value: 2027 年 1 月 1 日
+    quote: starting January 1, 2027
+  duration:
+    value: 合同至 2030 年 12 月 31 日
+    quote: limited until December 31, 2030
+  degree:
+    value: 计算机科学或相关学科的硕士（或同等）学位，如适用另需博士学位
+    quote: university degree (Master’s or equivalent) and, if applicable, PhD degree in computer science or related disciplines
+  language:
+    value: 英语书面和口头表达能力出色
+    quote: excellent written and verbal communication skills in English
+  documents:
+    value: 求职信、简历、学位证书与成绩单、发表清单（博后申请者）
+    quote: cover letter, CV, degree certificates and transcripts, and a list of publications for postdoc applicants
+  apply_via:
+    value: 邮件：以单个 PDF 文件发送至 sebastian.rudolph@tu-dresden.de
+    quote: sending it as a single PDF file to sebastian.rudolph@tu-dresden.de
+  llm: '2026-10-26'
+naturecareers:12865993:
+  checked: '2026-10-26'
+naturecareers:12866009:
+  checked: '2026-10-26'
+  start:
+    value: 2027 年 2 月 1 日
+    quote: 'Starting date: 01.02.2027'
+  llm: '2026-10-26'
+naturecareers:12866017:
+  checked: '2026-10-26'
+naturecareers:12866018:
+  checked: '2026-10-26'
+naturecareers:12866035:
+  checked: '2026-10-26'
+  start:
+    value: 2026 年 12 月 1 日
+    quote: 'Start date: 01.12.2026'
+  duration:
+    value: 3 年
+    quote: 'Limitation: Temporary (3 Jahre)'
+  degree:
+    value: 计算机科学、计算生物学、生物医学工程、物理、数学、医学或相关学科的博士（或医学博士 / 博士）
+    quote: PhD or MD/PhD in computer science, computational biology, biomedical engineering, physics, mathematics, medicine or a related discipline
+  language:
+    value: 英语书面和口语出色；德语加分但非必需
+    quote: Excellent written and spoken English communication skills; German is welcome but not a prerequisite
+  llm: '2026-10-26'
+naturecareers:12866040:
+  checked: '2026-10-26'
+  llm: '2026-10-26'
+naturecareers:12866041:
+  checked: '2026-10-26'
+  llm: '2026-10-26'
+naturecareers:12866048:
+  checked: '2026-10-26'
+naturecareers:12866053:
+  checked: '2026-10-26'
+naturecareers:12866062:
+  checked: '2026-10-26'
 oracle:CX_1-efzu-7791:
   checked: '2026-10-19'
   degree:
@@ -38891,6 +40072,25 @@ oracle:CX_1001-elxw-15065:
   llm: '2026-10-22'
 oracle:CX_1001-elxw-15104:
   checked: '2026-10-24'
+  degree:
+    value: 博士学位或即将完成博士学位，学科需有较强定量成分（如数量遗传学、统计、生物信息、应用数学）
+    quote: PhD, or near completion of a PhD, in a discipline with a substantial quantitative component (e.g. quantitative genetics, statistics, bioinformatics, theoretical biology or physics, applied mathematics)
+  start:
+    value: 2027 年 1 月 1 日
+    quote: Position is available from 1.1.2027 to 31.10.2029
+  duration:
+    value: 3 年（全额资助）
+    quote: We have a fully funded 3-year position
+  supervisor:
+    value: Andrea Doeschl-Wilson 教授
+    quote: under the primary supervision of Prof. Andrea Doeschl-Wilson
+  documents:
+    value: 简历、求职信、2 位推荐人的完整联系方式
+    quote: 'Please include the following documents in your application: - CV - Cover letter - Full contact details of 2 referees'
+  nationality:
+    value: 欢迎来自世界各地的申请者
+    quote: We welcome applications from all over the world that meet the following qualifications
+  llm: '2026-10-26'
 oracle:CX_1001-fa-eosd-saasfaprod1-3898:
   checked: '2026-10-19'
   degree:
@@ -40175,8 +41375,39 @@ reachmee:I003-304-15133:
   llm: '2026-10-19'
 reachmee:I003-304-15136:
   checked: '2026-10-23'
+  language:
+    value: 英语书面与口头沟通能力强
+    quote: You have strong written and verbal communication skills in English.
+  duration:
+    value: 4 年
+    quote: The position is a fixed-term appointment of four years
+  documents:
+    value: 简历、个人信函（自我介绍与申请动机）、学士及（如有）硕士论文与成绩单
+    quote: CV Personal letter A brief introduction about yourself. A brief motivation as to why you are interested in this position. Bachelor’s and, if available, master’s thesis together with the transcripts.
+  apply_via:
+    value: 在线系统：通过页面底部按钮进入申请表
+    quote: Use the button at the foot of the page to reach the application form.
+  llm: '2026-10-26'
 reachmee:I003-304-15137:
   checked: '2026-10-24'
+  degree:
+    value: 物理、材料科学、化学或相近领域博士学位
+    quote: A doctoral degree in physics, materials science, chemistry, or a closely related field.
+  language:
+    value: 英语书面与口语沟通能力强
+    quote: Strong written and verbal communication skills in English.
+  duration:
+    value: 两年全职合同，可延长一年
+    quote: temporary full-time employment for two years with the possibility of a one-year extension
+  apply_via:
+    value: 在线系统：通过页面底部按钮进入申请表（邮件申请不予受理）
+    quote: Use the button at the foot of the page to reach the application form.
+  documents:
+    value: 简历（含完整发表列表及教学经历）、个人陈述信（介绍自己、主要科研贡献、未来研究兴趣与目标）
+    quote: CV A comprehensive CV, including a complete list of publications. Details of previous teaching and pedagogical experience. Personal letter A brief introduction about yourself. Describe one or
+      two of your most significant scientific contributions, highlighting your own role and the new physical insights or methodological advances achieved. An outline of your future research interests and
+      goals.
+  llm: '2026-10-26'
 reachmee:I003-304-15141:
   checked: '2026-10-23'
   degree:
@@ -40192,6 +41423,26 @@ reachmee:I003-304-15141:
   llm: '2026-10-24'
 reachmee:I003-304-15156:
   checked: '2026-10-24'
+  degree:
+    value: 计算机科学、计算机工程、软件工程或相近领域硕士（120 学分硕士学位或 60 学分硕士学位）
+    quote: Master's degree ( masterexamen ) of 120 credits or a Master’s degree ( magisterexamen ) of 60 credits* in Computer Science, Computer Engineering, Software Engineering, or a closely related field
+  language:
+    value: 英语书面与口头沟通能力强
+    quote: Strong written and verbal communication skills in English
+  duration:
+    value: 四年（兼任教学最多 20% 时可延长至五年）
+    quote: The position is a fixed-term appointment of four years, with the possibility to teach up to 20%, which extends the position up to five years
+  documents:
+    value: 简历、个人信、本科及硕士论文（如有）与成绩单、相关工作证明（如有）
+    quote: CV Personal letter A brief introduction about yourself and your track record. A brief motivation as to why you are interested in this position. A brief description of your future goals and research
+      focus. Bachelor’s and, if available, master’s thesis together with the transcripts.
+  apply_via:
+    value: 在线系统：通过页面底部按钮进入申请表
+    quote: Use the button at the foot of the page to reach the application form.
+  supervisor:
+    value: Andrei Sabelfeld 教授
+    quote: You will be supervised by Prof. Andrei Sabelfeld
+  llm: '2026-10-26'
 sciencecareers:679519:
   checked: '2026-10-19'
   degree:
@@ -41531,6 +42782,51 @@ successfactors:fu-berlin-1448201233:
     value: 完整申请材料，须附成绩证明（如 Transcript of Records）
     quote: Überdurchschnittliche Studienleistungen (bitte entsprechende Nachweise, z. B. Transcript of Records, beifügen)
   llm2: '2026-10-19'
+successfactors:fu-berlin-1450400033:
+  checked: '2026-10-26'
+  duration:
+    value: 24 个月
+    quote: befristet für 24 Monate
+  degree:
+    value: 神经科学、生物学、心理学或相近专业的博士学位
+    quote: abgeschlossene Promotion im Bereich Neurowissenschaften, Biologie, Psychologie oder einer verwandten Fachrichtung
+  language:
+    value: 英语和德语的口头与书面能力都很好
+    quote: Sehr gute Englisch und Deutschkenntnisse in Wort und Schrift
+  apply_via:
+    value: 在线系统：仅通过招聘门户提交
+    quote: Bitte senden Sie uns Ihre Bewerbung ausschließlich über unser Karriereportal
+  llm: '2026-10-26'
+successfactors:fu-berlin-1450904433:
+  checked: '2026-10-26'
+  degree:
+    value: 生物物理、物理或相近领域的硕士 / 文凭及博士学位（PhD 或同等）
+    quote: über ein abgeschlossenes wissenschaftliches Hochschulstudium (Master/Diplom) und eine Promotion (PhD oder gleichwertiger Abschluss) in Biophysik, Physik oder einem vergleichbaren Fachgebiet
+  language:
+    value: 英语书面和口头都很好
+    quote: Sehr gute schriftliche und mündliche Englischkenntnisse
+  documents:
+    value: 简历及发表清单、学位证书（学士、硕士、博士）、至少两封推荐信
+    quote: Lebenslauf einschließlich Publikationsliste, • Nachweise über die akademischen Abschlüsse, einschließlich Kopien der B.Sc.-, M.Sc.- und Promotionsurkunde, • Mindestens zwei Empfehlungsschreiben.
+  apply_via:
+    value: 在线系统：仅通过招聘门户提交
+    quote: Bitte senden Sie uns Ihre Bewerbung ausschließlich über unser Karriereportal
+  llm: '2026-10-26'
+successfactors:fu-berlin-1450905233:
+  checked: '2026-10-26'
+  degree:
+    value: 化学、物理、材料科学、化学工程或相关专业硕士 / Diplom
+    quote: abgeschlossenes wiss. Hochschulstudium (Master/Diplom) in Chemie, Physik, Materialwissenschaften, Chemieingenieurwesen oder einem verwandten Fach
+  language:
+    value: 英语书面与口头优秀；德语加分但非必需
+    quote: Ausgezeichnete schriftliche und mündliche Englischkenntnisse. Darüber hinaus wären deutsche Sprachkenntnisse von Vorteil, sind aber nicht erforderlich.
+  duration:
+    value: 4 年
+    quote: 'Vertragsdauer: befristet auf 4 Jahre'
+  apply_via:
+    value: 在线系统：通过职业门户“立即申请”按钮，不接受纸质或邮件
+    quote: Bitte senden Sie uns Ihre Bewerbung ausschließlich über unser Karriereportal, indem Sie auf den Button „Jetzt bewerben“ klicken.
+  llm: '2026-10-26'
 successfactors:helsinki-1372679057:
   checked: '2026-10-19'
   degree:
@@ -42028,6 +43324,31 @@ successfactors:helsinki-1375231157:
     value: 在线系统：通过赫尔辛基大学招聘系统提交
     quote: Please submit your application, together with the required attachments, through the University of Helsinki Recruitment System
   llm: '2026-10-19'
+successfactors:helsinki-1375676157:
+  checked: '2026-10-26'
+  start:
+    value: 2027 年 1 月
+    quote: starting in January 2027
+  duration:
+    value: 28 个月
+    quote: for a fixed-term period of 28 months
+  degree:
+    value: 语言技术、数字人文或相关领域的博士学位
+    quote: The appointee must hold a doctoral degree in language technology, digital humanities or a related field
+  language:
+    value: 英语书面和口语都要出色
+    quote: Strong teamwork skills and an excellent command of written and spoken English are also required
+  supervisor:
+    value: Tuomo Hiippala 教授（项目负责人）
+    quote: funded by an ERC Consolidator Grant awarded to Professor Tuomo Hiippala
+  documents:
+    value: 动机与技能陈述（不超过 750 词）、含两位推荐人联系方式的简历、发表清单
+    quote: A statement on your motivation for applying for the position, how you could contribute to the project, and a description of your core skills (max. 750 words), A curriculum vitae with contact
+      information for two references, A list of publications with key publications relevant to the position highlighted
+  apply_via:
+    value: 在线系统：通过赫尔辛基大学招聘系统提交
+    quote: Please submit your application, together with the required documents, through the University of Helsinki Recruitment System via the link
+  llm: '2026-10-26'
 successfactors:helsinki-1375676257:
   checked: '2026-10-24'
 successfactors:helsinki-1375676357:
@@ -42057,6 +43378,31 @@ successfactors:helsinki-1375676357:
   llm: '2026-10-25'
 successfactors:helsinki-1375698757:
   checked: '2026-10-24'
+successfactors:helsinki-1375698857:
+  checked: '2026-10-26'
+  degree:
+    value: 考古学、考古植物学、古生态学、生物学、环境考古学或其他相关学科硕士或同等学历
+    quote: a Master’s degree or equivalent in archaeology, archaeobotany, palaeoecology, biology, environmental archaeology or another relevant discipline
+  language:
+    value: 英语书面与口语良好
+    quote: good written and spoken English
+  start:
+    value: 2027 年 1 月 1 日或协商
+    quote: The preferred starting date is 1.1.2027 , or as agreed.
+  duration:
+    value: 36 个月（固定期限）
+    quote: a fixed-term position of 36 months
+  apply_via:
+    value: 在线系统：通过赫尔辛基大学招聘系统提交
+    quote: Please submit your application through the University of Helsinki recruitment system.
+  documents:
+    value: 动机信（不超过 2 页）、简历、发表清单（如有）、硕士学位证书与成绩单、两位学术推荐人联系方式
+    quote: a motivation letter describing your research interests, relevant experience and reasons for applying for the position (maximum 2 pages); a curriculum vitae; a list of publications, if applicable;
+      a copy of your Master’s degree certificate and transcript of studies; and contact information for two academic referees
+  supervisor:
+    value: Mia Lempiäinen-Avci 博士
+    quote: join the research group led by Dr. Mia Lempiäinen-Avci
+  llm: '2026-10-26'
 successfactors:helsinki-1375701157:
   checked: '2026-10-24'
   degree:
@@ -43279,6 +44625,27 @@ successfactors:univie-1444400433:
     value: 在线系统：通过招聘门户的“立即申请”按钮
     quote: Über unser Jobportal / Jetzt Bewerben - Button.
   llm: '2026-10-19'
+successfactors:univie-1444603533:
+  checked: '2026-10-26'
+  start:
+    value: 2026 年 12 月 1 日
+    quote: 'Besetzung ab: 01.12.2026'
+  duration:
+    value: 3 年
+    quote: Die Vertragsdauer bei Anstellung beträgt 3 Jahre
+  degree:
+    value: 罗曼语文学、普通语言学或语音学的硕士 / 文凭 / 教师资格学位
+    quote: Abgeschlossenes Master-/Diplom-/Lehramtsstudium in Romanistik, allgemeiner Sprachwissenschaft oder Phonetik
+  language:
+    value: 法语很好
+    quote: Sehr gute Kenntnisse des Französischen
+  supervisor:
+    value: Elissa Pustka 教授
+    quote: im Arbeitsbereich von Univ.-Prof. Dr. Elissa Pustka
+  apply_via:
+    value: 在线系统：通过招聘门户的申请按钮提交
+    quote: Über unser Jobportal / Jetzt Bewerben - Button
+  llm: '2026-10-26'
 successfactors:univie-1444603633:
   checked: '2026-10-19'
   degree:
@@ -45995,6 +47362,22 @@ tamu-rwfm:119681:
   checked: '2026-10-24'
 tamu-rwfm:119683:
   checked: '2026-10-24'
+  degree:
+    value: 生物、物理或计算机科学相关领域博士学位
+    quote: Ph.D. degree in a pertinent biological, physical, or computer science field.
+  start:
+    value: 2027 年 1 月 1 日之后
+    quote: 'Starting Date: after 1/1/2027'
+  apply_via:
+    value: 在线系统：上传申请材料
+    quote: To apply, please upload the following applicant documents.
+  documents:
+    value: 简历、求职信、成绩单
+    quote: 'Applicants must submit: Resume/CV Cover Letter Transcripts'
+  nationality:
+    value: 须在拟定入职日前获得在美国合法工作授权
+    quote: Must be legally authorized to work in the United States by the proposed start date.
+  llm: '2026-10-26'
 tamu-rwfm:95971:
   checked: '2026-10-19'
   degree:
@@ -49663,6 +51046,19 @@ the-unijobs:416740:
   llm: '2026-10-25'
 the-unijobs:416742:
   checked: '2026-10-25'
+  degree:
+    value: 表观遗传学或分子与细胞生物学博士学位，或同等职业经验
+    quote: Completion of a PhD in epigenetics or molecular and cellular biology, and/or equivalent professional experience.
+  duration:
+    value: 12 个月
+    quote: fixed- term contract for 12 months
+  documents:
+    value: 当前简历、求职信（说明申请动机）
+    quote: 'Simply click on the Apply Now button and upload: your current CV a cover letter that tells us why you’re interested in the role'
+  apply_via:
+    value: 在线系统：点击 Apply Now 按钮上传材料
+    quote: Simply click on the Apply Now button and upload
+  llm: '2026-10-26'
 the-unijobs:416745:
   checked: '2026-10-25'
   degree:
@@ -51242,6 +52638,25 @@ university:inrae-ot-30808:
   llm: '2026-10-24'
 university:inrae-ot-30820:
   checked: '2026-10-24'
+  degree:
+    value: 动物生物学博士学位（bac+8），博士论文答辩不超过 3 年
+    quote: Doctorat (bac+8) en biologie animale. La thèse devra avoir été soutenue depuis moins de 3 ans.
+  language:
+    value: 英语作为工作语言需优秀（C1 水平）
+    quote: Excellente maîtrise de l’anglais en tant que langue de travail (niveau C1)
+  start:
+    value: 2027 年 2 月 1 日
+    quote: 'Début du contrat : 01/02/2027'
+  duration:
+    value: 12 个月
+    quote: 'Durée : 12 mois'
+  documents:
+    value: 简历、求职信
+    quote: J'envoie mon CV et ma lettre de motivation
+  supervisor:
+    value: Sonia Métayer Coustard、Sophie Tesseraud（MOQA 团队负责人）
+    quote: sous la direction de Sonia Métayer Coustard et de Sophie Tesseraud, responsables de l’équipe MOQA
+  llm: '2026-10-26'
 university:irbbarcelona-8456402:
   checked: '2026-10-22'
   degree:
@@ -52416,6 +53831,26 @@ university:ku-171663:
   llm: '2026-10-25'
 university:ku-171702:
   checked: '2026-10-24'
+  degree:
+    value: 免疫学、感染生物学、微生物学、分子生物学、生物医学、药理学或相关学科博士学位
+    quote: A PhD in immunology, infection biology, microbiology, molecular biology, biomedical sciences, pharmacology, or a related discipline.
+  language:
+    value: 英语书面与口头沟通能力优秀
+    quote: Excellent written and oral communication skills in English.
+  start:
+    value: 2027 年 3 月 1 日或协商
+    quote: to commence 1 March 2027 or after agreement
+  duration:
+    value: 1 年
+    quote: The position is a fixed-term, full-time postdoctoral appointment for a period of one year.
+  documents:
+    value: 简历、学位证书（硕士和博士）、研究计划、完整发表列表、3 篇最相关论文全文、2–3 位推荐人联系方式
+    quote: Please include Curriculum vitae Diplomas (Master and PhD degree or equivalent) Research plan – description of current and future research plans Complete publication list Separate reprints of
+      3 particularly relevant papers Contact information for 2–3 references.
+  apply_via:
+    value: 在线系统：点击 APPLY NOW 在线提交
+    quote: The application, in English, must be submitted electronically by clicking APPLY NOW below.
+  llm: '2026-10-26'
 university:ku-171704:
   checked: '2026-10-24'
   degree:
@@ -54827,6 +56262,28 @@ university:varbi-976163:
   llm: '2026-10-22'
 university:varbi-977989:
   checked: '2026-10-24'
+  degree:
+    value: 人类学、地理学、社会学或其他相关社会科学/人文学科硕士，须在合同开始前完成并正式授予
+    quote: Hold a relevant Master’s degree in anthropology, geography, sociology, or another relevant social science or humanities discipline, completed and formally awarded before the start of the contract.
+  language:
+    value: 英语；需提交英语能力证明（如 TOEFL、IELTS）
+    quote: 'Proof of English Language Competence: Submit documentation of English proficiency (e.g., TOEFL, IELTS).'
+  start:
+    value: 2027 年 2 月
+    quote: The position is anticipated to begin in February 2027.
+  duration:
+    value: 36 个月
+    quote: The position is fixed-term for 36 months beginning on 1.2.2027.
+  apply_via:
+    value: 在线系统：通过招聘系统提交
+    quote: through our recruitment system
+  supervisor:
+    value: Roger Norum 教授（奥卢大学）
+    quote: The project will be supervised by Prof. Roger Norum (University of Oulu)
+  nationality:
+    value: 申请前 36 个月内在芬兰居住、工作或学习不得超过 12 个月（MSCA 规定）
+    quote: Have not lived or carried out your main work or studies in Finland for more than 12 months during the 36 months before the position begins
+  llm: '2026-10-26'
 university:wu-2881:
   checked: '2026-10-20'
 university:wu-2922:
@@ -57498,6 +58955,29 @@ varbi:977396:
     value: 2 年全职固定期合同
     quote: This is a full-time, fixed-term employment for 2 years.
   llm: '2026-10-19'
+varbi:977770:
+  checked: '2026-10-26'
+  start:
+    value: 协商确定
+    quote: First day of employment According to agreement
+  duration:
+    value: 最长两年
+    quote: The position offered is for, at the most, two years
+  degree:
+    value: 计算机科学、机器学习、计算生物学、生物信息学或相关领域的博士学位
+    quote: A doctoral degree in computer science, machine learning, computational biology, bioinformatics, or a related field
+  language:
+    value: 英语书面和口语都很好（日常工作使用英语）
+    quote: Excellent written and spoken English, as English is used in day-to-day work
+  apply_via:
+    value: 在线系统：登录 KTH 招聘系统申请
+    quote: Log into KTH's recruitment system to apply for this position
+  documents:
+    value: 简历、学位证书与成绩单（必要时附英文或瑞典语译文）、申请动机与学术兴趣说明（最长两页）
+    quote: CV including relevant professional experience and knowledge. Copy of diplomas and grades from your previous university studies. Translations into English or Swedish if the original documents
+      have not been issued in any of these languages. Brief description of why you want to conduct research in A Lundberg lab, your academic interests and how they relate to your previous studies and future
+      goals. Max two pages long.
+  llm: '2026-10-26'
 varbi:978010:
   checked: '2026-10-19'
   degree:
@@ -58088,6 +59568,19 @@ varbi:981585:
     value: 在线系统：通过乌普萨拉大学招聘系统提交
     quote: Submit your application through Uppsala University's recruitment system.
   llm: '2026-10-25'
+varbi:982431:
+  checked: '2026-10-26'
+  degree:
+    value: 机械工程、工程物理、航空航天、能源工程、应用数学、计算科学或其他相关专业硕士（或同等学历）
+    quote: A Master’s degree, or equivalent qualification, in mechanical engineering, engineering physics, aerospace engineering, energy engineering, applied mathematics, computational science, or another
+      subject relevant to the project.
+  language:
+    value: 英语口语和书面都很好
+    quote: Very good knowledge of English, spoken and written.
+  start:
+    value: 尽快
+    quote: starting as soon as possible
+  llm: '2026-10-26'
 varbi:982461:
   checked: '2026-10-24'
   degree:
@@ -58760,6 +60253,8 @@ workday:ubc-JR26379:
     value: 加拿大公民和永久居民优先
     quote: Canadians and permanent residents of Canada will be given priority
   llm: '2026-10-22'
+workday:ubc-JR26428:
+  checked: '2026-10-26'
 workday:unimelb-JR-018338:
   checked: '2026-10-19'
   degree:
@@ -58939,6 +60434,18 @@ workday:uq-R-69544:
     value: 简历、求职信、对“About You”部分的回应
     quote: please ensure you upload a resume , cover letter , and responses to the ‘About You’ section.
   llm: '2026-10-19'
+workday:uq-R-69578:
+  checked: '2026-10-26'
+  duration:
+    value: 定期合同，至 2027 年 12 月 31 日
+    quote: fixed-term position until 31 December 2027
+  degree:
+    value: 硕士学位并有约三至五年相关工作经验，或已完成相关学科博士学位
+    quote: A Master’s degree with approximately three to five years of relevant professional experience, or completion of a PhD in a related discipline
+  nationality:
+    value: 须在聘期内保持在澳大利亚的无限制工作权利
+    quote: You must maintain unrestricted work rights in Australia for the duration of this appointment to apply.
+  llm: '2026-10-26'
 workday:uq-R-69621:
   checked: '2026-10-19'
   degree:
@@ -59251,3 +60758,24 @@ workday:usyd-0158347:
     value: Gregor Verbic 教授、Ali Abbas 教授
     quote: led by Profs. Gregor Verbic and Ali Abbas
   llm: '2026-10-22'
+workday:usyd-0158720:
+  checked: '2026-10-26'
+  duration:
+    value: 全职定期 12 个月，可延长（最长 2 年）
+    quote: Full time, fixed term for 12 months with the possibility for extension (up to 2 years)
+  degree:
+    value: 免疫学或密切相关生物医学学科的博士学位
+    quote: PhD in immunology or a closely related biomedical discipline
+  nationality:
+    value: 须在澳大利亚拥有无限制工作权利；不提供签证担保
+    quote: you must have unrestricted work rights in Australia for the duration of this employment to apply. Visa sponsorship is not available for this appointment
+  supervisor:
+    value: Malcolm Starkey 博士（课题组负责人）
+    quote: Led by Dr Malcolm Starkey, the team
+  documents:
+    value: 求职信、简历及其他支持材料
+    quote: Applications (including a cover letter, CV, and any additional supporting documentation) can be submitted via the Apply button at the top of the page
+  apply_via:
+    value: 在线系统：通过页面顶部的申请按钮提交
+    quote: Applications (including a cover letter, CV, and any additional supporting documentation) can be submitted via the Apply button at the top of the page
+  llm: '2026-10-26'
