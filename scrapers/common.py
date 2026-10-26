@@ -79,6 +79,7 @@ class Fetcher:
             except requests.RequestException:
                 rp = None
             self._robots[origin] = rp
+            self._last_hit[parts.netloc] = time.monotonic()  # 取 robots.txt 也算一次访问，下一个请求同样要按 Crawl-delay 等
         rp = self._robots[origin]
         return rp is None or rp.can_fetch(USER_AGENT, url)
 
@@ -103,7 +104,9 @@ class Fetcher:
                 continue
             if r.status_code in (429, 502, 503, 504) and attempt < 2:
                 retry_after = r.headers.get("Retry-After", "")
-                time.sleep(min(int(retry_after), 60) if retry_after.isdigit() else 5 * (attempt + 1))
+                # 429 = 对方嫌我们太快：没写 Retry-After 时多等一会儿（30、60 秒）；5xx 只是临时故障，短等即可
+                backoff = 30 * (attempt + 1) if r.status_code == 429 else 5 * (attempt + 1)
+                time.sleep(min(int(retry_after), 60) if retry_after.isdigit() else backoff)
                 continue
             r.raise_for_status()
             return r

@@ -123,9 +123,15 @@ HNET = "https://networks.h-net.org"
 
 
 def hnet_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+    # robots.txt 写 Crawl-delay 5，但翻页稍快仍会回 429：放慢到 20 秒一次；中途被拒就停在已拿到的页
+    f.host_delay["networks.h-net.org"] = 20
     seen: dict[str, str] = {}
     for page in range(max_pages):
-        raw = f.get(f"{HNET}/jobs/browse?page={page}").text
+        try:
+            raw = f.get(f"{HNET}/jobs/browse?page={page}").text
+        except Exception as e:  # noqa: BLE001
+            print(f"[hnet] 第 {page + 1} 页被拒（{type(e).__name__}），保留已拿到的 {len(seen)} 条")
+            break
         new = 0
         for jid, slug in re.findall(r'href="(?:https://networks\.h-net\.org)?/jobs/(\d+)/([a-z0-9-]+)"', raw):
             if jid not in seen and re.search(r"post-?doc|postdoctoral|doctoral|ph-?d|fellow", slug):

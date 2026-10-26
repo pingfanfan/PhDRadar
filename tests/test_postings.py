@@ -509,3 +509,25 @@ def test_dedupe_org_spelled_differently():
          "org": "Medical Research Council (Cambridge)", "deadline": "2026-12-08", "url": "u5", "via": "FindAPhD", "cn": "yes"}
     f = dict(e, id="jobs-ac-uk:6", org="University of Birmingham", deadline="2027-01-29", url="u6", via="jobs.ac.uk")
     assert cp.dedupe([e, f])[1] == 0
+
+
+def test_hnet_listing_keeps_pages_before_429():
+    import platforms_boards as b
+
+    class Page:
+        def __init__(self, text):
+            self.text = text
+
+    class F:
+        def __init__(self):
+            self.host_delay = {}
+
+        def get(self, url):
+            if url.endswith("page=0"):
+                return Page('<a href="/jobs/70582/yale-university-postdoctoral-fellowship">x</a><a href="/jobs/70590/assistant-professor-history">y</a>')
+            raise RuntimeError("429 Client Error: Too Many Requests")
+
+    f = F()
+    urls = b.hnet_urls(f, 5)
+    assert urls == [("70582", "https://networks.h-net.org/jobs/70582/yale-university-postdoctoral-fellowship")]
+    assert f.host_delay["networks.h-net.org"] == 20
