@@ -41,8 +41,9 @@ jobs:
       - run: pip install -r requirements.txt
       - name: 采集
         run: |
+          set -o pipefail  # 否则 | tee 会吞掉采集失败的退出码
           python scripts/collect_postings.py -s "${{ inputs.sources || 'actions' }}" --max-details "${{ inputs.max_details || '3000' }}" \
-            --save-samples 40 --save-texts posting-texts $([ "${{ inputs.dry_run }}" = "true" ] && echo --dry-run) | tee -a "$GITHUB_STEP_SUMMARY"
+            --save-samples 40 --save-texts posting-texts --fail-if-none $([ "${{ inputs.dry_run }}" = "true" ] && echo --dry-run) | tee -a "$GITHUB_STEP_SUMMARY"
       - uses: actions/upload-artifact@v4
         if: always()
         with:

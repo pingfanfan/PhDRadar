@@ -21,3 +21,28 @@ def test_make_public_keeps_newer_actions_rows():
     out = mp.newer_platform_rows(mine, public, {"findaphd"})
     assert [r["id"] for r in out] == ["jobs-ac-uk:A", "findaphd:2"]
     assert mp.newer_platform_rows(public, mine, {"findaphd"}) == sorted(public, key=lambda r: (r["deadline"], r["id"]))
+
+
+def _run_main(monkeypatch, tmp_path, adapters, extra=()):
+    import collect_postings as cp
+    monkeypatch.setattr(cp, "OUT", tmp_path / "postings.yml")
+    monkeypatch.setattr(cp, "ADAPTERS", adapters)
+    monkeypatch.setattr(cp, "expand", lambda s: s.split(","))
+    monkeypatch.setattr(cp.Fetcher, "get", lambda self, url, **kw: type("R", (), {"text": "<html>x</html>"})())
+    monkeypatch.setattr(sys, "argv", ["collect_postings.py", "-s", ",".join(adapters), "--dry-run", "--today", "2026-10-27", *extra])
+    return cp.main()
+
+
+def test_fail_if_none_when_every_platform_is_blocked(monkeypatch, tmp_path, capsys):
+    def blocked(f, pages):
+        raise RuntimeError("403 Client Error: Forbidden")
+    code = _run_main(monkeypatch, tmp_path, {"findaphd": (blocked, None)}, ["--fail-if-none"])
+    assert code == 3 and "一条岗位都没读到" in capsys.readouterr().out
+
+
+def test_fail_if_none_passes_when_something_was_read(monkeypatch, tmp_path):
+    adapters = {"demo": (lambda f, pages: [("1", "https://ex.org/1")], lambda jid, url, raw, today: (None, "已截止"))}
+    assert _run_main(monkeypatch, tmp_path, adapters, ["--fail-if-none"]) == 0
+    def blocked(f, pages):
+        raise RuntimeError("403")
+    assert _run_main(monkeypatch, tmp_path, {"findaphd": (blocked, None)}) == 0  # 不加选项时照旧返回 0

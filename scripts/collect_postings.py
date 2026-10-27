@@ -1064,6 +1064,7 @@ def main() -> int:
     ap.add_argument("--max-details", type=int, default=3000)
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--dedupe-only", action="store_true", help="不采集，只对现有 _data/postings.yml 去重")
+    ap.add_argument("--fail-if-none", action="store_true", help="所列平台一条岗位都没读到（列表失败或被拦）时以退出码 3 结束，让 Actions 如实显示失败")
     ap.add_argument("--merge-from", help="不采集：用该文件里 -s 所列平台的岗位替换现有 _data/postings.yml 中这些平台的岗位（Actions 提交前与仓库最新版合并用）")
     args = ap.parse_args()
     if args.merge_from:
@@ -1082,7 +1083,9 @@ def main() -> int:
     f = Fetcher(delay=1.0)
     old = {r["id"]: r for r in (yaml.safe_load(OUT.read_text(encoding="utf-8")) or [])} if OUT.exists() else {}
     rows: dict[str, dict] = {k: v for k, v in old.items() if v["deadline"] == "rolling" or v["deadline"] >= args.today}
+    read: dict[str, int] = {}  # 各平台本次读到的详情页数（不论是否收录）
     for name in expand(args.sources):
+        read[name] = 0
         list_fn, detail_fn = ADAPTERS[name]
         try:
             urls = list_fn(f, args.max_pages)
@@ -1106,6 +1109,8 @@ def main() -> int:
             except Exception:  # noqa: BLE001
                 row, why = None, "详情页失败"
             stats[why] = stats.get(why, 0) + 1
+            if why not in ("详情页失败", "robots 不允许"):
+                read[name] += 1
             if row:
                 row["checked"] = args.today
                 rows[row["id"]] = row
@@ -1119,6 +1124,9 @@ def main() -> int:
     out = save(rows, final=True) if not args.dry_run else sorted(dedupe(list(rows.values()))[0], key=lambda r: (r["deadline"], r["id"]))
     print(f"岗位清单共 {len(out)} 条（中国学生可申 {sum(r['cn'] == 'yes' for r in out)} · 待确认 "
           f"{sum(r['cn'] == 'check' for r in out)} · 限本土 {sum(r['cn'] == 'no' for r in out)}）")
+    if args.fail_if_none and not any(read.values()):
+        print(f"一条岗位都没读到（{', '.join(read)}）：平台可能拦截了访问，本次按失败结束")
+        return 3
     return 0
 
 
