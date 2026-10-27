@@ -1,9 +1,9 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-10-26。共 **456** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-10-27。共 **452** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
-- [30 天内截止](#30-天内截止)（122）
+- [30 天内截止](#30-天内截止)（118）
 - [之后截止](#之后截止)（217）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（65）
 - [即将开放](#即将开放)（52）
@@ -12,10 +12,6 @@
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-26 | [蒂尔蒙大学 Tranzo 博士岗位：预防赌博伤害（promovendus）](https://www.academictransfer.com/en/jobs/364568/promovendus-preventie-van-gokschade/apply/) | 荷兰 | 博士 | 带薪岗位 | ❔ 官网未写明 | 蒂尔堡大学 Tranzo 系单一博士岗位（0.8 fte，带薪）；页面称聘用最好 2026-12-01 起；原条目标注的 AWV 未在页面确认。<br>官网原句：“Make sure to apply no later than 26 okt 2026 23:59 (Europe/Amsterdam).” |
-| 2026-10-26 | [印度科学院 IISc 国际博士研究项目](https://oir.iisc.ac.in/?p=318) | 印度 | 博士 | 仅生活费 | ❔ 官网未写明 | 页面新闻称 2026 年中期博士招生 10-06 至 10-26 开放，未注明是否限国际生；常规 2026-27 招生已关闭，申请前以官网为准。<br>官网原句：“Mid-Year Admissions for Ph.D. Programme 2026 Now Open from 06 October 2026 – Applications Close on 26 October 2026” |
-| 2026-10-26 | [林雪平大学全校职位页（博士生岗）](https://liu.se/en/work-at-liu/vacancies) | 瑞典 | 博士 | 带薪岗位 | ❔ 官网未写明 | 全校职位页列出 PhD student in Mathematics（MAI 系），列表日期为 Published To 2026-10-26；为有时限雇佣岗，页面未写中国籍资格。<br>官网原句：“PhD student in Mathematics 2026-10-26” |
-| 2026-10-26 | [SofinaBoël 奖学金 2027（比利时博士生出国研修）](https://www.frs-fnrs.be/fr/node/39738) | 比利时 | 博士 | 仅生活费 | ❔ 官网未写明 | 页面状态为 En cours，截止 2026-10-26 23:59；限比利时高校在读博士生，资格以官方规则为准。<br>官网原句：“Call deadline: 26 October 2026” |
 | 2026-10-27 | [ETH AI Center Doctoral Fellowship 2027（ETH 岗位页）](https://www.jobs.ethz.ch/job/view/12136) | 瑞士 | 博士 | 带薪岗位 | ❔ 官网未写明 | 2027 轮博士奖学金岗位，截止 2026-10-27 16:00 CET，仅接受在线门户申请。<br>官网原句：“The deadline for applications is October 27, 2026 (16:00 CET).” |
 | 2026-10-27 | [ETH AI Center 博士奖学金（Doctoral Fellowships）](https://ai.ethz.ch/research/phd-and-postdoc-programs/phd-fellowships.html) | 瑞士 | 博士 | 带薪岗位 | ❔ 官网未写明 | 2027 入学批次截止 2026 年 10 月 27 日 16:00 CET，仅接受官网在线门户申请；需在 2027 年 6 月前取得相关硕士。<br>官网原句：“Deadline: Tuesday, 27 October 2026 (16:00 CET)” |
 | 2026-10-27 | [ETH AI Center Post-Doc Fellowship 2027（ETH Zurich）](https://jobs.ethz.ch/job/view/12137) | 瑞士 | 博后 | 带薪岗位 | ❔ 官网未写明 | 2027 轮博后奖学金，截止 2026-10-27 16:00 CET，仅接受在线门户申请。<br>官网原句：“The deadline for applications is October 27, 2026 (16:00 CET).” |
