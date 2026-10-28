@@ -128,6 +128,12 @@ ROLLING = re.compile(r"[^.]{0,120}(?:until (?:the |a )?(?:position|post|position
                      r"on a rolling basis|open until filled|no deadline for (?:the )?application|no closing dates?)[^.]{0,60}", re.I)
 
 
+# 英国研究理事会（UKRI）资助的博士培训项目（DTP / CDT）：国际生最多约 30% 名额，UKRI 不补国际学费差额（各校做法不一），
+# 招聘平台常笼统标成“Students Worldwide”，所以只凭平台标签不算写明国际生可申（用户 10-28 决定改为待确认）
+UKRI_TRAINING = re.compile(r"\bDoctoral Training (?:Partnerships?|Programmes?|Programs?|Centres?)\b|\bCentres? for Doctoral Training\b|"
+                           r"\b(?:DTP|CDT|MIBTP)\b|\bUKRI\b|\b(?:BBSRC|NERC|EPSRC|MRC|ESRC|AHRC|STFC)[- ](?:funded|studentships?|DTP|CDT)\b")
+
+
 def cn_of(text: str) -> str:
     """正文写明限本土 → no；写明对国际生 / 所有国籍开放 → yes；都没有 → check（不猜）。"""
     return "no" if _any(RESTRICTED, text) else "yes" if _any(INTERNATIONAL, text) else "check"
@@ -886,6 +892,8 @@ def fap_detail(pid: str, url: str, raw: str, today: str) -> tuple[dict | None, s
     else:
         return None, "页面无截止日期"
     cn = "yes" if re.search(r"worldwide|international", who, re.I) else "no" if re.search(r"only", who, re.I) else "check"
+    if cn == "yes" and UKRI_TRAINING.search(text):  # 平台标“Students Worldwide”，但 UKRI 博士培训项目国际生有名额上限、学费差额常需自付
+        cn = "check"
     org = ld.get("hiringOrganization") or {}
     loc = ld.get("jobLocation") or {}
     loc = loc[0] if isinstance(loc, list) and loc else loc

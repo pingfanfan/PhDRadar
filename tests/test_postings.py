@@ -531,3 +531,18 @@ def test_hnet_listing_keeps_pages_before_429():
     urls = b.hnet_urls(f, 5)
     assert urls == [("70582", "https://networks.h-net.org/jobs/70582/yale-university-postdoctoral-fellowship")]
     assert f.host_delay["networks.h-net.org"] == 20
+
+
+def test_findaphd_ukri_training_is_check():
+    # UKRI 博士培训项目：平台标“Students Worldwide”也只算待确认（国际生名额有上限、学费差额常需自付）
+    dtp = FAP_PAGE.replace("Visit institution website", "Visit institution website This BBSRC DTP project")
+    assert cp.fap_detail("8", "u", dtp, TODAY)[0]["cn"] == "check"
+    uk_only = dtp.replace("Students Worldwide", "UK Students Only")
+    assert cp.fap_detail("8", "u", uk_only, TODAY)[0]["cn"] == "no"  # 写明限本土的保持不变
+
+
+def test_stale_postings_are_delisted():
+    import build_site
+    assert not build_site.stale({"checked": "2026-10-21"}, "2026-10-28")  # 7 天内
+    assert build_site.stale({"checked": "2026-10-20"}, "2026-10-28")  # 超过 7 天
+    assert build_site.stale({}, "2026-10-28")  # 没有核对日期也下架

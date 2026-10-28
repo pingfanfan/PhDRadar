@@ -109,6 +109,14 @@ def posting_fields() -> dict:
     return out
 
 
+STALE_DAYS = 7  # 用户 10-28 决定：平台岗位超过 7 天没能重新核对就下架
+
+
+def stale(p: dict, today: str) -> bool:
+    checked = str(p.get("checked") or "")
+    return not checked or (datetime.fromisoformat(today) - datetime.fromisoformat(checked)).days > STALE_DAYS
+
+
 def posting_rows() -> list[dict]:
     """招聘平台上的具体岗位（_data/postings.yml，由 collect_postings.py 采集）：截止 ≥ 今天、不限本土的才上首页。"""
     path = ROOT / "_data" / "postings.yml"
@@ -123,10 +131,9 @@ def posting_rows() -> list[dict]:
     for p in yaml.safe_load(path.read_text(encoding="utf-8")) or []:
         if p.get("cn") == "no":
             continue
-        if p["deadline"] == "rolling":  # 全年招生：两周内复查过才展示
-            if (datetime.fromisoformat(today) - datetime.fromisoformat(p["checked"])).days > 14:
-                continue
-        elif p["deadline"] < today:
+        if stale(p, today):  # 超过 7 天没能重新核对（平台被拦、维护或下架）：自动下架，重新核对到就回来
+            continue
+        if p["deadline"] != "rolling" and p["deadline"] < today:
             continue
         r = {"id": p["id"], "n": p["title"], "org": p.get("org"), "u": p["url"], "r": [p["country"]] if p.get("country") else [],
              "l": [p["level"]], "c": "salary" if p["level"] == "postdoc" else ("full" if p.get("funding_for") else None),
