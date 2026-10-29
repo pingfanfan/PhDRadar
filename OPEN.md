@@ -1,9 +1,9 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-10-28。共 **448** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-10-29。共 **445** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
-- [30 天内截止](#30-天内截止)（118）
+- [30 天内截止](#30-天内截止)（115）
 - [之后截止](#之后截止)（213）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（65）
 - [即将开放](#即将开放)（52）
@@ -12,9 +12,6 @@
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-28 | [奥胡斯大学 Perfusion PET 成像工具博士项目 · 招生](https://phd.health.au.dk/for-applicants/opencalls/phd-project-building-tools-for-perfusion-pet) | 丹麦 | 博士 | 全奖（学费＋生活费） | ❔ 官网未写明 | 页面写截止 2026-10-28 23:59（丹麦时间），三年全额资助岗位，计划 2027-01-01 入学；页面未写国际申请人资格。<br>官网原句：“28 October 2026 at 23:59” |
-| 2026-10-28 | [NASA Hubble Fellowship Program（NHFP）2027 届](https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/applications-for-the-2027-nasa-hubble-fellowship-program/) | 美国 | 博后 | 官网未写明 | ✅ 可申 | 2027 届 NHFP 申请截止 2026-10-28；页面称向任何国籍开放，需 2023-01-01 后完成或将完成天文/物理相关博士学位。<br>官网原句：“Due 28 October 2026” |
-| 2026-10-28 | [杜伊斯堡-埃森大学化学系招聘页](https://www.uni-due.de/chemistry/news/vacancies/) | 德国 | 博士 | 带薪岗位 | ❔ 官网未写明 | Werdelmann 基金博士岗位公告写明申请截止为 2026 年 10 月 28 日。<br>官网原句：“AUSSCHREIBUNG bis zum 28. OKTOBER 2026” |
 | 2026-10-29 | [剑桥大学 Yusuf Hamied 化学系招聘页](https://www.ch.cam.ac.uk/jobs) | 英国 | 博士、博后 | 视项目而定 | ❔ 官网未写明 | 当前列表含博士奖学金 MA51367（PhD Studentship），截止 2026-10-29；其余职位截止在 10 月 20 日至 11 月 12 日之间。<br>官网原句：“Oct 29th 2026” |
 | 2026-10-30 | [Bristol Practice-Oriented AI CDT](https://www.bristol.ac.uk/cdt/practice-oriented-ai/) | 英国 | 博士 | 全奖（学费＋生活费） | 🟡 部分可申 | 正文称正在接受 2027 年 9 月入学的申请，第一轮截止 2026 年 10 月 30 日，第二轮 2027 年 2 月 26 日，最终轮 2027 年 5 月 14 日。<br>官网原句：“We are now accepting applications for September 2027 entry.” |
 | 2026-10-30 | [Duke-NUS 原位结构生物学博后（新加坡 NRF 博后奖）](https://aria.embrc.eu/jobs/national-research-foundation-postdoctoral-fellowship-in-duke-nus-medical-school-singapore/) | 新加坡 | 博后 | 带薪岗位 | ❔ 官网未写明 | 岗位以获批 NRF 博后奖 2026/2027 为前提；页面称需先将 CV、研究兴趣等发送给 PI。<br>官网原句：“Application deadline: 30 Oct 2026” |
