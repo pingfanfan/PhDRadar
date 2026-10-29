@@ -329,6 +329,10 @@ def test_dedupe_specific_title_different_deadlines():
     g = dict(a, title="Postdoctoral Research Associate")
     assert cp.dedupe([g, dict(g, id="x", via="Science Careers", url="u3", deadline="2026-12-01")])[1] == 0
     assert cp.dedupe([a, dict(b, org="University of Florida")])[1] == 0
+    # 截止更早的那条已超过 7 天没再核对到（平台被拦）：留最近核对过的那条，免得旧记录过期时把仍在招的岗位一起下架
+    fresh, old = dict(a, checked="2026-11-02"), dict(b, checked="2026-10-25")
+    assert cp.dedupe([fresh, old])[0][0]["id"] == "naturecareers:1"
+    assert cp.dedupe([dict(fresh, checked="2026-10-29"), old])[0][0]["id"] == "sciencecareers:2"  # 7 天内仍按截止早的
 
 def test_cnrs_detail():
     import platforms_fr as fr

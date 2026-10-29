@@ -934,7 +934,7 @@ for _mod in sorted(p.stem for p in (ROOT / "scripts").glob("platforms_*.py")):
 # 只有 GitHub Actions 能访问的平台（适配器名 → 岗位的 via 名）：由公开仓库的 postings 工作流采集（-s actions），
 # 每日任务再用 import_postings.py 并回主库；本地默认清单不含它们
 ACTIONS = {"findaphd": "FindAPhD"}
-DEFAULT = "jobs-ac-uk,academictransfer,naturecareers,sciencecareers,physicstoday,the-unijobs,jobbnorge,inspire,ajo,daad,varbi,ethz,inria,mpg,arbeitsagentur,workday,successfactors,oracle,pageup,cnrs,mathjobs,tamu-rwfm,hnet,aarhus,psi,eso,ibs,econjobmarket,reachmee,university,infn,pasteur,fapesp,linguistlist,egu,ellis,fens,uibk"
+DEFAULT = "jobs-ac-uk,academictransfer,naturecareers,sciencecareers,physicstoday,the-unijobs,jobbnorge,inspire,ajo,daad,varbi,ethz,inria,mpg,arbeitsagentur,workday,successfactors,oracle,pageup,cnrs,mathjobs,tamu-rwfm,hnet,aarhus,psi,eso,ibs,econjobmarket,reachmee,university,infn,pasteur,fapesp,linguistlist,egu,ellis,fens,uibk,crick"
 
 
 def expand(sources: str) -> list[str]:
@@ -1052,8 +1052,13 @@ def merge_across(rows: list[dict]) -> list[dict]:
             if len(grp) == 1:
                 out.append(first)
                 continue
-            # 留截止最早的那条（原句就在它自己的页面上），平台信息量作次序
-            keep = min(grp, key=lambda r: (r["deadline"] == "rolling", r["deadline"], -VIA_RANK.get(r.get("via"), 0)))
+            # 留截止最早的那条（原句就在它自己的页面上），平台信息量作次序；
+            # 但比组里最新核对的晚 7 天以上没再核对到的（平台被拦、已下架）排在后面，免得旧记录过期时把仍在招的岗位一起下架
+            newest = max(str(r.get("checked") or "") for r in grp)
+            def stale(r: dict) -> bool:
+                c = str(r.get("checked") or "")
+                return bool(newest) and (not c or (date.fromisoformat(newest) - date.fromisoformat(c)).days > 7)
+            keep = min(grp, key=lambda r: (stale(r), r["deadline"] == "rolling", r["deadline"], -VIA_RANK.get(r.get("via"), 0)))
             cns = {r.get("cn") for r in grp}
             keep = dict(keep, cn="no" if "no" in cns else "yes" if "yes" in cns else "check")
             urls = {u for r in grp for u in [r["url"], *(r.get("also") or [])]} - {keep["url"]}
