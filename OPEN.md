@@ -1,18 +1,17 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-10-29。共 **445** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-10-30。共 **443** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
 - [30 天内截止](#30-天内截止)（115）
-- [之后截止](#之后截止)（213）
+- [之后截止](#之后截止)（212）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（65）
-- [即将开放](#即将开放)（52）
+- [即将开放](#即将开放)（51）
 
 ## 30 天内截止
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-29 | [剑桥大学 Yusuf Hamied 化学系招聘页](https://www.ch.cam.ac.uk/jobs) | 英国 | 博士、博后 | 视项目而定 | ❔ 官网未写明 | 当前列表含博士奖学金 MA51367（PhD Studentship），截止 2026-10-29；其余职位截止在 10 月 20 日至 11 月 12 日之间。<br>官网原句：“Oct 29th 2026” |
 | 2026-10-30 | [Bristol Practice-Oriented AI CDT](https://www.bristol.ac.uk/cdt/practice-oriented-ai/) | 英国 | 博士 | 全奖（学费＋生活费） | 🟡 部分可申 | 正文称正在接受 2027 年 9 月入学的申请，第一轮截止 2026 年 10 月 30 日，第二轮 2027 年 2 月 26 日，最终轮 2027 年 5 月 14 日。<br>官网原句：“We are now accepting applications for September 2027 entry.” |
 | 2026-10-30 | [Duke-NUS 原位结构生物学博后（新加坡 NRF 博后奖）](https://aria.embrc.eu/jobs/national-research-foundation-postdoctoral-fellowship-in-duke-nus-medical-school-singapore/) | 新加坡 | 博后 | 带薪岗位 | ❔ 官网未写明 | 岗位以获批 NRF 博后奖 2026/2027 为前提；页面称需先将 CV、研究兴趣等发送给 PI。<br>官网原句：“Application deadline: 30 Oct 2026” |
 | 2026-10-30 | [NTU AI-for-X 博士后奖学金（NRF 联合资助）](https://opportunitydesk.org/2026/09/03/ntu-ai-for-x-postdoctoral-fellowship-2026/) | 新加坡 | 博后 | 带薪岗位 | ❔ 官网未写明 | 正文为 Opportunity Desk 转载页（非 NTU 官网），写明截止 2026-10-30 且 Applications are open；申请前以 NTU 官网为准。<br>官网原句：“Deadline: October 30, 2026” |
@@ -127,12 +126,12 @@
 | 2026-11-27 | [RobotX PhD Fellowship 2027（ETH Zurich）](https://jobs.ethz.ch/job/view/JOPG_ethz_zBtPwWHnM0fumyTFso) | 瑞士 | 博士 | 带薪岗位 | ❔ 官网未写明 | RobotX 2027 轮博士岗位，截止 2026 年 11 月 27 日，仅接受在线门户提交。<br>官网原句：“Application deadline: 27 November 2026.” |
 | 2026-11-27 | [RobotX Postdoctoral Fellowship（ETH Zurich）](https://jobs.ethz.ch/job/view/JOPG_ethz_58u057ys6BxuEciK5P) | 瑞士 | 博后 | 带薪岗位 | ❔ 官网未写明 | RobotX 博后岗位，截止 2026 年 11 月 27 日，仅接受在线门户提交。<br>官网原句：“Application deadline: 27 November 2026.” |
 | 2026-11-27 | [大英图书馆合作型 Doctoral Landscape Award（AHRC CDLA）](https://www.bl.uk/services/research-collaboration/collaborative-doctoral-landscape-awards) | 英国 | 博士 | 官网未写明 | ❔ 官网未写明 | 页面称现在接受申请，申请者须为英国高校在职学者（导师方），截止 2026-11-27 17:00；学生的国际生资格未在页面说明。<br>官网原句：“The deadline is 17.00 on Friday 27 November 2026. Late applications cannot be accepted.” |
+| 2026-11-29 | [巴斯大学面向中国新博士生的资助汇总](https://bath.ac.uk/campaigns/funding-opportunities-for-new-doctoral-students-from-china) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 2027/28 学年入学的申请窗口为 2026-10-12 至 2026-11-29，需在申请中选择 CSC 与巴斯大学联合奖学金。<br>官网原句：“Applications for entry in the 2027/28 academic year will open on 12 October 2026 until 29 November 2026” |
 
 ## 之后截止
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-29 | [巴斯大学面向中国新博士生的资助汇总](https://bath.ac.uk/campaigns/funding-opportunities-for-new-doctoral-students-from-china) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 2027/28 学年入学的申请窗口为 2026-10-12 至 2026-11-29，需在申请中选择 CSC 与巴斯大学联合奖学金。<br>官网原句：“Applications for entry in the 2027/28 academic year will open on 12 October 2026 until 29 November 2026” |
 | 2026-11-30 | [奥胡斯大学经济系 ACE 岗位页](https://econ.au.dk/ace/vacancies) | 丹麦 | 博士、博后 | 带薪岗位 | ❔ 官网未写明 | 博后岗位 Econometrics 目标截止 2026-11-30，开始时间为 2027 夏季或秋季；页面未列博士岗位。<br>官网原句：“Target deadline: 30 November 2026.” |
 | 2026-11-30 | [奥胡斯大学 计算质谱成像与空间代谢组学博士 · 招生](https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/phd-position-in-computational-mass-spectrometry-imaging-and-spatial-metabolomics) | 丹麦 | 博士 | 带薪岗位 | ❔ 官网未写明 | 页面写截止 2026-11-30 23:59 CET，计划 2027-02-01 入学；需相关专业硕士学位。<br>官网原句：“Application deadline is 30 November 2026 at 23:59 CET.” |
 | 2026-11-30 | [布里斯托大学 CSC 联合博士奖学金申请指南](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/application-guidance) | 英国、中国内地 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 校内 CSC-UoB 联合博士奖学金申请截止 2026-11-30 12:00（英国时间）；获录取后约 2027 年 3–4 月再向 CSC 申请。<br>官网原句：“by 12 noon (UK time) on Monday 30 November 2026.” |
@@ -420,7 +419,6 @@
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-20 开放，截止 2026-10-29 | [北海道大学 e3 项目 MEXT 大学推荐 2027 秋季入学](https://eprogram.eng.hokudai.ac.jp/e3/news-updates/20-admission/452-application-guidelines-for-mext-uni-2027) | 日本 | 博士 | 官网未写明 | ✅ 可申 | MEXT 大学推荐 2027 年 10 月入学的网申时间为 2026 年 10 月 20 日至 29 日，目前尚未开放；需经 e3 项目竞争性选拔。<br>官网原句：“On-line application period: October 20 – 29, 2026” |
 | 2026-10-19 开放，截止 2026-10-30 | [东京大学 MEXT 一般选拔指南（2027 年 10 月入学）](https://www.i.u-tokyo.ac.jp/edu/MEXT_General_Guidelines_E_Oct2027.pdf) | 日本 | 博士 | 仅生活费 | ❔ 官网未写明 | 2027 年 10 月入学 MEXT 大学推荐（一般选拔）网上申请 2026-10-19 至 10-30 17:00（日本时间）；国籍资格需先邮件咨询东大国际课。<br>官网原句：“Monday, October 19th until 17:00 (JST), Friday, October 30th, 2026” |
 | 2026-10-20 开放，截止 2026-11-12 | [FPU 大学教师培养预博士合同（西班牙科学与创新部 / AEI）](https://www.aei.gob.es/en/announcements/announcements-finder/ayudas-contratos-fpu-2026/convocatoria) | 西班牙 | 博士 | 带薪岗位 | ❔ 官网未写明 | 个人表格填报期为 2026 年 10 月 20 日至 11 月 12 日 14:00（半岛时间），研究中心提交截止 11 月 20 日；页面未写明国籍条件。<br>官网原句：“20/10/2026 - 12/11/2026” |
 | 2026-10-20 开放，截止 2026-11-30 | [IMPRS 生态系统化学通讯（马普化学生态所，耶拿）](https://www.ice.mpg.de/296548/current-call) | 德国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 2026/27 轮申请 2026-10-20 至 2026-11-30 开放，3 年博士职位，无学费。<br>官网原句：“is online from October 20 - November 30, 2026.” |
