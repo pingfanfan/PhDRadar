@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 英国（UK） 信源（608） · 第 2/2 页
+# 英国（UK） 信源（607） · 第 2/2 页
 
-所有标注了地区 UK 的信源，共 608 条。
+所有标注了地区 UK 的信源，共 607 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 28](uk.md#aggregators) · [各国学术招聘门户与机构职位页 9](uk.md#national-portals) · [政府与国家级奖学金 11](uk.md#gov-scholarships) · [高校旗舰奖学金与资助检索 275](uk.md#university-schemes) · [结构化博士项目与研究机构 190](uk.md#doctoral-programs) · [博士后奖学金与项目 30](uk-2.md#postdoc-fellowships) · [企业与基金会 Fellowship 16](uk-2.md#fellowships) · [学科专属信源 25](uk-2.md#discipline) · [科研实习与“曲线入口” 6](uk-2.md#pathways) · [个人信源与社交渠道 16](uk-2.md#people-channels) · [导师招生帖（社交平台个人发布） 2](uk-2.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 28](uk.md#aggregators) · [各国学术招聘门户与机构职位页 9](uk.md#national-portals) · [政府与国家级奖学金 11](uk.md#gov-scholarships) · [高校旗舰奖学金与资助检索 274](uk.md#university-schemes) · [结构化博士项目与研究机构 190](uk.md#doctoral-programs) · [博士后奖学金与项目 30](uk-2.md#postdoc-fellowships) · [企业与基金会 Fellowship 16](uk-2.md#fellowships) · [学科专属信源 25](uk-2.md#discipline) · [科研实习与“曲线入口” 6](uk-2.md#pathways) · [个人信源与社交渠道 16](uk-2.md#people-channels) · [导师招生帖（社交平台个人发布） 2](uk-2.md#recruiting-posts)
 
 **分页：** [第 1 页](uk.md) · [第 2 页](uk-2.md)
 

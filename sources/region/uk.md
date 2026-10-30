@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 英国（UK） 信源（608） · 第 1/2 页
+# 英国（UK） 信源（607） · 第 1/2 页
 
-所有标注了地区 UK 的信源，共 608 条。
+所有标注了地区 UK 的信源，共 607 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 28](uk.md#aggregators) · [各国学术招聘门户与机构职位页 9](uk.md#national-portals) · [政府与国家级奖学金 11](uk.md#gov-scholarships) · [高校旗舰奖学金与资助检索 275](uk.md#university-schemes) · [结构化博士项目与研究机构 190](uk.md#doctoral-programs) · [博士后奖学金与项目 30](uk-2.md#postdoc-fellowships) · [企业与基金会 Fellowship 16](uk-2.md#fellowships) · [学科专属信源 25](uk-2.md#discipline) · [科研实习与“曲线入口” 6](uk-2.md#pathways) · [个人信源与社交渠道 16](uk-2.md#people-channels) · [导师招生帖（社交平台个人发布） 2](uk-2.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 28](uk.md#aggregators) · [各国学术招聘门户与机构职位页 9](uk.md#national-portals) · [政府与国家级奖学金 11](uk.md#gov-scholarships) · [高校旗舰奖学金与资助检索 274](uk.md#university-schemes) · [结构化博士项目与研究机构 190](uk.md#doctoral-programs) · [博士后奖学金与项目 30](uk-2.md#postdoc-fellowships) · [企业与基金会 Fellowship 16](uk-2.md#fellowships) · [学科专属信源 25](uk-2.md#discipline) · [科研实习与“曲线入口” 6](uk-2.md#pathways) · [个人信源与社交渠道 16](uk-2.md#people-channels) · [导师招生帖（社交平台个人发布） 2](uk-2.md#recruiting-posts)
 
 **分页：** [第 1 页](uk.md) · [第 2 页](uk-2.md)
 
@@ -83,7 +83,7 @@
 
 <a id="university-schemes"></a>
 
-## 高校旗舰奖学金与资助检索（275）
+## 高校旗舰奖学金与资助检索（274）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -111,7 +111,7 @@
 | [Green Templeton 学院 × 赛德 DPhil 奖学金](https://www.gtc.ox.ac.uk/students/how-to-apply/scholarships-bursaries/gtc-oxford-said-dphil-scholarships/)<br><sub>英国 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | 未公布<br><sub>🟢 开放申请</sub><br><sub>页面标注截止为 2026 年 12 月（未写具体日期），对应 2027 年 10 月入学的 DPhil 管理或金融方向。</sub> | ❔ | **要求：** 须先获赛德商学院 DPhil（管理或金融方向）录取，再由学院评选<br>页面称提供全额学费及不低于英国研究理事会（UKRI）标准的年度津贴（2026/27 为 £21,805），为期四年；仅限赛德商学院 DPhil 管理或金融方向新生。 |
 | [Harding Distinguished Postgraduate Scholarship（剑桥 Harding 博士奖学金）](https://www.hardingscholars.fund.cam.ac.uk/about-us)<br><sub>英国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£21,360/年（2025–26）</sub> | — | ✅ | **要求：** 申请剑桥博士，不限国籍；已在剑桥读博者不可申请；需在剑桥研究生申请系统中勾选资助<br>剑桥 Harding 博士奖学金，面向全球、不限国籍的剑桥博士生，覆盖学费、生活津贴与 6,000 英镑科研经费；国际生另含学生签证与 IHS 费用。随课程资助截止时间申请，以官网当届条款为准。 |
 | [Heilbronn Doctoral Partnership（英国多校数学博士资助）](https://heilbronn.ac.uk/about/postgrad-students)<br><sub>英国 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>£20,780/年（Bristol 2025/26 生活津贴，仅供参考）</sub> | 各项目不同<br><sub>各校截止不同；牛津数学所以往为次年 1 月初</sub> | 🟡 | **要求：** 须通过大学标准博士申请并注明申请 Heilbronn 资助；国际生学费覆盖因校而异（如 Manchester 学费仅覆盖本地生）<br>Heilbronn 研究所在 Bristol、Oxford、Manchester 等校资助纯数学、概率、量子信息等方向博士；无单独申请表，在大学 PhD 申请中注明即可。国际生学费覆盖因校而异。 |
-| [Imperial College London 化学工程系 PhD 奖学金](https://www.imperial.ac.uk/chemical-engineering/courses/postgraduate/phd/scholarships/)<br><sub>英国 ｜ 工程·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>约 £23,800–27,000/年（页面称含学费及免税生活费补助，为期 42 个月）</sub> | **2026-11-01**<br><sub>📋 持续更新</sub><br><sub>2027 年 10 月入学；页面列出首轮 2026-11-01、第二轮 2027-01-11、第三轮 2027-03-01（视奖学金名额）</sub> | ✅ | **要求：** 需化学工程相关硕士或一等学位并满足英语要求；国际生资格未核实<br>化学工程系官网列出 2027 年 10 月入学的至多 15 个全额奖学金，其中 10 个对所有申请者开放、5 个限英国 Home 学生。页面称资助含学费及约 £23,800–27,000/年的免税生活费补助，为期 42 个月。 |
+| [Imperial College London 化学工程系 PhD 奖学金](https://www.imperial.ac.uk/engineering/departments/chemical-engineering/courses/postgraduate/phd/scholarships/)<br><sub>英国 ｜ 工程·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>约 £23,800–27,000/年免税生活费，另含学费，共 42 个月</sub> | **2026-11-02**<br><sub>🟢 开放申请</sub><br><sub>2027 年 10 月入学，分三轮选拔：2026-11-02、2027-01-11、2027-03-01（第三轮视剩余名额）。</sub> | ✅ | **要求：** 通过学校在线系统申请“Chemical Engineering (PhD)”项目；需成绩单、个人陈述，英语达到学校较高标准；奖学金竞争激烈，面试选拔。<br>系里提供至多 15 个全额奖学金（2027 年入学）：10 个不限学费身份（国际生可申），5 个（EPSRC DLA）只给英国 Home 学生。官网按导师列出可选课题，申请时选课题；优秀候选人会被推荐参加 President's PhD Scholarship。 |
 | [Imperial President's PhD Scholarships](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/)<br><sub>英国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£27,036/年（2027-28 费率）</sub> | — | ✅ | **要求：** 一等学位或硕士 distinction；需先取得 Imperial 导师同意；须满足英语要求；申请时勾选 President's PhD Scholarship<br>帝国理工校级全奖，全额学费 3.5 年加生活津贴；需先获得导师支持。具体金额与截止日以官网当期页面为准。 |
 | [KCL Dickson Poon 法学院博士奖学金](https://www.kcl.ac.uk/study/postgraduate-research/areas/law-research-mphil-phd)<br><sub>英国 ｜ 社会科学/心理·人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>3 年学费；UKRI 水平维持津贴（2026–27 年费率 £23,805，每年小幅上调）</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>2027 入学轮次：内部奖学金须在第一轮（2026 年 12 月 1 日）前申请；不申请内部奖学金则截止 2027 年 4 月 1 日</sub> | ✅ | **要求：** 需被录取至 KCL 法学 MPhil/PhD 项目（2027 年入学）；在 King’s Apply 申请表资助栏勾选并填写方案代码 LAW2027；资格称任何国籍均可<br>KCL Dickson Poon 法学院博士奖学金（方案代码 LAW2027），资助 3 年学费及 UKRI 水平维持津贴，资格称任何国籍均可。内部奖学金须在第一轮（2026 年 12 月 1 日前）申请。 |
 | [KCL 博士培训中心与合作博士项目总览](https://www.kcl.ac.uk/research/funding/doctoral-training-centres-partnerships)<br><sub>英国 ｜ 医学/公卫·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ❔ | 页面列出 KCL 参与的多个博士培训伙伴关系（DTP）与培训中心（DTC）。页面称这些项目的资助主要面向本国（Home）学生，部分可能面向国际生，申请前须逐项查看资格要求。 |
@@ -233,7 +233,6 @@
 | [帝国理工 EPSRC 博士景观奖（医学院）](https://www.imperial.ac.uk/medicine/study/postgraduate/epsrc-dla-studentships/)<br><sub>英国 ｜ 医学/公卫·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-09-28**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 年 5 月 26 日截止已过；2027 轮未见公告</sub> | 🟡 | **要求：** 一等或良好二等荣誉学位（或同等学历），硕士可作补充；国际生录取要求不同，以官网为准；名额有限、竞争激烈<br>UDLA 向所有国籍开放，但国际生名额极少、竞争激烈。页面对学费差额说法不一，申请前需向 feopostgradtm@imperial.ac.uk 确认。2026 轮已截止，2027 轮未见公告。 |
 | [帝国理工 MRC 全球传染病分析中心博士名额列表](https://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/opportunities/studentships/)<br><sub>英国 ｜ 医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>President's PhD Scholarships 全年分三个节点评审，页面未给具体日期；其余项目以各自页面为准</sub> | ❔ | 列出传染病流行病学 4 年制博士（含 1 年 MRes）及研究组名额，经费来自帝国理工与 MRC GIDA。申请需先联系潜在导师，国际生资格与 2027 轮次以当年页面为准。 |
 | [帝国理工商学院博士项目资助页（GTA 奖学金）](https://www.imperial.ac.uk/business-school/phd/funding-scholarships/)<br><sub>英国 ｜ 商科/管理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£29,580/年（2026/27）</sub> | — | ✅ | **要求：** 录取的博士生均获全额学费减免（含海外学费）与生活津贴，通过 GTA 奖学金最长 5 年，第 6 年个案考虑。<br>帝国理工商学院博士全员获学费全免（含海外学费）加生活津贴，2026/27 年为 £29,580，通过 GTA 奖学金最长 5 年，第 6 年个案考虑。截止日期以官网与 doctoral@imperial.ac.uk 为准。 |
-| [帝国理工学院化学工程系 PhD 奖学金页](https://www.imperial.ac.uk/engineering/departments/chemical-engineering/courses/postgraduate/phd/scholarships/)<br><sub>英国 ｜ 工程·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-11-01**<br><sub>🟢 开放申请</sub><br><sub>第三方汇总：2027–28 轮第一批 11 月 2 日，第二批 1 月 11 日，第三批 3 月 1 日；待 Imperial 官网确认</sub> | ✅ | **要求：** 需一等学位或同等成绩（硕士需 Distinction）；申请前需有 Imperial 系内导师同意；部分院系无法支持国际生<br>President's PhD Scholarship 面向全球申请人、无国籍限制，但部分院系可能无法支持国际生，需先有导师。化学工程系是否参与未在官网确认，申请前请核对系页与当年轮次。 |
 | [帝国理工学院奖学金搜索入口](https://www.imperial.ac.uk/study/fees-and-funding/scholarships-search/)<br><sub>英国 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各奖学金截止不同，需逐条核实</sub> | ❔ | 帝国理工学院官方奖学金检索页，可使用筛选器查看各项目。页面显示共 306 项结果，并列出各项的适用对象（如 Home、Overseas）、金额与截止时间；大量条目已标注 Closed，需逐条核对。 |
 | [帝国理工学院数学系博士资助机会页](https://www.imperial.ac.uk/mathematics/postgraduate/doctoral-programme/prospective-students/phd-funding-opportunities/)<br><sub>英国 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | —<br><sub>🔄 随时可申</sub> | 🟡 | 汇总数学系可申请的博士资助（Roth 奖学金、EPSRC-DTP 名额、总统博士奖学金等）。提交入学申请即自动参评；Roth 本国与海外学生均可参评，但海外名额通常每年仅 1 个，国际生资格需逐项确认。 |
 | [帝国理工学院设计工程系博士奖学金（DEPS）](https://www.imperial.ac.uk/engineering/departments/design-engineering/study/phd/funding-opportunities/design-engineering-scholarships/design-engineering-phd-scholarships-deps/)<br><sub>英国 ｜ 工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£21,237/年（2025/26 页面数据，3.5 年）</sub> | **2026-01-09**<br><sub>⏸ 本轮已截止</sub><br><sub>通常 1 月截止；2027 轮未公布</sub> | 🟡 | **要求：** 需硕士 distinction 或同等成绩；须申请官网所列 DEPS 课题；3 个名额中 2 个覆盖海外学费<br>帝国理工设计工程博士奖学金（DEPS）每年 3 个名额，覆盖学费与 UKRI 标准生活津贴；其中 2 个名额覆盖海外学费。需申请列出的课题并在申请中注明，截止多在 1 月。 |

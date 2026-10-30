@@ -29,7 +29,7 @@
   "/api/v1/opportunities.json": {
    "get": {
     "operationId": "listOpportunities",
-    "summary": "Opportunities open now (4084)",
+    "summary": "Opportunities open now (4083)",
     "responses": {
      "200": {
       "description": "OK",
@@ -72,7 +72,7 @@
   "/api/v1/sources.json": {
    "get": {
     "operationId": "listSources",
-    "summary": "Verified sources (3968)",
+    "summary": "Verified sources (3967)",
     "responses": {
      "200": {
       "description": "OK",

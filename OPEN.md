@@ -1,9 +1,9 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-10-30。共 **443** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-10-30。共 **442** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
-- [30 天内截止](#30-天内截止)（115）
+- [30 天内截止](#30-天内截止)（114）
 - [之后截止](#之后截止)（212）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（65）
 - [即将开放](#即将开放)（51）
@@ -40,8 +40,6 @@
 | 2026-11-01 | [波恩大学数学系 · 博士后岗位](https://www.mathematics.uni-bonn.de/hcm/opportunities/jobs/postdoc-positions) | 德国 | 博后 | 带薪岗位 | ❔ 官网未写明 | 当前博后公告通过 MathJobs 申请，页面写明申请截止 2026 年 11 月 1 日。<br>官网原句：“Application deadline: November 1, 2026” |
 | 2026-11-01 | [EPFL EDBB 生物技术与生物工程博士项目实验室岗位](https://www.epfl.ch/education/phd/edbb-biotechnology-and-bioengineering/edbb-open-positions/) | 瑞士 | 博士 | 官网未写明 | ❔ 官网未写明 | EDBB 下一轮博士申请截止 2026-11-01；需先被 EDBB 博士项目录取，实验室岗位由各 PI 发布。<br>官网原句：“Next PhD application deadline: November 1, 2026” |
 | 2026-11-01 | [EPFL EDCB 计算与定量生物学博士项目岗位](https://www.epfl.ch/education/phd/edcb-computational-and-quantitative-biology/edcb-open-positions/) | 瑞士 | 博士 | 带薪岗位 | ❔ 官网未写明 | 页面写明下一轮申请截止 2026 年 11 月 1 日，并列有多位 PI 的博士岗位（部分实验室标注了各自日期）。<br>官网原句：“Next Deadline for applications : November 1st, 2026” |
-| 2026-11-01 | [Imperial College London 化学工程系 PhD 奖学金](https://www.imperial.ac.uk/chemical-engineering/courses/postgraduate/phd/scholarships/) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 2027 年 10 月入学的系内奖学金；第二轮 2027-01-11、第三轮 2027-03-01（视名额）；页面称 10 个对所有申请者开放。<br>官网原句：“1 November 2026 for the first selection round” |
-| 2026-11-01 | [帝国理工学院化学工程系 PhD 奖学金页](https://www.imperial.ac.uk/engineering/departments/chemical-engineering/courses/postgraduate/phd/scholarships/) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 院系奖学金第一轮截止 2026 年 11 月 1 日（条目原写 11-02，以页面为准），第二轮 2027-01-11，第三轮 2027-03-01，视名额而定。<br>官网原句：“1 November 2026 for the first selection round” |
 | 2026-11-01 | [IMPRS Astrophysics（加兴，马普天体物理国际研究生院）](https://www.imprs-astro.mpg.de/) | 德国 | 博士 | 官网未写明 | ✅ 可申 | IMPRS 天体物理 2027 年 9 月入学申请截止 2026 年 11 月 1 日，推荐信同日截止。<br>官网原句：“Applications can be submitted now until November 1st, 2026.” |
 | 2026-11-01 | [IMPRS on Astrophysics（LMU 慕尼黑 / MPE、MPA、ESO 联合国际研究生院）](https://www.imprs-astro.mpg.de/content/application.html) | 德国 | 博士 | 带薪岗位 | ❔ 官网未写明 | 2027 年 9 月 1 日入学轮，正文写申请及推荐信截止 2026 年 11 月 1 日，申请平台已开放。<br>官网原句：“Applications can be submitted now until November 1st, 2026.” |
 | 2026-11-01 | [I Tatti 2027-28 艺术史研究员资助](https://itatti.harvard.edu/node/12544) | 意大利 | 博后 | 官网未写明 | ❔ 官网未写明 | 2026 年 9 月 3 日公告。年度研究员 10 月 15 日已截止；I Tatti/Dumbarton Oaks 联合研究员 11 月 1 日、学期类研究员 11 月 16 日仍在申请期内。国籍条件页面未写。<br>官网原句：“Applications are now open for I Tatti’s 2027/28 Fellowships.” |
@@ -53,6 +51,7 @@
 | 2026-11-01 | [日内瓦大学生命科学博士学院冬季招生](https://lifesciencesphd.unige.ch/) | 瑞士 | 博士 | 视项目而定 | ❔ 官网未写明 | Winter Call 2026-27 正在接收申请，截止 2026-11-01 23:59:59 CET；资助因导师和项目而异，申请前需与导师确认<br>官网原句：“Application deadline November 1st at 23:59:59 CET” |
 | 2026-11-01 | [密歇根大学总统博士后项目](https://presidentspostdoc.umich.edu/appointment.php) | 美国 | 博后 | 带薪岗位 | ❔ 官网未写明 | 在线申请 2026-09-01 开放，标准申请 2026-11-01 23:59 太平洋时间截止（页面日期格式为 MM.DD.YYYY）；推荐信截止 2026-11-08，系部材料截止 2026-12-01。<br>官网原句：“Sunday, 11.01.2026” |
 | 2026-11-01 | [乌普萨拉大学 · 进化与生态遗传学博士岗 (UFV-PA 2026/2654)](https://uu.varbi.com/en/what:job/jobID:967249/) | 瑞典 | 博士 | 带薪岗位 | ❔ 官网未写明 | 页面写明申请截止 2026 年 11 月 1 日，入职 2027 年内灵活；岗位公告未列国籍限制，需以公告为准，并可能需要安全审查。<br>官网原句：“You are welcome to submit your application no later than” |
+| 2026-11-02 | [Imperial College London 化学工程系 PhD 奖学金](https://www.imperial.ac.uk/engineering/departments/chemical-engineering/courses/postgraduate/phd/scholarships/) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 2027 年 10 月入学的系内奖学金；第二轮 2027-01-11、第三轮 2027-03-01（视名额）；页面称 15 个中 10 个不限学费身份。10-30 复查页面已改为 11 月 2 日。<br>官网原句：“2 November 2026 for the first selection round” |
 | 2026-11-02 | [CITA 理论天体物理博后（多伦多大学，2027 入职）](https://www.cita.utoronto.ca/opportunities/post-docs/) | 加拿大 | 博后 | 带薪岗位 | ❔ 官网未写明 | CITA 博后与国家研究员申请截止 2026 年 11 月 2 日，仅接受电子提交，2027 年 9 月 1 日入职。<br>官网原句：“November 2, 2026.” |
 | 2026-11-02 | [法国 Eiffel 卓越奖学金 2027 校内申请说明（巴黎大学）](https://u-paris.fr/language/en/eiffel-excellence-scholarship-2027/) | 法国 | 博士 | 仅生活费 | ❔ 官网未写明 | 2027–28 学年博士申请校内截止 2026 年 11 月 2 日 23:59（巴黎时间），须由巴黎大学提交，学生不能直接向 Campus France 投递。<br>官网原句：“12/10/2026 to 02/11/2026 23h59 (Paris time) for a PhD application” |
 | 2026-11-02 | [汉堡大学 Quantum Universe 集群岗位页](https://www.qu.uni-hamburg.de/cluster/jobs/research-positions.html) | 德国 | 博士、博后 | 带薪岗位 | ❔ 官网未写明 | BabylAXO 探测器开发博士岗位截止 2026-11-02；另有 ATLAS 组岗位标注 open until filled，页面无教授与博后岗位。<br>官网原句：“PhD position for BabylAXO detector development (2 November 2026)” |
