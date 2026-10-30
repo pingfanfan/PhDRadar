@@ -34,13 +34,16 @@ def crick_terms(raw: str) -> dict[str, str]:
 def crick_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
     _CRICK.clear()
     _CRICK.update(crick_terms(f.get(CRICK_TERMS).text))
+    # 列表每次打开的排序不固定（同一课题会出现在不同页、有的页轮不到），所以按翻页栏的最后一页把每页都读一遍，
+    # 再读第二遍补上第一遍漏掉的；不能在“某页没有新课题”时提前停
     seen: dict[str, str] = {}
-    for page in range(max(max_pages, 20)):  # 每页约 3 个课题，一年二三十个
-        found = re.findall(r'href="(/careers-study/vacancies/([a-z0-9-]+))"', f.get(CRICK_LIST.format(page=page)).text)
-        new = [(path, slug) for path, slug in dict.fromkeys(found) if slug not in seen]
-        if not new:
-            break
-        seen.update({slug: CRICK + path for path, slug in new})
+    first = f.get(CRICK_LIST.format(page=0)).text
+    last = min(max([int(n) for n in re.findall(r"[?&]page=(\d+)", first)] or [0]), 30)
+    for rnd in range(2):
+        for page in range(last + 1):
+            raw = first if rnd == 0 and page == 0 else f.get(CRICK_LIST.format(page=page)).text
+            for path, slug in re.findall(r'href="(/careers-study/vacancies/([a-z0-9-]+))"', raw):
+                seen.setdefault(slug, CRICK + path)
     return list(seen.items())
 
 

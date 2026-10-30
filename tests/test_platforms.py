@@ -64,3 +64,26 @@ def test_crick_detail():
     # 招生总页没读到资助原句 → 不收
     uk._CRICK.clear()
     assert uk.crick_detail("x", "u", CRICK_POS, TODAY) == (None, "未写资助")
+
+
+def test_crick_urls_reads_every_page_twice():
+    # 列表排序不固定：第 1 页与第 0 页重复，不能因此提前停；第二遍能补上第一遍没轮到的课题
+    import platforms_uk as uk
+
+    class R:
+        def __init__(self, text): self.text = text
+
+    calls = {"n": 0}
+    pages = {0: ["a", "b"], 1: ["a", "b"], 2: ["c"]}
+
+    class F:
+        def get(self, url):
+            if "recruitment" in url:
+                return R(CRICK_TERMS)
+            calls["n"] += 1
+            p = int(url.split("page=")[1])
+            slugs = pages[p] + (["d"] if calls["n"] > 3 and p == 1 else [])  # 第二遍时第 1 页才轮到 d
+            pager = "".join(f'<a href="?page={i}">' for i in range(3))
+            return R(pager + "".join(f'<a href="/careers-study/vacancies/{s}">' for s in slugs))
+
+    assert sorted(slug for slug, _ in uk.crick_urls(F(), 1)) == ["a", "b", "c", "d"]
