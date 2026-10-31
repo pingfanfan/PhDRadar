@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 神经/认知 信源（178）
+# 神经/认知 信源（177）
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 9](neuro.md#aggregators) · [各国学术招聘门户与机构职位页 2](neuro.md#national-portals) · [高校旗舰奖学金与资助检索 14](neuro.md#university-schemes) · [结构化博士项目与研究机构 91](neuro.md#doctoral-programs) · [博士后奖学金与项目 27](neuro.md#postdoc-fellowships) · [企业与基金会 Fellowship 8](neuro.md#fellowships) · [学科专属信源 4](neuro.md#discipline) · [科研实习与“曲线入口” 1](neuro.md#pathways) · [个人信源与社交渠道 13](neuro.md#people-channels) · [导师招生帖（社交平台个人发布） 5](neuro.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 3](neuro.md#faculty-aggregators) · [选校与申请辅助工具 1](neuro.md#tools)
+**按分类跳转：** [综合聚合平台 9](neuro.md#aggregators) · [各国学术招聘门户与机构职位页 2](neuro.md#national-portals) · [高校旗舰奖学金与资助检索 14](neuro.md#university-schemes) · [结构化博士项目与研究机构 90](neuro.md#doctoral-programs) · [博士后奖学金与项目 27](neuro.md#postdoc-fellowships) · [企业与基金会 Fellowship 8](neuro.md#fellowships) · [学科专属信源 4](neuro.md#discipline) · [科研实习与“曲线入口” 1](neuro.md#pathways) · [个人信源与社交渠道 13](neuro.md#people-channels) · [导师招生帖（社交平台个人发布） 5](neuro.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 3](neuro.md#faculty-aggregators) · [选校与申请辅助工具 1](neuro.md#tools)
 
 <a id="aggregators"></a>
 
@@ -58,7 +58,7 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（91）
+## 结构化博士项目与研究机构（90）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -69,7 +69,6 @@
 | [CoBeNe 定期统一招生（pooled calls）](https://vds-cobene.univie.ac.at/how-to-apply/cobene-pooled-calls)<br><sub>奥地利 ｜ 神经/认知·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-10-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 9 月 1 日至 10 月 15 日开放，即将截止；细则以官网为准</sub> | ❔ | **要求：** 需硕士或同等学历（学位证明入学前可交）；未报读其他博士项目，未参加过 uni:docs 招生；需两位 CoBeNe PI 共同指导；需较高英语读写能力<br>CoBeNe 每半年一次的统一招生。官网 open-calls 页显示 2026 轮开放 2026-09-01 至 2026-10-15，提供 2 个为期 3 年的 pre-doc 岗位，由两位 CoBeNe PI 共同指导；详细条件以官网为准。 |
 | [Cold Spring Harbor Laboratory 研究生项目（博士）](https://www.cshl.edu/?p=395)<br><sub>美国 ｜ 生物/生命科学·神经/认知·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$50,000/年（页面称当前博士津贴为 $50,000/年；获外部奖学金者为 $55,000 或奖学金金额中较高者）</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>页面写明每年 12 月 1 日截止（所有材料含推荐信），申请费为 $75（USD）；截止后不接受任何材料。</sub> | ❔ | **要求：** 入学前需获得学士学位或同等学历；非英语院校学生须提交 TOEFL 或 IELTS；申请材料含非正式成绩单、个人陈述与 3 封推荐信，不要求 GRE。签证相关要求页面未写明，需向学校确认。<br>CSHL 博士项目由学院承担全部学费与学习费用，并提供津贴、笔记本电脑、医保等；每年一次招生，申请期至 12 月 1 日。页面另写明每位学生加入实验室后有每年 $2,000 的研究费。 |
 | [Cold Spring Harbor Laboratory（CSHL）研究生博士项目](https://www.cshl.edu/wp-content/uploads/2019/10/PHD_and_URP_Program_Flyer.pdf)<br><sub>美国 ｜ 生物/生命科学·神经/认知·化学/材料·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$34,000/年（宣传册原文 currently $34,000 per year，未注明年份）</sub> | —<br><sub>官网称每年 12 月 1 日截止（页面表述不一，以当年官网为准）</sub> | ✅ | **要求：** 需已获学士或同等学位；非英语母语院校需提交 TOEFL 或 IELTS<br>学校承担全部学费并提供医疗保险与研究经费；宣传册写于 2019 年，津贴可能过时，截止一般 12 月 1 日，以当年官网为准。 |
-| [CRG 国际博士项目（巴塞罗那）](https://www.crg.eu/en/node/1229780)<br><sub>西班牙 ｜ 生物/生命科学·计算机·神经/认知·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-11-22**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 轮官网截止 2026-11-22（23:59 CET）；官网页面显示目前关闭、称 2026 年 9 月重开，以官网为准</sub> | ✅ | **要求：** 需生物医学相关本科及硕士，预计 2027 年 9 月前完成学位；须在线申请，最多可选两个课题组<br>页面标题为 2026 轮招生，显示当前已关闭并称 2026 年 9 月重开以接收通知；页面可见的截止日为 2025 年 11 月 30 日。申请表中最多可选两个课题组。 |
 | [DIM C-BRAINS 国际博士项目（巴黎）](https://parisbraininstitute.org/news/dim-c-brains-international-phd-program-opens-its-2026-call-applications)<br><sub>法国 ｜ 神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-02-01**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 2 月 1 日截止；项目资助期至 2026 年，2027 轮未见公布</sub> | ✅ | **要求：** 在法国以外国家攻读（或已获）硕士的国际申请者；神经科学或认知科学方向<br>DIM C-BRAINS 国际博士项目（巴黎脑研究所）：2026 轮提供 7 个三年全额带薪博士合同，面向在法国以外攻读硕士的国际申请者；2025 轮截止为 1 月 30 日，2027 年是否续招未知。 |
 | [Donders 研究所博士项目说明](https://www.ru.nl/en/donders-institute/talent-development/phd-programme)<br><sub>荷兰 ｜ 神经/认知·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>博士职位全年陆续发布，截止日以各 Radboud 职位页为准</sub> | ❔ | 官网称 Donders 博士岗位全年陆续发布，岗位已有资金与导师，各岗位有各自的开始日期；研究生院不负责接收申请，需在 Donders 岗位页投递。 |
 | [Duke Chancellor's Scholarship（国际生生物医学博士）](https://gradschool.duke.edu/financial-support/find-funding/chancellor%E2%80%99s-scholarship/)<br><sub>美国 ｜ 生物/生命科学·医学/公卫·神经/认知·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | — | ✅ | 原 Chancellor's Scholarship 已改为 Dean's Scholarship for International Students，于博士第一学年末授予，资助第二学年的生活津贴、学费、费用与医保；不再是入学即发的前两年资助。 |

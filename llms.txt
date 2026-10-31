@@ -8,7 +8,7 @@ Read the JSON files below rather than scraping the HTML page. All endpoints are 
 - [API directory](https://pingfanfan.github.io/PhDRadar/api/v1/index.json): counts, endpoints, field notes and usage rules
 - [Opportunities open now](https://pingfanfan.github.io/PhDRadar/api/v1/opportunities.json): 4045 items — postings and programmes with deadline, funding, eligibility for mainland Chinese applicants, evidence quote, and requirement fields quoted from the posting
 - [Daily changes](https://pingfanfan.github.io/PhDRadar/api/v1/changes.json): ids of opportunities added and removed each day over the last 30 days — fetch this first and only re-download when something changed
-- [Verified sources](https://pingfanfan.github.io/PhDRadar/api/v1/sources.json): 3967 scholarship schemes, doctoral programmes and job boards
+- [Verified sources](https://pingfanfan.github.io/PhDRadar/api/v1/sources.json): 3966 scholarship schemes, doctoral programmes and job boards
 - [JSON Schema](https://pingfanfan.github.io/PhDRadar/api/v1/schema.json) and [OpenAPI](https://pingfanfan.github.io/PhDRadar/api/openapi.json)
 - [RSS feeds](https://pingfanfan.github.io/PhDRadar/feeds/): new opportunities by discipline and region
 

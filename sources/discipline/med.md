@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 医学/公卫 信源（425）
+# 医学/公卫 信源（424）
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 15](med.md#aggregators) · [各国学术招聘门户与机构职位页 10](med.md#national-portals) · [政府与国家级奖学金 5](med.md#gov-scholarships) · [高校旗舰奖学金与资助检索 83](med.md#university-schemes) · [结构化博士项目与研究机构 209](med.md#doctoral-programs) · [博士后奖学金与项目 61](med.md#postdoc-fellowships) · [企业与基金会 Fellowship 22](med.md#fellowships) · [学科专属信源 6](med.md#discipline) · [科研实习与“曲线入口” 1](med.md#pathways) · [个人信源与社交渠道 5](med.md#people-channels) · [导师招生帖（社交平台个人发布） 7](med.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 1](med.md#faculty-aggregators)
+**按分类跳转：** [综合聚合平台 15](med.md#aggregators) · [各国学术招聘门户与机构职位页 10](med.md#national-portals) · [政府与国家级奖学金 5](med.md#gov-scholarships) · [高校旗舰奖学金与资助检索 83](med.md#university-schemes) · [结构化博士项目与研究机构 208](med.md#doctoral-programs) · [博士后奖学金与项目 61](med.md#postdoc-fellowships) · [企业与基金会 Fellowship 22](med.md#fellowships) · [学科专属信源 6](med.md#discipline) · [科研实习与“曲线入口” 1](med.md#pathways) · [个人信源与社交渠道 5](med.md#people-channels) · [导师招生帖（社交平台个人发布） 7](med.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 1](med.md#faculty-aggregators)
 
 <a id="aggregators"></a>
 
@@ -153,7 +153,7 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（209）
+## 结构化博士项目与研究机构（208）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -168,7 +168,6 @@
 | [CNIO 博士项目（马德里国家癌症研究中心）](https://www.cnio.es/en/education-and-career-development/career-development-programmes/phd-programme/)<br><sub>西班牙 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>2026 批次已截止；聚合站称 2027 轮截止约 2 月 28 日，未在 cnio.es 核实</sub> | ❔ | **要求：** 生物医学相关学位；需突出的学业成绩与科研经历<br>CNIO 博士项目：主要资助渠道为 la Caixa 基金会 Severo Ochoa 国际博士奖学金，另有课题组招聘。2027 轮公告未能核实，需先查官网。 |
 | [CNRS 健康跨学科博士合同](https://www.insb.cnrs.fr/sites/institut_insb/files/tender/2025-12/Sante2026.1_Theses_Cadrage_CNRS%20bio.pdf)<br><sub>法国 ｜ 生物/生命科学·医学/公卫·社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-01-05**<br><sub>⏸ 本轮已截止</sub><br><sub>2026.1 轮 2026 年 1 月 5 日截止已结束；2026.2 未检索到，以 INSB 官网为准</sub> | ❔ | **要求：** 由 CNRS 单位内导师申报；近 4 年获得过 CNRS 博士合同者不可申请<br>页面为 CNRS Biologie 2026 年博士合同 AMI，提案须于 2026 年 1 月 5 日 18 点前提交；博士合同受雇于 CNRS 且须在法国执行，外国合作方不能共同指导。页面未给国籍条件，也未见下一轮公告。 |
 | [Cornell 兽医学院 BBS 博士项目 · 资助说明](https://www.vet.cornell.edu/education/biomedical-biological-sciences-bbs-phd-program/current-students/funding)<br><sub>美国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>最低 $47,548/年（2025-26）；官网另页写 $48,912/年（疑为 2026-27）</sub> | **2026-12-01**<br><sub>🟢 开放申请</sub><br><sub>每年 12 月 1 日截止</sub> | ❔ | **要求：** 国际生资格页面未见明确说明，请查招生 FAQ<br>官方页写明录取学生全程资助（学费、医保、津贴），申请即视为申请资助。适合动物/比较医学方向，先到 FAQ 核对国际生要求。 |
-| [CRG 国际博士项目（巴塞罗那）](https://www.crg.eu/en/node/1229780)<br><sub>西班牙 ｜ 生物/生命科学·计算机·神经/认知·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | **2026-11-22**<br><sub>⏸ 本轮已截止</sub><br><sub>2027 轮官网截止 2026-11-22（23:59 CET）；官网页面显示目前关闭、称 2026 年 9 月重开，以官网为准</sub> | ✅ | **要求：** 需生物医学相关本科及硕士，预计 2027 年 9 月前完成学位；须在线申请，最多可选两个课题组<br>页面标题为 2026 轮招生，显示当前已关闭并称 2026 年 9 月重开以接收通知；页面可见的截止日为 2025 年 11 月 30 日。申请表中最多可选两个课题组。 |
 | [Crick 临床医生博士奖学金](https://www.crick.ac.uk/careers-and-study/clinicians)<br><sub>英国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | **2026-11-04**<br><sub>🟢 开放申请</sub><br><sub>截止 2026-11-04（以官网为准）。</sub> | ❔ | **要求：** 需 GMC 注册或同等医学执照。<br>面向临床医生的三年制博士奖学金，摘要称截止 2026-11-04、2027 年 9 月入学；大陆医学背景申请者需核实是否满足 GMC 注册或等效执照要求。 |
 | [CRUK 苏格兰研究中心（Edinburgh/Glasgow）博士奖学金](https://crukscotlandcentre.ac.uk/training/phd-studentships)<br><sub>英国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£22,894/年（免税，自 2027 年 10 月 1 日起）</sub> | 未公布<br><sub>📋 持续更新</sub><br><sub>页面列有 2026 年 11 月 30 日截止日，该日期位于 Black Leaders in Cancer 项目的申请步骤中；通用岗位截止以各岗位广告为准</sub> | ✅ | **要求：** 需至少上二等（2:1）的生命科学相关学位（或同等学历）并满足英语要求；另需满足所托大学的博士入学要求<br>CRUK 苏格兰研究中心提供全额资助的 4 年博士位，含每年 £22,894 免税津贴、学费与研究经费。页面另列出一个 2027 年 10 月入学的 Black Leaders in Cancer 名额，面向自我认定为黑人血统的申请者。 |
 | [DARA (Danish Advanced Research Academy) 博士奖学金 · 诺和诺德基金会资助](https://www.daracademy.dk/fellowships)<br><sub>丹麦 ｜ 工程·物理/天文·化学/材料·生物/生命科学·医学/公卫·计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>🔜 即将开放</sub><br><sub>公开招募每年两轮（约 2 月与约 8 月截止）；上一轮 2025/26 冬季轮截止 2026-02-20，下一轮以官网为准</sub> | ❔ | **要求：** 需符合丹麦 4+4 或 5+3 博士入学模式，并自行联系丹麦高校教授作为主导师；DARA 不负责匹配导师<br>诺和诺德基金会资助的国家级博士学院，面向技术、自然、医学等学科。各轮资助比例不同（有的写全额，有的写覆盖 80%），以当轮页面为准。 |
