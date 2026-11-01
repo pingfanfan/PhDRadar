@@ -87,3 +87,20 @@ def test_crick_urls_reads_every_page_twice():
             return R(pager + "".join(f'<a href="/careers-study/vacancies/{s}">' for s in slugs))
 
     assert sorted(slug for slug, _ in uk.crick_urls(F(), 1)) == ["a", "b", "c", "d"]
+
+
+def test_egu_urls_stops_at_missing_page():
+    # 总数正好 100 条：第 1、2 页各 50 条，第 3 页 404 —— 保留前两页，不整份丢掉
+    import platforms_boards as b
+
+    class R:
+        def __init__(self, text): self.text = text
+
+    class F:
+        def get(self, url):
+            page = int(url.split("page=")[1])
+            if page > 2:
+                raise RuntimeError("404 Client Error")
+            return R("".join(f'<a href="/jobs/{page * 100 + i}/phd-position-{i}/">' for i in range(50)))
+
+    assert len(b.egu_urls(F(), 10)) == 100

@@ -262,7 +262,13 @@ EGU = "https://www.egu.eu"
 def egu_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
     seen: dict[str, str] = {}
     for page in range(1, max_pages + 1):
-        found = re.findall(r'href="(/jobs/(\d+)/([a-z0-9-]+)/)"', f.get(f"{EGU}/jobs/?limit=50&page={page}").text)
+        try:
+            raw = f.get(f"{EGU}/jobs/?limit=50&page={page}").text
+        except Exception:  # noqa: BLE001 总数正好是 50 的倍数时，下一页返回 404：停在已拿到的页
+            if page == 1:
+                raise
+            break
+        found = re.findall(r'href="(/jobs/(\d+)/([a-z0-9-]+)/)"', raw)
         for path, jid, slug in found:
             if jid not in seen and re.search(r"ph-?d|doctoral|doctorate|post-?doc|studentship", slug):
                 seen[jid] = EGU + path
