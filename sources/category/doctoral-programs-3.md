@@ -247,7 +247,7 @@
 | [大连理工大学化工学院 2026 年春季博士拟招生导师名单](https://gs.dlut.edu.cn/yjszs/document/450-nzsxx.pdf)<br><sub>中国内地 ｜ 工程·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | — | ✅ | 列出各导师博士名额,涵盖化学工程与技术、储能等方向,可据此联系导师。名单不代表全额奖学金。 |
 | [清华大学研究生招生 · 联合培养/双博士学位项目总页](https://www.tsinghua.edu.cn/en/Admissions/Graduate1/Joint_Programs.htm)<br><sub>中国内地·全球 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | 各项目不同<br><sub>📋 持续更新</sub> | ❔ | 清华研究生招生官网的联合培养项目总页。两处官网页面数字不一；所见多为硕士和 MBA 项目，博士层级完整清单未找到。博士项目的资格、申请与资助以各项目页为准。 |
 | [西交利物浦–西安交大–利物浦大学联合博士项目](https://www.xjtlu.edu.cn/en/admissions/doctoral/xjtlu-xjtu-uol-joint-doctoral-programme)<br><sub>中国内地·英国 ｜ 全学科</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>🔄 随时可申</sub><br><sub>项目按导师项目代码全年接受申请；本联合项目的费用与资助未核实，以官网为准</sub> | ❔ | **要求：** 须先获拟导师同意并选择对应项目代码；英国学位要求一等或二等一荣誉学位或 Merit 硕士<br>西浦–西交大–利物浦联合博士，两校注册、授予利物浦大学博士学位，全日制通常 3–4 年。XJTLU 2026 博士手册列出普通博士奖学金：全额为 3 年学费减免（总值 RMB 297,000）加每月 RMB 5,000 生活费；该手册未专门说明联合项目是否适用，以官网为准。 |
-| [西交利物浦大学（XJTLU）博士招生手册 2026](https://www.xjtlu.edu.cn/wp-content/uploads/2026/01/XJTLU-Doctoral-Research-Prospectus-2026-EN.pdf)<br><sub>中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>全额档 RMB 5,000/月（3 年）</sub> | — | ✅ | **要求：** 需获 XJTLU 博士录取；全额档需担任助教或助研<br>手册列出全额奖学金（免学费三年并月补助）及部分资助选项，多数对所有国籍开放；博士申请全年接收，需先找到 XJTLU 导师。 |
+| [西交利物浦大学（XJTLU）博士奖学金与在招资助课题](https://www.xjtlu.edu.cn/en/admissions/doctoral/postgraduate-research-scholarships)<br><sub>中国内地 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定<br><sub>全额档：三年免学费（总值 RMB 297,000）+ 每月 RMB 5,000 生活费（三年）</sub> | 滚动<br><sub>🔄 随时可申</sub><br><sub>官网列出的资助课题“招满为止”，每年 3、6、9、12 月均可入学。</sub> | ✅ | **要求：** 全日制；全额奖学金获得者须担任助教或助研；可直接申请官网列出的资助课题，或先联系导师。<br>奖学金分三档：全额（免学费 + 月生活费 RMB 5,000）、只免学费、最多减免 50% 学费。官网按学院列出已有经费的在招博士课题（课题代码、题目、导师），标星号的为与企业合作课题。 |
 
 <a id="r-cz"></a>
 
