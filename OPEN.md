@@ -1,10 +1,10 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-10-31。共 **435** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-11-01。共 **421** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
-- [30 天内截止](#30-天内截止)（126）
-- [之后截止](#之后截止)（194）
+- [30 天内截止](#30-天内截止)（180）
+- [之后截止](#之后截止)（126）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（65）
 - [即将开放](#即将开放)（50）
 
@@ -12,20 +12,6 @@
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-31 | [英国药理学会（BPS）博士资助计划](https://www.bps.ac.uk/news/article/phd-funding-programme/) | 英国 | 博士 | 仅生活费 | ❔ 官网未写明 | 页面称 2027 年奖学金申请截止为 2026 年 10 月 31 日，AJ Clark 与 Sir David Jack 共用一次申请；页面称国际学生可申请，系主任须说明国际学费如何覆盖。<br>官网原句：“The deadline to apply for 2027 awards is 31 October 2026” |
-| 2026-10-31 | [ELLIS PhD & Postdoc Program 2026 中央招生（2027 入学）](https://ellis.eu/news/ellis-phd-program-call-for-applications-2026) | 欧盟/欧洲 | 博士 | 视项目而定 | ❔ 官网未写明 | 门户 2026-10-01 开放，截止 2026-10-31 23:59 AoE，面向 2027 年入学；需先注册门户并找到愿意接收的导师，ELLIS 本身不发工资。<br>官网原句：“Apply by 31 October 2026 to join the ELLIS PhD Program in 2027” |
-| 2026-10-31 | [ELLIS PhD Program](https://ellis.eu/research/phd-postdoc) | 欧盟/欧洲 | 博士 | 官网未写明 | ✅ 可申 | ELLIS PhD 项目 2027 年入学，申请截止 2026-10-31；通过一次集中申请可投递 50-100 个机构。<br>官网原句：“Apply by 31 October 2026 to join the ELLIS PhD Program in 2027” |
-| 2026-10-31 | [柏林自由大学博士研究学院 DRS 现行项目目录](https://www.fu-berlin.de/sites/drs/doctorate/structured-or-individual/drs_programs/current-cfa-drs-programs.html) | 德国 | 博士 | 视项目而定 | ❔ 官网未写明 | 页面列出 2027 年 10 月入学的 BGSMCS 申请截止为 2026-10-31 12:00（CET），其他项目截止在 11 月至 12 月初。<br>官网原句：“31 October 2026 at 12:00 noon CET” |
-| 2026-10-31 | [爱沙尼亚政府奖学金（博士生生活补助，Harno）](https://www.harno.ee/en/scholarships-and-grants/scholarships-studying-and-working-estonia/scholarships-international) | 爱沙尼亚 | 博士 | 半奖 / 部分资助 | ❔ 官网未写明 | 2026/27 学年学位与交换学习类奖学金申请期至 2026 年 10 月 31 日（爱沙尼亚时间 23:59）；须附爱沙尼亚高校录取确认函；可申请国籍名单为链接内容，正文未抓取，需核实中国大陆是否在列。<br>官网原句：“until October 31st 2026 (23:59, Estonian time)” |
-| 2026-10-31 | [IARC 访问学者与博士后机会页（WHO）](https://www.iarc.who.int/visiting-scientist-and-postdoctoral-opportunities/) | 法国 | 博后 | 视项目而定 | ❔ 官网未写明 | 页面列出 WHO 肿瘤分类 Senior Visiting Scientist（现场）岗位，截止 2026 年 10 月 31 日；资格要求页面正文未写明，以 PDF 公告为准。<br>官网原句：“Deadline: 31 October 2026” |
-| 2026-10-31 | [IMPRS-TP 马普国际研究生院（申请页）](https://imprs-tp.mpg.de/2879/application) | 德国 | 博士 | 官网未写明 | ❔ 官网未写明 | 2027 入学轮申请窗口 2026 年 8 月 15 日起开放，申请截止 10 月 31 日 24:00 CET，推荐信截止 11 月 7 日<br>官网原句：“Application deadline: October 31st 2026” |
-| 2026-10-31 | [拉夫堡大学体育、运动与健康科学院资助博士项目](https://www.lboro.ac.uk/schools/sport-exercise-health-sciences/postgraduate-research/research-opportunities/) | 英国 | 博士 | 视项目而定 | ❔ 官网未写明 | 页面列出的 Funded 博士项目（2027 年 2 月入学）截止 2026-10-31；国际生是否可申请需进入项目页确认。自筹项目截止为 2026-12-18 或 2027-04-01。<br>官网原句：“Application deadline: 31 October 2026” |
-| 2026-10-31 | [马普 AI 网络博士招生（PhD Call 2026，与 ELLIS 联动）](https://ai.mpg.de/how-to-join-phd) | 德国、欧盟/欧洲 | 博士 | 带薪岗位 | ❔ 官网未写明 | ELLIS 与 MP-AIX 联合申请门户已开放，截止 2026-10-31 23:59 AoE；正文未写国际生国籍规定。<br>官网原句：“The application portal is now open and will close on 31 October 2026 at 23:59 AoE.” |
-| 2026-10-31 | [MSCA 博士网络 FlexCAT：15 个博士岗位（β-catenin / 无序蛋白与癌症药物发现，多国）](https://euraxess.ec.europa.eu/worldwide/india/news/europe-15-phd-positions-available-msca-flexcat-doctoral-network) | 欧盟/欧洲、奥地利、德国 | 博士 | 带薪岗位 | ❔ 官网未写明 | 正文写明 15 个博士岗位开放申请，截止 2026-10-31 23:59（维也纳时间），各岗位要求以单个岗位描述为准。<br>官网原句：“Application deadline: 31 October 2026, 23:59 (Europe/Vienna)” |
-| 2026-10-31 | [NanoLund（隆德大学纳米科学中心）职位页](https://www.nano.lu.se/about-nanolund/career-opportunities) | 瑞典 | 博士、博后 | 带薪岗位 | ✅ 可申 | 页面列出博后岗位（AI-based design of de novo protein biofilm systems）可于 2026-10-31 前在线申请；另有 2026-10-21 截止岗位，2026-10-16 岗位已过。<br>官网原句：“apply online before 31 October 2026” |
-| 2026-10-31 | [以色列理工 THHI Rebecca Dratofsky 博士后奖学金](https://thhi.net.technion.ac.il/files/2026/08/Call-for-applications-shaffer-Rebecca-Dratofsky-2026.pdf) | 以色列 | 博后 | 半奖 / 部分资助 | ❔ 官网未写明 | 申请截止 2026 年 10 月 31 日，邮件提交至 thhi@technion.ac.il；须在获博士学位 5 年内，国籍限制未在正文确认，正文偏再生医学方向。<br>官网原句：“Applications should be submitted by October 31, 2026 by email to thhi@technion.ac.il” |
-| 2026-10-31 | [TU Delft QuTech 半导体量子计算博士岗位（2026）](https://careers.tudelft.nl/job/Delft-PhD-Opportunity-in-Semiconductor-Quantum-Computing-2628-CD/1373054957/) | 荷兰 | 博士 | 带薪岗位 | ❔ 官网未写明 | 正文写明须于 2026-10-31 前通过在线申请，岗位要求物理、应用物理或纳米电子学硕士。<br>官网原句：“Please apply no later than 31 October 2026” |
-| 2026-10-31 | [WEHI 国际博士奖学金计划](https://wehi.edu.au/education/phd/international-phd-scholar-initiative/) | 澳大利亚 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 2027 年入学的国际博士奖学金申请截止 2026 年 10 月 31 日；仅限非澳洲大学获得学位的国际生，需提交推荐信与成绩单并参加视频面试。<br>官网原句：“Applications close: Saturday 31 October 2026 (11:59pm AEDT)” |
 | 2026-11-01 | [奥胡斯大学数学系博士岗位（概率论与分析，2027 年 2 月起）](https://phd.nat.au.dk/for-applicants/open-calls/november-2026/phd-position-in-probability-theory-and-analysis) | 丹麦 | 博士 | 带薪岗位 | ❔ 官网未写明 | 2026 年 11 月征集轮截止 11 月 1 日 23:59 CET，入职为 2027 年 2 月或之后；页面未写国籍限制，资格细则以申请指南为准。<br>官网原句：“Choose November 2026 Call with deadline 1 November 2026 at 23:59 CET.” |
 | 2026-11-01 | [奥胡斯大学人文学院（Arts）博士公开征集](https://phd.arts.au.dk/applicants/open-and-specific-calls/) | 丹麦 | 博士 | 官网未写明 | ✅ 可申 | PAY4PLAY 等 5+3 征集截止 2026 年 11 月 1 日；2026 年 10 月的公开征集（仅 4+4）已于 10 月 1 日截止。<br>官网原句：“1 November 2026 at 23.59 Danish time (CET/CEST)” |
 | 2026-11-01 | [奥胡斯大学数学系空缺岗位页](https://math.au.dk/en/about/vacancies/phd) | 丹麦 | 博士、博后 | 带薪岗位 | ❔ 官网未写明 | 页面列出 2 个博士岗位（最早 2027 年 2 月 1 日起始），申请截止 2026 年 11 月 1 日 23:59 CET，具体以申请页为准。<br>官网原句：“1 November 2026 at 23:59 CET” |
@@ -138,11 +124,6 @@
 | 2026-11-30 | [卢森堡大学 YADIAS 高等研究院博士研究员（2026 征集）](https://yadias.uni.lu/?p=457) | 卢森堡 | 博士 | 带薪岗位 | ✅ 可申 | 页面：2026-09-01 开放申请，2026-11-30 14:00（CET）截止；需先确定两名导师，并提供可入读卢森堡博士的硕士学位证明。<br>官网原句：“Proposal submission deadline: 30 November 2026 @ 2pm CET.” |
 | 2026-11-30 | [La Rochelle Université · 博士合同 Allocation doctorale 2027 征集](https://www.univ-larochelle.fr/wp-content/uploads/AAP_AllocDoc_2027.pdf) | 法国 | 博士 | 带薪岗位 | ❔ 官网未写明 | 拉罗谢尔大学 2027 批次博士合同征集，截止 2026-11-30；由课题负责人经实验室提交，学生需先与导师确定课题，国际生资格正文未写。<br>官网原句：“Date de clôture : 30 novembre 2026” |
 | 2026-11-30 | [卢森堡大学 YADIAS 博士研究员岗位（2026 轮）](https://yadias.uni.lu/call-information/) | 卢森堡 | 博士 | 带薪岗位 | ✅ 可申 | 2026 轮提案截止 2026 年 11 月 30 日 14:00（CET）；须持认可硕士学位且尚未取得博士学位，任何国籍均可申请。<br>官网原句：“Proposal submission deadline: 30 November 2026 @ 2pm CET.” |
-
-## 之后截止
-
-| 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
-| --- | --- | --- | --- | --- | --- | --- |
 | 2026-12-01 | [曼彻斯特 Alliance 商学院 PhD（2027 入学）](https://www.manchester.ac.uk/study/postgraduate-research/programmes/list/19379/phd-business-and-management/) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 大学内部竞争（含 AMBS 奖学金）截止 2026-12-01；自筹或已有外部资助者的 2027 年 9 月入学申请截止 2027-06-30；需英国一等或 2:1 或同等学历。<br>官网原句：“1 December 2026.” |
 | 2026-12-01 | [哈佛肯尼迪学院 Belfer 中心 国际安全项目（ISP）研究员](https://www.belfercenter.org/fellowship/international-security-program-fellowship) | 美国 | 博士、博后 | 半奖 / 部分资助 | ❔ 官网未写明 | 2027–28 学年申请已于 2026 年 10 月 1 日开放，12 月 1 日截止；页面未写明国际申请人资格。<br>官网原句：“The fellowship application period for the 2027–2028 academic year will open Thursday, October 1, 2026 and close Tuesday, December 1, 2026.” |
 | 2026-12-01 | [UC Berkeley 能源与资源集团（ERG）博士招生](https://erg.berkeley.edu/graduate-programs/graduate-admissions) | 美国 | 博士 | 官网未写明 | ❔ 官网未写明 | 页面称 2027 年秋季入学的 ERG 申请门户已开放，截止后不接受申请（除非导师证明特殊情况）；资助方案可能与录取通知分开提供。<br>官网原句：“for fall 2027 admissions is open now, and will close on December 1, 2026.” |
@@ -211,6 +192,11 @@
 | 2026-12-01 | [香港理工大学 HKPFS 校内申请入口（2027/28 入学）](https://www.polyu.edu.hk/gs/hkpfs/) | 中国香港 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 2027/28 秋季入学；需先向 RGC 取得 HKPFS 参考号，再于 2026-12-01 HKT 23:59 前提交理大全日制博士申请。<br>官网原句：“RGC Application Deadline - 1 December 2026, HKT 12:00 GMT +8 hours” |
 | 2026-12-01 | [SEDarc (ESRC) PhD 奖学金 · 萨塞克斯大学 · 2027 入学](https://www.sussex.ac.uk/study/fees-funding/phd-funding/view/1962-SEDarc-(ESRC)-PhD-scholarships-for-research-in-the-Social-Sciences) | 英国 | 博士 | 半奖 / 部分资助 | 🟡 部分可申 | SEDarc 2027 入学，校内截止 2026-12-01 16:00；国际生名额约占 30%，奖学金不含搬迁、签证和 NHS 附加费<br>官网原句：“1 December 2026 16:00” |
 | 2026-12-01 | [斯坦福 APARC Shorenstein 当代亚洲博士后](https://fsi.stanford.edu/node/39687) | 美国 | 博后 | 仅生活费 | ✅ 可申 | 2027–28 Shorenstein 博士后（2027 年秋季入职）截止 2026-12-01；页面未写国籍限制与津贴金额。<br>官网原句：“December 1, 2026” |
+
+## 之后截止
+
+| 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
+| --- | --- | --- | --- | --- | --- | --- |
 | 2026-12-02 | [牛津工程科学系 Control and Engineering Biology 博士奖学金（2027 入学）](https://eng.ox.ac.uk/study/research-studentships/research-studentship-in-control-and-engineering-biology) | 英国 | 博士 | 视项目而定 | ❔ 官网未写明 | 申请截止为 2026 年 12 月 2 日中午；正文写明奖学金仅明确面向英国学生，国际生仅称可能灵活安排，需先联系导师确认。<br>官网原句：“noon on 2nd December 2026” |
 | 2026-12-03 | [捷克理工大学 PICTUS MSCA COFUND 博士项目](https://international.cvut.cz/jobs-at-ctu/pictus-phd-fellowship-programme/) | 捷克 | 博士 | 带薪岗位 | ❔ 官网未写明 | 第二轮征集，截止 2026-12-03，计划招 8 名学生，签 48 个月全职合同；需在截止前取得硕士学位，截止前三年内在捷克居住或工作超过 12 个月者不符合。<br>官网原句：“deadline: December 3, 2026” |
 | 2026-12-03 | [LSE 性别研究系博士](https://www.lse.ac.uk/gender/study/phd) | 英国 | 博士 | 视项目而定 | 🟡 部分可申 | 页面写明 2027/2028 入学的 PhD 最终申请截止为 2026-12-03（含全部材料），申请现已开放；资助由申请者自动考虑，无需单独申请。<br>官网原句：“Applications are now open.” |
