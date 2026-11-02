@@ -1,30 +1,30 @@
 # 信源可用性报告
 
-生成时间：2026-10-29T10:21:05+00:00（由 `scripts/probe_sources.py` 在 GitHub Actions 中真实访问生成）
+生成时间：2026-11-02T11:34:01+00:00（由 `scripts/probe_sources.py` 在 GitHub Actions 中真实访问生成）
 
-- 链接：4007 个，✅ 可访问 3784，⚠️ 被拦截/需登录 189，❌ 失效 34
-- 抓取器：16 个，能拿到岗位 15 个
+- 链接：4005 个，✅ 可访问 3796，⚠️ 被拦截/需登录 171，❌ 失效 38
+- 抓取器：16 个，能拿到岗位 16 个
 
 ## 抓取器
 
 | 信源 | 状态 | 样例岗位 | 耗时 | 错误 |
 | --- | :-: | --- | --- | --- |
-| `academictransfer` | ✅ 5 | PostDoc position on Wafer Bonding Physics for 3D Chip Integration | 110.9s |  |
-| `agu-careers` | ✅ 5 | Florida International University: PhD Position in Hurricane Risk | 2.0s |  |
-| `bluesky-phd-position` | ✅ 5 | 🎓 PhD position: DHX29 RNA Helicase Regulatory Interfaces and Structural Mechanis | 2.3s |  |
-| `chemistry-world-jobs` | ✅ 1 | Los Alamos National Laboratory: Postdoctoral Research Associate in Chemical Desi | 1.8s |  |
-| `cstheory-jobs` | ✅ 4 | Ph.D. Positions in Theoretical Computer Science at Boston College (apply by Dece | 1.3s |  |
-| `daad-phdgermany` | ✅ 5 | PhD Student Position: New Concepts and Materials in Catalysis | 3.5s |  |
-| `euraxess` | ❌  |  | 1.2s | HTTPError: 403 Client Error: Forbidden for url: https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=offer_type%3Ajob_offer&page=0 |
-| `inspire-jobs` | ✅ 5 | tSPECT - PhD position on neutron lifetime experiment | 2.9s |  |
-| `jobbnorge` | ✅ 5 | PhD Candidate in Genetic Epidemiology – Genomics and Industry Collaboration | 2.7s |  |
-| `jobrxiv` | ✅ 5 | Post-Doc for bioinformatics and mult-omics analysis in Biomedical research | 4.0s |  |
-| `jobs-ac-uk` | ✅ 5 | PhD in Late Antique, Medieval and Early Modern Studies | 3.1s |  |
-| `physics-today-jobs` | ✅ 5 | International Max Planck Research School for Chemistry and Physics of Quantum Ma | 2.0s |  |
-| `science-careers` | ✅ 5 | International Max Planck Research School for Ultrafast Imaging and Structural Dy | 2.0s |  |
-| `sfn-neurojobs` | ✅ 5 | Oregon Health and Science University: Postdoctoral Fellow | 1.6s |  |
-| `the-unijobs` | ✅ 5 | KINGS COLLEGE LONDON: Phd Studentship, Analytics, Environmental & Forensics | 1.7s |  |
-| `varbi` | ✅ 5 | Doctoral student in Numerical simulations of turbulent heat transfer over rough  | 19.4s |  |
+| `academictransfer` | ✅ 5 | PostDoc position on Wafer Bonding Physics for 3D Chip Integration | 116.0s |  |
+| `agu-careers` | ✅ 5 | Auburn University: PhD Student | 1.9s |  |
+| `bluesky-phd-position` | ✅ 5 | A PhD position focusing on management and conservation methods of critically end | 2.4s |  |
+| `chemistry-world-jobs` | ✅ 1 | Los Alamos National Laboratory: Postdoctoral Research Associate in Chemical Desi | 1.6s |  |
+| `cstheory-jobs` | ✅ 5 | Postdoc at University of Colorado Boulder (apply by December 15, 2026) | 1.0s |  |
+| `daad-phdgermany` | ✅ 5 | Doctoral Researcher (m/f/d) in the field of Software Engineering for Dependable  | 3.3s |  |
+| `euraxess` | ✅ 5 | ASSISTANT PROFESSOR | 2.4s |  |
+| `inspire-jobs` | ✅ 5 | PhD position: Exclusive π0 muoproduction cross section at COMPASS (CERN) | 2.9s |  |
+| `jobbnorge` | ✅ 5 | PhD Candidate on Impacts of Interdependent Multi-Hazards on Transport Systems | 2.3s |  |
+| `jobrxiv` | ✅ 5 | Postdoctoral studies in human uterine NK cell biology (scholarship) | 7.4s |  |
+| `jobs-ac-uk` | ✅ 5 | PhD Studentship - From Fan to Father: Exploring the Role of Football Fan Communi | 3.0s |  |
+| `physics-today-jobs` | ✅ 5 | International Max Planck Research School for Chemistry and Physics of Quantum Ma | 1.6s |  |
+| `science-careers` | ✅ 5 | Max Planck Institute for Multidisciplinary Sciences: PhD Student or Postdoc (f/m | 1.4s |  |
+| `sfn-neurojobs` | ✅ 5 | Institute of Science and Technology Austria: Fully Funded PhD Positions in Neuro | 1.8s |  |
+| `the-unijobs` | ✅ 5 | KINGS COLLEGE LONDON: Phd Studentship, Analytics, Environmental & Forensics | 1.3s |  |
+| `varbi` | ✅ 5 | Doctoral position in medical radiation physics | 15.9s |  |
 
 ## 需要关注的链接
 
@@ -35,66 +35,71 @@
 | `abg` ABG（Association Bernard Gregory） | ❌ | HTTP 404 → https://abg.asso.fr/en/candidatOffres |
 | `auckland-csc-phd` 奥克兰大学–CSC 博士奖学金 | ❌ | HTTP 404 |
 | `bauhaus-weimar-doctorate` 魏玛包豪斯大学艺术与设计博士 | ❌ | HTTP 404 → https://www.uni-weimar.de/en/university/research-and-art/academic-careers/doctorate/doctoral-programmes |
+| `cispa-jobs-portal-phd-postdoc` CISPA 亥姆霍兹信息安全中心招聘门户（博士与博后岗位列表） | ❌ | HTTP 404 → https://career.cispa.de/jobs/jobs/detail/phd-students-1 |
+| `cispa-postdoc-general` CISPA 博士后岗位（通用页） | ❌ | HTTP 404 → https://career.cispa.de/jobs/jobs/detail/3 |
+| `cita-postdoc-2026` CITA 理论天体物理博后（多伦多大学，2027 入职） | ❌ | HTTP 404 |
+| `cobene-pooled-calls` CoBeNe 定期统一招生（pooled calls） | ❌ | HTTP 404 |
+| `cobene-vienna-how-to-apply` 维也纳 CoBeNe 认知与行为神经科学博士学院 申请入口 | ❌ | HTTP 404 |
 | `courtauld-phd-funding-scholarships` 考陶德艺术学院博士奖学金与资助 | ❌ | HTTP 404 |
-| `csc-paris-cite-doctoral` 巴黎大学（Université Paris Cité）CSC 博士奖学金 | ❌ | HTTP 404 |
 | `data61-phd-rmit` RMIT Data61 博士奖学金 | ❌ | HTTP 404 → https://www.rmit.edu.au/scholarships/research/phd-data61 |
 | `eco-n-leipzig-graduiertenkolleg` ECO-N 莱比锡博士培训组（Graduiertenkolleg） | ❌ | HTTP 404 |
 | `edstep-phd-financing` 格勒诺布尔阿尔卑斯大学 EDSTEP 博士经费类型说明（合同博士 / CIFRE） | ❌ | HTTP 404 |
-| `eiffel-u-paris-2027` 法国 Eiffel 卓越奖学金 2027 校内申请说明（巴黎大学） | ❌ | HTTP 404 |
+| `ess-ipp-rehabilitation-doctoral-programme` 波尔图理工学院健康学院（ESS-IPP）康复科学博士项目 | ❌ | DNS 解析失败 |
 | `eth-ai-center-doctoral-fellowships` ETH AI Center Doctoral Fellowships | ❌ | HTTP 404 |
 | `fr-lille-engsys-thesis-funding-2026` 里尔大学 ENGSYS 博士资助征集汇总（2026） | ❌ | HTTP 404 → https://egengsys.univ-lille.fr/en/welcome/news/news-detail/campagnes-de-financements-de-these-2026 |
-| `fr-paris-cite-csc-appel-2026` 巴黎城市大学 · CSC 博士征集 2026（PDF） | ❌ | HTTP 404 |
 | `fu-berlin-csc-phd-program-2026` 柏林自由大学（FU Berlin）CSC 博士合作项目 2026 岗位说明 | ❌ | HTTP 404 |
-| `hku-cs-how-to-apply-2027` HKU 计算机科学系 2027 年研究型博士申请指南 | ❌ | HTTP 404 → https://www.cs.hku.hk/programmes/research-based/how-to-apply-2027 |
-| `hku-cs-phd-admissions` HKU 计算与数据科学学院 PhD/MPhil 招生页 | ❌ | HTTP 404 → https://www.cs.hku.hk/programmes/research-based/mphil-phd-admission |
+| `hkustgz-2027-28-application-guide` HKUST(GZ) 2027–28 学年博士申请指南 | ❌ | HTTP 404 |
 | `igbmc-thesis-internships` IGBMC 博士课题与实习页 | ❌ | HTTP 404 |
 | `imprs-qd-heidelberg-application` IMPRS-QD 海德堡量子动力学与凝聚态国际研究生院（申请页） | ❌ | HTTP 404 |
 | `kaist-mlv-openings` KAIST 机器学习与视觉实验室（MLV）招聘页 | ❌ | HTTP 404 |
 | `kavli-institute-cosmology-fellowship` 剑桥 Kavli 宇宙学研究所研究员（Kavli Institute Fellowship） | ❌ | HTTP 404 |
 | `kcl-imaging-cdt` KCL EPSRC 成像博士培训中心（Imaging CDT）博士 | ❌ | HTTP 404 |
-| `khk-aachen-cultures-of-research` 亚琛工大 Käte Hamburger Kolleg「Cultures of Research」 | ❌ | HTTP 404 |
 | `leipzig-gsgas-daad` 莱比锡大学 GSGAS DAAD 研究生院奖学金（GSSP） | ❌ | HTTP 404 → https://www.uni-leipzig.de/fileadmin/Fakult%c3%a4t_SozPhil/CfA_DAAD_Graduate_School_Scholarship_Programme_2025.pdf |
 | `northumbria-solar-space-phd` 诺森比亚大学太阳与空间物理全奖博士机会 | ❌ | HTTP 404 |
 | `novo-research-abroad-postdoc-bioscience` Novo Nordisk Foundation 海外研究博后（Bioscience and Basic Biomedicine） | ❌ | HTTP 404 |
+| `ntu-pisa-joint-phd-projects` NTU 与比萨大学联合博士课题（13 个全额资助名额） | ❌ | DNS 解析失败 |
+| `nyu-vilcek-phd-financial-support` NYU Vilcek 生物医学研究生院博士资助 | ❌ | HTTP 404 |
+| `onera-doctoral-training` ONERA 法国航空航天研究院博士合同 | ❌ | HTTP 404 |
 | `riken-aip-postdoc-26-548-xai` RIKEN AIP 博士后（26-548，可解释 AI 团队） | ❌ | HTTP 404 |
 | `ruhr-bochum-developmental-psychology-phd` 波鸿鲁尔大学 发展心理学博士研究助理（早期儿童情景记忆项目） | ❌ | HTTP 410 |
 | `swinburne-research-stipend` Swinburne 博士研究津贴奖学金 | ❌ | HTTP 404 |
 | `swinburne-supra` 斯威本科技大学研究生研究奖（SUPRA） | ❌ | HTTP 404 |
-| `unisa-phd-xlii` 萨莱诺大学（UNISA）博士课程与 XLII 周期公告 | ❌ | HTTP 404 |
+| `umu-industrial-doctoral-school` Umeå 大学产业博士学校资助入口 | ❌ | HTTP 404 |
+| `unipi-math-phd-42nd-cycle` 比萨大学数学博士项目招生公告（第 42 期） | ❌ | DNS 解析失败 |
 | `usn-celect-stillingsutlysninger` 南挪威大学（USN）CELECT 中心职位公告 | ❌ | HTTP 404 |
-| `uta-graduate-tuition-support` 德州大学阿灵顿分校（UTA）博士助教/助研学费支持 | ❌ | HTTP 404 |
 | `utokyo-mext-general-guideline-oct2027` 东京大学 MEXT 一般选拔指南（2027 年 10 月入学） | ❌ | HTTP 404 |
 | `uts-irtp-scholarship` UTS 国际研究训练计划奖学金（IRTP） | ❌ | HTTP 404 |
 | `wur-coastal-peat-flooding-phd` WUR 博士岗位：沿海泥炭地景观形成与洪水模拟（Re-Flex Zeeland） | ❌ | HTTP 404 |
 | `aa-school-phd-programme` 伦敦 AA 建筑联盟学院博士项目 | ⚠️ | ConnectionError（连接失败，可能限制境外访问） |
 | `aalto-msca-solar-wind-sail-phd` Aalto 大学 MSCA 博士网络岗：电推进太阳风帆任务设计 | ⚠️ | HTTP 403 |
+| `aarhus-math-phd-2027` 奥胡斯大学数学系博士岗位（概率论与分析，2027 年 2 月起） | ⚠️ | HTTP 403 |
 | `abs-positions-news` Animal Behavior Society · Positions & News（Jobs & Postdocs / Grad Positions） | ⚠️ | HTTP 403 |
-| `acce-dtp-noc-dla` ACCE+ 博士培训伙伴 NOC 博士学位机会（DLA） | ⚠️ | HTTP 429 |
 | `agu-findajob-geology` AGU FindAJob 地质学职位页 | ⚠️ | HTTP 403 |
 | `agu-findajob-ocean-science-phd` AGU FindAJob 海洋科学博士/博后筛选页 | ⚠️ | HTTP 403 |
 | `airc-short-term-fellowships-abroad` AIRC 癌症研究短期海外访学（Short-term Fellowships） | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `ajou-university-graduate-scholarship` 亚洲大学（Ajou University）研究生奖学金（BK21 与校内奖学金） | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `almoa-dn-positions` ALMOA 博士网络（Klagenfurt 协调，13 个博士岗） | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `aries-dtp-studentships` ARIES 博士培训伙伴奖学金（含 Cefas 合作 CASE 项目） | ⚠️ | HTTP 405 |
+| `astrobetter-rumor-mill` AstroBetter 天文职位 Rumor Mill（博后与任期岗位） | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
+| `au-florey-funding-route` 弗洛里研究所博士申请与奖学金路径 | ⚠️ | HTTP 504 |
 | `au-health-perfusion-pet-phd` 奥胡斯大学 Perfusion PET 成像工具博士项目 · 招生 | ⚠️ | HTTP 403 |
-| `auburn-chemeng-intl-assistantship` 奥本大学化学工程博士（助研/助教资助） | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
+| `au-physics-orbitronics-phd` 奥胡斯大学 轨道电子学与拓扑物理博士（2026 年 11 月征集） | ⚠️ | HTTP 403 |
 | `aviz-inria-hci-jobs` Inria AVIZ 可视化与人机交互团队招聘页 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `berlin-neuroscience-network-funding-hub` Neurocure · 柏林神经科学网络博后资助汇总 | ⚠️ | SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `birmingham-sr-phd-admissions` 伯明翰大学空间研究与引力波博士招生页 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
-| `biu-presidential-phd-scholarship` 巴伊兰大学（BIU）校长博士奖学金（Presidential Scholarship for Outstanding PhD Students） | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `bms-berlin` Berlin Mathematical School（MATH+） | ⚠️ | SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `brandeis-heller-phd-funding` 布兰迪斯大学 Heller 学院博士资助页 | ⚠️ | HTTP 403 |
 | `brandeis-ibs-econ-finance-phd` Brandeis 国际商学院国际经济与金融博士（全额资助） | ⚠️ | HTTP 403 |
 | `brandeis-neuroscience-funding` 布兰迪斯大学（Brandeis）神经科学博士资助 | ⚠️ | HTTP 403 |
 | `bric-copenhagen-phd` 哥本哈根大学 BRIC 博士与博后项目 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `cam-esrc-dtp-studentship` 剑桥 CAM-DTP ESRC 社科博士奖学金页 | ⚠️ | HTTP 403 → https://www.cam-dtp.ac.uk/programme/the-studentship/ |
+| `canada-postdoctoral-research-award` Canada Postdoctoral Research Award（CPRA，加拿大；Banting 的继任项目） | ⚠️ | SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开） |
+| `capes-pipd-postdoc` CAPES 国内博士后计划（PIPD） | ⚠️ | HTTP 429 |
 | `carlsberg-ikk-copenhagen-phd` 哥本哈根大学艺术与文化研究系 嘉士伯基金会资助博士/博后岗位 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
+| `charite-medical-neurosciences` Charité 英文医学神经科学国际博士项目（Medical Neurosciences） | ⚠️ | ReadTimeout（超时） |
 | `che-intl-scholarship-programs` 以色列高教委（CHE）国际生奖学金项目总目录 | ⚠️ | HTTP 403 |
-| `cita-postdoc-2026` CITA 理论天体物理博后（多伦多大学，2027 入职） | ⚠️ | ReadTimeout（超时） |
+| `cologne-gsgs-daad-scholarship-2026` 科隆大学地球科学研究生院 DAAD 奖学金（GSGS） | ⚠️ | HTTP 500 |
 | `crest-genes-doctoral-contracts` CREST / GENES 博士合同（ENSAE 经济与统计） | ⚠️ | HTTP 503 |
-| `cuhk-history-hkpfs` CUHK 历史学系 HKPFS 博士页 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
-| `cuhk-stat-hkpfs-2024` 香港中文大学统计学系 HKPFS 说明 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
-| `cvut-pictus-phd-cofund` 捷克理工大学 PICTUS MSCA COFUND 博士项目 | ⚠️ | HTTP 503 |
 | `daad-ainet-postdoc-network` DAAD AInet 国际 AI 早期职业研究者项目（Postdoc-NeT-AI） | ⚠️ | HTTP 403 |
 | `daad-china` DAAD 北京代表处 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `daad-china-foerderprogramme-deutschland` DAAD 中国办公室 · 德国资助项目检索（面向中国学生） | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
@@ -107,38 +112,28 @@
 | `daad-prime-postdoc` DAAD PRIME 博士后研究项目（德国） | ⚠️ | HTTP 403 |
 | `daad-scholarship-db` DAAD 奖学金数据库 | ⚠️ | HTTP 403 |
 | `diw-graduate-center-phd` DIW Berlin Graduate Center 博士项目（经济学，柏林） | ⚠️ | HTTP 403 |
+| `dlr-daad-fellowships` DLR-DAAD 联合研究奖学金（航空/空间/交通/能源） | ⚠️ | SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `dlr-graduate-program` DLR 博士研究生培训计划（DLR Graduate Program） | ⚠️ | HTTP 403 |
+| `dlr-institute-vacancies` DLR 德国航空航天中心研究所招聘页（博士与博后） | ⚠️ | SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `doaks-fellowships` Dumbarton Oaks 拜占庭与古典研究初级研究员奖 | ⚠️ | HTTP 403 |
 | `dra-ku-grants` 哥本哈根大学药物研究学院资助与奖学金页 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `dra-ku-programme` 哥本哈根大学药物研究学院（DRA）博士项目 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
-| `duke-chemistry-phd-financial-support` Duke 化学系 · 博士生资助页（Financial Support） | ⚠️ | HTTP 503 |
-| `duke-econ-phd-funding` 杜克大学经济系博士资助页 | ⚠️ | HTTP 503 |
-| `duke-physics-phd-financial-support` Duke 物理系 · 博士生资助页（Financial Support） | ⚠️ | HTTP 500 |
 | `dumbarton-oaks-mellon-landscape-fellowships` Dumbarton Oaks Mellon 园林与景观研究员奖学金 | ⚠️ | HTTP 403 |
 | `ecn-berlin-phd` 柏林爱因斯坦神经科学中心（ECN）博士奖学金 | ⚠️ | SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `ed3c-doctoral-contract-terms` ED3C 大脑·认知·行为博士学校 博士合同（PAC 竞争分配）条款 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
+| `eduhk-phd` EdUHK 博士与 MPhil 项目 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `enerhy-cdt` EnerHy 绿氢与风能博士培训中心（CDT） | ⚠️ | HTTP 403 |
-| `erc-dashboard-projects` ERC 项目与统计数据库（找 PI 与项目） | ⚠️ | HTTP 403 |
 | `erc-research-in-germany-stg` Research in Germany：ERC Starting Grants 说明 | ⚠️ | HTTP 403 |
-| `erc-stg-staple-ifj-krakow-phd` IFJ PAN Poncelet 组 · ERC StG STAPLE 博士岗 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
-| `ernst-mach-worldwide-news` Ernst Mach 奖学金（全球版）2027/28 轮公告（OeAD） | ⚠️ | ReadTimeout（超时） |
 | `esrf-phd-conditions` 欧洲同步辐射装置（ESRF）· 博士生项目与招聘条件 | ⚠️ | HTTP 403 |
 | `esrf-phd-programme` ESRF 欧洲同步辐射装置博士项目（PhD Programme） | ⚠️ | HTTP 403 |
 | `essex-ahrc-dtp` 埃塞克斯大学 AHRC 博士培训伙伴（DTP）奖学金 | ⚠️ | SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `essex-government-scholarships` 埃塞克斯大学政府系博士奖学金页 | ⚠️ | SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `essex-leverhulme-sustainable-transitions` 埃塞克斯大学 Leverhulme 可持续转型博士中心奖学金 | ⚠️ | SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `essex-scholarships-index` 埃塞克斯大学研究生奖学金总入口 | ⚠️ | SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开） |
-| `eu-euraxess-jobs` EURAXESS 欧洲研究者职位门户 | ⚠️ | HTTP 403 |
-| `euraxess` EURAXESS Jobs | ⚠️ | HTTP 403 |
-| `euraxess-china` EURAXESS China | ⚠️ | HTTP 403 |
-| `euraxess-dn-2025-results` EURAXESS 北美站：MSCA 博士网络 2025 结果通报 | ⚠️ | HTTP 403 |
-| `euraxess-erc-funded-filter-news` EURAXESS 新闻：ERC 资助项目岗位（按 ERC 筛选） | ⚠️ | HTTP 403 |
-| `euraxess-funded-phd-news` EURAXESS 全球新闻：欧洲全奖博士职位汇总 | ⚠️ | HTTP 403 |
-| `euraxess-japan` EURAXESS Japan（欧日科研职位与流动信息） | ⚠️ | HTTP 403 → https://euraxess.ec.europa.eu/worldwide/japan |
 | `eurofusion-engineering-grants` EUROfusion 工程资助（Engineering Grants） | ⚠️ | SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开） |
-| `exactus-turku` EXACTUS 图尔库大学自然科学博士项目（芬兰） | ⚠️ | ReadTimeout（超时） |
 | `fau-imprs-sc` IMPRS-SC 突触与神经回路国际马普研究生院（FAU） | ⚠️ | ConnectionError（连接失败，可能限制境外访问） |
 | `fesb-split-doctoral-2026` 斯普利特大学 FESB 博士研究 2026/27 招生 | ⚠️ | HTTP 403 |
+| `fondecyt-postdoctorado-2027` 智利 FONDECYT 博士后（Concurso Postdoctorado 2027） | ⚠️ | SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `fraunhofer-individual-doctoral-projects` Fraunhofer 个人博士项目（Individual Doctoral Projects） | ⚠️ | HTTP 403 |
 | `fwo` FWO（Research Foundation – Flanders） | ⚠️ | SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `fwo-junior-postdoc` FWO 比利时初级博士后奖学金（Junior Postdoctoral） | ⚠️ | SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开） |
@@ -146,40 +141,41 @@
 | `fwo-senior-postdoc` FWO 比利时高级博士后奖学金（Senior Postdoctoral） | ⚠️ | SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `g-evol-muenster-open-phd` G-Evol 开放博士岗位列表（明斯特大学） | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `gal-predoc-usc` 加利西亚大区预博士资助（含 USC） | ⚠️ | HTTP 500 |
-| `giessen-gcsc-doctoral-scholarships` 吉森大学 GCSC 博士奖学金与会员名额（人文社科） | ⚠️ | ReadTimeout（超时） |
-| `grass-fellowship-mbl` Grass Fellowship（MBL 神经科学夏季研究基金） | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `gsi-hgs-hire-graduate-school` GSI 亥姆霍兹重离子研究中心 HGS-HIRe for FAIR 研究生院 | ⚠️ | HTTP 503 → https://hgs-hire.de/ |
 | `gulbenkian-armenian-studies-phd` 古本江基金 · 亚美尼亚研究奖学金（博士研究） | ⚠️ | HTTP 403 |
 | `gurdon-wellcome-masters-phd` Gurdon Institute（剑桥）Wellcome Masters+PhD 发育生物学项目 | ⚠️ | HTTP 403 |
-| `hec-paris-robust-optimization-postdoc` HEC 巴黎 稳健优化与统计博士后（ANR/RGC 资助） | ⚠️ | HTTP 503 |
 | `helsinki-doctoral-researcher-positions` 赫尔辛基大学博士生院统一资助的博士研究员职位 | ⚠️ | ConnectionError（连接失败，可能限制境外访问） |
+| `hku-cs-how-to-apply-2027` HKU 计算机科学系 2027 年研究型博士申请指南 | ⚠️ | SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开） |
+| `hku-cs-phd-admissions` HKU 计算与数据科学学院 PhD/MPhil 招生页 | ⚠️ | SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `huji-csc-scholarship` 希伯来大学 CSC–HUJI 联合奖学金（中国籍博士/博后） | ⚠️ | ConnectionError（连接失败，可能限制境外访问） |
-| `huji-doctoral-research` 希伯来大学国际办公室：博士研究 | ⚠️ | ConnectionError（连接失败，可能限制境外访问） |
+| `huji-open-calls` 希伯来大学国际办公室学者奖学金与博士后征集总页 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
+| `huji-racah-international-students` 希伯来大学 Racah 物理研究所国际学生与博士资助说明 | ⚠️ | ConnectionError（连接失败，可能限制境外访问） |
 | `icgeb-arturo-falaschi-fellowships` ICGEB Arturo Falaschi 博士/博后奖学金（生命科学，的里雅斯特/新德里/开普敦） | ⚠️ | HTTP 520 |
 | `icmat-severo-ochoa-fpi-past` ICMAT Severo Ochoa 博士研究奖学金（FPI，马德里） | ⚠️ | ReadTimeout（超时） |
+| `ictp-phd-sandwich-programmes` ICTP 博士与 sandwich 项目（发展中国家博士生） | ⚠️ | HTTP 500 → https://www.ictp.it/sti/phd-and-sandwich-programmes |
+| `ictp-postdoc-positions` ICTP 数学与理论物理博士后职位（的里雅斯特） | ⚠️ | HTTP 500 |
+| `ictp-postdoctoral-opportunities` ICTP 博士后职位（的里雅斯特） | ⚠️ | HTTP 500 |
 | `idrc-idra-doctoral-awards` IDRC 国际博士研究奖（Universities Canada） | ⚠️ | HTTP 403 |
 | `ieee-photonics-graduate-scholarship` IEEE Photonics Society 研究生奖学金（Graduate Student Scholarship） | ⚠️ | HTTP 403 |
 | `ieee-photonics-gs-scholarship` IEEE Photonics Society 研究生奖学金（Graduate Student Scholarship） | ⚠️ | HTTP 403 |
 | `ifom-cancer-biology-phd` IFOM 癌症生物学博士项目（米兰） | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `ift-madrid-cosmo-job-offers` 马德里 IFT 宇宙学组招聘与职位列表 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
-| `iisc-google-phd-fellowship` IISc Google PhD 奖学金项目 | ⚠️ | HTTP 502 |
 | `iisc-international-phd` 印度科学院 IISc 国际博士研究项目 | ⚠️ | HTTP 502 |
+| `iiser-kolkata-intl-phd` IISER Kolkata 国际博士申请（Study in India 通道） | ⚠️ | ReadTimeout（超时） |
 | `iit-cognitive-architecture-openings` IIT 协作技术认知架构实验室招聘页 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `iitkgp-rolling-phd` IIT Kharagpur 滚动制博士招生 | ⚠️ | ConnectionError（连接失败，可能限制境外访问） |
-| `iium-ummatic-phd` IIUM Postgraduate Ummatic 博士奖学金（2026） | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
-| `ijs-young-researchers-fellowships` 约瑟夫·斯特凡研究所（IJS）青年研究员与 fellowship 页 | ⚠️ | HTTP 502 → https://www.ijs.si/ijsw/Young%20researchers%2C%20fellowships |
 | `imprs-ml` IMPRS-ML 分子生命科学国际研究生院（慕尼黑） | ⚠️ | HTTP 403 |
 | `imprs-neuro-goettingen` IMPRS Neurosciences（哥廷根） | ⚠️ | HTTP 403 |
 | `imprs-qdc-dresden` IMPRS Quantum Dynamics and Control（德累斯顿） | ⚠️ | HTTP 403 |
 | `innovation-fund-denmark-industrial-phd` Innovation Fund Denmark 工业博士（Industrial PhD） | ⚠️ | HTTP 454 |
 | `iza-jobs-portal` IZA 劳动经济研究所招聘平台 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
-| `jhu-xdbio-phd-2026` 约翰霍普金斯大学 XDBio 跨学科生物博士项目（2026 年 9 月入学要求） | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
-| `jk-icems-join` 京都大学 iCeMS 入学与加入页（研究生与博后） | ⚠️ | HTTP 503 |
 | `jsmc-jena` 耶拿微生物通讯研究生院（JSMC） | ⚠️ | HTTP 403 |
 | `kas-auslaender-promotion` 康拉德·阿登纳基金会（KAS）外国博士生奖学金（2026 指南） | ⚠️ | HTTP 403 |
 | `kemri-wellcome-phd-studentships` KEMRI-Wellcome Trust 博士奖学金（Kilifi / Nairobi，官方招聘门户） | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `koc-gsb-phd-business` 科奇大学商学院博士项目 | ⚠️ | HTTP 403 |
 | `koc-gsse-financial-aid` 科奇大学理工研究生院奖学金与资助 | ⚠️ | HTTP 403 |
+| `koeln-gsgs-daad-gssp` 科隆大学地球科学研究生院（GSGS）DAAD GSSP 奖学金入口 | ⚠️ | HTTP 500 |
+| `ksu-postdoc` KSU 沙特国王大学全职博士后 | ⚠️ | HTTP 403 |
 | `ku-geotop-phd-postdoc` 哥本哈根大学 GeoTop 地球动力学中心博士/博后岗位页 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `ku-humanities-phd-scholarship-ads` 哥本哈根大学人文学院 · PhD 奖学金公告页（开放申请与专项岗位） | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `ku-humanities-phd-scholarship-timeline` 哥本哈根大学人文学院博士奖学金申请流程与时间表 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
@@ -188,33 +184,28 @@
 | `ku-phd` University of Copenhagen PhD Positions | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `ku-phd-vacancies` 哥本哈根大学 PhD 岗位列表 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `ku-social-sciences-industrial-phd` 哥本哈根大学社会科学学院 Industrial PhD | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
+| `kuwait-university-gse` 科威特大学研究生学术卓越奖学金 | ⚠️ | HTTP 429 |
 | `lanl-postdoc-eligibility-appointments` Los Alamos National Laboratory 博士后项目 · 资格与聘任说明 | ⚠️ | HTTP 403 |
 | `leibniz-graduate-schools-rig` 莱布尼茨研究生院（Leibniz Graduate Schools）奖学金 | ⚠️ | HTTP 403 |
 | `leibniz-individual-doctoral-projects` Leibniz 个人博士项目（Individual Doctoral Projects） | ⚠️ | HTTP 403 |
-| `leverhulme-ecf` Leverhulme 早期职业研究奖学金（ECF） | ⚠️ | ConnectionError（连接失败，可能限制境外访问） |
-| `lsmu-postdoctoral-fellowships` 立陶宛健康科学大学（LSMU）博士后奖学金 | ⚠️ | SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开） |
-| `manchester-csc-joint-humanities` 曼彻斯特–CSC 联合奖学金（人文学院） | ⚠️ | ReadTimeout（超时） |
 | `martingale-scholarships-2027` Martingale 基金会 2027 入学奖学金（数学科学与人工智能） | ⚠️ | HTTP 403 |
+| `mcgill-ding-lab-phd-2026` McGill Ding Lab（Jun Ding）· McGill 大学 · 单细胞多组学/AI 药物 招生 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
+| `medui-phd-studentships` 维也纳医科大学全额资助博士岗 | ⚠️ | ConnectionError（连接失败，可能限制境外访问） |
+| `medunivienna-phd-psb-2026` 维也纳医科大学 2026 年博士岗位公告 | ⚠️ | ConnectionError（连接失败，可能限制境外访问） |
 | `middlesex-senss-studentships` ESRC SENSS 博士奖学金（埃塞克斯大学牵头的社会科学 DTP） | ⚠️ | SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开） |
-| `mlai-studyinaustria-ista` ISTA 全额资助博士岗（奥地利留学门户） | ⚠️ | ReadTimeout（超时） |
 | `mount-sinai-icahn-phd-intl` 西奈山伊坎医学院国际学生资助页（生物医学科学与神经科学博士） | ⚠️ | HTTP 403 |
-| `msca-dn-flexcat-phd-2026` MSCA 博士网络 FlexCAT：15 个博士岗位（β-catenin / 无序蛋白与癌症药物发现，多国） | ⚠️ | HTTP 403 |
 | `munich-aerospace-doctoral-scholarships` Munich Aerospace 博士奖学金（TUM 与慕尼黑联邦国防军大学） | ⚠️ | HTTP 403 |
-| `mur-bandi-dottorato-portal` 意大利教育部博士公告门户（bandi.mur.gov.it） | ⚠️ | HTTP 403 |
+| `mur-bandi-dottorato-portal` 意大利教育部博士公告门户（bandi.mur.gov.it） | ⚠️ | HTTP 503 |
+| `nccu-lo-chia-luen-sinology-fellowship` 国立政治大学 罗家伦国际汉学研究奖学金 | ⚠️ | SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `nextstep-esrf-ill-cofund` NEXTSTEP 博士项目（ESRF 与 ILL，MSCA COFUND） | ⚠️ | HTTP 403 → https://www.esrf.fr/home/UsersAndScience/the-phd-programme-at-the-esrf/nextstep.html |
-| `nl-euraxess-netherlands` EURAXESS Netherlands（荷兰科研职位与资助门户） | ⚠️ | HTTP 403 → https://www.euraxess.nl:443/ |
-| `nl-nwo-veni-2026` NWO Veni 2026（荷兰青年研究员资助，政府公报原文） | ⚠️ | HTTP 403 |
 | `nsf-grfp` NSF GRFP（仅作提醒） | ⚠️ | ConnectionError（连接失败，可能限制境外访问） |
 | `ntu-ai-for-x-postdoc` NTU AI-for-X 博士后奖学金（NRF 联合资助） | ⚠️ | HTTP 403 |
-| `nwssdtp-1-3` 西北社会科学 DTP 1+3 studentship（ESRC） | ⚠️ | ReadTimeout（超时） |
-| `oead-ernst-mach-faq` Ernst Mach 奖学金（OeAD，全球，奥地利短期研究）FAQ | ⚠️ | ReadTimeout（超时） |
-| `oead-shanghai-office` OeAD 上海科学合作处（奥地利学术交流处） | ⚠️ | ReadTimeout（超时） |
 | `ohio-state-ece-funding` Ohio State ECE 博士资助 | ⚠️ | HTTP 403 |
-| `onera-doctoral-training` ONERA 法国航空航天研究院博士合同 | ⚠️ | HTTP 503 |
-| `paris-region-phd` Paris Region PhD 大巴黎地区产学合作博士资助 | ⚠️ | HTTP 403 |
+| `oxford-dynamic-robotics-join` 牛津 Dynamic Robotics Lab 招生说明 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `penn-state-philosophy-phd-funding` Penn State 哲学系博士资助与支持 | ⚠️ | HTTP 403 |
 | `penn-state-political-science-funding` 宾州州立大学政治学系资助 | ⚠️ | HTTP 403 |
 | `polito-dbdmg-phd-opportunities` 都灵理工大学 DBDMG 组 · PhD 机会分类页 | ⚠️ | ConnectionError（连接失败，可能限制境外访问） |
+| `polito-dottorato-42-second-session` 都灵理工大学第 42 周期博士招生第二批次 | ⚠️ | ConnectionError（连接失败，可能限制境外访问） |
 | `polito-msca-doctoral-networks-2026` 都灵理工大学 MSCA 博士网络 2026 招生入口 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `porsche-industrial-doctorate` 保时捷博士项目（Doktorarbeit bei Porsche） | ⚠️ | HTTP 403 |
 | `psa-uk-opportunities` 英国政治研究协会（PSA）机会页 | ⚠️ | HTTP 520 |
@@ -225,36 +216,31 @@
 | `psi-lnq-open-positions` PSI 量子纳米科学组（LNQ）岗位 | ⚠️ | HTTP 403 |
 | `psi-phds-careercenter` 瑞士保罗谢尔研究所 PSI 博士与博后页 | ⚠️ | HTTP 403 → https://www.psi.ch/en/hr/job-opportunities |
 | `psi-sinq-open-positions` PSI SINQ 中子源博士岗位 | ⚠️ | HTTP 403 |
-| `psyedu-swdtp-psychology-pathway` SWDTP ESRC 心理学培养路径（Bath/Bristol/Exeter 等） | ⚠️ | ReadTimeout（超时） |
-| `purdue-education-grad-funding` 普渡大学教育学院研究生资助 | ⚠️ | ConnectionError（连接失败，可能限制境外访问） |
 | `qistgrad-villum-qist-phd-fellowship` VILLUM 量子科学与技术研究生项目（UCPH/DTU）博士奖学金 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
-| `rbi-available-research-jobs` 鲁杰·博什科维奇研究所（RBI）研究岗位页 | ⚠️ | HTTP 403 → https://euraxess.ec.europa.eu/search?keys=RU%C4%90ER%20BO%C5%A0KOVI%C4%86%20INSTITUTE&type=job_offer |
 | `research-in-germany-phd-portals` Research in Germany 博士岗位招聘门户汇总 | ⚠️ | HTTP 403 |
 | `science-careers` Science Careers | ⚠️ | HTTP 403 |
+| `sedarc-sussex-esrc-2027` SEDarc (ESRC) PhD 奖学金 · 萨塞克斯大学 · 2027 入学 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `sgbm-freiburg` 弗赖堡 Spemann 生物与医学研究生院（SGBM） | ⚠️ | HTTP 403 |
 | `sk-nsp-scholarships` 斯洛伐克国家奖学金计划（NSP，博士/研究） | ⚠️ | HTTP 403 |
 | `skku-intl-grad-merit-scholarship` 成均馆大学研究生国际生奖学金 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `soas-teaching-scholarships` SOAS 教学奖学金（博士） | ⚠️ | HTTP 403 |
 | `sorbonne-ed515-contrat-doctoral` 索邦大学 ED 515（复杂生命系统）博士合同 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
-| `study-in-india-portal` Study in India 外国学生统一门户（含奖学金入口） | ⚠️ | SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开） |
-| `sussex-ids-development-phd` 萨塞克斯大学发展研究所（IDS）博士项目 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
-| `tigp-biodiv-taiwan` 中研院 TIGP-BIODIV 生物多样性与生态进化博士项目 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
+| `stipendium-hungaricum-2026-27-news` Stipendium Hungaricum 2026/27 申请公告（匈牙利政府奖学金，含博士） | ⚠️ | HTTP 500 |
+| `stipendium-hungaricum-study-finder` 匈牙利 Stipendium Hungaricum 官方项目检索入口（Study Finder） | ⚠️ | HTTP 500 |
+| `sunderland-graduate-school` 桑德兰大学研究生院（资助博士与 NINE DTP） | ⚠️ | SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `tml-tuebingen-jobs` 图宾根大学机器学习理论组（TML）职位页 | ⚠️ | HTTP 503 |
-| `tohoku-international-excellence-2027-pdf` 东北大学国际卓越奖学金 2027 入学英文细则（PDF） | ⚠️ | HTTP 403 |
-| `uclouvain-fsr-incoming-postdoc` UCLouvain FSR 2027 国际博士后（Incoming Postdoc） | ⚠️ | HTTP 403 |
+| `uab-csc-phd-opportunities` 巴塞罗那自治大学 UAB 博士机会与 CSC 联合资助 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `uea-csc` 东英吉利大学 CSC 博士奖学金 | ⚠️ | HTTP 405 |
 | `uea-phd-funding-deadlines-2027` 东英吉利大学（UEA）博士资助截止日期总表 | ⚠️ | HTTP 405 |
 | `uea-senss-studentships` 东英吉利 SENSS 学生主导 ESRC 博士奖学金 | ⚠️ | HTTP 405 |
-| `uk-2027-esrc-dwssdtp` ESRC 东北/西北社科博士培训伙伴关系（DWSSDTP，曼彻斯特） | ⚠️ | ReadTimeout（超时） |
-| `ull-initium-predoc` 拉古纳大学（ULL）Initium 预博士合同计划 | ⚠️ | HTTP 503 |
 | `unibo-42-ciclo-programmes` 博洛尼亚大学第 42 周期博士项目（数据科学与计算等） | ⚠️ | ConnectionError（连接失败，可能限制境外访问） |
+| `unibo-csc-call-2026-27` 博洛尼亚大学 CSC 博士征集公告（2026–27） | ⚠️ | ConnectionError（连接失败，可能限制境外访问） |
 | `unibo-industrial-chemistry-2026-27` 博洛尼亚大学工业化学博士（第 42 期 2026-27） | ⚠️ | ConnectionError（连接失败，可能限制境外访问） |
 | `unibo-physics-phd-2026` 博洛尼亚大学物理博士（2026–2027，INFN 合作） | ⚠️ | ConnectionError（连接失败，可能限制境外访问） |
+| `univpm-phd-xlii` 马尔凯理工大学（UNIVPM）XLII 周期博士公告 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `us-cs-osu-cse-graduate-associateship` 俄亥俄州立大学 CSE 博士研究/教学助理资助 | ⚠️ | HTTP 403 |
 | `us-stanford-sail-postdoc` Stanford SAIL 博士后（AI 实验室） | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 | `us-umich-presidents-postdoc` 密歇根大学总统博士后项目 | ⚠️ | HTTP 403 |
-| `usach-bee-foreigners` 智利圣地亚哥大学外国学生卓越奖学金（BEE） | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
-| `weizmann-merbl-lab-recruiting` Merbl 课题组 · 魏茨曼研究所 · 免疫学 招生 | ⚠️ | ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开） |
 
 ## 发生跳转的链接（可考虑更新为最终地址）
 
@@ -262,11 +248,10 @@
 | --- | --- |
 | `mpg-jobboard` | HTTP 200 → https://www.mpg.de/jobboard |
 | `helmholtz-jobs` | HTTP 200 → https://www.helmholtz.de/en/career |
-| `gks` | HTTP 200 → https://www.studyinkorea.go.kr/ko/main.do;jsessionid=NmAGBZtkXxvoROvQTloWU0dya_GYIQQrV2sTxdWV.studyinkorea20 |
+| `gks` | HTTP 200 → https://www.studyinkorea.go.kr/ko/main.do;jsessionid=8DSrcUz_4R0-FC4YZzb30HS97gzFbbpClrl4gcuw.studyinkorea20 |
 | `rhodes` | HTTP 200 → https://www.rhodeshouse.ox.ac.uk/scholarships/applications/china/ |
 | `hkust-pgs` | HTTP 200 → https://fytgs.hkust.edu.hk/admissions/Admissions-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees |
 | `hkbu-pg-scholarships` | HTTP 200 → https://gs.hkbu.edu.hk/fees-scholarships-and-financial-aid/other-funding-and-scholarship |
-| `eduhk-phd` | HTTP 200 → https://gs.eduhk.hk/prospective/rpg/scholarship-and-financial-assistance/ |
 | `cryolist` | HTTP 200 → https://lists.cryolist.org/mailman/listinfo/cryolist |
 | `jrec-in` | HTTP 200 → https://jrecin.jst.go.jp/seek/SeekTop |
 | `aicentre-dk-phd` | HTTP 200 → https://www.aicentre.dk/phd-fellowships |
@@ -299,7 +284,6 @@
 | `neurosciences-asso-intl-contracts` | HTTP 200 → https://www.neurosciences.asso.fr/en/appel-d-offres/contrats-doctoraux-pour-etudiants-internationaux/ |
 | `pasteur-doctoral-programs` | HTTP 200 → https://www.pasteur.fr/en/about-us/our-missions/education/training-programs/doctoral-programs |
 | `simons-fellows-to-faculty` | HTTP 200 → https://www.simonsfoundation.org/news/applications-open-for-2027-fellows-to-faculty-award-program/ |
-| `branco-weiss-fellowship` | HTTP 200 → https://coldsite-ucalgary.azurewebsites.net/ |
 | `fyssen-postdoc-grants` | HTTP 200 → https://www.fondationfyssen.fr/en/our-actions/study-grants/ |
 | `edinburgh-neuroscience-jobs` | HTTP 200 → https://edinburghneuroscience.ed.ac.uk/opportunities/jobs-internships-phds |
 | `mpi-cbs-leipzig-jobs` | HTTP 200 → https://www.mpg.de/149614/human-cognitive-and-brain-sciences?filter=jobs |
@@ -321,6 +305,7 @@
 | `keele-pgr-funding` | HTTP 200 → https://www.keele.ac.uk/research/postgraduateresearch/feesandfunding/postgraduateresearchfunding/ |
 | `aberystwyth-wgsss` | HTTP 200 → https://www.aber.ac.uk/en/interpol/study-with-us/postgraduate/phd/funding/ |
 | `ubc-kinesiology-phd` | HTTP 200 → https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-kinesiology |
+| `ubc-arthritis-rehab-lab` | HTTP 200 → https://arthritis.rehab.med.ubc.ca/join-us/ |
 | `luce-acls-china-studies` | HTTP 200 → https://www.acls.org/news/luce-acls-program-in-china-studies-opens-2026-27-fellowship-and-grant-competitions/ |
 | `stanford-shorenstein-contemporary-asia` | HTTP 200 → https://fsi.stanford.edu/news/stanfords-asia-pacific-research-center-invites-applications-2027-2029-postdoctoral-and |
 | `sydney-csc-phd-scholarship` | HTTP 200 → https://www.sydney.edu.au/scholarships/e/china-scholarship-council-research-programs-scholarship.html |
@@ -340,6 +325,7 @@
 | `ub-economics-phd` | HTTP 200 → https://www.ub.edu/school-economics/phd-in-economics/ |
 | `ie-university-phd-funding` | HTTP 200 → https://www.ie.edu/business-school/programs/doctorates/phd-in-management/admissions-fees/ |
 | `kitp-theoretical-physics-postdoc` | HTTP 200 → https://www.kitp.ucsb.edu/about-us/careers/postdoctoral-scholars-in-theoretical-physics |
+| `khk-aachen-cultures-of-research` | HTTP 200 → https://khk.rwth-aachen.de/call-for-fellowship-applications-2027-28/ |
 | `ntu-npgs` | HTTP 200 → https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/npgs |
 | `ntu-research-scholarship` | HTTP 200 → https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/rss |
 | `ictp-saifr-postdoc` | HTTP 200 → https://www.ictp-saifr.org/postdoctoral/ |
@@ -362,7 +348,6 @@
 | `nidirect-dfe-pgr-scheme` | HTTP 200 → https://www.nidirect.gov.uk/articles/department-economy-postgraduate-researcher-pgr-scheme |
 | `polyu-dual-phd-degree` | HTTP 200 → https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/dual-phd-degree-programmes/ |
 | `ualberta-csc-prospective` | HTTP 200 → https://www.ualberta.ca/en/admissions-programs/sponsored-student-program/csc-information-for-prospective-students.html |
-| `ucalgary-csc-guide` | HTTP 200 → https://coldsite-ucalgary.azurewebsites.net/ |
 | `ubc-csc-doctoral` | HTTP 200 → https://www.grad.ubc.ca/awards/china-scholarship-council-doctoral-scholarships |
 | `toulouse-csc-phd` | HTTP 200 → https://en.univ-toulouse.fr/research-dynamics-phd/international-phd-programmes |
 | `google-deepmind-student-researcher` | HTTP 200 → https://deepmind.google/student-researcher-program/ |
@@ -376,6 +361,7 @@
 | `sutd-istd-phd-opportunities` | HTTP 200 → https://www.sutd.edu.sg/programme-listing/istd-phd-programme |
 | `oru-available-positions` | HTTP 200 → https://www.oru.se/english/career/available-positions/ |
 | `kaw-postdoc-calls` | HTTP 200 → https://kaw.wallenberg.org/en/funding-guide/calls |
+| `lsmu-postdoctoral-fellowships` | HTTP 200 → https://lsmu.lt/en/admission/postgraduate-training/postdoctoral-fellowships/ |
 | `uts-international-research-scholarship` | HTTP 200 → https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-scholarship |
 | `rmit-vcp-phd-scholarship` | HTTP 200 → https://www.rmit.edu.au/scholarships/research/vcps |
 | `rmit-international-tuition-fee-scholarships` | HTTP 200 → https://www.rmit.edu.au/scholarships/research/international-tuition-fee-scholarships |
@@ -396,8 +382,6 @@
 | `chem-rseq-jobs` | HTTP 200 → https://rseq.org/socios-y-profesionales/ofertas-de-empleo/ |
 | `uol-jobs-icbm-marine` | HTTP 200 → https://uol.de/jobs |
 | `noc-student-hub-opportunities` | HTTP 200 → https://www.noc.ac.uk/work-with-us/student-gateway/current-opportunities |
-| `cobene-vienna-how-to-apply` | HTTP 200 → https://zid.univie.ac.at/webserver-wartung/ |
-| `cobene-pooled-calls` | HTTP 200 → https://zid.univie.ac.at/webserver-wartung/ |
 | `excellent-brains-coe-vienna` | HTTP 200 → https://coe.univie.ac.at/?page_id=55 |
 | `az-cambridge-noncl-phd` | HTTP 200 → https://www.ats.cam.ac.uk/az-funded-non-clinical-phd-studentship |
 | `imperial-bioeng-studentships` | HTTP 200 → https://www.imperial.ac.uk/bioengineering/study/postgraduate-research/doctoral/funding/studentships/ |
@@ -414,7 +398,7 @@
 | `cambridge-ames-postgraduate-funding` | HTTP 200 → https://www.ames.cam.ac.uk/study-with-us/postgraduate-study/postgraduate-funding |
 | `ubc-asian-studies-phd-funding` | HTTP 200 → https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-asian-studies |
 | `hku-arts-pgs-rates` | HTTP 200 → https://arts.hku.hk/admissions/research-postgraduate-admissions/research-postgraduate/ |
-| `ucalgary-kinesiology-phd` | HTTP 200 → https://coldsite-ucalgary.azurewebsites.net/ |
+| `ucalgary-kinesiology-phd` | HTTP 200 → https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/kinesiology-phd |
 | `utoronto-kpe-phd` | HTTP 200 → https://kpe.utoronto.ca/academics-researchfuture-students/phd-kinesiology |
 | `ubc-phd-funding-guarantee` | HTTP 200 → https://www.grad.ubc.ca/prospective-students/phd |
 | `uwe-sww-dtp-studentships` | HTTP 200 → https://www.uwe.ac.uk/research/postgraduate-research-study/studentships |
@@ -450,8 +434,8 @@
 | `graz-doctoral-admission` | HTTP 200 → https://doctorate.uni-graz.at/en/study-service/admission/ |
 | `hbku-scholarship-policy-pdf` | HTTP 200 → https://www.hbku.edu.qa/en/scholarship |
 | `nyuad-global-phd-electrical-engineering` | HTTP 200 → https://nyuad.nyu.edu/en/academics/graduate-and-phd/phd-programs/global-phd-student-fellowship-in-electrical-engineering.html |
+| `weizmann-merbl-lab-recruiting` | HTTP 200 → https://www.weizmann.ac.il/immunology/merbl/join-us |
 | `oxford-law-clarendon-scholarships` | HTTP 200 → https://www.law.ox.ac.uk/admissions/scholarships-index/other-sources-funding-index/clarendon-scholarships |
-| `umu-industrial-doctoral-school` | HTTP 200 → https://www.umu.se/en/research/research-with-us/doctoral-studies/research-schools/industrial-doctoral-school-for-research-and-innovation/call-for-applications/ |
 | `research-ireland-placement` | HTTP 200 → https://www.researchireland.ie/funding/enterprise-fellowships/ |
 | `eit-digital-industrial-phd` | HTTP 200 → https://www.eit.europa.eu/our-activities/opportunities/eit-digital-call-phd-students-and-partners |
 | `khalifa-tsinghua-sigs-joint-phd` | HTTP 200 → https://www.ku.ac.ae/khalifa-university-phd-students-begin-jointly-awarded-program-at-tsinghua-sigs?p=124233 |
@@ -459,6 +443,7 @@
 | `cambridge-maths-phd-funding` | HTTP 200 → https://www.maths.cam.ac.uk/postgrad/research-degrees |
 | `warwick-chancellors-intl-scholarship` | HTTP 200 → https://warwick.ac.uk/services/dc/schols_fund/applicants/competitions/ |
 | `surrey-cs-funded-phd` | HTTP 200 → https://www.surrey.ac.uk/fees-and-funding/studentships |
+| `tigp-biodiv-taiwan` | HTTP 200 → https://tigp-biodiv.biodiv.tw/index.php/2019-admission-information/ |
 | `cambridge-creates-nerc-dla-funding` | HTTP 200 → https://nercdtp.esc.cam.ac.uk/prospective-students/funding-information-updated-2026-entry |
 | `roehampton-leverhulme-doctoral` | HTTP 200 → https://www.roehampton.ac.uk/connected-waters/how-to-apply/ |
 | `utoronto-utm-university-fellowship` | HTTP 200 → https://www.utm.utoronto.ca/cps/graduate/chemistry/financial-support/scholarshipsfellowshipsawards/regular-university-toronto |
@@ -480,7 +465,6 @@
 | `mcgill-postdoc-funding-portal` | HTTP 200 → https://www.mcgill.ca/gps/funding/opportunities/postdocs |
 | `northwestern-energy-fellows` | HTTP 200 → https://trienens-institute.northwestern.edu/research/postdoctoral-fellowships/sustainability-and-energy-fellows-program/ |
 | `fredhutch-postdoc-programs` | HTTP 200 → https://www.fredhutch.org/en/education-training/postdoctoral-fellows-programs.html |
-| `ictp-phd-sandwich-programmes` | HTTP 200 → https://www.ictp.it/sti/phd-and-sandwich-programmes |
 | `hkustgz-iot-thrust-phd` | HTTP 200 → https://infh.hkust-gz.edu.cn/academics/iot/about-iot/ |
 | `cuhksz-lam-robotics-group` | HTTP 200 → https://freeformrobotics.org/contact/ |
 | `hhmi-gilliam-fellowship` | HTTP 200 → https://www.hhmi.org/programs/gilliam-fellows |
@@ -500,7 +484,7 @@
 | `mcgill-fmhs-min-funding` | HTTP 200 → https://www.mcgill.ca/medhealthsci-gradstudies/fmhs-graduate-student-funding-policy/minimum-funding-packages-fmhs-graduate-programs-2025-2026 |
 | `lmu-gsn-funding` | HTTP 200 → https://www.lmu.de/gsn/en/studying-at-gsn-lmu/become-a-gsn-student/ |
 | `owlf-oberwolfach-leibniz-fellows` | HTTP 200 → https://www.mfo.de/scientific-program/longer-term/oberwolfach-leibniz-fellows |
-| `ucalgary-linguistics-phd-funding` | HTTP 200 → https://coldsite-ucalgary.azurewebsites.net/ |
+| `ucalgary-linguistics-phd-funding` | HTTP 200 → https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/linguistics-phd |
 | `tudelft-qutech-taminiau-quantum-control-phd` | HTTP 200 → https://www.academictransfer.com/en/jobs/364776/phd-position-on-quantum-control/ |
 | `imprs-physics-of-light-erlangen` | HTTP 200 → https://mpl.mpg.de/study-work-or-visit/careers-science |
 | `imperial-materials-scholarship-hub` | HTTP 200 → https://www.imperial.ac.uk/materials/study/materialsphd/phd-application-process--scholarship-hub/ |
@@ -525,7 +509,7 @@
 | `kth-vehicle-maritime-aerospace-phd` | HTTP 200 → https://www.kth.se/en/sci/forskning/forskarutbildning/forskaramnet-farkostteknik-1.1304809 |
 | `uts-research-degree-closing-dates` | HTTP 200 → https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/masters-by-research-phd/application-closing-dates |
 | `canberra-research-scholarships` | HTTP 200 → https://www.canberra.edu.au/uc-research/graduate-research/university-research-scholarships |
-| `bond-hdr-scholarships` | HTTP 200 → https://bond.edu.au/researchers/research-degrees/hdr-scholarships |
+| `bond-hdr-scholarships` | HTTP 200 → https://bond.edu.au/research/research-degrees/fees-and-scholarships |
 | `vuw-wellington-doctoral-scholarship` | HTTP 200 → https://www.wgtn.ac.nz/scholarships/current/wellington-doctoral-scholarships |
 | `birmingham-csc-joint-phd` | HTTP 200 → https://www.birmingham.ac.uk/study/scholarships-funding/china-scholarship-council-university-of-birmingham-phd-scholarships |
 | `naples-federico-ii-csc-humanities` | HTTP 200 → https://www.dottoratostoria.unina.it/index.php/call-for-pre-selection-china-scholarship-council-csc-grant-2025/ |
@@ -540,7 +524,7 @@
 | `simons-institute-research-fellowships` | HTTP 200 → https://simons.berkeley.edu/research-fellowship-call-applications |
 | `ca-uoft-ece-funding` | HTTP 200 → https://www.ece.utoronto.ca/graduates/financial-support/package/ |
 | `ca-uoft-glse-postdoc` | HTTP 200 → https://rhse.temertymedicine.utoronto.ca/postdoctoral-fellowship-programs-awards-and-funds |
-| `ca-mitacs-global-excellence-postdoc` | HTTP 200 → https://coldsite-ucalgary.azurewebsites.net/ |
+| `ca-mitacs-global-excellence-postdoc` | HTTP 200 → https://research.ucalgary.ca/opportunity/2026-2026-mitacs-accelerate-global-excellence-award-gea |
 | `ca-ualberta-killam-postdoc` | HTTP 200 → https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/funding-for-postdoctoral-scholars.html |
 | `ca-ubc-okanagan-min-funding` | HTTP 200 → https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/college-graduate-studies/minimum-funding |
 | `ca-mcgill-desautels-tuition-aid` | HTTP 200 → https://www.mcgill.ca/desautels/programs/phd/admissions/tuition-financial-aid |
@@ -580,7 +564,6 @@
 | `sydney-architecture-design-planning-rs` | HTTP 200 → https://www.sydney.edu.au/scholarships/a/architecture-design-and-planning-research-scholarship.html |
 | `oslomet-lui-educational-sciences-phd` | HTTP 200 → https://www.oslomet.no/en/study/lui/educational-sciences-phd |
 | `oxford-education-dphil` | HTTP 200 → https://www.education.ox.ac.uk/course/dphil/ |
-| `uab-csc-phd-opportunities` | HTTP 200 → https://www.uab.cat/web/mobility-international-exchange/international-support-service/phd-opportunities-at-the-uab-1345830338586.html |
 | `imprs-cim-muenster` | HTTP 200 → https://www.uni-muenster.de/CiM-IMPRS/application/ |
 | `mpi-cbg-phd-program` | HTTP 200 → https://www.mpi-cbg.de/join-us/phd-program |
 | `unibo-csc-joint-phd` | HTTP 200 → https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/phd-programmes-funded-by-the-china-scholarship-council |
@@ -629,8 +612,6 @@
 | `upatras-chemeng-phd-scholarships` | HTTP 200 → https://www.chemeng.upatras.gr/en/announces/1185 |
 | `microsoft-research-careers` | HTTP 200 → https://www.microsoft.com/en-us/research/careers/ |
 | `ca-mcgill-intl-external-awards` | HTTP 200 → https://www.mcgill.ca/gps/funding/intl/additional-international-funding-opportunities |
-| `ca-cpra-cihr-ucalgary` | HTTP 200 → https://coldsite-ucalgary.azurewebsites.net/ |
-| `ca-cpra-sshrc-ucalgary` | HTTP 200 → https://coldsite-ucalgary.azurewebsites.net/ |
 | `ru-is-phd-positions` | HTTP 200 → https://www.ru.is/en/namid/find-your-study-programme/doctoral#department-of-computer-science |
 | `au-csiro-topup-uow` | HTTP 200 → https://www.uow.edu.au/research/graduate-research/scholarships/items/csiro-top-up-scholarships.php |
 | `qmul-csc-projects` | HTTP 200 → https://www.qmul.ac.uk/maths/postgraduate/postgraduate-research/phd-projects/current-phd-projects/china-scholarship-council-projects/ |
@@ -648,7 +629,7 @@
 | `nanogune-combined-master-phd` | HTTP 200 → https://www.nanogune.eu/en/combined-master-phd-positions |
 | `quantum-informatics-cdt-faq` | HTTP 200 → https://www.quantuminformatics-cdt.ac.uk/faqs/ |
 | `imprs-tp-application` | HTTP 200 → https://www.imprs-tp.mpg.de/2879/application |
-| `ictp-postdoc-positions` | HTTP 200 → https://www.ictp.it/opportunity/2026-cmsp-postdoctoral-position |
+| `oead-shanghai-office` | HTTP 200 → https://oead.at/en/the-oead/oead-cooperation-offices-abroad/scientific-cooperation-office-in-shanghai |
 | `mff-cuni-scholarships` | HTTP 200 → https://www.mff.cuni.cz/en/admissions/scholarships |
 | `lmu-life-science-munich-csc` | HTTP 200 → https://www.bio.lmu.de/lsm/en/ |
 | `clay-research-fellowship` | HTTP 200 → https://www.claymath.org/fellowship-nominations/ |
@@ -657,7 +638,6 @@
 | `brown-five-year-guarantee` | HTTP 200 → https://graduateschool.brown.edu/financing-support/funding-guarantee |
 | `tulane-interdisciplinary-phd-stipend` | HTTP 200 → https://medicine.tulane.edu/interdisciplinary-phd-program/stipends-and-benefits |
 | `raeng-research-fellowships-entry` | HTTP 200 → https://raeng.org.uk/programmes-and-prizes/programmes/uk-grants-and-prizes/support-for-research/research-fellowships/ |
-| `cpra-nserc-ucalgary-2026` | HTTP 200 → https://coldsite-ucalgary.azurewebsites.net/ |
 | `nyu-shanghai-phd-programs` | HTTP 200 → https://shanghai.nyu.edu/page/phd-programs |
 | `oxford-csae-economics-scholarships` | HTTP 200 → https://csae.site.ox.ac.uk/scholarships |
 | `cbs-economics-doctoral-fellowships-mpi` | HTTP 200 → https://www.econ.mpg.de/419085/application |
@@ -674,18 +654,17 @@
 | `qmul-sbcs-csc` | HTTP 300 → https://www.qmul.ac.uk:443/sbcs/postgraduate/phd-programmes/studentships/china-scholarship-council |
 | `ualberta-csc-medicine` | HTTP 200 → https://www.ualberta.ca/en/medicine/programs/graduatestudies/china-scholarship-council.html |
 | `ubc-4yf-doctoral` | HTTP 200 → https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf |
-| `ucalgary-ages` | HTTP 200 → https://coldsite-ucalgary.azurewebsites.net/ |
+| `ucalgary-ages` | HTTP 200 → https://grad.ucalgary.ca/awards-and-funding/award-opportunities/ages |
 | `mcgill-pharma-stipend` | HTTP 200 → https://www.mcgill.ca/pharma/students/graduate/financial-aid-and-funding/stipends-and-tuition-assistance |
 | `stonybrook-chem-how-to-apply` | HTTP 200 → https://www.stonybrook.edu/chemistry-new/academics/phd-program/how-to-apply.html |
 | `aarhus-phd-salary-employment-info` | HTTP 200 → https://phd.arts.au.dk/financing/salary-and-employment/salary-5-3 |
-| `lund-psychology-phd-programme` | HTTP 200 → https://www.psy.lu.se/en/education/study-psychology-0/study-phd-programme |
+| `lund-psychology-phd-programme` | HTTP 200 → https://www.psy.lu.se/en/research/study-phd-programme?q=education/study-psychology-0/study-phd-programme |
 | `mdc-berlin-phd` | HTTP 200 → https://www.mdc-berlin.de/phd |
 | `basf-nao-asia-phd` | HTTP 200 → https://www.basf.com/cn/en/microsites/nao/how-to-apply |
 | `airbus-vie-phds` | HTTP 200 → https://www.airbus.com/en/careers/students-and-graduates/vie-and-phds |
 | `mat-bordeaux-edsc40-funded-theses` | HTTP 200 → https://doctorat.u-bordeaux.fr/application/files/6717/7945/9169/Tableau_projets_finances_2026-2027-CM-MaJ-14mai26.pdf |
 | `sfi-swiss-finance-phd` | HTTP 200 → https://www.sfi.ch/en/phd/apply-now-2022 |
 | `kochi-tech-csc-kut-phd` | HTTP 200 → https://www.kochi-tech.ac.jp/english/admission/csc_kut_scholarship_program/guideline-full-time-phd-student.html |
-| `canada-postdoctoral-research-award` | HTTP 200 → https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program |
 | `us-pcm-uw-ess-funding` | HTTP 200 → https://ess.uw.edu/education/graduate-program/ |
 | `dff-sapere-aude-research-leader` | HTTP 200 → https://dff.dk/en/managing-your-grant/previous-calls-and-guidelines/previous-calls-and-guidelines/expired-instruments/2026/oktober/sapere-aude-dff-research-leader-e26/ |
 | `bifold-graduate-school-berlin` | HTTP 200 → https://www.bifold.berlin/education/graduate-school/admission |
@@ -695,12 +674,11 @@
 | `ucla-chemistry-biochem-phd-support` | HTTP 200 → https://www.chemistry.ucla.edu/awards-and-fellowships/ |
 | `uiuc-psychology-phd-funding` | HTTP 200 → https://psychology.illinois.edu/academics/phd-psychology/psychology-phd-financial-information |
 | `berkeley-psych-phd-funding` | HTTP 200 → https://psychology.berkeley.edu/graduate/admission/funding-residency |
-| `calgary-werklund-phd-funding` | HTTP 200 → https://coldsite-ucalgary.azurewebsites.net/ |
+| `calgary-werklund-phd-funding` | HTTP 200 → https://werklund.ucalgary.ca/graduate-programs/phd-funding |
 | `toronto-eeb-graduate-stipends` | HTTP 200 → https://eeb.utoronto.ca/education/graduate/graduate-finances/graduate-stipends/ |
 | `imprs-trust` | HTTP 200 → https://www.imprs-trust.mpg.de/ |
 | `usc-dornsife-econ-phd-financial-support` | HTTP 200 → https://dornsife.usc.edu/econ/doctoral/financial-support/ |
 | `bu-econ-phd-five-year-funding` | HTTP 200 → https://www.bu.edu/econ/admissions/apply-for-a-phd/expenses-financial-aid/ |
-| `ucalgary-phd-minimum-funding-2026` | HTTP 200 → https://coldsite-ucalgary.azurewebsites.net/ |
 | `immunosensation2-bonn-phd-program` | HTTP 200 → https://www.uni-bonn.de/de/forschung-lehre/early-career/eine-promotion-planen/spps/immunosensation3 |
 | `unito-csc-phd-preselection` | HTTP 200 → https://en.unito.it/research/opportunities-research-careers/phd/internationalization-phd-courses |
 | `au-qimr-positions-vacant` | HTTP 200 → https://www.qimrb.edu.au/people-and-careers |
@@ -710,9 +688,8 @@
 | `nerc-creates-dla` | HTTP 200 → https://nercdtp.esc.cam.ac.uk/nerc-creates-dla |
 | `stanford-doerr-postdoc` | HTTP 200 → https://sustainability.stanford.edu/about-school/postdoctoral-resources/postdoctoral-fellowship-program/ |
 | `cuhk-ees-hkpfs` | HTTP 200 → https://www.ees.cuhk.edu.hk/programme/postgraduate-programmes/postgraduate-programme/ |
-| `ucalgary-geoscience-phd` | HTTP 200 → https://coldsite-ucalgary.azurewebsites.net/ |
+| `ucalgary-geoscience-phd` | HTTP 200 → https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/geoscience-phd?page=1 |
 | `ocb-jobs` | HTTP 200 → https://www.us-ocb.org/science-support/jobs-and-postdocs/ |
-| `jane-coffin-childs` | HTTP 200 → https://coldsite-ucalgary.azurewebsites.net/ |
 | `tampere-ippe-epi-phd` | HTTP 200 → https://www.tuni.fi/en/tau/doctoral-programmes/international-doctoral-programme-epidemiology-and-public-health-ippe |
 | `cuhk-sph-research-postgrad` | HTTP 200 → https://sphpc.cuhk.edu.hk/rpg-programme/ |
 | `cuhk-phd-public-health-hkpfs` | HTTP 200 → https://sphpc.cuhk.edu.hk/phd-in-public-health-2025-26-hong-kong-phd-fellowship-scheme-hkpfs-open-for-application-2/?lang=zh |
@@ -731,13 +708,13 @@
 | `cjbs-phd-funding` | HTTP 200 → https://www.jbs.cam.ac.uk/phd-research-masters/financing-your-phd/ |
 | `nl-utrecht-phd-vacancies` | HTTP 200 → https://www.uu.nl/en/organisation/phd-programmes/starting-a-phd-track/phd-vacancies |
 | `nl-rug-phd-vacancies` | HTTP 200 → https://www.rug.nl/cf/research/phd-programme/phd-vacancies |
+| `nl-euraxess-netherlands` | HTTP 200 → https://www.euraxess.nl:443/ |
 | `be-imec-phd` | HTTP 200 → https://www.imec-int.com/en/work-at-imec/job-opportunities/phd-at-imec |
 | `getty-predoc-postdoc-fellowships` | HTTP 200 → https://www.getty.edu/projects/pre-and-postdoctoral-fellowships/ |
 | `uottawa-phd-intl-research-scholarship` | HTTP 200 → https://www.uottawa.ca/study/graduate-studies/funding-financing/awards/phd-student-international-research-scholarship |
 | `utoronto-sgs-financial-support` | HTTP 200 → https://sgs.calendar.utoronto.ca/financial-support |
 | `utoronto-connaught-intl` | HTTP 200 → https://www.sgs.utoronto.ca/awards/connaught-doctoral-scholarships/ |
-| `ucalgary-funding-floor` | HTTP 200 → https://coldsite-ucalgary.azurewebsites.net/ |
-| `ucalgary-killam-postdoc` | HTTP 200 → https://coldsite-ucalgary.azurewebsites.net/ |
+| `ucalgary-funding-floor` | HTTP 200 → https://grad.ucalgary.ca/awards-and-funding/funding-TB-students |
 | `sfu-physics-funding` | HTTP 200 → https://www.sfu.ca/physics/graduate/prospective/financial-support.html |
 | `laval-doctorate-tuition-exemption` | HTTP 200 → https://www.ulaval.ca/etudes/droits-de-scolarite/etudiant-de-linternational |
 | `dal-research-excellence` | HTTP 200 → https://www.dal.ca/faculty/gradstudies/finance-your-studies/scholarships-bursaries/research-excellence-scholarship.html |
@@ -748,6 +725,8 @@
 | `gov-canada-intl-scholarships` | HTTP 200 → https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng |
 | `polyu-hkpfs` | HTTP 200 → https://www.polyu.edu.hk/engl/study/research-postgraduate-programme/hong-kong-phd-fellowship-scheme/ |
 | `um-umps-phd` | HTTP 200 → https://grs.um.edu.mo/index.php/prospective-students/phd-funding/um-phd-scholarship/ |
+| `euraxess-japan` | HTTP 200 → https://euraxess.ec.europa.eu/worldwide/japan |
+| `purdue-education-grad-funding` | HTTP 200 → https://education.purdue.edu/students/graduate-students/graduate-fellowships-and-assistantships/ |
 | `osu-german-admissions-funding` | HTTP 200 → https://germanic.osu.edu/graduate-studies-0/admissions-and-funding |
 | `uiowa-engineering-grad-funding` | HTTP 200 → https://engineering.uiowa.edu/future-students/graduate-programs/graduate-funding |
 | `uiowa-microbiology-financial-support` | HTTP 200 → https://microbiology.medicine.uiowa.edu/graduate-education/admissions/financial-support |
@@ -805,7 +784,7 @@
 | `lu-lih-doctoral-training` | HTTP 200 → https://www.lih.lu/en/article/new-phd-grants/ |
 | `jobs-ac-uk-microbiology-studentships` | HTTP 200 → https://www.jobs.ac.uk:443/categories/microbiology |
 | `studyinfinland-doctoral-admissions` | HTTP 200 → https://www.studyinfinland.fi/admissions/doctoral-admissions |
-| `edinburgh-doctoral-other-funding` | HTTP 200 → https://login.microsoftonline.com/2e9f06b0-1669-4589-8789-10a06934dc61/saml2?SAMLRequest=fVLLbtswEPwVgneJpCwrEmHZcGMUNZA2RqTkkEtBUeuIKEW6JJW0f1%2F6VaRAkQuBBWdndmd2sfo1avQKzitrasxSihEYaXtlXmr82H5OSrxaLrwYdXbg6ykM5gF%2BTuADio3G8%2FNPjSdnuBVeeW7ECJ4HyZv11zuepZQfnA1WWo3R2ntwIUrdWuOnEVwD7lVJeHy4q%2FEQwsFzQlR%2FSKFPhUynH8eCxP690kBO8uRIm5HdfdOSprnHaBOHUUaE0wJXDm1flElHJZ31dh%2Bs0cpAKu1IMqj2tOhowoqiSvJ5WSXlTXwYFbSoZnkvC0ZOW63eBldfB8Fou6nx97KaiQq6XOYspwDzG%2BhgVrJMMAal6PMI836CrfFBmFDjjGZFpE6yqmWUszlnNC0YfcZodzHlkzJnsz9ysDuDPP%2FStrvkuDtGT9fQIgBfIuIndfc%2Bm4%2BJxTUQvPyv%2FX5QXWc1hGFB3iv8PYlvkXK72Vmt5G%2B01tq%2B3ToQAWoc3ASYLC99%2Fx7P8g8%3D&RelayState=e1s1&whr=ed.ac.uk |
+| `edinburgh-doctoral-other-funding` | HTTP 200 → https://login.microsoftonline.com/2e9f06b0-1669-4589-8789-10a06934dc61/saml2?SAMLRequest=fVJdj5swEPwrlt%2FB2AQCVkiUXlQ10rUXHVwf%2BlIZsxxWjZ3a5q799yVf1VWq7sXSyrMzuzO72vwaNXoB55U1FaZxghEYaTtlniv81HyMCrxZr7wYNTvy7RQG8wg%2FJ%2FABzY3G88tPhSdnuBVeeW7ECJ4Hyevt53vO4oQfnQ1WWo3R1ntwYZa6s8ZPI7ga3IuS8PR4X%2BEhhKPnhKjuGEMXCxlPP04Fmft7pYGc5cmJlpHDQ92Qun7AaDcPo4wI5wVuHNo%2BKxOPSjrrbR%2Bs0cpALO1IGJR9krdJRPO8jBZZUUbFcn5oIpK8TBedzCk5b7V5HVx1GwSj%2Fa7C30VStGnWsjxtoWz7VObLtCy7rKfFslwssxnm%2FQR744MwocIsYXlEaZSwhlLOCr7IYprSbxgdrqZ8UOZi9nsOtheQ55%2Ba5hCddsfo6y20GYCvEfGzunubzfvE4hYIXv%2FXfj%2BotrUawrAibxX%2BnsSXmXK%2FO1it5G%2B01dq%2B3jkQASoc3ASYrK99%2Fx7P%2Bg8%3D&RelayState=e1s1&whr=ed.ac.uk |
 | `durham-csc-joint-award` | HTTP 200 → https://www.durham.ac.uk/study/scholarships/international/chinese-scholarships-council/ |
 | `harvard-international-graduate-funding` | HTTP 200 → https://scholarships.harvard.edu/international-graduate-students/ |
 | `stanford-bioengineering-financial-aid` | HTTP 200 → https://bioengineering.stanford.edu/academics-admission/graduate-funding |
@@ -827,6 +806,7 @@
 | `imperial-gida-studentships` | HTTP 200 → https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/opportunities/studentships/ |
 | `toronto-phs-phd-funding-policy` | HTTP 200 → https://www.dlsph.utoronto.ca/academic-policies/phd-funding-policy-for-phs-students-2025-26/ |
 | `mlai-ellis-phd-admission-guidelines` | HTTP 200 → https://ellis.eu/research/phd-postdoc/guidelines-phd-admission-process |
+| `psyedu-swdtp-psychology-pathway` | HTTP 200 → https://www.swdtp.ac.uk/prospective-students-and-fellows/esrc-funded-studentships/psychology/ |
 | `psyedu-sheffield-psychology-phd-opportunities` | HTTP 200 → https://sheffield.ac.uk/psychology/postgraduate/phd |
 | `psyedu-colorado-psych-neuro-recruiting` | HTTP 200 → https://www.colorado.edu/psych-neuro/graduate-programs/application-information/faculty-recruiting-graduate-students |
 | `hec-paris-phd-fees-funding` | HTTP 200 → https://www.hec.edu/en/phd-program/financing |
@@ -834,7 +814,6 @@
 | `temple-fox-marketing-phd` | HTTP 200 → https://bulletin.temple.edu/graduate/scd/fox/business-admin-marketing-phd/ |
 | `utep-business-phd-2026-applications` | HTTP 200 → https://www.utep.edu/business/graduate/phd/admission.html |
 | `tudelft-cheme-careers` | HTTP 200 → https://www.tudelft.nl/tnw/over-faculteit/afdelingen/chemical-engineering/career-at-cheme |
-| `imperial-cheme-phd-scholarships` | HTTP 200 → https://www.imperial.ac.uk/chemical-engineering/courses/postgraduate/phd/scholarships/ |
 | `green-cdt-nuclear-sheffield` | HTTP 200 → https://sheffield.ac.uk/cmbe/phd/doctoral-training-centres/nuclear-energy |
 | `ainse-postgraduate-research-award` | HTTP 200 → https://www.ainse.edu.au/postgraduate/ |
 | `uva-phd-vacancies-page` | HTTP 200 → https://werkenbij.uva.nl/en/vacancies?o=0&n=10&of=66546&hl=0&hh=38&s=0&f=74#vacancy-overview |
@@ -848,7 +827,7 @@
 | `qub-dfe-media-broadcast-studentships` | HTTP 200 → https://www.qub.ac.uk/courses/postgraduate-research/phd-opportunities/dfe-fully-funded-phd-studentships--media-and-broadcast.html |
 | `imperial-design-engineering-deps` | HTTP 200 → https://www.imperial.ac.uk/design-engineering/study/phd/funding-opportunities/design-engineering-scholarships/design-engineering-phd-scholarships-deps/ |
 | `nus-overseas-postdoc-fellowship` | HTTP 200 → https://www.nus.edu.sg/careers/wp-content/uploads/2024/01/NUS-OPF-scheme.pdf |
-| `bar-ilan-postdoc-fellowship` | HTTP 200 → https://validate.perfdrive.com/?ssa=a99a23d9-d628-4362-8e13-f157da0bd46e&ssb=50411268649&ssc=https%3A%2F%2Facad-sec.biu.ac.il%2FPostDrE&ssi=132ae96f-dzai-4562-aa59-acee0f45c63a&ssk=botmanager_support@radware.com&ssm=65236831104762695106662568423285&ssn=99f678f5c3e74783b8ddee82e3d3f4d420525f04a18a-3d1f-40f2-b5dda3&sso=a934a05f-003354c596f895ea8cadc02849db2b5f065095cd6d034eb7&ssp=48756367961793291017179328434196754&ssq=94500676894196979062768941006094413517313&ssr=MTcyLjE4Mi4yNDMuNzI=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/126.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2ZjMDAwMTZkZWQwMjktM2Q1Ni00ODMzLWE5ZDAtNGJjMGRmMTdmOTZmMS0xNzkzMjY4OTQxNTk0MC0wMGI4NjY5MmM0ZjMzMDM4YzMyMTAiLCJfX3V6bWYiOiI3ZjkwMDA1ZjA0YTE4YS0zZDFmLTQwZjItYjA1Zi0wMDMzNTRjNTk2ZjgxLTE3OTMyNjg5NDE1OTQwLTAwMTQyMDE4NDdmMDVjNzNlM2UxMCIsInJkIjoiYml1LmFjLmlsIn0= |
+| `bar-ilan-postdoc-fellowship` | HTTP 200 → https://validate.perfdrive.com/?ssa=dbd0ee91-a249-488f-8e5f-55adc53050d4&ssb=95761212202&ssc=https%3A%2F%2Facad-sec.biu.ac.il%2FPostDrE&ssi=836d64dc-dzai-46a4-928b-9935efc4f02d&ssk=botmanager_support@radware.com&ssm=17624780230960642104343905361928&ssn=96d4503a3efc46857aec797716d9d6e248c820f94871-7478-4c41-b440e5&sso=5a7f53e4-e0533abec7c3859f8a2367d4308c51da3af39c467ccefe39&ssp=87034940361793605588179361792102508&ssq=97581791894854365255118948864060615721998&ssr=MTcyLjIxNC4xMDkuMjAw&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/126.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDAyMGY5NDg3MS03NDc4LTRjNDEtYjNlNC1lMDUzM2FiZWM3YzMxLTE3OTM2MTg5NDg4NjQwLTAwMWMzYmE4NDM5YjVhOGE4MzcxMCIsInJkIjoiYml1LmFjLmlsIiwidXpteCI6IjdmYzAwMGYxM2UxNzBjLWQ5MzEtNDUwMi04ZDIyLWM0YTM5YmI1MGIzMjEtMTc5MzYxODk0ODg2NDAtMDBjZWE5MzExYzU0OGZlMTE4NTEwIn0= |
 | `hkust-fytgs-fees` | HTTP 200 → https://fytgs.hkust.edu.hk/admissions/Admissions-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#fees |
 | `polyu-ise-fellowship-schemes` | HTTP 200 → https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/ |
 | `nus-soc-graduate-scholarships` | HTTP 200 → https://www.comp.nus.edu.sg/financial-support/graduate-scholarships/ |
@@ -882,6 +861,7 @@
 | `mpg-susmat-jobs-page` | HTTP 200 → https://www.mpg.de/152964/sustainable-materials?filter=jobs |
 | `macdiarmid-phd-scholarships` | HTTP 200 → https://www.macdiarmid.ac.nz/about-us/join-us/phd-scholarships |
 | `dodd-walls-phd-projects` | HTTP 200 → https://www.doddwalls.ac.nz/about-us/join-us |
+| `rbi-available-research-jobs` | HTTP 200 → https://euraxess.ec.europa.eu/search?keys=RU%C4%90ER%20BO%C5%A0KOVI%C4%86%20INSTITUTE&type=job_offer |
 | `unibuc-physics-phd-admission-en` | HTTP 200 → https://doctorat.fizica.unibuc.ro/Doctorat/Admitere/Main.php |
 | `lzp-postdoc-activity-1119` | HTTP 200 → https://www.lzp.gov.lv/lv/1st-call-research-applications-under-1119-activity-post-doctoral-research |
 | `lille-doctoral-funding-2026` | HTTP 200 → https://egsesam.univ-lille.fr/fileadmin/user_upload/edsesam/Documents/Webinaires_Helene/Annexe_synthese_financements_de_theses_2026.pdf |
@@ -924,6 +904,7 @@
 | `us-cs-uh-phd-assistantship` | HTTP 200 → https://www.uh.edu/nsm/computer-science/graduate/admissions/funding/index.php |
 | `us-ucsc-graduate-division-support` | HTTP 200 → https://graduateadmissions.ucsc.edu/help-for-applicants/financial-support/ |
 | `boeckler-promotionsstipendium` | HTTP 200 → https://www.boeckler.de/de/stipendium-fur-promovierende-2670.htm |
+| `giessen-gcsc-doctoral-scholarships` | HTTP 200 → https://www.uni-giessen.de/de/fbz/ggkgcsc/graduierten-programme/index/promotion/stipendien/ausschreibung |
 | `aspen-summer-program` | HTTP 200 → https://aspenphys.org/for-physicists/admissions-and-eligibility-criteria/ |
 | `ictp-math-postdoc-2026` | HTTP 200 → https://2022.ictp.it/opportunity/mathematics-postdoctoral-positions-2027 |
 | `cruk-scotland-centre-phd-studentship` | HTTP 200 → https://www.crukscotlandcentre.ac.uk/training/phd-studentships |
@@ -985,7 +966,6 @@
 | `smith-school-oxford-dphil-route` | HTTP 200 → https://www.smithschool.ox.ac.uk/page/graduate-students |
 | `stanford-sdss-deans-graduate-scholars` | HTTP 200 → https://sustainability.stanford.edu/our-community/access-belonging-community/community-resources/prospective-students/sdss-deans-graduate-scholars-award/ |
 | `epfl-edmx-applicants` | HTTP 200 → https://www.epfl.ch/education/phd/edmx-materials-science-and-engineering/edmx-how-to-apply/ |
-| `stipendium-hungaricum-study-finder` | HTTP 200 → https://stipendiumhungaricum.hu/study-finder/ |
 | `stockholm-zoology-work-with-us` | HTTP 200 → https://www.su.se/english/divisions/department-of-zoology/about-the-department/work-with-us |
 | `ista-phd-program` | HTTP 200 → https://phd.pages.ista.ac.at/apply/ |
 | `sbp-phd-program` | HTTP 200 → https://sbpdiscovery.org/education/graduate-school/curriculum-policies/ |
@@ -1003,7 +983,6 @@
 | `hanken-doctoral-funding-routes` | HTTP 200 → https://www.hanken.fi/en/apply/programmes/phd-programme/financing-doctoral-studies |
 | `usm-postdoctoral-research-program` | HTTP 200 → https://dgiie.usm.cl/concursos/postdoctoral-research-program-2026/ |
 | `auckland-fmhs-deans-intl-doctoral` | HTTP 200 → https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/deans-international-doctoral-scholarship-640-fmhs.html |
-| `cispa-jobs-portal-phd-postdoc` | HTTP 200 → https://career.cispa.de/jobs |
 | `ruc-vacant-positions` | HTTP 200 → https://ruc.dk/en/working-roskilde-university |
 | `mit-fellowship-stipend-ay2027` | HTTP 200 → https://gue.mit.edu/news/ay2027-stipend-levels/ |
 | `nyu-tandon-phd-fellowship` | HTTP 200 → https://engineering.nyu.edu/research/office-research/phd-student-funding |
@@ -1018,6 +997,7 @@
 | `mila-supervision-requests` | HTTP 200 → https://mila.quebec/en/prospective-students-and-postdocs/research-programs/request-supervisor |
 | `riken-aip-student-recruitment` | HTTP 200 → https://aip.riken.jp/aip-osc2-0/ |
 | `hessian-ai-research` | HTTP 200 → https://www.hessian.ai/research/ |
+| `imperial-chem-eng-phd-scholarships` | HTTP 200 → https://www.imperial.ac.uk/chemical-engineering/courses/postgraduate/phd/scholarships/ |
 | `nef-cdt-southwest-nuclear` | HTTP 200 → https://southwestnuclearhub.ac.uk/cdt-nuclear-energy-futures/ |
 | `cambridge-ieef-phd` | HTTP 200 → https://ieef.cam.ac.uk/new-phd-scholarships-available/ |
 | `uclouvain-iris-financer-doctorat` | HTTP 200 → https://uclouvain.be/fr/instituts-recherche/iris/financer-son-doctorat |
@@ -1031,11 +1011,12 @@
 | `dal-psych-financial-information` | HTTP 200 → https://www.dal.ca/faculty/science/psychology_neuroscience/programs/graduate-programs/financial-information.html |
 | `mcgill-spgh-funding-policy` | HTTP 200 → https://www.mcgill.ca/spgh/about-us/governance/graduate-student-funding-policy |
 | `mqv-imprs-qst-doctoral-fellowships` | HTTP 200 → https://www.munich-quantum-valley.de/education/doctoral-fellowships |
-| `cispa-postdoc-general` | HTTP 200 → https://career.cispa.de/jobs |
 | `huji-imric-positions` | HTTP 200 → https://imric.huji.ac.il/Open-Positions |
 | `chalmers-ees-graduate-school` | HTTP 200 → https://www.chalmers.se/en/research/doctoral-studies/graduate-schools/energy-environment-and-systems/ |
 | `kth-energy-phd-studies` | HTTP 200 → https://www.energy.kth.se/education/doctoral-studies/doctoral-studies-in-energy-technology-1.942695 |
+| `univ-paris-cite-eiffel-doctorat-2027` | HTTP 200 → https://u-paris.fr/bourse-dexcellence-eiffel-2027/ |
 | `erasmus-mc-phd-vacancies` | HTTP 200 → https://www.eur.nl/en/erasmusmc/graduate-school/phd-tracks/obtaining-phd-position/phd-vacancies |
+| `ijs-young-researchers-fellowships` | HTTP 200 → https://www.ijs.si/ijsw/Young%20researchers%2C%20fellowships |
 | `semmelweis-sh-social-science` | HTTP 200 → https://apply.stipendiumhungaricum.hu/courses/course/4126-phd-semmelweis-university-doctoral-school-social-science-sociological-sciences |
 | `unicamp-pppd-imecc-2026` | HTTP 200 → https://prpg.unicamp.br/wp-content/uploads/sites/10/2026/03/Edital-PPPD-IMECC-2026.pdf |
 | `tobb-etu-full-scholarship` | HTTP 200 → https://www.etu.edu.tr/en/uluslararasi/sayfa/tuition-fees-and-scholarship-opportunities-2 |
