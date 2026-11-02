@@ -7113,8 +7113,17 @@ ajo:33125:
     quote: Please apply at https://composites.ugent.be/PhD_job_vacancies_PhD_job_positions_composites.html
   llm: '2026-10-19'
 ajo:33126:
-  checked: '2026-10-19'
-  error: 读取失败 ReadTimeout
+  checked: '2026-11-02'
+  degree:
+    value: 仅限硕士学位持有者申请
+    quote: Only candidates with a Master degree should apply.
+  duration:
+    value: 4 年
+    quote: PhD (4 years) on experimental characterization of snap fit joints (Belgium)
+  apply_via:
+    value: 其他：不接受通过 AcademicJobsOnline 申请，需在 UGent 组网站申请
+    quote: We are not accepting applications for this job through AcademicJobsOnline.Org right now. Please apply at https://composites.ugent.be/PhD_job_vacancies_PhD_job_positions_composites.html
+  llm: '2026-11-02'
 ajo:33127:
   checked: '2026-10-19'
   degree:
@@ -7703,6 +7712,18 @@ ajo:33287:
     value: 在线系统
     quote: Submit the following items online at this website to complete your application
   llm: '2026-11-01'
+ajo:33288:
+  checked: '2026-11-02'
+  duration:
+    value: 初聘 2 年，可一次性续聘 2 年
+    quote: The initial appointment for Research Fellow is for two years with the possibility of a one-time renewal of two additional years
+  documents:
+    value: 简历、研究陈述、发表清单、至少两位推荐人的推荐信（最好三位）
+    quote: a. CV b. Research Statement c. List of Publications d. Reference letters from at least two referees (three preferred)
+  apply_via:
+    value: 在线系统：通过 Academic Jobs Online 或 KIAS 招聘网站
+    quote: Interested candidates should submit applications to the Academic Jobs Online (AJO) or KIAS Job recruitment website.
+  llm: '2026-11-02'
 ajo:33292:
   checked: '2026-10-31'
   degree:
@@ -7769,6 +7790,22 @@ ajo:33304:
     value: 在线系统：在指定网站在线提交
     quote: Submit the following items online at this website to complete your application
   llm: '2026-11-01'
+ajo:33306:
+  checked: '2026-11-02'
+  start:
+    value: 预计 2027 年秋季
+    quote: expected to become available in autumn 2027
+  duration:
+    value: 初聘 2 年，可延长至第 3 年
+    quote: The initial appointment will be for a period of two years with the possibility of extension to a third year.
+  documents:
+    value: 求职信、研究陈述、发表清单、简历、两至三位推荐人
+    quote: Applications (including cover letter, research statement, list of publications and CV) should be submitted via Academic Jobs Online. Applicants are expected to name two or three referees, to
+      be asked by the system to upload their letters of recommendation.
+  apply_via:
+    value: 在线系统：通过 Academic Jobs Online
+    quote: should be submitted via Academic Jobs Online
+  llm: '2026-11-02'
 arbeitsagentur:10000-1207869912-S:
   checked: '2026-10-19'
   degree:
@@ -11565,6 +11602,18 @@ cnrs:UMR3589-AARBOO-007:
     value: 12 个月
     quote: Durée du contrat 12 mois
   llm: '2026-10-31'
+cnrs:UMR3589-GILBEL-002:
+  checked: '2026-11-02'
+  degree:
+    value: 应用数学（关注地球科学）或数学成分较强的气候科学博士，合同开始时已获得
+    quote: 'Doctorat à la date du début du contrat: - en mathématique appliquée avec intérêt pour les sciences de la Terre, ou - en sciences du climat avec une forte composante de mathématiques'
+  start:
+    value: 2027 年 2 月 1 日
+    quote: Date d'Embauche 01/02/2027
+  duration:
+    value: 12 个月
+    quote: Durée du contrat 12 mois
+  llm: '2026-11-02'
 cnrs:UMR3680-ADACHE-002:
   checked: '2026-10-19'
   degree:
@@ -11819,6 +11868,18 @@ cnrs:UMR5077-MARPEL1-027:
     value: Anna NIARAKIS 教授
     quote: encadrée par la Professeur Anna NIARAKIS
   llm: '2026-10-19'
+cnrs:UMR5077-YVEHEN-003:
+  checked: '2026-11-02'
+  degree:
+    value: 硕士水平（BAC+5）
+    quote: CDD Doctorant 36 mois BAC+5
+  start:
+    value: 2027 年 2 月 1 日
+    quote: Date d'Embauche 01/02/2027
+  duration:
+    value: 36 个月
+    quote: Durée du contrat 36 mois
+  llm: '2026-11-02'
 cnrs:UMR5086-JEAJAU0-005:
   checked: '2026-10-19'
   start:
@@ -14479,6 +14540,24 @@ cnrs:UMR8205-RAHSID-002:
     value: 物理、物理化学、材料科学、土木工程或相近学科博士
     quote: Doctorat en physique, physico-chimie, science des matériaux, génie civil ou discipline proche
   llm: '2026-10-27'
+cnrs:UMR8212-DIDROC-002:
+  checked: '2026-11-02'
+  degree:
+    value: 气候建模、气候变率或气候与生物地球化学循环相互作用领域博士
+    quote: Être titulaire d’un doctorat dans le domaine de la modélisation du climat ; la variabilité climatique ou les interactions entre climat et cycles biogéochimiques
+  language:
+    value: 英语 B2 至 C2，法语 A2 至 C2
+    quote: Anglais B2 à C2 et Français A2 à C2
+  start:
+    value: 2027 年 2 月 1 日
+    quote: Date d'Embauche 01/02/2027
+  duration:
+    value: 24 个月
+    quote: Durée du contrat 24 mois
+  supervisor:
+    value: Pascale Braconnot、Olivier Marti、Julien Crétat
+    quote: La personne recrutée sera localisée au LSCE, sous la supervision de Pascale Braconnot, d’Olivier Marti et de Julien Crétat de l’université Bourgogne Europe
+  llm: '2026-11-02'
 cnrs:UMR8213-ZHUCHE-003:
   checked: '2026-10-19'
   degree:
@@ -14933,6 +15012,18 @@ cnrs:UMR8601-LAUIAN-005:
     value: 12 个月
     quote: Durée du contrat 12 mois
   llm: '2026-10-22'
+cnrs:UMR8601-PETDAL-004:
+  checked: '2026-11-02'
+  degree:
+    value: 化学、材料化学、生物化学或相关学科博士
+    quote: Doctorat en chimie, chimie des matériaux, chimie biologique ou dans une discipline connexe.
+  start:
+    value: 2027 年 1 月 4 日
+    quote: Date d'Embauche 04/01/2027
+  duration:
+    value: 3 个月
+    quote: Durée du contrat 3 mois
+  llm: '2026-11-02'
 cnrs:UMR9001-BEADAG-009:
   checked: '2026-10-19'
   language:
@@ -15481,12 +15572,156 @@ cnrs:UPR8521-ADRTOU-010:
     value: 流体力学、数值工程、热学或相关领域博士
     quote: Doctorat en mécanique des fluides, ingénierie numérique, thermique ou domaine connexe.
   llm: '2026-10-19'
+crick:2026-08-19-costa-and-garcia-manyes-lab-the-cryo-em-structure-of-mechanically-unfolded-proteins:
+  checked: '2026-11-02'
+  supervisor:
+    value: Alessandro Costa、Sergi Garcia-Manyes
+    quote: project with Alessandro Costa and Sergi Garcia-Manyes
+  llm: '2026-11-02'
+crick:2026-08-19-costa-lab-in-situ-structure-of-the-replication-machinery-imaged-inside-a-vertebrate-nucleus:
+  checked: '2026-11-02'
+  supervisor:
+    value: Alessandro Costa
+    quote: project with Alessandro Costa
+  llm: '2026-11-02'
+crick:2026-08-19-sateriale-lab-host-pathogen-interactions-of-the-cryptosporidium-parasite:
+  checked: '2026-11-02'
+  supervisor:
+    value: Adam Sateriale
+    quote: project with Adam Sateriale
+  llm: '2026-11-02'
+crick:2026-08-20-kassiotis-and-singh-lab-retrotransposable-elements-in-glioblastoma-pathogenesis-and-immunogenicity:
+  checked: '2026-11-02'
+  supervisor:
+    value: George Kassiotis
+    quote: project with George Kassiotis
+  llm: '2026-11-02'
+crick:2026-08-20-kassiotis-lab-evolution-of-novel-function-through-retrotransposable-element-exaptation:
+  checked: '2026-11-02'
+  supervisor:
+    value: George Kassiotis
+    quote: project with George Kassiotis
+  llm: '2026-11-02'
+crick:2026-08-20-morreale-lab-enabling-antibiotics-discovery-by-targeted-protein-degradation:
+  checked: '2026-11-02'
+  supervisor:
+    value: Ester Morreale
+    quote: project with Ester Morreale
+  llm: '2026-11-02'
+? crick:2026-08-20-tedesco-and-serio-lab-advanced-engineering-of-the-human-neuromuscular-and-myotendinous-junctions-for-next-generation-in-vitro-3d-modelling-of-severe-muscle-disorders
+: checked: '2026-11-02'
+  supervisor:
+    value: Saverio Tedesco
+    quote: project with Saverio Tedesco
+  llm: '2026-11-02'
+crick:2026-08-20-uhlmann-lab-chromosome-organisation-by-dynamic-cohesin-complexes:
+  checked: '2026-11-02'
+  supervisor:
+    value: Frank Uhlmann
+    quote: project with Frank Uhlmann
+  llm: '2026-11-02'
+? crick:2026-08-21-bahler-and-oliferenko-lab-define-quiescence-associated-metabolic-programmes-in-a-non-respiring-eukaryote-and-its-respiring-relative
+: checked: '2026-11-02'
+  supervisor:
+    value: Jurg Bahler
+    quote: project with Jurg Bahler
+  llm: '2026-11-02'
+crick:2026-08-21-bull-lab-computational-modelling-of-cell-morphology-in-the-spatial-organisation-of-cancer:
+  checked: '2026-11-02'
+  supervisor:
+    value: Josh Bull
+    quote: project with Josh Bull
+  llm: '2026-11-02'
+crick:2026-08-21-cardoso-moreira-lab-how-maternal-immune-systems-evolved-to-support-the-placenta:
+  checked: '2026-11-02'
+  supervisor:
+    value: Margarida Cardoso Moreira
+    quote: project with Margarida Cardoso Moreira
+  llm: '2026-11-02'
+crick:2026-08-21-kohl-lab-function-and-flexibility-of-neural-circuits-for-instinctive-behaviours:
+  checked: '2026-11-02'
+  supervisor:
+    value: Jonny Kohl
+    quote: project with Jonny Kohl
+  llm: '2026-11-02'
+crick:2026-08-21-osipova-lab-genetic-mechanisms-of-metabolic-rate-control-in-birds-and-mammals:
+  checked: '2026-11-02'
+  supervisor:
+    value: Katya Osipova
+    quote: project with Katya Osipova
+  llm: '2026-11-02'
+? crick:2026-08-21-tapon-lab-keeping-up-with-the-neighbours-developmental-control-of-tissue-growth-through-local-cell-communication
+: checked: '2026-11-02'
+  supervisor:
+    value: Nic Tapon
+    quote: project with Nic Tapon
+  llm: '2026-11-02'
+crick:2026-08-21-way-lab-investigating-the-role-of-signalling-and-the-cytoskeleton-during-vaccinia-virus-egress:
+  checked: '2026-11-02'
+  supervisor:
+    value: Michael Way
+    quote: project with Michael Way
+  llm: '2026-11-02'
+crick:2026-08-24-matthews-lab-interaction-between-host-and-virus-in-outcomes-of-hepatitis-b-virus-infection:
+  checked: '2026-11-02'
+  supervisor:
+    value: Philippa Matthews
+    quote: project with Philippa Matthews
+  llm: '2026-11-02'
+crick:2026-08-24-nurse-lab-investigating-cdk-control-of-the-eukaryotic-cell-cycle:
+  checked: '2026-11-02'
+  supervisor:
+    value: Paul Nurse
+    quote: project with Paul Nurse
+  llm: '2026-11-02'
+crick:2026-08-24-rosenthal-lab-cryomicroscopy-of-lipid-enveloped-virus-entry-and-assembly:
+  checked: '2026-11-02'
+  supervisor:
+    value: Peter Rosenthal
+    quote: project with Peter Rosenthal
+  llm: '2026-11-02'
+? crick:2026-08-24-znamenskiy-lab-cell-types-connectivity-and-computation-reconstructing-molecularly-annotated-connectome-of-the-mouse-visual-cortex
+: checked: '2026-11-02'
+  supervisor:
+    value: Petr Znamenskiy
+    quote: project with Petr Znamenskiy
+  llm: '2026-11-02'
+crick:2026-08-25-chaaban-lab-regulatory-switching-of-a-microtubule-motor-scaffold-complex:
+  checked: '2026-11-02'
+  supervisor:
+    value: Sami Chaaban
+    quote: project with Sami Chaaban
+  llm: '2026-11-02'
+? crick:2026-08-25-santos-and-charras-lab-building-the-human-amniotic-sac-mechanics-and-growth-control-of-human-post-gastrulation-amnioids
+: checked: '2026-11-02'
+  supervisor:
+    value: Silvia Santos
+    quote: project with Silvia Santos
+  llm: '2026-11-02'
+crick:2026-08-25-santos-lab-the-evolutionary-logic-of-amniogenesis-lessons-from-stem-cell-models:
+  checked: '2026-11-02'
+  supervisor:
+    value: Silvia Santos
+    quote: project with Silvia Santos
+  llm: '2026-11-02'
 crick:2026-08-25-skoglund-lab-ancient-genomics:
   checked: '2026-10-30'
   supervisor:
     value: Pontus Skoglund
     quote: join the Crick ancient genomics laboratory and Group Leader Pontus Skoglund
   llm: '2026-10-30'
+crick:2026-08-26-iacaruso-lab-circuit-mechanisms-underlying-multisensory-integration-in-the-superior-colliculus:
+  checked: '2026-11-02'
+  supervisor:
+    value: Florencia Iacaruso
+    quote: project with Florencia Iacaruso
+  llm: '2026-11-02'
+? crick:2026-09-24-wilson-lab-exploring-the-impact-of-developmental-robustness-on-the-severity-of-congenital-defects-of-eye-formation
+: checked: '2026-11-02'
+  supervisor:
+    value: Stephen Wilson
+    quote: project with Stephen Wilson
+  llm: '2026-11-02'
 daad:10367:
   checked: '2026-10-19'
   degree:
@@ -20332,12 +20567,97 @@ findaphd:198023:
   llm: '2026-11-01'
 findaphd:198024:
   checked: '2026-10-23'
+  duration:
+    value: 津贴期限 36 或 42 个月
+    quote: providing a tax-free stipend at the applicable Imperial/UKRI rate for 36 or 42 months
+  documents:
+    value: 最新简历、学业成绩单、研究兴趣简述
+    quote: Email an up-to-date CV, academic transcripts and a brief statement of research interests to nan.li@imperial.ac.uk
+  apply_via:
+    value: 邮件：发给 nan.li@imperial.ac.uk，通过后再受邀走学校在线正式申请
+    quote: Email an up-to-date CV, academic transcripts and a brief statement of research interests to nan.li@imperial.ac.uk
+  nationality:
+    value: 一个名额覆盖 Home 学费；国际申请者需能自付海外与本地学费差额才可考虑
+    quote: One studentship covers tuition fees at the Home rate. International applicants can also be considered if they can cover the difference between the Overseas and Home fee rates
+  llm: '2026-11-02'
 findaphd:198074:
   checked: '2026-10-23'
+  degree:
+    value: 硕士（Merit）及本科一等或二等上荣誉
+    quote: A Master's degree with Merit and a Bachelor's degree with first-class or upper second-class honors are required for PhD admissions.
+  language:
+    value: 母语非英语者需 IELTS 6.5 或同等
+    quote: The candidate should have an IELTS (or equivalent) score of 6.5 or above, if the first language is not English.
+  duration:
+    value: 3 年（视进展而定）
+    quote: The PhD studentship is available for three years subject to satisfactory progress by the student.
+  documents:
+    value: 简历、两封推荐信、个人陈述、英语证明、中英文成绩单、学历证书、硕士论文
+    quote: CV Two formal reference letters Personal statement outlining your interest in the position Certificates of English language qualifications (IELTS or equivalent) Full academic transcripts in both
+      Chinese and English (for international students, only the English version is required) Verified certificates of education qualifications in both Chinese and English (for international students, only
+      the English version is required) PDF copy of Master Degree dissertation (or an equivalent writing sample) and examiners reports available
+  apply_via:
+    value: 邮件：发给 dongyao.jia@xjtlu.edu.cn
+    quote: Please email dongyao.jia@xjtlu.edu.cn with a subject line of the PhD project title.
+  supervisor:
+    value: Dongyao Jia 博士
+    quote: 'Principal supervisor: Dr Dongyao Jia (XJTLU)'
+  nationality:
+    value: 对所有合格申请者开放，不限国籍
+    quote: This position is open to all qualified candidates irrespective of nationality.
+  llm: '2026-11-02'
 findaphd:198075:
   checked: '2026-10-23'
+  degree:
+    value: 硕士（Merit）及本科一等或二等上荣誉
+    quote: A Master's degree with Merit and a Bachelor's degree with first-class or upper second-class honors are required for PhD admissions.
+  language:
+    value: 母语非英语者需 IELTS 6.5 或同等
+    quote: The candidate should have an IELTS (or equivalent) score of 6.5 or above, if the first language is not English.
+  duration:
+    value: 3 年（视进展而定）
+    quote: The PhD studentship is available for three years subject to satisfactory progress by the student.
+  documents:
+    value: 简历、两封推荐信、个人陈述、英语证明、中英文成绩单、学历证书、硕士论文
+    quote: CV Two formal reference letters Personal statement outlining your interest in the position Certificates of English language qualifications (IELTS or equivalent) Full academic transcripts in both
+      Chinese and English (for international students, only the English version is required) Verified certificates of education qualifications in both Chinese and English (for international students, only
+      the English version is required) PDF copy of Master Degree dissertation (or an equivalent writing sample) and examiners reports available
+  apply_via:
+    value: 邮件：发给 Dongyao.jia@xjtlu.edu.cn
+    quote: Interested applicants are advised to email Dongyao.jia@xjtlu.edu.cn the following documents for initial review and assessment
+  supervisor:
+    value: Dongyao Jia 博士
+    quote: 'Principal supervisor: Dr Dongyao Jia (XJTLU)'
+  nationality:
+    value: 对所有合格申请者开放，不限国籍
+    quote: This position is open to all qualified candidates irrespective of nationality.
+  llm: '2026-11-02'
 findaphd:198076:
   checked: '2026-10-23'
+  degree:
+    value: 硕士（Merit）及本科一等或二等上荣誉
+    quote: A Master's degree with Merit and a Bachelor's degree with first-class or upper secondclass honors are required for PhD admissions.
+  language:
+    value: 母语非英语者需 IELTS 6.5 或同等
+    quote: The candidate should have an IELTS (or equivalent) score of 6.5 or above, if the first language is not English.
+  duration:
+    value: 3 年（视进展而定）
+    quote: The PhD studentship is available for three years subject to satisfactory progress by the student.
+  documents:
+    value: 简历、两封推荐信、个人陈述、英语证明、中英文成绩单、学历证书、硕士论文
+    quote: CV Two reference letters with company/university letterhead Personal statement outlining your interest in the position Proof of English language proficiency (an IELTS score of 6.5 or above) Verified
+      school transcripts in both Chinese and English (for international students, only the English version is required) Verified certificates of education qualifications in both Chinese and English (for
+      international students, only the English version is required) PDF copy of Master Degree dissertation (or an equivalent writing sample) and examiners reports available
+  apply_via:
+    value: 邮件：发给 Qiufeng.Wang@xjtlu.edu.cn
+    quote: Interested applicants are advised to email Qiufeng.Wang@xjtlu.edu.cn the following documents for initial review and assessment
+  supervisor:
+    value: Qiufeng Wang 教授
+    quote: 'Principal supervisor: Professor Qiufeng Wang (XJTLU)'
+  nationality:
+    value: 对所有合格申请者开放，不限国籍
+    quote: This position is open to all qualified candidates irrespective of nationality.
+  llm: '2026-11-02'
 findaphd:198078:
   checked: '2026-10-23'
   degree:
@@ -20359,8 +20679,34 @@ findaphd:198078:
   llm: '2026-10-24'
 findaphd:198124:
   checked: '2026-10-23'
+  degree:
+    value: 电气、机械工程、物理或计算机科学背景
+    quote: 'Target Background for student: Electrical, Mechanical Engineering, Physics, Computer Science'
+  apply_via:
+    value: 其他：先联系首席导师或项目组，详见 How to Apply 页
+    quote: Contact the lead supervisor or programme team to discuss your interest.
+  supervisor:
+    value: Michael Ward
+    quote: 'Proposed Lead Supervisor: Michael Ward'
+  llm: '2026-11-02'
 findaphd:198160:
   checked: '2026-10-23'
+  duration:
+    value: 3 年全额资助
+    quote: This is a fully-funded, three-year PhD position
+  documents:
+    value: 一页兴趣陈述、简历、成绩单
+    quote: 'A brief statement of interest (1 page): Please explain why you are interested in this specific project and how your skills and background are a good fit. A CV A copy of your academic transcript(s).'
+  apply_via:
+    value: 邮件：发给主导师 talia.xu@auckland.ac.nz
+    quote: To apply, please email the following three items directly to the main supervisor, Dr. Talia Xu ( talia.xu@auckland.ac.nz )
+  supervisor:
+    value: Talia Xu 博士
+    quote: You will be supervised by Dr. Talia Xu at the University of Auckland
+  nationality:
+    value: 欢迎国内外申请者
+    quote: Applications from both domestic and international candidates are welcome.
+  llm: '2026-11-02'
 findaphd:198164:
   checked: '2026-10-23'
   degree:
@@ -20392,8 +20738,16 @@ findaphd:198165:
   llm: '2026-11-01'
 findaphd:198181:
   checked: '2026-10-23'
+  degree:
+    value: 国际申请者须位列知名高校毕业班前 5%
+    quote: International applicant should rank within the top 5% of their graduating class from a highly regarded university.
+  llm: '2026-11-02'
 findaphd:198182:
   checked: '2026-10-23'
+  degree:
+    value: 国际申请者须位列知名高校毕业班前 5%
+    quote: International applicant should rank within the top 5% of their graduating class from a highly regarded university.
+  llm: '2026-11-02'
 findaphd:198198:
   checked: '2026-10-23'
   supervisor:
@@ -20533,18 +20887,72 @@ findaphd:198238:
   llm: '2026-10-24'
 findaphd:198251:
   checked: '2026-10-23'
+  duration:
+    value: 资助覆盖学费及生活补助，为期 42 个月
+    quote: It covers both tuition fees and a tax-free contribution to maintenance costs of £25,000 per annum for 42 months.
+  apply_via:
+    value: 在线系统：通过在线招生系统提交博士申请
+    quote: you will need to submit your PhD application for admission through the online admissions system
+  nationality:
+    value: 对所有申请者开放，不论学费身份
+    quote: This scholarship is open to all applicants regardless of their fee status.
+  llm: '2026-11-02'
 findaphd:198253:
   checked: '2026-10-23'
+  duration:
+    value: 资助覆盖学费及生活补助，为期 42 个月
+    quote: It covers both tuition fees and a tax-free contribution to maintenance costs of £25,000 per annum for 42 months.
+  apply_via:
+    value: 在线系统：通过在线招生系统提交博士申请
+    quote: you will need to submit your PhD application for admission through the online admissions system
+  nationality:
+    value: 对所有申请者开放，不论学费身份
+    quote: This scholarship is open to all applicants regardless of their fee status.
+  llm: '2026-11-02'
 findaphd:198256:
   checked: '2026-10-23'
+  llm: '2026-11-02'
 findaphd:198257:
   checked: '2026-10-23'
+  llm: '2026-11-02'
 findaphd:198258:
   checked: '2026-10-23'
+  degree:
+    value: 硕士学位（Merit）及一等或二等一荣誉学士学位
+    quote: A Master's degree with Merit and a Bachelor's degree with first-class or upper second-class honors are required for PhD admissions.
+  language:
+    value: 英语；母语非英语者需 IELTS 6.5 或同等
+    quote: The candidate should have an IELTS (or equivalent) score of 6.5 or above, if the first language is not English.
+  nationality:
+    value: 不限国籍，合格申请者均可
+    quote: This position is open to all qualified candidates irrespective of nationality.
+  duration:
+    value: 3 年（视学习进展而定）
+    quote: The PhD studentship is available for three years subject to satisfactory progress by the student.
+  supervisor:
+    value: Yuxiao Fang 博士
+    quote: 'Principal supervisor: Dr. Yuxiao Fang (XJTLU)'
+  apply_via:
+    value: 邮件：Yuxiao.Fang02@xjtlu.edu.cn
+    quote: Interested applicants are advised to email Yuxiao.Fang02@xjtlu.edu.cn the following documents for initial review and assessment
+  documents:
+    value: 简历、两封正式推荐信、个人陈述、英语资格证书、中英文成绩单、学历证书、硕士学位论文（或同等写作样本）及考官报告
+    quote: CV Two formal reference letters Personal statement outlining your interest in the position Certificates of English language qualifications (IELTS or equivalent) Full academic transcripts in both
+      Chinese and English (for international students, only the English version is required) Verified certificates of education qualifications in both Chinese and English (for international students, only
+      the English version is required) PDF copy of Master Degree dissertation (or an equivalent writing sample) and examiners reports available
+  llm: '2026-11-02'
 findaphd:198275:
   checked: '2026-10-23'
+  duration:
+    value: 4 年全额资助博士奖学金
+    quote: fully funded, 4 years PhD scholarship
+  llm: '2026-11-02'
 findaphd:198276:
   checked: '2026-10-23'
+  duration:
+    value: 4 年全额资助博士奖学金
+    quote: fully funded, 4 years PhD scholarship
+  llm: '2026-11-02'
 findaphd:198278:
   checked: '2026-10-23'
   degree:
@@ -20587,10 +20995,46 @@ findaphd:198279:
   llm: '2026-10-26'
 findaphd:198289:
   checked: '2026-10-23'
+  degree:
+    value: 学士学位即可直接申请博士
+    quote: We welcome direct PhD applications (with a bachelor's degree).
+  llm: '2026-11-02'
 findaphd:198293:
   checked: '2026-10-23'
+  degree:
+    value: 英国一等或二等一荣誉学士学位及英国硕士学位（Merit）或同等学历
+    quote: A UK first-class or upper second-class honours Bachelor's degree and a UK Master's degree with Merit (or their equivalent) are required for PhD admissions.
+  language:
+    value: 英语；母语非英语者需 IELTS 6.5 或同等
+    quote: The candidate should have an IELTS (or equivalent) score of 6.5 or above, if the first language is not English.
+  supervisor:
+    value: Yue Li 博士、Lingyun Yu 博士（XJTLU）
+    quote: 'XJTLU supervisors: Dr. Yue Li, Dr. Lingyun Yu'
+  apply_via:
+    value: 邮件：yue.li@xjtlu.edu.cn
+    quote: Interested applicants are advised to email yue.li@xjtlu.edu.cn the following documents for initial review and assessment
+  documents:
+    value: 简历、两封正式推荐信、个人陈述、英语资格证书、中英文成绩单、学历证书、硕士学位论文（或同等写作样本）及考官报告
+    quote: CV Two formal reference letters Personal statement outlining your interest in the position Certificates of English language qualifications (IELTS or equivalent) Full academic transcripts in both
+      Chinese and English (for international students, only the English version is required) Verified certificates of education qualifications in both Chinese and English (for international students, only
+      the English version is required) PDF copy of Master Degree dissertation (or an equivalent writing sample) and examiners reports available
+  llm: '2026-11-02'
 findaphd:198330:
   checked: '2026-10-23'
+  degree:
+    value: 化学、材料科学、物理、应用科学或相关专业学位，GPA 高于 8/10 或 3.5/4.0，或 HD 或同等
+    quote: graduated or expecting to graduate with degrees in Chemistry, Materials Science or Physics, Applied Science or related disciplines, with at least a GPA above 8 out of 10, or 3.5 out of 4.0, or
+      high distinction (HD), or equivalent
+  duration:
+    value: 生活津贴 3.5 年
+    quote: provides an additional allowance to cover living costs for 3.5 years
+  apply_via:
+    value: 邮件：r.tilley@unsw.edu.au
+    quote: please send an email directly to Prof Richard Tilley ( r.tilley@unsw.edu.au )
+  documents:
+    value: 简历、成绩单、奖项等证明材料 PDF
+    quote: 'Attachments: CV, academic transcripts, and an additional PDF file which includes certificates of prizes, awards, recognitions or any other supporting evidence'
+  llm: '2026-11-02'
 findaphd:198331:
   checked: '2026-10-23'
   degree:
@@ -20608,14 +21052,116 @@ findaphd:198331:
   llm: '2026-10-24'
 findaphd:198392:
   checked: '2026-10-23'
+  start:
+    value: 2027 年 2 月 1 日起
+    quote: 'Starting date: Available from 1st February 2027'
+  duration:
+    value: 4 年
+    quote: 'Duration: 4 years'
+  supervisor:
+    value: Sattar Vakili 博士
+    quote: 'Primary supervisor: Dr Sattar Vakili'
+  degree:
+    value: 英国硕士学位或至少二等一荣誉学士学位（或同等国际学历），计算机、电子工程、数学、统计或相关专业
+    quote: a UK Master’s degree, or at least an upper second-class Bachelor’s degree, or an equivalent international qualification, in computer science, electronic engineering, mathematics, statistics or
+      a related discipline
+  apply_via:
+    value: 在线系统：UCL 研究生在线申请系统
+    quote: Applications must be made using the UCL online application system
+  nationality:
+    value: 欢迎国际申请者，但需自行承担海外与本国学费差额
+    quote: International candidates are welcome to apply, however they will need to cover the difference between the home and overseas fees.
+  llm: '2026-11-02'
 findaphd:198422:
   checked: '2026-10-23'
+  start:
+    value: 目标 2026 年 10 月前填补岗位
+    quote: Our goal is to fill positions by October 2026.
+  apply_via:
+    value: 邮件：stefano@technion.ac.il
+    quote: Please send your CV and full academic transcript directly to Prof. Stefano Recanatesi ( stefano@technion.ac.il )
+  documents:
+    value: 简历、完整成绩单
+    quote: Please send your CV and full academic transcript
+  llm: '2026-11-02'
 findaphd:198434:
   checked: '2026-10-23'
+  degree:
+    value: 硕士学位（Merit）及一等或二等一荣誉学士学位
+    quote: A Master's degree with Merit and a Bachelor's degree with first-class or upper second-class honors are required for PhD admissions.
+  language:
+    value: 英语；母语非英语者需 IELTS 7.0 或同等
+    quote: The candidate should have an IELTS (or equivalent) score of 7.0 or above, if the first language is not English.
+  nationality:
+    value: 不限国籍，合格申请者均可
+    quote: This position is open to all qualified candidates irrespective of nationality.
+  duration:
+    value: 3 年（视学习进展而定）
+    quote: The PhD studentship is available for three years subject to satisfactory progress by the student.
+  supervisor:
+    value: Jianyu Xu 博士
+    quote: 'Principal supervisor: Dr. Jianyu Xu (XJTLU)'
+  apply_via:
+    value: 邮件：Jianyu.Xu@xjtlu.edu.cn
+    quote: Interested applicants are advised to email Jianyu.Xu@xjtlu.edu.cn the following documents for initial review and assessment
+  documents:
+    value: 简历、两封正式推荐信、个人陈述、英语资格证书、中英文成绩单、学历证书、硕士学位论文（或同等写作样本）及考官报告
+    quote: CV Two formal reference letters Personal statement outlining your interest in the position Certificates of English language qualifications (IELTS or equivalent) Full academic transcripts in both
+      Chinese and English (for international students, only the English version is required) Verified certificates of education qualifications in both Chinese and English (for international students, only
+      the English version is required) PDF copy of Master Degree dissertation (or an equivalent writing sample) and examiners reports available
+  llm: '2026-11-02'
 findaphd:198436:
   checked: '2026-10-23'
+  degree:
+    value: 硕士学位（Merit）及一等或二等一荣誉学士学位
+    quote: A Master's degree with Merit and a Bachelor's degree with first-class or upper second-class honors are required for PhD admissions.
+  language:
+    value: 英语；母语非英语者需 IELTS 6.5 或同等
+    quote: The candidate should have an IELTS (or equivalent) score of 6.5 or above, if the first language is not English.
+  nationality:
+    value: 不限国籍，合格申请者均可
+    quote: This position is open to all qualified candidates irrespective of nationality.
+  duration:
+    value: 3 年（视学习进展而定）
+    quote: The PhD studentship is available for three years subject to satisfactory progress by the student.
+  supervisor:
+    value: Jieming Ma 博士
+    quote: 'Principal supervisor: Professor/Dr Jieming Ma (XJTLU)'
+  apply_via:
+    value: 邮件：Jieming.Ma@xjtlu.edu.cn
+    quote: Interested applicants are advised to email Jieming.Ma@xjtlu.edu.cn the following documents for initial review and assessment
+  documents:
+    value: 简历、两封正式推荐信、个人陈述、英语资格证书、中英文成绩单、学历证书、硕士学位论文（或同等写作样本）及考官报告
+    quote: CV Two formal reference letters Personal statement outlining your interest in the position Certificates of English language qualifications (IELTS or equivalent) Full academic transcripts in both
+      Chinese and English (for international students, only the English version is required) Verified certificates of education qualifications in both Chinese and English (for international students, only
+      the English version is required) PDF copy of Master Degree dissertation (or an equivalent writing sample) and examiners reports available
+  llm: '2026-11-02'
 findaphd:198437:
   checked: '2026-10-23'
+  degree:
+    value: 硕士学位（Merit）及一等或二等一荣誉学士学位
+    quote: A Master's degree with Merit and a Bachelor's degree with first-class or upper second-class honors are required for PhD admissions.
+  language:
+    value: 英语；母语非英语者需 IELTS 6.5 或同等
+    quote: The candidate should have an IELTS (or equivalent) score of 6.5 or above, if the first language is not English.
+  nationality:
+    value: 不限国籍，合格申请者均可
+    quote: This position is open to all qualified candidates irrespective of nationality.
+  duration:
+    value: 3 年（视学习进展而定）
+    quote: The PhD studentship is available for three years subject to satisfactory progress by the student.
+  supervisor:
+    value: Jieming Ma 博士
+    quote: 'Principal supervisor: Professor/Dr Jieming Ma (XJTLU)'
+  apply_via:
+    value: 邮件：Jieming.Ma@xjtlu.edu.cn
+    quote: Interested applicants are advised to email Jieming.Ma@xjtlu.edu.cn the following documents for initial review and assessment
+  documents:
+    value: 简历、两封正式推荐信、个人陈述、英语资格证书、中英文成绩单、学历证书、硕士学位论文（或同等写作样本）及考官报告
+    quote: CV Two formal reference letters Personal statement outlining your interest in the position Certificates of English language qualifications (IELTS or equivalent) Full academic transcripts in both
+      Chinese and English (for international students, only the English version is required) Verified certificates of education qualifications in both Chinese and English (for international students, only
+      the English version is required) PDF copy of Master Degree dissertation (or an equivalent writing sample) and examiners reports available
+  llm: '2026-11-02'
 findaphd:198446:
   checked: '2026-10-23'
   degree:
@@ -20692,6 +21238,30 @@ findaphd:198488:
   llm: '2026-10-26'
 findaphd:198502:
   checked: '2026-10-23'
+  degree:
+    value: 硕士学位（Merit）及一等或二等一荣誉学士学位
+    quote: A Master's degree with Merit and a Bachelor's degree with first-class or upper second-class honors are required for PhD admissions.
+  language:
+    value: 英语；母语非英语者需 IELTS 6.5 或同等
+    quote: The candidate should have an IELTS (or equivalent) score of 6.5 or above, if the first language is not English.
+  nationality:
+    value: 不限国籍，合格申请者均可
+    quote: This position is open to all qualified candidates irrespective of nationality.
+  duration:
+    value: 3 年（视学习进展而定）
+    quote: The PhD studentship is available for three years subject to satisfactory progress by the student.
+  supervisor:
+    value: Wen.Liu 博士
+    quote: 'Principal supervisor: Professor/Dr Wen.Liu (XJTLU)'
+  apply_via:
+    value: 邮件：Wen.Liu@xjtlu.edu.cn
+    quote: Interested applicants are advised to Wen.Liu@xjtlu.edu.cn the following documents for initial review and assessment
+  documents:
+    value: 简历、两封正式推荐信、个人陈述、英语资格证书、中英文成绩单、学历证书、硕士学位论文（或同等写作样本）及考官报告
+    quote: CV Two formal reference letters Personal statement outlining your interest in the position Certificates of English language qualifications (IELTS or equivalent) Full academic transcripts in both
+      Chinese and English (for international students, only the English version is required) Verified certificates of education qualifications in both Chinese and English (for international students, only
+      the English version is required) PDF copy of Master Degree dissertation (or an equivalent writing sample) and examiners reports available
+  llm: '2026-11-02'
 findaphd:198525:
   checked: '2026-10-23'
   degree:
@@ -20877,8 +21447,28 @@ findaphd:198610:
   llm: '2026-10-24'
 findaphd:198666:
   checked: '2026-10-23'
+  duration:
+    value: 3 年
+    quote: The position has a duration of three years.
+  apply_via:
+    value: 邮件：dieexbr17@gmail.com
+    quote: please send your CV and two references to dieexbr17@gmail.com
+  documents:
+    value: 简历、两位推荐人
+    quote: please send your CV and two references
+  llm: '2026-11-02'
 findaphd:198667:
   checked: '2026-10-23'
+  duration:
+    value: 3 年
+    quote: The position has a duration of three years.
+  apply_via:
+    value: 邮件：maoxuerui@sina.com
+    quote: please send your CV and two references to maoxuerui@sina.com
+  documents:
+    value: 简历、两位推荐人
+    quote: please send your CV and two references
+  llm: '2026-11-02'
 findaphd:198673:
   checked: '2026-10-23'
   nationality:
@@ -21054,6 +21644,25 @@ findaphd:198710:
   llm: '2026-10-31'
 findaphd:198716:
   checked: '2026-10-23'
+  degree:
+    value: 本科一等荣誉或硕士 Distinction（或国际同等学历），数学和/或计算机背景
+    quote: King’s expects applicants to hold a First-Class Honours degree at undergraduate level or a Distinction at Master’s level (or their international equivalents)
+  duration:
+    value: 3.5 年
+    quote: A fully funded PhD studentship for 3.5 years to start in October 2027
+  start:
+    value: 2027 年 10 月
+    quote: A fully funded PhD studentship for 3.5 years to start in October 2027
+  apply_via:
+    value: 在线系统：King’s Apply 在线申请系统
+    quote: candidates must apply through the King’s Apply online application system
+  supervisor:
+    value: Martin Albrecht
+    quote: 'Supervisor: Martin Albrecht'
+  nationality:
+    value: 学费对本国与海外学生全额覆盖
+    quote: 'Tuition fees: covered in full for home/overseas students'
+  llm: '2026-11-02'
 findaphd:198717:
   checked: '2026-10-23'
   degree:
@@ -21080,6 +21689,30 @@ findaphd:198717:
   llm: '2026-10-24'
 findaphd:198719:
   checked: '2026-10-23'
+  degree:
+    value: 硕士学位（Merit）及一等或二等一荣誉学士学位
+    quote: A Master's degree with Merit and a Bachelor's degree with first-class or upper second-class honors are required for PhD admissions.
+  language:
+    value: 英语；母语非英语者需 IELTS 6.5 或同等
+    quote: The candidate should have an IELTS (or equivalent) score of 6.5 or above, if the first language is not English.
+  nationality:
+    value: 不限国籍，合格申请者均可
+    quote: This position is open to all qualified candidates irrespective of nationality.
+  duration:
+    value: 3 年（视学习进展而定）
+    quote: The PhD studentship is available for three years subject to satisfactory progress by the student.
+  supervisor:
+    value: Wanxin Li 博士
+    quote: 'Principal Supervisor: Dr. Wanxin Li (XJTLU)'
+  apply_via:
+    value: 邮件：wanxin.li@xjtlu.edu.cn
+    quote: Interested applicants are advised to email wanxin.li@xjtlu.edu.cn the following documents for initial review and assessment
+  documents:
+    value: 简历、两封正式推荐信、个人陈述、英语资格证书、中英文成绩单、学历证书、硕士学位论文（或同等写作样本）及考官报告
+    quote: CV Two formal reference letters Personal statement outlining your interest in the position Certificates of English language qualifications (IELTS or equivalent) Full academic transcripts in both
+      Chinese and English (for international students, only the English version is required) Verified certificates of education qualifications in both Chinese and English (for international students, only
+      the English version is required) PDF copy of Master Degree dissertation (or an equivalent writing sample) and examiners reports available
+  llm: '2026-11-02'
 findaphd:198728:
   checked: '2026-10-23'
   duration:
@@ -21314,6 +21947,22 @@ findaphd:198887:
   llm: '2026-10-27'
 findaphd:198940:
   checked: '2026-10-23'
+  degree:
+    value: 地球科学、物理或材料科学学士（荣誉）、硕士或同等学位
+    quote: We invite people with a BSc. (hons; 1st class or 2‐1), MSc. or equivalent degree in Earth Sciences, Physics or Material Sciences to apply.
+  language:
+    value: 英语沟通清晰
+    quote: Candidates must be able to communicate clearly in English.
+  duration:
+    value: 4 年
+    quote: The project is funded for a period of 4 years
+  apply_via:
+    value: 邮件：richard.spikings@unige.ch
+    quote: should be sent to Dr. Richard Spikings ( richard.spikings@unige.ch )
+  documents:
+    value: 求职信、简历、推荐人名单
+    quote: Applications, including a cover letter, CV and list of referees
+  llm: '2026-11-02'
 findaphd:198984:
   checked: '2026-10-23'
   degree:
@@ -21364,6 +22013,16 @@ findaphd:199052:
   llm: '2026-10-24'
 findaphd:199053:
   checked: '2026-10-23'
+  nationality:
+    value: 所有申请者均可申请，不论学费身份
+    quote: This scholarship is open to all applicants regardless of their fee status.
+  duration:
+    value: 学费及免税生活补助 42 个月
+    quote: tax-free contribution to maintenance costs of £25,000 per annum for 42 months
+  apply_via:
+    value: 在线系统：通过 Imperial 申请门户
+    quote: How to apply via Imperial’s portal
+  llm: '2026-11-02'
 findaphd:199054:
   checked: '2026-10-23'
   supervisor:
@@ -21707,6 +22366,16 @@ findaphd:199119:
   llm: '2026-10-24'
 findaphd:199141:
   checked: '2026-10-23'
+  nationality:
+    value: 所有申请者均可申请，不论学费身份
+    quote: This scholarship is open to all applicants regardless of their fee status.
+  duration:
+    value: 学费及免税生活补助 42 个月
+    quote: tax-free contribution to maintenance costs of £25,000 per annum for 42 months
+  apply_via:
+    value: 在线系统：Imperial 在线入学申请系统
+    quote: you will need to submit your PhD application for admission through the online admissions system
+  llm: '2026-11-02'
 findaphd:199142:
   checked: '2026-10-23'
   degree:
@@ -21733,8 +22402,28 @@ findaphd:199142:
   llm: '2026-10-24'
 findaphd:199145:
   checked: '2026-10-23'
+  nationality:
+    value: 所有申请者均可申请，不论学费身份
+    quote: This scholarship is open to all applicants regardless of their fee status.
+  duration:
+    value: 学费及免税生活补助 42 个月
+    quote: tax-free contribution to maintenance costs of £25,000 per annum for 42 months
+  apply_via:
+    value: 在线系统：Imperial 在线入学申请系统
+    quote: you will need to submit your PhD application for admission through the online admissions system
+  llm: '2026-11-02'
 findaphd:199148:
   checked: '2026-10-23'
+  nationality:
+    value: 所有申请者均可申请，不论学费身份
+    quote: This scholarship is open to all applicants regardless of their fee status.
+  duration:
+    value: 学费及免税生活补助 42 个月
+    quote: tax-free contribution to maintenance costs of £25,000 per annum for 42 months
+  apply_via:
+    value: 在线系统：Imperial 在线入学申请系统
+    quote: you will need to submit your PhD application for admission through the online admissions system
+  llm: '2026-11-02'
 findaphd:199206:
   checked: '2026-10-23'
   degree:
@@ -21752,12 +22441,52 @@ findaphd:199206:
   llm: '2026-10-24'
 findaphd:199217:
   checked: '2026-10-23'
+  nationality:
+    value: 所有申请者均可申请，不论学费身份
+    quote: This scholarship is open to all applicants regardless of their fee status.
+  duration:
+    value: 学费及免税生活补助 42 个月
+    quote: tax-free contribution to maintenance costs of £25,000 per annum for 42 months
+  apply_via:
+    value: 在线系统：Imperial 在线入学申请系统
+    quote: you will need to submit your PhD application for admission through the online admissions system
+  llm: '2026-11-02'
 findaphd:199218:
   checked: '2026-10-23'
+  nationality:
+    value: 所有申请者均可申请，不论学费身份
+    quote: This scholarship is open to all applicants regardless of their fee status.
+  duration:
+    value: 学费及免税生活补助 42 个月
+    quote: tax-free contribution to maintenance costs of £25,000 per annum for 42 months
+  apply_via:
+    value: 在线系统：Imperial 在线入学申请系统
+    quote: you will need to submit your PhD application for admission through the online admissions system
+  llm: '2026-11-02'
 findaphd:199219:
   checked: '2026-10-23'
+  nationality:
+    value: 所有申请者均可申请，不论学费身份
+    quote: This scholarship is open to all applicants regardless of their fee status.
+  duration:
+    value: 学费及免税生活补助 42 个月
+    quote: tax-free contribution to maintenance costs of £25,000 per annum for 42 months
+  apply_via:
+    value: 在线系统：Imperial 在线入学申请系统
+    quote: you will need to submit your PhD application for admission through the online admissions system
+  llm: '2026-11-02'
 findaphd:199231:
   checked: '2026-10-23'
+  nationality:
+    value: 所有申请者均可申请，不论学费身份
+    quote: This scholarship is open to all applicants regardless of their fee status.
+  duration:
+    value: 42 个月（学费加每年 25,000 英镑免税生活补助）
+    quote: It covers both tuition fees and a tax-free contribution to maintenance costs of £25,000 per annum for 42 months.
+  apply_via:
+    value: 在线系统：通过在线招生系统提交博士申请
+    quote: you will need to submit your PhD application for admission through the online admissions system
+  llm: '2026-11-02'
 findaphd:199241:
   checked: '2026-10-23'
   degree:
@@ -21913,6 +22642,16 @@ findaphd:199281:
   llm: '2026-10-24'
 findaphd:199283:
   checked: '2026-10-23'
+  nationality:
+    value: 所有申请者均可申请，不论学费身份
+    quote: This scholarship is open to all applicants regardless of their fee status.
+  duration:
+    value: 42 个月（学费加每年 25,000 英镑免税生活补助）
+    quote: It covers both tuition fees and a tax-free contribution to maintenance costs of £25,000 per annum for 42 months.
+  apply_via:
+    value: 在线系统：通过在线招生系统提交博士申请
+    quote: you will need to submit your PhD application for admission through the online admissions system
+  llm: '2026-11-02'
 findaphd:199284:
   checked: '2026-10-23'
   apply_via:
@@ -22015,6 +22754,16 @@ findaphd:199295:
   llm: '2026-10-24'
 findaphd:199311:
   checked: '2026-10-23'
+  nationality:
+    value: 所有申请者均可申请，不论学费身份
+    quote: This scholarship is open to all applicants regardless of their fee status.
+  duration:
+    value: 42 个月（学费加每年 25,000 英镑免税生活补助）
+    quote: It covers both tuition fees and a tax-free contribution to maintenance costs of £25,000 per annum for 42 months.
+  apply_via:
+    value: 在线系统：通过在线招生系统提交博士申请
+    quote: you will need to submit your PhD application for admission through the online admissions system
+  llm: '2026-11-02'
 findaphd:199368:
   checked: '2026-10-23'
   degree:
@@ -22117,6 +22866,16 @@ findaphd:199394:
   llm: '2026-10-24'
 findaphd:199395:
   checked: '2026-10-23'
+  nationality:
+    value: 所有申请者均可申请，不论学费身份
+    quote: This scholarship is open to all applicants regardless of their fee status.
+  duration:
+    value: 42 个月（学费加每年 25,000 英镑免税生活补助）
+    quote: It covers both tuition fees and a tax-free contribution to maintenance costs of £25,000 per annum for 42 months.
+  apply_via:
+    value: 在线系统：通过在线招生系统提交博士申请
+    quote: you will need to submit your PhD application for admission through the online admissions system
+  llm: '2026-11-02'
 findaphd:199396:
   checked: '2026-10-23'
   apply_via:
@@ -22205,10 +22964,43 @@ findaphd:199418:
   llm: '2026-10-31'
 findaphd:199437:
   checked: '2026-10-23'
+  supervisor:
+    value: Blair Thornton 教授、Xiaohao Cai 博士
+    quote: 'Supervisors: Professor Blair Thornton and Dr Xiaohao Cai'
+  degree:
+    value: 英国 2:1 荣誉学位或国际同等学历
+    quote: A UK 2:1 honours degree or its international equivalent
+  nationality:
+    value: 英国、欧盟与国际学生均可获全额资助
+    quote: Fully funded for UK, EU and International students.
+  documents:
+    value: 简历、2 份学术推荐信、成绩单与证书、英语语言资格证明（如适用）
+    quote: 'Applications should include: your CV (resumé) 2 academic references degree transcripts and certificates to date English language qualification (if applicable)'
+  llm: '2026-11-02'
 findaphd:199453:
   checked: '2026-10-23'
+  nationality:
+    value: 所有申请者均可申请，不论学费身份
+    quote: This scholarship is open to all applicants regardless of their fee status.
+  duration:
+    value: 42 个月（学费加每年 25,000 英镑免税生活补助）
+    quote: It covers both tuition fees and a tax-free contribution to maintenance costs of £25,000 per annum for 42 months.
+  apply_via:
+    value: 在线系统：通过在线招生系统提交博士申请
+    quote: you will need to submit your PhD application for admission through the online admissions system
+  llm: '2026-11-02'
 findaphd:199454:
   checked: '2026-10-23'
+  nationality:
+    value: 所有申请者均可申请，不论学费身份
+    quote: This scholarship is open to all applicants regardless of their fee status.
+  duration:
+    value: 42 个月（学费加每年 25,000 英镑免税生活补助）
+    quote: It covers both tuition fees and a tax-free contribution to maintenance costs of £25,000 per annum for 42 months.
+  apply_via:
+    value: 在线系统：通过在线招生系统提交博士申请
+    quote: you will need to submit your PhD application for admission through the online admissions system
+  llm: '2026-11-02'
 findaphd:199462:
   checked: '2026-10-23'
   degree:
@@ -22336,10 +23128,13 @@ findaphd:199488:
   llm: '2026-10-24'
 findaphd:199496:
   checked: '2026-10-23'
+  llm: '2026-11-02'
 findaphd:199497:
   checked: '2026-10-23'
+  llm: '2026-11-02'
 findaphd:199498:
   checked: '2026-10-23'
+  llm: '2026-11-02'
 findaphd:199499:
   checked: '2026-10-23'
   llm: '2026-10-24'
@@ -22485,6 +23280,16 @@ findaphd:199539:
   llm: '2026-10-24'
 findaphd:199545:
   checked: '2026-10-23'
+  nationality:
+    value: 所有申请者均可申请，不论学费身份
+    quote: This scholarship is open to all applicants regardless of their fee status.
+  duration:
+    value: 42 个月（学费加每年 25,000 英镑免税生活补助）
+    quote: It covers both tuition fees and a tax-free contribution to maintenance costs of £25,000 per annum for 42 months.
+  apply_via:
+    value: 在线系统：通过在线招生系统提交博士申请
+    quote: you will need to submit your PhD application for admission through the online admissions system
+  llm: '2026-11-02'
 findaphd:199548:
   checked: '2026-10-23'
   start:
@@ -22583,8 +23388,28 @@ findaphd:199598:
   llm: '2026-10-24'
 findaphd:199599:
   checked: '2026-10-23'
+  duration:
+    value: 4 年全额资助博士奖学金
+    quote: fully-funded 4-year PhD studentship
+  supervisor:
+    value: Virgil Andrei 助理教授
+    quote: in the group of Asst Prof Virgil Andrei
+  apply_via:
+    value: 邮件：发给 virgil.andrei@ntu.edu.sg
+    quote: 'submit a detailed CV to: Asst Prof Virgil Andrei, School of Materials Science and Engineering. Email: virgil.andrei@ntu.edu.sg'
+  llm: '2026-11-02'
 findaphd:199600:
   checked: '2026-10-23'
+  duration:
+    value: 4 年全额资助博士奖学金
+    quote: fully-funded 4-year PhD studentship
+  supervisor:
+    value: Virgil Andrei 助理教授
+    quote: in the group of Asst Prof Virgil Andrei
+  apply_via:
+    value: 邮件：发给 virgil.andrei@ntu.edu.sg
+    quote: 'submit a detailed CV to: Asst Prof Virgil Andrei, School of Materials Science and Engineering. Email: virgil.andrei@ntu.edu.sg'
+  llm: '2026-11-02'
 findaphd:199606:
   checked: '2026-10-23'
   duration:
@@ -22608,6 +23433,16 @@ findaphd:199606:
   llm: '2026-10-27'
 findaphd:199617:
   checked: '2026-10-23'
+  nationality:
+    value: 所有申请者均可申请，不论学费身份
+    quote: This scholarship is open to all applicants regardless of their fee status.
+  duration:
+    value: 42 个月（学费加每年 25,000 英镑免税生活补助）
+    quote: It covers both tuition fees and a tax-free contribution to maintenance costs of £25,000 per annum for 42 months.
+  apply_via:
+    value: 在线系统：通过在线招生系统提交博士申请
+    quote: you will need to submit your PhD application for admission through the online admissions system
+  llm: '2026-11-02'
 findaphd:199618:
   checked: '2026-10-23'
   degree:
@@ -22626,6 +23461,30 @@ findaphd:199618:
   llm: '2026-10-24'
 findaphd:199619:
   checked: '2026-10-23'
+  degree:
+    value: 硕士学位（Merit）及一等或二等一荣誉学士学位
+    quote: A Master's degree with Merit and a Bachelor's degree with first-class or upper second-class honors are required for PhD admissions.
+  language:
+    value: 英语；非英语母语者需 IELTS 6.5 或同等
+    quote: The candidate should have an IELTS (or equivalent) score of 6.5 or above, if the first language is not English.
+  nationality:
+    value: 不限国籍，所有合格申请者均可申请
+    quote: This position is open to all qualified candidates irrespective of nationality.
+  documents:
+    value: 简历、两封正式推荐信、个人陈述、英语资格证书、完整成绩单、学历证书、硕士论文 PDF（或同等写作样本）
+    quote: CV Two formal reference letters Personal statement outlining your interest in the position Certificates of English language qualifications (IELTS or equivalent) Full academic transcripts in both
+      Chinese and English (for international students, only the English version is required) Verified certificates of education qualifications in both Chinese and English (for international students, only
+      the English version is required) PDF copy of Master Degree dissertation (or an equivalent writing sample) and examiners reports available
+  duration:
+    value: 3 年（学费资助，视进展而定）
+    quote: The PhD studentship is available for three years subject to satisfactory progress by the student.
+  supervisor:
+    value: Zhuo Xu 博士（主导师）
+    quote: 'Principal supervisor: Dr. Zhuo Xu (XJTLU)'
+  apply_via:
+    value: 邮件：发给 Zhuo.Xu@xjtlu.edu.cn
+    quote: Interested applicants are advised to email Zhuo.Xu@xjtlu.edu.cn the following documents for initial review and assessment
+  llm: '2026-11-02'
 findaphd:199625:
   checked: '2026-10-23'
   degree:
@@ -22784,12 +23643,16 @@ findaphd:199707:
   llm: '2026-10-24'
 findaphd:199711:
   checked: '2026-10-23'
+  llm: '2026-11-02'
 findaphd:199712:
   checked: '2026-10-23'
+  llm: '2026-11-02'
 findaphd:199713:
   checked: '2026-10-23'
+  llm: '2026-11-02'
 findaphd:199714:
   checked: '2026-10-23'
+  llm: '2026-11-02'
 findaphd:199715:
   checked: '2026-10-23'
   nationality:
@@ -22857,6 +23720,30 @@ findaphd:199745:
   llm: '2026-10-24'
 findaphd:199748:
   checked: '2026-10-23'
+  degree:
+    value: 硕士学位（Merit）及一等或二等一荣誉学士学位
+    quote: A Master's degree with Merit and a Bachelor's degree with first-class or upper second-class honors are required for PhD admissions.
+  language:
+    value: 英语；非英语母语者需 IELTS 6.5 或同等
+    quote: The candidate should have an IELTS (or equivalent) score of 6.5 or above, if the first language is not English.
+  nationality:
+    value: 不限国籍，所有合格申请者均可申请
+    quote: This position is open to all qualified candidates irrespective of nationality.
+  documents:
+    value: 简历、两封正式推荐信、个人陈述、英语资格证书、完整成绩单、学历证书、硕士论文 PDF（或同等写作样本）
+    quote: CV Two formal reference letters Personal statement outlining your interest in the position Certificates of English language qualifications (IELTS or equivalent) Full academic transcripts in both
+      Chinese and English (for international students, only the English version is required) Verified certificates of education qualifications in both Chinese and English (for international students, only
+      the English version is required) PDF copy of Master Degree dissertation (or an equivalent writing sample) and examiners reports available
+  duration:
+    value: 仅学费资助 3 年，无生活津贴
+    quote: This fees-only studentship covers tuition fees for three years
+  supervisor:
+    value: Juan Li 博士（主导师）
+    quote: 'Principal supervisor: Dr Juan Li (XJTLU)'
+  apply_via:
+    value: 邮件：发给 Juan.Li@xjtlu.edu.cn
+    quote: Interested applicants are advised to email Juan.Li@xjtlu.edu.cn the following documents for initial review and assessment
+  llm: '2026-11-02'
 findaphd:199755:
   checked: '2026-10-23'
   duration:
@@ -23009,6 +23896,19 @@ findaphd:199788:
   llm: '2026-10-24'
 findaphd:199789:
   checked: '2026-10-23'
+  degree:
+    value: 物理或相近学科一等/二等一荣誉学士、MSci 或 MPhys 或同等（已获或即将获得）
+    quote: You must have or expect at least an upper second class BSc honours, MSci or MPhys or equivalent in Physics or related subject
+  language:
+    value: 非英语母语者需 IELTS 6.5 或同等
+    quote: For students whose first language is not English, we require a score of 6.5 in IELTS or equivalent
+  duration:
+    value: 全额资助 42 个月
+    quote: Fully funded for 42 months
+  apply_via:
+    value: 其他：见物理系研究生申请网页
+    quote: For further information on how to apply please see our postgraduate webpage
+  llm: '2026-11-02'
 findaphd:199790:
   checked: '2026-10-23'
   llm: '2026-10-24'
@@ -23020,6 +23920,19 @@ findaphd:199792:
   llm: '2026-10-24'
 findaphd:199793:
   checked: '2026-10-23'
+  degree:
+    value: 物理或相近学科一等/二等一荣誉学士、MSci 或 MPhys 或同等（已获或即将获得）
+    quote: You must have or expect at least an upper second class BSc honours, MSci or MPhys or equivalent in Physics or related subject
+  language:
+    value: 非英语母语者需 IELTS 6.5 或同等
+    quote: For students whose first language is not English, we require a score of 6.5 in IELTS or equivalent
+  duration:
+    value: 3.5 年（标准研究理事会标准，含津贴与学费）
+    quote: Funding is available for excellent candidates for 3.5 years at standard research council rates
+  apply_via:
+    value: 其他：见物理系研究生申请网页
+    quote: For further information on how to apply please see our postgraduate webpage
+  llm: '2026-11-02'
 findaphd:199794:
   checked: '2026-10-23'
   llm: '2026-10-24'
@@ -23037,6 +23950,22 @@ findaphd:199800:
   llm: '2026-10-24'
 findaphd:199802:
   checked: '2026-10-23'
+  degree:
+    value: 物理或相近学科一等/二等一荣誉学士、MSci 或 MPhys 或同等（已获或即将获得）
+    quote: You must have or expect at least an upper second class BSc honours, MSci or MPhys or equivalent in Physics or related subject
+  language:
+    value: 非英语母语者需 IELTS 6.5 或同等
+    quote: For students whose first language is not English, we require a score of 6.5 in IELTS or equivalent
+  duration:
+    value: 全额资助 42 个月
+    quote: Fully funded for 42 months
+  apply_via:
+    value: 其他：见物理系研究生申请网页
+    quote: For further information on how to apply please see our postgraduate webpage
+  supervisor:
+    value: Rudolf Roemer 教授、Amos Chan 博士
+    quote: under the co-supervision of Professor Rudolf Roemer and Dr Amos Chan
+  llm: '2026-11-02'
 findaphd:199803:
   checked: '2026-10-23'
   llm: '2026-10-24'
@@ -23051,6 +23980,22 @@ findaphd:199806:
   llm: '2026-10-24'
 findaphd:199807:
   checked: '2026-10-23'
+  degree:
+    value: 物理或相近学科一等/二等一荣誉学士、MSci 或 MPhys 或同等（已获或即将获得）
+    quote: You must have or expect at least an upper second class BSc honours, MSci or MPhys or equivalent in Physics or related subject
+  language:
+    value: 非英语母语者需 IELTS 6.5 或同等
+    quote: For students whose first language is not English, we require a score of 6.5 in IELTS or equivalent
+  duration:
+    value: 全额资助 42 个月
+    quote: Fully funded for 42 months
+  apply_via:
+    value: 其他：见物理系研究生申请网页
+    quote: For further information on how to apply please see our postgraduate webpage
+  start:
+    value: 2027 年 10 月
+    quote: This PhD studentship is available for starting in October 2027.
+  llm: '2026-11-02'
 findaphd:199809:
   checked: '2026-10-23'
   llm: '2026-10-24'
@@ -23065,6 +24010,19 @@ findaphd:199813:
   llm: '2026-10-24'
 findaphd:199814:
   checked: '2026-10-23'
+  degree:
+    value: 物理或相近学科一等/二等一荣誉学士、MSci 或 MPhys 或同等（已获或即将获得）
+    quote: You must have or expect at least an upper second class BSc honours, MSci or MPhys or equivalent in Physics or related subject
+  language:
+    value: 非英语母语者需 IELTS 6.5 或同等
+    quote: For students whose first language is not English, we require a score of 6.5 in IELTS or equivalent
+  duration:
+    value: 全额资助 42 个月
+    quote: Fully funded for 42 months
+  apply_via:
+    value: 其他：见物理系研究生申请网页
+    quote: For further information on how to apply please see our postgraduate webpage
+  llm: '2026-11-02'
 findaphd:199815:
   checked: '2026-10-23'
   llm: '2026-10-24'
@@ -23462,6 +24420,25 @@ findaphd:199925:
   llm: '2026-10-26'
 findaphd:199928:
   checked: '2026-10-23'
+  degree:
+    value: 已完成或正在攻读硕士（授课型、研究型或一体化硕士）
+    quote: This PhD opportunity is available to students who have completed, or are currently completing, a postgraduate taught masters, research masters, or integrated masters.
+  start:
+    value: 2027 年 10 月
+    quote: A fully funded PhD studentship for 3.5 years to start in October 2027.
+  duration:
+    value: 3.5 年全额资助
+    quote: A fully funded PhD studentship for 3.5 years to start in October 2027.
+  apply_via:
+    value: 在线系统：King’s Apply 在线申请系统
+    quote: candidates must apply via King’s Apply online application system
+  supervisor:
+    value: Max Falkenberg
+    quote: indicate Max Falkenberg as the supervisor
+  nationality:
+    value: 目前仅限英国学费身份（Home）申请人
+    quote: This opportunity is currently open to Home applicants only.
+  llm: '2026-11-02'
 findaphd:199935:
   checked: '2026-10-23'
   degree:
@@ -23716,6 +24693,16 @@ findaphd:200149:
   llm: '2026-10-24'
 findaphd:200158:
   checked: '2026-10-23'
+  duration:
+    value: 每年 £25,000 生活补助，共 42 个月
+    quote: tax-free contribution to maintenance costs of £25,000 per annum for 42 months
+  apply_via:
+    value: 在线系统：通过在线招生系统提交博士申请
+    quote: you will need to submit your PhD application for admission through the online admissions system
+  nationality:
+    value: 不论学费身份，所有申请人均可申请
+    quote: This scholarship is open to all applicants regardless of their fee status.
+  llm: '2026-11-02'
 findaphd:200163:
   checked: '2026-10-23'
   degree:
@@ -23752,8 +24739,37 @@ findaphd:200174:
   llm: '2026-10-30'
 findaphd:200181:
   checked: '2026-10-23'
+  degree:
+    value: 电气工程或相关学科硕士
+    quote: a master’s degree in electrical engineering or a related discipline
+  duration:
+    value: 4 年
+    quote: This is a fully funded 4-year studentship
+  apply_via:
+    value: 在线系统：UCL 研究生在线申请系统
+    quote: Applications must be made using the UCL online application system
+  supervisor:
+    value: Xinling Yue 博士
+    quote: 'Primary Supervisor : Dr Xinling Yue'
+  nationality:
+    value: 欢迎国际学生申请，但需自付海外与本国学费之间的差额
+    quote: International students are welcome to apply, however they will need to cover the difference between home and overseas tuition fees.
+  llm: '2026-11-02'
 findaphd:200193:
   checked: '2026-10-23'
+  duration:
+    value: 每年 £25,000 生活补助，共 42 个月
+    quote: tax-free contribution to maintenance costs of £25,000 per annum for 42 months
+  apply_via:
+    value: 在线系统：通过在线招生系统提交博士申请
+    quote: you will need to submit your PhD application for admission through the online admissions system
+  nationality:
+    value: 不论学费身份，所有申请人均可申请
+    quote: This scholarship is open to all applicants regardless of their fee status.
+  supervisor:
+    value: Heather Au 博士
+    quote: under the supervision of Dr. Heather Au
+  llm: '2026-11-02'
 findaphd:200201:
   checked: '2026-10-23'
   degree:
@@ -24204,6 +25220,7 @@ findaphd:200251:
   llm: '2026-10-24'
 findaphd:200254:
   checked: '2026-10-23'
+  llm: '2026-11-02'
 findaphd:200267:
   checked: '2026-10-23'
   start:
@@ -24283,6 +25300,30 @@ findaphd:200334:
   llm: '2026-10-26'
 findaphd:200349:
   checked: '2026-10-25'
+  degree:
+    value: 硕士（Merit）及一等或二等一荣誉学士学位
+    quote: A Master's degree with Merit and a Bachelor's degree with first-class or upper second-class honors are required for PhD admissions.
+  language:
+    value: 英语；IELTS 6.5 或同等（母语非英语者）
+    quote: The candidate should have an IELTS (or equivalent) score of 6.5 or above, if the first language is not English.
+  duration:
+    value: 资助三年（视进展而定）
+    quote: The PhD studentship is available for three years subject to satisfactory progress by the student.
+  apply_via:
+    value: 邮件：发给 Lifeng.Ding@xjtlu.edu.cn
+    quote: Interested applicants are advised to email Lifeng.Ding@xjtlu.edu.cn the following documents
+  supervisor:
+    value: Lifeng Ding 博士
+    quote: 'Principal supervisor: Dr. Lifeng Ding (XJTLU)'
+  documents:
+    value: 简历、两封推荐信、个人陈述、英语成绩证明、成绩单、学历证书、硕士论文及审稿意见
+    quote: CV Two formal reference letters Personal statement outlining your interest in the position Certificates of English language qualifications (IELTS or equivalent) Full academic transcripts in both
+      Chinese and English (for international students, only the English version is required) Verified certificates of education qualifications in both Chinese and English (for international students, only
+      the English version is required) PDF copy of Master Degree dissertation (or an equivalent writing sample) and examiners reports available
+  nationality:
+    value: 不论国籍，化学、材料、物理、人工智能背景的合格申请人均可申请
+    quote: This position is open to all qualified candidates with Chemistry, Material Science/Engineering, Physics, Artificial Intelligence background, irrespective of nationality.
+  llm: '2026-11-02'
 findaphd:200350:
   checked: '2026-10-25'
   degree:
@@ -24718,6 +25759,30 @@ findaphd:200454:
   llm: '2026-10-26'
 findaphd:200482:
   checked: '2026-10-25'
+  degree:
+    value: 硕士（Merit）及一等或二等一荣誉学士学位
+    quote: A Master's degree with Merit and a Bachelor's degree with first-class or upper second-class honors are required for PhD admissions.
+  language:
+    value: 英语；IELTS 6.5 或同等（母语非英语者）
+    quote: The candidate should have an IELTS (or equivalent) score of 6.5 or above, if the first language is not English.
+  duration:
+    value: 资助三年（视进展而定）
+    quote: The PhD studentship is available for three years subject to satisfactory progress by the student.
+  apply_via:
+    value: 邮件：发给 Ibrahim.Mehedi@xjtlu.edu.cn
+    quote: Interested applicants are advised to email Ibrahim.Mehedi@xjtlu.edu.cn the following documents
+  supervisor:
+    value: Ibrahim M. Mehedi 博士
+    quote: 'Principal supervisor: Dr. Ibrahim M. Mehedi (XJTLU)'
+  documents:
+    value: 简历、两封推荐信、个人陈述、英语成绩证明、成绩单、学历证书、硕士论文及审稿意见
+    quote: CV Two formal reference letters Personal statement outlining your interest in the position Certificates of English language qualifications (IELTS or equivalent) Full academic transcripts in both
+      Chinese and English (for international students, only the English version is required) Verified certificates of education qualifications in both Chinese and English (for international students, only
+      the English version is required) PDF copy of Master Degree dissertation (or an equivalent writing sample) and examiners reports available
+  nationality:
+    value: 不论国籍，所有合格申请人均可申请
+    quote: This position is open to all qualified candidates irrespective of nationality.
+  llm: '2026-11-02'
 findaphd:200501:
   checked: '2026-10-25'
   llm: '2026-10-26'
@@ -24792,10 +25857,49 @@ findaphd:200524:
   llm: '2026-11-01'
 findaphd:200579:
   checked: '2026-10-25'
+  degree:
+    value: 生物化学、生物物理或相关学科（或化学、工程、物理等并对生物学有浓厚兴趣）硕士水平学位
+    quote: A degree in biochemistry, biophysics or related discipline, or in chemistry, engineering, physics or related fields with a strong interest in learning biology (MSc level)
+  apply_via:
+    value: 邮件：nicole.francis@ircm.qc.ca
+    quote: Please send your CV and cover letter to nicole.francis@ircm.qc.ca
+  documents:
+    value: 简历、求职信；入围后需提供三封推荐信
+    quote: Please send your CV and cover letter to nicole.francis@ircm.qc.ca . 3 letters of recommendation will be requested if your application is pursued.
+  llm: '2026-11-02'
 findaphd:200580:
   checked: '2026-10-25'
+  degree:
+    value: 生物化学、生物物理或相关学科（或化学、工程、物理等并对生物学有浓厚兴趣）硕士水平学位
+    quote: A degree (MSc level) in biochemistry, biophysics or related discipline, or in chemistry, engineering, physics or related fields with a strong interest in learning biology
+  apply_via:
+    value: 邮件：nicole.francis@ircm.qc.ca
+    quote: Please send your CV and cover letter to nicole.francis@ircm.qc.ca
+  documents:
+    value: 简历、求职信；入围后需提供三封推荐信
+    quote: Please send your CV and cover letter to nicole.francis@ircm.qc.ca . 3 letters of recommendation will be requested if your application is pursued.
+  llm: '2026-11-02'
 findaphd:200631:
   checked: '2026-10-25'
+  degree:
+    value: 计算机、AI、数学、数据科学、物理或其他定量学科的荣誉学士（二等一或一等）或硕士学位
+    quote: A 2:1/First-Class Honours or Master’s degree in Computer Science, AI, Mathematics, Data Science, Physics, or a quantitative discipline.
+  language:
+    value: 英语沟通能力强
+    quote: strong English communication skills
+  duration:
+    value: 津贴 3.5 年
+    quote: A tax-free maintenance stipend for 3.5 years at the current UKRI rate
+  apply_via:
+    value: 在线系统：通过伯明翰大学研究生申请门户正式提交
+    quote: Formal applications must be submitted via the University of Birmingham Postgraduate Application Portal
+  supervisor:
+    value: Ruizhe Li 博士（主导师）
+    quote: 'Lead Supervisor: Dr. Ruizhe Li'
+  nationality:
+    value: 欢迎国际申请人，但需自付国际与本国学费差额
+    quote: International applicants are welcome to apply but will be required to cover the difference between Home and International fees.
+  llm: '2026-11-02'
 hnet:70592:
   checked: '2026-10-27'
   degree:
@@ -29327,8 +30431,40 @@ inspire:3217502:
   llm: '2026-10-24'
 inspire:3217504:
   checked: '2026-10-23'
+  degree:
+    value: 博士学位，且有博后经历
+    quote: Applicants must hold a PhD degree and previous postdoc experience.
+  start:
+    value: 2027 年 10 月或更早
+    quote: The preferred starting date is October 2027 (or earlier).
+  duration:
+    value: 3+3 年
+    quote: a research position for 3+3 years
+  documents:
+    value: 简历、发表列表、简短研究陈述、三封推荐信
+    quote: Applicants should provide a curriculum vitae, a list of publications and a short research statement, as well as arrange for three letters of recommendation
+  apply_via:
+    value: 在线系统：仅接受 Academic Jobs Online 在线申请
+    quote: Only online applications through Academic Jobs Online will be accepted.
+  llm: '2026-11-02'
 inspire:3217505:
   checked: '2026-10-23'
+  degree:
+    value: 理论粒子物理博士学位（任职时已获得）
+    quote: Candidates should have a PhD in theoretical particle physics at the time of the appointment
+  start:
+    value: 2027 年 10 月或更早
+    quote: with a start date of October 2027 (or earlier)
+  duration:
+    value: 两年，可能延长至第三年
+    quote: The appointment is for two years with a possible extension for a third year
+  documents:
+    value: 简历、发表列表、研究兴趣简述、两封推荐信
+    quote: Applicants should provide a curriculum vitae, a list of publications and a brief description of their research interests, as well as arrange for two letters of recommendation
+  apply_via:
+    value: 在线系统：仅接受在线申请
+    quote: Only online applications will be accepted.
+  llm: '2026-11-02'
 inspire:3217509:
   checked: '2026-10-23'
   degree:
@@ -29386,6 +30522,20 @@ inspire:3217890:
   llm: '2026-10-24'
 inspire:3217910:
   checked: '2026-10-24'
+  start:
+    value: 2027 年 8 月
+    quote: The position is for one year starting in August 2027
+  duration:
+    value: 一年，可延长至第二、第三年（视表现与经费）
+    quote: The position is for one year starting in August 2027 and could be extended for a second and third year
+  documents:
+    value: 简历、研究陈述、至少两封推荐信
+    quote: Applicants should submit a curriculum vitae and research statement using the link https://jobs.uiowa.edu/postdoc/view/4699 . They should arrange to have at least two recommendation letters sent
+      directly to Yannick Meurice
+  apply_via:
+    value: 在线系统：通过 U. Iowa 招聘链接提交
+    quote: Applicants should submit a curriculum vitae and research statement using the link https://jobs.uiowa.edu/postdoc/view/4699
+  llm: '2026-11-02'
 inspire:3217911:
   checked: '2026-10-24'
   start:
@@ -29400,6 +30550,17 @@ inspire:3217911:
   llm: '2026-10-31'
 inspire:3217922:
   checked: '2026-10-24'
+  degree:
+    value: 实验粒子物理博士学位
+    quote: Applicants must hold a Ph.D. in experimental particle physics
+  documents:
+    value: 简历、发表列表、研究兴趣陈述、三封推荐信
+    quote: should submit a curriculum vitae, a publication list, and a statement describing their research interests. Candidates should also arrange to have three letters of reference submitted directly
+      on their behalf.
+  apply_via:
+    value: 邮件：parsons@nevis.columbia.edu
+    quote: Application materials and inquiries should be sent to Prof. John Parsons <parsons@nevis.columbia.edu>
+  llm: '2026-11-02'
 inspire:3218240:
   checked: '2026-10-24'
   duration:
@@ -29628,6 +30789,24 @@ inspire:3219659:
   llm: '2026-10-29'
 inspire:3219812:
   checked: '2026-10-29'
+  degree:
+    value: 入职时已获物理、天文、天体物理或相关领域博士学位
+    quote: Applicants must have a Ph.D. in physics, astronomy, astrophysics, or a related field by the start date.
+  start:
+    value: 2027 年夏季或秋季
+    quote: The appointment has an anticipated start date of Summer or Fall 2027.
+  documents:
+    value: 简历、求职信、研究陈述（不超过 3 页）、三位推荐人联系方式
+    quote: Interested candidates should submit a CV, a cover letter, a research statement [3-page limit, not including references] and contact information for three professional references at Academic Jobs
+      Online
+  apply_via:
+    value: 在线系统：通过 Academic Jobs Online 提交
+    quote: Interested candidates should submit a CV, a cover letter, a research statement [3-page limit, not including references] and contact information for three professional references at Academic Jobs
+      Online
+  supervisor:
+    value: Jessica Zebrowski 教授
+    quote: to work with Prof. Jessica Zebrowski
+  llm: '2026-11-02'
 inspire:3219826:
   checked: '2026-10-30'
   degree:
@@ -29777,6 +30956,23 @@ inspire:3220282:
   llm: '2026-10-31'
 inspire:3220283:
   checked: '2026-10-31'
+  degree:
+    value: 实验高能物理博士学位或同等
+    quote: Candidates for the position must hold a PhD or equivalent in experimental high-energy physics.
+  start:
+    value: 2027 年第一季度内，时间灵活
+    quote: The start date is flexible, within the first quarter of 2027.
+  duration:
+    value: 预计三年（视表现与经费）
+    quote: The position is expected to last for three years
+  documents:
+    value: 学术简历、研究经历与兴趣简述、两封推荐信
+    quote: Candidates should submit an academic CV and a short Statement of Research Experience and Interests, preferably in a single pdf file, to recruitment-lhcb-igfae@grupos.nube.usc.gal . They should
+      also arrange for two letters of recommendation
+  apply_via:
+    value: 邮件：recruitment-lhcb-igfae@grupos.nube.usc.gal
+    quote: Candidates should submit an academic CV and a short Statement of Research Experience and Interests, preferably in a single pdf file, to recruitment-lhcb-igfae@grupos.nube.usc.gal
+  llm: '2026-11-02'
 inspire:3220300:
   checked: '2026-10-31'
   llm: '2026-11-01'
@@ -33232,6 +34428,22 @@ jobbnorge:310898:
     value: 在线系统：通过 Jobbnorge.no 提交
     quote: The application and all attachments must be sent electronically via Jobbnorge.no.
   llm: '2026-11-01'
+jobbnorge:310944:
+  checked: '2026-11-02'
+  degree:
+    value: 相关硕士学位，学程需相当于五年制挪威学制（硕士阶段 120 学分）
+    quote: Your course of study must correspond to a five-year Norwegian course, where 120 credits have been obtained at master's level.
+  duration:
+    value: 3 年博士工作，另有最长 1 年职业发展工作的可能
+    quote: The employment period is for 3 years for the doctoral work, in addition to the possibility of up to 1 year of career promotion work for the right candidate.
+  documents:
+    value: 本科和硕士成绩单与学位证书、简历、硕士论文（如已完成）、简短动机信（400 词 / 1 页）
+    quote: Transcripts and diplomas for Bachelor's and Master's degrees CV Copy of Master's thesis, if completed. If this is not completed, attach another project report that is relevant for the topic Short
+      letter of motivation (400 words/1 page) including what type of C-UAS (sub)system(s) you are most interested in working with / doing research on
+  apply_via:
+    value: 在线系统：通过 Jobbnorge 电子提交
+    quote: The application and all attachments must be sent electronically via Jobbnorge.no.
+  llm: '2026-11-02'
 jobbnorge:311024:
   checked: '2026-10-31'
   degree:
@@ -40660,6 +41872,27 @@ jobs-ac-uk:DTL951:
     value: Gamze Gürsoy 博士
     quote: in the laboratory of Dr Gamze Gürsoy
   llm: '2026-11-01'
+jobs-ac-uk:DTL952:
+  checked: '2026-11-02'
+  nationality:
+    value: 资助对象：英国学生、国际学生
+    quote: 'Funding for: UK Students, International Students'
+  start:
+    value: 2027 年 10 月
+    quote: 'Expected start date: October 2027.'
+  duration:
+    value: 3 年资助
+    quote: Home and international tuition fees will be covered for the duration of the 3-year award.
+  documents:
+    value: 博士项目申请表、简历、求职信
+    quote: Please complete the Doctoral Project Applicant Form , and include your CV and a covering letter to demonstrate
+  apply_via:
+    value: 在线系统：上传至大学招生门户，或邮件发送至 pgradmissions@mmu.ac.uk
+    quote: Please upload these documents in the supporting documents section of the University's Admissions Portal or email the requested documents to pgradmissions@mmu.ac.uk
+  supervisor:
+    value: Tom Mitchell 博士
+    quote: the proposed Principal Supervisor, Dr. Tom Mitchell
+  llm: '2026-11-02'
 jobs-ac-uk:DTL965:
   checked: '2026-10-31'
   nationality:
@@ -46567,6 +47800,23 @@ naturecareers:12865788:
   llm: '2026-11-01'
 naturecareers:12865795:
   checked: '2026-10-26'
+  degree:
+    value: 博士、医学博士或同等学位，博后经历不超过两年
+    quote: Applicants must hold a Ph.D., M.D., or equivalent doctoral degree and have no more than two years of postdoctoral experience.
+  start:
+    value: 时间灵活
+    quote: The anticipated start date is flexible.
+  documents:
+    value: 简历与文献目录、求职信、三位推荐人联系方式
+    quote: Interested individuals should send a curriculum vitae and bibliography, a cover letter describing research accomplishments and interest in the laboratory, and the names and contact information
+      of three references to
+  apply_via:
+    value: 邮件：shalini.oberdoerffer@nih.gov
+    quote: 'E-mail: shalini.oberdoerffer@nih.gov'
+  supervisor:
+    value: Shalini Oberdoerffer 博士
+    quote: will be trained under the leadership of Shalini Oberdoerffer, Ph.D.
+  llm: '2026-11-02'
 naturecareers:12865797:
   checked: '2026-10-19'
   degree:
@@ -46967,8 +48217,42 @@ naturecareers:12866053:
   llm: '2026-10-30'
 naturecareers:12866062:
   checked: '2026-10-26'
+  degree:
+    value: 材料科学与工程、材料化学或相近学科硕士
+    quote: Master's degree in material science and engineering, material chemistry, or a closely related field
+  language:
+    value: 英语流利（口语和写作）；法语为加分项
+    quote: Fluency in English, both spoken and written, is required. French proficiency is an asset
+  duration:
+    value: 最长 48 个月（首份合同 14 个月）
+    quote: up to 48 months (14 months initial contract)
+  documents:
+    value: 求职信、科研简历、发表与专利列表、2 位推荐人联系方式
+    quote: A motivation letter oriented towards the position and detailing your experience · A scientific CV with contact details · List of publications (and patents, if applicable) · Contact details of
+      2 references
+  apply_via:
+    value: 在线系统：通过 HR 系统在线申请，不接受邮件申请
+    quote: Please apply ONLINE formally through the HR system. Applications by email will not be considered.
+  llm: '2026-11-02'
 naturecareers:12866063:
   checked: '2026-10-27'
+  degree:
+    value: 材料科学与工程、材料化学或相近学科硕士
+    quote: Master's degree in material science and engineering, material chemistry, or a closely related field
+  language:
+    value: 英语流利（口语和写作）；法语为加分项
+    quote: Fluency in English, both spoken and written, is required. French proficiency is an asset
+  duration:
+    value: 最长 48 个月（首份合同 14 个月）
+    quote: up to 48 months (14 months initial contract)
+  documents:
+    value: 求职信、科研简历、发表与专利列表、2 位推荐人联系方式
+    quote: A motivation letter oriented towards the position and detailing your experience · A scientific CV with contact details · List of publications (and patents, if applicable) · Contact details of
+      2 references
+  apply_via:
+    value: 在线系统：通过 HR 系统在线申请，不接受邮件申请
+    quote: Please apply ONLINE formally through the HR system. Applications by email will not be considered.
+  llm: '2026-11-02'
 naturecareers:12866064:
   checked: '2026-10-27'
   degree:
@@ -47077,6 +48361,26 @@ naturecareers:12866123:
   llm: '2026-10-30'
 naturecareers:12866124:
   checked: '2026-10-30'
+  degree:
+    value: 神经科学或相关领域博士学位
+    quote: PhD in neuroscience or a related field.
+  language:
+    value: 英语书面和口语优秀
+    quote: Excellent written and spoken English.
+  duration:
+    value: 初始聘期一年
+    quote: The initial appointment is for one year.
+  documents:
+    value: 单一 PDF：研究成果一页概述、一页研究陈述、含完整发表列表的简历、两位推荐人联系方式、代码示例
+    quote: 'Please submit the following documents as a single PDF to shimpei.ishiyama@zi-mannheim.de : - One-page summary of your previous research achievements. - One-page research statement describing
+      what you would like to accomplish in our team and how it fits your long-term career goals. - Curriculum vitae including a complete publication list. - Names and contact information for two references.'
+  apply_via:
+    value: 邮件：shimpei.ishiyama@zi-mannheim.de
+    quote: Please submit the following documents as a single PDF to shimpei.ishiyama@zi-mannheim.de
+  supervisor:
+    value: Shimpei Ishiyama 博士
+    quote: led by Dr. Shimpei Ishiyama
+  llm: '2026-11-02'
 naturecareers:12866130:
   checked: '2026-10-30'
   degree:
@@ -47252,6 +48556,20 @@ naturecareers:12866194:
   llm: '2026-10-30'
 naturecareers:12866199:
   checked: '2026-10-30'
+  degree:
+    value: 相关领域博士学位
+    quote: Completed a PhD in a relevant field
+  apply_via:
+    value: 在线系统：仅通过 EIT 招聘门户提交
+    quote: All applications must be submitted exclusively though the EIT job portal.
+  supervisor:
+    value: Sam Pellock
+    quote: led by Principal Investigator Sam Pellock
+  nationality:
+    value: 须具备英国工作资格；可考虑担保签证，但并非所有签证类型或情形都可担保
+    quote: You must be eligible to work in the UK with a willingness to travel as necessary. We are open to sponsoring employment visas for this role; however sponsorship is not available for all visa types
+      or in all circumstances.
+  llm: '2026-11-02'
 naturecareers:12866218:
   checked: '2026-10-30'
   degree:
@@ -50352,6 +51670,22 @@ physicstoday:42037309:
   llm: '2026-10-28'
 physicstoday:42038255:
   checked: '2026-10-29'
+  degree:
+    value: 物理学博士学位
+    quote: A Ph.D. in Physics is required.
+  start:
+    value: 最早 2027 年 1 月 1 日，时间灵活
+    quote: The position is available for a flexible start date as early as January 1, 2027.
+  duration:
+    value: 初始一年，可再延长最多两年
+    quote: The appointment will initially be for one year, with the possibility of extension for up to an additional two years.
+  documents:
+    value: 简历、三封推荐信
+    quote: Applications, including a curriculum vita and three letters of reference, should be submitted through the application portal
+  apply_via:
+    value: 在线系统：通过 Indiana 招聘门户提交
+    quote: Applications, including a curriculum vita and three letters of reference, should be submitted through the application portal
+  llm: '2026-11-02'
 psi:75291:
   checked: '2026-10-19'
   degree:
@@ -51977,6 +53311,19 @@ sciencecareers:680888:
   llm: '2026-10-30'
 sciencecareers:680890:
   checked: '2026-10-29'
+  degree:
+    value: 化学、生物工程、生物学或相关领域博士学位
+    quote: The successful applicant must have a PhD in chemistry, bioengineering, biology or a related area.
+  start:
+    value: 立即
+    quote: One postdoctoral fellowship position is available immediately
+  duration:
+    value: 至少 1 年（最长 3 年）
+    quote: available for a minimum of 1 year (up to 3 years)
+  supervisor:
+    value: Katherine Ferrara（PI）
+    quote: Katherine Ferrara, PI
+  llm: '2026-11-02'
 sciencecareers:680921:
   checked: '2026-10-27'
   degree:
@@ -52022,8 +53369,26 @@ sciencecareers:680982:
   llm: '2026-10-29'
 sciencecareers:680992:
   checked: '2026-10-29'
+  duration:
+    value: 两年
+    quote: prestigious two-year Beckman Postdoctoral Fellowship
+  llm: '2026-11-02'
 sciencecareers:681006:
   checked: '2026-10-30'
+  degree:
+    value: 相关领域博士学位
+    quote: Completed a PhD in a relevant field
+  apply_via:
+    value: 在线系统：仅通过 EIT 招聘门户提交
+    quote: All applications must be submitted exclusively though the EIT job portal.
+  supervisor:
+    value: Rongzhen Tian
+    quote: led by Principal Investigator Rongzhen Tian
+  nationality:
+    value: 须具备英国工作资格；可考虑担保签证，但并非所有签证类型或情形都可担保
+    quote: You must be eligible to work in the UK with a willingness to travel as necessary. We are open to sponsoring employment visas for this role; however sponsorship is not available for all visa types
+      or in all circumstances.
+  llm: '2026-11-02'
 sciencecareers:681014:
   checked: '2026-10-30'
   degree:
@@ -53371,6 +54736,28 @@ successfactors:tudelft-1371791457:
     value: Marta Zagorowska 博士
     quote: The PhD would join the group of Dr Marta Zagorowska at Delft Center for Systems and Control
   llm: '2026-10-22'
+successfactors:tudelft-1371866857:
+  checked: '2026-11-02'
+  degree:
+    value: 建筑管理、土木工程、项目管理、工商管理、信息系统、创新研究或相关领域硕士
+    quote: A master’s degree in construction management, civil engineering, project management, business administration, information systems, innovation studies or a related field
+  language:
+    value: 英语书面与口语优秀；荷兰语为加分项，非正式要求
+    quote: Excellent written and spoken English. Dutch is an advantage, but this is not specified as a formal requirement for this PhD project
+  start:
+    value: 2027 年 2 月 1 日（目标入职时间）
+    quote: Target start date is 1st February 2027
+  duration:
+    value: 原则上 4 年
+    quote: a 4-year period of employment in principle
+  documents:
+    value: 求职信（不超过一页、400 词）、一分钟视频自我介绍
+    quote: Cover letter, maximum one page and 400 words, explaining your motivation for the position and your fit with the research topic. One-minute video introduction, in which you briefly introduce yourself
+      and explain why you are a good fit for this PhD position.
+  apply_via:
+    value: 在线系统：通过申请按钮提交，不接受邮件或邮寄
+    quote: You can apply online. We will not process applications sent by email and/or post.
+  llm: '2026-11-02'
 successfactors:tudelft-1371870257:
   checked: '2026-10-19'
   degree:
@@ -53481,6 +54868,28 @@ successfactors:tudelft-1372788657:
     value: 在线系统：在线申请，不接受邮件和邮寄
     quote: You can apply online.
   llm: '2026-10-19'
+successfactors:tudelft-1372788957:
+  checked: '2026-11-02'
+  degree:
+    value: 地球科学、海洋学、物理、应用数学或工程硕士
+    quote: Master's degree in Earth sciences, oceanography, physics, applied mathematics, or engineering.
+  language:
+    value: 英语书面和口语能力出色
+    quote: Excellent command of written and spoken English.
+  start:
+    value: 2027 年 1 月至 3 月（可有一定弹性）
+    quote: Ability to start the position in January-March 2027 (with some flexibility)
+  duration:
+    value: 4 年（分 2 份合同）
+    quote: a 4-year period of employment in principle, but in the form of 2 employment contracts
+  documents:
+    value: 简历、动机信、本科和硕士成绩单、硕士论文
+    quote: 'upload the following documents: Curriculum Vitae. Motivation letter detailing: (1) your interest in the research topic and (2) your experience in conducting research. Transcripts from your BSc
+      and MSc degrees. A copy of your MSc thesis.'
+  apply_via:
+    value: 在线系统：通过申请按钮在线提交，不接受邮寄或邮件申请
+    quote: 'Please note: You can apply online. We will not process applications sent by email and/or post.'
+  llm: '2026-11-02'
 successfactors:tudelft-1372814957:
   checked: '2026-10-19'
   degree:
@@ -54540,6 +55949,50 @@ successfactors:ugent-1375247257:
     value: 在线系统：通过 e-recruitment 系统在线申请
     quote: Apply online through the e-recruitment system before the application deadline (see above).
   llm: '2026-10-20'
+successfactors:ugent-1376384057:
+  checked: '2026-11-02'
+  degree:
+    value: 教育科学、社会工作或相关社会科学博士
+    quote: You hold a PhD in Educational Sciences, Social Work or a related social sciences discipline.
+  language:
+    value: 英语书面和口语出色（C2 水平）
+    quote: You have excellent written and spoken English language skills (C2 level).
+  start:
+    value: 最早 2027 年 1 月 1 日
+    quote: Your contract will start on 1/01/2027 at the earliest
+  duration:
+    value: 无固定期限合同（ERC 项目框架内）
+    quote: We offer you a contract of indefinite duration within the framework of the ERC Trans Parent
+  documents:
+    value: 简历（最多 5 页）、动机信（最多 2 页）、所需学位的成绩单
+    quote: 'Your application must include the following documents: In the field ‘ CV’ : your CV (max. 5 pages) In the field ‘ Cover letter’ : your motivation letter, indicating your fit with this job (max.
+      2 pages) In the field ‘ Diploma’ : a transcript of the required degree (if already in your possession).'
+  apply_via:
+    value: 在线系统：通过电子招聘系统申请
+    quote: Apply online through the e-recruitment system before the application deadline
+  llm: '2026-11-02'
+successfactors:ugent-1376384357:
+  checked: '2026-11-02'
+  degree:
+    value: 教育科学、社会工作或相关社会科学博士
+    quote: You hold a PhD in Educational Sciences, Social Work or a related social sciences discipline.
+  language:
+    value: 荷兰语和英语书面口语均要求出色（C2 水平）
+    quote: You have excellent written and spoken Dutch and English language skills (C2 level)
+  start:
+    value: 最早 2027 年 1 月 1 日
+    quote: Your contract will start on 1/01/2027 at the earliest
+  duration:
+    value: 无固定期限合同（ERC 项目框架内）
+    quote: We offer you a contract of indefinite duration within the framework of the ERC Trans Parent
+  documents:
+    value: 简历（最多 5 页）、动机信（最多 2 页）、所需学位的成绩单
+    quote: 'Your application must include the following documents: In the field ‘ CV’ : your CV (max. 5 pages) In the field ‘ Cover letter’ : your motivation letter, indicating your fit with this position
+      (max. 2 pages) In the field ‘ Diploma’ : a transcript of the required degree (if already in your possession).'
+  apply_via:
+    value: 在线系统：通过电子招聘系统申请
+    quote: Apply online through the e-recruitment system before the application deadline
+  llm: '2026-11-02'
 successfactors:uni-stuttgart-1369808755:
   checked: '2026-10-19'
   duration:
@@ -55805,6 +57258,28 @@ successfactors:univie-1452918933:
     value: Johanna Böttcher 教授
     quote: (Prof. Dr. Johanna Böttcher)
   llm: '2026-10-31'
+successfactors:univie-1453197333:
+  checked: '2026-11-02'
+  degree:
+    value: 法学 diploma 或硕士学位（已完成）
+    quote: Completed diploma or master's degree in law
+  language:
+    value: 德语和英语都要求出色
+    quote: An excellent command of German and English is required
+  start:
+    value: 2026 年 12 月 1 日
+    quote: 'Job vacancy starting: 12/01/2026 (MM-DD-YYYY)'
+  duration:
+    value: 限期合同至 2027 年 4 月 13 日（顶岗，必要时可延长）
+    quote: 'Limited contract until: 04/13/2027'
+  documents:
+    value: 动机信、简历、成绩单或学位证明、发表清单（如有）、教学经验证明（如有）、博士项目构想
+    quote: Letter of Motivation (Academic) Curriculum vitae Statement/List of exam grades (Certificate of completed diploma or master's degree programme) List of publications (if available) evidence of
+      teaching experience (if available) ideas for a prospective doctoral project proposal
+  apply_via:
+    value: 在线系统：通过大学招聘门户的申请按钮
+    quote: Via our job portal/ Apply now - button
+  llm: '2026-11-02'
 successfactors:utoronto-606235617:
   checked: '2026-10-22'
   degree:
@@ -61735,8 +63210,31 @@ the-unijobs:416710:
   llm: '2026-10-25'
 the-unijobs:416712:
   checked: '2026-10-25'
+  degree:
+    value: 管理学或相关领域博士学位（入职前获得不超过三年）
+    quote: Applicants should hold a PhD degree in Management or a related field obtained no more than three years prior to the commencement of the appointment
+  language:
+    value: 英语口语与写作水平很高
+    quote: Applicants should also possess a high level of proficiency in spoken and written English
+  duration:
+    value: 首份合同一年，视表现和经费可续约
+    quote: Appointment will be normally made on an initial contract for one year, with the possibility of renewal subject to performance and the availability of funding
+  documents:
+    value: 简历及工作经历、资历、研究兴趣与成就信息
+    quote: Applicants should provide a CV and information about their work experience, qualifications, research interests and achievements.
+  apply_via:
+    value: 在线系统：仅限在线申请
+    quote: Application Procedure (online application only)
+  llm: '2026-11-02'
 the-unijobs:416716:
   checked: '2026-10-25'
+  degree:
+    value: 计算机科学/工程博士，具备安全或隐私研究方向专长
+    quote: PhD in computer science/engineering with expertise in a security or privacy research topic.
+  documents:
+    value: 求职信、研究陈述、简历（含全部论文）、三位推荐人
+    quote: Cover letter and Research statement. Cover letter must include which research topic is of interest. CV (Should include all publications) Three names of referees to contact
+  llm: '2026-11-02'
 the-unijobs:416721:
   checked: '2026-10-25'
   degree:
@@ -61968,8 +63466,34 @@ the-unijobs:416814:
   llm: '2026-10-25'
 the-unijobs:416827:
   checked: '2026-10-25'
+  degree:
+    value: 物理、应用物理、电气工程或相近领域博士，实验研究背景扎实，获博士学位不满 5 年
+    quote: A PhD in Physics, Applied Physics, Electrical Engineering, or a closely related field, with a strong experimental research background, with less than 5 years post-receipt of PhD.
+  start:
+    value: 2026 年 9 月（可更早）
+    quote: The preferred starting date is September 2026, but earlier dates are also possible
+  duration:
+    value: 一年，经评审可延长
+    quote: The appointment will be for a period of one year, and extensions to longer terms are possible upon review.
+  documents:
+    value: 求职信、简历、成绩单、论文列表、研究兴趣简述、三封推荐信
+    quote: Applicants should submit a cover letter, curriculum vitae, transcript, publication list, a brief statement of research interests, and three letters of recommendation.
+  llm: '2026-11-02'
 the-unijobs:416830:
   checked: '2026-10-25'
+  degree:
+    value: 工程、计算机科学、城市科学或相关领域博士，获博士学位不满 5 年
+    quote: Applicants must have received a PhD in engineering, computer science, urban science, or a related field, and are still within their first 5 years since receiving their PhD.
+  language:
+    value: 英语沟通能力优秀
+    quote: excellent communication skills in English and scientific creativity are essential
+  documents:
+    value: 求职信、简历（含完整论文列表）、成绩单、研究兴趣陈述、至少两封推荐信（均为 PDF）
+    quote: all applicants must submit a cover letter, curriculum vitae with full publication list, transcript, statement of research interests and at least two reference letterst, all in PDF format
+  supervisor:
+    value: Monica Menendez 教授
+    quote: join the research group of Prof. Monica Menendez
+  llm: '2026-11-02'
 the-unijobs:416833:
   checked: '2026-10-25'
   degree:
@@ -62249,6 +63773,20 @@ the-unijobs:416939:
   llm: '2026-10-31'
 the-unijobs:416945:
   checked: '2026-10-31'
+  degree:
+    value: 经济学或相关领域博士，获博士学位不满 5 年
+    quote: holds a PhD in economics or a related field. The candidate should still be within their first 5 years since receiving the PhD.
+  language:
+    value: 英语沟通能力优秀
+    quote: Excellent communication skills in English, the ability to work in multidisciplinary teams, and scientific creativity are essential.
+  duration:
+    value: 两年，考核满意可至少续一年
+    quote: Appointments will be for two years, renewable for at least one additional year conditional on a satisfactory evaluation of performance.
+  documents:
+    value: 求职信、求职论文（job market paper）、简历、研究陈述、成绩单、至少三封推荐信（均为 PDF）
+    quote: applicants must submit a cover letter, their job market paper, a curriculum vitae, a research statement highlighting past and current research experience, a transcript and at least three reference
+      letters, all in PDF format
+  llm: '2026-11-02'
 the-unijobs:416963:
   checked: '2026-10-31'
   degree:
@@ -62372,6 +63910,16 @@ the-unijobs:417053:
   llm: '2026-10-31'
 the-unijobs:417056:
   checked: '2026-10-31'
+  degree:
+    value: 电气、机械或材料工程（或相关领域）博士，或 3-5 年研发行业经验
+    quote: PhD degree in Electrical, Mechanical, or Material Engineering (or related field) OR 3-5 years of industry experience (Research and Development).
+  language:
+    value: 英语熟练
+    quote: Proficiency in English.
+  documents:
+    value: 求职信、简历（含完整论文列表）、研究兴趣陈述、一封推荐信、成绩单（均为 PDF）
+    quote: applicants need to submit a cover letter, curriculum vitae with full publication list, statement of research interests, one letter of reference, and a transcript, all in PDF format
+  llm: '2026-11-02'
 the-unijobs:417057:
   checked: '2026-10-31'
   degree:
@@ -62392,6 +63940,13 @@ the-unijobs:417058:
   llm: '2026-10-31'
 the-unijobs:417062:
   checked: '2026-10-31'
+  degree:
+    value: 应用数学、电气或机械工程、物理与应用物理或相关领域博士（或即将完成）
+    quote: Candidates must hold (or be close to completing) a Ph.D. in Applied Mathematics, Electrical or Mechanical Engineering, Physics and Applied Physics or a related field.
+  documents:
+    value: 求职信、简历（含完整论文列表）、研究兴趣陈述、三封推荐信（均为 PDF）
+    quote: applicants need to submit a cover letter, curriculum vitae with full publication list, statement of research interests and three letters of reference, all in PDF format
+  llm: '2026-11-02'
 the-unijobs:417134:
   checked: '2026-10-31'
   degree:
@@ -73049,6 +74604,22 @@ workday:unimelb-JR-019399:
     value: 可提供签证担保，欢迎国际申请者
     quote: This role is eligible for visa sponsorship and we welcome international applicants
   llm: '2026-10-22'
+workday:unimelb-JR-019578:
+  checked: '2026-11-02'
+  degree:
+    value: 物理、天体物理或相近学科博士（已完成或即将完成）
+    quote: Hold a completed or near-completed PhD in physics, astrophysics or a closely related discipline.
+  duration:
+    value: 2 年全职定期合同
+    quote: 'Role type: Full-time; Fixed-Term for 2 years'
+  documents:
+    value: 简历、求职信、针对职位说明中遴选标准的回应
+    quote: Please upload your resume and a cover letter outlining your interest and experience as part of the application process. Please upload your responses to the Selection Criteria, found in the Position
+      Description.
+  nationality:
+    value: 可提供签证担保，欢迎国际申请者
+    quote: This role is eligible for visa sponsorship and we welcome international applicants.
+  llm: '2026-11-02'
 workday:unimelb-JR-019603:
   checked: '2026-10-27'
   degree:
