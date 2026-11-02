@@ -104,3 +104,31 @@ def test_egu_urls_stops_at_missing_page():
             return R("".join(f'<a href="/jobs/{page * 100 + i}/phd-position-{i}/">' for i in range(50)))
 
     assert len(b.egu_urls(F(), 10)) == 100
+
+
+LMS_PAGE = """<p>Successful applicants are awarded a PhD studentship that includes: A generous, tax-free stipend of £26,500 per year,
+for four years</p><li>Full coverage of student tuition fees</li><li>Visa costs for overseas students</li>
+<p>PhD positions available</p><a href="https://lms.mrc.ac.uk/wp-content/uploads/Brown-Project.docx">Engineered proteins to protect
+plants and animals from parasites</a><a href="https://lms.mrc.ac.uk/wp-content/uploads/Russell-Project-1.docx">Reading tissue
+history and exposures using spatial single-cell genomics</a>
+<p>Our PhD programmes are open to applicants of all nationalities.</p>
+<p>Application deadline: Wednesday 18 th November 2026 (9:00) Remote Panel Interviews: Wednesday 6th January 2027</p>"""
+
+
+def test_lms_urls_and_detail():
+    import platforms_uk as uk
+
+    class R:
+        text = LMS_PAGE
+
+    class F:
+        def get(self, url): return R()
+
+    urls = uk.lms_urls(F(), 1)
+    assert [j for j, _ in urls] == ["brown", "russell"] and urls[1][1].endswith("#russell")
+    row, why = uk.lms_detail("russell", urls[1][1], LMS_PAGE, TODAY)
+    assert why == "收录" and row["deadline"] == "2026-11-18" and row["cn"] == "yes"
+    assert row["title"].startswith("Reading tissue history") and "£26,500" in row["amount"]
+    assert row["quote"] == "Application deadline: Wednesday 18 th November 2026 (9:00)"
+    assert uk.lms_detail("russell", "u", LMS_PAGE, "2026-11-19") == (None, "已截止")
+    assert uk.lms_detail("nobody", "u", LMS_PAGE, TODAY)[0] is None

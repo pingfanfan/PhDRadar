@@ -5,6 +5,9 @@
   “Application close date 03 November 2026, 12:00 GMT”。资助与资格写在招生总页（PhD student recruitment）上，
   对全部课题适用：“Candidates of all nationalities can apply”、学费（含国际生）与免税生活费；少数课题另有资格限制时
   写在课题页顶部（按课题页正文判断限本土）。robots.txt 只禁止 /admin/、/search/、/user/ 等后台路径。
+- MRC Laboratory of Medical Sciences（LMS）：“LMS 4-year PhD studentships” 招生页列出当年每个资助课题（课题介绍是 .docx 附件），
+  截止日期、资助与资格对全部课题适用，都写在同一页上，所以列表与详情都读这一页（每个课题读一次，同页带 #锚点区分）。
+  robots.txt 只禁止 /wp-admin/。
 """
 from __future__ import annotations
 
@@ -73,5 +76,40 @@ def crick_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None,
     }, "收录"
 
 
-ADAPTERS = {"crick": (crick_urls, crick_detail)}
-VIA_RANK = {"Crick": 3}
+# ───────────────────────── MRC Laboratory of Medical Sciences ─────────────────────────
+
+LMS_PAGE = "https://lms.mrc.ac.uk/work-and-study/studentships/lms-4-year-phd-studentships/"
+LMS_PROJECT = re.compile(r'href="https://lms\.mrc\.ac\.uk/wp-content/uploads/([A-Za-z0-9-]+)-Project[^"]*\.docx"[^>]*>([^<]{5,200})<')
+
+
+def lms_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+    raw = f.get(LMS_PAGE).text
+    return [(slug.lower(), f"{LMS_PAGE}#{slug.lower()}") for slug, _ in dict(LMS_PROJECT.findall(raw)).items()]
+
+
+def lms_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
+    title = next((page_text(t) for slug, t in LMS_PROJECT.findall(raw) if slug.lower() == jid), "")
+    if not title:
+        return None, "非博士/博后岗位"
+    text = page_text(raw)
+    m = re.search(r"Application deadline:?\s*(?:\w+day\s+)?(\d{1,2})\s*(?:st|nd|rd|th)?\s+([A-Z][a-z]+\s+\d{4})(?:\s*\(([\d:]+)\))?", text)
+    deadline = parse_day(f"{m.group(1)} {m.group(2)}") if m else None
+    if not deadline:
+        return None, "页面无截止日期"
+    if deadline < today:
+        return None, "已截止"
+    stipend = re.search(r"tax-free stipend of £[\d,]+ per year, for \w+ years", text)
+    fees = re.search(r"Full coverage of student tuition fees", text)
+    if not (stipend or fees):
+        return None, "未写资助"
+    cn = "no" if cp.cn_of(text) == "no" else "yes" if re.search(r"open to applicants of all nationalities", text) else "check"
+    return {
+        "id": f"lms:{jid}", "title": title[:200], "url": url, "org": "MRC Laboratory of Medical Sciences (LMS)",
+        "country": "UK", "place": "London", "level": "phd", "deadline": deadline, "quote": m.group(0).strip(),
+        "funding_for": fees.group(0) if fees else "", "amount": stipend.group(0) if stipend else "",
+        "cn": cn, "flags": cp.flags_of(text), "via": "MRC LMS",
+    }, "收录"
+
+
+ADAPTERS = {"crick": (crick_urls, crick_detail), "lms": (lms_urls, lms_detail)}
+VIA_RANK = {"Crick": 3, "MRC LMS": 3}
