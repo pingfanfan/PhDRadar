@@ -550,3 +550,27 @@ def test_stale_postings_are_delisted():
     assert not build_site.stale({"checked": "2026-10-21"}, "2026-10-28")  # 7 天内
     assert build_site.stale({"checked": "2026-10-20"}, "2026-10-28")  # 超过 7 天
     assert build_site.stale({}, "2026-10-28")  # 没有核对日期也下架
+
+
+def test_import_findaphd_refresh_cleans_rows():
+    import import_findaphd_refresh as imp
+    base = {"id": "findaphd:1", "title": "Machine learning for X", "url": "u", "org": "Cardiff University", "country": "GB",
+            "level": "phd", "deadline": "2027-01-07", "quote": "Funded PhD Project (Students Worldwide)",
+            "funding_for": "Funded PhD Project (Students Worldwide)", "cn": "yes", "flags": ["AI"], "via": "FindAPhD",
+            "checked": "2026-11-03"}
+    rows = [base, dict(base, id="findaphd:2", funding_for="Competition Funded PhD Project (Students Worldwide)"),
+            dict(base, id="findaphd:3", deadline="2026-10-01"), dict(base, id="findaphd:4", title="NERC DTP project"),
+            dict(base, id="findaphd:5", cn=True), dict(base, id="findaphd:6", checked="2026-10-25")]
+    keep, why = imp.clean(rows, "2026-11-03")
+    assert [k["id"] for k in keep] == ["findaphd:1", "findaphd:4", "findaphd:5"]
+    assert why == {"竞争性资助或自费": 1, "已截止": 1, "核对日期超过 7 天": 1}
+    k = keep[0]
+    assert k["country"] == "UK" and k["flags"] == [] and k["quote"] == "" and k["cn"] == "yes"
+    assert keep[1]["cn"] == "check"  # UKRI 博士培训项目不凭平台标签算可申
+    assert keep[2]["cn"] == "check"  # 布尔值（YAML 陷阱）不当成可申
+    # 只用比库里更新的记录
+    old = dict(k, checked="2026-11-05", title="newer local")
+    rows2, n = imp.merge([old], [k])
+    assert n == 0 and rows2[0]["title"] == "newer local"
+    rows3, n = imp.merge([dict(k, checked="2026-10-25")], [k])
+    assert n == 1 and rows3[0]["checked"] == "2026-11-03"
