@@ -35,15 +35,20 @@ export function Hero({ found }: { found: number }) {
     const n = (f: (k: number) => boolean) => now.filter((x) => { const d = dlOf(x); return isDate(d) && f(days(d!)) }).length
     return { today: n((k) => k === 0), week: n((k) => k >= 0 && k <= 6) }
   }, [now])
+  // 每组的数字按另外几个已选条件算（选了地区，学科旁的数字就只数这个地区的），本组自己的选择不参与，方便换选项
   const [rc, dc, lc] = useMemo(() => {
     const rc: Record<string, number> = {}, dc: Record<string, number> = {}, lc: Record<string, number> = {}
+    const lv = flags.includes("phd") === flags.includes("pd") ? "" : flags.includes("phd") ? "phd" : "postdoc"
+    const inR = (x: (typeof now)[number]) => !region || (x.r || []).includes(region)
+    const inD = (x: (typeof now)[number]) => !disc || (x.d || []).includes(disc)
+    const inL = (x: (typeof now)[number]) => !lv || (x.l || ["phd"]).includes(lv)
     now.forEach((x) => {
-      (x.r || []).forEach((r) => (rc[r] = (rc[r] || 0) + 1));
-      (x.d || []).forEach((d) => d !== "all" && (dc[d] = (dc[d] || 0) + 1));
-      (x.l || ["phd"]).forEach((l) => (lc[l] = (lc[l] || 0) + 1))
+      if (inD(x) && inL(x)) (x.r || []).forEach((r) => (rc[r] = (rc[r] || 0) + 1))
+      if (inR(x) && inL(x)) (x.d || []).forEach((d) => d !== "all" && (dc[d] = (dc[d] || 0) + 1))
+      if (inR(x) && inD(x)) (x.l || ["phd"]).forEach((l) => (lc[l] = (lc[l] || 0) + 1))
     })
     return [rc, dc, lc]
-  }, [now])
+  }, [now, region, disc, flags])
   if (!labels) return null
   const lv = flags.includes("phd") ? "phd" : flags.includes("pd") ? "pd" : ""
   const setLv = (v: "" | "phd" | "pd") => set({ flags: [...flags.filter((f) => f !== "phd" && f !== "pd"), ...(v ? [v] : [])] as Flag[] })

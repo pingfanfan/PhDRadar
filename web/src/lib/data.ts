@@ -199,6 +199,21 @@ export function icsCalendar(list: Row[]) {
     .map(icsFold).join("\r\n") + "\r\n"
 }
 
+// 收藏导出成表格：CSV（UTF-8 带 BOM），Excel / WPS / Numbers 双击即可打开，中文不乱码。只写数据里有的字段，没有的留空
+const csvCell = (v?: string) => { const t = (v || "").replace(/\s+/g, " ").trim(); return /[",\n]/.test(t) ? `"${t.replace(/"/g, '""')}"` : t }
+const CN_TEXT: Record<string, string> = { yes: "写明国际生可申", partial: "部分可申", no: "限本土或特定地区", check: "未写明" }
+
+export function savedTable(rows: Row[], labels: Labels, stage: (id: string) => string): string {
+  const head = ["名称", "机构", "类型", "地区", "截止日期", "资助", "中国学生", ...AF_LABELS.map(([, t]) => t), "我的进度", "链接", "官网原句"]
+  const body = rows.map((x) => {
+    const pay = payParts(x), dl = dlOf(x)
+    return [x.n, x.org, (x.l || []).map((l) => labels.level[l] || l).join(" / "), (x.r || []).map((r) => labels.region[r] || r).join(" / "),
+      isDate(dl) ? dl : dl === "rolling" ? "滚动招生" : dl || "", pay.none ? "" : [pay.main, pay.note].filter(Boolean).join("，"),
+      CN_TEXT[x.e || "check"] || "", ...AF_LABELS.map(([k]) => x.af?.[k]?.[0]), stage(x.id), x.u, isNow(x) ? x.o!.q : x.pq]
+  })
+  return "\ufeff" + [head, ...body].map((r) => r.map(csvCell).join(",")).join("\r\n") + "\r\n"
+}
+
 export function download(name: string, body: string, type: string) {
   const a = document.createElement("a")
   a.href = URL.createObjectURL(new Blob([body], { type }))

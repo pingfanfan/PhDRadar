@@ -1,7 +1,7 @@
 // 我的申请：五列看板（想投 → 准备中 → 已投 → 面试 → 结果），拖动卡片改变进度（dnd-kit）
 import { useState } from "react"
 import { DndContext, DragOverlay, KeyboardSensor, PointerSensor, TouchSensor, useDraggable, useDroppable, useSensor, useSensors, type DragEndEvent } from "@dnd-kit/core"
-import { Bookmark, CalendarPlus, Clock, FileJson, GripVertical } from "lucide-react"
+import { Bookmark, CalendarPlus, Clock, FileJson, FileSpreadsheet, GripVertical } from "lucide-react"
 import { motion } from "motion/react"
 import { toast } from "sonner"
 import { Badge } from "@/components/ui/badge"
@@ -10,7 +10,7 @@ import { Card, CardContent } from "@/components/ui/card"
 import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@/components/ui/empty"
 import { ScrollArea, ScrollBar } from "@/components/ui/scroll-area"
 import { cn } from "@/lib/utils"
-import { download, due, icsCalendar, iso, TODAY, type Labels, type Row } from "@/lib/data"
+import { download, due, icsCalendar, iso, savedTable, TODAY, type Labels, type Row } from "@/lib/data"
 import { exportable, useData } from "@/lib/select"
 import { STAGES, stageOf, stageText, useApp, type Stage } from "@/store"
 import { OrgLine, TONE } from "@/components/opportunity-list"
@@ -87,6 +87,9 @@ export function SavedBoard({ onOpen }: { onOpen: (id: string) => void }) {
     <div className="mx-auto flex max-w-7xl flex-col gap-4">
       <div className="flex flex-wrap items-center gap-2">
         <p className="mr-auto text-sm text-muted-foreground">拖动卡片记录进度。收藏与进度只保存在你的浏览器里。{gone > 0 && ` 另有 ${gone} 个收藏已截止或撤下。`}</p>
+        <Button variant="outline" size="sm" onClick={() => download(`phdradar-saved-${iso(TODAY)}.csv`, savedTable(list, labels, (id) => stageText(stageOf(status, id))), "text/csv;charset=utf-8")}>
+          <FileSpreadsheet />下载表格（Excel 可打开）<Badge variant="secondary" className="font-mono">{list.length}</Badge>
+        </Button>
         <Button variant="outline" size="sm" disabled={!ex.length} onClick={() => download(`phdradar-saved-${iso(TODAY)}.ics`, icsCalendar(ex), "text/calendar;charset=utf-8")}>
           <CalendarPlus />导出截止到日历<Badge variant="secondary" className="font-mono">{ex.length}</Badge>
         </Button>
