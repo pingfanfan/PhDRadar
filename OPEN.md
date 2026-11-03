@@ -1,10 +1,10 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-11-02。共 **287** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-11-03。共 **276** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
-- [30 天内截止](#30-天内截止)（162）
-- [之后截止](#之后截止)（125）
+- [30 天内截止](#30-天内截止)（154）
+- [之后截止](#之后截止)（122）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（0）
 - [即将开放](#即将开放)（0）
 
@@ -12,17 +12,6 @@
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-02 | [Imperial College London 化学工程系 PhD 奖学金](https://www.imperial.ac.uk/engineering/departments/chemical-engineering/courses/postgraduate/phd/scholarships/) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 2027 年 10 月入学的系内奖学金；第二轮 2027-01-11、第三轮 2027-03-01（视名额）；页面称 15 个中 10 个不限学费身份。10-30 复查页面已改为 11 月 2 日。<br>官网原句：“2 November 2026 for the first selection round” |
-| 2026-11-02 | [CITA 理论天体物理博后（多伦多大学，2027 入职）](https://www.cita.utoronto.ca/opportunities/post-docs/) | 加拿大 | 博后 | 带薪岗位 | ❔ 官网未写明 | CITA 博后与国家研究员申请截止 2026 年 11 月 2 日，仅接受电子提交，2027 年 9 月 1 日入职。<br>官网原句：“November 2, 2026.” |
-| 2026-11-02 | [法国 Eiffel 卓越奖学金 2027 校内申请说明（巴黎大学）](https://u-paris.fr/language/en/eiffel-excellence-scholarship-2027/) | 法国 | 博士 | 仅生活费 | ❔ 官网未写明 | 2027–28 学年博士申请校内截止 2026 年 11 月 2 日 23:59（巴黎时间），须由巴黎大学提交，学生不能直接向 Campus France 投递。<br>官网原句：“12/10/2026 to 02/11/2026 23h59 (Paris time) for a PhD application” |
-| 2026-11-02 | [汉堡大学 Quantum Universe 集群岗位页](https://www.qu.uni-hamburg.de/cluster/jobs/research-positions.html) | 德国 | 博士、博后 | 带薪岗位 | ❔ 官网未写明 | BabylAXO 探测器开发博士岗位截止 2026-11-02；另有 ATLAS 组岗位标注 open until filled，页面无教授与博后岗位。<br>官网原句：“PhD position for BabylAXO detector development (2 November 2026)” |
-| 2026-11-02 | [IIT Mandi 人机交互中心 · 博士研究机会](https://iitmandi.ac.in/phdadmissions) | 印度 | 博士 | 官网未写明 | ❔ 官网未写明 | CHCI 2027 年 1 月入学征集窗口为 2026-10-13 至 2026-11-02 17:00（页面日期为 DD-MM-YYYY）；助学金对国际生的适用性页面未写明。<br>官网原句：“Call for M. Tech (by research) & Ph.D. Degree for Even Semester (Jan-2027) at Centre for Human-Computer Interaction.” |
-| 2026-11-02 | [曼海姆大学 商业分析与运筹学 博士助研岗位](https://www.bwl.uni-mannheim.de/en/details/job-offer-research-and-teaching-assistant-phd-position-f-m-d-business-analytics-and-operations-research-2/) | 德国 | 博士 | 带薪岗位 | ❔ 官网未写明 | 申请截止 2026 年 11 月 2 日，可邮件或书面提交；入职为 2027 年灵活起始。<br>官网原句：“November 2 nd , 2026” |
-| 2026-11-02 | [马普-ETH 学习系统中心（CLS）博士岗位（ETH 岗位页）](https://jobs.ethz.ch/job/view/12140) | 瑞士、德国 | 博士 | 带薪岗位 | ❔ 官网未写明 | ETH 岗位页写明全部申请材料截止 2026-11-02 23:59 CET，页面有 Apply online now；资格以岗位页为准。<br>官网原句：“The application deadline for all parts of the application is midnight (23:59 CET) on November 2, 2026.” |
-| 2026-11-02 | [NRC Research Associateship Programs（联邦实验室博士后）](https://www.nationalacademies.org/programs/PGA-FP-18-P-23/about) | 美国 | 博后 | 仅生活费 | ❔ 官网未写明 | 正文写明申请开放至 2026-11-02 17:00（时区未注明），之后进入评审；需按实验室选择导师联系，国籍限制因实验室而异。<br>官网原句：“September 1 – November 2, 2026 5:00 PM” |
-| 2026-11-02 | [CERN 理论部（CERN-TH）博士后 Fellow 招募页](https://theory.cern/jobs) | 瑞士 | 博后 | 带薪岗位 | ❔ 官网未写明 | 2027 年起始的博士后 Fellow 申请截止 2026-11-02 23:59 CET（欧洲日期格式），面向各国国籍；输入中的 2026-11-03 与正文不符。<br>官网原句：“Deadline is 02.11.2026 at 23:59 CET.” |
-| 2026-11-02 | [Université Paris Cité · Bourse Eiffel 博士 2027-2028 批次](https://u-paris.fr/?p=1511672) | 法国 | 博士 | 半奖 / 部分资助 | 🟡 部分可申 | 2027-2028 学年 Eiffel 博士申请经校方统一提交，截止 2026-11-02 23:59（巴黎时间）；页面写明须为外国籍且 35 岁以下。<br>官网原句：“12/10/2026 au 02/11/2026, 23h59 (Heure de Paris) pour une candidature en doctorat” |
-| 2026-11-02 | [阿姆斯特丹大学法学院 AI 治理博士岗](https://werkenbij.uva.nl/en/vacancies/phd-candidate-in-access-actors-and-accountability-the-role-of-researchers-in-ai-governance-netherlands-15529) | 荷兰 | 博士 | 带薪岗位 | ❔ 官网未写明 | 阿姆斯特丹大学带薪博士岗，正文显示截止 2026-11-02（页面日期为日-月-年格式）；偏 AI 治理与法学。<br>官网原句：“Closes on 02-11-2026” |
 | 2026-11-03 | [Aalto 化学工程博士项目（入学窗口）](https://www.aalto.fi/en/study-options/doctoral-programme-in-chemical-engineering) | 芬兰 | 博士 | 官网未写明 | ❔ 官网未写明 | 页面写明申请期为 2026 年 9 月 30 日至 11 月 3 日；需先与拟任导师确认，再申请入学资格（study right）。<br>官网原句：“30 Sep 2026 – 3 Nov 2026” |
 | 2026-11-03 | [安特卫普大学 ARIA 艺术博士资助岗位](https://www.uantwerpen.be/en/research-groups/aria/phd/how-to-apply-phd/) | 比利时 | 博士 | 带薪岗位 | ❔ 官网未写明 | 皇家艺术学院第一步（表达意向）截止 2026-11-03 中午；第二步完整方案截止 2027-03-01；需艺术或设计硕士及两位导师。<br>官网原句：“STEP 1 → submit your project proposal by 3 November 2026 (12:00 - noon)” |
 | 2026-11-03 | [科隆衰老研究研究生院（CGA）2027 招生](https://bioblog.uni-goettingen.de/wp-content/uploads/2026/08/CGA-PhD-Call-2027.pdf) | 德国 | 博士 | 带薪岗位 | ❔ 官网未写明 | 2027 招生，约 12 个 TV-L E13（65%）博士岗位，申请期至 2026-11-03；页面未写明国籍限制。<br>官网原句：“APPLICATION PERIOD: AUGUST 11 - NOVEMBER 3, 2026” |
@@ -174,14 +163,14 @@
 | 2026-12-01 | [SEDarc (ESRC) PhD 奖学金 · 萨塞克斯大学 · 2027 入学](https://www.sussex.ac.uk/study/fees-funding/phd-funding/view/1962-SEDarc-(ESRC)-PhD-scholarships-for-research-in-the-Social-Sciences) | 英国 | 博士 | 半奖 / 部分资助 | 🟡 部分可申 | SEDarc 2027 入学，校内截止 2026-12-01 16:00；国际生名额约占 30%，奖学金不含搬迁、签证和 NHS 附加费<br>官网原句：“1 December 2026 16:00” |
 | 2026-12-01 | [斯坦福 APARC Shorenstein 当代亚洲博士后](https://fsi.stanford.edu/node/39687) | 美国 | 博后 | 仅生活费 | ✅ 可申 | 2027–28 Shorenstein 博士后（2027 年秋季入职）截止 2026-12-01；页面未写国籍限制与津贴金额。<br>官网原句：“December 1, 2026” |
 | 2026-12-02 | [牛津工程科学系 Control and Engineering Biology 博士奖学金（2027 入学）](https://eng.ox.ac.uk/study/research-studentships/research-studentship-in-control-and-engineering-biology) | 英国 | 博士 | 视项目而定 | ❔ 官网未写明 | 申请截止为 2026 年 12 月 2 日中午；正文写明奖学金仅明确面向英国学生，国际生仅称可能灵活安排，需先联系导师确认。<br>官网原句：“noon on 2nd December 2026” |
+| 2026-12-03 | [捷克理工大学 PICTUS MSCA COFUND 博士项目](https://international.cvut.cz/jobs-at-ctu/pictus-phd-fellowship-programme/) | 捷克 | 博士 | 带薪岗位 | ❔ 官网未写明 | 第二轮征集，截止 2026-12-03，计划招 8 名学生，签 48 个月全职合同；需在截止前取得硕士学位，截止前三年内在捷克居住或工作超过 12 个月者不符合。<br>官网原句：“deadline: December 3, 2026” |
+| 2026-12-03 | [LSE 性别研究系博士](https://www.lse.ac.uk/gender/study/phd) | 英国 | 博士 | 视项目而定 | 🟡 部分可申 | 页面写明 2027/2028 入学的 PhD 最终申请截止为 2026-12-03（含全部材料），申请现已开放；资助由申请者自动考虑，无需单独申请。<br>官网原句：“Applications are now open.” |
+| 2026-12-03 | [Simons 植物生物学博士后奖学金](https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-plant-biology/) | 美国 | 博后 | 仅生活费 | ✅ 可申 | 2027 轮植物生物学博士后标注 Open，截止 2026 年 12 月 3 日；2026 轮已标注 Closed。<br>官网原句：“Apply by December 3, 2026” |
 
 ## 之后截止
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-12-03 | [捷克理工大学 PICTUS MSCA COFUND 博士项目](https://international.cvut.cz/jobs-at-ctu/pictus-phd-fellowship-programme/) | 捷克 | 博士 | 带薪岗位 | ❔ 官网未写明 | 第二轮征集，截止 2026-12-03，计划招 8 名学生，签 48 个月全职合同；需在截止前取得硕士学位，截止前三年内在捷克居住或工作超过 12 个月者不符合。<br>官网原句：“deadline: December 3, 2026” |
-| 2026-12-03 | [LSE 性别研究系博士](https://www.lse.ac.uk/gender/study/phd) | 英国 | 博士 | 视项目而定 | 🟡 部分可申 | 页面写明 2027/2028 入学的 PhD 最终申请截止为 2026-12-03（含全部材料），申请现已开放；资助由申请者自动考虑，无需单独申请。<br>官网原句：“Applications are now open.” |
-| 2026-12-03 | [Simons 植物生物学博士后奖学金](https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-plant-biology/) | 美国 | 博后 | 仅生活费 | ✅ 可申 | 2027 轮植物生物学博士后标注 Open，截止 2026 年 12 月 3 日；2026 轮已标注 Closed。<br>官网原句：“Apply by December 3, 2026” |
 | 2026-12-04 | [普林斯顿 Andlinger 能源与环境中心杰出博士后研究员](https://acee.princeton.edu/distinguished-postdoctoral-fellows-call-for-applications/) | 美国 | 博后 | 带薪岗位 | ❔ 官网未写明 | 2027 轮杰出博士后，需与普林斯顿两位以上教授合作，截止 2026 年 12 月 4 日 23:59（美东），经 Interfolio 提交。<br>官网原句：“December 4, 2026 at 11:59 p.m. ET” |
 | 2026-12-04 | [奥本大学化学工程博士（助研/助教资助）](https://eng.auburn.edu/chen/academics/graduate/graduate-faq) | 美国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 页面称 2026-12-04 前提交为优先考虑日期，正文未说明之后是否关闭；Fall 2027 周期不减免申请费；博士生至少 32,500 美元/年加学费，国际生首学期通常任助教并需 TSE 或抵校口试。<br>官网原句：“For primary consideration, submit your application material before December 4, 2026.” |
 | 2026-12-04 | [HKUST(GZ) 博士申请时间表（2026-27 春季、2027-28 秋季）](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/admission-timeline) | 中国内地 | 博士 | 官网未写明 | ✅ 可申 | 2026-27 春季博士国际生申请截止 2026 年 12 月 4 日（23:59，GMT+8），中国内地申请者截止 12 月 25 日。<br>官网原句：“21 July 2026 to 4 December 2026 (23:59, GMT+8) for international applicants” |
