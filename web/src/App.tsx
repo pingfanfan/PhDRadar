@@ -91,7 +91,7 @@ export default function App() {
       <footer className="border-t">
         <div className="mx-auto flex max-w-[1280px] flex-wrap items-center gap-x-6 gap-y-2 px-4 py-6 text-xs text-muted-foreground sm:px-10">
           <Brand small />
-          <p className="flex-1 basis-80">信息以各机构官网为准。本站与所列机构无关；发现错误请<a className="underline underline-offset-2" href={`${REPO}/issues`}>在 GitHub 提 Issue</a>。数据 CC BY 4.0，代码 MIT。</p>
+          <p className="flex-1 basis-80">信息以各机构官网为准。本站与所列机构无关；发现错误请<a className="underline underline-offset-2" href={`${REPO}/issues`}>在 GitHub 提 Issue</a>。数据 CC BY 4.0，代码 MIT。本站用 GoatCounter 统计访问量（不用 cookie，不记录个人身份；浏览器开了“请勿追踪”就不统计）。</p>
         </div>
       </footer>
     </div>
