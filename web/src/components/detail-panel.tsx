@@ -9,6 +9,7 @@ import { Label } from "@/components/ui/label"
 import { Separator } from "@/components/ui/separator"
 import { ToggleGroup, ToggleGroupItem } from "@/components/ui/toggle-group"
 import { cn } from "@/lib/utils"
+import { countApply } from "@/lib/stats"
 import { AF_LABELS, days, dlOf, download, due, icsCalendar, isDate, isNow, shortPay, screened, type Row } from "@/lib/data"
 import { prepItems, useData, type Ranking } from "@/lib/select"
 import { RESULTS, STAGES, stageOf, useApp, type Result, type Stage } from "@/store"
@@ -103,7 +104,7 @@ export function DetailPanel({ x, rank }: { x?: Row; rank?: Ranking | null }) {
         </div>
         {x.in && <p className="text-[15px] leading-relaxed text-foreground/85">{x.in}</p>}
         <div className="sticky bottom-0 z-10 -mx-6 flex flex-wrap items-center gap-2 border-t bg-background/95 px-6 py-3 backdrop-blur md:static md:mx-0 md:border-0 md:bg-transparent md:p-0 md:backdrop-blur-none">
-          <Button size="lg" asChild className="flex-1 md:flex-none"><a href={x.u} target="_blank" rel="noopener">去官网申请<ExternalLink /></a></Button>
+          <Button size="lg" asChild className="flex-1 md:flex-none"><a href={x.u} target="_blank" rel="noopener" onClick={() => countApply(x.id)}>去官网申请<ExternalLink /></a></Button>
           <SaveButton id={x.id} withText />
           {isDate(d) && days(d!) >= 0 && (
             <Button variant="outline" size="lg" onClick={() => download(`phdradar-${d}.ics`, icsCalendar([x]), "text/calendar;charset=utf-8")} title="截止前 14 天、7 天和 1 天提醒">

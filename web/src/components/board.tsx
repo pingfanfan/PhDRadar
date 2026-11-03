@@ -4,6 +4,7 @@ import { Button } from "@/components/ui/button"
 import { cn } from "@/lib/utils"
 import { dueCell, group, isNow, payParts, type Labels, type Row } from "@/lib/data"
 import { useData, type Ranking } from "@/lib/select"
+import { countApply } from "@/lib/stats"
 import { useApp } from "@/store"
 
 export const pageHref = (id: string) => "#/p/" + encodeURIComponent(id)
@@ -39,7 +40,7 @@ function Expanded({ x }: { x: Row }) {
           </figure>
         )}
         <div className="flex flex-wrap gap-2">
-          <Button asChild><a href={x.u} target="_blank" rel="noopener">去官网申请 ↗</a></Button>
+          <Button asChild><a href={x.u} target="_blank" rel="noopener" onClick={() => countApply(x.id)}>去官网申请 ↗</a></Button>
           <Button variant="outline" onClick={() => toast(toggleSave(x.id) ? "已收藏" : "已取消收藏")}>{saved[x.id] ? "已收藏" : "收藏"}</Button>
           <Button variant="outline" onClick={() => toast(toggleSkip(x.id) ? "已跳过，不再出现在大屏上" : "已撤销跳过")}>{skipped[x.id] ? "撤销跳过" : "跳过，不再显示"}</Button>
           <Button variant="link" asChild className="px-1"><a href={pageHref(x.id)}>完整页面 →</a></Button>

@@ -8,6 +8,7 @@ import { Hero } from "@/components/search-bar"
 import { RecommendForm } from "@/components/recommend-form"
 import { SavedBoard } from "@/components/saved-board"
 import { loadData, type Row } from "@/lib/data"
+import { countView } from "@/lib/stats"
 import { useData, useFiltered, useRanking } from "@/lib/select"
 import { useApp } from "@/store"
 
@@ -32,7 +33,8 @@ function useBoot() {
 function usePage() {
   const [id, setId] = useState(pageId)
   useEffect(() => {
-    const on = () => { setId(pageId()); window.scrollTo(0, 0) }
+    countView(pageId() ? `p/${pageId()}` : "/")
+    const on = () => { setId(pageId()); window.scrollTo(0, 0); if (pageId()) countView(`p/${pageId()}`) }
     window.addEventListener("hashchange", on)
     return () => window.removeEventListener("hashchange", on)
   }, [])
