@@ -1,10 +1,10 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-11-03。共 **276** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-11-04。共 **268** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
-- [30 天内截止](#30-天内截止)（154）
-- [之后截止](#之后截止)（122）
+- [30 天内截止](#30-天内截止)（149）
+- [之后截止](#之后截止)（119）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（0）
 - [即将开放](#即将开放)（0）
 
@@ -12,14 +12,6 @@
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-03 | [Aalto 化学工程博士项目（入学窗口）](https://www.aalto.fi/en/study-options/doctoral-programme-in-chemical-engineering) | 芬兰 | 博士 | 官网未写明 | ❔ 官网未写明 | 页面写明申请期为 2026 年 9 月 30 日至 11 月 3 日；需先与拟任导师确认，再申请入学资格（study right）。<br>官网原句：“30 Sep 2026 – 3 Nov 2026” |
-| 2026-11-03 | [安特卫普大学 ARIA 艺术博士资助岗位](https://www.uantwerpen.be/en/research-groups/aria/phd/how-to-apply-phd/) | 比利时 | 博士 | 带薪岗位 | ❔ 官网未写明 | 皇家艺术学院第一步（表达意向）截止 2026-11-03 中午；第二步完整方案截止 2027-03-01；需艺术或设计硕士及两位导师。<br>官网原句：“STEP 1 → submit your project proposal by 3 November 2026 (12:00 - noon)” |
-| 2026-11-03 | [科隆衰老研究研究生院（CGA）2027 招生](https://bioblog.uni-goettingen.de/wp-content/uploads/2026/08/CGA-PhD-Call-2027.pdf) | 德国 | 博士 | 带薪岗位 | ❔ 官网未写明 | 2027 招生，约 12 个 TV-L E13（65%）博士岗位，申请期至 2026-11-03；页面未写明国籍限制。<br>官网原句：“APPLICATION PERIOD: AUGUST 11 - NOVEMBER 3, 2026” |
-| 2026-11-03 | [Francis Crick Institute PhD Programme](https://www.crick.ac.uk/careers-study/students/phd-student-recruitment) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 申请截止 2026-11-03 中午 12:00 GMT，推荐信截止 2026-11-10，所有国籍均可申请。<br>官网原句：“3 November 2026” |
-| 2026-11-03 | [Francis Crick Institute 博士项目（2027 入学批次）](https://www.crick.ac.uk/careers-and-study/students/phd-students/how-to-apply-phd-programme) | 英国 | 博士 | 官网未写明 | ❔ 官网未写明 | 申请截止 2026-11-03 12:00（GMT），页面称不接受逾期申请；页面称项目对所有国籍候选人开放，正文未标注入学年份。<br>官网原句：“The application deadline is 12:00 (midday, GMT)” |
-| 2026-11-03 | [IMPRS-HD 天文与宇宙物理（海德堡）](https://www.imprs-hd.mpg.de/3192/Application) | 德国 | 博士 | 官网未写明 | ❔ 官网未写明 | 2027 年秋入学申请截止 2026 年 11 月 3 日 14:00 CET；面试安排在 2027 年 2 月 1–5 日。<br>官网原句：“November 3, 2026,” |
-| 2026-11-03 | [海德堡马普天文研究所（MPIA）IMPRS 页](https://imprs-hd.mpg.de/3192/Application) | 德国 | 博士 | 官网未写明 | ❔ 官网未写明 | 2027 年秋入学的申请截止为 2026-11-03 14:00 CET，面试 2027 年 2 月 1–5 日；正文未写明申请系统开放日期。<br>官网原句：“November 3, 2026,” |
-| 2026-11-03 | [NWO Vidi 人才项目（荷兰）](https://www.illc.uva.nl/NewsandEvents/News/Funding/newsitem/16315/NWO-Vidi-2026-open-for-pre-proposals-) | 荷兰 | 博后 | 官网未写明 | ❔ 官网未写明 | Vidi 预申请截止 2026-11-03 14:00（CET）；页面写明博士学位须在 2018-10-01 至 2026-10-01 之间获得；全申请以 NWO 官网为准。<br>官网原句：“The deadline for submitting pre-proposals is November 3, 2026 at 14:00 CET.” |
 | 2026-11-05 | [巴斯克大学（UPV/EHU）博士前资助公告页](https://www.ehu.eus/es/web/ikerketaren-kudeaketa/deialdiak-doktoratu-aurreko-laguntzak) | 西班牙 | 博士 | 官网未写明 | ❔ 官网未写明 | UPV/EHU 关联 FPI 2026 预博士合同申请期为 10 月 16 日至 11 月 5 日；页面未写国籍与居住要求，需逐条核对各计划公告。<br>官网原句：“Abierto el plazo de presentación: 16/10/2026 - 05/11/2026” |
 | 2026-11-05 | [STScI Brinson 奖学金（天体物理博士后）](https://www.stsci.edu/stsci-research/fellowships/brinson-prize-fellowship-program/announcement-of-opportunity) | 美国 | 博后 | 带薪岗位 | ✅ 可申 | 申请截止 2026-11-05 美东时间 19:00，推荐信截止 2026-11-12；面向所有国家公民，博士学位须 2023-01-01 后授予或 2027-09-01 前获得。<br>官网原句：“Thursday, November 5, 2026, 7:00 p.m. EST (4:00 p.m. PST)” |
 | 2026-11-06 | [Caltech 地球与行星科学部 Foster & Coco Stanback 博后奖学金](https://applications.caltech.edu/job/stanback) | 美国 | 博后 | 带薪岗位 | ❔ 官网未写明 | 完整申请（含推荐信）截止 2026-11-06；需博士学位获得时间不早于 2026-01-01（特殊情况除外）；国籍未说明。<br>官网原句：“November 6, 2026” |
@@ -166,14 +158,14 @@
 | 2026-12-03 | [捷克理工大学 PICTUS MSCA COFUND 博士项目](https://international.cvut.cz/jobs-at-ctu/pictus-phd-fellowship-programme/) | 捷克 | 博士 | 带薪岗位 | ❔ 官网未写明 | 第二轮征集，截止 2026-12-03，计划招 8 名学生，签 48 个月全职合同；需在截止前取得硕士学位，截止前三年内在捷克居住或工作超过 12 个月者不符合。<br>官网原句：“deadline: December 3, 2026” |
 | 2026-12-03 | [LSE 性别研究系博士](https://www.lse.ac.uk/gender/study/phd) | 英国 | 博士 | 视项目而定 | 🟡 部分可申 | 页面写明 2027/2028 入学的 PhD 最终申请截止为 2026-12-03（含全部材料），申请现已开放；资助由申请者自动考虑，无需单独申请。<br>官网原句：“Applications are now open.” |
 | 2026-12-03 | [Simons 植物生物学博士后奖学金](https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-plant-biology/) | 美国 | 博后 | 仅生活费 | ✅ 可申 | 2027 轮植物生物学博士后标注 Open，截止 2026 年 12 月 3 日；2026 轮已标注 Closed。<br>官网原句：“Apply by December 3, 2026” |
+| 2026-12-04 | [普林斯顿 Andlinger 能源与环境中心杰出博士后研究员](https://acee.princeton.edu/distinguished-postdoctoral-fellows-call-for-applications/) | 美国 | 博后 | 带薪岗位 | ❔ 官网未写明 | 2027 轮杰出博士后，需与普林斯顿两位以上教授合作，截止 2026 年 12 月 4 日 23:59（美东），经 Interfolio 提交。<br>官网原句：“December 4, 2026 at 11:59 p.m. ET” |
+| 2026-12-04 | [奥本大学化学工程博士（助研/助教资助）](https://eng.auburn.edu/chen/academics/graduate/graduate-faq) | 美国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 页面称 2026-12-04 前提交为优先考虑日期，正文未说明之后是否关闭；Fall 2027 周期不减免申请费；博士生至少 32,500 美元/年加学费，国际生首学期通常任助教并需 TSE 或抵校口试。<br>官网原句：“For primary consideration, submit your application material before December 4, 2026.” |
+| 2026-12-04 | [HKUST(GZ) 博士申请时间表（2026-27 春季、2027-28 秋季）](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/admission-timeline) | 中国内地 | 博士 | 官网未写明 | ✅ 可申 | 2026-27 春季博士国际生申请截止 2026 年 12 月 4 日（23:59，GMT+8），中国内地申请者截止 12 月 25 日。<br>官网原句：“21 July 2026 to 4 December 2026 (23:59, GMT+8) for international applicants” |
 
 ## 之后截止
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-12-04 | [普林斯顿 Andlinger 能源与环境中心杰出博士后研究员](https://acee.princeton.edu/distinguished-postdoctoral-fellows-call-for-applications/) | 美国 | 博后 | 带薪岗位 | ❔ 官网未写明 | 2027 轮杰出博士后，需与普林斯顿两位以上教授合作，截止 2026 年 12 月 4 日 23:59（美东），经 Interfolio 提交。<br>官网原句：“December 4, 2026 at 11:59 p.m. ET” |
-| 2026-12-04 | [奥本大学化学工程博士（助研/助教资助）](https://eng.auburn.edu/chen/academics/graduate/graduate-faq) | 美国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 页面称 2026-12-04 前提交为优先考虑日期，正文未说明之后是否关闭；Fall 2027 周期不减免申请费；博士生至少 32,500 美元/年加学费，国际生首学期通常任助教并需 TSE 或抵校口试。<br>官网原句：“For primary consideration, submit your application material before December 4, 2026.” |
-| 2026-12-04 | [HKUST(GZ) 博士申请时间表（2026-27 春季、2027-28 秋季）](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/admission-timeline) | 中国内地 | 博士 | 官网未写明 | ✅ 可申 | 2026-27 春季博士国际生申请截止 2026 年 12 月 4 日（23:59，GMT+8），中国内地申请者截止 12 月 25 日。<br>官网原句：“21 July 2026 to 4 December 2026 (23:59, GMT+8) for international applicants” |
 | 2026-12-06 | [芝加哥大学 Mansueto 研究所 · 博士后奖学金（城市研究）](https://miurban.uchicago.edu/postdoctoral-fellowship) | 美国 | 博后 | 带薪岗位 | ✅ 可申 | 2027–28 学年博士后，截止 2026-12-06（CST）；需指定 1–3 位芝大导师，不面向本校近期毕业生。<br>官网原句：“The deadline to apply is December 6, 2026, at 5:00pm CST.” |
 | 2026-12-06 | [波恩 Hausdorff 数学中心岗位与机会页](https://www.mathematics.uni-bonn.de/hcm/opportunities/home) | 德国 | 博士、博后 | 官网未写明 | ❔ 官网未写明 | 页面列出的博士岗位（PhD Positions）申请截止 2026 年 12 月 6 日。<br>官网原句：“Application deadline: December 6, 2026” |
 | 2026-12-06 | [波恩大学数学系 · 博士与博后职业页](https://mathematics.uni-bonn.de/de/karriere) | 德国 | 博士、博后 | 带薪岗位 | ❔ 官网未写明 | HCM 博士岗位（PhD Positions）申请截止 2026-12-06；同页博后岗位截止 2026-11-01。BIGS 博士轮次未在正文中给出。<br>官网原句：“Application deadline: December 6, 2026” |

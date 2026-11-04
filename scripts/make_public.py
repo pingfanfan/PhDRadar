@@ -23,7 +23,7 @@ from catalog import load_catalog  # noqa: E402
 
 PUBLIC_NAME = "PhDRadar"
 # 不公开的内部文件（前缀匹配）
-PRIVATE = ("research/inbox/", "research/verify-sprint.txt", "research/workers.yml", "data/discovery/",
+PRIVATE = ("xhs/", "scripts/build_xhs_tool.py", "tests/test_xhs_tool.py", "research/inbox/", "research/verify-sprint.txt", "research/workers.yml", "data/discovery/",
            "data/jobs.json", "data/jobs.md", "data/seen.json", "reports/discovery.md", "research/outreach.md",
            "reports/access-all.csv",  # 含未核实的信源
            # 这两个定时工作流会提交未核实的导师线索与原始岗位，公开仓库不运行
