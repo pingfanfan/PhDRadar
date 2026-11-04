@@ -12896,21 +12896,6 @@
   flags: []
   via: FindAPhD
   checked: '2026-10-25'
-- id: findaphd:200247
-  title: Macroevolution of seastars
-  url: https://www.findaphd.com/phds/project/macroevolution-of-seastars/?p200247
-  org: University of Southampton
-  country: UK
-  place: ''
-  level: phd
-  deadline: '2026-11-15'
-  quote: Sunday, November 15, 2026
-  funding_for: Funded PhD Project (UK Students Only)
-  amount: ''
-  cn: 'no'
-  flags: []
-  via: FindAPhD
-  checked: '2026-10-25'
 - id: findaphd:200350
   title: Algorithms/Hardware Co-Design for Bayesian and Ising Models
   url: https://www.findaphd.com/phds/project/algorithms-hardware-co-design-for-bayesian-and-ising-models/?p200350
@@ -13975,6 +13960,23 @@
   flags: []
   via: Science Careers
   checked: '2026-11-04'
+- id: soton:macroevolution-of-seastars
+  title: Macroevolution of seastars
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/macroevolution-of-seastars
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2026-11-15'
+  quote: Closing date 15 Nov 2026
+  funding_for: 'Funding: Fully funded (UK only)'
+  amount: ''
+  cn: 'no'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+  also:
+  - https://www.findaphd.com/phds/project/macroevolution-of-seastars/?p200247
 - id: successfactors:tudelft-1372167957
   title: Postdoc Position in Quantum Control of Semiconductor Qubits
   url: https://careers.tudelft.nl/job/Delft-Postdoc-Position-in-Quantum-Control-of-Semiconductor-Qubits-2628-CD/1372167957/
@@ -29497,21 +29499,6 @@
   flags: []
   via: FindAPhD
   checked: '2026-10-25'
-- id: findaphd:199785
-  title: Engineering artificial cells for removal of environmental pollutants
-  url: https://www.findaphd.com/phds/project/engineering-artificial-cells-for-removal-of-environmental-pollutants/?p199785
-  org: University of Southampton
-  country: UK
-  place: ''
-  level: phd
-  deadline: '2026-11-30'
-  quote: Monday, November 30, 2026
-  funding_for: Funded PhD Project (UK Students Only)
-  amount: ''
-  cn: 'no'
-  flags: []
-  via: FindAPhD
-  checked: '2026-10-25'
 - id: findaphd:200048
   title: Empowering green seaweeds as beneficial health products (TODD_Q27CASE)
   url: https://www.findaphd.com/phds/project/empowering-green-seaweeds-as-beneficial-health-products-todd-q27case/?p200048
@@ -29608,21 +29595,6 @@
   title: Understanding nanoscale machines with neural density functional theory
   url: https://www.findaphd.com/phds/project/understanding-nanoscale-machines-with-neural-density-functional-theory/?p200140
   org: Durham University
-  country: UK
-  place: ''
-  level: phd
-  deadline: '2026-11-30'
-  quote: Monday, November 30, 2026
-  funding_for: Funded PhD Project (UK Students Only)
-  amount: ''
-  cn: 'no'
-  flags: []
-  via: FindAPhD
-  checked: '2026-10-25'
-- id: findaphd:200190
-  title: Rational design of heterogeneous catalysts for sustainable applications
-  url: https://www.findaphd.com/phds/project/rational-design-of-heterogeneous-catalysts-for-sustainable-applications/?p200190
-  org: University of Southampton
   country: UK
   place: ''
   level: phd
@@ -31605,6 +31577,101 @@
   checked: '2026-11-04'
   also:
   - https://www.nature.com/naturecareers/job/12866116/the-university-of-osaka-immunology-frontier-research-center-postdoctoral-researcher/
+- id: soton:ai-for-nature-using-computer-science-to-reconnect-fragmented
+  title: 'AI for nature: using computer science to reconnect fragmented freshwater ecosystems'
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/ai-for-nature-using-computer-science-to-reconnect-fragmented
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2026-11-30'
+  quote: Closing date 30 Nov 2026
+  funding_for: 'Funding: Fully funded (UK only)'
+  amount: ''
+  cn: 'no'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+- id: soton:electrifying-chemical-reactors-for-net-zero-flow-heat-particle
+  title: 'Electrifying chemical reactors for Net Zero: flow, heat and particle dynamics in next-generation reactors'
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/electrifying-chemical-reactors-for-net-zero-flow-heat-particle
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2026-11-30'
+  quote: Closing date 30 Nov 2026
+  funding_for: 'Funding: Fully funded (UK and international)'
+  amount: ''
+  cn: 'yes'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+- id: soton:engineering-artificial-cells-for-removal-of-environmental
+  title: Engineering artificial cells for removal of environmental pollutants
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/engineering-artificial-cells-for-removal-of-environmental
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2026-11-30'
+  quote: Closing date 30 Nov 2026
+  funding_for: 'Funding: Fully funded (UK only)'
+  amount: ''
+  cn: 'no'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+  also:
+  - https://www.findaphd.com/phds/project/engineering-artificial-cells-for-removal-of-environmental-pollutants/?p199785
+- id: soton:rational-design-of-heterogeneous-catalysts-for-sustainable-applications
+  title: Rational design of heterogeneous catalysts for sustainable applications
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/rational-design-of-heterogeneous-catalysts-for-sustainable-applications
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2026-11-30'
+  quote: Closing date 30 Nov 2026
+  funding_for: 'Funding: Fully funded (UK only)'
+  amount: ''
+  cn: 'no'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+  also:
+  - https://www.findaphd.com/phds/project/rational-design-of-heterogeneous-catalysts-for-sustainable-applications/?p200190
+- id: soton:resilient-defence-sensing-adaptive-modelling-for-trust
+  title: 'Resilient defence sensing: adaptive modelling for trust, compromise, and coalition detection'
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/resilient-defence-sensing-adaptive-modelling-for-trust
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2026-11-30'
+  quote: Closing date 30 Nov 2026
+  funding_for: 'Funding: Fully funded (UK only)'
+  amount: ''
+  cn: 'no'
+  flags:
+  - security-screening
+  via: Southampton
+  checked: '2026-11-04'
+- id: soton:secure-trustworthy-ai-for-autonomous-vehicle-ecosystems
+  title: Secure and trustworthy AI for autonomous vehicle ecosystems
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/secure-trustworthy-ai-for-autonomous-vehicle-ecosystems
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2026-11-30'
+  quote: Closing date 30 Nov 2026
+  funding_for: 'Funding: Fully funded (UK only)'
+  amount: ''
+  cn: 'no'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
 - id: successfactors:epfl-1165538555
   title: PhD position in Aerodynamic Design of Small-Scale Turbomachinery -2
   url: https://careers.epfl.ch/job/Neuch%C3%A2tel-PhD-position-in-Aerodynamic-Design-of-Small-Scale-Turbomachinery-2/1165538555/
@@ -36029,21 +36096,6 @@
   flags: []
   via: FENS Job Market
   checked: '2026-11-04'
-- id: findaphd:199828
-  title: Digital Biomarkers for Mobility Decline and Falls in Dementia
-  url: https://www.findaphd.com/phds/project/digital-biomarkers-for-mobility-decline-and-falls-in-dementia/?p199828
-  org: University of Southampton
-  country: UK
-  place: ''
-  level: phd
-  deadline: '2026-12-04'
-  quote: Friday, December 04, 2026
-  funding_for: Funded PhD Project (UK Students Only)
-  amount: ''
-  cn: 'no'
-  flags: []
-  via: FindAPhD
-  checked: '2026-10-25'
 - id: inspire:3216589
   title: Wilson Fellowship Associate Scientist
   url: https://inspirehep.net/jobs/3216589
@@ -36243,6 +36295,23 @@
   flags: []
   via: ReachMee
   checked: '2026-11-04'
+- id: soton:digital-biomarkers-for-mobility-decline-falls-in-dementia
+  title: Digital Biomarkers for Mobility Decline and Falls in Dementia
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/digital-biomarkers-for-mobility-decline-falls-in-dementia
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2026-12-04'
+  quote: Closing date 4 Dec 2026
+  funding_for: 'Funding: Fully funded (UK only)'
+  amount: ''
+  cn: 'no'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+  also:
+  - https://www.findaphd.com/phds/project/digital-biomarkers-for-mobility-decline-and-falls-in-dementia/?p199828
 - id: tamu-rwfm:118972
   title: USDA-ARS SCINet/AI-COE Postdoctoral Fellowship in AI-Driven Maize-Fungal Pathogen Genomics
   url: https://jobs.rwfm.tamu.edu/view-job/?id=118972
@@ -39141,6 +39210,21 @@
   flags: []
   via: Nature Careers
   checked: '2026-11-04'
+- id: soton:efficient-multicomponent-pharmaceutical-crystal-form-screening
+  title: Efficient multicomponent pharmaceutical crystal form screening with crystal structure prediction
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/efficient-multicomponent-pharmaceutical-crystal-form-screening
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2026-12-11'
+  quote: Closing date 11 Dec 2026
+  funding_for: 'Funding: Fully funded (UK and international)'
+  amount: ''
+  cn: 'yes'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
 - id: ajo:33317
   title: Postdoctoral Fellow - Quantum Information Science
   url: https://academicjobsonline.org/ajo/jobs/33317
@@ -41720,21 +41804,6 @@
   flags: []
   via: EconJobMarket
   checked: '2026-10-28'
-- id: findaphd:200174
-  title: AI-Driven Design of Smart Multifunctional Metamaterials for Next-Generation Aircraft
-  url: https://www.findaphd.com/phds/project/ai-driven-design-of-smart-multifunctional-metamaterials-for-next-generation-aircraft/?p200174
-  org: University of Southampton
-  country: UK
-  place: ''
-  level: phd
-  deadline: '2026-12-18'
-  quote: Friday, December 18, 2026
-  funding_for: Funded PhD Project (Students Worldwide)
-  amount: ''
-  cn: 'yes'
-  flags: []
-  via: FindAPhD
-  checked: '2026-10-25'
 - id: findaphd:200506
   title: A three-year PhD studentship in joint communications and sensing
   url: https://www.findaphd.com/phds/project/a-three-year-phd-studentship-in-joint-communications-and-sensing/?p200506
@@ -41889,6 +41958,23 @@
   flags: []
   via: Nature Careers
   checked: '2026-11-04'
+- id: soton:ai-driven-design-of-smart-multifunctional-metamaterials-for
+  title: AI-driven design of smart multifunctional metamaterials for next-generation aircraft
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/ai-driven-design-of-smart-multifunctional-metamaterials-for
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2026-12-18'
+  quote: Closing date 18 Dec 2026
+  funding_for: 'Funding: Fully funded (UK and international)'
+  amount: ''
+  cn: 'yes'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+  also:
+  - https://www.findaphd.com/phds/project/ai-driven-design-of-smart-multifunctional-metamaterials-for-next-generation-aircraft/?p200174
 - id: tamu-rwfm:119479
   title: USDA-ARS Postdoctoral Fellowship in Chemistry
   url: https://jobs.rwfm.tamu.edu/view-job/?id=119479
@@ -44076,21 +44162,6 @@
   flags: []
   via: FindAPhD
   checked: '2026-10-25'
-- id: findaphd:199418
-  title: Development of high-performance miniaturised ultrasonic devices for precision minimally invasive surgery
-  url: https://www.findaphd.com/phds/project/development-of-high-performance-miniaturised-ultrasonic-devices-for-precision-minimally-invasive-surgery/?p199418
-  org: University of Southampton
-  country: UK
-  place: ''
-  level: phd
-  deadline: '2026-12-31'
-  quote: Thursday, December 31, 2026
-  funding_for: Funded PhD Project (Students Worldwide)
-  amount: ''
-  cn: 'yes'
-  flags: []
-  via: FindAPhD
-  checked: '2026-10-25'
 - id: inria:2025-08759
   title: Post-Doctoral Research Visit F/M Model placement in inference delivery networks
   url: https://jobs.inria.fr/public/classic/en/offres/2025-08759
@@ -44700,6 +44771,68 @@
   cn: check
   flags: []
   via: Institut Pasteur Jobs
+  checked: '2026-11-04'
+- id: soton:development-of-high-performance-miniaturised-ultrasonic
+  title: Development of high-performance miniaturised ultrasonic devices for precision minimally invasive surgery
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/development-of-high-performance-miniaturised-ultrasonic
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2026-12-31'
+  quote: Closing date 31 Dec 2026
+  funding_for: 'Funding: Fully funded (UK and international)'
+  amount: ''
+  cn: 'yes'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+  also:
+  - https://www.findaphd.com/phds/project/development-of-high-performance-miniaturised-ultrasonic-devices-for-precision-minimally-invasive-surgery/?p199418
+- id: soton:dynamic-metasurfaces-for-advanced-signal-processing
+  title: Dynamic metasurfaces for advanced signal processing
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/dynamic-metasurfaces-for-advanced-signal-processing
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2026-12-31'
+  quote: Closing date 31 Dec 2026
+  funding_for: 'Funding: Fully funded (UK only)'
+  amount: ''
+  cn: 'no'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+- id: soton:making-nanoscale-materials-precision-fabrication-of-high
+  title: 'Making nanoscale materials: precision fabrication of high-performance functional structures'
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/making-nanoscale-materials-precision-fabrication-of-high
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2026-12-31'
+  quote: Closing date 31 Dec 2026
+  funding_for: 'Funding: Fully funded (UK and international)'
+  amount: ''
+  cn: 'yes'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+- id: soton:using-machine-learning-to-model-complex-biological
+  title: Using machine learning to model complex biological interactions
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/using-machine-learning-to-model-complex-biological
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2026-12-31'
+  quote: Closing date 31 Dec 2026
+  funding_for: 'Funding: Fully funded (UK only)'
+  amount: ''
+  cn: 'no'
+  flags: []
+  via: Southampton
   checked: '2026-11-04'
 - id: successfactors:tudelft-1376285757
   title: Postdoc Fellowships European Synthetic Cell Initiative (SynCell-nExUs programme)
@@ -46296,21 +46429,6 @@
   flags: []
   via: FindAPhD
   checked: '2026-10-25'
-- id: findaphd:200240
-  title: Why do galaxies stop forming stars, and why do they end up with bulges?
-  url: https://www.findaphd.com/phds/project/why-do-galaxies-stop-forming-stars-and-why-do-they-end-up-with-bulges/?p200240
-  org: University of Southampton
-  country: UK
-  place: ''
-  level: phd
-  deadline: '2027-01-06'
-  quote: Wednesday, January 06, 2027
-  funding_for: Funded PhD Project (Students Worldwide)
-  amount: ''
-  cn: 'yes'
-  flags: []
-  via: FindAPhD
-  checked: '2026-10-25'
 - id: findaphd:200303
   title: Synthesis, encapsulation and spectroscopy of new molecular carbon allotropes
   url: https://www.findaphd.com/phds/project/synthesis-encapsulation-and-spectroscopy-of-new-molecular-carbon-allotropes/?p200303
@@ -46688,6 +46806,53 @@
   flags: []
   via: jobs.ac.uk
   checked: '2026-11-04'
+- id: soton:how-did-the-first-supermassive-black-holes-grow-so-fast
+  title: How did the first supermassive black holes grow so fast?
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/how-did-the-first-supermassive-black-holes-grow-so-fast
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2027-01-06'
+  quote: Closing date 6 Jan 2027
+  funding_for: 'Funding: Fully funded (UK and international)'
+  amount: ''
+  cn: 'yes'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+- id: soton:large-scale-structure-of-earths-magnetosphere
+  title: Large-scale structure of Earth’s magnetosphere
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/large-scale-structure-of-earths-magnetosphere
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2027-01-06'
+  quote: Closing date 6 Jan 2027
+  funding_for: 'Funding: Fully funded (UK only)'
+  amount: ''
+  cn: 'no'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+- id: soton:why-do-galaxies-stop-forming-stars-why-do-they-end-up-with
+  title: Why do galaxies stop forming stars, and why do they end up with bulges?
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/why-do-galaxies-stop-forming-stars-why-do-they-end-up-with
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2027-01-06'
+  quote: Closing date 6 Jan 2027
+  funding_for: 'Funding: Fully funded (UK and international)'
+  amount: ''
+  cn: 'yes'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+  also:
+  - https://www.findaphd.com/phds/project/why-do-galaxies-stop-forming-stars-and-why-do-they-end-up-with-bulges/?p200240
 - id: university:cam-jd51565
   title: PhD Studentship in the Zooarchaeology of Later Pastoralism in Kenya
   url: https://www.cam.ac.uk/jobs/phd-studentship-in-the-zooarchaeology-of-later-pastoralism-in-kenya-jd51565
@@ -47342,21 +47507,6 @@
   flags: []
   via: FAPESP Oportunidades
   checked: '2026-11-04'
-- id: findaphd:199831
-  title: AI-Guided Discovery of Immunotherapy Resistance Mechanisms
-  url: https://www.findaphd.com/phds/project/ai-guided-discovery-of-immunotherapy-resistance-mechanisms/?p199831
-  org: University of Southampton
-  country: UK
-  place: ''
-  level: phd
-  deadline: '2027-01-10'
-  quote: Sunday, January 10, 2027
-  funding_for: Funded PhD Project (Students Worldwide)
-  amount: ''
-  cn: 'yes'
-  flags: []
-  via: FindAPhD
-  checked: '2026-10-25'
 - id: jobs-ac-uk:DTG436
   title: 'PhD Studentship: Monte Carlo Methods for Constrained and Aggregated Data'
   url: https://www.jobs.ac.uk/job/DTG436/phd-studentship-monte-carlo-methods-for-constrained-and-aggregated-data
@@ -47402,6 +47552,23 @@
   flags: []
   via: Nature Careers
   checked: '2026-11-04'
+- id: soton:ai-guided-discovery-of-immunotherapy-resistance-mechanisms
+  title: AI-Guided Discovery of Immunotherapy Resistance Mechanisms
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/ai-guided-discovery-of-immunotherapy-resistance-mechanisms
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2027-01-10'
+  quote: Closing date 10 Jan 2027
+  funding_for: 'Funding: Fully funded (UK and international)'
+  amount: ''
+  cn: 'yes'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+  also:
+  - https://www.findaphd.com/phds/project/ai-guided-discovery-of-immunotherapy-resistance-mechanisms/?p199831
 - id: academictransfer:364943
   title: 'PhD Researcher: Environmental Impacts of Spatial Demographic Change'
   url: https://www.academictransfer.com/en/jobs/364943/phd-researcher-environmental-impacts-of-spatial-demographic-change/
@@ -49645,6 +49812,21 @@
   flags: []
   via: Oracle Recruiting
   checked: '2026-11-04'
+- id: soton:realising-upconversion-luminescence-in-supramolecular-d-f
+  title: Realising upconversion luminescence in supramolecular [d-f] complexes
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/realising-upconversion-luminescence-in-supramolecular-d-f
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2027-01-31'
+  quote: Closing date 31 Jan 2027
+  funding_for: 'Funding: Fully funded (UK and international)'
+  amount: ''
+  cn: 'yes'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
 - id: tamu-rwfm:117804
   title: Fall 2027 Forest Ecology PhD Student Position
   url: https://jobs.rwfm.tamu.edu/view-job/?id=117804
@@ -49855,36 +50037,6 @@
   flags: []
   via: Academic Jobs Online
   checked: '2026-11-04'
-- id: findaphd:199448
-  title: Geometric diodes for RF energy harvesting and integrated circuits
-  url: https://www.findaphd.com/phds/project/geometric-diodes-for-rf-energy-harvesting-and-integrated-circuits/?p199448
-  org: University of Southampton
-  country: UK
-  place: ''
-  level: phd
-  deadline: '2027-02-01'
-  quote: Monday, February 01, 2027
-  funding_for: Funded PhD Project (UK Students Only)
-  amount: ''
-  cn: 'no'
-  flags: []
-  via: FindAPhD
-  checked: '2026-10-25'
-- id: findaphd:199689
-  title: Geometric diodes for RF energy harvesting and integrated circuits
-  url: https://www.findaphd.com/phds/project/geometric-diodes-for-rf-energy-harvesting-and-integrated-circuits/?p199689
-  org: University of Southampton
-  country: UK
-  place: ''
-  level: phd
-  deadline: '2027-02-01'
-  quote: Monday, February 01, 2027
-  funding_for: Funded PhD Project (UK Students Only)
-  amount: ''
-  cn: 'no'
-  flags: []
-  via: FindAPhD
-  checked: '2026-10-25'
 - id: findaphd:200263
   title: 'Turning Green Infrastructure into Network Infrastructure: Battery-Free Ambient IoT Hosted on Urban Trees'
   url: https://www.findaphd.com/phds/project/turning-green-infrastructure-into-network-infrastructure-battery-free-ambient-iot-hosted-on-urban-trees/?p200263
@@ -50050,6 +50202,24 @@
   flags: []
   via: Nature Careers
   checked: '2026-11-04'
+- id: soton:geometric-diodes-for-rf-energy-harvesting-integrated-circuits
+  title: Geometric diodes for RF energy harvesting and integrated circuits
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/geometric-diodes-for-rf-energy-harvesting-integrated-circuits
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2027-02-01'
+  quote: Closing date 1 Feb 2027
+  funding_for: 'Funding: Fully funded (UK only)'
+  amount: ''
+  cn: 'no'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+  also:
+  - https://www.findaphd.com/phds/project/geometric-diodes-for-rf-energy-harvesting-and-integrated-circuits/?p199448
+  - https://www.findaphd.com/phds/project/geometric-diodes-for-rf-energy-harvesting-and-integrated-circuits/?p199689
 - id: tamu-rwfm:118802
   title: Graduate Student Position (MS or PhD) — Freshwater Ecology, University of North Dakota
   url: https://jobs.rwfm.tamu.edu/view-job/?id=118802
@@ -50080,21 +50250,6 @@
   flags: []
   via: TAMU Natural Resources Job Board
   checked: '2026-11-04'
-- id: findaphd:200109
-  title: Wafer-scale pluggable optical I/O platform for high-density photonic packaging
-  url: https://www.findaphd.com/phds/project/wafer-scale-pluggable-optical-i-o-platform-for-high-density-photonic-packaging/?p200109
-  org: University of Southampton
-  country: UK
-  place: ''
-  level: phd
-  deadline: '2027-02-02'
-  quote: Tuesday, February 02, 2027
-  funding_for: Funded PhD Project (Students Worldwide)
-  amount: ''
-  cn: 'yes'
-  flags: []
-  via: FindAPhD
-  checked: '2026-10-25'
 - id: findaphd:200163
   title: Heterogeneously Integrated TFLN-on-SiN Platform for Ultra-High-Speed Photonics
   url: https://www.findaphd.com/phds/project/heterogeneously-integrated-tfln-on-sin-platform-for-ultra-high-speed-photonics/?p200163
@@ -50200,6 +50355,23 @@
   flags: []
   via: jobs.ac.uk
   checked: '2026-11-04'
+- id: soton:wafer-scale-pluggable-optical-io-platform-for-high-density
+  title: Wafer-scale pluggable optical I/O platform for high-density photonic packaging
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/wafer-scale-pluggable-optical-io-platform-for-high-density
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2027-02-02'
+  quote: Closing date 2 Feb 2027
+  funding_for: 'Funding: Fully funded (UK only)'
+  amount: ''
+  cn: 'no'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+  also:
+  - https://www.findaphd.com/phds/project/wafer-scale-pluggable-optical-i-o-platform-for-high-density-photonic-packaging/?p200109
 - id: the-unijobs:406869
   title: CBS - Postdoctoral in Analytical Chemistry
   url: https://www.timeshighereducation.com/unijobs/listing/406869/cbs-postdoctoral-in-analytical-chemistry/
@@ -50307,21 +50479,6 @@
   flags: []
   via: MathJobs
   checked: '2026-11-04'
-- id: findaphd:199698
-  title: Unsteady flow and surface loading around a wall-mounted porous cylinder in a turbulent boundary layer
-  url: https://www.findaphd.com/phds/project/unsteady-flow-and-surface-loading-around-a-wall-mounted-porous-cylinder-in-a-turbulent-boundary-layer/?p199698
-  org: University of Southampton
-  country: UK
-  place: ''
-  level: phd
-  deadline: '2027-02-05'
-  quote: Friday, February 05, 2027
-  funding_for: Funded PhD Project (UK Students Only)
-  amount: ''
-  cn: 'no'
-  flags: []
-  via: FindAPhD
-  checked: '2026-10-25'
 - id: findaphd:200142
   title: The electronic structure of reactive intermediates from ion spectroscopy
   url: https://www.findaphd.com/phds/project/the-electronic-structure-of-reactive-intermediates-from-ion-spectroscopy/?p200142
@@ -50352,6 +50509,23 @@
   flags: []
   via: jobs.ac.uk
   checked: '2026-11-04'
+- id: soton:unsteady-flow-surface-loading-around-a-wall-mounted-porous
+  title: Unsteady flow and surface loading around a wall-mounted porous cylinder in a turbulent boundary layer
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/unsteady-flow-surface-loading-around-a-wall-mounted-porous
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2027-02-05'
+  quote: Closing date 5 Feb 2027
+  funding_for: 'Funding: Fully funded (UK only)'
+  amount: ''
+  cn: 'no'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+  also:
+  - https://www.findaphd.com/phds/project/unsteady-flow-and-surface-loading-around-a-wall-mounted-porous-cylinder-in-a-turbulent-boundary-layer/?p199698
 - id: university:polyu-261016013
   title: Postdoctoral Fellow / Research Associate / Research Assistant
   url: https://jobs.polyu.edu.hk/job_detail.php?job=261016013
@@ -51179,21 +51353,6 @@
   flags: []
   via: FindAPhD
   checked: '2026-10-25'
-- id: findaphd:199971
-  title: Interstage acoustic liners for ultra-high bypass ratio aero-engines
-  url: https://www.findaphd.com/phds/project/interstage-acoustic-liners-for-ultra-high-bypass-ratio-aero-engines/?p199971
-  org: University of Southampton
-  country: UK
-  place: ''
-  level: phd
-  deadline: '2027-02-28'
-  quote: Sunday, February 28, 2027
-  funding_for: Funded PhD Project (Students Worldwide)
-  amount: ''
-  cn: 'yes'
-  flags: []
-  via: FindAPhD
-  checked: '2026-10-25'
 - id: findaphd:200139
   title: Community noise prediction for eVTOL aircraft
   url: https://www.findaphd.com/phds/project/community-noise-prediction-for-evtol-aircraft/?p200139
@@ -51287,6 +51446,38 @@
   flags: []
   via: MathJobs
   checked: '2026-10-31'
+- id: soton:community-noise-prediction-for-evtol-aircraft-during-flight
+  title: Community noise prediction for eVTOL aircraft during flight phase transition
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/community-noise-prediction-for-evtol-aircraft-during-flight
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2027-02-28'
+  quote: Closing date 28 Feb 2027
+  funding_for: 'Funding: Fully funded (UK and international)'
+  amount: ''
+  cn: 'yes'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+- id: soton:interstage-acoustic-liners-for-ultra-high-bypass-ratio-aero
+  title: Interstage acoustic liners for ultra-high bypass ratio aero-engines
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/interstage-acoustic-liners-for-ultra-high-bypass-ratio-aero
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2027-02-28'
+  quote: Closing date 28 Feb 2027
+  funding_for: 'Funding: Fully funded (UK and international)'
+  amount: ''
+  cn: 'yes'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+  also:
+  - https://www.findaphd.com/phds/project/interstage-acoustic-liners-for-ultra-high-bypass-ratio-aero-engines/?p199971
 - id: tamu-rwfm:119461
   title: Postdoctoral Associate – Tissue Metabolism in Equine Insulin Dysregulation
   url: https://jobs.rwfm.tamu.edu/view-job/?id=119461
@@ -51377,21 +51568,6 @@
   flags: []
   via: EconJobMarket
   checked: '2026-10-22'
-- id: findaphd:199368
-  title: Flat optical fibre platform for next-generation transformer winding vibration monitoring
-  url: https://www.findaphd.com/phds/project/flat-optical-fibre-platform-for-next-generation-transformer-winding-vibration-monitoring/?p199368
-  org: University of Southampton
-  country: UK
-  place: ''
-  level: phd
-  deadline: '2027-03-19'
-  quote: Friday, March 19, 2027
-  funding_for: Funded PhD Project (Students Worldwide)
-  amount: ''
-  cn: 'yes'
-  flags: []
-  via: FindAPhD
-  checked: '2026-10-25'
 - id: inspire:3130950
   title: Postdoctoral Research Positions in Silicon Detector Development
   url: https://inspirehep.net/jobs/3130950
@@ -51422,6 +51598,23 @@
   flags: []
   via: INSPIRE-HEP Jobs
   checked: '2026-11-04'
+- id: soton:flat-optical-fibre-platform-for-next-generation-transformer
+  title: Flat optical fibre platform for next-generation transformer winding vibration monitoring
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/flat-optical-fibre-platform-for-next-generation-transformer
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2027-03-19'
+  quote: Closing date 19 Mar 2027
+  funding_for: 'Funding: Fully funded (UK and international)'
+  amount: ''
+  cn: 'yes'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+  also:
+  - https://www.findaphd.com/phds/project/flat-optical-fibre-platform-for-next-generation-transformer-winding-vibration-monitoring/?p199368
 - id: the-unijobs:409005
   title: Postdoctoral Research Assistant, College of Engineering & Computer Science
   url: https://www.timeshighereducation.com/unijobs/listing/409005/postdoctoral-research-assistant-college-of-engineering-and-computer-science/
@@ -51495,36 +51688,6 @@
   funding_for: Funded PhD Project (UK Students Only)
   amount: ''
   cn: 'no'
-  flags: []
-  via: FindAPhD
-  checked: '2026-10-25'
-- id: findaphd:199829
-  title: From Galactic Gas To Growing Black Holes
-  url: https://www.findaphd.com/phds/project/from-galactic-gas-to-growing-black-holes/?p199829
-  org: University of Southampton
-  country: UK
-  place: ''
-  level: phd
-  deadline: '2027-03-31'
-  quote: Wednesday, March 31, 2027
-  funding_for: Funded PhD Project (Students Worldwide)
-  amount: ''
-  cn: 'yes'
-  flags: []
-  via: FindAPhD
-  checked: '2026-10-25'
-- id: findaphd:199830
-  title: The Dynamic Lives of Galaxies and Their Black Holes
-  url: https://www.findaphd.com/phds/project/the-dynamic-lives-of-galaxies-and-their-black-holes/?p199830
-  org: University of Southampton
-  country: UK
-  place: ''
-  level: phd
-  deadline: '2027-03-31'
-  quote: Wednesday, March 31, 2027
-  funding_for: Funded PhD Project (Students Worldwide)
-  amount: ''
-  cn: 'yes'
   flags: []
   via: FindAPhD
   checked: '2026-10-25'
@@ -51604,6 +51767,40 @@
   flags: []
   via: MathJobs
   checked: '2026-11-04'
+- id: soton:from-galactic-gas-to-growing-black-holes
+  title: From galactic gas to growing black holes
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/from-galactic-gas-to-growing-black-holes
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2027-03-31'
+  quote: Closing date 31 Mar 2027
+  funding_for: 'Funding: Fully funded (UK and international)'
+  amount: ''
+  cn: 'yes'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+  also:
+  - https://www.findaphd.com/phds/project/from-galactic-gas-to-growing-black-holes/?p199829
+- id: soton:the-dynamic-lives-of-galaxies-their-black-holes
+  title: The dynamic lives of galaxies and their black holes
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/the-dynamic-lives-of-galaxies-their-black-holes
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2027-03-31'
+  quote: Closing date 31 Mar 2027
+  funding_for: 'Funding: Fully funded (UK and international)'
+  amount: ''
+  cn: 'yes'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+  also:
+  - https://www.findaphd.com/phds/project/the-dynamic-lives-of-galaxies-and-their-black-holes/?p199830
 - id: daad:10367
   title: PhD positions - Statistical Physics and Active Matter -
   url: https://www.daad.de/en/studying-in-germany/phd-studies-research/phd-germany/detail/max-planck-institute-for-dynamics-and-self-organizationdepartment-of-living-matter-physics-lmp-phd-positions-statistical-physics-and-active-matter-10367/?phd-id=10367
@@ -51890,6 +52087,51 @@
   flags: []
   via: EconJobMarket
   checked: '2026-10-21'
+- id: soton:electronic-structure-theory-for-quantum-dynamics-on-classic
+  title: Electronic structure theory for quantum dynamics on classic and quantum computers
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/electronic-structure-theory-for-quantum-dynamics-on-classic
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2027-05-31'
+  quote: Closing date 31 May 2027
+  funding_for: 'Funding: Fully funded (UK only)'
+  amount: ''
+  cn: 'no'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+- id: soton:deep-learning-modelling-of-nano-defects-in-chip-fabrication
+  title: Deep learning modelling of nano defects in chip fabrication
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/deep-learning-modelling-of-nano-defects-in-chip-fabrication
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2027-06-01'
+  quote: Closing date 1 Jun 2027
+  funding_for: 'Funding: Fully funded (UK and international)'
+  amount: ''
+  cn: 'yes'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+- id: soton:mathematically-scaling-the-physical-impacts-of-soil
+  title: Mathematically scaling the physical impacts of soil bioturbation on bulk scale water flow, gas transport, and mechanical properties in soil
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/mathematically-scaling-the-physical-impacts-of-soil
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2027-06-01'
+  quote: Closing date 1 Jun 2027
+  funding_for: 'Funding: Fully funded (UK only)'
+  amount: ''
+  cn: 'no'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
 - id: tamu-rwfm:119277
   title: Post-doctoral researcher
   url: https://jobs.rwfm.tamu.edu/view-job/?id=119277
@@ -52055,21 +52297,6 @@
   flags: []
   via: FindAPhD
   checked: '2026-10-25'
-- id: findaphd:200024
-  title: 'The Fibre–Photonic Chip Frontier: Integrating Hollow-Core Fibres with Integrated Photonic Circuits'
-  url: https://www.findaphd.com/phds/project/the-fibre-photonic-chip-frontier-integrating-hollow-core-fibres-with-integrated-photonic-circuits/?p200024
-  org: University of Southampton
-  country: UK
-  place: ''
-  level: phd
-  deadline: '2027-07-31'
-  quote: Saturday, July 31, 2027
-  funding_for: Funded PhD Project (UK Students Only)
-  amount: ''
-  cn: 'no'
-  flags: []
-  via: FindAPhD
-  checked: '2026-10-25'
 - id: jobs-ac-uk:DTE714
   title: Fully Funded PhD Studentships at the EPSRC Centre for Doctoral Training in Statistics and Operational Research in Partnership with Industry (STOR-i)
   url: https://www.jobs.ac.uk/job/DTE714/fully-funded-phd-studentships-at-the-epsrc-centre-for-doctoral-training-in-statistics-and-operational-research-in-partnership-with-industry-stor-i
@@ -52085,6 +52312,38 @@
   flags: []
   via: jobs.ac.uk
   checked: '2026-11-04'
+- id: soton:investigation-of-thermoacoustic-instabilities-of-hydrogen
+  title: Investigation of thermoacoustic instabilities of hydrogen flames
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/investigation-of-thermoacoustic-instabilities-of-hydrogen
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2027-07-31'
+  quote: Closing date 31 Jul 2027
+  funding_for: 'Funding: Fully funded (UK and international)'
+  amount: ''
+  cn: 'yes'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+- id: soton:the-fibre-photonic-chip-frontier-integrating-hollow-core
+  title: 'The fibre–photonic chip frontier: Integrating hollow-core fibres with integrated photonic circuits'
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/the-fibre-photonic-chip-frontier-integrating-hollow-core
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2027-07-31'
+  quote: Closing date 31 Jul 2027
+  funding_for: 'Funding: Fully funded (UK only)'
+  amount: ''
+  cn: 'no'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+  also:
+  - https://www.findaphd.com/phds/project/the-fibre-photonic-chip-frontier-integrating-hollow-core-fibres-with-integrated-photonic-circuits/?p200024
 - id: findaphd:198090
   title: Magnetic Metamaterials and Millimetre-Wave Devices – Industrial PhD in Physics (Fully-Funded Studentship) – UK Nationals/UK Dual-Nationals ONLY
   url: https://www.findaphd.com/phds/project/magnetic-metamaterials-and-millimetre-wave-devices-industrial-phd-in-physics-fully-funded-studentship-uk-nationals-uk-dual-nationals-only/?p198090
@@ -52160,6 +52419,51 @@
   flags: []
   via: MathJobs
   checked: '2026-10-24'
+- id: soton:2d-transition-metal-dichalcogenide-nanoelectronic-devices-for
+  title: 2D-transition metal dichalcogenide nanoelectronic devices for neuromorphic computing
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/2d-transition-metal-dichalcogenide-nanoelectronic-devices-for
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2027-08-31'
+  quote: Closing date 31 Aug 2027
+  funding_for: 'Funding: Fully funded (UK only)'
+  amount: ''
+  cn: 'no'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+- id: soton:decoding-chemical-origins-bayesian-inference-from-nmr
+  title: 'Decoding chemical origins: Bayesian inference from NMR fingerprints'
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/decoding-chemical-origins-bayesian-inference-from-nmr
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2027-08-31'
+  quote: Closing date 31 Aug 2027
+  funding_for: 'Funding: Fully funded (UK only)'
+  amount: ''
+  cn: 'no'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
+- id: soton:van-der-waals-semiconducting-ferroelectrics-for-programmable
+  title: van der Waals semiconducting ferroelectrics for programmable on-chip optoelectronics
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/van-der-waals-semiconducting-ferroelectrics-for-programmable
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2027-08-31'
+  quote: Closing date 31 Aug 2027
+  funding_for: 'Funding: Fully funded (UK only)'
+  amount: ''
+  cn: 'no'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
 - id: university:rwth-aachen-V000011302
   title: Wissenschaftliche/r Mitarbeiter/in (w/m/d) - Institut für Elektrische Anlagen und Netze, Digitalisierung und Energiewirtschaft
   url: https://www.rwth-aachen.de/go/id/kbag/file/V000011302/
@@ -52175,21 +52479,23 @@
   flags: []
   via: RWTH Aachen University
   checked: '2026-11-04'
-- id: findaphd:199657
+- id: soton:high-fidelity-cfd-for-fanogvs-broadband-noise-modelling
   title: High-fidelity CFD for fan/OGVs broadband noise modelling
-  url: https://www.findaphd.com/phds/project/high-fidelity-cfd-for-fan-ogvs-broadband-noise-modelling/?p199657
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/high-fidelity-cfd-for-fanogvs-broadband-noise-modelling
   org: University of Southampton
   country: UK
-  place: ''
+  place: Southampton
   level: phd
   deadline: '2027-09-01'
-  quote: Wednesday, September 01, 2027
-  funding_for: Funded PhD Project (Students Worldwide)
+  quote: Closing date 1 Sep 2027
+  funding_for: 'Funding: Fully funded (UK and international)'
   amount: ''
-  cn: check
+  cn: 'yes'
   flags: []
-  via: FindAPhD
-  checked: '2026-10-25'
+  via: Southampton
+  checked: '2026-11-04'
+  also:
+  - https://www.findaphd.com/phds/project/high-fidelity-cfd-for-fan-ogvs-broadband-noise-modelling/?p199657
 - id: ajo:32748
   title: Postdoctoral Associate
   url: https://academicjobsonline.org/ajo/jobs/32748
@@ -52236,21 +52542,38 @@
   flags: []
   via: DAAD PhDGermany
   checked: '2026-11-04'
-- id: findaphd:200199
-  title: 'Boundless light: Fibre optic systems unconstrained by glass properties'
-  url: https://www.findaphd.com/phds/project/boundless-light-fibre-optic-systems-unconstrained-by-glass-properties/?p200199
+- id: soton:boundless-light-fibre-optic-systems-unconstrained-by-glass
+  title: 'Boundless light: fibre optic systems unconstrained by glass properties'
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/boundless-light-fibre-optic-systems-unconstrained-by-glass
   org: University of Southampton
   country: UK
-  place: ''
+  place: Southampton
   level: phd
   deadline: '2027-09-30'
-  quote: Thursday, September 30, 2027
-  funding_for: Funded PhD Project (UK Students Only)
+  quote: Closing date 30 Sep 2027
+  funding_for: 'Funding: Fully funded (UK only)'
   amount: ''
   cn: 'no'
   flags: []
-  via: FindAPhD
-  checked: '2026-10-25'
+  via: Southampton
+  checked: '2026-11-04'
+  also:
+  - https://www.findaphd.com/phds/project/boundless-light-fibre-optic-systems-unconstrained-by-glass-properties/?p200199
+- id: soton:laser-based-fabrication-of-microfluidic-devices-for-clinical
+  title: Laser-based fabrication of microfluidic devices for clinical diagnostic testing
+  url: https://www.southampton.ac.uk/study/postgraduate-research/projects/laser-based-fabrication-of-microfluidic-devices-for-clinical
+  org: University of Southampton
+  country: UK
+  place: Southampton
+  level: phd
+  deadline: '2027-09-30'
+  quote: Closing date 30 Sep 2027
+  funding_for: 'Funding: Fully funded (UK only)'
+  amount: ''
+  cn: 'no'
+  flags: []
+  via: Southampton
+  checked: '2026-11-04'
 - id: econjobmarket:12784
   title: 3-year fixed-term International Research Fellows
   url: https://econjobmarket.org/positions/12784

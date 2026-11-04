@@ -132,3 +132,46 @@ def test_lms_urls_and_detail():
     assert row["quote"] == "Application deadline: Wednesday 18 th November 2026 (9:00)"
     assert uk.lms_detail("russell", "u", LMS_PAGE, "2026-11-19") == (None, "已截止")
     assert uk.lms_detail("nobody", "u", LMS_PAGE, TODAY)[0] is None
+
+
+SOTON_LIST_PAGE = """<header><span>238 Results</span></header>
+<li><a href="/study/postgraduate-research/projects/realising-upconversion" class="card-link"><h3 class="card__title"> Realising upconversion </h3>
+<span class="label field-label-above">Closing date:</span> <span>2027-01-31</span>
+<span class="label field-label-above">Funding:</span> <span>Fully funded (UK and international)</span></a></li>
+<li><a href="/study/postgraduate-research/projects/lanthanide-complexes" class="card-link"><h3 class="card__title"> Lanthanide </h3>
+<span class="label field-label-above">Closing date:</span> <span>2027-07-31</span>
+<span class="label field-label-above">Funding:</span> <span>Competition funded</span></a></li>
+<li><a href="/study/postgraduate-research/projects/macroevolution-of-seastars" class="card-link"><h3 class="card__title"> Seastars </h3>
+<span class="label field-label-above">Closing date:</span> <span>2026-11-15</span>
+<span class="label field-label-above">Funding:</span> <span>Fully funded (UK only)</span></a></li>"""
+
+
+def soton_page(funding: str, closing: str, body: str = "") -> str:
+    return (f"<h1>Realising upconversion luminescence in supramolecular [d-f] complexes</h1>"
+            f"<div>Funding</div><div>{funding}</div><div>Type of degree</div><div>Doctor of Philosophy</div>"
+            f"<div>Closing date</div><div>{closing}</div><p>{body}</p>")
+
+
+def test_soton_urls_keep_only_fully_funded():
+    import platforms_uk
+
+    class F:
+        def get(self, url):
+            return type("R", (), {"text": SOTON_LIST_PAGE if url.endswith("page=0") else "<p>no cards</p>"})()
+
+    urls = platforms_uk.soton_urls(F(), 30)
+    assert [j for j, _ in urls] == ["realising-upconversion", "macroevolution-of-seastars"]  # 竞争性资助不读
+    assert urls[0][1] == "https://www.southampton.ac.uk/study/postgraduate-research/projects/realising-upconversion"
+
+
+def test_soton_detail():
+    import platforms_uk
+
+    row, why = platforms_uk.soton_detail("x", "https://u", soton_page("Fully funded (UK and international)", "31 Jan 2027"), "2026-11-04")
+    assert why == "收录" and row["deadline"] == "2027-01-31" and row["cn"] == "yes"
+    assert row["quote"] == "Closing date 31 Jan 2027" and row["funding_for"] == "Funding: Fully funded (UK and international)"
+    assert row["amount"] == "" and row["title"].startswith("Realising upconversion") and row["via"] == "Southampton"
+    row, _ = platforms_uk.soton_detail("x", "https://u", soton_page("Fully funded (UK only)", "15 November 2026"), "2026-11-04")
+    assert row["cn"] == "no" and row["deadline"] == "2026-11-15"
+    assert platforms_uk.soton_detail("x", "u", soton_page("Competition funded", "31 Jan 2027"), "2026-11-04")[1] == "自费或竞争性资助"
+    assert platforms_uk.soton_detail("x", "u", soton_page("Fully funded (UK and international)", "31 Aug 2024"), "2026-11-04")[1] == "已截止"

@@ -111,5 +111,69 @@ def lms_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, s
     }, "收录"
 
 
-ADAPTERS = {"crick": (crick_urls, crick_detail), "lms": (lms_urls, lms_detail)}
-VIA_RANK = {"Crick": 3, "MRC LMS": 3}
+# ───────────────────────── University of Southampton ─────────────────────────
+# 学校自己的“当前在招博士课题”列表（/study/postgraduate-research/projects?page=N，约 24 页），每张卡片写明
+# Closing date 与 Funding（Competition funded / Fully funded (UK only) / Fully funded (UK and international)）。
+# 竞争性资助按本库规则不收，所以列表阶段只挑“Fully funded”的课题去读详情页；详情页顶部同样写着 Funding 与 Closing date，
+# 以详情页为准。robots.txt 只禁止 /research/search/、/profileview/ 等，不禁止 /study/postgraduate-research/projects。
+# 详情页“Fees and funding”一节多是学校通用说明，没有写具体金额 → amount 留空，不猜。
+
+SOTON = "https://www.southampton.ac.uk"
+SOTON_LIST = SOTON + "/study/postgraduate-research/projects?page={page}"
+SOTON_CARD = re.compile(r'<a href="(/study/postgraduate-research/projects/([a-z0-9-]+))" class="card-link">.*?'
+                        r'Funding:</span>\s*<span>([^<]*)</span>', re.S)
+_MON3 = {m[:3]: i + 1 for i, m in enumerate(cp.MONTHS)}
+
+
+def soton_day(s: str) -> str | None:
+    """'31 Jan 2027' / '31 January 2027' → ISO。"""
+    from datetime import date
+    m = re.search(r"(\d{1,2})\s+([A-Za-z]{3})[a-z]*\.?\s+(\d{4})", s)
+    if not m or m.group(2).lower() not in _MON3:
+        return parse_day(s)
+    try:
+        return date(int(m.group(3)), _MON3[m.group(2).lower()], int(m.group(1))).isoformat()
+    except ValueError:
+        return None
+
+
+def soton_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+    seen: dict[str, str] = {}
+    for page in range(min(max_pages, 40)):
+        cards = SOTON_CARD.findall(f.get(SOTON_LIST.format(page=page)).text)
+        if not cards:
+            break
+        for path, slug, funding in cards:
+            if funding.strip().lower().startswith("fully funded"):
+                seen.setdefault(slug, SOTON + path)
+    return list(seen.items())
+
+
+def soton_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
+    text = page_text(raw)
+    h1 = re.search(r"<h1[^>]*>(.*?)</h1>", raw, re.S)
+    title = page_text(h1.group(1)) if h1 else ""
+    fund = re.search(r"Funding\s+(Fully funded \([^)]*\)|Competition funded|Self[- ]funded[^.]{0,40}?)\s+Type of degree", text)
+    if not fund or not fund.group(1).lower().startswith("fully funded"):
+        return None, "自费或竞争性资助"
+    m = re.search(r"Closing date\s+(\d{1,2}\s+[A-Za-z]{3,9}\.?\s+\d{4})", text)
+    deadline = soton_day(m.group(1)) if m else None
+    if not deadline:
+        return None, "页面无截止日期"
+    if deadline < today:
+        return None, "已截止"
+    who = fund.group(1)
+    cn = "yes" if re.search(r"international", who, re.I) else "no" if re.search(r"UK only", who, re.I) else "check"
+    if cn == "yes" and cp.cn_of(text) == "no":
+        cn = "check"  # 页面正文另写了限本土：不凭标签判断
+    level = "postdoc" if cp.POSTDOC.search(title) and not cp.PHD.search(title) else "phd"
+    return {
+        "id": f"soton:{jid}", "title": title[:200], "url": url, "org": "University of Southampton",
+        "country": "UK", "place": "Southampton", "level": level, "deadline": deadline,
+        "quote": "Closing date " + m.group(1), "funding_for": "Funding: " + who, "amount": "",
+        "cn": cn, "flags": cp.flags_of(text), "via": "Southampton",
+    }, "收录"
+
+
+ADAPTERS = {"crick": (crick_urls, crick_detail), "lms": (lms_urls, lms_detail), "soton": (soton_urls, soton_detail)}
+VIA_RANK = {"Crick": 3, "MRC LMS": 3, "Southampton": 3}
