@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 生物/生命科学 信源（704） · 第 1/2 页
+# 生物/生命科学 信源（705） · 第 1/2 页
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 26](bio.md#aggregators) · [各国学术招聘门户与机构职位页 14](bio.md#national-portals) · [政府与国家级奖学金 6](bio.md#gov-scholarships) · [高校旗舰奖学金与资助检索 115](bio.md#university-schemes) · [结构化博士项目与研究机构 354](bio.md#doctoral-programs) · [博士后奖学金与项目 105](bio-2.md#postdoc-fellowships) · [企业与基金会 Fellowship 30](bio-2.md#fellowships) · [学科专属信源 27](bio-2.md#discipline) · [个人信源与社交渠道 16](bio-2.md#people-channels) · [导师招生帖（社交平台个人发布） 10](bio-2.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 1](bio-2.md#faculty-aggregators)
+**按分类跳转：** [综合聚合平台 26](bio.md#aggregators) · [各国学术招聘门户与机构职位页 14](bio.md#national-portals) · [政府与国家级奖学金 6](bio.md#gov-scholarships) · [高校旗舰奖学金与资助检索 115](bio.md#university-schemes) · [结构化博士项目与研究机构 355](bio.md#doctoral-programs) · [博士后奖学金与项目 105](bio-2.md#postdoc-fellowships) · [企业与基金会 Fellowship 30](bio-2.md#fellowships) · [学科专属信源 27](bio-2.md#discipline) · [个人信源与社交渠道 16](bio-2.md#people-channels) · [导师招生帖（社交平台个人发布） 10](bio-2.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 1](bio-2.md#faculty-aggregators)
 
 **分页：** [第 1 页](bio.md) · [第 2 页](bio-2.md)
 
@@ -203,7 +203,7 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（354）
+## 结构化博士项目与研究机构（355）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -236,7 +236,8 @@
 | [Duke Chancellor's Scholarship（国际生生物医学博士）](https://gradschool.duke.edu/financial-support/find-funding/chancellor%E2%80%99s-scholarship/)<br><sub>美国 ｜ 生物/生命科学·医学/公卫·神经/认知·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分 | — | ✅ | 原 Chancellor's Scholarship 已改为 Dean's Scholarship for International Students，于博士第一学年末授予，资助第二学年的生活津贴、学费、费用与医保；不再是入学即发的前两年资助。 |
 | [DZNE 德国神经退行性疾病研究中心 · 博士研究员招聘入口](https://dzne.de/en/jobs/your-opportunities-at-the-dzne/career-opportunities-for-early-career-researchers/doctoral-researchers-at-the-dzne)<br><sub>德国 ｜ 生物/生命科学·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 各项目不同<br><sub>📋 持续更新</sub><br><sub>各职位截止日期不同，以 jobs.dzne.de 每个岗位页为准。</sub> | ❔ | **要求：** 国际生资格未在入口页写明，需以具体岗位要求为准。<br>页面称 DZNE 博士职位通常在职位门户发布，也可直接联系研究组；许多研究组负责人同时在大学任职；DZNE 博士研究员社群约 150 人。资助形式（带薪或奖学金）与国际生资格页面未说明。 |
 | [EastBio BBSRC DTP 2027 入学招生（爱丁堡，导师提名制）](https://biology.ed.ac.uk/eastbio/eastbio-recruitment/information-supervisors)<br><sub>英国 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-11-16**<br><sub>🟢 开放申请</sub><br><sub>学生申请 2026-11-16 截止，导师提名 2027-01-18，面试约 2027-03-08 当周；须由导师提名</sub> | 🟡 | **要求：** 学生不能自行申请，须由导师提名；国际生按本国学费标准资助且名额有上限（UKRI 规定）；不含签证和医保附加费用<br>EastBio BBSRC DTP 2027 招生：导师项目提案截止 2026-09-21 中午（已过）；学生申请截止约 2026-11-16（据候选人指南，待 EastBio 官方确认），导师提名与面试时间以 2027 指南为准。 |
-| [EastBio DTP 企业合作（CASE）博士（爱丁堡）](https://biology.ed.ac.uk/eastbio/about-eastbio/collaboration-with-industry)<br><sub>英国 ｜ 生物/生命科学·化学/材料·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>🔜 即将开放</sub><br><sub>2027 招生指南已发布；具体截止以 EastBio DTP 公告为准</sub> | 🟡 | EastBio CASE 博士：需与企业共同撰写项目并完成 3–18 个月企业实习；国际生受 UKRI 约 30% 名额上限限制，学费按本地标准收取，签证费与医疗附加费不在资助内；2027 招生指南所载最低津贴约 £22,895/年。 |
+| [EastBio DTP 企业合作（CASE）博士（爱丁堡）](https://biology.ed.ac.uk/eastbio/about-eastbio/collaboration-with-industry)<br><sub>英国 ｜ 生物/生命科学·化学/材料·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-11-16**<br><sub>🟢 开放申请</sub><br><sub>2027 入学的 CASE 课题与 EastBio 标准课题同一轮招生，申请截止 11 月 16 日（迟交不收）；课题挂在 FindAPhD 上。</sub> | 🟡 | EastBio CASE 博士：需与企业共同撰写项目并完成 3–18 个月企业实习；国际生受 UKRI 约 30% 名额上限限制，学费按本地标准收取，签证费与医疗附加费不在资助内；2027 招生指南所载最低津贴约 £22,895/年。 |
+| [EastBio 东苏格兰生物科学 DTP（BBSRC）](https://biology.ed.ac.uk/eastbio/eastbio-recruitment/how-to-apply)<br><sub>英国 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-11-16**<br><sub>🟢 开放申请</sub><br><sub>2027 年 10 月入学，申请截止 11 月 16 日（推荐信须在同日前提交，迟交不收）。每年一轮；课题自 10 月 19 日起挂在 FindAPhD 上。</sub> | 🟡 | **要求：** 英国 2:1 或以上学士（或国际同等），不要求硕士；只能申请一个 EastBio 课题。先联系课题导师，再按课题广告向所在成员校提交 EastBio 申请表、成绩单、两封推荐信（用 EastBio 推荐表，导师本人不能做推荐人），并完成匿名 EDI 问卷。导师从申请者中提名一人，再经统一筛选与面试。<br>EastBio 由爱丁堡、阿伯丁、邓迪、斯特灵、圣安德鲁斯等苏格兰东部院校与研究所联合的 BBSRC 博士培训项目：资助英国本地标准学费、生活费与每年研究经费，面向全球学生。国际生最多占 30% 名额；签证费与医疗附加费不在资助内。课题多于名额，择优录取。 |
 | [ECO-N 莱比锡博士培训组（Graduiertenkolleg）](https://www.uni-leipzig.de/fileadmin/ul/projekte/Graduiertenkolleg_ECO-N/PDFs/Open_Positions/FAQs_Application_Process_ECO-N_PhD_Positions_20260109.pdf)<br><sub>德国 ｜ 生态/进化·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 带薪岗位 | 未公布<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮截止 2026-01-30（已关闭）；2027 轮未见公告</sub> | ❔ | **要求：** 以岗位公告为准；申请通过 iDiv 招聘系统<br>ECO-N 14 个博士岗位的申请 FAQ：申请须通过 iDiv 招聘系统提交；2026 轮申请截止 2026 年 1 月 30 日，第二批合同期限至 2029 年 8 月 31 日的当前资助期。 |
 | [EMBL International PhD Programme](https://www.embl.org/about/info/embl-international-phd-programme/)<br><sub>欧盟/欧洲·德国 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>2027 冬季轮申请已关闭；页面称下一轮申请将于 1 月下旬开放（未注明年份）。</sub> | ✅ | **要求：** 需持可在学位授予国攻读博士的大学学位；需两位学术推荐人；申请不收费。<br>欧洲分子生物学实验室，海德堡等 6 个站点，全资助、对所有国籍开放。 |
 | [EMBL 国际 PhD 项目（EIPP）研究方向与 2027 入学说明](https://www.ebi.ac.uk/research/eipp/topics)<br><sub>英国 ｜ 生物/生命科学·计算机·数学/统计·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>官方申请页称 2027 冬季招生于 2026 年 9 月开放；截止日期以 EMBL 官网为准</sub> | ✅ | **要求：** 需获得所在国博士入学资格的学位（硕士或同等）；需两封学术推荐信；仅接受在线申请，不收申请费<br>页面写明正在招收 2027 年 10 月入学的学生；申请需选择两个 EMBL 研究单元，并列出最多四个感兴趣的研究方向。 |

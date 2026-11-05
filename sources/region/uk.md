@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 英国（UK） 信源（607） · 第 1/2 页
+# 英国（UK） 信源（608） · 第 1/2 页
 
-所有标注了地区 UK 的信源，共 607 条。
+所有标注了地区 UK 的信源，共 608 条。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 28](uk.md#aggregators) · [各国学术招聘门户与机构职位页 9](uk.md#national-portals) · [政府与国家级奖学金 11](uk.md#gov-scholarships) · [高校旗舰奖学金与资助检索 274](uk.md#university-schemes) · [结构化博士项目与研究机构 190](uk.md#doctoral-programs) · [博士后奖学金与项目 30](uk-2.md#postdoc-fellowships) · [企业与基金会 Fellowship 16](uk-2.md#fellowships) · [学科专属信源 25](uk-2.md#discipline) · [科研实习与“曲线入口” 6](uk-2.md#pathways) · [个人信源与社交渠道 16](uk-2.md#people-channels) · [导师招生帖（社交平台个人发布） 2](uk-2.md#recruiting-posts)
+**按分类跳转：** [综合聚合平台 28](uk.md#aggregators) · [各国学术招聘门户与机构职位页 9](uk.md#national-portals) · [政府与国家级奖学金 11](uk.md#gov-scholarships) · [高校旗舰奖学金与资助检索 274](uk.md#university-schemes) · [结构化博士项目与研究机构 191](uk.md#doctoral-programs) · [博士后奖学金与项目 30](uk-2.md#postdoc-fellowships) · [企业与基金会 Fellowship 16](uk-2.md#fellowships) · [学科专属信源 25](uk-2.md#discipline) · [科研实习与“曲线入口” 6](uk-2.md#pathways) · [个人信源与社交渠道 16](uk-2.md#people-channels) · [导师招生帖（社交平台个人发布） 2](uk-2.md#recruiting-posts)
 
 **分页：** [第 1 页](uk.md) · [第 2 页](uk-2.md)
 
@@ -364,7 +364,7 @@
 
 <a id="doctoral-programs"></a>
 
-## 结构化博士项目与研究机构（190）
+## 结构化博士项目与研究机构（191）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -381,7 +381,8 @@
 | [Crick 临床医生博士奖学金](https://www.crick.ac.uk/careers-and-study/clinicians)<br><sub>英国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | **2026-11-04**<br><sub>🟢 开放申请</sub><br><sub>截止 2026-11-04（以官网为准）。</sub> | ❔ | **要求：** 需 GMC 注册或同等医学执照。<br>面向临床医生的三年制博士奖学金，摘要称截止 2026-11-04、2027 年 9 月入学；大陆医学背景申请者需核实是否满足 GMC 注册或等效执照要求。 |
 | [CRUK 苏格兰研究中心（Edinburgh/Glasgow）博士奖学金](https://crukscotlandcentre.ac.uk/training/phd-studentships)<br><sub>英国 ｜ 医学/公卫·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>£22,894/年（免税，自 2027 年 10 月 1 日起）</sub> | 未公布<br><sub>📋 持续更新</sub><br><sub>页面列有 2026 年 11 月 30 日截止日，该日期位于 Black Leaders in Cancer 项目的申请步骤中；通用岗位截止以各岗位广告为准</sub> | ✅ | **要求：** 需至少上二等（2:1）的生命科学相关学位（或同等学历）并满足英语要求；另需满足所托大学的博士入学要求<br>CRUK 苏格兰研究中心提供全额资助的 4 年博士位，含每年 £22,894 免税津贴、学费与研究经费。页面另列出一个 2027 年 10 月入学的 Black Leaders in Cancer 名额，面向自我认定为黑人血统的申请者。 |
 | [EastBio BBSRC DTP 2027 入学招生（爱丁堡，导师提名制）](https://biology.ed.ac.uk/eastbio/eastbio-recruitment/information-supervisors)<br><sub>英国 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-11-16**<br><sub>🟢 开放申请</sub><br><sub>学生申请 2026-11-16 截止，导师提名 2027-01-18，面试约 2027-03-08 当周；须由导师提名</sub> | 🟡 | **要求：** 学生不能自行申请，须由导师提名；国际生按本国学费标准资助且名额有上限（UKRI 规定）；不含签证和医保附加费用<br>EastBio BBSRC DTP 2027 招生：导师项目提案截止 2026-09-21 中午（已过）；学生申请截止约 2026-11-16（据候选人指南，待 EastBio 官方确认），导师提名与面试时间以 2027 指南为准。 |
-| [EastBio DTP 企业合作（CASE）博士（爱丁堡）](https://biology.ed.ac.uk/eastbio/about-eastbio/collaboration-with-industry)<br><sub>英国 ｜ 生物/生命科学·化学/材料·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>🔜 即将开放</sub><br><sub>2027 招生指南已发布；具体截止以 EastBio DTP 公告为准</sub> | 🟡 | EastBio CASE 博士：需与企业共同撰写项目并完成 3–18 个月企业实习；国际生受 UKRI 约 30% 名额上限限制，学费按本地标准收取，签证费与医疗附加费不在资助内；2027 招生指南所载最低津贴约 £22,895/年。 |
+| [EastBio DTP 企业合作（CASE）博士（爱丁堡）](https://biology.ed.ac.uk/eastbio/about-eastbio/collaboration-with-industry)<br><sub>英国 ｜ 生物/生命科学·化学/材料·医学/公卫</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-11-16**<br><sub>🟢 开放申请</sub><br><sub>2027 入学的 CASE 课题与 EastBio 标准课题同一轮招生，申请截止 11 月 16 日（迟交不收）；课题挂在 FindAPhD 上。</sub> | 🟡 | EastBio CASE 博士：需与企业共同撰写项目并完成 3–18 个月企业实习；国际生受 UKRI 约 30% 名额上限限制，学费按本地标准收取，签证费与医疗附加费不在资助内；2027 招生指南所载最低津贴约 £22,895/年。 |
+| [EastBio 东苏格兰生物科学 DTP（BBSRC）](https://biology.ed.ac.uk/eastbio/eastbio-recruitment/how-to-apply)<br><sub>英国 ｜ 生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-11-16**<br><sub>🟢 开放申请</sub><br><sub>2027 年 10 月入学，申请截止 11 月 16 日（推荐信须在同日前提交，迟交不收）。每年一轮；课题自 10 月 19 日起挂在 FindAPhD 上。</sub> | 🟡 | **要求：** 英国 2:1 或以上学士（或国际同等），不要求硕士；只能申请一个 EastBio 课题。先联系课题导师，再按课题广告向所在成员校提交 EastBio 申请表、成绩单、两封推荐信（用 EastBio 推荐表，导师本人不能做推荐人），并完成匿名 EDI 问卷。导师从申请者中提名一人，再经统一筛选与面试。<br>EastBio 由爱丁堡、阿伯丁、邓迪、斯特灵、圣安德鲁斯等苏格兰东部院校与研究所联合的 BBSRC 博士培训项目：资助英国本地标准学费、生活费与每年研究经费，面向全球学生。国际生最多占 30% 名额；签证费与医疗附加费不在资助内。课题多于名额，择优录取。 |
 | [Edinburgh Centre for Doctoral Training in AI（项目页）](https://study.ed.ac.uk/programmes/postgraduate-research/1117-centre-for-doctoral-training-in-artificial-intelligence-for)<br><sub>英国 ｜ 人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-01-20**<br><sub>🟢 开放申请</sub><br><sub>2027 批次申请截止 2027-01-20（项目页 When to apply）。</sub> | ❔ | 项目页称全额资助，含生活津贴、学费（英国及海外学生）及研究与差旅补助，为期 4 年全日制；签证费与 IHS 需学生自付。 |
 | [EMBL 国际 PhD 项目（EIPP）研究方向与 2027 入学说明](https://www.ebi.ac.uk/research/eipp/topics)<br><sub>英国 ｜ 生物/生命科学·计算机·数学/统计·化学/材料</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>官方申请页称 2027 冬季招生于 2026 年 9 月开放；截止日期以 EMBL 官网为准</sub> | ✅ | **要求：** 需获得所在国博士入学资格的学位（硕士或同等）；需两封学术推荐信；仅接受在线申请，不收申请费<br>页面写明正在招收 2027 年 10 月入学的学生；申请需选择两个 EMBL 研究单元，并列出最多四个感兴趣的研究方向。 |
 | [EMBL-EBI 国际博士项目（EMBL International PhD Programme）](https://www.ebi.ac.uk/research/eipp)<br><sub>英国·全球 ｜ 生物/生命科学·计算机·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2026-10-12**<br><sub>⏸ 本轮已截止</sub> | ✅ | EMBL 国际博士项目：2027 冬季招生据第三方汇总于 2026 年 9 月 1 日开放、主申请截止 10 月 12 日（官方入口为 embl.org，需核实），本轮已关闭，下一轮预计 2027 年初公布。学制 3.5–4 年，适合生信与计算生物方向。 |
