@@ -1,9 +1,9 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-11-05。共 **268** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-11-05。共 **270** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
-- [30 天内截止](#30-天内截止)（149）
+- [30 天内截止](#30-天内截止)（151）
 - [之后截止](#之后截止)（119）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（0）
 - [即将开放](#即将开放)（0）
@@ -52,6 +52,8 @@
 | 2026-11-16 | [希伯来大学国际生资助机会汇总](https://international.huji.ac.il/funding-opportunities/) | 以色列 | 博士、博后 | 视项目而定 | ❔ 官网未写明 | 页面汇总多个项目；Azrieli 博士后奖学金 9 月 1 日开放申请，11 月 16 日截止，其余所列项目多已截止（Fulbright 2026-09-15、MSCA 2026-09-09 等）<br>官网原句：“open on September 1, 2026 , and close on November 16, 2026” |
 | 2026-11-16 | [Pasteur-Paris University (PPU) 国际博士项目（Institut Pasteur）](https://www.pasteur.fr/en/education/ppu) | 法国 | 博士 | 带薪岗位 | ❔ 官网未写明 | 页面（2026-10-16 更新）称 2027 年 10 月入学征集期为 2026-10-01 至 11-16，目前开放；项目详情需注册官网账号。<br>官网原句：“The call for enrollment of students in October 2027 will be open from October 1st to November 16th, 2026” |
 | 2026-11-16 | [都灵理工大学第 42 周期博士招生第二批次](https://www.polito.it/didattica/dottorato-di-ricerca-e-scuola-di-specializzazione/ammissione-al-dottorato/ammissione/bando-di-concorso) | 意大利 | 博士 | 视项目而定 | ❔ 官网未写明 | 第二批 2026-10-15 开放，2026-11-16 14:00（CET）截止；有奖学金与无奖学金岗位分列，需逐项确认。<br>官网原句：“Una volta presa visione del bando è possibile fare domanda attraverso la procedura” |
+| 2026-11-16 | [EastBio 东苏格兰生物科学 DTP（BBSRC）](https://biology.ed.ac.uk/eastbio/eastbio-recruitment/how-to-apply) | 英国 | 博士 | 全奖（学费＋生活费） | 🟡 部分可申 | 2027 年 10 月入学；面向全球学生，资助本地标准学费、生活费和研究经费，国际生至多 30% 名额，签证与医疗附加费自付。只能申请一个课题，课题挂在 FindAPhD 上。<br>官网原句：“The application deadline is 16 November. No late applications will be accepted.” |
+| 2026-11-16 | [EastBio DTP 企业合作（CASE）博士（爱丁堡）](https://biology.ed.ac.uk/eastbio/about-eastbio/collaboration-with-industry) | 英国 | 博士 | 全奖（学费＋生活费） | 🟡 部分可申 | EastBio 的企业合作（CASE）课题与标准课题同一轮招生，截止 11 月 16 日；须完成企业实习。<br>官网原句：“The application deadline is 16 November. No late applications will be accepted.” |
 | 2026-11-17 | [剑桥法学 PhD 资助入口](https://www.postgraduate.study.cam.ac.uk/courses/directory/lwlwpdlaw/finance) | 英国 | 博士 | 官网未写明 | 🟡 部分可申 | 正文显示 2027 年 10 月入学的申请于 2026-09-09 开放，截止 2026-11-17；Gates Cambridge 美国轮截止 2026-12-08。<br>官网原句：“Application deadline Nov. 17, 2026” |
 | 2026-11-17 | [岭南大学 MSoDA 博士后（26/241/JAC）](https://www.jobs.ac.uk/job/DSZ284/postdoctoral-fellow-msoda) | 中国香港 | 博后 | 带薪岗位 | ❔ 官网未写明 | 页面写明 2026 年 11 月 17 日到期，全职固定期限合同最长两年；要求社会学或计算社会科学相关博士学位，未列具体薪酬。<br>官网原句：“17th November 2026” |
 | 2026-11-19 | [Lundbeck Foundation 博后（LF Postdocs，神经科学）](https://www.thetransmitter.org/funding-opportunity/lf-postdocs-danish-neuroscience/) | 丹麦 | 博后 | 全奖（学费＋生活费） | ❔ 官网未写明 | 正文显示状态 OPEN（2026-10-16 更新），截止 2026-11-19；要求博士在 5 年内取得或 6 个月内完成，国际学者需在丹麦宿主机构工作。<br>官网原句：“Applications close on November 19, 2026.” |
