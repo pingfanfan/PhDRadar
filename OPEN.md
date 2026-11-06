@@ -1,10 +1,10 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-11-05。共 **270** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-11-06。共 **268** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
-- [30 天内截止](#30-天内截止)（151）
-- [之后截止](#之后截止)（119）
+- [30 天内截止](#30-天内截止)（152）
+- [之后截止](#之后截止)（116）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（0）
 - [即将开放](#即将开放)（0）
 
@@ -12,8 +12,6 @@
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-05 | [巴斯克大学（UPV/EHU）博士前资助公告页](https://www.ehu.eus/es/web/ikerketaren-kudeaketa/deialdiak-doktoratu-aurreko-laguntzak) | 西班牙 | 博士 | 官网未写明 | ❔ 官网未写明 | UPV/EHU 关联 FPI 2026 预博士合同申请期为 10 月 16 日至 11 月 5 日；页面未写国籍与居住要求，需逐条核对各计划公告。<br>官网原句：“Abierto el plazo de presentación: 16/10/2026 - 05/11/2026” |
-| 2026-11-05 | [STScI Brinson 奖学金（天体物理博士后）](https://www.stsci.edu/stsci-research/fellowships/brinson-prize-fellowship-program/announcement-of-opportunity) | 美国 | 博后 | 带薪岗位 | ✅ 可申 | 申请截止 2026-11-05 美东时间 19:00，推荐信截止 2026-11-12；面向所有国家公民，博士学位须 2023-01-01 后授予或 2027-09-01 前获得。<br>官网原句：“Thursday, November 5, 2026, 7:00 p.m. EST (4:00 p.m. PST)” |
 | 2026-11-06 | [Caltech 地球与行星科学部 Foster & Coco Stanback 博后奖学金](https://applications.caltech.edu/job/stanback) | 美国 | 博后 | 带薪岗位 | ❔ 官网未写明 | 完整申请（含推荐信）截止 2026-11-06；需博士学位获得时间不早于 2026-01-01（特殊情况除外）；国籍未说明。<br>官网原句：“November 6, 2026” |
 | 2026-11-06 | [CRUK 曼彻斯特研究所 PhD 资助（BMH 全额资助项目）](https://bmh.manchester.ac.uk/study/research/funded-programmes/cruk-phd-studentships) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 2027/28 入学申请截止 2026-11-06 17:00（GMT），面试 2027-01-11；页面列免税生活津贴每年 £22,894，全额覆盖学费。<br>官网原句：“For 2027/28 entry, applications are now open until 17:00 (GMT) on Friday, 6 November 2026” |
 | 2026-11-06 | [兰卡斯特大学 Leverhulme 早期职业奖学金校内遴选](https://www.lancaster.ac.uk/humanities-arts-and-social-sciences/research/leverhulme-trust-early-career-fellowships/) | 英国 | 博后 | 带薪岗位 | ❔ 官网未写明 | 此为兰卡斯特校内 EOI 步骤，截止 2026 年 11 月 6 日 17:00；Leverhulme 官方截止为 2027 年 2 月 18 日 16:00；资格要求持英国学位或英国学术职位，细则以官网为准。<br>官网原句：“Internal Expression of Interest closes 5pm, Friday 6” |
@@ -163,14 +161,14 @@
 | 2026-12-04 | [普林斯顿 Andlinger 能源与环境中心杰出博士后研究员](https://acee.princeton.edu/distinguished-postdoctoral-fellows-call-for-applications/) | 美国 | 博后 | 带薪岗位 | ❔ 官网未写明 | 2027 轮杰出博士后，需与普林斯顿两位以上教授合作，截止 2026 年 12 月 4 日 23:59（美东），经 Interfolio 提交。<br>官网原句：“December 4, 2026 at 11:59 p.m. ET” |
 | 2026-12-04 | [奥本大学化学工程博士（助研/助教资助）](https://eng.auburn.edu/chen/academics/graduate/graduate-faq) | 美国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 页面称 2026-12-04 前提交为优先考虑日期，正文未说明之后是否关闭；Fall 2027 周期不减免申请费；博士生至少 32,500 美元/年加学费，国际生首学期通常任助教并需 TSE 或抵校口试。<br>官网原句：“For primary consideration, submit your application material before December 4, 2026.” |
 | 2026-12-04 | [HKUST(GZ) 博士申请时间表（2026-27 春季、2027-28 秋季）](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/admission-timeline) | 中国内地 | 博士 | 官网未写明 | ✅ 可申 | 2026-27 春季博士国际生申请截止 2026 年 12 月 4 日（23:59，GMT+8），中国内地申请者截止 12 月 25 日。<br>官网原句：“21 July 2026 to 4 December 2026 (23:59, GMT+8) for international applicants” |
+| 2026-12-06 | [芝加哥大学 Mansueto 研究所 · 博士后奖学金（城市研究）](https://miurban.uchicago.edu/postdoctoral-fellowship) | 美国 | 博后 | 带薪岗位 | ✅ 可申 | 2027–28 学年博士后，截止 2026-12-06（CST）；需指定 1–3 位芝大导师，不面向本校近期毕业生。<br>官网原句：“The deadline to apply is December 6, 2026, at 5:00pm CST.” |
+| 2026-12-06 | [波恩 Hausdorff 数学中心岗位与机会页](https://www.mathematics.uni-bonn.de/hcm/opportunities/home) | 德国 | 博士、博后 | 官网未写明 | ❔ 官网未写明 | 页面列出的博士岗位（PhD Positions）申请截止 2026 年 12 月 6 日。<br>官网原句：“Application deadline: December 6, 2026” |
+| 2026-12-06 | [波恩大学数学系 · 博士与博后职业页](https://mathematics.uni-bonn.de/de/karriere) | 德国 | 博士、博后 | 带薪岗位 | ❔ 官网未写明 | HCM 博士岗位（PhD Positions）申请截止 2026-12-06；同页博后岗位截止 2026-11-01。BIGS 博士轮次未在正文中给出。<br>官网原句：“Application deadline: December 6, 2026” |
 
 ## 之后截止
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-12-06 | [芝加哥大学 Mansueto 研究所 · 博士后奖学金（城市研究）](https://miurban.uchicago.edu/postdoctoral-fellowship) | 美国 | 博后 | 带薪岗位 | ✅ 可申 | 2027–28 学年博士后，截止 2026-12-06（CST）；需指定 1–3 位芝大导师，不面向本校近期毕业生。<br>官网原句：“The deadline to apply is December 6, 2026, at 5:00pm CST.” |
-| 2026-12-06 | [波恩 Hausdorff 数学中心岗位与机会页](https://www.mathematics.uni-bonn.de/hcm/opportunities/home) | 德国 | 博士、博后 | 官网未写明 | ❔ 官网未写明 | 页面列出的博士岗位（PhD Positions）申请截止 2026 年 12 月 6 日。<br>官网原句：“Application deadline: December 6, 2026” |
-| 2026-12-06 | [波恩大学数学系 · 博士与博后职业页](https://mathematics.uni-bonn.de/de/karriere) | 德国 | 博士、博后 | 带薪岗位 | ❔ 官网未写明 | HCM 博士岗位（PhD Positions）申请截止 2026-12-06；同页博后岗位截止 2026-11-01。BIGS 博士轮次未在正文中给出。<br>官网原句：“Application deadline: December 6, 2026” |
 | 2026-12-07 | [NBER 博士后与研究生奖学金征集页](https://nber.org/career-resources/calls-fellowship-applications) | 美国 | 博士、博后 | 视项目而定 | ❔ 官网未写明 | 博后征集页写明 2026-12-07 17:00 EST 截止；研究生项目 Gender in the Economy 另写截止 2027-01-20。页面未写国际生资格。<br>官网原句：“Calls close at 5pm EST on Monday December 7, 2026” |
 | 2026-12-07 | [NBER 财富与收入不平等博士后](https://www.nber.org/calls-papers-and-proposals/post-doctoral-fellowship-wealth-and-income-inequality) | 美国 | 博后 | 仅生活费 | ❔ 官网未写明 | 本轮（2027–28 学年）申请截止 2026 年 12 月 7 日 17:00 EST，正文显示目前接受申请；资助金额与资格以当年公告为准。<br>官网原句：“Deadline to apply: December 7, 2026, at 5 pm EST” |
 | 2026-12-07 | [华威大学 Chancellor's International Scholarship（全额博士奖学金）](https://warwick.ac.uk/services/dc/schols_fund/scholarships_and_funding/cis/) | 英国 | 博士 | 全奖（学费＋生活费） | ❔ 官网未写明 | 2027 年秋季入学的 PGR 奖学金征集已于 2026-10-05 开放；课程申请截止 12 月 7 日、奖学金申请截止 12 月 10 日（均为 16:59 GMT）。<br>官网原句：“7 December 2026” |
