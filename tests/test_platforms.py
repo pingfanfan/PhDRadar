@@ -175,3 +175,43 @@ def test_soton_detail():
     assert row["cn"] == "no" and row["deadline"] == "2026-11-15"
     assert platforms_uk.soton_detail("x", "u", soton_page("Competition funded", "31 Jan 2027"), "2026-11-04")[1] == "自费或竞争性资助"
     assert platforms_uk.soton_detail("x", "u", soton_page("Fully funded (UK and international)", "31 Aug 2024"), "2026-11-04")[1] == "已截止"
+
+
+COV_LIST_PAGE = """<h3><a href="https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/ai-twin/">AI twin</a></h3>
+<a href="https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/non-funded-studentships/">Non-funded</a>
+<a href="https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/?var1=1208">filter</a>
+<h3><a href="/research/research-opportunities/research-students/research-studentships/battery-aging/">Battery</a></h3>"""
+
+
+def cov_page(eligibility: str, deadline: str, funding: str | None) -> str:
+    fund = f"<h3>Funding</h3> <p>{funding}</p>" if funding is not None else ""
+    return (f"<h1>AI-Enhanced EMC Digital Twin for Automotive WBG Converters</h1>"
+            f"<p><strong>Eligibility:</strong> {eligibility}</p>"
+            f"<p><strong>Application deadline:</strong> <span>{deadline}</span></p>"
+            f"<p><strong>Start date:</strong> <span>May 2027</span></p><h3>Introduction</h3><p>x</p>{fund}")
+
+
+def test_coventry_urls_skip_non_funded_and_filters():
+    import platforms_uk
+
+    class F:
+        def get(self, url):
+            return type("R", (), {"text": COV_LIST_PAGE})()
+
+    assert [j for j, _ in platforms_uk.cov_urls(F(), 1)] == ["ai-twin", "battery-aging"]
+
+
+def test_coventry_detail():
+    import platforms_uk
+
+    ok = cov_page("UK/International (including EU) graduates with the required entry requirements", "15 November 2026",
+                  "Tuition fees and bursary")
+    row, why = platforms_uk.cov_detail("ai-twin", "https://u", ok, "2026-11-06")
+    assert why == "收录" and row["deadline"] == "2026-11-15" and row["cn"] == "yes"
+    assert row["quote"] == "Application deadline: 15 November 2026" and row["funding_for"] == "Funding: Tuition fees and bursary"
+    assert row["amount"] == "" and row["id"] == "coventry:ai-twin" and row["via"] == "Coventry"
+    row, _ = platforms_uk.cov_detail("x", "u", cov_page("UK only", "15 November 2026", "Tuition fees and stipend"), "2026-11-06")
+    assert row["cn"] == "no"
+    assert platforms_uk.cov_detail("x", "u", cov_page("UK/International", "15 November 2026", None), "2026-11-06")[1] == "自费或竞争性资助"
+    assert platforms_uk.cov_detail("x", "u", cov_page("UK/International", "15 November 2026", "Self-funded"), "2026-11-06")[1] == "自费或竞争性资助"
+    assert platforms_uk.cov_detail("x", "u", cov_page("UK/International", "1 May 2026", "Tuition fees"), "2026-11-06")[1] == "已截止"

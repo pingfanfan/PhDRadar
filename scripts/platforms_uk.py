@@ -175,5 +175,57 @@ def soton_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None,
     }, "收录"
 
 
-ADAPTERS = {"crick": (crick_urls, crick_detail), "lms": (lms_urls, lms_detail), "soton": (soton_urls, soton_detail)}
-VIA_RANK = {"Crick": 3, "MRC LMS": 3, "Southampton": 3}
+# ───────────────────────── Coventry University ─────────────────────────
+# 学校自己的“Research studentships”列表（一页，列出当前在招的带资助课题；无资助的课题另放在 non-funded-studentships 页，不读）。
+# 课题页顶部是固定字段：Eligibility / Duration / Application deadline / Start date；资助写在“Funding”小节
+# （如 “Tuition fees and bursary”，多不写金额 → amount 留空，不猜）。robots.txt 只禁 /episerver、/shared-content、站内搜索等。
+
+COV = "https://www.coventry.ac.uk"
+COV_LIST = COV + "/research/research-opportunities/research-students/research-studentships/"
+COV_LINK = re.compile(r'href="(?:https://www\.coventry\.ac\.uk)?(/research/research-opportunities/research-students/'
+                      r'research-studentships/([a-z0-9-]+)/)"')
+
+
+def cov_field(raw: str, label: str) -> str:
+    m = re.search(rf"<strong>\s*{label}:?\s*</strong>(.*?)</p>", raw, re.S | re.I)
+    return page_text(m.group(1)) if m else ""
+
+
+def cov_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+    seen: dict[str, str] = {}
+    for path, slug in COV_LINK.findall(f.get(COV_LIST).text):
+        if "non-funded" not in slug:
+            seen.setdefault(slug, COV + path)
+    return list(seen.items())
+
+
+def cov_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
+    h1 = re.search(r"<h1[^>]*>(.*?)</h1>", raw, re.S)
+    title = page_text(h1.group(1)) if h1 else ""
+    fund = re.search(r"<h3>\s*Funding\s*</h3>\s*<p>(.*?)</p>", raw, re.S | re.I)
+    fund_text = page_text(fund.group(1)) if fund else ""
+    if not fund_text or re.search(r"self[- ]fund|non[- ]funded|no funding", fund_text, re.I):
+        return None, "自费或竞争性资助"
+    when = cov_field(raw, "Application deadline")
+    deadline = soton_day(when) if when else None
+    if not deadline:
+        return None, "页面无截止日期"
+    if deadline < today:
+        return None, "已截止"
+    who = cov_field(raw, "Eligibility")
+    cn = ("yes" if re.search(r"international", who, re.I) else
+          "no" if re.search(r"\bUK only\b|home (fee|student)s? only", who, re.I) else "check")
+    text = page_text(raw)
+    if cn == "yes" and cp.cn_of(text) == "no":
+        cn = "check"  # 正文另写了限本土：不凭顶部字段判断
+    return {
+        "id": f"coventry:{jid}", "title": title[:200], "url": url, "org": "Coventry University",
+        "country": "UK", "place": "Coventry", "level": "phd", "deadline": deadline,
+        "quote": "Application deadline: " + when, "funding_for": "Funding: " + fund_text, "amount": "",
+        "cn": cn, "flags": cp.flags_of(text), "via": "Coventry",
+    }, "收录"
+
+
+ADAPTERS = {"crick": (crick_urls, crick_detail), "lms": (lms_urls, lms_detail), "soton": (soton_urls, soton_detail),
+            "coventry": (cov_urls, cov_detail)}
+VIA_RANK = {"Crick": 3, "MRC LMS": 3, "Southampton": 3, "Coventry": 3}
