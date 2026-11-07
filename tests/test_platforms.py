@@ -215,3 +215,21 @@ def test_coventry_detail():
     assert platforms_uk.cov_detail("x", "u", cov_page("UK/International", "15 November 2026", None), "2026-11-06")[1] == "自费或竞争性资助"
     assert platforms_uk.cov_detail("x", "u", cov_page("UK/International", "15 November 2026", "Self-funded"), "2026-11-06")[1] == "自费或竞争性资助"
     assert platforms_uk.cov_detail("x", "u", cov_page("UK/International", "1 May 2026", "Tuition fees"), "2026-11-06")[1] == "已截止"
+
+
+def test_uibk_english_pages():
+    # 2026-11 起门户默认返回英文页：职位名、截止与薪资写法都变了
+    import platforms_at as at
+
+    phd = ("<h1>\n\t\tUniversity Assistant (PhD position)</h1><h2>Administrative unit:</h2> Department of Ecology "
+           "Extent of employment: 20 hours per week. The minimum gross salary (stipulated by collective agreement) for 20 hours per "
+           "week amounts to € 1.888 per month (14 times)*. Application: We are looking forward to receiving your online application "
+           "by 11.11.2026 stating the code BIO-15884")
+    row, why = at.uibk_detail("15884", "u", phd, "2026-11-07")
+    assert why == "收录" and row["level"] == "phd" and row["deadline"] == "2026-11-11"
+    assert row["amount"] == "€ 1.888 per month (14 times)" and row["org"] == "Universität Innsbruck – Department of Ecology"
+    assert row["quote"] == "application by 11.11.2026"
+    lecturer = phd.replace("University Assistant (PhD position)", "Senior Lecturer (Doctorate/PhD)")
+    assert at.uibk_detail("16013", "u", lecturer, "2026-11-07")[1] == "非博士/博后岗位"
+    postdoc = phd.replace("(PhD position)", "(postdoc)")
+    assert at.uibk_detail("15913", "u", postdoc, "2026-11-07")[0]["level"] == "postdoc"
