@@ -1,10 +1,10 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-11-06。共 **268** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-11-07。共 **263** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
 - [30 天内截止](#30-天内截止)（152）
-- [之后截止](#之后截止)（116）
+- [之后截止](#之后截止)（111）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（0）
 - [即将开放](#即将开放)（0）
 
@@ -12,11 +12,6 @@
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-06 | [Caltech 地球与行星科学部 Foster & Coco Stanback 博后奖学金](https://applications.caltech.edu/job/stanback) | 美国 | 博后 | 带薪岗位 | ❔ 官网未写明 | 完整申请（含推荐信）截止 2026-11-06；需博士学位获得时间不早于 2026-01-01（特殊情况除外）；国籍未说明。<br>官网原句：“November 6, 2026” |
-| 2026-11-06 | [CRUK 曼彻斯特研究所 PhD 资助（BMH 全额资助项目）](https://bmh.manchester.ac.uk/study/research/funded-programmes/cruk-phd-studentships) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 2027/28 入学申请截止 2026-11-06 17:00（GMT），面试 2027-01-11；页面列免税生活津贴每年 £22,894，全额覆盖学费。<br>官网原句：“For 2027/28 entry, applications are now open until 17:00 (GMT) on Friday, 6 November 2026” |
-| 2026-11-06 | [兰卡斯特大学 Leverhulme 早期职业奖学金校内遴选](https://www.lancaster.ac.uk/humanities-arts-and-social-sciences/research/leverhulme-trust-early-career-fellowships/) | 英国 | 博后 | 带薪岗位 | ❔ 官网未写明 | 此为兰卡斯特校内 EOI 步骤，截止 2026 年 11 月 6 日 17:00；Leverhulme 官方截止为 2027 年 2 月 18 日 16:00；资格要求持英国学位或英国学术职位，细则以官网为准。<br>官网原句：“Internal Expression of Interest closes 5pm, Friday 6” |
-| 2026-11-06 | [NOMIS–ETH Fellowship（起源生命方向博士后，ETH Zurich COPL）](https://copl.ethz.ch/opportunities/nomis-eth-fellowships.html) | 瑞士 | 博后 | 带薪岗位 | ❔ 官网未写明 | 本轮 2026-11-06 17:00（苏黎世时间）截止，面向 2027 年入职，需与 ETH COPL 成员教授合作申请。<br>官网原句：“The 2026 call is open until 6 November 2026, 17:00 Zurich local time.” |
-| 2026-11-06 | [耶鲁大学数据科学研究所（FDS）· 博后职位](https://academicjobsonline.org/ajo/Yale/FDS/32396) | 美国 | 博后 | 带薪岗位 | ❔ 官网未写明 | 耶鲁 FDS 博后职位截止 2026 年 11 月 6 日 23:59:59（美东时间）；正文未说明国际生与签证资格。<br>官网原句：“2026/11/06 23:59:59” |
 | 2026-11-07 | [Schlumberger Foundation Faculty for the Future（女性 STEM 博士奖学金）](https://www.facultyforthefuture.net/applications/) | 全球 | 博士、博后 | 官网未写明 | ❔ 官网未写明 | 正文称 2026 年 9 月 1 日至 11 月 7 日接受新申请，与条目记载的 11 月 6 日不一致，以正文为准；正文所列合资格国籍名单中未见中国。<br>官网原句：“The on-line system will be receiving NEW APPLICATIONS from 1st September 2026 to the 7th November 2026.” |
 | 2026-11-08 | [巴斯斯巴大学博士学费与资助（Fees and funding）](https://www.bathspa.ac.uk/how-to-apply/research-degrees/fees-and-funding/) | 英国 | 博士 | 全奖（学费＋生活费） | ❔ 官网未写明 | ESRC SWDTP 2027 届资助申请窗口已开放；向 Bath Spa 提交表达意向的博士申请截止 2026 年 11 月 8 日，资助不保证。<br>官网原句：“Applications for the ESRC SWDTP studentship funding window is now open for the 2027 cohort.” |
 | 2026-11-08 | [Radboud 去殖民化与赔偿研究博士岗位（2026）](https://www.ru.nl/en/working-at/job-opportunities/phd-position-decolonising-reparations) | 荷兰 | 博士 | 带薪岗位 | ❔ 官网未写明 | Radboud 去殖民化与赔偿研究博士岗位（1.0 FTE），正文写明申请截止 2026-11-08。<br>官网原句：“08 November 2026” |
@@ -164,16 +159,16 @@
 | 2026-12-06 | [芝加哥大学 Mansueto 研究所 · 博士后奖学金（城市研究）](https://miurban.uchicago.edu/postdoctoral-fellowship) | 美国 | 博后 | 带薪岗位 | ✅ 可申 | 2027–28 学年博士后，截止 2026-12-06（CST）；需指定 1–3 位芝大导师，不面向本校近期毕业生。<br>官网原句：“The deadline to apply is December 6, 2026, at 5:00pm CST.” |
 | 2026-12-06 | [波恩 Hausdorff 数学中心岗位与机会页](https://www.mathematics.uni-bonn.de/hcm/opportunities/home) | 德国 | 博士、博后 | 官网未写明 | ❔ 官网未写明 | 页面列出的博士岗位（PhD Positions）申请截止 2026 年 12 月 6 日。<br>官网原句：“Application deadline: December 6, 2026” |
 | 2026-12-06 | [波恩大学数学系 · 博士与博后职业页](https://mathematics.uni-bonn.de/de/karriere) | 德国 | 博士、博后 | 带薪岗位 | ❔ 官网未写明 | HCM 博士岗位（PhD Positions）申请截止 2026-12-06；同页博后岗位截止 2026-11-01。BIGS 博士轮次未在正文中给出。<br>官网原句：“Application deadline: December 6, 2026” |
-
-## 之后截止
-
-| 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
-| --- | --- | --- | --- | --- | --- | --- |
 | 2026-12-07 | [NBER 博士后与研究生奖学金征集页](https://nber.org/career-resources/calls-fellowship-applications) | 美国 | 博士、博后 | 视项目而定 | ❔ 官网未写明 | 博后征集页写明 2026-12-07 17:00 EST 截止；研究生项目 Gender in the Economy 另写截止 2027-01-20。页面未写国际生资格。<br>官网原句：“Calls close at 5pm EST on Monday December 7, 2026” |
 | 2026-12-07 | [NBER 财富与收入不平等博士后](https://www.nber.org/calls-papers-and-proposals/post-doctoral-fellowship-wealth-and-income-inequality) | 美国 | 博后 | 仅生活费 | ❔ 官网未写明 | 本轮（2027–28 学年）申请截止 2026 年 12 月 7 日 17:00 EST，正文显示目前接受申请；资助金额与资格以当年公告为准。<br>官网原句：“Deadline to apply: December 7, 2026, at 5 pm EST” |
 | 2026-12-07 | [华威大学 Chancellor's International Scholarship（全额博士奖学金）](https://warwick.ac.uk/services/dc/schols_fund/scholarships_and_funding/cis/) | 英国 | 博士 | 全奖（学费＋生活费） | ❔ 官网未写明 | 2027 年秋季入学的 PGR 奖学金征集已于 2026-10-05 开放；课程申请截止 12 月 7 日、奖学金申请截止 12 月 10 日（均为 16:59 GMT）。<br>官网原句：“7 December 2026” |
 | 2026-12-07 | [华威数学系博士奖学金](https://warwick.ac.uk/fac/sci/maths/studywithus/postgraduateresearch/studentships/) | 英国 | 博士 | 全奖（学费＋生活费） | 🟡 部分可申 | 课程申请关键截止 2026-12-07，奖学金申请截止 2026-12-10；正文同时称奖学金按滚动审核、无正式截止。<br>官网原句：“Course Applications - 7th December 2026” |
 | 2026-12-07 | [Warwick Statistics CDT 博士资助页](https://warwick.ac.uk/fac/sci/statistics/centre-for-doctoral-training/fees-funding) | 英国 | 博士 | 全奖（学费＋生活费） | 🟡 部分可申 | 页面列出课程申请截止 2026-12-07、奖学金申请截止 2026-12-10（2027 入学）；部门 CDT 名额无正式截止，资金常早于截止耗尽。<br>官网原句：“7 December 2026 (16:59 GMT)” |
+
+## 之后截止
+
+| 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
+| --- | --- | --- | --- | --- | --- | --- |
 | 2026-12-08 | [Babraham Institute 博士项目（剑桥）](https://babraham.ac.uk/work-and-study/phd-opportunities) | 英国 | 博士 | 半奖 / 部分资助 | 🟡 部分可申 | 正文写明 2027 入学的 PhD 申请截止为 2026-12-08，需经剑桥大学申请系统提交。<br>官网原句：“The applications deadline for all PhD studentships: 8th December 2026” |
 | 2026-12-08 | [Cambridge 研究生资助总入口（含 Cambridge Trust、CSC Cambridge）](https://www.postgraduate.study.cam.ac.uk/funding) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 2027/28 入学的主要大学资助截止为 2026 年 12 月 8 日，另有 2027 年 1 月 6 日一轮；需在课程申请中勾选资助。<br>官网原句：“Tuesday 8 December 2026” |
 | 2026-12-08 | [剑桥大学 MLG 高级机器学习博士项目](https://mlg.eng.cam.ac.uk/phd_programme_in_advanced_machine_learning.html) | 英国 | 博士 | 视项目而定 | ❔ 官网未写明 | 大学资助申请截止 2026-12-08（UK 时间 23:59）；页面另列 Cambridge–Tübingen 项目截止 2026-10-31（CET）。<br>官网原句：“Deadline for PhD Application (for University funding): 11:59pm, 8 December 2026, UK time” |
