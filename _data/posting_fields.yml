@@ -6467,6 +6467,49 @@ academictransfer:365350:
     value: 在线系统：仅接受在线申请，不处理邮件或邮寄申请
     quote: 'Please note: You can apply online. We will not process applications sent by email and/or post.'
   llm: '2026-11-06'
+academictransfer:365375:
+  checked: '2026-11-07'
+  degree:
+    value: 气候科学、环境科学、物理或相关定量学科博士学位（入职前取得）
+    quote: you have, or will have completed by the starting date, a PhD in climate science, environmental science, physics or a related quantitative discipline
+  language:
+    value: 英语书面和口语能力强
+    quote: with strong written and spoken English
+  documents:
+    value: 动机信（不超过 1 页）、简历（不超过 2 页）
+    quote: Motivation letter should be limited to 1 page, resumés to 2 pages.
+  llm: '2026-11-07'
+academictransfer:365387:
+  checked: '2026-11-07'
+  degree:
+    value: 化学、物理、计算科学、材料科学或化学工程硕士（或同等，或即将获得）
+    quote: You hold (or are about to obtain) a Master’s degree (or equivalent) in Chemistry, Physics, Computational Science, Materials Science, or Chemical Engineering.
+  language:
+    value: 英语（书面与讨论中清晰表达）
+    quote: You communicate your ideas clearly in English, both in writing and in discussions with colleagues from diverse scientific backgrounds.
+  duration:
+    value: 4 年（首份合同 18 个月，考核后延长至共 4 年）
+    quote: for the duration of 4 years (the initial contract will be for a period of 18 months and after satisfactory evaluation it will be extended for a total duration of 4 years)
+  start:
+    value: 2027 年 1 月（或 2027 年初）
+    quote: The preferred starting date is ultimately January 2027 (or early 2027)
+  llm: '2026-11-07'
+academictransfer:365388:
+  checked: '2026-11-07'
+  degree:
+    value: 数据科学、人工智能、机器学习、计算机等相关领域博士（或即将完成）
+    quote: You hold, or are close to completing, a PhD in data science, artificial intelligence, machine learning, computer science, computational cognitive science, biomedical engineering, cognitive science,
+      mathematical psychology, or a related field.
+  language:
+    value: 英语书面和口语流利
+    quote: communicate fluently in written and spoken English
+  duration:
+    value: 36 个月（1.0 FTE）
+    quote: An employment contract for a period of 36 months with a scope of 1.0 FTE.
+  apply_via:
+    value: 在线系统：通过页面按钮申请
+    quote: Apply now via the button below.
+  llm: '2026-11-07'
 ajo:21540:
   checked: '2026-10-19'
   degree:
@@ -8735,6 +8778,40 @@ ajo:33328:
     value: 在线系统：在招聘网站在线提交
     quote: Submit the following items online at this website to complete your application
   llm: '2026-11-05'
+ajo:33340:
+  checked: '2026-11-07'
+  degree:
+    value: 生物信息、计算生物、环境工程、生物统计、计算机、基因组或数据科学等相关定量领域博士学位
+    quote: Ph. D. (or equivalent doctoral degree) in Bioinformatics, Computational Biology, Environmental Engineering, Biostatistics, Computer Science, Genomics, Data Science, or a related quantitative
+      field.
+  start:
+    value: 2027 年 1 月 1 日
+    quote: The anticipated start date is January 1, 2027.
+  duration:
+    value: 初始 1 年，视经费与考核续聘
+    quote: This appointment has an initial term of one year.
+  documents:
+    value: 求职信、简历、三位推荐人的姓名与邮箱
+    quote: 'REQUIRED MATERIALS: Cover letter Curriculum Vitae Names and email addresses of three references'
+  apply_via:
+    value: 在线系统：在网站上在线提交
+    quote: Submit the following items online at this website to complete your application
+  supervisor:
+    value: Joshua Granek 博士、Pixu Shi 博士
+    quote: supervised by Dr. Joshua Granek, Assistant Professor of Biostatistics & Bioinformatics at the Duke University School of Medicine, and Dr. Pixu Shi
+  llm: '2026-11-07'
+ajo:33343:
+  checked: '2026-11-07'
+  degree:
+    value: 植物遗传/育种、植物分子生物学或相关领域博士学位
+    quote: Must possess a PhD in plant genetics/breeding, plant molecular biology, or a related field.
+  documents:
+    value: 简短求职信、1 年期研究计划、简历、三位推荐人联系方式
+    quote: short cover letter, a brief proposed 1-year research plan, curriculum vitae, and contact information for three references
+  apply_via:
+    value: 在线系统：通过 Academic Jobs Online
+    quote: Please apply via Academic Jobs Online
+  llm: '2026-11-07'
 ajo:33344:
   checked: '2026-11-06'
   start:
@@ -8768,6 +8845,115 @@ ajo:33350:
     value: 在线系统：通过 AcademicJobsOnline 提交
     quote: Application materials should be submitted via https://academicjobsonline.org/ajo/jobs/33350
   llm: '2026-11-06'
+ajo:33355:
+  checked: '2026-11-07'
+  degree:
+    value: 入职时须已获物理学博士学位
+    quote: Candidates should have received a Ph.D. in physics by the start date of the position
+  start:
+    value: 2027 年 8 月或 9 月
+    quote: by the start date of the position (August or September 2027)
+  duration:
+    value: 预计 3 年
+    quote: The position has an anticipated duration of three years
+  documents:
+    value: 含发表清单的简历、两页研究兴趣陈述、三封推荐信
+    quote: Applicants should submit a CV that includes a publication list, a two-page statement of research interests, and should arrange for three letters of recommendation
+  apply_via:
+    value: 在线系统：通过 AcademicJobsOnline.org 提交
+    quote: Applications will be processed through AcademicJobsOnline.org.
+  llm: '2026-11-07'
+ajo:33356:
+  checked: '2026-11-07'
+  degree:
+    value: 已获博士学位或同等资历
+    quote: To qualify you must have passed a PhD or equivalent.
+  language:
+    value: 须流利使用英语
+    quote: Fluency in English is required.
+  duration:
+    value: 2–3 年
+    quote: fill a number of 2-3-year postdoctoral positions in Quantum Mathematics
+  start:
+    value: 2027 年 8 月 1 日，或其后尽快
+    quote: The targeted starting date of the position is 01.08.2027 , or as soon as possible thereafter
+  documents:
+    value: 简历（含雇佣起止日期）、完整发表列表、博士学位证书（未获得则附导师说明）、2 封以上推荐信
+    quote: A curriculum vitae including information on previous employment with start and end dates A full list of publications stating the scientific publications on which the applicant wishes to rely
+      Copy of PhD diploma, if Phd diploma has not yet been received, please include statement from your supervisor 2 or more letters of recommendation
+  apply_via:
+    value: 在线系统：通过 Apply now 链接提交
+    quote: Applications must be submitted electronically using the link
+  llm: '2026-11-07'
+ajo:33357:
+  checked: '2026-11-07'
+  degree:
+    value: 纯数学或应用数学、计算机科学或理论物理博士学位
+    quote: The candidates must have a PhD degree in pure or applied mathematics, computer science or theoretical physics and a strong research record.
+  language:
+    value: 须流利使用英语
+    quote: Fluency in English is required.
+  duration:
+    value: 2–3 年
+    quote: fill a number of 2-3-year postdotoral positions in quantum algorithms and quantum software
+  start:
+    value: 2027 年 8 月 1 日，或其后尽快
+    quote: The targeted starting date of the position is 01.08.2027 , or as soon as possible thereafter
+  llm: '2026-11-07'
+ajo:33358:
+  checked: '2026-11-07'
+  degree:
+    value: 物理或密切相关领域博士学位（B 类要求，入职时已获得）
+    quote: 'Requirements Category B: PhD in Physics or a closely related field at the start of the fellowship.'
+  duration:
+    value: 最长 3 年
+    quote: These are positions with up to 3-year duration
+  start:
+    value: 2027 年 3 月至 10 月，时间灵活
+    quote: a flexible starting date, from Mar to Oct 2027
+  documents:
+    value: 研究陈述（最多 3 页）、含发表列表的简历、两封推荐信
+    quote: Applications should include a research statement (up to 3-pages), your CV with publication list, and two recommendation letters
+  apply_via:
+    value: 在线系统：Academic Jobs Online
+    quote: 'How to apply: Academic Jobs Online'
+  llm: '2026-11-07'
+ajo:33359:
+  checked: '2026-11-07'
+  degree:
+    value: 入职前获得天文、物理、工程或相关领域博士学位
+    quote: Applicants must have a PhD in astronomy, physics, engineering, or a related field by the start date.
+  duration:
+    value: 三年任期，第三年视进展而定
+    quote: Three-year appointment with the third year contingent on satisfactory progress
+  start:
+    value: 2027 年 5 月至 10 月，可协商
+    quote: Start date negotiable between May and October 2027
+  supervisor:
+    value: Danielle Frostig
+    quote: The successful applicant will work with Danielle Frostig at the CfA
+  llm: '2026-11-07'
+ajo:33360:
+  checked: '2026-11-07'
+  degree:
+    value: 物理或相近学科博士学位（任职开始前完成）
+    quote: Candidates must have completed a Ph.D. in physics or a closely related field by the start of the appointment.
+  start:
+    value: 2027 年秋季
+    quote: The position is expected to begin in Fall 2027.
+  duration:
+    value: 3 年
+    quote: A three-year postdoctoral research position at UNC Chapel Hill.
+  documents:
+    value: 求职信、简历、论文列表、研究陈述、三封推荐信
+    quote: a cover letter; - a curriculum vitae; - a list of publications; - a research statement; - three letters of recommendation.
+  apply_via:
+    value: 在线系统：通过 AcademicJobsOnline 提交
+    quote: Please submit your application through AcademicJobsOnline
+  nationality:
+    value: 不提供 H1B 工作签证担保
+    quote: Please note that this position is not eligible for H1B sponsorship.
+  llm: '2026-11-07'
 arbeitsagentur:10000-1207869912-S:
   checked: '2026-10-19'
   degree:
@@ -9956,6 +10142,73 @@ arbeitsagentur:10000-1208564312-S:
     value: 在线系统
     quote: Dann freuen wir uns auf Ihre Online-Bewerbung mit den üblichen Unterlagen
   llm: '2026-11-06'
+arbeitsagentur:10000-1208572842-S:
+  checked: '2026-11-07'
+  degree:
+    value: 免疫学领域博士学位，成绩高于平均
+    quote: Promotion mit überdurchschnittlichem Ergebnis im Bereich der Immunologie
+  language:
+    value: 英语很好、德语良好
+    quote: sehr gute Englischkenntnisse und gute Deutschkenntnisse
+  start:
+    value: 2027 年 3 月 1 日
+    quote: ist zum 01.03.2027 befristet auf 2 Jahre
+  duration:
+    value: 2 年
+    quote: befristet auf 2 Jahre
+  apply_via:
+    value: 在线系统：通过页面上的申请按钮提交
+    quote: Bitte bewerben Sie sich bis zum 29.11.2026 ausschließlich über den untenstehenden Bewerbungs-Button.
+  llm: '2026-11-07'
+arbeitsagentur:10000-1208574995-S:
+  checked: '2026-11-07'
+  degree:
+    value: 实施科学、公共卫生、社会学、心理学或相近学科博士学位（成绩优于平均）
+    quote: Sie verfügen über eine überdurchschnittlich abgeschlossene Promotion in der Implementierungswissenschaft, Public Health, Soziologie, Psychologie oder einer vergleichbaren Disziplin.
+  language:
+    value: 德语和英语口头与书面都很好
+    quote: Sie besitzen sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift.
+  start:
+    value: 尽快
+    quote: zum nächstmöglichen Zeitpunkt
+  duration:
+    value: 3 年（可延长）
+    quote: für die Dauer von 3 Jahren (Verlängerung möglich)
+  documents:
+    value: 求职信、简历、相关证书、实施科学研究设想（两页）
+    quote: Sie sollte ein Anschreiben, einen Lebenslauf und relevante Zeugnisse umfassen. Bitte fügen Sie außerdem eine Darstellung Ihrer implementationswissenschaftlichen Forschungsvorhaben bei, die an
+      die Arbeiten des BIPS anknüpfen. Der Umfang sollte zwei Seiten betragen.
+  llm: '2026-11-07'
+arbeitsagentur:10000-1208577200-S:
+  checked: '2026-11-07'
+  degree:
+    value: 心理学（临床心理学或神经科学方向）的 Diplom、硕士或同等学位
+    quote: abgeschlossenes wissenschaftliches Hochschulstudium (Diplom, Master oder vergleichbar) im Fach Psychologie, mit Schwerpunkt Klinische Psychologie oder Neurowissenschaften
+  start:
+    value: 尽快
+    quote: zum nächstmöglichen Zeitpunkt befristet auf 3 Jahre
+  duration:
+    value: 3 年
+    quote: befristet auf 3 Jahre
+  apply_via:
+    value: 在线系统：通过页面上的申请按钮提交
+    quote: Bitte bewerben Sie sich bis zum 29.11.2026 ausschließlich über den untenstehenden Bewerbungs-Button.
+  llm: '2026-11-07'
+arbeitsagentur:10000-1208581374-S:
+  checked: '2026-11-07'
+  degree:
+    value: 艺术史、图像学或科学史的硕士、Diplom 或同等学位
+    quote: abgeschlossenes wissenschaftliches Hochschulstudium im Fach Kunstgeschichte, Bildwissenschaft oder Wissenschaftsgeschichte (Master, Diplom oder vergleichbar)
+  language:
+    value: 需有良好英语
+    quote: Gute Englischkenntnisse werden erwartet.
+  documents:
+    value: 申请信、简历、著作目录、证书副本
+    quote: Anschreiben, Lebenslauf, Schriftenverzeichnis, Zeugniskopien
+  apply_via:
+    value: 邮件：gehring@uni-trier.de
+    quote: Bewerbung bitte per E-Mail an gehring@uni-trier.de
+  llm: '2026-11-07'
 arbeitsagentur:10001-1003451682-S:
   checked: '2026-10-19'
   degree:
@@ -11405,6 +11658,22 @@ arbeitsagentur:10001-1003967731-S:
     value: 详细申请材料（简历、推荐人等）
     quote: We look forward to receiving your detailed application (CV, references, etc.) by 29.11.2026 at the latest.
   llm: '2026-11-06'
+arbeitsagentur:10001-1003972792-S:
+  checked: '2026-11-07'
+  degree:
+    value: 电气与信息技术、通信技术、技术信息学、机电一体化、自动化等相关专业硕士/Diplom学位
+    quote: 'erfolgreicher wissenschaftlicher Hochschulabschluss (Diplom / Master / Univ.) in z. B.: Elektro- und Informationstechnik, Nachrichtentechnik, Kommunikations- und Informationstechnik, Technischer
+      Informatik, Mechatronik, Automatisierungstechnik, Informatik mit Schwerpunkt eingebettete Systeme oder vergleichbaren Fachrichtungen'
+  language:
+    value: 德语和英语口语书写良好
+    quote: gute Deutsch- und Englischkenntnisse in Wort und Schrift
+  start:
+    value: 尽快
+    quote: zum nächstmöglichen Zeitpunkt
+  duration:
+    value: 合同至 2030 年 8 月 31 日（依 WissZeitVG）
+    quote: bis 31.08.2030 (Beschäftigungsdauer gem. WissZeitVG)
+  llm: '2026-11-07'
 arbeitsagentur:12811-2367295-S:
   checked: '2026-10-31'
   start:
@@ -12334,6 +12603,21 @@ arbeitsagentur:19380-662flj908i-S:
     value: Silvia Daun 教授
     quote: under the supervision of Prof. Dr. Silvia Daun
   llm: '2026-10-19'
+arbeitsagentur:19380-bzrxocu4nt-S:
+  checked: '2026-11-07'
+  degree:
+    value: 过程工程、机械、能源技术、物理或相关学科硕士
+    quote: Erfolgreich abgeschlossenes wissenschaftliches Hochschulstudium (Master) in den Bereichen Verfahrenstechnik, Maschinenbau, Energietechnik, Physik oder in verwandten Disziplinen
+  language:
+    value: 英语口语和书面都很好（至少 CEFR B2，最好有证书）
+    quote: Sehr gute Englischkenntnisse, sowohl mündlich als auch schriftlich (mindestens B2-Niveau nach dem GeR), idealerweise nachgewiesen durch ein Zertifikat
+  start:
+    value: 尽快
+    quote: 'Beginn: Zum nächstmöglichen Termin'
+  duration:
+    value: 3 年
+    quote: Die Position ist auf 3 Jahre befristet
+  llm: '2026-11-07'
 arbeitsagentur:19380-c1c0mvt2v7-S:
   checked: '2026-10-19'
   degree:
@@ -13591,6 +13875,30 @@ cnrs:UMR5107-SOPHEU0-088:
     value: 24 个月
     quote: Durée du contrat 24 mois
   llm: '2026-10-19'
+cnrs:UMR5120-ANNDEC-002:
+  checked: '2026-11-07'
+  degree:
+    value: 生物体生物学、进化生物学或生态与进化方向硕士
+    quote: Le(a) candidat(e) doit avoir un Master de type Biologie des organismes, Biologie évolutive, ou Ecologie et Evolution
+  language:
+    value: 英语读写和口语良好
+    quote: une bonne maîtrise de l’anglais écrit et parlé
+  start:
+    value: 2027 年 2 月 1 日
+    quote: Date d'Embauche 01/02/2027
+  duration:
+    value: 36 个月
+    quote: Durée du contrat 36 mois
+  documents:
+    value: 详细简历（1-2 页，含实习与硕士 1、2 年级成绩）、动机信（1-2 页）
+    quote: (1) un CV détaillé (1-2 pages) faisant apparaître le titre, lieux et encadrant(e)s des stages effectués et les notes de master 1 et 2 ou équivalent, (2) une lettre de motivation (1-2 pages)
+  apply_via:
+    value: 在线系统：通过 CNRS 招聘门户提交
+    quote: Déposer sur ce portail emploi du CNRS
+  supervisor:
+    value: A. Boura 与 A-L Decombeix（博士导师）
+    quote: Les candidatures écrites seront évaluées par les deux directrices de thèse (A. Boura et A-L Decombeix)
+  llm: '2026-11-07'
 cnrs:UMR5128-CLECAM-012:
   checked: '2026-10-19'
   supervisor:
@@ -15153,6 +15461,21 @@ cnrs:UMR7154-SABGAL-069:
     value: Frédéric Girault（项目 PI）
     quote: 'PI : Frédéric Girault'
   llm: '2026-10-31'
+cnrs:UMR7159-MARLEV-016:
+  checked: '2026-11-07'
+  degree:
+    value: 海洋学、气候科学或相关学科博士学位
+    quote: Doctorat en océanographie, sciences du climat ou discipline connexe.
+  language:
+    value: 科学英语读写和口语良好
+    quote: Bonne maîtrise de l’anglais scientifique écrit et oral.
+  start:
+    value: 2027 年 4 月 1 日
+    quote: Date d'Embauche 01/04/2027
+  duration:
+    value: 24 个月
+    quote: Durée du contrat 24 mois
+  llm: '2026-11-07'
 cnrs:UMR7164-KEVVEL-059:
   checked: '2026-10-19'
   degree:
@@ -15456,6 +15779,18 @@ cnrs:UMR7271-CHRCAI-001:
     value: 36 个月合同
     quote: Durée du contrat 36 mois
   llm: '2026-10-19'
+cnrs:UMR7271-GUIURV-001:
+  checked: '2026-11-07'
+  degree:
+    value: 计算机、数据科学或电信方向的 Master 2 或工程师学校学历
+    quote: Master 2 ou École d'Ingénieur en Informatique, Data Science ou Télécommunications.
+  start:
+    value: 2027 年 2 月 1 日
+    quote: Date d'Embauche 01/02/2027
+  duration:
+    value: 36 个月
+    quote: Durée du contrat 36 mois
+  llm: '2026-11-07'
 cnrs:UMR7272-CORMEI-014:
   checked: '2026-10-19'
   duration:
@@ -16441,6 +16776,24 @@ cnrs:UMR8197-VALHER-264:
     value: 24 个月
     quote: Durée du contrat 24 mois
   llm: '2026-11-05'
+cnrs:UMR8197-VALHER-266:
+  checked: '2026-11-07'
+  start:
+    value: 2027 年 1 月 1 日
+    quote: Date d'Embauche 01/01/2027
+  duration:
+    value: 6 个月
+    quote: Durée du contrat 6 mois
+  llm: '2026-11-07'
+cnrs:UMR8197-VALHER-267:
+  checked: '2026-11-07'
+  start:
+    value: 2027 年 1 月 1 日
+    quote: Date d'Embauche 01/01/2027
+  duration:
+    value: 36 个月
+    quote: Durée du contrat 36 mois
+  llm: '2026-11-07'
 cnrs:UMR8199-HELDEG0-049:
   checked: '2026-10-19'
   degree:
@@ -17618,6 +17971,15 @@ cnrs:UPR8001-CHRART-003:
     value: 21 个月
     quote: Durée du contrat 21 mois
   llm: '2026-10-30'
+cnrs:UPR8001-MORDEL-022:
+  checked: '2026-11-07'
+  start:
+    value: 2026 年 12 月 1 日
+    quote: Date d'Embauche 01/12/2026
+  duration:
+    value: 18 个月
+    quote: Durée du contrat 18 mois
+  llm: '2026-11-07'
 cnrs:UPR8001-NICACC-008:
   checked: '2026-11-04'
   duration:
@@ -17678,6 +18040,195 @@ cnrs:UPR8521-ADRTOU-010:
     value: 流体力学、数值工程、热学或相关领域博士
     quote: Doctorat en mécanique des fluides, ingénierie numérique, thermique ou domaine connexe.
   llm: '2026-10-19'
+coventry:a-modular-10kva-building-block-architecture-for-scalable-high-performance-motor-drives2:
+  checked: '2026-11-07'
+  degree:
+    value: 相关学科学士学位，达到 2:1 等级（项目成绩不低于 60%，或模块总平均不低于 60%）
+    quote: A minimum of a 2:1 first degree in a relevant discipline/subject area with a minimum 60% mark in the project element or equivalent with a minimum 60% overall module average.
+  language:
+    value: 英语；IELTS 学术类总分不低于 6.5，各单项不低于 6.0
+    quote: A minimum of English language proficiency (IELTS academic overall minimum score of 6.5 with a minimum of 6.0 in each component).
+  start:
+    value: 2027 年 5 月
+    quote: 'Start date: May 2027'
+  duration:
+    value: 全职，4 年固定期限
+    quote: 'Duration: Full-Time – Four years fixed term'
+  documents:
+    value: 全套支持材料、求职信、2000 词支持陈述
+    quote: All applications require full supporting documentation, a covering letter, plus a 2000-word supporting statement showing how the applicant’s expertise and interests are relevant to the project.
+  nationality:
+    value: 英国及国际（含欧盟）毕业生均可申请，须满足入学要求
+    quote: 'Eligibility: UK/International (including EU) graduates with the required entry requirements'
+  llm: '2026-11-07'
+coventry:accelerated-battery-aging-for-rapid-lifetime-prediction:
+  checked: '2026-11-07'
+  degree:
+    value: 相关学科学士学位，达到 2:1 等级（项目成绩不低于 60%，或模块总平均不低于 60%）
+    quote: A minimum of a 2:1 first degree in a relevant discipline/subject area with a minimum 60% mark in the project element or equivalent with a minimum 60% overall module average.
+  language:
+    value: 英语；IELTS 学术类总分不低于 6.5，各单项不低于 6.0
+    quote: A minimum of English language proficiency (IELTS academic overall minimum score of 6.5 with a minimum of 6.0 in each component).
+  start:
+    value: 2027 年 5 月
+    quote: 'Start date: May 2027'
+  duration:
+    value: 全职，4 年固定期限
+    quote: 'Duration: Full-Time – Four years fixed term'
+  documents:
+    value: 全套支持材料、求职信、2000 词支持陈述
+    quote: All applications require full supporting documentation, a covering letter, plus a 2000-word supporting statement showing how the applicant’s expertise and interests are relevant to the project.
+  nationality:
+    value: 英国及国际（含欧盟）毕业生均可申请，须满足入学要求
+    quote: 'Eligibility: UK/International (including EU) graduates with the required entry requirements'
+  llm: '2026-11-07'
+coventry:additive-manufacturing-enabled-electrical-machine-design-using-multi-physics-optimization:
+  checked: '2026-11-07'
+  degree:
+    value: 相关学科学士学位，达到 2:1 等级（项目成绩不低于 60%，或模块总平均不低于 60%）
+    quote: A minimum of a 2:1 first degree in a relevant discipline/subject area with a minimum 60% mark in the project element or equivalent with a minimum 60% overall module average.
+  language:
+    value: 英语；IELTS 学术类总分不低于 6.5，各单项不低于 6.0
+    quote: A minimum of English language proficiency (IELTS academic overall minimum score of 6.5 with a minimum of 6.0 in each component).
+  start:
+    value: 2027 年 5 月
+    quote: 'Start date: May 2027'
+  duration:
+    value: 全职，4 年固定期限
+    quote: 'Duration: Full-Time – Four years fixed term'
+  documents:
+    value: 全套支持材料、求职信、2000 词支持陈述
+    quote: All applications require full supporting documentation, a covering letter, plus a 2000-word supporting statement showing how the applicant’s expertise and interests are relevant to the project.
+  nationality:
+    value: 英国及国际（含欧盟）毕业生均可申请，须满足入学要求
+    quote: 'Eligibility: UK/International (including EU) graduates with the required entry requirements'
+  llm: '2026-11-07'
+coventry:ai-enhanced-emc-digital-twins-for-automotive-wbg-converters:
+  checked: '2026-11-07'
+  degree:
+    value: 相关学科学士学位，达到 2:1 等级（项目成绩不低于 60%，或模块总平均不低于 60%）
+    quote: A minimum of a 2:1 first degree in a relevant discipline/subject area with a minimum 60% mark in the project element or equivalent with a minimum 60% overall module average.
+  language:
+    value: 英语；IELTS 学术类总分不低于 6.5，各单项不低于 6.0
+    quote: A minimum of English language proficiency (IELTS academic overall minimum score of 6.5 with a minimum of 6.0 in each component).
+  start:
+    value: 2027 年 5 月
+    quote: 'Start date: May 2027'
+  duration:
+    value: 全职，三年至三年半固定期限
+    quote: 'Duration: Full-Time – between three and three and a half years fixed term'
+  documents:
+    value: 全套支持材料、求职信、2000 词支持陈述
+    quote: All applications require full supporting documentation, a covering letter, plus a 2000-word supporting statement showing how the applicant’s expertise and interests are relevant to the project.
+  nationality:
+    value: 英国及国际（含欧盟）毕业生均可申请，须满足入学要求
+    quote: 'Eligibility: UK/International (including EU) graduates with the required entry requirements'
+  llm: '2026-11-07'
+coventry:closed-loop-adaptive-battery-management-for-lifetime-extension:
+  checked: '2026-11-07'
+  degree:
+    value: 相关学科学士学位，达到 2:1 等级（项目成绩不低于 60%，或模块总平均不低于 60%）
+    quote: A minimum of a 2:1 first degree in a relevant discipline/subject area with a minimum 60% mark in the project element or equivalent with a minimum 60% overall module average.
+  language:
+    value: 英语；IELTS 学术类总分不低于 6.5，各单项不低于 6.0
+    quote: A minimum of English language proficiency (IELTS academic overall minimum score of 6.5 with a minimum of 6.0 in each component).
+  start:
+    value: 2027 年 5 月
+    quote: 'Start date: May 2027'
+  duration:
+    value: 全职，4 年固定期限
+    quote: 'Duration: Full-Time – Four years fixed term'
+  documents:
+    value: 全套支持材料、求职信、2000 词支持陈述
+    quote: All applications require full supporting documentation, a covering letter, plus a 2000-word supporting statement showing how the applicant’s expertise and interests are relevant to the project.
+  nationality:
+    value: 英国及国际（含欧盟）毕业生均可申请，须满足入学要求
+    quote: 'Eligibility: UK/International (including EU) graduates with the required entry requirements'
+  llm: '2026-11-07'
+coventry:fast-multi-wavelength-variability-of-accreting-compact-objects:
+  checked: '2026-11-07'
+  degree:
+    value: 天文学/天体物理或物理硕士或同等学历
+    quote: Master’s or equivalent degree, astronomy/astrophysics or physics
+  language:
+    value: 英语；IELTS 学术类总分不低于 6.5，各单项不低于 6.0
+    quote: A minimum of English language proficiency (IELTS academic overall minimum score of 6.5 with a minimum of 6.0 in each component).
+  start:
+    value: 2027 年 5 月
+    quote: 'Start date: May 2027'
+  duration:
+    value: 全职，三年至三年半固定期限
+    quote: 'Duration: Full-Time – between three and three and a half years fixed term'
+  documents:
+    value: 全套支持材料、求职信、500 词支持陈述
+    quote: All applications require full supporting documentation, a covering letter, plus a 500 word supporting statement showing how the applicant’s expertise and interests are relevant to the project.
+  nationality:
+    value: 英国及国际（含欧盟）毕业生均可申请，须满足入学要求
+    quote: 'Eligibility: UK/International (including EU) graduates with the required entry requirements'
+  llm: '2026-11-07'
+coventry:gen-ai-and-student-feedback-literacy:
+  checked: '2026-11-07'
+  degree:
+    value: 本科毕业成绩位于同届前 15%
+    quote: Applicants should have graduated within the top 15% of their undergraduate cohort.
+  language:
+    value: 英语；IELTS 总分不低于 7.0，各单项不低于 6.5
+    quote: Language proficiency (IELTS overall minimum score of 7.0 with a minimum of 6.5 in each component).
+  start:
+    value: 2027 年 5 月
+    quote: 'Start date: May 2027'
+  duration:
+    value: 全职，三年至三年半固定期限
+    quote: 'Duration: Full-Time – between three and three and a half years fixed term'
+  documents:
+    value: 全套支持材料、求职信、2000 词支持陈述
+    quote: All applications require full supporting documentation, a covering letter, plus a 2000-word supporting statement showing how the applicant’s expertise and interests are relevant to the project.
+  nationality:
+    value: 英国及国际（含欧盟）毕业生均可申请，须满足入学要求
+    quote: 'Eligibility: UK/International (including EU) graduates with the required entry requirements'
+  llm: '2026-11-07'
+coventry:gen-ai-and-student-feedback-literacy-coventry-led-studentship:
+  checked: '2026-11-07'
+  degree:
+    value: 本科毕业成绩位于同届前 15%
+    quote: Applicants should have graduated within the top 15% of their undergraduate cohort.
+  language:
+    value: 英语；IELTS 总分不低于 7.0，各单项不低于 6.5
+    quote: Language proficiency (IELTS overall minimum score of 7.0 with a minimum of 6.5 in each component).
+  start:
+    value: 2027 年 5 月
+    quote: 'Start date: May 2027'
+  duration:
+    value: 全职，三年至三年半固定期限
+    quote: 'Duration: Full-Time – between three and three and a half years fixed term'
+  documents:
+    value: 全套支持材料、求职信、2000 词支持陈述
+    quote: All applications require full supporting documentation, a covering letter, plus a 2000-word supporting statement showing how the applicant’s expertise and interests are relevant to the project.
+  nationality:
+    value: 英国及国际（含欧盟）毕业生均可申请，须满足入学要求
+    quote: 'Eligibility: UK/International (including EU) graduates with the required entry requirements'
+  llm: '2026-11-07'
+coventry:integrating-physics-and-artificial-intelligence-for-advanced-battery-prognostics:
+  checked: '2026-11-07'
+  degree:
+    value: 相关学科学士学位，达到 2:1 等级（项目成绩不低于 60%，或模块总平均不低于 60%）
+    quote: A minimum of a 2:1 first degree in a relevant discipline/subject area with a minimum 60% mark in the project element or equivalent with a minimum 60% overall module average.
+  language:
+    value: 英语；IELTS 学术类总分不低于 6.5，各单项不低于 6.0
+    quote: A minimum of English language proficiency (IELTS academic overall minimum score of 6.5 with a minimum of 6.0 in each component).
+  start:
+    value: 2027 年 5 月
+    quote: 'Start date: May 2027'
+  duration:
+    value: 全职，4 年固定期限
+    quote: 'Duration: Full-Time – Four years fixed term'
+  documents:
+    value: 全套支持材料、求职信、2000 词支持陈述
+    quote: All applications require full supporting documentation, a covering letter, plus a 2000-word supporting statement showing how the applicant’s expertise and interests are relevant to the project.
+  nationality:
+    value: 英国及国际（含欧盟）毕业生均可申请，须满足入学要求
+    quote: 'Eligibility: UK/International (including EU) graduates with the required entry requirements'
+  llm: '2026-11-07'
 crick:2026-08-19-costa-and-garcia-manyes-lab-the-cryo-em-structure-of-mechanically-unfolded-proteins:
   checked: '2026-11-02'
   supervisor:
@@ -18630,6 +19181,48 @@ daad:10507:
     value: 其他：通过 KIT 官方招聘页面申请
     quote: 'Official Job Posting & Application: https://jobs.pse.kit.edu/en/jobs/170984/phd-position-in-physics-of-the-earth-fmd-part-time-75'
   llm: '2026-11-06'
+daad:10508:
+  checked: '2026-11-07'
+  degree:
+    value: 硕士
+    quote: Required Degree Master
+  language:
+    value: 工作语言：德语、英语
+    quote: Working Language German, English
+  duration:
+    value: 3 年
+    quote: Time Span as soon as possible for 3 years
+  start:
+    value: 尽快
+    quote: Starting Date as soon as possible
+  documents:
+    value: 动机信、学历证书、简历
+    quote: Required Documents Required Documents Motivation letter CV Certificates
+  apply_via:
+    value: 在线系统：通过大学申请门户上传一份 PDF
+    quote: Please upload your application in one pdf file including the usual documents until 11/30/2026 on the application portal of the university
+  llm: '2026-11-07'
+daad:10509:
+  checked: '2026-11-07'
+  degree:
+    value: 硕士
+    quote: Required Degree Master
+  language:
+    value: 工作语言：德语、英语
+    quote: Working Language German, English
+  duration:
+    value: 3 年
+    quote: Time Span as soon as possible for 3 years
+  start:
+    value: 尽快
+    quote: Starting Date as soon as possible
+  documents:
+    value: 动机信、学历证书、简历
+    quote: Required Documents Required Documents Motivation letter CV Certificates
+  apply_via:
+    value: 在线系统：上传至大学申请门户
+    quote: Please upload your application in one pdf file including the usual documents until 12/4/2026 on the application portal of the university
+  llm: '2026-11-07'
 daad:8990:
   checked: '2026-10-19'
   degree:
@@ -19988,6 +20581,28 @@ econjobmarket:12981:
     value: 在线系统：通过 ZEW 网站的在线申请表（推荐信可经 EconJobMarket 提交）
     quote: only via the online application form on our website
   llm: '2026-11-05'
+econjobmarket:12985:
+  checked: '2026-11-07'
+  degree:
+    value: 经济学博士学位，须在入职时或之后不久取得，最迟 2027 年 9 月 30 日
+    quote: Candidates must have earned a PhD degree in Economics by the time of appointment, or shortly thereafter, and no later than September 30, 2027.
+  start:
+    value: 2027 年 8 月 1 日
+    quote: The anticipated start date is August 1, 2027.
+  duration:
+    value: 4 年
+    quote: The position is for four years
+  documents:
+    value: 求职信、简历、研究陈述、求职论文、其他工作论文或发表、三封推荐信
+    quote: A complete application must include a cover letter, a current curriculum vitae, a research statement outlining current and future research interests and how the candidate’s research profile matches
+      one or more of the fields listed in the posting, a job market paper (clearly labeled), other working papers or publications, and three recent letters of reference
+  apply_via:
+    value: 在线系统：通过 Econ Job Market 提交
+    quote: Applications must be submitted online at https://econjobmarket.org/
+  supervisor:
+    value: Martin Blomhoff Holm 副教授（项目负责人）
+    quote: led by Associate Professor Martin Blomhoff Holm
+  llm: '2026-11-07'
 egu:7533:
   checked: '2026-10-22'
   degree:
@@ -20745,6 +21360,45 @@ fapesp:10002:
     value: Zhao Liang（项目负责人）
     quote: 'Principal investigator: Zhao Liang'
   llm: '2026-11-06'
+fapesp:10003:
+  checked: '2026-11-07'
+  degree:
+    value: 博士学位，须在最近 7 年内取得
+    quote: Candidates must have obtained their PhD degree within the last 7 years
+  start:
+    value: 2027 年 1 月
+    quote: 'Start: 2027, january'
+  duration:
+    value: 初始 12 个月，可延长至多 36 个月
+    quote: The fellowship is initially granted for a 12-month period, with the possibility of extension for up to 36 additional months
+  documents:
+    value: 简历、研究兴趣简述、两位推荐人的姓名与邮箱
+    quote: Candidates are kindly asked to provide a CV, along with a short description of research interests, as specified above, and names (and email) of two references.
+  apply_via:
+    value: 邮件：mendes@ifsc.usp.br
+    quote: Please send all documents to mendes@ifsc.usp.br
+  supervisor:
+    value: Tereza C. R. Mendes（项目负责人）
+    quote: 'Principal investigator: Tereza C. R. Mendes'
+  llm: '2026-11-07'
+fapesp:10004:
+  checked: '2026-11-07'
+  degree:
+    value: 近七年内获得工程、物理、计算机、数学或相关领域博士学位
+    quote: PhD awarded within the last seven years in Engineering, Physics, Computer Science, Mathematics, or a related field
+  language:
+    value: 英语口语与书面熟练
+    quote: Proficiency in spoken and written English.
+  start:
+    value: 2027 年 4 月
+    quote: 'Start: 2027, april'
+  supervisor:
+    value: Davidson Martins Moreira
+    quote: 'Principal investigator: Davidson Martins Moreira'
+  apply_via:
+    value: 邮件：bolsas_cpa-ia@fieb.org.br
+    quote: Forward the following documentation to the email address bolsas_cpa-ia@fieb.org.br
+  llm: '2026-11-07'
 fapesp:10005:
   checked: '2026-11-06'
   degree:
@@ -20778,6 +21432,80 @@ fapesp:10008:
     value: Airton Germano Bispo Junior（项目负责人）
     quote: 'Principal investigator: Airton Germano Bispo Junior'
   llm: '2026-11-06'
+fapesp:10009:
+  checked: '2026-11-07'
+  degree:
+    value: 医学、兽医、生物、生化、生物医学、药学、生物技术等健康相关专业，博士阶段无挂科
+    quote: A degree in Human or Veterinary Medicine, Biology, Biochemistry, Biomedicine, Pharmacy, Biotechnology, or related health fields, with no failed courses in their doctoral academic record.
+  language:
+    value: 英语水平高级
+    quote: Advanced proficiency in English
+  start:
+    value: 2027 年 1 月
+    quote: 'Inicio: janeiro de 2027'
+  documents:
+    value: FAPESP 格式简历或 NIH Biosketch、完整简历、求职信（一页内）、两封推荐信
+    quote: A summary CV in the FAPESP format or NIH Biosketch; 2. Curriculum Vitae; 3. A cover letter explaining their interest and providing a brief account of their experience (maximum one page); 4. Two
+      letters of recommendation
+  apply_via:
+    value: 邮件：jcbitten@icb.usp.br
+    quote: 'E-mail for proposal submission: jcbitten@icb.usp.br'
+  supervisor:
+    value: Jackson Cioni Bittencourt（首席研究员）
+    quote: 'Principal investigator: Jackson Cioni Bittencourt'
+  llm: '2026-11-07'
+fapesp:10013:
+  checked: '2026-11-07'
+  degree:
+    value: 生物科学或相关专业本科，遗传学（真菌）或相关子领域博士，近七年内毕业
+    quote: Graduação em Ciências Biológicas ou áreas afins, com Doutorado em Genética de fungos ou subáreas relacionadas, concluído nos últimos sete anos
+  language:
+    value: 必须精通英语
+    quote: Proficiência em inglês é indispensável.
+  start:
+    value: 2027 年 1 月
+    quote: 'Inicio: janeiro de 2027'
+  supervisor:
+    value: Gilberto Úbida Leite Braga（项目负责人）
+    quote: 'Pesquisador responsável: Gilberto Úbida Leite Braga'
+  apply_via:
+    value: 邮件：gbraga@fcfrp.usp.br
+    quote: 'E-mail para inscrições: gbraga@fcfrp.usp.br'
+  documents:
+    value: FAPESP 格式简历与发表列表、不超过两页的意向信、博士毕业证明、博士成绩单、两位推荐人
+    quote: Enviar CV formato FAPESP com lista de publicações, carta de interesse de até duas páginas, comprovante de conclusão do doutorado, histórico escolar do doutorado e indicação de dois nomes para
+      referência.
+  llm: '2026-11-07'
+fapesp:10015:
+  checked: '2026-11-07'
+  apply_via:
+    value: 邮件：ada@fmrp.usp.br
+    quote: Enviar para o e-mail ada@fmrp.usp.br os documentos listados abaixo
+  supervisor:
+    value: Ada Clarice Gastaldi（项目负责人）
+    quote: 'Pesquisador responsável: Ada Clarice Gastaldi'
+  llm: '2026-11-07'
+fapesp:10016:
+  checked: '2026-11-07'
+  degree:
+    value: 博士学位，研究方向为创业与创新政策及行动
+    quote: Doutorado com foco em políticas e ações de empreendedorismo e inovação
+  language:
+    value: 英语流利（加分项）
+    quote: Inglês fluente.
+  start:
+    value: 2026 年 12 月
+    quote: 'Inicio: dezembro de 2026'
+  documents:
+    value: 身份证件（RG、CNH 或护照）、博士学位证书、两位推荐人姓名
+    quote: Enviar documento de identificação (RG, CNH, Passaporte), diploma de doutorado e dois nomes para referência por e-mail
+  apply_via:
+    value: 邮件：reconversao.industrial@ufabc.edu.br
+    quote: 'E-mail para inscrições: reconversao.industrial@ufabc.edu.br'
+  supervisor:
+    value: Anapatricia de Oliveira Morales Vilha（项目负责人）
+    quote: 'Pesquisador responsável: Anapatricia de Oliveira Morales Vilha'
+  llm: '2026-11-07'
 fapesp:9392:
   checked: '2026-10-20'
   degree:
@@ -22988,6 +23716,27 @@ fens:128662:
     value: 邮件：bewerbungen@vetmeduni.ac.at
     quote: by e-mail to bewerbungen@vetmeduni.ac.at
   llm: '2026-11-05'
+fens:128673:
+  checked: '2026-11-07'
+  degree:
+    value: 神经科学、生物、药理、统计、医学、遗传、生物工程、数学、物理、计算机等相关领域博士学位
+    quote: A PhD in Neuroscience, Biology, Pharmacology, Statistics, Medicine, Genetics, Bioengineering, Biology, Mathematics, Physics, Computer Science or related fields.
+  language:
+    value: 英语口语与书面良好
+    quote: Good command of spoken and written English.
+  duration:
+    value: 1 年，之后可再续 4 年
+    quote: Full time , 1+4 (1 year + then renewable for other 4 years)
+  documents:
+    value: 详细简历、求职信、2 封推荐信
+    quote: detailed CV, cover letter, and 2 reference letters
+  apply_via:
+    value: 在线系统：通过在线表单
+    quote: Please submit your application using the online form
+  supervisor:
+    value: Francesco Papaleo 博士（课题组负责人）
+    quote: is coordinated by Dr. Francesco Papaleo
+  llm: '2026-11-07'
 findaphd:194422:
   checked: '2026-10-23'
   degree:
@@ -30161,6 +30910,63 @@ inria:2026-10680:
     value: Julien Mairal
     quote: will be supervised by Julien Mairal
   llm: '2026-11-06'
+inria:2026-10682:
+  checked: '2026-11-07'
+  degree:
+    value: 研究生学位（硕士）或同等学历
+    quote: 'Level of qualifications required : Graduate degree or equivalent'
+  duration:
+    value: 3 年
+    quote: 'Duration of contract : 3 years'
+  apply_via:
+    value: 在线系统：Inria 招聘网站
+    quote: Applications must be submitted online on the Inria website.
+  start:
+    value: 2027 年 1 月 1 日
+    quote: 'Starting date : 2027-01-01'
+  documents:
+    value: 简历、发表列表、愿意推荐申请人的学者联系方式
+    quote: Applications should include a CV, list of publications, and contact details of scientists willing to recommend the candidate.
+  supervisor:
+    value: Ruess Jakob
+    quote: 'PhD Supervisor : Ruess Jakob'
+  llm: '2026-11-07'
+inria:2026-10684:
+  checked: '2026-11-07'
+  degree:
+    value: 研究生学位（硕士）或同等学历
+    quote: 'Level of qualifications required : Graduate degree or equivalent'
+  duration:
+    value: 3 年
+    quote: 'Duration of contract : 3 years'
+  apply_via:
+    value: 在线系统：Inria 招聘网站
+    quote: Applications must be submitted online on the Inria website.
+  start:
+    value: 2027 年 1 月 1 日
+    quote: 'Starting date : 2027-01-01'
+  supervisor:
+    value: Antitza Dantcheva
+    quote: supervised by Antitza Dantcheva
+  llm: '2026-11-07'
+inria:2026-10685:
+  checked: '2026-11-07'
+  degree:
+    value: 研究生学位（硕士）或同等学历
+    quote: 'Level of qualifications required : Graduate degree or equivalent'
+  duration:
+    value: 3 年
+    quote: 'Duration of contract : 3 years'
+  apply_via:
+    value: 在线系统：Inria 招聘网站
+    quote: Applications must be submitted online on the Inria website.
+  start:
+    value: 2027 年 1 月 1 日
+    quote: 'Starting date : 2027-01-01'
+  supervisor:
+    value: Dantcheva Antitza
+    quote: 'PhD Supervisor : Dantcheva Antitza'
+  llm: '2026-11-07'
 inspire:1753873:
   checked: '2026-10-19'
   duration:
@@ -34367,6 +35173,111 @@ inspire:3223587:
     quote: Please send your CV, publication list, your transcript of record, at least one reference letter, and a short motivation letter – telling us which of the research topics above excites you most
       – to applications@wmi.badw.de
   llm: '2026-11-06'
+inspire:3224107:
+  checked: '2026-11-07'
+  duration:
+    value: 初始 1 年，最长可续至三年
+    quote: Appointments will be for one year but can be renewed for maximum up to three years.
+  apply_via:
+    value: 在线系统：通过公告所附链接提交
+    quote: Applications must be submitted via the link provided below.
+  llm: '2026-11-07'
+inspire:3225283:
+  checked: '2026-11-07'
+  degree:
+    value: 物理（粒子、凝聚态、计算或材料物理）或相近领域硕士
+    quote: degree in physics (particle, condensed-matter, computational or materials physics) or a closely related field
+  language:
+    value: 英语沟通良好
+    quote: good English communication skills
+  start:
+    value: 2027 年 3 月或更早
+    quote: available from March 2027 or earlier
+  duration:
+    value: 项目资助覆盖前 24 个月
+    quote: Project funding covers the first 24 months.
+  apply_via:
+    value: 邮件：marek.matas@fjfi.cvut.cz
+    quote: 'to Dr. Marek Matas: marek.matas@fjfi.cvut.cz'
+  supervisor:
+    value: Marek Matas 博士
+    quote: Day-to-day supervision will be provided by Dr. Marek Matas
+  llm: '2026-11-07'
+inspire:3225295:
+  checked: '2026-11-07'
+  start:
+    value: 2027 年 9 月
+    quote: starting in September 2027
+  duration:
+    value: 3 年
+    quote: for a period of 3 years
+  documents:
+    value: 简历、研究陈述、论文列表、3 封推荐信
+    quote: The requested documents are a Curriculum Vitae, a Research statement, a Publication list and 3 reference letters.
+  apply_via:
+    value: 在线系统：通过欧洲联合理论高能物理博士后申请网站提交
+    quote: Interested applicants should submit their application via the Joint European Postdoc Application in Theoretical High Energy Physics on the following website
+  llm: '2026-11-07'
+inspire:3225395:
+  checked: '2026-11-07'
+  start:
+    value: 2027 年 9 月
+    quote: fully-funded PhD studentships starting in September 2027
+  nationality:
+    value: 名额可提供给缴纳本国（Home）学费或国际学费的学生
+    quote: These places can be offered to students paying home or international fees.
+  llm: '2026-11-07'
+inspire:3225396:
+  checked: '2026-11-07'
+  duration:
+    value: 2 年（之后可能延长至三年）
+    quote: The appointment is for a period of two years. (Later extension to three years is possible.)
+  start:
+    value: 预计 2027 年秋季
+    quote: The positions are expected to be filled in the fall of 2027
+  documents:
+    value: 求职信、简历、研究陈述、发表列表、两或三封推荐信
+    quote: Cover Letter Curriculum Vitae Research Statement Publication List Two or three Reference Letters (to be submitted by the reference writer)
+  apply_via:
+    value: 在线系统：Academic Jobs Online
+    quote: All materials should be submitted online using the Academic Jobs Online website
+  llm: '2026-11-07'
+inspire:3225405:
+  checked: '2026-11-07'
+  duration:
+    value: 初始 2 年，可能延长至 3 年
+    quote: The jobs will initially be for 2 years with a potential extension to 3 years.
+  apply_via:
+    value: 邮件：zuendorf@uni-bonn.de
+    quote: should be sent as a single PDF file via email to Patricia Zündorf ( zuendorf@uni-bonn.de )
+  llm: '2026-11-07'
+inspire:3225407:
+  checked: '2026-11-07'
+  degree:
+    value: 物理或密切相关领域博士学位（B 类要求，入职时已获得）
+    quote: 'Requirements Category B: PhD in Physics or a closely related field at the start of the fellowship.'
+  duration:
+    value: 最长 3 年
+    quote: These are positions with up to 3-year duration
+  start:
+    value: 2027 年 3 月至 10 月，时间灵活
+    quote: a flexible starting date, from Mar to Oct 2027
+  documents:
+    value: 研究陈述（最多 3 页）、含发表列表的简历、两封推荐信
+    quote: Applications should include a research statement (up to 3-pages), your CV with publication list, and two recommendation letters
+  apply_via:
+    value: 在线系统：Academic Jobs Online
+    quote: 'How to apply: Academic Jobs Online'
+  llm: '2026-11-07'
+inspire:3225439:
+  checked: '2026-11-07'
+  supervisor:
+    value: Innes Bigaran 助理教授
+    quote: to work with Assistant Professor Innes Bigaran
+  duration:
+    value: 初始资助两年，预计可续第三年
+    quote: The position is initially funded for two years, with an anticipated renewal for a third year
+  llm: '2026-11-07'
 jobbnorge:286892:
   checked: '2026-10-22'
   start:
@@ -37490,7 +38401,7 @@ jobbnorge:310655:
     quote: Application with attachments must be submitted via our recruitment system Jobbnorge
   llm: '2026-10-25'
 jobbnorge:310667:
-  checked: '2026-10-31'
+  checked: '2026-11-07'
   error: 读取失败 HTTPError
 jobbnorge:310679:
   checked: '2026-10-28'
@@ -38148,6 +39059,24 @@ jobbnorge:311253:
     value: Tine Ustad Figenschou（项目负责人）
     quote: Prosjektleder Tine Ustad Figenschou
   llm: '2026-11-06'
+jobbnorge:311254:
+  checked: '2026-11-07'
+  degree:
+    value: 心理学家、医生或其他医疗专业人员，具有相应硕士学位
+    quote: du må være utdannet psykolog, lege eller annet helsepersonell med tilsvarende mastergrad
+  language:
+    value: 挪威语和英语口头与书面表达都要好，至少 C1 或 C2 水平
+    quote: god muntlig og skriftlig fremstillingsevne i både norsk og engelsk tilsvarende minst nivå C1 eller C2
+  duration:
+    value: 3 年
+    quote: Ansettelsesperioden er 3år.
+  documents:
+    value: 简历、简短动机信（400 词/1 页）、本科与硕士成绩单和文凭、硕士论文副本
+    quote: 'Søknaden må inneholde: utfylt CV i Jobbnorge kort motivasjonsbrev (400 ord/1 side) karakterutskrifter og vitnemål for bachelor- og mastergrad kopi av masteroppgave/hovedoppgave.'
+  supervisor:
+    value: Ramune Grambaite 副教授（主导师）
+    quote: Hovedveileder vil være førsteamanuensis Ramune Grambaite
+  llm: '2026-11-07'
 jobbnorge:311283:
   checked: '2026-11-06'
   degree:
@@ -38184,6 +39113,26 @@ jobbnorge:311332:
     value: 在线系统：上传至 Jobbnorge
     quote: The application and appendices with certified translations into English or a Scandinavian language must be uploaded at Jobbnorge.
   llm: '2026-11-06'
+jobbnorge:311353:
+  checked: '2026-11-07'
+  degree:
+    value: 心理学相关硕士学位或同等学位
+    quote: degree in psychology or equivalent
+  language:
+    value: 英语口头与书面表达良好
+    quote: Good oral and written presentation skills in English
+  duration:
+    value: 3 年
+    quote: The employment period is 3 years for the doctoral work.
+  documents:
+    value: 本科与硕士成绩单和文凭、简历、硕士论文副本、可选的发表与证书、三位推荐人姓名与联系方式
+    quote: 'The application must include: Transcripts and diplomas for Bachelor''s and Master''s degrees CV Copy of Master''s thesis. If you have recently submitted your Master''s thesis, you can attach
+      a draft of the thesis. Documentation of a completed Master''s degree must be presented before taking up the position. Possibly publications etc. other relevant research work Possibly certificates
+      Names and contact information of three relevant referees'
+  apply_via:
+    value: 在线系统：通过 Jobbnorge 提交
+    quote: The application and all attachments must be sent electronically via Jobbnorge.no.
+  llm: '2026-11-07'
 jobs-ac-uk:DSP806:
   checked: '2026-10-19'
   nationality:
@@ -46500,6 +47449,18 @@ jobs-ac-uk:DTN868:
     value: 36 个月，全职
     quote: 'Contract: 36 months, full-time'
   llm: '2026-11-06'
+jobs-ac-uk:DTN873:
+  checked: '2026-11-07'
+  start:
+    value: 2027 年 8 月
+    quote: This is a 3-year post (start date August 2027)
+  duration:
+    value: 3 年
+    quote: This is a 3-year post (start date August 2027)
+  nationality:
+    value: 该职位可能符合英国 UKVI 技术工人途径的签证担保（视个人情况）
+    quote: This role may be eligible for sponsorship under the Skilled Worker route under the UKVI immigration rules
+  llm: '2026-11-07'
 jobs-ac-uk:DTN879:
   checked: '2026-11-06'
   degree:
@@ -46521,6 +47482,18 @@ jobs-ac-uk:DTN902:
     value: 在线系统：点击申请按钮在线申请
     quote: For full details and to apply online, please click on the apply button above.
   llm: '2026-11-06'
+jobs-ac-uk:DTN904:
+  checked: '2026-11-07'
+  degree:
+    value: 健康、医学或生物信息学、流行病学、数据科学或相关学科博士学位
+    quote: You will have a PhD in health, medical or bio-informatics, epidemiology, data sciences, or a related subject
+  documents:
+    value: 在线申请表、含发表清单的完整简历、求职信
+    quote: Please complete the online application form, and attach a complete CV inclusive of publication list, as well as a cover letter
+  apply_via:
+    value: 在线系统：填写在线申请表
+    quote: Please complete the online application form
+  llm: '2026-11-07'
 jobs-ac-uk:DTN912:
   checked: '2026-11-06'
   degree:
@@ -46545,6 +47518,40 @@ jobs-ac-uk:DTN935:
 jobs-ac-uk:DTN937:
   checked: '2026-11-06'
   error: 正文太短
+jobs-ac-uk:DTN965:
+  checked: '2026-11-07'
+  degree:
+    value: 心血管研究方向博士学位（或接近完成）
+    quote: A PhD (or near completion) in cardiovascular research
+  duration:
+    value: 9 个月
+    quote: seeking a post-doctoral researcher for a 9-month funded post
+  supervisor:
+    value: Jason Johnson 教授
+    quote: within the research group of Professor Jason Johnson
+  llm: '2026-11-07'
+jobs-ac-uk:DTN977:
+  checked: '2026-11-07'
+  nationality:
+    value: 资助对象：英国学生、欧盟学生、国际学生
+    quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 一等荣誉 MEng/MSci 或更高学位（或国际同等），专业为航空、物理、应用数学、机械工程或相近工程/物理科学
+    quote: 'Candidates will be expected to achieve/have achieved a First class honours MEng/MSci or higher degree (or international equivalent) in: Aeronautics, Physics, Applied Mathematics, Mechanical
+      Engineering, or a closely related engineering or physical science subject.'
+  start:
+    value: 2027 年 8 月 1 日至 2028 年 7 月 1 日之间
+    quote: 'Start Date: Between 1 August 2027 and 1 July 2028'
+  duration:
+    value: 3.5 年
+    quote: 'Duration: 3.5 years'
+  supervisor:
+    value: Dr Tian Chen
+    quote: 'Supervisor: Dr Tian Chen'
+  apply_via:
+    value: 其他：访问项目页面查看申请说明
+    quote: 'How to apply: Visit Programmable matter from entangled architected materials for important application instructions.'
+  llm: '2026-11-07'
 jobs-ac-uk:DTN987:
   checked: '2026-11-06'
   nationality:
@@ -46623,6 +47630,18 @@ jobs-ac-uk:DTO011:
     value: 在线系统：点击申请按钮在线申请
     quote: For full details and to apply online, please click on the apply button above
   llm: '2026-11-06'
+jobs-ac-uk:DTO016:
+  checked: '2026-11-07'
+  degree:
+    value: 物理化学或物理博士学位
+    quote: early career researcher with a Ph.D. in Physical Chemistry or Physics
+  duration:
+    value: 无固定期限合同，资助至 2029 年 12 月 31 日
+    quote: Open-ended with fixed funding until 31/12/2029
+  supervisor:
+    value: Basile Curchod 教授（项目负责人）
+    quote: The project is led by Prof Basile Curchod
+  llm: '2026-11-07'
 jobs-ac-uk:DTO018:
   checked: '2026-11-06'
   nationality:
@@ -46684,6 +47703,12 @@ jobs-ac-uk:DTO073:
     value: 免疫学、感染生物学、微生物学或相关学科博士（或接近完成）
     quote: A PhD (or near completion) in Immunology, Infection Biology, Microbiology, or a related discipline
   llm: '2026-11-06'
+jobs-ac-uk:DTO082:
+  checked: '2026-11-07'
+  duration:
+    value: 全职固定期限 18 个月
+    quote: undertake this full-time fixed term appointment for 18 months
+  llm: '2026-11-07'
 jobs-ac-uk:DTO086:
   checked: '2026-11-06'
   nationality:
@@ -46758,6 +47783,15 @@ jobs-ac-uk:DTO125:
     value: Edward Gryspeerdt 博士、Oliver Buxton 教授
     quote: 'Supervisors: Dr Edward Gryspeerdt, Professor Oliver Buxton'
   llm: '2026-11-06'
+jobs-ac-uk:DTO128:
+  checked: '2026-11-07'
+  degree:
+    value: 天文、物理、电气工程、应用数学、计算机或相关学科博士（或接近完成）
+    quote: We are seeking outstanding candidates with a PhD, or close to completion, in astronomy, physics, electrical engineering, applied mathematics, computer science or a related discipline.
+  duration:
+    value: 初始 1 年，可续至最长三年
+    quote: Appointments will typically be for an initial period of 1 year, with the possibility of renewal for up to three years
+  llm: '2026-11-07'
 jobs-ac-uk:DTO134:
   checked: '2026-11-06'
   nationality:
@@ -46834,6 +47868,181 @@ jobs-ac-uk:DTO155:
     value: Marc Stettler 教授、Sebastian Eastham 博士
     quote: 'Supervisors: Professor Marc Stettler, Dr Sebastian Eastham'
   llm: '2026-11-06'
+jobs-ac-uk:DTO272:
+  checked: '2026-11-07'
+  degree:
+    value: 免疫学或微生物学相关博士学位（或接近完成），或同等博士水平资历
+    quote: A PhD relevant in immunology or microbiology (or near completion), or equivalent PhD level qualifications.
+  duration:
+    value: 固定期限合同，至 2030 年 12 月
+    quote: Fixed Term Contract up to December 2030
+  apply_via:
+    value: 在线系统：通过“Apply”按钮在线提交
+    quote: To download the full job description and details of this position and submit an electronic application online
+  llm: '2026-11-07'
+jobs-ac-uk:DTO278:
+  checked: '2026-11-07'
+  degree:
+    value: 免疫学或微生物学相关博士学位（或接近完成），或同等博士水平资历
+    quote: A PhD relevant in immunology or microbiology (or near completion), or equivalent PhD level qualifications.
+  duration:
+    value: 固定期限合同，至 2030 年 12 月
+    quote: Fixed Term Contract up to December 2030
+  apply_via:
+    value: 在线系统：通过“Apply”按钮在线提交
+    quote: To download the full job description and details of this position and submit an electronic application online
+  llm: '2026-11-07'
+jobs-ac-uk:DTO314:
+  checked: '2026-11-07'
+  degree:
+    value: 高分子化学博士学位
+    quote: Applicants should have a PhD in Polymer Chemistry
+  duration:
+    value: 最长 2 年
+    quote: for a period of up to 2 years
+  supervisor:
+    value: Matthew Davidson 教授
+    quote: to work with Professor Matthew Davidson
+  llm: '2026-11-07'
+jobs-ac-uk:DTO352:
+  checked: '2026-11-07'
+  llm: '2026-11-07'
+jobs-ac-uk:DTO353:
+  checked: '2026-11-07'
+  degree:
+    value: 早期近代史、奥斯曼史或伊斯兰艺术史博士（或即将完成）
+    quote: You hold, or are close to completing, a PhD/DPhil in early modern history, Ottoman history, or Islamic art history
+  language:
+    value: 土耳其语和奥斯曼土耳其语水平优秀
+    quote: You have excellent knowledge of Turkish and Ottoman Turkish
+  duration:
+    value: 2 年 + 1 年（24 个月，视项目进展可再延长一年）
+    quote: Fixed-term 2 years + 1 year (24 months with the possibility of extending it for one additional year subject to project progress)
+  documents:
+    value: 简历、支持陈述、写作样本、两位推荐人信息
+    quote: upload a CV, a supporting statement, a sample of written work, and the details of two referees as part of your online application
+  apply_via:
+    value: 在线系统：在线申请时上传材料
+    quote: upload a CV, a supporting statement, a sample of written work, and the details of two referees as part of your online application
+  llm: '2026-11-07'
+jobs-ac-uk:DTO354:
+  checked: '2026-11-07'
+  degree:
+    value: 相关博士学位（或同等资历/经验），须在入职前获得
+    quote: A relevant PhD (or equivalent qualification/experience) awarded prior to commencing the appointment
+  duration:
+    value: 初始 4 年
+    quote: Each Fellowship is for an initial four-year period
+  documents:
+    value: 简历（2 页）、研究计划（2 页）、学术影响陈述（1 页）、战略契合陈述（1 页）
+    quote: Curriculum Vitae (2 pages) Please also upload your Research Proposal (2 pages), Academic Impact Statement (1 page) and Statement of Strategic Fit (1 page)
+  apply_via:
+    value: 在线系统：通过申请表提交
+    quote: Applications should be submitted via the application form
+  llm: '2026-11-07'
+jobs-ac-uk:DTO374:
+  checked: '2026-11-07'
+  degree:
+    value: 相关博士学位（或同等资历/经验），须在入职前获得
+    quote: A relevant PhD (or equivalent qualification/experience) awarded prior to commencing the appointment
+  duration:
+    value: 48 个月
+    quote: 'Contract Duration: 48 Months'
+  llm: '2026-11-07'
+jobs-ac-uk:DTO389:
+  checked: '2026-11-07'
+  nationality:
+    value: 资助对象：英国学生、欧盟学生、国际学生
+    quote: 'Funding for: UK Students, EU Students, International Students'
+  degree:
+    value: 硕士学位，且已完成 240 ECTS 学分的大学学习
+    quote: A master’s degree, and 240 completed ECTS credits of university studies.
+  language:
+    value: 英语口语和写作水平很高
+    quote: Very high proficiency in English, in speech and writing.
+  start:
+    value: 2027 年春季，具体日期协商确定
+    quote: The PhD students will start in spring 2027, date to be agreed.
+  duration:
+    value: 4 年全职博士职位
+    quote: We announce two four-year, full-time PhD candidate positions
+  documents:
+    value: 介绍信（≤800 词）、简历（2 页）、研究计划（5 页内、2000 词内）、学位证书、硕士论文及 500 词摘要、两位推荐人
+    quote: Letter of introduction (max 800 words), which contains a presentation of yourself and your qualifications as well as a brief explanation of why you are interested in the PhD programme at the
+      Department of Business Administration. Curriculum Vitae (2 pages) Research plan of no more than 5 pages (max 2,000 words) stating the topic to be investigated, its positioning within entrepreneurship
+      research, and the sources of data and methodology the candidate aims to use. The topic should be specific and clearly located within one of the two projects listed in the subject area section (see
+      above). Please indicate which project the plan addresses. Degree certificates of your Bachelor’s and Master’s degrees A copy of your Master’s thesis An executive summary (500 words) of your Master’s
+      thesis The names and contact information of two references, preferably active in academia.
+  apply_via:
+    value: 邮件：发送至 application@fek.lu.se
+    quote: 'sent as one pdf file to: application@fek.lu.se'
+  llm: '2026-11-07'
+jobs-ac-uk:DTO408:
+  checked: '2026-11-07'
+  degree:
+    value: 材料科学或相关工程/物理科学领域博士学位（或接近完成）
+    quote: a doctorate (or be near completion) in materials science or a relevant engineering or physical sciences discipline
+  duration:
+    value: 1.5 年
+    quote: The post will be for 1.5 year
+  documents:
+    value: 简历、支持陈述
+    quote: You will be required to upload a CV and a Supporting Statement as part of your application.
+  apply_via:
+    value: 在线系统：通过牛津大学招聘系统提交
+    quote: All applications must be made online using the Oxford University E-Recruitment system
+  llm: '2026-11-07'
+jobs-ac-uk:DTO418:
+  checked: '2026-11-07'
+  degree:
+    value: 纯数学或理论物理博士（入职前获得或即将完成）
+    quote: Ph.D. in pure mathematics or theoretical physics (to be awarded or almost completed before taking up the post)
+  start:
+    value: 2027 年 7 月 1 日前后
+    quote: will start on or around 1 st July 2027
+  duration:
+    value: 1-2 年，有可能延长
+    quote: Fixed term for between 1-2 years with the possibility of extension
+  llm: '2026-11-07'
+jobs-ac-uk:DTO422:
+  checked: '2026-11-07'
+  degree:
+    value: 神经科学或相近领域博士学位（或接近完成），需有相关研究经验
+    quote: You will have or to be close to completion of a relevant(PhD/DPhil ) in neuroscience or a closely related field with relevant research experience.
+  duration:
+    value: 资助 18 个月
+    quote: The post is funded for 18 months
+  documents:
+    value: 求职信/支持陈述、简历、两位推荐人信息
+    quote: You will be required to upload a covering letter/supporting statement, CV and the details of two referees as part of your online application.
+  llm: '2026-11-07'
+jobs-ac-uk:DTO461:
+  checked: '2026-11-07'
+  supervisor:
+    value: Dr Beatriz Salvador
+    quote: in collaboration with and under the supervision of Dr Beatriz Salvador
+  llm: '2026-11-07'
+jobs-ac-uk:DTO491:
+  checked: '2026-11-07'
+  nationality:
+    value: 资助对象：英国学生、国际学生
+    quote: 'Funding for: UK Students, International Students'
+  llm: '2026-11-07'
+jobs-ac-uk:DTO516:
+  checked: '2026-11-07'
+  nationality:
+    value: 资助对象：英国学生、国际学生
+    quote: 'Funding for: UK Students, International Students'
+  llm: '2026-11-07'
+jobs-ac-uk:DTO564:
+  checked: '2026-11-07'
+  degree:
+    value: 公共卫生、流行病学、证据综合、定量方法、食品政策或相关领域博士学位
+    quote: You will hold a PhD in public health, epidemiology, evidence synthesis, quantitative methods, food policy or a related field
+  duration:
+    value: 首期资助 1 年
+    quote: funded for 1 year in the first instance
+  llm: '2026-11-07'
 linguistlist:37-2858:
   checked: '2026-10-20'
   degree:
@@ -48353,6 +49562,24 @@ mathjobs:29422:
     value: 在线系统
     quote: Applications for this vacancy are to be made online
   llm: '2026-11-05'
+mathjobs:29446:
+  checked: '2026-11-07'
+  degree:
+    value: 须在入职前完成博士学位的全部要求
+    quote: Candidates must have completed all requirements for a PhD before the start date of the position.
+  start:
+    value: 2027 年 7 月 1 日（经批准可推迟）
+    quote: 'Expected start date : July 1, 2027 A later start date can be negotiated pending approval.'
+  duration:
+    value: 1 至 3 年
+    quote: The duration of the appointment runs from one to three years pending approval from the supervisor.
+  documents:
+    value: 求职信、简历、研究陈述、教学陈述、论文列表、教学档案（可选）、三封以上推荐信
+    quote: Cover letter • Curriculum Vitae • Research statement • Teaching statement • Publication list • Teaching Dossier (optional) • Three or more reference letters
+  apply_via:
+    value: 在线系统：MathJobs
+    quote: Applicants should submit their materials on MathJobs
+  llm: '2026-11-07'
 naturecareers:12859054:
   checked: '2026-10-19'
   apply_via:
@@ -56068,6 +57295,32 @@ oracle:CX_1-efzu-8538:
     value: 在线系统
     quote: fill out the online application form
   llm: '2026-11-06'
+oracle:CX_1-efzu-8548:
+  checked: '2026-11-07'
+  degree:
+    value: 材料科学、物理、化学或相关领域两年制硕士学位（120 ECTS）或同等水平学位
+    quote: You must have a two-year master’s degree (120 ECTS points) or a similar degree with an academic level equivalent to a two-year master’s degree in materials science, physics, chemistry, or a related
+      field.
+  language:
+    value: 英语书面和口语沟通清晰
+    quote: Communicate clearly in written and spoken English
+  start:
+    value: 2027 年 2 月 1 日或协商
+    quote: Starting date is 1 February 2027 (or according to mutual agreement).
+  duration:
+    value: 3 年
+    quote: The period of employment is 3 years.
+  documents:
+    value: 求职信、简历、成绩单与学士/硕士学位证书（英文，含评分标准说明）、一页问答文件（五个问题）
+    quote: 'The file must include: A letter motivating the application (cover letter) Curriculum vitae Grade transcripts and BSc/MSc diploma (in English) including official description of grading scale
+      A 1-page document where you answer these five questions'
+  apply_via:
+    value: 在线系统：填写在线申请表并把全部材料合并为一个 PDF 上传
+    quote: fill out the online application form, and attach all your materials in English in one PDF file
+  supervisor:
+    value: Søren Bredmose Simonsen 副教授（主导师）
+    quote: Associate Professor Søren Bredmose Simonsen (main supervisor)
+  llm: '2026-11-07'
 oracle:CX_1-efzu-8549:
   checked: '2026-11-06'
   degree:
@@ -56105,6 +57358,51 @@ oracle:CX_1-efzu-8552:
     value: Thomas Christensen 副教授
     quote: The project will be supervised by Assoc. Prof. Thomas Christensen
   llm: '2026-11-06'
+oracle:CX_1-efzu-8556:
+  checked: '2026-11-07'
+  degree:
+    value: 博士学位（或同等）
+    quote: As a formal qualification, you must hold a PhD degree (or equivalent).
+  duration:
+    value: 2 年
+    quote: The period of employment is 2 years.
+  apply_via:
+    value: 在线系统：填写在线申请表并把全部材料合并为一个 PDF 上传
+    quote: fill out the online application form, and attach all your materials in English in one PDF file
+  documents:
+    value: 求职信、简历、学位证书（硕士/博士，英文）、论文发表清单
+    quote: 'The file must include: Application (cover letter) CV Academic Diplomas (MSc/PhD – in English) List of publications'
+  llm: '2026-11-07'
+oracle:CX_1-efzu-8558:
+  checked: '2026-11-07'
+  degree:
+    value: 物理、应用物理、应用数学或相近学科博士学位
+    quote: As a formal qualification, you must hold a PhD degree in Physics, Applied Physics, Applied Mathematics or similar.
+  duration:
+    value: 2 年
+    quote: The period of employment is 2 years.
+  documents:
+    value: 求职信、简历、学位证书（硕士/博士，英文）、论文列表
+    quote: 'The file must include: Application (cover letter) CV Academic Diplomas (MSc/PhD – in English) List of publications'
+  apply_via:
+    value: 在线系统：填写在线申请表并上传材料
+    quote: To apply, please open the link "Apply now", fill out the online application form
+  llm: '2026-11-07'
+oracle:CX_1-efzu-8559:
+  checked: '2026-11-07'
+  degree:
+    value: 两年制硕士学位（120 ECTS）或同等水平学位
+    quote: As a formal qualification, you must hold a two-year master’s degree (120 ECTS points), or a similar degree with an academic level equivalent to a two-year master’s degree.
+  duration:
+    value: 3 年
+    quote: The period of employment is 3 years.
+  documents:
+    value: 求职信、简历、成绩单与学士/硕士学位证书（英文，含官方评分标准说明）
+    quote: 'The file must include: A letter motivating the application (cover letter) Curriculum vitae Grade transcripts and BSc/MSc diploma (in English) including official description of grading scale'
+  apply_via:
+    value: 在线系统：填写在线申请表并把全部材料合并为一个 PDF 上传
+    quote: fill out the online application form, and attach all your materials in English in one PDF file
+  llm: '2026-11-07'
 oracle:CX_1001-elxw-15015:
   checked: '2026-10-22'
   degree:
@@ -56838,6 +58136,68 @@ oracle:CX_1001-fa-eosd-saasfaprod1-4414:
     value: 在线系统：通过“Apply now”链接提交
     quote: Applications should be sent electronically via the link "Apply now".
   llm: '2026-10-31'
+oracle:CX_1001-fa-eosd-saasfaprod1-4425:
+  checked: '2026-11-07'
+  degree:
+    value: 纯数学或应用数学、计算机科学或理论物理博士学位
+    quote: The candidates must have a PhD degree in pure or applied mathematics, computer science or theoretical physics and a strong research record.
+  language:
+    value: 须流利使用英语
+    quote: Fluency in English is required.
+  duration:
+    value: 2–3 年
+    quote: fill a number of 2-3-year postdotoral positions in quantum algorithms and quantum software
+  start:
+    value: 2027 年 8 月 1 日，或其后尽快
+    quote: The targeted starting date of the position is 01.08.2027 , or as soon as possible thereafter
+  documents:
+    value: 详细简历、学位证书（硕士与博士，丹麦语或英语）、研究陈述、发表列表、2 封以上推荐信
+    quote: Detailed Curriculum Vitae • Certificates/Diplomas (MSc and PhD) - Danish or English • Research Statement • List of publications 2 or more letters of recommendation
+  apply_via:
+    value: 在线系统：通过 Apply Online 链接上传
+    quote: Your application including the required attachments must be uploaded through the link
+  llm: '2026-11-07'
+oracle:CX_1001-fa-eosd-saasfaprod1-4426:
+  checked: '2026-11-07'
+  degree:
+    value: 已获博士学位或同等资历
+    quote: To qualify you must have passed a PhD or equivalent.
+  language:
+    value: 须流利使用英语
+    quote: Fluency in English is required.
+  duration:
+    value: 2–3 年
+    quote: fill a number of 2-3-year postdoctoral positions in Quantum Mathematics
+  start:
+    value: 2027 年 8 月 1 日，或其后尽快
+    quote: The targeted starting date of the position is 01.08.2027 , or as soon as possible thereafter
+  documents:
+    value: 简历（含雇佣起止日期）、完整发表列表、博士学位证书（未获得则附导师说明）、2 封以上推荐信
+    quote: A curriculum vitae including information on previous employment with start and end dates A full list of publications stating the scientific publications on which the applicant wishes to rely
+      Copy of PhD diploma, if Phd diploma has not yet been received, please include statement from your supervisor 2 or more letters of recommendation
+  apply_via:
+    value: 在线系统：通过 Apply now 链接提交
+    quote: Applications must be submitted electronically using the link
+  llm: '2026-11-07'
+oracle:CX_1001-fa-eosd-saasfaprod1-4430:
+  checked: '2026-11-07'
+  language:
+    value: 必须精通一门斯堪的纳维亚语言
+    quote: Candidates must be fluent in a Scandinavian language.
+  start:
+    value: 2027 年 2 月 1 日或之后尽快
+    quote: to be filled by February 1, 2027, or as soon as possible thereafter
+  duration:
+    value: 2 年
+    quote: invites applications for a 2-year postdoc
+  documents:
+    value: 详细简历、硕士和博士学位证书、完整论文清单、最多 3 篇最相关论文
+    quote: The application must include Detailed CV including personal contact information Certificates/Diplomas (Master and PhD degree). Complete list of publications, indicating which publications are
+      most relevant for the position. Up to 3 of the most relevant publications.
+  apply_via:
+    value: 在线系统：通过 apply online 链接在线提交
+    quote: Applications should be sent electronically via the link
+  llm: '2026-11-07'
 pageup:jobs.hku.hk-537663:
   checked: '2026-11-05'
   degree:
@@ -57479,6 +58839,18 @@ physicstoday:42047366:
     value: 化工、化学、高分子科学、冶金或相关领域博士
     quote: Ph.D. in Chemical Engineering, Chemistry, Polymer Science, Metallurgy or related field
   llm: '2026-11-05'
+physicstoday:42048690:
+  checked: '2026-11-07'
+  degree:
+    value: 理论粒子物理或相近领域博士学位
+    quote: PhD in theoretical particle physics or closely related field
+  duration:
+    value: 2 年聘期，可能续聘
+    quote: This is a two-year appointment with potential renewal
+  supervisor:
+    value: Innes Bigaran 助理教授
+    quote: under Assistant Professor Innes Bigaran
+  llm: '2026-11-07'
 psi:75291:
   checked: '2026-10-19'
   degree:
@@ -58140,6 +59512,31 @@ reachmee:I003-304-15166:
     value: 在线系统：通过页面底部按钮进入申请表
     quote: Use the button at the foot of the page to reach the application form.
   llm: '2026-11-05'
+reachmee:I003-304-15173:
+  checked: '2026-11-07'
+  degree:
+    value: 材料科学/工程、化学、物理或相关学科博士学位
+    quote: A doctoral degree in Materials Science/Engineering, Chemistry, Physics, or related discipline.
+  language:
+    value: 英语书面和口语沟通能力强
+    quote: Strong written and verbal communication skills in English
+  start:
+    value: 2027 年初
+    quote: Expected start date is early 2027.
+  duration:
+    value: 2 年全职
+    quote: The position is a temporary full-time employment for two years.
+  documents:
+    value: 完整简历（含论文列表）、个人信（自我介绍、以往研究总结、未来目标与研究重点）
+    quote: CV A comprehensive CV, including a complete list of publications. Personal letter A brief introduction about yourself. A summary of your previous research fields and key research outcomes. An
+      outline of your future goals and research focus.
+  apply_via:
+    value: 在线系统：通过页面底部按钮进入申请表
+    quote: Use the button at the foot of the page to reach the application form.
+  nationality:
+    value: 入职时须出示有效居留许可，否则录用可能被撤回
+    quote: A valid residence permit must be presented by the start date, otherwise the offer may be withdrawn.
+  llm: '2026-11-07'
 sciencecareers:679519:
   checked: '2026-10-19'
   degree:
@@ -59363,6 +60760,31 @@ sciencecareers:681140:
     value: 该岗位不为需要移民担保的学者提供 H-1B 签证担保
     quote: For this position, Brown does not sponsor the H-1B visa classification to scholars who need immigration sponsorship to enter the U.S. and commence lawful employment under the terms of their appointment.
   llm: '2026-11-06'
+sciencecareers:681158:
+  checked: '2026-11-07'
+  degree:
+    value: 相关硕士学位（或同等），且有资格在host大学注册博士
+    quote: 'Enrolment : Applicants must hold a relevant Master’s degree (or equivalent) and be eligible for doctoral enrolment at the host university.'
+  language:
+    value: 英语口语与书面熟练
+    quote: Proficiency in written and spoken English
+  duration:
+    value: 36 个月全职合同
+    quote: Doctoral Candidate positions (f/m/x, full-time, 36 months)
+  start:
+    value: 2027 年 7 月至 10 月
+    quote: Start dates will fall between July and Oct 2027
+  apply_via:
+    value: 在线系统：仅通过申请门户
+    quote: Applications are accepted exclusively through our Application Portal
+  documents:
+    value: 简历（最多 2 页）、高中证书及本硕学历与成绩证明、英语能力证明、动机信（最多 1 页）
+    quote: A Curriculum Vitae (CV), preferably in an Europass format (max. 2 pages, font size 11). High school certificate, as well as academic records and certificates of completed BSc and MSc/MD. A valid
+      English language certificate or another proof of English proficiency. A motivation letter (up to 1 page, font size 11)
+  nationality:
+    value: 招聘前 36 个月内在招聘国居住或主要活动不得超过 12 个月（流动性规则）
+    quote: 'Mobility Rule : Maximum 12 months’ residence or main activity in the recruitment country during the 36 months before recruitment'
+  llm: '2026-11-07'
 soton:ai-driven-design-of-smart-multifunctional-metamaterials-for:
   checked: '2026-11-05'
   degree:
@@ -61394,6 +62816,24 @@ successfactors:tudelft-1373414457:
     value: Rita Esposito 博士、Francesco Messali 博士
     quote: under the supervision of Dr Rita Esposito and Dr Francesco Messali
   llm: '2026-10-19'
+successfactors:tudelft-1373442857:
+  checked: '2026-11-07'
+  degree:
+    value: 航空航天或航空工程硕士，或机械工程、（应用）数学、计算机科学硕士
+    quote: MSc Degree in Aerospac.e Engineering or Aeronautical Engineering, or an MSc Degree in Mechanical Engineering, (Applied) Mathematics or Computer Science
+  language:
+    value: 英语沟通能力强
+    quote: Strong communication skills in English.
+  duration:
+    value: 原则上 4 年雇佣期
+    quote: Doctoral candidates will be offered a 4-year period of employment in principle
+  documents:
+    value: 简历、动机信、课程成绩汇总
+    quote: 'upload the following documents: CV. Motivational letter. Course grade summary.'
+  apply_via:
+    value: 在线系统：仅接受在线申请，不处理邮件或邮寄申请
+    quote: You can apply online. We will not process applications sent by email and/or post.
+  llm: '2026-11-07'
 successfactors:tudelft-1373554557:
   checked: '2026-10-31'
   degree:
@@ -61658,6 +63098,31 @@ successfactors:tudelft-1374410057:
     value: Georgios Varnavides 博士（项目负责人）
     quote: an ERC Starting Grant project led by Dr. Georgios Varnavides
   llm: '2026-10-19'
+successfactors:tudelft-1374410357:
+  checked: '2026-11-07'
+  degree:
+    value: 物理、应用物理、电气工程、机械工程、材料科学、计算机科学或相近领域硕士（或同等学历）
+    quote: An MSc degree, or equivalent, in physics, applied physics, electrical engineering, mechanical engineering, materials science, computer science, or a closely related field.
+  language:
+    value: 英语书面和口语沟通能力良好
+    quote: Good written and spoken English communication skills.
+  start:
+    value: 2027 年，具体日期有一定灵活性
+    quote: You are available to start in 2027, with some flexibility around the exact start date.
+  duration:
+    value: 原则上 4 年雇佣期
+    quote: Doctoral candidates will be offered a 4-year period of employment in principle
+  documents:
+    value: 动机信、简历、硕士论文摘要（或同等研究概述）、本科成绩单
+    quote: A motivation letter describing your research interests and experience. Your CV - if the applicants are selected for an interview, they will be asked to provide contact details of at least 3 referees
+      with their consent. Your MSc thesis abstract (or equivalent research summary). Transcript of your Bachelor degree.
+  apply_via:
+    value: 在线系统：仅接受在线申请，不处理邮件或邮寄申请
+    quote: You can apply online. We will not process applications sent by email and/or post.
+  supervisor:
+    value: Dr. Georgios Varnavides（项目负责人）
+    quote: an ERC Starting Grant project led by Dr. Georgios Varnavides
+  llm: '2026-11-07'
 successfactors:tudelft-1374434457:
   checked: '2026-10-19'
   degree:
@@ -61676,6 +63141,21 @@ successfactors:tudelft-1374434457:
     value: 在线系统：通过申请按钮在线提交，不受理邮件或邮寄申请
     quote: You can apply online. We will not process applications sent by email and/or post.
   llm: '2026-10-19'
+successfactors:tudelft-1374450357:
+  checked: '2026-11-07'
+  degree:
+    value: （应用）物理或工程领域硕士或同等学历
+    quote: Masters or equivalent in (applied) physics or engineering
+  language:
+    value: 英语；需达到一定水平（以研究生院入学要求为准）
+    quote: Doing a PhD at TU Delft requires English proficiency at a certain level to ensure that the candidate is able to communicate and interact well
+  duration:
+    value: 原则上 4 年雇佣期
+    quote: Doctoral candidates will be offered a 4-year period of employment in principle
+  apply_via:
+    value: 在线系统：仅接受在线申请，不处理邮件或邮寄申请
+    quote: You can apply online. We will not process applications sent by email and/or post.
+  llm: '2026-11-07'
 successfactors:tudelft-1374588357:
   checked: '2026-10-25'
   degree:
@@ -62057,6 +63537,27 @@ successfactors:tudelft-1376805157:
     value: 在线系统：通过申请按钮
     quote: via the application button
   llm: '2026-11-06'
+successfactors:tudelft-1376933957:
+  checked: '2026-11-07'
+  degree:
+    value: 光学、计算机视觉、实验力学、航空航天工程或相关领域博士学位
+    quote: A PhD in optics, computer vision, experimental mechanics, aerospace engineering or a related field.
+  language:
+    value: 英语（需能向学术和产业受众表达研究）
+    quote: English proficiency and the ability to communicate your work to academic and industrial audiences are required.
+  duration:
+    value: 1 年
+    quote: Duration of contract is 1 year.
+  documents:
+    value: 详细简历、动机信、博士和硕士学位证书与成绩单副本
+    quote: Detailed CV Motivational letter Copies of your PhD and MSc degrees and transcripts
+  apply_via:
+    value: 在线系统：通过申请按钮提交
+    quote: Please apply no later than 2 December 2026 via the application button
+  supervisor:
+    value: Dr. Andrei Anisimov
+    quote: In this position, you will be supervised by Dr. Andrei Anisimov.
+  llm: '2026-11-07'
 successfactors:uclouvain-1442682433:
   checked: '2026-10-19'
   degree:
@@ -62281,6 +63782,67 @@ successfactors:ugent-1376758757:
     value: 在线系统：通过电子招聘系统提交
     quote: Apply online through the e-recruitment system before the application deadline
   llm: '2026-11-06'
+successfactors:ugent-1376893157:
+  checked: '2026-11-07'
+  degree:
+    value: 博士学位（入职时须已取得）
+    quote: You hold a doctoral degree. The degree requirement needs to be fulfilled at the start of your appointment.
+  language:
+    value: 需较好的荷兰语
+    quote: You have a good knowledge of the Dutch language
+  start:
+    value: 最早 2026 年 12 月 1 日
+    quote: Your contract will start on 1/12/2026 at the earliest.
+  duration:
+    value: 4 个月，80% 工时
+    quote: We offer you a contract of definite duration for the period from 4 months at 80% employment
+  documents:
+    value: 简历与学业成绩单（合并为一个 PDF）、求职信（PDF）
+    quote: 'In the field ‘CV’ : your CV and a transcript of your academic record (merged into one pdf file) In the field ‘Cover letter’ : your application letter in pdf format'
+  apply_via:
+    value: 在线系统：通过 e-recruitment 系统在线申请
+    quote: Apply online through the e-recruitment system before the application deadline
+  llm: '2026-11-07'
+successfactors:ugent-1376937257:
+  checked: '2026-11-07'
+  degree:
+    value: 论文型博士学位
+    quote: You hold a thesis-based doctorate.
+  start:
+    value: 最早 2026 年 12 月 1 日
+    quote: Your contract will start on 1 december 2026 at the earliest.
+  duration:
+    value: 6 个月定期合同
+    quote: We offer you a contract of definite duration for a period of 6 months.
+  documents:
+    value: 简历、求职信（PDF）、所需学位的成绩单（如已取得）
+    quote: 'In the field ‘CV’ : your CV. In the field ‘Cover letter’ : your application letter in pdf format In the field ‘Diploma’ : a transcript of the required degree (if already in your possession).'
+  apply_via:
+    value: 在线系统：通过 e-recruitment 系统在线申请
+    quote: Apply online through the e-recruitment system before the application deadline
+  llm: '2026-11-07'
+successfactors:ugent-1376939557:
+  checked: '2026-11-07'
+  degree:
+    value: 政治学、公共行政或相关领域的论文型博士学位，具有气候政策和欧洲民主治理方面的专长
+    quote: A thesis-based doctorate in political science, public administration or related field, with expertise in climate policy and politics, and democratic governance in Europe and/or the European Union
+  language:
+    value: 英语优秀
+    quote: Excellent English-language ability
+  start:
+    value: 最早 2026 年 12 月 15 日
+    quote: Your contract will start on 15/12/2026 at the earliest.
+  duration:
+    value: 7 个月（2026 年 12 月 15 日至 2027 年 7 月 14 日）
+    quote: a 100% contract of definite duration for seven months, from 15 December 2026 to 14 July 2027
+  documents:
+    value: 简历加成绩单（合并为一个 PDF）、求职信（PDF）、博士学位证书或成绩单（如已取得）
+    quote: 'In the field ‘CV’ : your CV and a transcript of your academic record (merged into one pdf file) In the field ‘Cover letter’ : your application letter in pdf format In the field ‘Diploma’ : a
+      certificate or transcript of your PhD degree (if already in your possession).'
+  apply_via:
+    value: 在线系统：通过招聘系统在线提交
+    quote: Apply online through the e-recruitment system before the application deadline
+  llm: '2026-11-07'
 successfactors:uni-stuttgart-1369808755:
   checked: '2026-10-19'
   duration:
@@ -63714,6 +65276,25 @@ successfactors:univie-1453646633:
     value: 在线系统：通过招聘门户申请
     quote: Via our job portal / apply button
   llm: '2026-11-06'
+successfactors:univie-1453837133:
+  checked: '2026-11-07'
+  degree:
+    value: 史前史与历史考古学或相近学科硕士（入职前取得）
+    quote: Erfolgreiche Bewerber*innen verfügen vor Antritt der Stelle über einen Master in Urgeschichte und Historischen Archäologie oder einer verwandten Disziplin
+  language:
+    value: 入职初期须证明德语 C1 水平
+    quote: Im Laufe der ersten Zeit müssen Deutschkenntnisse (C1) nachgewiesen werden
+  start:
+    value: 最早 2027 年 2 月 1 日
+    quote: Der Arbeitsbeginn ist frühestens am 1. Februar 2027.
+  duration:
+    value: 3 年
+    quote: Die Vertragsdauer bei Anstellung beträgt 3 Jahre.
+  documents:
+    value: 求职信（≤2 页）、博士课题简述（≤2 页）、硕士论文 PDF 或学术论文、简历、学位证书
+    quote: ein Anschreiben/Motivationsschreiben (max. 2 Seiten) eine Kurzdarstellung des Dissertationsvorhabens (max. 2 Seiten) ein pdf der Masterarbeit oder eine wissenschaftliche Publikation einen Lebenslauf
+      Abschlusszeugnisse
+  llm: '2026-11-07'
 successfactors:univie-1453837233:
   checked: '2026-11-04'
   degree:
@@ -71708,6 +73289,31 @@ university:cam-rh51427:
     quote: We invite applications from students who meet the UK residency requirements (home fees). International students who confirm that additional costs of all overseas tuition fees will be covered
       through other scholarships or funding schemes will also be considered.
   llm: '2026-10-22'
+university:cam-rh51643:
+  checked: '2026-11-07'
+  degree:
+    value: 相关学科至少 2:1 本科学位（或同等）
+    quote: Applicants are expected to hold at least a 2:1 undergraduate degree (or equivalent) in a subject relevant to their chosen project
+  language:
+    value: 母语非英语者可能需提供英语水平证明
+    quote: Applicants whose first language is not English may need to provide evidence of English language proficiency.
+  start:
+    value: 2027 年 10 月
+    quote: starting in October 2027
+  duration:
+    value: 英国学费标准的学费与津贴，资助 3 年
+    quote: The studentship covers University tuition fees at the UK (home) rate and a stipend for three years.
+  documents:
+    value: 两位学术推荐人信息、成绩单、简历、英语能力证明（如需要）、兴趣陈述（注明所申请项目）
+    quote: Details of two academic referees (references will be taken up immediately) Transcript(s) CV/resume Evidence of competence in English (if required) Statement of Interest stating which project
+      you are applying for (and any second choice)
+  apply_via:
+    value: 在线系统：通过剑桥研究生申请网站申请
+    quote: For all projects apply via https://www.postgraduate.study.cam.ac.uk/courses/directory/cvphpdhpc and click 'Apply Now'.
+  nationality:
+    value: 仅限具备英国学费身份（home fee）的申请者
+    quote: The studentship is open only to applicants who are eligible for UK (home) fee status.
+  llm: '2026-11-07'
 university:cam-xj51552:
   checked: '2026-10-31'
   start:
@@ -71848,6 +73454,27 @@ university:cbs-phd-scholarship-within-accounting-and-artificial:
     value: 在线系统：通过在线链接提交
     quote: The application must be sent via the online link below.
   llm: '2026-10-22'
+university:cbs-postdoc-cbs-work-life-balance-policy-citizens-policies:
+  checked: '2026-11-07'
+  degree:
+    value: 社会科学博士学位或同等，最好是社会学
+    quote: The applicant must hold a PhD or the equivalent in the social sciences, preferably in sociology.
+  language:
+    value: 英语（书面和口语）达到专业水平
+    quote: The applicant must have professional proficiency in English (written and spoken).
+  start:
+    value: 2027 年 3 月 1 日
+    quote: Expected starting date is 1 March 2027.
+  duration:
+    value: 1 年 10 个月
+    quote: The postdoc is a non-tenured position for 1 year and 10 months
+  apply_via:
+    value: 在线系统：电子招聘系统
+    quote: Application must be sent via the electronic recruitment system, using the link below.
+  supervisor:
+    value: Caroline de la Porte（项目 PI）
+    quote: led by PI Caroline de la Porte
+  llm: '2026-11-07'
 university:cbs-postdoc-corporate-networks-and-computational-social:
   checked: '2026-10-20'
 university:cbs-postdoc-digital-work-and-procurement:
@@ -73640,6 +75267,28 @@ university:ku-171082:
     value: Lars Erik Larsen 教授
     quote: Principal supervisor is Professor Lars Erik Larsen
   llm: '2026-10-19'
+university:ku-171086:
+  checked: '2026-11-07'
+  degree:
+    value: 基因组学、生物信息学、进化生物学、计算生物学或相近领域博士学位
+    quote: PhD in genomics, bioinformatics, evolutionary biology, computational biology, or a closely related field.
+  language:
+    value: 英语书面和口语良好
+    quote: Good written and spoken English, with the ability to communicate scientific results clearly.
+  start:
+    value: 2027 年 3 月 1 日或尽快
+    quote: The position is open from 1 March 2027 or as soon as possible thereafter.
+  duration:
+    value: 30 个月
+    quote: wishes to hire a postdoctoral researcher in a 30 month position
+  documents:
+    value: 简历、学位证书（硕士与博士）、研究计划、完整发表清单、3 篇最相关论文的单行本
+    quote: Please include Curriculum vitae Diplomas (Master and PhD degree or equivalent) Research plan – description of current and future research plans Complete publication list Separate reprints of
+      3 particularly relevant papers
+  apply_via:
+    value: 在线系统：通过页面上的 APPLY NOW 在线提交（英文）
+    quote: The application, in English, must be submitted electronically by clicking APPLY NOW below.
+  llm: '2026-11-07'
 university:ku-171147:
   checked: '2026-10-19'
   degree:
@@ -73786,6 +75435,21 @@ university:ku-171384:
     value: Jan Gorodkin 教授
     quote: Principal supervisor is Professor Jan Gorodkin
   llm: '2026-10-22'
+university:ku-171412:
+  checked: '2026-11-07'
+  start:
+    value: 2027 年 3 月 1 日或尽快
+    quote: to be filled by the 1st of March 2027 or as soon as possible thereafter
+  duration:
+    value: 2 年
+    quote: invites applications for a two-year postdoctoral fellowship
+  documents:
+    value: 动机信、简历、资历证明（考试证书与博士学位证书）、完整发表清单
+    quote: Letter of motivation CV Documentation of qualifications (exam certificates and PhD diploma) Complete publication list
+  apply_via:
+    value: 在线系统：以 PDF 或 Word 格式在线提交
+    quote: Applications must be submitted online in PDF or Word format.
+  llm: '2026-11-07'
 university:ku-171476:
   checked: '2026-10-23'
   degree:
@@ -73942,6 +75606,220 @@ university:ku-171704:
     value: 在线系统：点击申请按钮在线提交
     quote: Submit your application and all attachments in English electronically by clicking
   llm: '2026-10-25'
+university:ku-172088:
+  checked: '2026-11-07'
+  degree:
+    value: 微生物学、微生物生物技术、分子生物学或相关领域博士学位
+    quote: PhD in microbiology, microbial biotechnology, molecular biology or a related field
+  language:
+    value: 英语书面和口语优秀
+    quote: Excellent written and spoken English
+  start:
+    value: 2027 年 2 月 1 日或尽快
+    quote: The position is open from 01-02-2027 or as soon as possible thereafter.
+  duration:
+    value: 24 个月
+    quote: full-time post-doctoral position of 24 months
+  documents:
+    value: 求职信（不超过 1 页）、简历、学位证书（硕士与博士）、完整发表清单
+    quote: Please include A cover letter (Max. 1 page) Curriculum vitae Diplomas (Master and PhD degree or equivalent) Complete publication list
+  apply_via:
+    value: 在线系统：通过页面上的 APPLY NOW 在线提交（英文）
+    quote: The application, in English, must be submitted electronically by clicking APPLY NOW below.
+  llm: '2026-11-07'
+university:ku-172102:
+  checked: '2026-11-07'
+  degree:
+    value: 物理、化学、材料科学、电气工程或相近学科博士学位
+    quote: We seek outstanding, creative, and highly motivated experimentalists with a PhD in physics, chemistry, materials science, electrical engineering, or a closely related discipline
+  start:
+    value: 尽快，2027 年内可灵活安排
+    quote: starting as soon as possible, with flexible start dates into 2027
+  duration:
+    value: 3 年
+    quote: The positions are for three years
+  documents:
+    value: 求职信（1 页内）、简历（含论文列表）、学位证书（硕士和博士或预期博士毕业证明）、两到三位推荐人
+    quote: Cover letter describing your motivation and research interests (max 1 page) Curriculum vitae, including publication list Diplomas (Master’s and PhD degree, or documentation of expected PhD completion
+      date) Names and contact details of two or three references
+  apply_via:
+    value: 在线系统：点击 APPLY NOW 提交
+    quote: The application, in English, must be submitted electronically by clicking APPLY NOW below.
+  supervisor:
+    value: Maiken H. Mikkelsen 教授（课题组负责人）
+    quote: The research group of Professor Maiken H. Mikkelsen
+  llm: '2026-11-07'
+university:ku-172247:
+  checked: '2026-11-07'
+  degree:
+    value: 凝聚态实验物理、介观电子输运或实验固态量子信息科学博士学位
+    quote: Candidates should have a PhD in condensed matter experimental physics, mesoscopic electron transport, or experimental solid-state quantum information science.
+  start:
+    value: 2027 年 2 月 1 日或之后尽快
+    quote: The position is open from 1 February 2027 or as soon as possible thereafter.
+  duration:
+    value: 2 年，有可能继续延长
+    quote: The position is a fixed-term position limited to a period of 2 years, with a possibility of extending the contract further.
+  documents:
+    value: 简历、学位证书（硕士和博士或同等）、完整论文列表、最多三位合作密切的科研人员（可选）
+    quote: Curriculum vitae Diplomas (Master and PhD degree or equivalent) Complete publication list If possible, please list up to three scientists that you have worked with closely in your past research.
+  apply_via:
+    value: 在线系统：点击 APPLY 提交
+    quote: The application, in English, must be submitted electronically by clicking APPLY for position below.
+  llm: '2026-11-07'
+university:ku-172257:
+  checked: '2026-11-07'
+  degree:
+    value: 自然地理、海洋地质或其他地球科学领域，需有博士学位
+    quote: We are looking for candidates within the fields of physical geography, marine geology or other geosciences. Applicants should have a PhD degree
+  language:
+    value: 英语口语与书面沟通良好
+    quote: good communication skills in spoken and written English
+  start:
+    value: 2027 年 2 月 1 日或尽快
+    quote: commencing 1 February 2027, or as soon as possible thereafter
+  duration:
+    value: 20 个月
+    quote: a 20-months position
+  documents:
+    value: 求职信（含动机与拟议研究贡献，最多 1,000 词）、简历（含完整发表清单）、硕士与博士学位证书、最多五篇代表作
+    quote: 'Cover letter , including the candidate’s motivation and a brief outline of suggested research contribution to the project (max 1,000 words). Curriculum Vitae , including a complete publication
+      list, conference presentation list, and overview of teaching experience. Documentation: Diplomas for Master’s and PhD degrees. If the PhD is not yet awarded, please specify the expected date of submission
+      and/or defence in the CV. Publications: Up to five selected articles'
+  apply_via:
+    value: 在线系统：点击 APPLY NOW 提交
+    quote: The application, in English, must be submitted electronically by clicking APPLY NOW below.
+  llm: '2026-11-07'
+university:ku-172290:
+  checked: '2026-11-07'
+  degree:
+    value: 生物学、生物医学、生物化学或相近学科硕士
+    quote: You have a MSc degree in biology, biomedicine, biochemistry, or similar
+  language:
+    value: 英语沟通良好
+    quote: Good interpersonal and communication skills in English
+  start:
+    value: 2027 年 1 月 15 日或协商
+    quote: starting on January 15, 2027 (or after agreement)
+  duration:
+    value: 先做 12 个月研究助理，评估通过后可转为 3 年资助博士
+    quote: After the initial RA period of 12 months and upon positive evaluation and mutual agreement, you will get the opportunity to transition into a funded 3-year PhD position.
+  documents:
+    value: 求职信（最多 1 页）、简历、证书/文凭副本、2 位推荐人联系方式
+    quote: Cover letter describing your application and motivation (max 1 page) Curriculum vitae including information about your education, research experience with laboratory skills/techniques, previous
+      employments, language skills, other relevant skills, publication list if applicable Copy of relevant certificates/diplomas Contact information of 2 references
+  apply_via:
+    value: 在线系统：点击 Apply Now 提交
+    quote: Please submit your application by clicking on
+  llm: '2026-11-07'
+university:ku-172301:
+  checked: '2026-11-07'
+  degree:
+    value: 生物统计、生物信息、计算机、数据科学、流行病学或相关定量领域博士学位
+    quote: PhD in biostatistics, bioinformatics, computer science, data science, epidemiology, or a related quantitative field.
+  language:
+    value: 英语口语与书面沟通能力优秀
+    quote: Excellent English communication skills, both written and spoken.
+  start:
+    value: 2027 年 3 月 1 日或协商
+    quote: The starting date is March 1, 2027, or after agreement.
+  duration:
+    value: 2 年
+    quote: The employment as Postdoc is a full-time and fixed-term position for 2 years.
+  documents:
+    value: 动机信（最多一页）、简历、博士与硕士学位证书（经认证/签字副本）、发表清单（均为 PDF）
+    quote: 'your application must include the following documents/attachments – all in PDF format: 1. Motivated letter of application (max. one page) 2. CV incl. education, work/research experience, language
+      skills and other skills relevant to the position 3. A certified/signed copy of a) PhD certificate and b) Master of Science certificate. 4. List of publications'
+  apply_via:
+    value: 在线系统：点击 Apply now 提交
+    quote: Your online application must be submitted in English by clicking
+  llm: '2026-11-07'
+university:ku-172340:
+  checked: '2026-11-07'
+  degree:
+    value: 国外毕业者：相当于丹麦硕士的学位（180 + 120 ECTS），或至少相当于丹麦学士的学位（180 ECTS）
+    quote: you must have either a degree equivalent to a Danish master's degree (180 ETCS + 120 ECTS MSc), or at a minimum, a bachelor's degree equivalent to a Danish bachelor's degree (180 ECTS)
+  start:
+    value: 2027 年 2 月 15 日或协商
+    quote: commencing 15 February 2027 or after agreement
+  duration:
+    value: 3 年
+    quote: 'Duration: 3 years as a PhD student'
+  apply_via:
+    value: 在线系统：通过页面上的 Apply now 在线提交
+    quote: Your application must be submitted electronically by clicking ‘Apply now’ below.
+  supervisor:
+    value: Martin Kaag Rasmussen（主导师）
+    quote: Principal supervisor is Martin Kaag Rasmussen
+  llm: '2026-11-07'
+university:ku-172595:
+  checked: '2026-11-07'
+  degree:
+    value: 生命科学或相近领域博士学位
+    quote: A PhD in life sciences or a similar relevant field
+  language:
+    value: 英语沟通能力良好
+    quote: Good interpersonal and communication skills in English
+  start:
+    value: 2027 年 1 月 15 日或协商
+    quote: to commence on January 15, 2027 (or after agreement)
+  duration:
+    value: 全职，初期 2 年
+    quote: The position is full-time (37 hours per week) and initially for 2 years
+  documents:
+    value: 求职信（不超过 1 页）、简历（含完整发表清单）、博士学位证书、3 位推荐人联系方式
+    quote: 'The application should consist of the following documents in English: Cover letter describing your application and motivation including research interests (max 1 page) Curriculum vitae including
+      information about your education, research experience, previous employments, and complete publication list Diplomas (PhD degree or equivalent) Contact information of 3 references'
+  apply_via:
+    value: 在线系统：通过页面上的 APPLY NOW 在线提交（英文）
+    quote: The application, in English, must be submitted electronically by clicking APPLY NOW below.
+  llm: '2026-11-07'
+university:ku-172633:
+  checked: '2026-11-07'
+  degree:
+    value: 相当于丹麦硕士学位的学历（与项目领域相关）
+    quote: To be eligible for the regular PhD programme, you must have completed a degree programme, equivalent to a Danish master’s degree
+  language:
+    value: 英语书面和口语良好
+    quote: Good written and spoken English and strong communication skills.
+  start:
+    value: 2027 年 4 月 1 日或协商
+    quote: Start date 1 April 2027 or after agreement.
+  duration:
+    value: 全职，最长 3 年
+    quote: Employment as PhD fellow is full time and for maximum 3 years.
+  documents:
+    value: 动机信（不超过一页）、简历、学士或硕士学位证书与成绩单（含授权英文翻译）、论文发表清单、推荐信
+    quote: Motivated letter of application (max. one page) Curriculum vitae including information about your education, experience, language skills and other skills relevant for the position Original diplomas
+      for Bachelor of Science or Master of Science and transcript of records in the original language, including an authorized English translation if issued in another language than English or Danish. If
+      not completed, a certified/signed copy of a recent transcript of records or a written statement from the institution or supervisor is accepted. Publication list (if possible) Reference letters (if
+      available)
+  apply_via:
+    value: 在线系统：点击 APPLY NOW 在线提交
+    quote: submitted electronically by clicking APPLY NOW below
+  supervisor:
+    value: Stefano Paesani 副教授（主导师）
+    quote: Principal supervisor is Associate Professor Stefano Paesani
+  llm: '2026-11-07'
+university:ku-172636:
+  checked: '2026-11-07'
+  degree:
+    value: 计算机、机器人、生物医学工程、机械/电子工程、应用数学或相关领域博士学位
+    quote: You have a PhD in Computer Science, Robotics, Biomedical Engineering, Mechanical/Electronic Engineering, Applied Math, or a related field.
+  start:
+    value: 2 月 15 日或协商
+    quote: The starting date is 15 February or after agreement
+  duration:
+    value: 1 年
+    quote: The position is a fixed-term position limited to a period of 1 year.
+  documents:
+    value: 申请动机信（最多一页）、简历、博士与硕士学位证书（经认证/签字副本）、发表清单
+    quote: Motivated letter of application (max. one page). CV incl. education, work/research experience, language skills and other skills relevant for the position. A certified/signed copy of a) PhD certificate
+      and b) Master of Science certificate.
+  apply_via:
+    value: 在线系统：点击 Apply now 提交
+    quote: Your online application must be submitted in English by clicking
+  llm: '2026-11-07'
 university:leibniz-gemeinschaft-doctoral-researcher-fmx-for-its-future-department-politics-of-democracy:
   checked: '2026-10-22'
   degree:
@@ -79072,6 +80950,30 @@ varbi:973185:
     quote: résumé/CV, including a list of publications, a general description of past research and future research interests (no more than three pages), contact information of at least two references, copy
       of the doctoral degree certificate
   llm: '2026-10-19'
+varbi:973237:
+  checked: '2026-11-07'
+  degree:
+    value: 本学科博士学位，或被认定为等同的外国学位
+    quote: För att vara behörig ska du ha avlagt doktorsexamen inom anställningens ämnesområde eller ha en utländsk examen som bedöms motsvara en sådan doktorsexamen.
+  language:
+    value: 瑞典语和英语都要很好
+    quote: Mycket goda kunskaper i svenska och engelska.
+  start:
+    value: 2026 年 12 月或协商
+    quote: Tillträdesdatum december 2026 eller enligt överenskommelse.
+  duration:
+    value: 2 年全职
+    quote: Anställningen är tidsbegränsad till 2 år på heltid
+  documents:
+    value: 求职信（说明如何满足资格）、简历、学位证书
+    quote: Ansökan ska innehålla ett personligt brev där du beskriver hur du uppfyller eftersökta kvalifikationer, ett CV och examensbevis
+  apply_via:
+    value: 在线系统：登录后在线申请
+    quote: Logga in och sök jobbet
+  supervisor:
+    value: Eva Månsson-Lexell 副教授（课题组负责人）
+    quote: Forskargruppen Hållbar vardag och hälsa i ett livsperspektiv leds av docent Eva Månsson-Lexell
+  llm: '2026-11-07'
 varbi:973309:
   checked: '2026-10-19'
   degree:
@@ -80794,6 +82696,29 @@ varbi:981220:
     value: Björn Slaug（主导师）
     quote: kontakta huvudhandledare och biträdande forskare Björn Slaug
   llm: '2026-10-22'
+varbi:981309:
+  checked: '2026-11-07'
+  degree:
+    value: 博士学位或被认定相当的国际学位
+    quote: requires that the applicant has a PhD, or an international degree deemed equivalent to a PhD
+  language:
+    value: 瑞典语口语与书面流利；英语口语与书面良好
+    quote: Fluency in Swedish, both spoken and written. Good command of English, both spoken and written.
+  start:
+    value: 2027 年 1 月 1 日或协商
+    quote: The suggested start date is January 1, 2027, or as agreed upon.
+  duration:
+    value: 2 年，可延长最多一年
+    quote: This is a full-time employment limited to 2 years, with the possibility of extension for up to one additional year.
+  documents:
+    value: 求职信（最多两页）、简历（含发表清单）、既往研究概述（最多一页）、博士学位证书、两位推荐人联系方式
+    quote: The application must include a personal letter (maximum two pages) in which you describe how you meet the qualification requirements and how your research is connected to the COMBAT project.
+      The application must also contain a CV, including a list of publications, a general description of previous research work (maximum one page), a copy of the PhD degree certificate and anything else
+      you wish to refer to (copies of diplomas, grades, information for references, letters of recommendation, etc.) as well as contact information for two references.
+  apply_via:
+    value: 在线系统：通过大学招聘系统提交
+    quote: The position is sought via the university's recruitment system.
+  llm: '2026-11-07'
 varbi:981431:
   checked: '2026-10-22'
   degree:
@@ -80926,6 +82851,28 @@ varbi:981675:
     value: 在线系统：通过大学招聘系统提交
     quote: Submit your application through Uppsala University's recruitment system.
   llm: '2026-10-30'
+varbi:981772:
+  checked: '2026-11-07'
+  degree:
+    value: 医学、生物医学、生物学、分子生物学或相近生命科学领域的相关硕士学位或同等资历
+    quote: a relevant second-cycle degree or equivalent qualification in medicine, biomedicine, biology, molecular biology or another closely related field within the life sciences
+  language:
+    value: 英语口语与书面能力很好
+    quote: very good oral and written proficiency in English
+  start:
+    value: 2027 年 2 月 1 日或协商
+    quote: The intended start date is 1 February 2027, or as agreed.
+  duration:
+    value: 4 年（48 个月）
+    quote: The position is a full-time, fixed-term doctoral student position for four years (48 months)
+  documents:
+    value: 简历、求职信、学位证书或同等证明，以及其他材料（成绩单、推荐人信息、推荐信等）
+    quote: The application should include a CV and a personal letter justifying your interest in the position and how it matches your qualifications. The application should also include a degree certificate
+      or equivalent and any other document to which you would like to draw attention (copies of grade transcripts, details of referees, letters of recommendation, etc.)
+  apply_via:
+    value: 在线系统：通过大学招聘系统提交
+    quote: Applications are to be submitted via the University
+  llm: '2026-11-07'
 varbi:981781:
   checked: '2026-10-30'
   degree:
@@ -81186,6 +83133,31 @@ varbi:983027:
     value: 在线系统：通过大学招聘系统提交
     quote: via the university's recruitment system
   llm: '2026-11-05'
+varbi:983228:
+  checked: '2026-11-07'
+  degree:
+    value: 博士学位或被认定相当于瑞典博士的外国学位
+    quote: To be eligible for employment as a postdoctoral researcher, a PhD or a foreign degree deemed to be equivalent to a Swedish PhD is required.
+  language:
+    value: 英语口语与书面须优秀
+    quote: Excellent written and spoken English is required.
+  start:
+    value: 协商确定
+    quote: First day of employment According to agreement
+  duration:
+    value: 2 年，有延长可能
+    quote: This is a full-time (100%) position for two years, with the possibility of extension.
+  documents:
+    value: 博士学位证书、完整简历、完整发表清单、当前工作概述（不超过一页）
+    quote: 'An employment application must contain the following documents in English or Swedish: PhD certificate A complete resumé, including date of the thesis defence, title of the thesis, previous academic
+      positions, academic title, current position, academic distinctions, and committee work A complete list of publications A summary of current work (no more than one page)'
+  apply_via:
+    value: 在线系统：通过 Varbi 招聘系统提交
+    quote: The application is to be submitted through the Varbi recruitment system.
+  supervisor:
+    value: Shireen Sindi 副教授
+    quote: You will work under the supervision of Associate Professor Shireen Sindi
+  llm: '2026-11-07'
 varbi:983398:
   checked: '2026-11-04'
   degree:
@@ -81603,6 +83575,24 @@ varbi:985004:
     value: 在线系统：登录 KTH 招聘系统
     quote: Log into KTH's recruitment system to apply for this position.
   llm: '2026-10-31'
+varbi:985215:
+  checked: '2026-11-07'
+  degree:
+    value: 生物学（侧重生态学）或相关领域硕士学位
+    quote: hold a Master’s (second-cycle) degree in biology with focus on ecology or a related field
+  language:
+    value: 高水平的英语口语与书面表达
+    quote: express themselves at a high level in spoken as well as written English
+  start:
+    value: 2027 年 4 月 1 日或协商
+    quote: Starting date 1 April 2027 or as agreed
+  supervisor:
+    value: Johan Dahlgren
+    quote: The main supervisor of the PhD candidate will be Johan Dahlgren.
+  apply_via:
+    value: 在线系统：通过乌普萨拉大学招聘系统
+    quote: Submit your application through Uppsala University's recruitment system.
+  llm: '2026-11-07'
 varbi:985313:
   checked: '2026-10-30'
   degree:
@@ -81841,6 +83831,23 @@ varbi:986790:
     value: 在线系统：Varbi 招聘系统
     quote: The application is to be submitted through the Varbi recruitment system.
   llm: '2026-11-06'
+varbi:986999:
+  checked: '2026-11-07'
+  degree:
+    value: 与研究主题相关的至少 60 学分硕士阶段课程，或计算机、电气、信息通信、工程物理、工程数学方向的工程硕士
+    quote: at least 60 second-cycle credits at an advanced level with relevance for the research topic, or an MSc in Engineering in Computer Science and Engineering, Electrical Engineering, Information
+      and Communication Technology, Engineering Physics or Engineering Mathematics
+  language:
+    value: 英语口语与书面都很好
+    quote: very good knowledge of English, in speech and writing
+  start:
+    value: 2027 年春季或协商，最迟 2027 年 12 月 31 日
+    quote: with intended start date in the spring of 2027 or according to agreement, but no later than 2027-12-31
+  documents:
+    value: 英文申请：简历、求职信、学习证明或学位证书，另可附成绩单、推荐人联系方式、推荐信
+    quote: 'Applications shall be written in English and include: CV and a cover letter stating the reasons why you are interested in the doctoral programme/employment and in what way the research project
+      corresponds to your interests and educational background. Copies of issued study certificates and/or awarded degree certificates.'
+  llm: '2026-11-07'
 varbi:987070:
   checked: '2026-11-06'
   degree:
@@ -81890,6 +83897,50 @@ varbi:987217:
     value: Patrick Norman
     quote: 'Handledning: Patrick Norman'
   llm: '2026-11-06'
+varbi:987229:
+  checked: '2026-11-07'
+  degree:
+    value: 工业工程与管理、运营管理、生产工程、能源系统工程、计算机科学等相关学科博士学位，或被认定相当的外国学位
+    quote: 'PhD in one of the following subjects: industrial engineering and management, operations management, production engineering, energy systems engineering, computer science, or another related engineering
+      science or interdisciplinary discipline, or a foreign degree that is deemed equivalent to this.'
+  language:
+    value: 英语口语与书面都很好
+    quote: Very good knowledge of English, both oral and written.
+  start:
+    value: 尽快或协商
+    quote: Starting date as soon as possible or by agreement.
+  duration:
+    value: 2 年
+    quote: The employment is a temporary position of two years according to central collective agreement.
+  documents:
+    value: 简历、博士学位证书副本（或已申请博士学位的证明）
+    quote: attach your CV and a copy of your doctoral degree (or something that shows you've applied for a doctoral degree)
+  apply_via:
+    value: 在线系统：通过大学招聘系统提交
+    quote: Submit your application through Uppsala University's recruitment system.
+  llm: '2026-11-07'
+varbi:987289:
+  checked: '2026-11-07'
+  degree:
+    value: 硕士级学位或完成至少 240 学分（其中至少 60 学分为硕士阶段）
+    quote: Grundläggande behörighet har den som avlagt en examen på avancerad nivå eller fullgjort kursfordringar om minst 240 högskolepoäng, varav minst 60 högskolepoäng på avancerad nivå
+  language:
+    value: 瑞典语和英语口语与写作能力良好
+    quote: God förmåga att uttrycka sig i tal och skrift på såväl svenska som engelska.
+  start:
+    value: 2027 年 4 月 1 日或协商
+    quote: Tillträde 2027-04-01 eller enligt överenskommelse.
+  duration:
+    value: 相当于四年全职学习
+    quote: Doktorandanställningen avser en anställning som motsvarar fyra års heltidsstudier
+  documents:
+    value: 个人信、简历、证书与成绩单、研究兴趣说明、硕士论文
+    quote: 'Till din ansökan ska följande dokument bifogas: Personligt brev CV Intyg/betyg och övriga styrkta merithandlingar du som sökande vill åberopa Intressebeskrivning där du redogör för ditt forskningsintresse
+      inom den angivna inriktningen för den utlysta tjänsten, samt dina förväntningar på forskarutbildningen. Examensarbete på avancerad nivå eller magister-/masterarbete.'
+  apply_via:
+    value: 在线系统：招聘系统
+    quote: Välkommen med din ansökan via vårt rekryteringssystem senast 2026-12-15.
+  llm: '2026-11-07'
 varbi:987356:
   checked: '2026-11-06'
   degree:
@@ -81928,6 +83979,51 @@ varbi:987716:
       have not been issued in any of these languages. Brief account of why you want to conduct research, your academic interests and how they relate to your previous studies and future goals. Maximally
       two pages long. Name and email address of two references.
   llm: '2026-11-06'
+varbi:987786:
+  checked: '2026-11-07'
+  degree:
+    value: 博士学位或同等外国学位
+    quote: A doctoral degree or an equivalent foreign degree.
+  language:
+    value: 英语
+    quote: The ability to express yourself in English, as we work in an international environment.
+  start:
+    value: 协商确定
+    quote: First day of employment According to agreement
+  duration:
+    value: 最长 2 年
+    quote: The position offered is for, at the most, two years.
+  documents:
+    value: 简历、过往大学学业的学位证书与成绩单（必要时附英文或瑞典文翻译）、研究动机说明（最多两页）
+    quote: 'The application must include: CV including relevant professional experience and knowledge. Copy of diplomas and grades from your previous university studies. Translations into English or Swedish
+      if the original documents have not been issued in any of these languages. Brief account of why you want to conduct research, your academic interests and how they relate to your previous studies and
+      future goals. Maximally two pages long.'
+  apply_via:
+    value: 在线系统：登录 KTH 招聘系统申请
+    quote: Log into KTH's recruitment system to apply for this position.
+  supervisor:
+    value: Wei Ouyang（课题组负责人）
+    quote: The group, led by Wei Ouyang
+  llm: '2026-11-07'
+varbi:988072:
+  checked: '2026-11-07'
+  degree:
+    value: 博士学位或被认定相当于瑞典博士的外国学位
+    quote: To be eligible for employment as a postdoctoral researcher, a PhD or a foreign degree deemed to be equivalent to a Swedish PhD is required.
+  language:
+    value: 语言能力，尤其是英语和瑞典语
+    quote: proficiency in languages, particularly English and Swedish
+  start:
+    value: 协商确定
+    quote: First day of employment According to agreement
+  documents:
+    value: 博士学位证书、完整简历、完整发表清单、当前工作概述（不超过一页）
+    quote: 'An employment application must contain the following documents in English or Swedish: PhD certificate A complete resumé, including date of the thesis defence, title of the thesis, previous academic
+      positions, academic title, current position, academic distinctions, and committee work A complete list of publications A summary of current work (no more than one page)'
+  apply_via:
+    value: 在线系统：通过 Varbi 招聘系统提交
+    quote: The application is to be submitted through the Varbi recruitment system.
+  llm: '2026-11-07'
 workday:aalto-R47444:
   checked: '2026-10-20'
   degree:
@@ -82862,6 +84958,52 @@ workday:ubc-JR26521:
     value: 在线系统：通过 UBC Careers 网站
     quote: Candidates interested must apply via the UBC Careers website
   llm: '2026-11-06'
+workday:ubc-JR26554:
+  checked: '2026-11-07'
+  degree:
+    value: 行为/社会科学、流行病学、公共卫生、卫生服务研究、实施科学或相关领域博士学位，2021 年 11 月 19 日或之后获得
+    quote: A PhD in behavioural or social sciences, epidemiology, public health, health services research, implementation science or a related field, awarded on or after November 19, 2021
+  language:
+    value: 需能用英语进行有效的口头和书面沟通
+    quote: individuals are required to communicate effectively in English, both verbally and in writing.
+  start:
+    value: 预计 2027 年 4 月 1 日或尽快
+    quote: The anticipated start date is April 1, 2027, or as soon as possible thereafter.
+  duration:
+    value: 一年一聘，最长可续至五年
+    quote: for a one-year term, renewable for up to five years subject to work performance
+  apply_via:
+    value: 在线系统：通过 Movember Institute 的资助管理系统在线提交
+    quote: Applications must be submitted online to the Movember Institute
+  supervisor:
+    value: John Oliffe 教授（指导导师）
+    quote: will report to and be mentored by Professor John Oliffe
+  nationality:
+    value: 加拿大公民和永久居民优先
+    quote: Canadians and permanent residents of Canada will be given priority.
+  llm: '2026-11-07'
+workday:ubc-JR26559:
+  checked: '2026-11-07'
+  degree:
+    value: 分子生物学、转化研究、基因组学、生物信息学、蛋白质组学、癌症生物学等相关领域博士
+    quote: PhD in molecular biology, translational research, genomics, bioinformatics, proteomics, cancer biology, reproductive biology, or a related field.
+  duration:
+    value: 合同至 2027 年 12 月 31 日
+    quote: Job End Date December 31, 2027
+  documents:
+    value: 求职信（2 页内）、完整简历（含论文）、三位推荐人信息
+    quote: Provide a cover letter (2-page maximum) outlining your interest, potential to contribute, and qualifications/eligibility aligned to the advert above. · A full CV with publications/contributions
+      to scientific advancement · Names and contact details for three professional references
+  apply_via:
+    value: 在线系统：仅通过 Workday 申请
+    quote: 'Apply through workday only:'
+  nationality:
+    value: 加拿大公民和永久居民优先
+    quote: however, Canadians and permanent residents of Canada will be given priority.
+  supervisor:
+    value: Aline Talhouk 博士（实验室负责人）
+    quote: The Uterine Health Research Lab at UBC, led by Dr. Aline Talhouk
+  llm: '2026-11-07'
 workday:unimelb-JR-018338:
   checked: '2026-10-19'
   degree:
