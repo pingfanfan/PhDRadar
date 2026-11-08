@@ -1,10 +1,10 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-11-08。共 **262** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-11-08。共 **264** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
 - [30 天内截止](#30-天内截止)（157）
-- [之后截止](#之后截止)（105）
+- [之后截止](#之后截止)（107）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（0）
 - [即将开放](#即将开放)（0）
 
@@ -206,6 +206,8 @@
 | 2026-12-31 | [Unoesc 2026 年外国学生硕博连续流征集（巴西私立大学）](https://www.unoesc.edu.br/wp-content/uploads/2026/03/1.-EDITAL-N.-15-Stricto-Estrangeiros-Fluxo-Continuo-para-2026.pdf) | 巴西 | 博士 | 仅免学费 | 🟡 部分可申 | edital 称名额满即止，最晚 2026-12-31；面向外国学生的硕博连续流，每个项目 1 个博士奖学金名额，目标为 2026 年内入学。<br>官网原句：“disponíveis até o preenchimento das vagas, conforme item 2.1” |
 | 2027-01-01 | [耶鲁大学东亚研究理事会（CEAS）博士后 Associates 项目](https://macmillan.yale.edu/eastasia/postdoctoral-program) | 美国 | 博后 | 官网未写明 | ❔ 官网未写明 | 页面写明在线申请截止为 2027 年 1 月 1 日 11:59 PM EST，并称申请于 2026 年 10 月开放。<br>官网原句：“11:59 PM EST, Friday, January 1st, 2027” |
 | 2027-01-04 | [拉夫堡大学–CSC 全额学费博士奖学金](https://lboro.ac.uk/study/postgraduate/fees-funding/research-degree-funding/china-scholarship-council/) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 2027 年 10 月入学；大学 PhD 申请截止 2027 年 1 月 4 日；需同时在 CSC 网申，CSC 截止以其公告为准。<br>官网原句：“4 January 2027” |
+| 2027-01-06 | [CENTA（中英格兰 NERC 培训联盟）博士奖学金](https://centa.ac.uk/apply/) | 英国 | 博士 | 半奖 / 部分资助 | 🟡 部分可申 | 2027 年秋季入学；国际生可申但至多占 30% 名额，CENTA 只付本土学费，学费差额需自行解决。课题多于名额，择优录取。<br>官网原句：“The deadline for submission of applications for our project-based studentships is 23:59 GMT on Wednesday 6th January 2027.” |
+| 2027-01-06 | [伯明翰大学 CENTA 环境科学博士项目](https://www.birmingham.ac.uk/postgraduate/pgr/funding/centa-phds) | 英国 | 博士 | 全奖（学费＋生活费） | 🟡 部分可申 | 伯明翰大学的 CENTA 课题，统一通过 CENTA 申请；国际生规则同 CENTA（至多 30%，学费差额自付）。<br>官网原句：“Applications for entry in Autumn 2027 are now open with a deadline of 6 th January 2027.” |
 | 2027-01-08 | [波士顿大学 Questrom 商学院 PhD 项目](https://www.bu.edu/questrom/phd-program/admissions/) | 美国 | 博士 | 全奖（学费＋生活费） | ❔ 官网未写明 | 2027 年 8 月入学的申请截止为 2027-01-08，页面未说明中国大陆学生资格。<br>官网原句：“January 8, 2027” |
 | 2027-01-08 | [佐治亚州立大学 Robinson 商学院金融 PhD 资助](https://www.gsu.edu/program/finance-phd/) | 美国 | 博士 | 视项目而定 | ❔ 官网未写明 | 页面称 2026 年 9 月 15 日起接受 2027 年秋季入学申请，建议 2027-01-08 前提交全部材料以获最充分考虑。<br>官网原句：“For fullest consideration, the application and all required materials should be submitted by January 8, 2027.” |
 | 2027-01-08 | [圣安德鲁斯 CSC 联合奖学金](https://www.st-andrews.ac.uk/study/scholarships/scholarships-catalogue/postgraduate-scholarships/china-scholarship-council/) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 2027 入学轮：申请期 2026 年 10 月 6 日开放，截止 2027 年 1 月 8 日 23:59（GMT）；仅限中国大陆国籍且在大陆常住。<br>官网原句：“Application deadline: 23:59 (GMT) on Friday 8 January 2027.” |

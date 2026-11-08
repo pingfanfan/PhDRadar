@@ -226,6 +226,57 @@ def cov_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, s
     }, "收录"
 
 
+# ───────────────────────── Loughborough University ─────────────────────────
+# 学校自己的“PhD opportunities”列表（一页，约 100 个课题），每张卡片写明 Funding status（Funded / Self-funded）；
+# 列表阶段只挑 Funded 的读详情页。详情页顶部固定写 “Fees for 2027-28 (per academic year) (Funded) UK: … International: …”
+# 与 Application deadline；国际生一栏 Fully funded → 可申，Part funded / Not applicable → 国际生要自付学费差额，按本库规则算限本土。
+# 写着 “offered on a competitive basis” 的是 CENTA 等培训项目的课题（课题多于名额、统一择优），按规则不逐条收，
+# 由项目级信源 centa-nerc-studentships 覆盖。robots.txt 不禁止 /study/postgraduate/research-degrees/。
+
+LBORO = "https://www.lboro.ac.uk"
+LBORO_LIST = LBORO + "/study/postgraduate/research-degrees/phd-opportunities/"
+LBORO_CARD = re.compile(r'<li class="list__item js-degree[^"]*".*?href="(/study/postgraduate/research-degrees/phd-opportunities/'
+                        r'([^"/]+)/)".*?Funding status</span>\s*([^<]*?)\s*</span>', re.S)
+LBORO_FEES = re.compile(r"Fees for \d{4}-\d{2} \(per academic year\) \(Funded\) UK: (.{3,30}?) International: (.{3,30}?) (?:Full|Part)-time")
+
+
+def lboro_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+    seen: dict[str, str] = {}
+    for path, slug, status in LBORO_CARD.findall(f.get(LBORO_LIST).text):
+        if status.strip().lower() == "funded":
+            seen.setdefault(slug, LBORO + path)
+    return list(seen.items())
+
+
+def lboro_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
+    text = page_text(raw)
+    h = re.search(r'degree-info__heading-title">(.*?)</span>', raw, re.S) or re.search(r"<h1[^>]*>(.*?)</h1>", raw, re.S)
+    title = re.sub(r"\s+", " ", page_text(h.group(1))).strip() if h else ""
+    fees = LBORO_FEES.search(text)
+    if not fees:
+        return None, "自费或竞争性资助"
+    if re.search(r"offered on a competitive basis", text, re.I):
+        return None, "培训项目课题（课题多于名额，按项目级信源收）"
+    m = re.search(r"Application deadline (\d{1,2} [A-Za-z]+ \d{4})", text)
+    deadline = soton_day(m.group(1)) if m else None
+    if not deadline:
+        return None, "页面无截止日期"
+    if deadline < today:
+        return None, "已截止"
+    intl = fees.group(2).strip()
+    cn = "yes" if intl.lower() == "fully funded" else "no" if re.match(r"part funded|not applicable", intl, re.I) else "check"
+    if cn == "yes" and cp.cn_of(text) == "no":
+        cn = "check"  # 正文另写了限本土：不凭顶部字段判断
+    pay = re.search(r"stipend[^£]{0,80}?£[\d,]+\s+per\s+(?:annum|year)", text)
+    return {
+        "id": f"lboro:{jid}", "title": title[:200], "url": url, "org": "Loughborough University",
+        "country": "UK", "place": "Loughborough", "level": "phd", "deadline": deadline,
+        "quote": "Application deadline " + m.group(1),
+        "funding_for": f"UK: {fees.group(1)}; International: {intl}", "amount": (pay.group(0) if pay else "")[:200],
+        "cn": cn, "flags": cp.flags_of(text), "via": "Loughborough",
+    }, "收录"
+
+
 ADAPTERS = {"crick": (crick_urls, crick_detail), "lms": (lms_urls, lms_detail), "soton": (soton_urls, soton_detail),
-            "coventry": (cov_urls, cov_detail)}
-VIA_RANK = {"Crick": 3, "MRC LMS": 3, "Southampton": 3, "Coventry": 3}
+            "coventry": (cov_urls, cov_detail), "lboro": (lboro_urls, lboro_detail)}
+VIA_RANK = {"Crick": 3, "MRC LMS": 3, "Southampton": 3, "Coventry": 3, "Loughborough": 3}

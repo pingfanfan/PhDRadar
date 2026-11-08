@@ -6560,7 +6560,7 @@
   verified: 2026-10-18
 - id: centa-nerc-studentships
   name: CENTA（中英格兰 NERC 培训联盟）博士奖学金
-  url: https://centa.ac.uk/apply/studentship-faqs/
+  url: https://centa.ac.uk/apply/
   category: doctoral-programs
   regions:
   - UK
@@ -6576,13 +6576,15 @@
   - web
   language: en
   coverage: partial
-  stipend: £20,780/年（2025/26）
-  deadline_note: 2026 入学窗口已关闭；2027 入学窗口未确认（以 CENTA 官网为准）
-  requirements: 国际生最多占每届名额 30%；学费差额需自行解决；名额可能提前满额
-  notes: CENTA NERC 博士资助：国际生最多占名额 30%，学费差额（可达 £20,000 以上）需另行解决，津贴 £20,780/年（2025/26）。2026 入学窗口已关闭，2027 入学窗口官网称 2026 年秋季重开，历年多在 1 月截止。
+  deadline: 2027-01-06
+  deadline_note: 2027 年秋季入学的课题制奖学金已开放，截止 2027-01-06 23:59（GMT）；课题多于名额，1–2 月统一择优选拔。
+  status: open
+  requirements: 英国 BSc 2:1 以上或 MSc 及格（或同等）；国际生可申，但 UKRI 规定国际生最多占每届 30%；CENTA 只付本土标准学费，国际生需自行解决学费差额（可与课题导师商量所在学校是否有减免）
+  notes: CENTA 为 NERC 博士培训联盟（伯明翰、拉夫堡、莱斯特等中英格兰院校与研究所），课题挂在 CENTA 官网、FindAPhD 与各成员校网站，一次申请对应一个课题。只付本土学费，国际生最多占 30% 名额。
   verify_method: page
-  page_evidence: International students are eligible to CENTA’s standard project-based route.
-  verified: 2026-10-19
+  page_evidence: Applications for CENTA PhD project-based studentships for 2027 entry are now open. … The deadline for submission of applications for our project-based studentships is 23:59 GMT on Wednesday
+    6th January 2027. … UKRI allows international students to be eligible for studentships but only for a maximum of 30% of the cohort … CENTA can only fund tuition fees at Home fee level.
+  verified: 2026-11-08
 - id: centa-birmingham-phds
   name: 伯明翰大学 CENTA 环境科学博士项目
   url: https://www.birmingham.ac.uk/postgraduate/pgr/funding/centa-phds
@@ -6600,13 +6602,14 @@
   - web
   language: en
   coverage: full
-  deadline_note: 2026 入学轮已关闭；CENTA 官网称下一轮申请窗口预计 2027 年秋季重开
-  status: closed
+  deadline: 2027-01-06
+  deadline_note: 2027 年秋季入学已开放，截止 2027-01-06；课题列在 CENTA 官网
+  status: open
   requirements: 英国 BSc 二等甲等或 MSc 及格（或同等）；国际生的学费减免名额极少，需确认是否有名额
   notes: NERC CENTA 博士项目，通常提供学费减免与年度津贴。国际生名额有限，申请前需向项目确认。
   verify_method: page
-  page_evidence: CENTA studentships are for 3.5 years and are funded by NERC.
-  verified: 2026-10-19
+  page_evidence: Applications for entry in Autumn 2027 are now open with a deadline of 6 th January 2027.
+  verified: 2026-11-08
 - id: sense-eo-cdt
   name: 卫星数据环境科学 CDT（爱丁堡/利兹，NERC）
   url: https://eo-cdt.org

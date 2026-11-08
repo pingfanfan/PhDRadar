@@ -233,3 +233,47 @@ def test_uibk_english_pages():
     assert at.uibk_detail("16013", "u", lecturer, "2026-11-07")[1] == "非博士/博后岗位"
     postdoc = phd.replace("(PhD position)", "(postdoc)")
     assert at.uibk_detail("15913", "u", postdoc, "2026-11-07")[0]["level"] == "postdoc"
+
+
+LBORO_LIST_PAGE = "".join(
+    f'<li class="list__item js-degree uk lboro studentship" data-keywords="x">'
+    f'<a class="list__link" href="/study/postgraduate/research-degrees/phd-opportunities/{slug}/"><h3>PhD</h3>'
+    f'<p><span class="list__text"><span class="visually-hidden">Funding status</span>\n\n        {status}\n      </span></p></a></li>'
+    for slug, status in [("flow-boiling", "Funded"), ("self-paid", "Self-funded"), ("garden-ponds", "Funded")])
+
+
+def lboro_page(intl: str, deadline: str, body: str) -> str:
+    return (f'<span class="degree-info__heading-title">\n  Stochastic analysis of flow boiling\n</span>'
+            f"<p>Qualification(s) available: PhD Entry requirements 2:1 Fees for 2027-28 (per academic year) (Funded) "
+            f"UK: Fully funded International: {intl} Full-time 3 years Start date October 2027 Application deadline {deadline} "
+            f"Project reference FP-HZ-2026R</p><p>{body}</p>")
+
+
+def test_lboro_urls_keep_only_funded():
+    import platforms_uk
+
+    class F:
+        def get(self, url):
+            return type("R", (), {"text": LBORO_LIST_PAGE})()
+
+    assert [j for j, _ in platforms_uk.lboro_urls(F(), 1)] == ["flow-boiling", "garden-ponds"]
+
+
+def test_lboro_detail():
+    import platforms_uk as uk
+
+    body = "The studentship provides an enhanced tax-free stipend of £22,437 per year, for a minimum of 3 years."
+    row, why = uk.lboro_detail("flow-boiling", "https://u", lboro_page("Fully funded", "10 December 2026", body), "2026-11-08")
+    assert why == "收录" and row["cn"] == "yes" and row["deadline"] == "2026-12-10"
+    assert row["title"] == "Stochastic analysis of flow boiling" and row["quote"] == "Application deadline 10 December 2026"
+    assert row["funding_for"] == "UK: Fully funded; International: Fully funded"
+    assert row["amount"] == "stipend of £22,437 per year" and row["id"] == "lboro:flow-boiling" and row["via"] == "Loughborough"
+    # 国际生只给本土学费（需自付差额）或不适用 → 按规则算限本土
+    assert uk.lboro_detail("x", "u", lboro_page("Part funded", "15 January 2027", body), "2026-11-08")[0]["cn"] == "no"
+    assert uk.lboro_detail("x", "u", lboro_page("Not applicable", "15 January 2027", body), "2026-11-08")[0]["cn"] == "no"
+    # CENTA 等培训项目的课题（课题多于名额）不逐条收
+    centa = lboro_page("Fully funded", "6 January 2027", "The studentship is offered on a competitive basis. " + body)
+    assert uk.lboro_detail("x", "u", centa, "2026-11-08")[1].startswith("培训项目课题")
+    assert uk.lboro_detail("x", "u", lboro_page("Fully funded", "1 May 2026", body), "2026-11-08")[1] == "已截止"
+    self_funded = lboro_page("Fully funded", "1 May 2027", body).replace("(Funded) ", "(Self-funded) ")
+    assert uk.lboro_detail("x", "u", self_funded, "2026-11-08")[1] == "自费或竞争性资助"
