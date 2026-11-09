@@ -1,10 +1,10 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-11-08。共 **264** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-11-09。共 **262** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
-- [30 天内截止](#30-天内截止)（157）
-- [之后截止](#之后截止)（107）
+- [30 天内截止](#30-天内截止)（159）
+- [之后截止](#之后截止)（103）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（0）
 - [即将开放](#即将开放)（0）
 
@@ -12,8 +12,6 @@
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-08 | [巴斯斯巴大学博士学费与资助（Fees and funding）](https://www.bathspa.ac.uk/how-to-apply/research-degrees/fees-and-funding/) | 英国 | 博士 | 全奖（学费＋生活费） | ❔ 官网未写明 | ESRC SWDTP 2027 届资助申请窗口已开放；向 Bath Spa 提交表达意向的博士申请截止 2026 年 11 月 8 日，资助不保证。<br>官网原句：“Applications for the ESRC SWDTP studentship funding window is now open for the 2027 cohort.” |
-| 2026-11-08 | [Radboud 去殖民化与赔偿研究博士岗位（2026）](https://www.ru.nl/en/working-at/job-opportunities/phd-position-decolonising-reparations) | 荷兰 | 博士 | 带薪岗位 | ❔ 官网未写明 | Radboud 去殖民化与赔偿研究博士岗位（1.0 FTE），正文写明申请截止 2026-11-08。<br>官网原句：“08 November 2026” |
 | 2026-11-09 | [Leverhulme 早期职业研究奖学金（ECF）](https://www.bristol.ac.uk/arts-law-social-sciences/research/postdoctoral-and-early-career--opportunities/leverhulme-trust-early-career-fellowships) | 英国 | 博后 | 官网未写明 | 🟡 部分可申 | 2027 轮学校内部申请截止 2026-11-09 12:00（需先提交给所在学院研究主任）；基金方截止 2027-02-18 与资格条件本页未列出，以 Leverhulme 官网为准。<br>官网原句：“to your School Research Director by Monday 09 November 2026” |
 | 2026-11-09 | [林雪平大学 博士申请说明](https://liu.se/en/research/doctoral-studies/apply-for-doctoral-studies) | 瑞典 | 博士 | 带薪岗位 | ❔ 官网未写明 | 博士岗位列表中 Ionic Thermoelectrics 岗位的 Published To 为 2026-11-09，按列表理解为申请截止；列头未明写 deadline，国际生资格页面未写，cn_eligible 仍需核实。<br>官网原句：“PhD student in Ionic Thermoelectrics and Electrochemistry for Thermal Energy Harvesting 2026-11-09” |
 | 2026-11-09 | [Sainsbury Wellcome Centre 系统神经科学 PhD](https://www.sainsburywellcome.org/content/apply-our-phd-programme) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 页面称 2027 年 9 月入学轮已开放申请，截止为 2026 年 11 月 9 日 17:00（GMT）。<br>官网原句：“The deadline for applications is 17:00 GMT on 9 November 2026.” |
@@ -169,15 +167,15 @@
 | 2026-12-08 | [MRC 分子生物学实验室（LMB）PhD](https://mrclmb.ac.uk/?p=894) | 英国 | 博士 | 半奖 / 部分资助 | ❔ 官网未写明 | 页面写明 2027 年入学的博士申请已开放（2026-09-10 起），截止 2026-12-08，需通过剑桥 Applicant Portal 提交。<br>官网原句：“Deadline Tuesday 8th December 2026.” |
 | 2026-12-08 | [马普量子材料研究生中心（MPGC-QM）全额资助博士岗位 2026](https://www.mpg.de/26977959/fully-funded-phd-positions-mpgc-qm-2026) | 德国 | 博士 | 带薪岗位 | ✅ 可申 | 2026 年秋季全额资助博士岗位征集，申请截止 2026-12-08，需通过官网在线门户提交。<br>官网原句：“Deadline for submission of your application is” |
 | 2026-12-08 | [剑桥生物科学 BBSRC DTP（2027 入学批次）](https://bbsrcdtp.lifesci.cam.ac.uk/node/901) | 英国 | 博士 | 全奖（学费＋生活费） | 🟡 部分可申 | 2027 入学申请已开放，截止 2026-12-08；约 25 个名额，国际生（EU 与非 EU）可申请，名额有限。<br>官网原句：“Deadline: Tuesday 8 December 2026” |
+| 2026-12-09 | [Cambridge · Rao 课题组 · 物理博士 2027](https://rao.oe.phy.cam.ac.uk/join-the-group/) | 英国 | 博士 | 官网未写明 | ❔ 官网未写明 | 页面列出 2027 年 10 月入学的博士岗位，截止 2026 年 12 月 9 日；大学资助截止通常在 12 月初，页面称资助竞争激烈。<br>官网原句：“Closing date: 9 December 2026” |
+| 2026-12-09 | [卡内基梅隆大学人机交互研究所（HCII）PhD 招生与资助](https://hcii.cmu.edu/academics/phd-hci/admissions) | 美国 | 博士 | 全奖（学费＋生活费） | ❔ 官网未写明 | 页面显示 Fall 2027 入学的申请窗口已开放，早截止 2026-11-18，最终截止 2026-12-09。<br>官网原句：“Final deadline: December 9, 2026 (3 p.m. EST)” |
+| 2026-12-09 | [CMU 机器学习博士项目](https://ml.cmu.edu/academics/machine-learning-phd) | 美国 | 博士 | 全奖（学费＋生活费） | ❔ 官网未写明 | 2027 年秋季入学；页面称 2026-09-09 起开放申请，早申请截止 11 月 18 日，最终截止 12 月 9 日（美东 15:00）；页面称提供全额学费与生活费资助。<br>官网原句：“Dec. 9, 2026 (3 p.m. EST)” |
+| 2026-12-09 | [CMU 计算机科学系（CSD）博士招生与资助](https://csd.cmu.edu/academics/doctoral/admissions) | 美国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 博士申请 2026-09-09 开放，最终截止 2026-12-09 15:00 EST；11-18 为仅省费用的早申请截止；国内外学生基础资助相同。<br>官网原句：“December 9, 2026 (3 p.m. EST)” |
 
 ## 之后截止
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-12-09 | [Cambridge · Rao 课题组 · 物理博士 2027](https://rao.oe.phy.cam.ac.uk/join-the-group/) | 英国 | 博士 | 官网未写明 | ❔ 官网未写明 | 页面列出 2027 年 10 月入学的博士岗位，截止 2026 年 12 月 9 日；大学资助截止通常在 12 月初，页面称资助竞争激烈。<br>官网原句：“Closing date: 9 December 2026” |
-| 2026-12-09 | [卡内基梅隆大学人机交互研究所（HCII）PhD 招生与资助](https://hcii.cmu.edu/academics/phd-hci/admissions) | 美国 | 博士 | 全奖（学费＋生活费） | ❔ 官网未写明 | 页面显示 Fall 2027 入学的申请窗口已开放，早截止 2026-11-18，最终截止 2026-12-09。<br>官网原句：“Final deadline: December 9, 2026 (3 p.m. EST)” |
-| 2026-12-09 | [CMU 机器学习博士项目](https://ml.cmu.edu/academics/machine-learning-phd) | 美国 | 博士 | 全奖（学费＋生活费） | ❔ 官网未写明 | 2027 年秋季入学；页面称 2026-09-09 起开放申请，早申请截止 11 月 18 日，最终截止 12 月 9 日（美东 15:00）；页面称提供全额学费与生活费资助。<br>官网原句：“Dec. 9, 2026 (3 p.m. EST)” |
-| 2026-12-09 | [CMU 计算机科学系（CSD）博士招生与资助](https://csd.cmu.edu/academics/doctoral/admissions) | 美国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 博士申请 2026-09-09 开放，最终截止 2026-12-09 15:00 EST；11-18 为仅省费用的早申请截止；国内外学生基础资助相同。<br>官网原句：“December 9, 2026 (3 p.m. EST)” |
 | 2026-12-10 | [北海道大学生命科学院 IGP MEXT 奖学金（2027 年 10 月入学）](https://altair.sci.hokudai.ac.jp/grad/igpoverview/special-quota.php) | 日本 | 博士 | 全奖（学费＋生活费） | ❔ 官网未写明 | 2027 年 10 月入学的 IGP 文部科学省奖学金页面标注现已开放（2026-04-27 更新）；需先于 11 月 10 日前联系意向导师，导师于 12 月 10 日前向 IGP 办公室提交材料。<br>官网原句：“Application for the MEXT scholarship: IGP special quota for admission in October 2027 is Open NOW!!!” |
 | 2026-12-10 | [萨塞克斯大学 AHRC Doctoral Landscape Award（艺术与人文）](https://www.sussex.ac.uk/study/fees-funding/phd-funding/view/1963-AHRC-Doctoral-Landscape-Award-PhD-Scholarships-for-research-in-Arts-and-Humanities) | 英国 | 博士 | 半奖 / 部分资助 | 🟡 部分可申 | 2027 年秋入学的 AHRC DLA 奖学金，须同时在 PG Apply 提交 Sussex 博士申请，截止 2026-12-10 16:00；国际生只覆盖 Home 学费，差额需自付。<br>官网原句：“10 December 2026 16:00” |
 | 2026-12-10 | [华威大学 CSC 联合博士奖学金（2027 轮）](https://warwick.ac.uk/services/dc/schols_fund/2027/) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 华威 2027 年秋季 PGR 奖学金，CSC 类别；课程申请 12 月 7 日、奖学金申请 12 月 10 日（16:59 GMT）截止；CSC 资格以页面为准。<br>官网原句：“The call for applications will open on 5 October 2026” |
