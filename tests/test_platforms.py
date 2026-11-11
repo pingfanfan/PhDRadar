@@ -277,3 +277,44 @@ def test_lboro_detail():
     assert uk.lboro_detail("x", "u", lboro_page("Fully funded", "1 May 2026", body), "2026-11-08")[1] == "已截止"
     self_funded = lboro_page("Fully funded", "1 May 2027", body).replace("(Funded) ", "(Self-funded) ")
     assert uk.lboro_detail("x", "u", self_funded, "2026-11-08")[1] == "自费或竞争性资助"
+
+
+HW_P = "/about/our-schools/energy-geoscience-infrastructure-and-society/study-with-us/postgraduate-research/funded-research-opportunities"
+HW_LIST_PAGE = ('<table><caption>Current PhD opportunities</caption><tbody>'
+                f'<tr><td>EGIS2026-KS</td><td><a class="link" href="{HW_P}/multiphase-flow">Multiphase Flow</a></td><td>17-01-27</td></tr>'
+                f'<tr><td>EGIS2026DLA-NW</td><td><a class="link" href="{HW_P}/geological-ai">Geological AI</a></td><td>31-01-27</td></tr>'
+                '</tbody></table>')
+
+
+def hw_page(who: str, closing: str, stipend: str = "provide an annual stipend (£21,685 in 2026-27) for up to 42 months") -> str:
+    return (f'<h1 class="heading">PhD Multiscale X-ray Imaging of Multiphase Flow</h1>'
+            f"<p>Code EGIS2026-KS Funding {who} School Energy, Geoscience, Infrastructure and Society Location Edinburgh "
+            f"Award PhD Supervisor Kamaljit Singh Start date May, January Closing date {closing} Duration 48 months</p>"
+            f"<h2>Funding information</h2><p>The studentship will cover tuition fees and {stipend}.</p>")
+
+
+def test_hw_urls_read_table():
+    import platforms_uk
+
+    class F:
+        def get(self, url):
+            return type("R", (), {"text": HW_LIST_PAGE})()
+
+    got = platforms_uk.hw_urls(F(), 1)
+    assert [j for j, _ in got] == ["multiphase-flow", "geological-ai"]
+    assert got[0][1] == "https://www.hw.ac.uk" + HW_P + "/multiphase-flow"
+
+
+def test_hw_detail():
+    import platforms_uk as uk
+
+    row, why = uk.hw_detail("multiphase-flow", "https://u", hw_page("Fully funded (Students worldwide)", "Sunday, 17 January 2027"), "2026-11-11")
+    assert why == "收录" and row["cn"] == "yes" and row["deadline"] == "2027-01-17"
+    assert row["title"] == "Multiscale X-ray Imaging of Multiphase Flow" and row["quote"] == "Closing date 17 January 2027"
+    assert row["funding_for"] == "Funding: Fully funded (Students worldwide)"
+    assert row["amount"] == "stipend (£21,685 in 2026-27) for up to 42 months"
+    assert row["id"] == "hw:multiphase-flow" and row["via"] == "Heriot-Watt" and row["place"] == "Edinburgh"
+    assert uk.hw_detail("x", "u", hw_page("Fully funded (UK students only)", "Sunday, 31 January 2027"), "2026-11-11")[0]["cn"] == "no"
+    assert uk.hw_detail("x", "u", hw_page("Fully funded (UK students only)", "Friday, 30 October 2026"), "2026-11-11") == (None, "已截止")
+    assert uk.hw_detail("x", "u", hw_page("Self-funded", "Sunday, 31 January 2027"), "2026-11-11") == (None, "自费或竞争性资助")
+    assert uk.hw_detail("x", "u", hw_page("Fully funded (Students worldwide)", "TBC"), "2026-11-11") == (None, "页面无截止日期")

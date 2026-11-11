@@ -277,6 +277,54 @@ def lboro_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None,
     }, "收录"
 
 
+# ───────────────────────── Heriot-Watt University（EGIS 学院） ─────────────────────────
+# 全校没有统一的在招课题列表（总页“Current opportunities”只链到各学院）；只有 Energy, Geoscience, Infrastructure and Society
+# 学院有一张“Funded Research Opportunities”表（编号 / 课题 / 截止），每个课题页顶部是固定字段：
+# Code / Funding（如 “Fully funded (UK students only)”“Fully funded (Students worldwide)”）/ Supervisor / Start date / Closing date，
+# 资助金额写在“Funding information”小节（如 “stipend (£21,805 in 2026-27) for 42 months”）。robots.txt 只禁站内搜索与 /testing/。
+
+HW = "https://www.hw.ac.uk"
+HW_PATH = "/about/our-schools/energy-geoscience-infrastructure-and-society/study-with-us/postgraduate-research/funded-research-opportunities"
+HW_LIST = HW + HW_PATH
+HW_ROW = re.compile(r'<tr><td>([^<]+)</td><td><a[^>]*href="(?:https://www\.hw\.ac\.uk)?(' + re.escape(HW_PATH) + r'/([a-z0-9-]+))"')
+
+
+def hw_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+    seen: dict[str, str] = {}
+    for _code, path, slug in HW_ROW.findall(f.get(HW_LIST).text):
+        seen.setdefault(slug, HW + path)
+    return list(seen.items())
+
+
+def hw_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
+    text = page_text(raw)
+    h1 = re.search(r"<h1[^>]*>(.*?)</h1>", raw, re.S)
+    title = re.sub(r"\s+", " ", page_text(h1.group(1))).strip() if h1 else ""
+    title = re.sub(r"^(?:PhD|EngD|MPhil)\s+", "", title)  # 标题前缀是学位名（页面自带），去掉
+    fund = re.search(r"Funding\s+(.{3,60}?)\s+School\s", text)
+    who = fund.group(1).strip() if fund else ""
+    if not who.lower().startswith("fully funded"):
+        return None, "自费或竞争性资助"
+    m = re.search(r"Closing date\s+(?:[A-Z][a-z]+day,\s+)?(\d{1,2}\s+[A-Za-z]+\s+\d{4})", text)
+    deadline = soton_day(m.group(1)) if m else None
+    if not deadline:
+        return None, "页面无截止日期"
+    if deadline < today:
+        return None, "已截止"
+    cn = ("yes" if re.search(r"worldwide|international", who, re.I)
+          else "no" if re.search(r"UK (?:students )?only|home", who, re.I) else "check")
+    if cn == "yes" and cp.cn_of(text) == "no":
+        cn = "check"  # 正文另写了限本土：不凭顶部字段判断
+    pay = re.search(r"stipend \(?[^£]{0,60}?£[\d,]+[^)]{0,30}\)? for (?:up to )?\d+ months", text)
+    level = "postdoc" if cp.POSTDOC.search(title) and not cp.PHD.search(title) else "phd"
+    return {
+        "id": f"hw:{jid}", "title": title[:200], "url": url, "org": "Heriot-Watt University",
+        "country": "UK", "place": "Edinburgh", "level": level, "deadline": deadline,
+        "quote": "Closing date " + m.group(1), "funding_for": "Funding: " + who,
+        "amount": (pay.group(0) if pay else "")[:200], "cn": cn, "flags": cp.flags_of(text), "via": "Heriot-Watt",
+    }, "收录"
+
+
 ADAPTERS = {"crick": (crick_urls, crick_detail), "lms": (lms_urls, lms_detail), "soton": (soton_urls, soton_detail),
-            "coventry": (cov_urls, cov_detail), "lboro": (lboro_urls, lboro_detail)}
-VIA_RANK = {"Crick": 3, "MRC LMS": 3, "Southampton": 3, "Coventry": 3, "Loughborough": 3}
+            "coventry": (cov_urls, cov_detail), "lboro": (lboro_urls, lboro_detail), "hw": (hw_urls, hw_detail)}
+VIA_RANK = {"Crick": 3, "MRC LMS": 3, "Southampton": 3, "Coventry": 3, "Loughborough": 3, "Heriot-Watt": 3}
