@@ -1,9 +1,9 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-11-11。共 **258** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-11-12。共 **257** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
-- [30 天内截止](#30-天内截止)（159）
+- [30 天内截止](#30-天内截止)（158）
 - [之后截止](#之后截止)（99）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（0）
 - [即将开放](#即将开放)（0）
@@ -12,7 +12,6 @@
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-11 | [Azrieli 国际博士后奖学金（以色列）](https://azrielifoundation.org/?p=126924) | 以色列 | 博后 | 仅生活费 | ✅ 可申 | 2027–28 轮在线申请 2026-08-09 开放，2026-11-11 截止；申请时需以色列学术机构教师作为赞助人。<br>官网原句：“The online application opens August 9, 2026, and closes November 11, 2026.” |
 | 2026-11-13 | [Jane Street Graduate Research Fellowship](https://www.janestreet.com/join-jane-street/programs-and-events/graduate-research-fellowship/) | 美国、加拿大、英国、欧盟/欧洲、澳大利亚、新西兰 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 2027 轮申请截止 2026 年 11 月 13 日（AoE），推荐信截止 12 月 1 日；页面称国际生可申请。<br>官网原句：“Submit your application by November 13, 2026 AoE to be considered.” |
 | 2026-11-13 | [谢菲尔德哈勒姆大学教育学院 White Rose 博士奖学金](https://www.shu.ac.uk/research/degrees/phd-scholarships/sheffield-institute-of-education) | 英国 | 博士 | 官网未写明 | ❔ 官网未写明 | 谢菲尔德哈勒姆大学 White Rose 博士奖学金，正文写入学时间为 2027 年 10 月，截止 2026-11-13 12:00 GMT；需先联系 Dr Lisa McGrath 并提交研究计划。<br>官网原句：“The closing date for Sheffield Hallam Applications is 12:00 pm GMT on 13 November 2026.” |
 | 2026-11-15 | [巴伊兰大学博士后奖学金（非以色列籍）](https://biuinternational.com/admissions/financial-aid-scholarships/postdoctoral-scholarships/) | 以色列 | 博后 | 仅生活费 | ✅ 可申 | Azrieli 博士后奖学金截止 2026 年 11 月 15 日，对除以色列籍及居民外的所有国籍开放；Zuckerman 项目 2026-02-15 已截止，不适用。<br>官网原句：“November 15, 2026” |
