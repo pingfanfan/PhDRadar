@@ -1,10 +1,10 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-11-12。共 **257** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-11-13。共 **257** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
-- [30 天内截止](#30-天内截止)（158）
-- [之后截止](#之后截止)（99）
+- [30 天内截止](#30-天内截止)（159）
+- [之后截止](#之后截止)（98）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（0）
 - [即将开放](#即将开放)（0）
 
@@ -170,12 +170,12 @@
 | 2026-12-10 | [萨塞克斯大学 AHRC Doctoral Landscape Award（艺术与人文）](https://www.sussex.ac.uk/study/fees-funding/phd-funding/view/1963-AHRC-Doctoral-Landscape-Award-PhD-Scholarships-for-research-in-Arts-and-Humanities) | 英国 | 博士 | 半奖 / 部分资助 | 🟡 部分可申 | 2027 年秋入学的 AHRC DLA 奖学金，须同时在 PG Apply 提交 Sussex 博士申请，截止 2026-12-10 16:00；国际生只覆盖 Home 学费，差额需自付。<br>官网原句：“10 December 2026 16:00” |
 | 2026-12-10 | [华威大学 CSC 联合博士奖学金（2027 轮）](https://warwick.ac.uk/services/dc/schols_fund/2027/) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 华威 2027 年秋季 PGR 奖学金，CSC 类别；课程申请 12 月 7 日、奖学金申请 12 月 10 日（16:59 GMT）截止；CSC 资格以页面为准。<br>官网原句：“The call for applications will open on 5 October 2026” |
 | 2026-12-11 | [悉尼大学跨国音乐交流博士研究奖学金（Sydney Conservatorium）](https://www.sydney.edu.au/scholarships/a/transnational-musical-exchange.html) | 澳大利亚 | 博士 | 全奖（学费＋生活费） | 🟡 部分可申 | 页面写开放日 24 September 2026、截止 11 December 2026；页面称国际生可获学费与标准生活津贴，需先选定 ARC 项目团队导师。<br>官网原句：“11 December 2026” |
+| 2026-12-13 | [ICTP 数学博士后（的里雅斯特，2026 轮）](https://2022.ictp.it/opportunity/mathematics-postdoctoral-positions-2026) | 意大利 | 博后 | 仅生活费 | ❔ 官网未写明 | 2027 年起始的两年期数学博后，截止 2026-12-13；页面写明优先考虑来自并在发展中国家工作的候选人。<br>官网原句：“ICTP's Mathematics section is now accepting applications for postdoctoral fellowships that would start in 2027.” |
 
 ## 之后截止
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-12-13 | [ICTP 数学博士后（的里雅斯特，2026 轮）](https://2022.ictp.it/opportunity/mathematics-postdoctoral-positions-2026) | 意大利 | 博后 | 仅生活费 | ❔ 官网未写明 | 2027 年起始的两年期数学博后，截止 2026-12-13；页面写明优先考虑来自并在发展中国家工作的候选人。<br>官网原句：“ICTP's Mathematics section is now accepting applications for postdoctoral fellowships that would start in 2027.” |
 | 2026-12-14 | [谢菲尔德大学 AHRC Doctoral Landscape Award（2027/28 入学）](https://sheffield.ac.uk/postgraduate/phd/scholarships/ahrc-dla) | 英国 | 博士 | 视项目而定 | 🟡 部分可申 | 先于 2026-12-14 提交 PhD 申请并取得编号，再于 2027-02-19 17:00（GMT）前提交资助申请；每年 4 个名额，国际候选人至多 1 个，竞争激烈。<br>官网原句：“Applications to the AHRC Doctoral Landscape Award at the University of Sheffield for 2027/28 entry are open.” |
 | 2026-12-15 | [波士顿学院计算机科学 PhD（2027 秋季入学）](https://www.bc.edu/content/bc-web/schools/morrissey/departments/computer-science/academics/phd.html) | 美国 | 博士 | 官网未写明 | ❔ 官网未写明 | 页面称 Fall 2027 入学申请窗口为 2026 年 9 月 1 日至 12 月 15 日；未列出国际生资格与具体资助金额。<br>官网原句：“Application for the Fall 2027 cohort will open on Sept. 1st and close on Dec. 15th, 2026.” |
 | 2026-12-15 | [加州理工地震实验室主任博士后学者](https://www.gps.caltech.edu/about/positions-available/postdoctoral-positions/seismological-laboratory-directors-postdoctoral-scholar) | 美国 | 博后 | 带薪岗位 | ✅ 可申 | 2026 轮，年薪 $78,000，初聘 2 年（首年表现良好后续聘）；申请材料与推荐信截止 2026 年 12 月 15 日，需 3 位推荐人。<br>官网原句：“All applications and references are due by December 15, 2026.” |
