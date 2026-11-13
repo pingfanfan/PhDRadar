@@ -318,3 +318,57 @@ def test_hw_detail():
     assert uk.hw_detail("x", "u", hw_page("Fully funded (UK students only)", "Friday, 30 October 2026"), "2026-11-11") == (None, "已截止")
     assert uk.hw_detail("x", "u", hw_page("Self-funded", "Sunday, 31 January 2027"), "2026-11-11") == (None, "自费或竞争性资助")
     assert uk.hw_detail("x", "u", hw_page("Fully funded (Students worldwide)", "TBC"), "2026-11-11") == (None, "页面无截止日期")
+
+
+QM_P = "/eecs/phd/phd-studentships"
+QM_LIST_PAGE = ('<p>Applications are invited</p><a href="/eecs/phd/closed-phd-studentships/old-one/">closed</a>'
+                '<table><tbody><tr><th>PhD Title</th><th>Supervisor</th><th>Closing date</th></tr>'
+                f'<tr><td><a href="https://www.qmul.ac.uk{QM_P}/power-systems/#d.en.1"><span><a href="{QM_P}/power-systems/#d.en.2">Power</a></span></a></td>'
+                '<td>Dr A</td><td>30 November 2026</td></tr>'
+                f'<tr><td><a href="{QM_P}/csc-phd-studentships/#d.en.3">CSC</a></td><td></td><td>27th January 2027</td></tr>'
+                '</tbody></table><a href="/eecs/phd/phd-studentships/">self</a>')
+
+
+def qm_page(body: str) -> str:
+    return f'<h1>Intelligent optimisation and control for future power systems</h1><p>About the Project {body}</p>'
+
+
+def test_qm_urls_read_table():
+    import platforms_uk
+
+    class F:
+        def get(self, url):
+            return type("R", (), {"text": QM_LIST_PAGE})()
+
+    got = platforms_uk.qm_urls(F(), 1)
+    assert [j for j, _ in got] == ["power-systems", "csc-phd-studentships"]
+    assert got[0][1] == "https://www.qmul.ac.uk/eecs/phd/phd-studentships/power-systems/"
+
+
+def test_qm_detail():
+    import platforms_uk as uk
+
+    home = ("The PhD student will receive tuition fees at the home rate and a London stipend at QMUL stipend rates "
+            "(currently in 2026/27 of £22,618 per year, to be confirmed for subsequent years) annually. Non-home/non-UK students "
+            "may apply, but if accepted, they will be responsible for the substantial difference in tuition fees. "
+            "Application Deadline The deadline for applications is 30th November 2026, Monday.")
+    row, why = uk.qm_detail("power-systems", "https://u", qm_page(home), "2026-11-13")
+    assert why == "收录" and row["deadline"] == "2026-11-30" and row["cn"] == "check"
+    assert row["amount"] == "£22,618 per year" and row["id"] == "qmul:power-systems"
+    assert row["quote"] == "Application Deadline The deadline for applications is 30th November 2026"
+
+    csc = ("PhD Studentships co-funded by the China Scholarship Council (CSC). CSC is offering a monthly stipend to cover "
+           "living expenses and QMUL is waiving fees and hosting the student. These scholarships are available only for Chinese "
+           "candidates. Application Deadline The deadline for applications is the 27th January 2027, 4pm.")
+    row, _ = uk.qm_detail("csc", "https://u", qm_page(csc), "2026-11-13")
+    assert row["cn"] == "yes" and row["deadline"] == "2027-01-27" and row["funding_for"].startswith("CSC is offering")
+
+    ukri = ("Awards are tenable for up to 3.5 years, and cover tuition fees and a maintenance stipend at the UKRI rate "
+            "(c. £23,805 p.a. full-time). Application Deadline : The deadline for applications is 16:00 GMT , 27 th January 2027.")
+    row, _ = uk.qm_detail("x", "https://u", qm_page(ukri), "2026-11-13")
+    assert row["deadline"] == "2027-01-27" and row["amount"] == "£23,805 p.a." and "Awards are tenable for up to 3.5 years" in row["funding_for"]
+
+    assert uk.qm_detail("x", "u", qm_page("There is no fixed application deadline."), "2026-11-13") == (None, "未写资助")
+    rolling = "A stipend of £20,000 per year. There is no fixed application deadline, and the position may be filled."
+    assert uk.qm_detail("x", "u", qm_page(rolling), "2026-11-13")[0]["deadline"] == "rolling"
+    assert uk.qm_detail("x", "u", qm_page(home), "2026-12-01") == (None, "已截止")

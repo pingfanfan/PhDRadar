@@ -325,6 +325,61 @@ def hw_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, st
     }, "收录"
 
 
+QM = "https://www.qmul.ac.uk"
+QM_LIST = QM + "/eecs/phd/phd-studentships/"
+QM_LINK = re.compile(r'href="(?:https://www\.qmul\.ac\.uk)?(/eecs/phd/phd-studentships/([a-z0-9-]+)/)')
+QM_DAY = re.compile(r"(\d{1,2})\s*(?:st|nd|rd|th)?\s+([A-Z][a-z]+),?\s+(\d{4})")
+
+
+def qm_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+    """EECS 学院“PhD studentships”页的在招表格（已截止的课题在另一页 closed-phd-studentships）。"""
+    raw = f.get(QM_LIST).text
+    i = raw.find("<table")
+    table = raw[i:raw.find("</table>", i)] if i >= 0 else ""
+    seen: dict[str, str] = {}
+    for path, slug in QM_LINK.findall(table):
+        seen.setdefault(slug, QM + path)
+    return list(seen.items())
+
+
+def qm_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
+    text = page_text(raw)
+    h1 = re.search(r"<h1[^>]*>(.*?)</h1>", raw, re.S)
+    title = re.sub(r"\s+", " ", page_text(h1.group(1))).strip() if h1 else ""
+    csc = re.search(r"available only for Chinese candidates|co-funded by the China Scholarship Council", text)
+    pay = re.search(r"(?:[^.]|\.\d){0,90}stipend[^£]{0,140}£[\d,]+(?:\.\d+)?(?: per (?:year|annum)| p\.a\.)?", text)
+    if not (pay or csc):
+        return None, "未写资助"
+    if re.search(r"no fixed application deadline", text, re.I):
+        deadline, quote = "rolling", "There is no fixed application deadline"
+    else:
+        m = re.search(r"Application Deadline\s*:?\s*(.{0,90})", text)
+        d = QM_DAY.search(m.group(1)) if m else None
+        deadline = soton_day(" ".join(d.groups())) if d else None
+        if not deadline:
+            return None, "页面无截止日期"
+        if deadline < today:
+            return None, "已截止"
+        quote = re.sub(r"\s+", " ", "Application Deadline " + m.group(1)[:d.end()]).strip()
+    if csc:
+        cn = "yes"  # CSC 联合资助：页面写明只面向中国学生
+    elif re.search(r"responsible for the (?:substantial )?difference in tuition fees", text):
+        cn = "check"  # 国际生可申请但要自付学费差额
+    else:
+        cn = cp.cn_of(text)
+    level = "postdoc" if cp.POSTDOC.search(title) and not cp.PHD.search(title) else "phd"
+    offer = re.search(r"CSC is offering[^.]{0,150}", text)
+    funding = (offer.group(0) if offer else csc.group(0)) if csc and not pay else pay.group(0).strip()
+    amount = re.search(r"£[\d,]+(?:\.\d+)?(?: per (?:year|annum)| p\.a\.)?", funding) if pay else None
+    return {
+        "id": f"qmul:{jid}", "title": title[:200], "url": url, "org": "Queen Mary University of London",
+        "country": "UK", "place": "London", "level": level, "deadline": deadline,
+        "quote": quote[:200], "funding_for": funding[:200],
+        "amount": (amount.group(0).strip() if amount else "")[:200], "cn": cn, "flags": cp.flags_of(text), "via": "Queen Mary",
+    }, "收录"
+
+
 ADAPTERS = {"crick": (crick_urls, crick_detail), "lms": (lms_urls, lms_detail), "soton": (soton_urls, soton_detail),
-            "coventry": (cov_urls, cov_detail), "lboro": (lboro_urls, lboro_detail), "hw": (hw_urls, hw_detail)}
-VIA_RANK = {"Crick": 3, "MRC LMS": 3, "Southampton": 3, "Coventry": 3, "Loughborough": 3, "Heriot-Watt": 3}
+            "coventry": (cov_urls, cov_detail), "lboro": (lboro_urls, lboro_detail), "hw": (hw_urls, hw_detail),
+            "qmul": (qm_urls, qm_detail)}
+VIA_RANK = {"Crick": 3, "MRC LMS": 3, "Southampton": 3, "Coventry": 3, "Loughborough": 3, "Heriot-Watt": 3, "Queen Mary": 3}
