@@ -1,10 +1,10 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-11-13。共 **257** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-11-14。共 **255** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
-- [30 天内截止](#30-天内截止)（159）
-- [之后截止](#之后截止)（98）
+- [30 天内截止](#30-天内截止)（158）
+- [之后截止](#之后截止)（97）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（0）
 - [即将开放](#即将开放)（0）
 
@@ -12,8 +12,6 @@
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-13 | [Jane Street Graduate Research Fellowship](https://www.janestreet.com/join-jane-street/programs-and-events/graduate-research-fellowship/) | 美国、加拿大、英国、欧盟/欧洲、澳大利亚、新西兰 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 2027 轮申请截止 2026 年 11 月 13 日（AoE），推荐信截止 12 月 1 日；页面称国际生可申请。<br>官网原句：“Submit your application by November 13, 2026 AoE to be considered.” |
-| 2026-11-13 | [谢菲尔德哈勒姆大学教育学院 White Rose 博士奖学金](https://www.shu.ac.uk/research/degrees/phd-scholarships/sheffield-institute-of-education) | 英国 | 博士 | 官网未写明 | ❔ 官网未写明 | 谢菲尔德哈勒姆大学 White Rose 博士奖学金，正文写入学时间为 2027 年 10 月，截止 2026-11-13 12:00 GMT；需先联系 Dr Lisa McGrath 并提交研究计划。<br>官网原句：“The closing date for Sheffield Hallam Applications is 12:00 pm GMT on 13 November 2026.” |
 | 2026-11-15 | [巴伊兰大学博士后奖学金（非以色列籍）](https://biuinternational.com/admissions/financial-aid-scholarships/postdoctoral-scholarships/) | 以色列 | 博后 | 仅生活费 | ✅ 可申 | Azrieli 博士后奖学金截止 2026 年 11 月 15 日，对除以色列籍及居民外的所有国籍开放；Zuckerman 项目 2026-02-15 已截止，不适用。<br>官网原句：“November 15, 2026” |
 | 2026-11-15 | [Caltech IQIM AWS 量子博士后学者](https://iqim.caltech.edu/aws-quantum-postdoctoral-scholar/) | 美国 | 博后 | 带薪岗位 | ❔ 官网未写明 | 2027 年秋入职的 AWS 量子博后（三年期，首年年薪 $85,000）；须经 Academic Jobs Online 提交并指定 Caltech 教员，2026 年 11 月 15 日为审核截止。<br>官网原句：“November 15, 2026: Deadline for applications, including reference letters” |
 | 2026-11-15 | [CMU AI4BIO Fellows Program（AI 与生物交叉博士后）](https://www.compbiojobs.com/jobs/5803/ai4bio-fellows-program-postdoctoral-fellowship) | 美国 | 博后 | 官网未写明 | ❔ 官网未写明 | 页面写全部材料（含推荐信）须于 2026 年 11 月 15 日前收到，经 Interfolio 提交；页面为第三方招聘站转载，签证与国际生资格未提及。<br>官网原句：“Deadline for applications: all application materials, including letters of reference, must be received by November 15, 2026.” |
@@ -171,12 +169,12 @@
 | 2026-12-10 | [华威大学 CSC 联合博士奖学金（2027 轮）](https://warwick.ac.uk/services/dc/schols_fund/2027/) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 华威 2027 年秋季 PGR 奖学金，CSC 类别；课程申请 12 月 7 日、奖学金申请 12 月 10 日（16:59 GMT）截止；CSC 资格以页面为准。<br>官网原句：“The call for applications will open on 5 October 2026” |
 | 2026-12-11 | [悉尼大学跨国音乐交流博士研究奖学金（Sydney Conservatorium）](https://www.sydney.edu.au/scholarships/a/transnational-musical-exchange.html) | 澳大利亚 | 博士 | 全奖（学费＋生活费） | 🟡 部分可申 | 页面写开放日 24 September 2026、截止 11 December 2026；页面称国际生可获学费与标准生活津贴，需先选定 ARC 项目团队导师。<br>官网原句：“11 December 2026” |
 | 2026-12-13 | [ICTP 数学博士后（的里雅斯特，2026 轮）](https://2022.ictp.it/opportunity/mathematics-postdoctoral-positions-2026) | 意大利 | 博后 | 仅生活费 | ❔ 官网未写明 | 2027 年起始的两年期数学博后，截止 2026-12-13；页面写明优先考虑来自并在发展中国家工作的候选人。<br>官网原句：“ICTP's Mathematics section is now accepting applications for postdoctoral fellowships that would start in 2027.” |
+| 2026-12-14 | [谢菲尔德大学 AHRC Doctoral Landscape Award（2027/28 入学）](https://sheffield.ac.uk/postgraduate/phd/scholarships/ahrc-dla) | 英国 | 博士 | 视项目而定 | 🟡 部分可申 | 先于 2026-12-14 提交 PhD 申请并取得编号，再于 2027-02-19 17:00（GMT）前提交资助申请；每年 4 个名额，国际候选人至多 1 个，竞争激烈。<br>官网原句：“Applications to the AHRC Doctoral Landscape Award at the University of Sheffield for 2027/28 entry are open.” |
 
 ## 之后截止
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-12-14 | [谢菲尔德大学 AHRC Doctoral Landscape Award（2027/28 入学）](https://sheffield.ac.uk/postgraduate/phd/scholarships/ahrc-dla) | 英国 | 博士 | 视项目而定 | 🟡 部分可申 | 先于 2026-12-14 提交 PhD 申请并取得编号，再于 2027-02-19 17:00（GMT）前提交资助申请；每年 4 个名额，国际候选人至多 1 个，竞争激烈。<br>官网原句：“Applications to the AHRC Doctoral Landscape Award at the University of Sheffield for 2027/28 entry are open.” |
 | 2026-12-15 | [波士顿学院计算机科学 PhD（2027 秋季入学）](https://www.bc.edu/content/bc-web/schools/morrissey/departments/computer-science/academics/phd.html) | 美国 | 博士 | 官网未写明 | ❔ 官网未写明 | 页面称 Fall 2027 入学申请窗口为 2026 年 9 月 1 日至 12 月 15 日；未列出国际生资格与具体资助金额。<br>官网原句：“Application for the Fall 2027 cohort will open on Sept. 1st and close on Dec. 15th, 2026.” |
 | 2026-12-15 | [加州理工地震实验室主任博士后学者](https://www.gps.caltech.edu/about/positions-available/postdoctoral-positions/seismological-laboratory-directors-postdoctoral-scholar) | 美国 | 博后 | 带薪岗位 | ✅ 可申 | 2026 轮，年薪 $78,000，初聘 2 年（首年表现良好后续聘）；申请材料与推荐信截止 2026 年 12 月 15 日，需 3 位推荐人。<br>官网原句：“All applications and references are due by December 15, 2026.” |
 | 2026-12-15 | [剑桥 IEEF 能源与环境方向 PhD 奖学金](https://ieef.cam.ac.uk/?p=8567) | 英国 | 博士 | 半奖 / 部分资助 | ❔ 官网未写明 | 页面称“建议”在 2026-12-15 前提交，属推荐日期而非硬截止；需通过大学系统列明项目并注明在研究所开展。<br>官网原句：“It is recommended that applications should be submitted before 15 December 2026.” |
