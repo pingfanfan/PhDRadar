@@ -379,7 +379,77 @@ def qm_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, st
     }, "收录"
 
 
+# ---- MIBTP（Midlands Integrative Biosciences Training Partnership，BBSRC 博士培训项目）----
+# 6 所成员校的课题都列在 Warwick 托管的 MIBTP 站点：4 个研究主题页各有“Project Title / Primary Supervisor”表，
+# 课题链接指向导师页里的锚点（导师页写着 University of Registration）。截止与资助是全项目统一的，写在申请页。
+MI = "https://warwick.ac.uk/fac/cross_fac/mibtp/phd/"
+MI_THEMES = ("sustainable_agriculture_and_food", "renewable_resources_and_clean_growth",
+             "understanding_the_rules_of_life", "integrated_understanding_of_health")
+MI_LINK = re.compile(r'href="(https://warwick\.ac\.uk/fac/cross_fac/mibtp/phd/supervisors/([A-Za-z0-9_-]+)/?)#([A-Za-z0-9_-]+)"')
+MI_OPEN = re.compile(r"(?:Applications for the MIBTP programme to )?start in ([A-Z][a-z]+) (\d{4}) are now OPEN.{0,200}?before (?:[A-Z][a-z]+day )?"
+                     r"(\d{1,2})\s*(?:st|nd|rd|th)?\s+([A-Z][a-z]+)(?:,?\s+(\d{4}))?", re.S)
+MI_PAY = re.compile(r"Awards for both UK residents and International applicants cover UK tuition fees and provide a stipend[^.]{0,80}\.")
+MI_PLACE = {"Aston University": "Birmingham", "University of Birmingham": "Birmingham", "Coventry University": "Coventry",
+            "Harper Adams University": "Newport, Shropshire", "University of Leicester": "Leicester",
+            "University of Warwick": "Coventry"}
+MI_ROUND: dict[str, str] = {}  # 本轮的截止、原文、资助：由 mi_round() 从申请页读出
+
+
+def mi_round(raw: str, today: str) -> dict[str, str]:
+    """申请页：只有写明“now OPEN”且读得出截止日的才算在招；年份没写时按“截止在入学前”推算。"""
+    text = page_text(raw)
+    m, pay = MI_OPEN.search(text), MI_PAY.search(text)
+    if not (m and pay) or m.group(4).lower()[:3] not in _MON3 or m.group(1).lower()[:3] not in _MON3:
+        return {}
+    start_m, start_y = _MON3[m.group(1).lower()[:3]], int(m.group(2))
+    mon = _MON3[m.group(4).lower()[:3]]
+    year = int(m.group(5)) if m.group(5) else (start_y if mon < start_m else start_y - 1)
+    deadline = soton_day(f"{m.group(3)} {m.group(4)} {year}")
+    if not deadline or deadline < today:
+        return {}
+    quote = re.sub(r"\s+", " ", m.group(0)).strip()
+    return {"deadline": deadline, "quote": quote[:200], "funding_for": pay.group(0)[:200]}
+
+
+def mi_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+    MI_ROUND.clear()
+    MI_ROUND.update(mi_round(f.get(MI + "application/").text, cp.date.today().isoformat()))
+    if not MI_ROUND:
+        return []  # 申请未开放或读不出截止：不收，不猜
+    seen: dict[str, str] = {}
+    for theme in MI_THEMES:
+        raw = f.get(MI + theme + "/").text
+        for table in re.findall(r"<table.*?</table>", raw, re.S):
+            for url, sup, anchor in MI_LINK.findall(table):
+                seen.setdefault(f"{sup.lower()}-{anchor.lower()}", f"{url.rstrip('/')}/#{anchor}")
+    return list(seen.items())
+
+
+def mi_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
+    if not MI_ROUND:
+        return None, "申请未开放"
+    if MI_ROUND["deadline"] < today:
+        return None, "已截止"
+    anchor = url.rsplit("#", 1)[-1]
+    sec = re.search(rf'<section[^>]*id="{re.escape(anchor)}-tab".*?</section>', raw, re.S)
+    if not sec:
+        return None, "导师页无此课题"
+    label = re.search(r'aria-label="([^"]*)"', sec.group(0)[:sec.group(0).find(">") + 1])
+    title = page_text(label.group(1)) if label else ""
+    uni = re.search(r"University of Registration:\s*</strong>\s*([^<]+)", sec.group(0))
+    org = re.sub(r"\s+", " ", uni.group(1)).strip() if uni else ""
+    if not (title and org):
+        return None, "课题信息不全"
+    return {
+        "id": f"mibtp:{jid}", "title": title[:200], "url": url, "org": org,
+        "country": "UK", "place": MI_PLACE.get(org, ""), "level": "phd", "deadline": MI_ROUND["deadline"],
+        "quote": MI_ROUND["quote"], "funding_for": MI_ROUND["funding_for"], "amount": "",
+        "cn": "check",  # 申请页：国际生最多占 30%，UKRI 不负担国际生学费差额
+        "flags": cp.flags_of(page_text(sec.group(0))), "via": "MIBTP",
+    }, "收录"
+
+
 ADAPTERS = {"crick": (crick_urls, crick_detail), "lms": (lms_urls, lms_detail), "soton": (soton_urls, soton_detail),
             "coventry": (cov_urls, cov_detail), "lboro": (lboro_urls, lboro_detail), "hw": (hw_urls, hw_detail),
-            "qmul": (qm_urls, qm_detail)}
-VIA_RANK = {"Crick": 3, "MRC LMS": 3, "Southampton": 3, "Coventry": 3, "Loughborough": 3, "Heriot-Watt": 3, "Queen Mary": 3}
+            "qmul": (qm_urls, qm_detail), "mibtp": (mi_urls, mi_detail)}
+VIA_RANK = {"Crick": 3, "MRC LMS": 3, "Southampton": 3, "Coventry": 3, "Loughborough": 3, "Heriot-Watt": 3, "Queen Mary": 3, "MIBTP": 3}

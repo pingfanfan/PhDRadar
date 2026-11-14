@@ -372,3 +372,46 @@ def test_qm_detail():
     rolling = "A stipend of £20,000 per year. There is no fixed application deadline, and the position may be filled."
     assert uk.qm_detail("x", "u", qm_page(rolling), "2026-11-13")[0]["deadline"] == "rolling"
     assert uk.qm_detail("x", "u", qm_page(home), "2026-12-01") == (None, "已截止")
+
+
+MI_APP = ("<p>Applications for the MIBTP programme to start in October 2027 are now OPEN . Please submit your application "
+          "before Monday 23 rd November , making sure that you follow all of the guidance below.</p><p>Awards for both UK "
+          "residents and International applicants cover UK tuition fees and provide a stipend at the standard UKRI rate to "
+          "support living costs. UKRI funding will not cover the difference.</p>")
+MI_SUP = "https://warwick.ac.uk/fac/cross_fac/mibtp/phd/supervisors"
+MI_THEME = ('<a href="https://warwick.ac.uk/fac/cross_fac/mibtp/phd/understanding_the_rules_of_life/#IMM">Immunology</a>'
+            f'<table><tr><td><a href="{MI_SUP}/GAshdown/#delivery_systems">Targeting bacteria</a></td>'
+            f'<td><a href="{MI_SUP}/gashdown/">Dr George Ashdown</a></td></tr>'
+            f'<tr><td><a href="{MI_SUP}/gashdown/#delivery_systems">Targeting bacteria</a></td></tr></table>')
+MI_PAGE = ('<button id="delivery_systems" role="tab">Targeting bacteria</button>'
+           '<section aria-hidden="true" class="tabs-component--panel" role="tabpanel" aria-label="Targeting intracellular '
+           'bacteria with novel lipid-based drug delivery systems" id="delivery_systems-tab"><h4>Project Outline</h4>'
+           '<p><strong>University of Registration: </strong>Aston University</p></section>')
+
+
+def test_mibtp_round_and_urls():
+    import platforms_uk as uk
+    r = uk.mi_round(MI_APP, "2026-11-14")
+    assert r["deadline"] == "2026-11-23" and r["quote"].startswith("Applications for the MIBTP programme")
+    assert r["funding_for"].endswith("to support living costs.")
+    assert uk.mi_round(MI_APP, "2026-11-24") == {}  # 已过截止
+    assert uk.mi_round(MI_APP.replace("now OPEN", "now CLOSED"), "2026-11-14") == {}
+
+    class F:
+        def get(self, url):
+            return type("R", (), {"text": MI_APP if url.endswith("application/") else MI_THEME})()
+
+    got = uk.mi_urls(F(), 1)  # 4 个主题页内容相同：同一课题只留一条，主题页里不在表格内的链接不算
+    assert got == [("gashdown-delivery_systems", f"{MI_SUP}/GAshdown/#delivery_systems")]
+
+
+def test_mibtp_detail():
+    import platforms_uk as uk
+    uk.MI_ROUND.clear()
+    assert uk.mi_detail("x", f"{MI_SUP}/GAshdown/#delivery_systems", MI_PAGE, "2026-11-14") == (None, "申请未开放")
+    uk.MI_ROUND.update(uk.mi_round(MI_APP, "2026-11-14"))
+    row, why = uk.mi_detail("gashdown-delivery_systems", f"{MI_SUP}/GAshdown/#delivery_systems", MI_PAGE, "2026-11-14")
+    assert why == "收录" and row["title"].startswith("Targeting intracellular bacteria") and row["org"] == "Aston University"
+    assert row["cn"] == "check" and row["amount"] == "" and row["deadline"] == "2026-11-23" and row["place"] == "Birmingham"
+    assert uk.mi_detail("y", f"{MI_SUP}/GAshdown/#other", MI_PAGE, "2026-11-14") == (None, "导师页无此课题")
+    uk.MI_ROUND.clear()
