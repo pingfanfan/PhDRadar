@@ -7449,6 +7449,18 @@ academictransfer:365587:
     value: Sebastijan Dumancic 教授
     quote: You will be supervised by Prof. Sebastijan Dumancic.
   llm: '2026-11-14'
+academictransfer:365593:
+  checked: '2026-11-16'
+  degree:
+    value: 传播学、心理学、政治学、元科学、统计学、数据科学或相关领域博士（或即将完成）
+    quote: a PhD in communication science, psychology, political science, meta-science, statistics, data science, or a related field (or you are close to completion)
+  language:
+    value: 英语书面和口语均须优秀
+    quote: excellent written and spoken English
+  duration:
+    value: 12 个月，可延长至 24 个月
+    quote: a job for 12 months, with the possibility to extend to 24 months
+  llm: '2026-11-16'
 ajo:21540:
   checked: '2026-10-19'
   degree:
@@ -10111,6 +10123,23 @@ ajo:33401:
   llm: '2026-11-12'
 ajo:33404:
   checked: '2026-11-15'
+  degree:
+    value: 物理或相关领域博士（或即将完成），入职前须已获得博士学位
+    quote: Candidates must hold, or be about to complete, a Ph.D. in Physics or a related field and must have completed their PhD before the start of the position.
+  start:
+    value: 预计 2027 年 8 月/9 月，可提前
+    quote: The positions are expected to start in August/September 2027, although earlier start dates can be considered.
+  duration:
+    value: 两年，视表现和经费可延长
+    quote: Appointments are for two years, with a possible extension subject to satisfactory performance and availability of funds
+  documents:
+    value: 求职信、含发表列表的简历、研究陈述（不超过 3 页）、至少三位推荐人联系方式
+    quote: A cover letter. A curriculum vitae, including a list of publications. A research statement, limited to three pages with 1-inch margins and an 11–12 pt font, containing a summary of previous and
+      current research and future research plans. Contact information for at least three referees who will be asked to write letters of recommendation.
+  apply_via:
+    value: 在线系统：通过 AJO 网站提交意向书（剑桥岗位需另行申请）
+    quote: Expressions of interest and recommendation letters can be submitted via this website
+  llm: '2026-11-16'
 ajo:33405:
   checked: '2026-11-12'
   degree:
@@ -15923,6 +15952,28 @@ cnrs:UMR5175-AXEGAY-002:
   llm: '2026-10-19'
 cnrs:UMR5175-MAGPRO-006:
   checked: '2026-11-15'
+  start:
+    value: 2027 年 2 月 1 日
+    quote: Date d'Embauche 01/02/2027
+  duration:
+    value: 36 个月
+    quote: Durée du contrat 36 mois
+  language:
+    value: 需具备法语和英语科学写作能力
+    quote: une aptitude à la rédaction scientifique en français et en anglais
+  llm: '2026-11-16'
+cnrs:UMR5182-GLEDRI-004:
+  checked: '2026-11-16'
+  start:
+    value: 2027 年 1 月 1 日
+    quote: Date d'Embauche 01/01/2027
+  duration:
+    value: 6 个月
+    quote: Durée du contrat 6 mois
+  language:
+    value: 需流利英语
+    quote: Anglais courant requis.
+  llm: '2026-11-16'
 cnrs:UMR5193-VALCEC-023:
   checked: '2026-10-19'
   degree:
@@ -33194,6 +33245,21 @@ hnet:70747:
     value: 在线系统：Interfolio
     quote: Please submit all materials through Interfolio
   llm: '2026-11-11'
+hnet:70749:
+  checked: '2026-11-16'
+  degree:
+    value: 博士学位须在 2024 年 9 月 1 日之后、2027 年 9 月 1 日之前获得
+    quote: applicants must have received their PhD degree after 09/01/2024 and before 09/01/2027
+  start:
+    value: 2027 年秋季学期（一般不晚于 10 月 1 日）
+    quote: expected to join TIAS in the fall semester of 2027 (usually no later than October 1)
+  duration:
+    value: 3 年
+    quote: appointed to conduct full-time research at TIAS for three years
+  apply_via:
+    value: 邮件：tiastalent@tsinghua.edu.cn
+    quote: Please email all materials in PDF or Word to tiastalent@tsinghua.edu.cn.
+  llm: '2026-11-16'
 hw:multiscale-x-ray-imaging-and-modelling-of-multiphase-flow-in-porous-rocks-for-subsurface-energy-applications:
   checked: '2026-11-12'
   degree:
@@ -43768,9 +43834,24 @@ jobbnorge:311758:
     value: 在线系统：通过 Jobbnorge 提交
     quote: The application and all attachments must be sent electronically via Jobbnorge.no.
   llm: '2026-11-14'
+jobbnorge:311765:
+  checked: '2026-11-16'
+  error: 读取失败 HTTPError
 jobbnorge:311777:
   checked: '2026-11-14'
   error: 读取失败 HTTPError
+jobbnorge:311782:
+  checked: '2026-11-16'
+  degree:
+    value: 与项目相关学科的硕士学位或同等学位
+    quote: The applicant must possess a Master`s degree or an equivalent in discipline related to the tasks of the project.
+  language:
+    value: 英语口语和书面语均需流利
+    quote: Fluency in both oral and written English is required
+  duration:
+    value: 3 年全职博士职位
+    quote: full-time PhD-position for a duration of three (3) years
+  llm: '2026-11-16'
 jobs-ac-uk:DSP806:
   checked: '2026-10-19'
   nationality:
@@ -54723,6 +54804,23 @@ jobs-ac-uk:DTQ702:
   nationality:
     value: 资助对象：英国学生、欧盟学生、国际学生
     quote: 'Funding for: UK Students, EU Students, International Students'
+  start:
+    value: 2027/28 学年
+    quote: 4 year University Scholarship starting 2027/28 academic year
+  duration:
+    value: 4 年
+    quote: 4 year University Scholarship starting 2027/28 academic year
+  documents:
+    value: 简历、个人陈述（一至两页）、学位成绩单、研究计划（可选）、其他支撑材料
+    quote: You will need (1) a CV, (2) a Personal Statement, which is a one- to two-page document introducing yourself and outlining your motivation for PhD research, (3) a transcript of any qualifying
+      degrees (completed and/or underway), 4) research proposal (optional, but preferable) 5) any additional materials to support your application, e.g. research outputs, thesis, coding repository, etc.
+  apply_via:
+    value: 其他：在线申请，并发邮件至 mengyan.zhang@bristol.ac.uk（主题注明 PhD Application + 姓名）
+    quote: To apply, please send email to mengyan.zhang@bristol.ac.uk with [PhD Application + Your name] in the subject line.
+  supervisor:
+    value: Mengyan Zhang 博士
+    quote: You will be supervised by Dr. Mengyan Zhang
+  llm: '2026-11-16'
 lboro:stochastic-analysis-and-modelling:
   checked: '2026-11-09'
   degree:
@@ -56693,6 +56791,48 @@ mathjobs:29527:
     value: Debdeep Pati 教授
     quote: working with Professor Debdeep Pati
   llm: '2026-11-14'
+mathjobs:29531:
+  checked: '2026-11-16'
+  degree:
+    value: 数学或相近领域博士
+    quote: you will hold a PhD in mathematics or a closely related field
+  duration:
+    value: 2 年定期合同
+    quote: 'Duration: 2-year fixed-term appointment'
+  apply_via:
+    value: 其他：目前不通过 MathJobs 申请，需到 Monash 招聘网站申请
+    quote: We are not accepting applications for this job through MathJobs.Org right now.
+  supervisor:
+    value: Warwick Tucker
+    quote: under the guidance of Warwick Tucker
+  llm: '2026-11-16'
+mathjobs:29532:
+  checked: '2026-11-16'
+  degree:
+    value: 纯数学、计算机科学或相近领域博士
+    quote: you will hold a PhD in pure mathematics, computer science, or a closely related field
+  duration:
+    value: 2 年定期合同
+    quote: 'Duration: 2-year fixed-term appointment'
+  apply_via:
+    value: 其他：目前不通过 MathJobs 申请，需到 Monash 招聘网站申请
+    quote: We are not accepting applications for this job through MathJobs.Org right now.
+  supervisor:
+    value: Melissa Lee
+    quote: under the guidance of Melissa Lee
+  llm: '2026-11-16'
+mathjobs:29533:
+  checked: '2026-11-16'
+  duration:
+    value: 2 年
+    quote: based at Monash University in Melbourne, is for two (2) years
+  apply_via:
+    value: 其他：目前不通过 MathJobs 申请，需到 Monash 招聘网站申请
+    quote: We are not accepting applications for this job through MathJobs.Org right now.
+  supervisor:
+    value: Ron Steinfeld 教授
+    quote: under the guidance of Professor Ron Steinfeld
+  llm: '2026-11-16'
 mibtp:aacharjee-intestinal_physiology:
   checked: '2026-11-15'
   llm: '2026-11-15'
@@ -57148,48 +57288,70 @@ mibtp:hvickery-quantifying_impact:
   llm: '2026-11-15'
 mibtp:hvickery-veterinary_education:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:hyesilkaya-stress_hormones:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:idulloo-cellular_enzymes:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:imilic-immune-cell_state:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:inezis-nuclear_autophagy:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:inezis-selective_autophagy:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:iromerocanelon-structure-activity_relationships:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:istead-behavioural_phenomics:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:jalvarez-appeasing_substance:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:jalvarez-social_integration:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:jbeckwith-respiratory_supercomplexes:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:jblair-antibiotic_accumulation:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:jclarkson-pathogen_races:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:jcoates-environmental_responses:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:jedge-mitigation_strategies:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:jel-awaisi-immune_organotropism:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:jgalea-motor_memories:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:jgreaves-s-acylation_machinery:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:jgutierrez-marcos-chromatin_marks:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:jgutierrez-marcos-protein_degradation:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:jgutierrez-marcos-spatiotemporal_control:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:jgutierrez-marcos-stress_memories:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:jhiggins-modifying_recombination:
   checked: '2026-11-15'
 mibtp:jjames-essential_functions:
@@ -57592,26 +57754,37 @@ mibtp:vsmith-signalling_hub:
   checked: '2026-11-15'
 mibtp:wchow-nmr_approach:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:wchow-spectroscopic_approach:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:wgruhn-organoid_systems:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:wvanschaik-glycogen_metabolism:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:yfan-cell_death:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:yhu-tumour_states:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:ymarkaki-epigenetic_stability:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:zbalklava-response_neurodegeneration:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:zpikramenou-gold_nanoclusters:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:zpikramenou-metal_complexes:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 mibtp:zschnepp-battery_graphite:
   checked: '2026-11-15'
+  llm: '2026-11-16'
 naturecareers:12859054:
   checked: '2026-10-19'
   apply_via:
@@ -62181,6 +62354,16 @@ naturecareers:12865847:
   llm: '2026-10-30'
 naturecareers:12865863:
   checked: '2026-11-15'
+  degree:
+    value: 2025 年 1 月至 2027 年 8 月间获得博士或同等学位
+    quote: Candidates should hold a PhD or equivalent degree awarded between January 2025 - August 2027
+  start:
+    value: 2027 年春季/夏季
+    quote: 'Target Start Date: Spring / Summer 2027'
+  duration:
+    value: 首期 2 年，经双方同意可续第 3 年
+    quote: Initial 2-year appointment, renewable for a 3rd year upon mutual agreement.
+  llm: '2026-11-16'
 naturecareers:12865872:
   checked: '2026-10-26'
   llm: '2026-10-30'
@@ -63185,6 +63368,24 @@ naturecareers:12866300:
     value: 在线系统：仅接受在线申请系统提交
     quote: Applications and supporting documentation are only accepted via the online application system
   llm: '2026-11-04'
+naturecareers:12866309:
+  checked: '2026-11-16'
+  degree:
+    value: 博士、药学博士或医学博士学位，博后经历不足 6 年
+    quote: A PhD, PharmD or MD with less than 6 years of postdoctoral experience
+  language:
+    value: 英语沟通能力强、掌握扎实
+    quote: Strong communicator with solid command of English.
+  start:
+    value: 预计 2027 年春季
+    quote: 'Expected start : spring 2027'
+  documents:
+    value: 动机信、简历（含 2 位学术推荐人）
+    quote: send your motivation letter (why you are interested in this position, career goals) and CV (including experience, track record and 2 academic references)
+  apply_via:
+    value: 邮件：Thomas.Baumert@unistra.fr、Catherine.Schuster@unistra.fr
+    quote: to Prof. Thomas Baumert (Thomas.Baumert@unistra.fr) and Dr Catherine Schuster (Catherine.Schuster@unistra.fr)
+  llm: '2026-11-16'
 naturecareers:12866312:
   checked: '2026-11-03'
   degree:
@@ -63350,6 +63551,18 @@ naturecareers:12866416:
     value: 3 年
     quote: Fixed Term for three years
   llm: '2026-11-11'
+naturecareers:12866420:
+  checked: '2026-11-16'
+  degree:
+    value: 生物或生物医学相关学科的博士、MD、MD/PhD 或同等学位
+    quote: A PhD, MD, MD/PhD, or equivalent degree in a relevant biological or biomedical science discipline
+  documents:
+    value: 简历、研究兴趣与职业目标简述、三位推荐人联系方式
+    quote: A current Curriculum Vitae (CV); a brief statement of research interests and career goals; contact information for three references
+  supervisor:
+    value: Sunder Sims-Lucas 博士
+    quote: The laboratory of Dr. Sunder Sims-Lucas in the University of Maryland School of Medicine
+  llm: '2026-11-16'
 naturecareers:12866425:
   checked: '2026-11-05'
   degree:
@@ -63857,6 +64070,309 @@ naturecareers:12866695:
     value: Dr. Florin CAPITANESCU
     quote: 'Supervisor at LIST: Dr. Florin CAPITANESCU'
   llm: '2026-11-12'
+naturecareers:12866703:
+  checked: '2026-11-16'
+  degree:
+    value: 电气工程、电力系统或能源方向硕士
+    quote: MSc in electrical engineering, power systems or energy.
+  language:
+    value: 必须有 B2 英语证书
+    quote: A B2 English certificate is mandatory
+  duration:
+    value: 48 个月固定期合同
+    quote: Fixed term contract | Belvaux | 48 Months
+  documents:
+    value: 动机信、科研简历、论文（及专利）清单、两位推荐人联系方式
+    quote: 'Your application must include: A motivation letter oriented towards the position and detailing your experience A scientific CV with contact details List of publications (and patents, if applicable)
+      Contact details of 2 references'
+  apply_via:
+    value: 在线系统：通过 HR 系统正式申请，不接受邮件申请
+    quote: Please apply ONLINE formally through the HR system. Applications by email will not be considered.
+  supervisor:
+    value: Florin CAPITANESCU 博士
+    quote: 'Supervisor at LIST: Dr. Florin CAPITANESCU'
+  llm: '2026-11-16'
+naturecareers:12866706:
+  checked: '2026-11-16'
+  degree:
+    value: 相关领域博士、医学博士或同等学位
+    quote: a PhD, MD, or equivalent in a relevant field
+  nationality:
+    value: 美国公民或非公民国民均可申请；T32 资助者须为美国公民、非公民国民或永久居民
+    quote: Both citizens or noncitizen nationals of the United States are welcome to apply (a T32 appointee must be a citizen, a noncitizen national, or a lawful permanent resident of the United States)
+  llm: '2026-11-16'
+naturecareers:12866715:
+  checked: '2026-11-16'
+  degree:
+    value: 两年制硕士学位（120 ECTS）或同等水平学位
+    quote: You must have a two-year master's degree (120 ECTS points) or a similar degree
+  language:
+    value: 英语书面和口语均需优秀
+    quote: Excellent English proficiency in written and oral form
+  start:
+    value: 2027 年 3 月 1 日或协商
+    quote: The starting date is 1 March 2027 (or according to mutual agreement)
+  duration:
+    value: 3 年
+    quote: The period of employment is 3 years.
+  documents:
+    value: 求职信、简历、成绩单与学士/硕士学位证书（英文）、一封推荐信
+    quote: A letter motivating the application (cover letter) Curriculum vitae Grade transcripts and BSc/MSc diploma (in English) including official description of grading scale One letter of reference,
+      with referee’s email and phone number
+  apply_via:
+    value: 在线系统：填写在线申请表，材料合并为一个 PDF 上传
+    quote: fill out the online application form, and attach all your materials in English in one PDF file
+  llm: '2026-11-16'
+naturecareers:12866716:
+  checked: '2026-11-16'
+  degree:
+    value: 两年制硕士学位（120 ECTS）或同等水平学位
+    quote: You must have a two-year master's degree (120 ECTS points) or a similar degree with an academic level equivalent to a two-year master's degree.
+  language:
+    value: 英语书面和口语均需优秀
+    quote: Excellent English proficiency in written and oral form
+  start:
+    value: 2027 年 3 月 1 日或协商
+    quote: The starting date is 1 March 2027 (or according to mutual agreement).
+  duration:
+    value: 3 年
+    quote: The period of employment is 3 years.
+  documents:
+    value: 求职信、简历、成绩单与学士/硕士学位证书（英文，含评分制度说明）、一封推荐信（含推荐人邮箱和电话）
+    quote: 'The file must include: A letter motivating the application (cover letter) Curriculum vitae Grade transcripts and BSc/MSc diploma (in English) including official description of grading scale
+      One letter of reference, with referee’s email and phone number'
+  llm: '2026-11-16'
+naturecareers:12866717:
+  checked: '2026-11-16'
+  degree:
+    value: 两年制硕士学位（120 ECTS）或同等水平学位
+    quote: You must have a two-year master's degree (120 ECTS points) or a similar degree with an academic level equivalent to a two-year master's degree.
+  language:
+    value: 英语书面和口语均需优秀
+    quote: Excellent English proficiency in written and oral form
+  start:
+    value: 2027 年 3 月 1 日或协商
+    quote: The starting date is 1 March 2027 (or according to mutual agreement).
+  duration:
+    value: 3 年
+    quote: The period of employment is 3 years.
+  documents:
+    value: 求职信、简历、成绩单与学士/硕士学位证书（英文，含评分制度说明）、一封推荐信（含推荐人邮箱和电话）
+    quote: 'The file must include: A letter motivating the application (cover letter) Curriculum vitae Grade transcripts and BSc/MSc diploma (in English) including official description of grading scale
+      One letter of recommendation, with referee’s email and phone number'
+  llm: '2026-11-16'
+naturecareers:12866721:
+  checked: '2026-11-16'
+  degree:
+    value: 化学硕士或文凭学位，最好为分析化学方向，或同等资历
+    quote: Completed master´s/diploma degree in chemistry, preferably in the field of analytical chemistry or equivalent qualification.
+  language:
+    value: 德语和英语都很好
+    quote: Very good knowledge of German and English.
+  start:
+    value: 2027 年 1 月 1 日
+    quote: 'Startdate: 01.01.2027'
+  duration:
+    value: 4 年
+    quote: The contract period upon employment is 4 years
+  documents:
+    value: 科研简历/求职信（最多 2 页）、研究兴趣与博士项目设想概述（最多 1 页）、硕士学位/文凭证明
+    quote: With your scientific curriculum vitae / letter of intent (max. 2 pages) With your summary of research interests / ideas for a prospective doctoral project proposal (max. 1 p.) Master Degree /
+      Diploma
+  apply_via:
+    value: 在线系统：通过招聘门户的申请按钮
+    quote: Via our job portal/ Apply now - button
+  llm: '2026-11-16'
+naturecareers:12866742:
+  checked: '2026-11-16'
+  degree:
+    value: 数学项目需相关领域硕士；其他项目相关领域学士或硕士均可
+    quote: Applicants to all other programs can apply if they have completed a bachelor’s or master’s program in a related field
+  documents:
+    value: 护照复印件、个人陈述、学位证书、成绩单、英语能力证明、已发表论文目录与摘要（非必须）、两封推荐信
+    quote: A photocopy of your passport Personal Statement All diploma and degree certificates All transcripts Evidence of English language proficiency Catalogue and abstract of published papers or other
+      documents that prove academic ability (not compulsory). Two recommendation letters
+  nationality:
+    value: 所有国家的申请者均可申请
+    quote: Applications are open to candidates from all countries.
+  llm: '2026-11-16'
+naturecareers:12866749:
+  checked: '2026-11-16'
+  start:
+    value: 2027 年
+    quote: recruiting four PhD students to start in 2027
+  duration:
+    value: 3 年
+    quote: Three-year full-time, salaried PhD fellowships.
+  apply_via:
+    value: 在线系统：通过哥本哈根大学系统提交，不接受邮件申请
+    quote: Applications must be submitted through the University of Copenhagen system; applications sent by e-mail cannot be considered.
+  llm: '2026-11-16'
+naturecareers:12866760:
+  checked: '2026-11-16'
+  degree:
+    value: 物理、材料科学、电气工程或相关领域博士学位
+    quote: You hold a PhD degree in physics, materials science, electrical engineering or a related field.
+  language:
+    value: 英语沟通清晰、写作良好
+    quote: You communicate clearly and write well in English.
+  duration:
+    value: 首期两年合同，优秀者有意延长
+    quote: An initial two-year contract with the intention of extension for strong candidates.
+  documents:
+    value: 简历、发表列表、简短动机信、至少一封推荐信
+    quote: Please send your CV, publication list, a short motivation letter (telling us which of the research topics above excites you most) and at least one reference letter to applications@wmi.badw.de.
+  apply_via:
+    value: 邮件：applications@wmi.badw.de
+    quote: Please send your CV, publication list, a short motivation letter (telling us which of the research topics above excites you most) and at least one reference letter to applications@wmi.badw.de.
+  llm: '2026-11-16'
+naturecareers:12866762:
+  checked: '2026-11-16'
+  degree:
+    value: 地球科学或相近领域博士学位，入职前须已完成
+    quote: A Ph.D. / doctoral degree in Earth Sciences or a closely related field, completed by the start date of employment
+  language:
+    value: 英语流利
+    quote: Fluency in English
+  start:
+    value: 2027 年 1 月 11 日
+    quote: 'Startdate: 11.01.2027'
+  duration:
+    value: 首期 4 年，经协商可延长至共 6 年
+    quote: We offer an initial contract for four years. This contract can be extended to six years in total by mutual agreement.
+  documents:
+    value: 简历/意向信、发表列表、主要研究领域概述（不超过 1 页）、推荐人联系方式
+    quote: With your academic resume / letter of intent • With your list of publications • With a summary of your main research areas (max. 1 page) • Contact information for references
+  apply_via:
+    value: 在线系统：通过招聘门户的申请按钮
+    quote: Via our job portal / the “Apply Now” button
+  llm: '2026-11-16'
+naturecareers:12866765:
+  checked: '2026-11-16'
+  degree:
+    value: 定量遗传学、群体遗传学或相近领域博士学位
+    quote: A Ph.D. in Quantitative Genetics, Population Genetics or similar.
+  language:
+    value: 英语（书面和口语）流利
+    quote: Fluent in English (written and spoken)
+  start:
+    value: 2027 年 4 月 1 日或尽快
+    quote: This is a two-year position starting on 1 April 2027, or as soon as possible.
+  duration:
+    value: 2 年
+    quote: This is a two-year position starting on 1 April 2027, or as soon as possible.
+  documents:
+    value: 简历、学位证书、完整发表列表、未来研究计划说明及研究活动信息、教学档案及教学经历证明（如有）
+    quote: The application must be in English and include a curriculum vitae, degree certificate, a complete list of publications, a statement of future research plans and information about research activities,
+      teaching portfolio and verified information on previous teaching experience (if any).
+  llm: '2026-11-16'
+naturecareers:12866767:
+  checked: '2026-11-16'
+  degree:
+    value: 免疫学或相关生命科学领域博士
+    quote: A Ph.D. in immunology or a related life science discipline.
+  language:
+    value: 英语书面和口头沟通能力强
+    quote: Strong written and verbal communication skills in English.
+  nationality:
+    value: 鼓励国内外申请者
+    quote: Both domestic and international candidates are encouraged to apply.
+  supervisor:
+    value: Chang H. Kim
+    quote: immunology laboratory of Chang H. Kim
+  llm: '2026-11-16'
+naturecareers:12866769:
+  checked: '2026-11-16'
+  degree:
+    value: 博士申请者需已有或即将完成相关硕士学位；博后申请者需在入职时已完成相关博士学位
+    quote: PhD applicants should have or be completing a relevant master’s degree. Postdoctoral applicants should have completed a relevant PhD by the start date.
+  start:
+    value: 2027 年春夏
+    quote: 'Expected start date: spring/summer 2027.'
+  documents:
+    value: 研究兴趣与经历陈述、简历、成绩单（博士申请者）或论文清单（博后申请者）、至少两位推荐人联系方式
+    quote: A brief statement of research interests, relevant experience, and the research direction or directions that interest you most. 2. A curriculum vitae. 3. University transcripts for PhD applicants,
+      or a list of publications for postdoctoral applicants. 4. Contact details of at least two academic or professional references.
+  apply_via:
+    value: 邮件：发给 luca.razzari@inrs.ca
+    quote: contact Prof. Luca Razzari at luca.razzari@inrs.ca
+  supervisor:
+    value: Luca Razzari 教授
+    quote: One research position is available in the group of Prof. Luca Razzari
+  llm: '2026-11-16'
+naturecareers:12866772:
+  checked: '2026-11-16'
+  degree:
+    value: 免疫学、癌症生物学或相近领域博士、MD、MD/PhD 或同等博士学位
+    quote: Ph.D., M.D., M.D./Ph.D., or doctoral equivalent in a relevant field (immunology, cancer biology, or equivalent)
+  llm: '2026-11-16'
+naturecareers:12866773:
+  checked: '2026-11-16'
+  degree:
+    value: 分子影像、化学、放射药学、放射生物学、癌症生物学或生化等相关学科博士、MD/PhD、MD 或同等博士学位
+    quote: PhD, MD/PhD, MD or doctoral equivalent in relevant discipline
+  documents:
+    value: 简历、求职信（概述培训经历、论文与未来研究兴趣），合并为一个 PDF
+    quote: Interested applicants should upload their CV, and a cover letter summarizing training, publications, and future research interests, as one single PDF.
+  llm: '2026-11-16'
+naturecareers:12866774:
+  checked: '2026-11-16'
+  degree:
+    value: 蛋白质工程、免疫学、分子生物学、生物工程或相关学科博士（或即将获得）
+    quote: A PhD (or anticipated PhD) in protein engineering, immunology, molecular biology, bioengineering, or a related discipline.
+  documents:
+    value: 简历、研究经历与兴趣简述、三位推荐人联系方式
+    quote: with their CV, a brief description of their research experience and interests, and contact information for three references
+  apply_via:
+    value: 邮件：mohammad_rashidian@dfci.harvard.edu
+    quote: Interested candidates should email Dr. Rashidian at mohammad_rashidian@dfci.harvard.edu
+  llm: '2026-11-16'
+naturecareers:12866777:
+  checked: '2026-11-16'
+  degree:
+    value: 人类遗传学、基因组学、生物信息学、计算生物学、统计遗传学、神经科学等领域博士，或有相应计算基因组学研究经验
+    quote: Minimum qualifications include a Ph.D. degree in human genetics, genomics, bioinformatics, computational biology, statistical genetics, neuroscience or with appropriate computational genomics
+      research experience.
+  start:
+    value: 立即
+    quote: The position is available immediately
+  duration:
+    value: 2–3 年，可能延长
+    quote: is 2-3 years in duration, with the possibility of extension
+  supervisor:
+    value: Joseph Cheung 博士
+    quote: to work with Dr. Joseph Cheung
+  llm: '2026-11-16'
+naturecareers:12866781:
+  checked: '2026-11-16'
+  start:
+    value: 2026 年 11 月 13 日
+    quote: 'Starting date: 13.11.2026'
+  llm: '2026-11-16'
+naturecareers:12866783:
+  checked: '2026-11-16'
+  degree:
+    value: 物理学博士
+    quote: PhD in physics
+  start:
+    value: 2026 年 11 月 13 日
+    quote: 'Starting date: 13.11.2026'
+  apply_via:
+    value: 在线系统：通过申请门户提交
+    quote: We look forward to receiving your application via our application portal
+  llm: '2026-11-16'
+naturecareers:12866790:
+  checked: '2026-11-16'
+  degree:
+    value: 博士或同等博士学位
+    quote: Applicants should hold a PhD or equivalent doctoral degree
+  documents:
+    value: 简历、研究兴趣与相关经历简述、推荐人联系方式
+    quote: submit a CV, a brief statement of research interests and relevant experience, and contact information for references
+  supervisor:
+    value: Christopher Vakoc
+    quote: available in the lab of Christopher Vakoc
+  llm: '2026-11-16'
 oracle:CX_1-efzu-7294:
   checked: '2026-11-11'
   degree:
@@ -66276,10 +66792,46 @@ oracle:CX_1-efzu-8609:
   llm: '2026-11-14'
 oracle:CX_1-efzu-8612:
   checked: '2026-11-15'
+  degree:
+    value: 博士学位或同等学位
+    quote: As a formal qualification, you must hold a PhD degree (or equivalent).
+  duration:
+    value: 2 年
+    quote: The period of employment is 2 years.
+  documents:
+    value: 求职信、简历、学位证书（英文）、发表列表、至少 2 位推荐人联系方式
+    quote: 'The file must include: Cover letter CV Academic Diplomas (MSc/PhD – in English) List of publications Contact details for at least 2 references.'
+  llm: '2026-11-16'
 oracle:CX_1-efzu-8613:
   checked: '2026-11-15'
+  degree:
+    value: 博士学位或同等学位
+    quote: As a formal qualification, you must hold a PhD degree (or equivalent).
+  start:
+    value: 2027 年 4 月 1 日或协商
+    quote: The starting date is 1 April 2027 (or according to mutual agreement).
+  duration:
+    value: 2 年
+    quote: The period of employment is 2 years.
+  documents:
+    value: 求职信、简历、学位证书（英文）、发表列表
+    quote: 'The file must include: Application (cover letter) CV Academic Diplomas (MSc/PhD – in English) List of publications'
+  llm: '2026-11-16'
 oracle:CX_1-efzu-8614:
   checked: '2026-11-15'
+  degree:
+    value: 两年制硕士学位（120 ECTS）或同等水平学位
+    quote: You must have a two-year master's degree (120 ECTS points) or a similar degree with an academic level equivalent to a two-year master's degree.
+  start:
+    value: 2027 年 2 月 1 日或协商
+    quote: Starting date is as 1 February 2027 or according to mutual agreement.
+  duration:
+    value: 3 年
+    quote: The period of employment is 3 years.
+  documents:
+    value: 求职信、简历、成绩单与学士/硕士学位证书（英文，含评分制度说明）
+    quote: 'The file must include: A letter motivating the application (cover letter) Curriculum vitae Grade transcripts and BSc/MSc diploma (in English) including official description of grading scale'
+  llm: '2026-11-16'
 oracle:CX_1001-elxw-15015:
   checked: '2026-10-22'
   degree:
@@ -67393,6 +67945,24 @@ pageup:jobs.hku.hk-537834:
     value: 在线系统
     quote: The University only accepts online application for the above post
   llm: '2026-11-05'
+pageup:jobs.hku.hk-537887:
+  checked: '2026-11-16'
+  degree:
+    value: 哲学或相关领域博士学位（入职时须已获得）
+    quote: Applicants should possess a Ph.D. degree in philosophy, or a related field, by the time of appointment.
+  start:
+    value: 2027 年 8 月
+    quote: to commence in August 2027 for three years
+  duration:
+    value: 3 年
+    quote: to commence in August 2027 for three years
+  documents:
+    value: 简历、学术写作样本、研究计划（不超过五页）
+    quote: upload an up-to-date C.V., a writing sample of scholarly work, and a proposal detailing the research they intend to pursue as a Fellow (not exceeding five pages)
+  apply_via:
+    value: 在线系统：仅接受在线申请
+    quote: The University only accepts online applications for the above posts.
+  llm: '2026-11-16'
 pageup:jobs.hku.hk-537894:
   checked: '2026-11-15'
   error: 正文太短
@@ -68013,6 +68583,15 @@ physicstoday:42052533:
     value: 须目前具备在美国工作的资格，且将来不需要工作授权担保
     quote: Interested candidates must be currently eligible to work in the US AND must not require work authorization sponsorship in the future.
   llm: '2026-11-15'
+physicstoday:42053014:
+  checked: '2026-11-16'
+  degree:
+    value: 化学、化学工程、材料科学或相关技术领域博士学位（已完成）
+    quote: Completed Ph.D. in Chemistry, Chemical Engineering, Materials Science, or a related technical field
+  nationality:
+    value: 须已具备美国工作资格，且将来不需要工作签证担保
+    quote: Interested candidates must be currently eligible to work in the US AND must not require work authorization sponsorship in the future.
+  llm: '2026-11-16'
 psi:75291:
   checked: '2026-10-19'
   degree:
@@ -70255,6 +70834,37 @@ sciencecareers:681247:
   llm: '2026-11-14'
 sciencecareers:681251:
   checked: '2026-11-15'
+  degree:
+    value: 博士、医学博士或同等学位（入职前可获得），且学位在近三年内获得
+    quote: Applicants should hold a Ph.D., M.D., or equivalent degree (or expect to receive the degree before joining the laboratory) and should have received their degree within the past three years.
+  documents:
+    value: 简历、三位推荐人姓名
+    quote: To apply, please send a CV and three names of references to Dr. Kyung Lee ( kyunglee@mail.nih.gov ).
+  apply_via:
+    value: 邮件：kyunglee@mail.nih.gov
+    quote: To apply, please send a CV and three names of references to Dr. Kyung Lee ( kyunglee@mail.nih.gov ).
+  llm: '2026-11-16'
+sciencecareers:681252:
+  checked: '2026-11-16'
+  degree:
+    value: 相关领域博士学位
+    quote: Completion of a PhD within a relevant field
+  nationality:
+    value: 须有在英国永久工作的权利
+    quote: You must have the right to work permanently in the UK with a willingness to travel as necessary.
+  llm: '2026-11-16'
+sciencecareers:681253:
+  checked: '2026-11-16'
+  degree:
+    value: 相关领域博士学位
+    quote: Completed a PhD in a relevant field
+  apply_via:
+    value: 在线系统：仅通过 EIT 招聘门户提交
+    quote: All applications must be submitted exclusively through the EIT job portal.
+  nationality:
+    value: 须具备英国工作资格；该岗位可考虑提供工作签证担保
+    quote: You must be eligible to work in the UK with a willingness to travel as necessary. We are open to sponsoring employment visas for this role
+  llm: '2026-11-16'
 soton:ai-driven-design-of-smart-multifunctional-metamaterials-for:
   checked: '2026-11-05'
   degree:
@@ -72286,6 +72896,30 @@ successfactors:tudelft-1373219757:
   llm: '2026-10-25'
 successfactors:tudelft-1373298757:
   checked: '2026-11-15'
+  degree:
+    value: 应用数学、计算科学、物理、航空航天工程或相近领域硕士
+    quote: You hold a Master’s degree (MSc) in Applied Mathematics, Computational Science, Physics, Aerospace Engineering, or a closely related field.
+  language:
+    value: 需具备一定水平的英语
+    quote: Doing a PhD at TU Delft requires English proficiency at a certain level
+  start:
+    value: 2027 年 2 月 1 日
+    quote: Starting date of this position is February 1, 2027.
+  duration:
+    value: 原则上 4 年
+    quote: Doctoral candidates will be offered a 4-year period of employment in principle
+  documents:
+    value: 求职信（不超过 1 页）、详细简历、成绩单与硕士学位证书、硕士论文或同类写作样本
+    quote: Cover letter (max. 1 page) outlining your motivation for pursuing this PhD project, your relevant background, and why you are a good fit for this specific position. Please include concrete examples
+      of relevant experience (e.g., from your MSc thesis, projects, or internships). Comprehensive Curriculum Vitae. Transcripts and Master’s degree/diploma (if already available). Copy of your Master’s
+      thesis (or a comparable writing sample).
+  apply_via:
+    value: 在线系统：仅接受在线申请，不处理邮件或邮寄申请
+    quote: You can apply online. We will not process applications sent by email and/or post.
+  supervisor:
+    value: Artur Palha
+    quote: The PhD will be supervised by Artur Palha
+  llm: '2026-11-16'
 successfactors:tudelft-1373337557:
   checked: '2026-10-19'
   degree:
@@ -72987,6 +73621,24 @@ successfactors:tudelft-1375215257:
     value: 在线系统：不接受邮件或邮寄申请
     quote: You can apply online. We will not process applications sent by email and/or post.
   llm: '2026-10-19'
+successfactors:tudelft-1375334857:
+  checked: '2026-11-16'
+  degree:
+    value: 地球物理、地质、地球科学、地质或石油工程等相近学科硕士
+    quote: An MSc degree in geophysics, geology, earth sciences, geological or petroleum engineering, or a closely related discipline.
+  language:
+    value: 需达到一定水平的英语
+    quote: Doing a PhD at TU Delft requires English proficiency at a certain level to ensure that the candidate is able to communicate and interact well
+  duration:
+    value: 4 年雇佣期（原则上）
+    quote: Doctoral candidates will be offered a 4-year period of employment in principle
+  documents:
+    value: 动机信、简历（含相关课程清单）、硕士论文题目（如适用）
+    quote: 'upload the following documents: Motivation letter. Curriculum Vitae, including a list of relevant courses. If applicable, the topic of your MSc thesis.'
+  apply_via:
+    value: 在线系统：不接受邮件或邮寄申请
+    quote: You can apply online. We will not process applications sent by email and/or post.
+  llm: '2026-11-16'
 successfactors:tudelft-1375594157:
   checked: '2026-10-23'
   degree:
@@ -98171,6 +98823,24 @@ workday:uq-R-69666:
     value: 简历、求职信、对“About You”部分的回答
     quote: upload a resume , cover letter , and responses to the ‘About You’ section
   llm: '2026-11-04'
+workday:uq-R-69881:
+  checked: '2026-11-16'
+  degree:
+    value: 生物统计、流行病学、卫生经济、数据科学或相近学科博士（已完成或即将完成）
+    quote: A completed or near-completed PhD in biostatistics, epidemiology, health economics, data science or a closely related discipline.
+  duration:
+    value: 全职定期合同，至 2030 年 1 月
+    quote: Full-time, fixed-term position until January 2030
+  documents:
+    value: 简历、求职信及对岗位要求（About You）部分的回应
+    quote: please ensure you upload a resume , cover letter , and responses to the ‘About You’ section
+  apply_via:
+    value: 在线系统：不接受邮件申请
+    quote: Please note that applications received via email will not be accepted.
+  nationality:
+    value: 须持有在澳不受限制的工作权利；雇主不提供工作权利担保
+    quote: You must maintain unrestricted work rights in Australia for the duration of this appointment to apply. Employer sponsored work rights are not available for this appointment.
+  llm: '2026-11-16'
 workday:uq-R-69889:
   checked: '2026-11-03'
   degree:
@@ -98180,6 +98850,21 @@ workday:uq-R-69889:
     value: 最长 2 年（全职）
     quote: Full-time (100%), fixed-term position for up to 2 years
   llm: '2026-11-03'
+workday:uq-R-69931:
+  checked: '2026-11-16'
+  degree:
+    value: 生殖生物学、动物科学、兽医学、发育生物学或相关学科博士
+    quote: Completion of a PhD in reproductive biology, animal science, veterinary science, developmental biology or a relevant discipline.
+  duration:
+    value: 全职定期合同，至 2028 年 6 月 30 日
+    quote: Full-time, fixed-term position up until 30 June 2028
+  documents:
+    value: 简历、求职信及对岗位要求（About You）部分的回应
+    quote: please ensure you upload a resume , cover letter , and responses to the ‘About You’ section
+  apply_via:
+    value: 在线系统：不接受邮件申请
+    quote: Please note that applications received via email will not be accepted.
+  llm: '2026-11-16'
 workday:uq-R-69982:
   checked: '2026-11-09'
   degree:
@@ -98288,6 +98973,24 @@ workday:uq-R-70604:
     value: 简历、求职信、对“About You”部分的回应
     quote: upload a resume , cover letter , and responses to the ‘About You’ section
   llm: '2026-11-12'
+workday:uq-R-70650:
+  checked: '2026-11-16'
+  degree:
+    value: 语言学、传播学、数字/计算人文、计算社会科学或相关领域博士
+    quote: Completion of a PhD in linguistics, communication, digital/computational humanities, computational social sciences or related area.
+  duration:
+    value: 全职定期合同，至 2029 年 12 月 31 日
+    quote: Full-time, fixed-term position for up until 31 December 2029
+  documents:
+    value: 简历、求职信及对岗位要求（About You）部分的回应
+    quote: please ensure you upload a resume , cover letter , and responses to the ‘About You’ section
+  apply_via:
+    value: 在线系统：不接受邮件申请
+    quote: Please note that applications received via email will not be accepted.
+  nationality:
+    value: 须为澳大利亚或新西兰公民/永久居民
+    quote: Australian or New Zealand Citizenship/Permanent Residency is a requirement of this position.
+  llm: '2026-11-16'
 workday:usyd-0155949:
   checked: '2026-10-19'
   degree:
@@ -98612,6 +99315,27 @@ workday:usyd-0158347:
     value: Gregor Verbic 教授、Ali Abbas 教授
     quote: led by Profs. Gregor Verbic and Ali Abbas
   llm: '2026-10-22'
+workday:usyd-0158410:
+  checked: '2026-11-16'
+  degree:
+    value: 计算机科学博士学位（或接近完成）
+    quote: a PhD (or near completion) in computer science
+  duration:
+    value: 2 年全职定期合同
+    quote: Full time 2 year fixed term opportunity
+  supervisor:
+    value: Tongliang Liu 副教授（机器学习）
+    quote: work closely with Tongliang Liu - Associate Professor in Machine Learning
+  documents:
+    value: 求职信、简历及其他支持材料
+    quote: Applications (including a cover letter, CV, and any additional supporting documentation) can be submitted via the Apply button at the top of the page.
+  apply_via:
+    value: 在线系统：通过页面上的申请按钮提交
+    quote: Applications (including a cover letter, CV, and any additional supporting documentation) can be submitted via the Apply button at the top of the page.
+  nationality:
+    value: 须在澳大利亚拥有不受限制的工作权利；不提供签证担保
+    quote: You must have unrestricted work rights in Australia for the duration of this employment to be eligible to apply. Visa sponsorship is not available for this appointment.
+  llm: '2026-11-16'
 workday:usyd-0158492:
   checked: '2026-11-04'
   duration:
