@@ -1,10 +1,10 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-11-15。共 **255** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-11-16。共 **239** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
-- [30 天内截止](#30-天内截止)（167）
-- [之后截止](#之后截止)（88）
+- [30 天内截止](#30-天内截止)（155）
+- [之后截止](#之后截止)（84）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（0）
 - [即将开放](#即将开放)（0）
 
@@ -12,22 +12,6 @@
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-15 | [巴伊兰大学博士后奖学金（非以色列籍）](https://biuinternational.com/admissions/financial-aid-scholarships/postdoctoral-scholarships/) | 以色列 | 博后 | 仅生活费 | ✅ 可申 | Azrieli 博士后奖学金截止 2026 年 11 月 15 日，对除以色列籍及居民外的所有国籍开放；Zuckerman 项目 2026-02-15 已截止，不适用。<br>官网原句：“November 15, 2026” |
-| 2026-11-15 | [Caltech IQIM AWS 量子博士后学者](https://iqim.caltech.edu/aws-quantum-postdoctoral-scholar/) | 美国 | 博后 | 带薪岗位 | ❔ 官网未写明 | 2027 年秋入职的 AWS 量子博后（三年期，首年年薪 $85,000）；须经 Academic Jobs Online 提交并指定 Caltech 教员，2026 年 11 月 15 日为审核截止。<br>官网原句：“November 15, 2026: Deadline for applications, including reference letters” |
-| 2026-11-15 | [CMU AI4BIO Fellows Program（AI 与生物交叉博士后）](https://www.compbiojobs.com/jobs/5803/ai4bio-fellows-program-postdoctoral-fellowship) | 美国 | 博后 | 官网未写明 | ❔ 官网未写明 | 页面写全部材料（含推荐信）须于 2026 年 11 月 15 日前收到，经 Interfolio 提交；页面为第三方招聘站转载，签证与国际生资格未提及。<br>官网原句：“Deadline for applications: all application materials, including letters of reference, must be received by November 15, 2026.” |
-| 2026-11-15 | [Dan David Society of Fellows（特拉维夫大学两年博后）](https://en-humanities.tau.ac.il/dan-david-fellows) | 以色列 | 博后 | 仅生活费 | ✅ 可申 | 2027–2030 轮三年期博后，2027 年 10 月 1 日起；博士须于 2022-10-01 至 2027-09-01 之间获得；截止 2026 年 11 月 15 日。<br>官网原句：“The deadline for applications for the 2027-2030 academic years is November 15, 2026.” |
-| 2026-11-15 | [弗里德里希·米歇尔研究所（FMI）国际博士项目（巴塞尔大学联合培养）](https://www.fmi.ch/education-careers/programs/) | 瑞士 | 博士 | 仅生活费 | ❔ 官网未写明 | 2026 年秋季轮 9 月 1 日开放、11 月 15 日截止，面试 2027 年 1 月 20–21 日；页面未列津贴金额。<br>官网原句：“Closing: Nov 15, 2026” |
-| 2026-11-15 | [北海道大学理学研究院 IGC-DHS 数据驱动与假设驱动科学国际研究生课程（MEXT 2027 年 10 月入学）](https://www2.sci.hokudai.ac.jp/gs/en/news/5419) | 日本 | 博士 | 全奖（学费＋生活费） | ❔ 官网未写明 | 2027 年 10 月入学的 IGC-DHS，第一阶段材料提交期为 2026 年 10 月 1 日至 11 月 15 日，须先与拟指导教授联系；中国大陆申请人能否占用 MEXT 名额页面未写，需核实。<br>官网原句：“between October 1st to November 15th 2026” |
-| 2026-11-15 | [Caltech IQIM 量子信息博士后学者](https://iqim.caltech.edu/postdoc-application/) | 美国 | 博后 | 带薪岗位 | ❔ 官网未写明 | 2027 年秋入职的博后批次，审核自 2026-11-15 开始，页面建议当日前提交全部材料；第一年年薪 85,000 美元（页面所列）。<br>官网原句：“November 15, 2026: Deadline for applications, including reference letters” |
-| 2026-11-15 | [Kavli IPMU 博士后研究员（PD 计划）](https://www.ipmu.jp/en/node/9303) | 日本 | 博后 | 带薪岗位 | ✅ 可申 | PD2026 博士后职位正在接受申请，页面建议 2026 年 11 月 15 日（JST）前经 AcademicJobsOnline 提交材料。<br>官网原句：“November 15, 2026 (JST)” |
-| 2026-11-15 | [KITP 理论物理博士后（UCSB）](https://www.kitp.ucsb.edu/apply/fellowships/postdoctoral-scholars-theoretical-physics) | 美国 | 博后 | 官网未写明 | ❔ 官网未写明 | 2027 年 9 月 1 日入职，截止 2026-11-15（primary consideration），经 Academic Jobs Online 提交；页面未列国籍条件与资助金额。<br>官网原句：“Apply by November 15, 2026 for primary consideration.” |
-| 2026-11-15 | [岭南大学社会学与社会政策系博士后（2 个岗位，26/236/JAC）](https://www.jobs.ac.uk/job/DSY616/postdoctoral-fellow) | 中国香港 | 博后 | 带薪岗位 | ❔ 官网未写明 | 页面写明 2026 年 11 月 15 日到期，两个博后岗位，固定期合同最长两年；要求入职前三年内获社会学或相关博士学位，薪酬未列具体数额。<br>官网原句：“15th November 2026” |
-| 2026-11-15 | [瑞典 Institut Mittag-Leffler 青年学者（Junior Fellowship）](https://mittag-leffler.se/calls/call-for-junior-fellowships) | 瑞典 | 博士、博后 | 半奖 / 部分资助 | ❔ 官网未写明 | 页面写 2028 春季项目（February 9 – May 19, 2028）的申请截止为 November 15, 2026。<br>官网原句：“November 15, 2026” |
-| 2026-11-15 | [NUS 化学系 2027 年 8 月入学博士录取说明（PDF）](https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2026/06/Early-Offer-PhD-Chemistry-for-2027-Aug-intake-v.-F.pdf) | 新加坡 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 2027 年 8 月入学标准申请截止 2026-11-15（PDF 所列）；8 月 1 日前的早录取邮件窗口已过。<br>官网原句：“November 15,” |
-| 2026-11-15 | [OIST 冲绳科学技术大学院大学](https://www.oist.jp/admissions) | 日本 | 博士、博后 | 官网未写明 | ❔ 官网未写明 | PhD 项目申请期为 2026 年 7 月 31 日至 11 月 15 日；页面称为全额资助的 5 年项目，国籍资格未在正文中写明。<br>官网原句：“July 31, 2026 - November 15, 2026” |
-| 2026-11-15 | [冲绳科学技术大学院大学（OIST）博士项目](https://admissions.oist.jp/apply-phd) | 日本 | 博士 | 全奖（学费＋生活费） | ❔ 官网未写明 | OIST 博士项目申请期 2026-07-31 至 2026-11-15，页面称为全额资助的 5 年项目。<br>官网原句：“July 31, 2026 - November 15, 2026” |
-| 2026-11-15 | [Manjana Milkoreit · OsloMet · CAMELOT（ERC CoG）长期气候治理博士岗](https://www.oslomet.no/en/work/job-openings/phd-position-in-long-term-climate-governance) | 挪威 | 博士 | 带薪岗位 | ❔ 官网未写明 | 页面写 Apply by 15 November 2026，计划 2027 年 4 月入职，需满足 OsloMet 博士项目入学条件。<br>官网原句：“15 November 2026” |
-| 2026-11-15 | [卢塞恩大学博士岗位（ERC Starting Grant REPAIR 项目，AI 与福利国家）](https://www.unilu.ch/en/university/personnel/human-resources-department/vacancies/phd-candidate-doctoral-researcher-100-2216512) | 瑞士 | 博士 | 带薪岗位 | ❔ 官网未写明 | 正文写明 2026 年 11 月 15 日前以单个 PDF 提交申请，页面有 Apply now 入口；岗位 2027 年 1 月 1 日起，固定期限 4 年。<br>官网原句：“15 November 2026” |
 | 2026-11-16 | [安大略研究生奖学金（OGS）国际生配额](https://gradstudents.carleton.ca/ogs/) | 加拿大 | 博士 | 半奖 / 部分资助 | 🟡 部分可申 | Carleton 页面称申请 2026-11-16 23:59（EST）截止，校内申请现在开放；国际生需持安省学习许可，名额受省级配额限制。<br>官网原句：“close on November 16, 2026 at 11:59 p.m. EST” |
 | 2026-11-16 | [爱丁堡 Doctoral College 国际博士奖学金页](https://registryservices.ed.ac.uk/student-funding/postgraduate/international/doctoral-college) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 各学院截止不同：生物科学 2026-11-16 最早，信息学 2026-11-30，最晚 2027-02-02；以学院表格为准。<br>官网原句：“23:59 (UK Time) 16th November 2026” |
 | 2026-11-16 | [FWO 比利时初级博士后奖学金（Junior Postdoctoral）](https://fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/junior-postdoctoral-fellowship/) | 比利时 | 博后 | 带薪岗位 | ❔ 官网未写明 | 2027 起始轮，截止 2026-11-16 17:00；需在佛兰德宿主机构找到导师，博士学位须在起始年 10 月 1 日前不超过 3 年获得。<br>官网原句：“16 November 2026 at 5pm” |
@@ -179,15 +163,15 @@
 | 2026-12-15 | [NUS 计算机学院研究生项目总览](https://www.comp.nus.edu.sg/graduate/) | 新加坡 | 博士 | 视项目而定 | ❔ 官网未写明 | 页面 PhD Intake 写申请时间为现在至 2026 年 12 月 15 日（计算机科学、信息系统方向）；研究生助教博士计划等奖学金截止未列出。<br>官网原句：“Now – 15 December 2026” |
 | 2026-12-15 | [香港大学人文学科研究员学会（Society of Fellows in the Humanities）](https://sof-wix.arts.hku.hk/call-for-applications) | 中国香港 | 博后 | 带薪岗位 | ✅ 可申 | 2027-28 轮截止 2026 年 12 月 15 日 23:59（香港时间）；仅限 2025-01-01 后至 2027-06-30 前获得博士学位者，HKU 博士不予考虑。<br>官网原句：“The deadline for application is 23:59 on Tuesday, December 15, 2026 (Hong Kong time).” |
 | 2026-12-15 | [UC Berkeley 物理系研究生招生页](https://physics.berkeley.edu/node/1711) | 美国 | 博士 | 官网未写明 | ❔ 官网未写明 | 正文写明 2027 年秋季入学的截止为 2026 年 12 月 15 日（太平洋时间 8:59 PM），仅招秋季；2027 秋季需提交 Physics GRE。<br>官网原句：“15 2026, at 8:59 PM (Pacific Standard Time)/11:59 PM (Eastern Standard Time)” |
+| 2026-12-16 | [ARIES 博士培训伙伴奖学金（含 Cefas 合作 CASE 项目）](https://aries-dtp.ac.uk/studentships/) | 英国 | 博士 | 全奖（学费＋生活费） | ❔ 官网未写明 | 2027 年 10 月 1 日开学的 NERC DLA 资助博士项目，申请截止 2026-12-16 23:59；中国大陆学生资格仍为 check。<br>官网原句：“The closing date for applications is 23:59 on 16 December 2026.” |
+| 2026-12-16 | [根特大学 × 国家留学基金委（CSC）联合博士项目](https://www.ugent.be/en/research/funding/bof/chn) | 比利时 | 博士 | 半奖 / 部分资助 | ✅ 可申 | UGent 预选截止 2026-12-16（需先获 UGent 教授同意担任导师）；CSC 截止约 2027 年 3 月。<br>官网原句：“Deadline for UGent pre-selection for CSC Preference Scholarships: December 16, 2026.” |
+| 2026-12-16 | [布里斯托地理数据科学博士（含奖学金）](https://www.bristol.ac.uk/geography/courses/postgraduate/phd-in-geographic-data-science/) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 2027 年 9 月入学：大学第一步截止 2026-12-16，SWDTP 2027-01-12，大学奖学金 2027-01-18。<br>官网原句：“University of Bristol deadline: 12:00 noon Monday 16th December 2026.” |
+| 2026-12-16 | [犹他大学研究生研究奖学金](https://gradschool.utah.edu/funding/fellowships-scholarships-awards/grad-school-administered/graduate-research-fellowship.php) | 美国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 申请截止 2026-12-16，页面注明院系可能更早截止；每院系最多 2 份提案，需院系主席背书；页面更新于 10/13/26。<br>官网原句：“APPLICATION DEADLINE: December 16, 2026” |
 
 ## 之后截止
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-12-16 | [ARIES 博士培训伙伴奖学金（含 Cefas 合作 CASE 项目）](https://aries-dtp.ac.uk/studentships/) | 英国 | 博士 | 全奖（学费＋生活费） | ❔ 官网未写明 | 2027 年 10 月 1 日开学的 NERC DLA 资助博士项目，申请截止 2026-12-16 23:59；中国大陆学生资格仍为 check。<br>官网原句：“The closing date for applications is 23:59 on 16 December 2026.” |
-| 2026-12-16 | [根特大学 × 国家留学基金委（CSC）联合博士项目](https://www.ugent.be/en/research/funding/bof/chn) | 比利时 | 博士 | 半奖 / 部分资助 | ✅ 可申 | UGent 预选截止 2026-12-16（需先获 UGent 教授同意担任导师）；CSC 截止约 2027 年 3 月。<br>官网原句：“Deadline for UGent pre-selection for CSC Preference Scholarships: December 16, 2026.” |
-| 2026-12-16 | [布里斯托地理数据科学博士（含奖学金）](https://www.bristol.ac.uk/geography/courses/postgraduate/phd-in-geographic-data-science/) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 2027 年 9 月入学：大学第一步截止 2026-12-16，SWDTP 2027-01-12，大学奖学金 2027-01-18。<br>官网原句：“University of Bristol deadline: 12:00 noon Monday 16th December 2026.” |
-| 2026-12-16 | [犹他大学研究生研究奖学金](https://gradschool.utah.edu/funding/fellowships-scholarships-awards/grad-school-administered/graduate-research-fellowship.php) | 美国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 申请截止 2026-12-16，页面注明院系可能更早截止；每院系最多 2 份提案，需院系主席背书；页面更新于 10/13/26。<br>官网原句：“APPLICATION DEADLINE: December 16, 2026” |
 | 2026-12-18 | [悉尼大学国际生研究奖学金](https://sydney.edu.au/scholarships/australian-government-research-training-program/rtp-international.html) | 澳大利亚 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | RTP 奖学金 2027 年 Research Period 3 和 4 的提交截止为 2026-12-18；2027 年 Period 1 和 2 的截止 2026-09-11 已过。<br>官网原句：“18 December 2026” |
 | 2026-12-20 | [TSE-IAST 政治经济学博士后（2027 年 1 月入职）](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/document/2027_TSE-IAST_Political_Economy.pdf) | 法国 | 博后 | 带薪岗位 | ❔ 官网未写明 | 正文写明申请截止 2026-12-20，入职 2027-01-01（最晚 2027-09-01），为期两年；申请材料以英文发送至指定邮箱。<br>官网原句：“Application deadline: December 20th, 2026.” |
 | 2026-12-30 | [越南科学技术大学（USTH）2026 联合培养博士（co-tutelle）岗位](https://usth.edu.vn/en/call-for-co-tutelle-partners-and-phd-subjects-2026-11462/) | VN | 博士 | 半奖 / 部分资助 | ❔ 官网未写明 | 页面写明 2026 年 12 月 30 日前滚动接受申请，名额招满即关闭；需找到法国或其他欧洲合作方导师。<br>官网原句：“Applications are accepted on a rolling basis until December 30, 2026 and will close once all positions are filled.” |
