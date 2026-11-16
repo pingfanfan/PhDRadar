@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T11:39:04+00:00",
+ "generated_at": "2026-11-16T11:50:29+00:00",
  "links": {
   "euraxess": [
    "ok",
@@ -14,8 +14,8 @@
    "HTTP 200"
   ],
   "science-careers": [
-   "warn",
-   "HTTP 403"
+   "ok",
+   "HTTP 200 → https://jobs.sciencecareers.org/jobs/"
   ],
   "discoverphds": [
    "ok",
@@ -159,7 +159,7 @@
   ],
   "gks": [
    "ok",
-   "HTTP 200 → https://www.studyinkorea.go.kr/ko/main.do;jsessionid=5zTeN7vcBUmbJPE_qt2RNbLg-S0DNYGhj_Yp0pWk.studyinkorea10"
+   "HTTP 200 → https://www.studyinkorea.go.kr/ko/main.do;jsessionid=GOveo6Q6pCmQwFlavVLVw1sQzwbUPOcYr5FD8aqd.studyinkorea20"
   ],
   "hkpfs": [
    "ok",
@@ -239,7 +239,7 @@
   ],
   "astar-arap": [
    "ok",
-   "HTTP 202"
+   "HTTP 200"
   ],
   "google-phd-fellowship": [
    "ok",
@@ -294,8 +294,8 @@
    "HTTP 200"
   ],
   "ecolog-l": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200"
   ],
   "sfn-neurojobs": [
    "ok",
@@ -870,8 +870,8 @@
    "HTTP 200"
   ],
   "agu-findajob-ocean-science-phd": [
-   "warn",
-   "HTTP 403"
+   "ok",
+   "HTTP 200"
   ],
   "plymouth-marine-research-studentship": [
    "ok",
@@ -1026,8 +1026,8 @@
    "HTTP 200"
   ],
   "edinburgh-neuroscience-jobs": [
-   "warn",
-   "HTTP 403 → https://edinburghneuroscience.ed.ac.uk/opportunities/jobs-internships-phds"
+   "dead",
+   "HTTP 404 → https://edinburghneuroscience.ed.ac.uk/opportunities/jobs-internships-phds"
   ],
   "mpi-cbs-leipzig-jobs": [
    "ok",
@@ -1166,8 +1166,8 @@
    "HTTP 200 → https://www.tudelft.nl/bk/over-faculteit/afdelingen/architectural-engineering-and-technology/onderzoek/phd-vacatures"
   ],
   "mit-dusp-phd-funding": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200"
   ],
   "cuhk-arch-mphil-phd-pgs": [
    "ok",
@@ -1302,12 +1302,12 @@
    "SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开）"
   ],
   "uea-csc": [
-   "warn",
-   "HTTP 405"
+   "ok",
+   "HTTP 200"
   ],
   "uea-senss-studentships": [
-   "warn",
-   "HTTP 405"
+   "ok",
+   "HTTP 200"
   ],
   "portsmouth-intl-phd-studentships": [
    "ok",
@@ -1411,7 +1411,7 @@
   ],
   "ubc-arthritis-rehab-lab": [
    "ok",
-   "HTTP 200"
+   "HTTP 200 → https://arthritis.rehab.med.ubc.ca/join-us/"
   ],
   "mpi-psycholinguistics-vacancies": [
    "ok",
@@ -1682,12 +1682,12 @@
    "HTTP 200 → https://www.ie.edu/business-school/programs/doctorates/phd-in-management/admissions-fees/"
   ],
   "amu-ed372-financing": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200"
   ],
   "amu-ed659-funding": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200"
   ],
   "caltech-exp-prize-postdoc": [
    "ok",
@@ -1814,8 +1814,8 @@
    "HTTP 200"
   ],
   "conicet-becario": [
-   "warn",
-   "HTTP 503"
+   "ok",
+   "HTTP 200"
   ],
   "icts-opportunities": [
    "ok",
@@ -1830,12 +1830,12 @@
    "HTTP 200"
   ],
   "print-ufsc-visiting-postdoc": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "HTTP 502"
   ],
   "iapetus2-nerc-dtp": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "HTTP 429"
   ],
   "mibtp-bbsrc-dtp": [
    "ok",
@@ -1858,8 +1858,8 @@
    "HTTP 200"
   ],
   "mrc-impact-midlands-dtp": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
   ],
   "warwick-maths-studentships": [
    "ok",
@@ -1990,8 +1990,8 @@
    "HTTP 403"
   ],
   "leibniz-hki-ilrs": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200"
   ],
   "sgbm-freiburg": [
    "warn",
@@ -2079,7 +2079,7 @@
   ],
   "uw-madison-ipib-biochemistry-funding": [
    "ok",
-   "HTTP 202"
+   "HTTP 200"
   ],
   "baylor-gsbs-fees-expenses": [
    "ok",
@@ -2158,8 +2158,8 @@
    "HTTP 200"
   ],
   "sorbonne-ed515-contrat-doctoral": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
   ],
   "sorbonne-universite-financement-doctorat": [
    "ok",
@@ -2210,8 +2210,8 @@
    "HTTP 404"
   ],
   "cea-drf-thesis-salary-info": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
   ],
   "cnrs-cellule-sante": [
    "ok",
@@ -2447,15 +2447,15 @@
   ],
   "astar-ags-official": [
    "ok",
-   "HTTP 202"
+   "HTTP 200"
   ],
   "tartu-phd-open-calls": [
    "ok",
    "HTTP 200"
   ],
   "elte-stipendium-hungaricum": [
-   "ok",
-   "HTTP 200"
+   "dead",
+   "DNS 解析失败"
   ],
   "fct-doctoral-2026-calls": [
    "ok",
@@ -2638,8 +2638,8 @@
    "HTTP 200"
   ],
   "ephe-funded-phd-campaign": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "HTTP 503"
   ],
   "sheffield-fully-funded-epsrc-phds": [
    "ok",
@@ -3058,12 +3058,12 @@
    "HTTP 200"
   ],
   "aries-dtp-studentships": [
-   "warn",
-   "HTTP 405"
+   "ok",
+   "HTTP 200"
   ],
   "fsbi-phd-studentships": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200"
   ],
   "gu-ocean-vacancies": [
    "ok",
@@ -3194,8 +3194,8 @@
    "HTTP 200 → https://www.imperial.ac.uk/bioengineering/study/postgraduate-research/doctoral/funding/studentships/"
   ],
   "rwth-medit-phd": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200"
   ],
   "ismrm-career-postdocs": [
    "ok",
@@ -3610,8 +3610,8 @@
    "HTTP 200"
   ],
   "fondecyt-postdoctorado-2027": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "ReadTimeout（超时）"
   ],
   "bwf-pdep": [
    "ok",
@@ -3670,8 +3670,8 @@
    "HTTP 200"
   ],
   "mbl-whitman-fellowship": [
-   "warn",
-   "ConnectionError（连接失败，可能限制境外访问）"
+   "ok",
+   "HTTP 200"
   ],
   "acs-postdoc-fellowship": [
    "ok",
@@ -3691,7 +3691,7 @@
   ],
   "inside-higher-ed-postdoc-na": [
    "ok",
-   "HTTP 200 → https://careers.insidehighered.com/jobs/postdoc/north-america/4/"
+   "HTTP 200 → https://careers.insidehighered.com/jobs/postdoc/north-america/3/"
   ],
   "alberta-innovates-recruitment-postdoc": [
    "ok",
@@ -3950,8 +3950,8 @@
    "HTTP 200"
   ],
   "miami-first-year-biomedical": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "HTTP 403"
   ],
   "ucf-biomed-graduate-funding": [
    "ok",
@@ -4034,8 +4034,8 @@
    "HTTP 200"
   ],
   "amu-ed67-contrat-doc-2026-2029": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200"
   ],
   "unilim-m2-contrats-doctoraux": [
    "ok",
@@ -4066,8 +4066,8 @@
    "HTTP 200"
   ],
   "amu-inter-ed-doctoral-contracts": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200"
   ],
   "upec-ed-cs-cd-procedure-2026": [
    "ok",
@@ -4146,8 +4146,8 @@
    "HTTP 200 → https://engineering.mit.edu/graduate/mathworks-fellowships"
   ],
   "pnnl-linus-pauling-postdoc": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "HTTP 403"
   ],
   "uibk-doctoral-scholarship": [
    "ok",
@@ -4254,8 +4254,8 @@
    "HTTP 200"
   ],
   "weizmann-merbl-lab-recruiting": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200 → https://www.weizmann.ac.il/immunology/merbl/join-us"
   ],
   "sciences-po-doctoral-contracts-2026": [
    "ok",
@@ -4314,8 +4314,8 @@
    "HTTP 200 → https://www.researchireland.ie/funding/enterprise-fellowships/"
   ],
   "poland-doktorat-wdrozeniowy": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "ConnectionError（连接失败，可能限制境外访问）"
   ],
   "afd-cifre": [
    "ok",
@@ -4394,8 +4394,8 @@
    "HTTP 200"
   ],
   "cambridge-maths-phd-funding": [
-   "ok",
-   "HTTP 200 → https://www.maths.cam.ac.uk/postgrad/research-degrees"
+   "warn",
+   "ConnectionError（连接失败，可能限制境外访问）"
   ],
   "sissa-math-open-positions": [
    "ok",
@@ -4462,8 +4462,8 @@
    "HTTP 403"
   ],
   "hku-education-phd-scholarships": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200"
   ],
   "hku-ihss-phd-funding": [
    "ok",
@@ -4646,8 +4646,8 @@
    "HTTP 200 → https://www.mcgill.ca/gradapplicants/program/neuroscience-phd"
   ],
   "dumbarton-oaks-mellon-landscape-fellowships": [
-   "warn",
-   "HTTP 403"
+   "ok",
+   "HTTP 200 → https://www.doaks.org/fellowships-awards/mellon-fellowships"
   ],
   "st-andrews-geography-pgr": [
    "ok",
@@ -4850,8 +4850,8 @@
    "HTTP 200 → https://www.fredhutch.org/en/education-training/postdoctoral-fellows-programs.html"
   ],
   "dartmouth-mdphd-international": [
-   "ok",
-   "HTTP 200"
+   "dead",
+   "HTTP 404"
   ],
   "umn-medical-school-phd-funding": [
    "ok",
@@ -4962,8 +4962,8 @@
    "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
   ],
   "hhmi-gilliam-fellowship": [
-   "warn",
-   "HTTP 500"
+   "ok",
+   "HTTP 200 → https://www.hhmi.org/programs/gilliam-fellows"
   ],
   "muenster-chem-news-2026": [
    "ok",
@@ -4974,8 +4974,8 @@
    "HTTP 200"
   ],
   "unibo-industrial-chemistry-2026-27": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200"
   ],
   "iic-cas-careers": [
    "ok",
@@ -5018,8 +5018,8 @@
    "HTTP 200"
   ],
   "brandeis-neuroscience-funding": [
-   "warn",
-   "HTTP 403"
+   "ok",
+   "HTTP 200"
   ],
   "stonybrook-neuroscience-phd": [
    "ok",
@@ -5426,8 +5426,8 @@
    "HTTP 200"
   ],
   "nanolund-career-opportunities": [
-   "warn",
-   "ReadTimeout（超时）"
+   "ok",
+   "HTTP 200"
   ],
   "icfo-phd-fellowships": [
    "ok",
@@ -5438,8 +5438,8 @@
    "HTTP 200"
   ],
   "munich-quantum-valley-doctoral-fellowships": [
-   "warn",
-   "ConnectionError（连接失败，可能限制境外访问）"
+   "ok",
+   "HTTP 200"
   ],
   "epsrc-quantum-informatics-cdt": [
    "ok",
@@ -5466,8 +5466,8 @@
    "HTTP 200"
   ],
   "cornell-kic-nanoscale-postdoc": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "HTTP 403"
   ],
   "msca-doctoral-networks": [
    "ok",
@@ -5506,8 +5506,8 @@
    "HTTP 404"
   ],
   "london-nerc-dtp": [
-   "dead",
-   "HTTP 404"
+   "ok",
+   "HTTP 200"
   ],
   "swbio-dtp-projects": [
    "ok",
@@ -5603,11 +5603,11 @@
   ],
   "astar-national-science-scholarship-phd": [
    "ok",
-   "HTTP 202"
+   "HTTP 200"
   ],
   "astar-bii-graduate-research": [
    "ok",
-   "HTTP 202"
+   "HTTP 200"
   ],
   "scilifelab-careers": [
    "ok",
@@ -5650,8 +5650,8 @@
    "HTTP 200 → https://www.aeaweb.org/resources/students/grad-prep/funding"
   ],
   "brandeis-ibs-econ-finance-phd": [
-   "warn",
-   "HTTP 403"
+   "ok",
+   "HTTP 200"
   ],
   "durham-business-finance-phd": [
    "ok",
@@ -5723,7 +5723,7 @@
   ],
   "hkpfs-hku-gradsch": [
    "ok",
-   "HTTP 200"
+   "HTTP 200 → https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hong_kong_phd_fellowship_scheme"
   ],
   "leverhulme-ecf": [
    "ok",
@@ -5822,8 +5822,8 @@
    "HTTP 200"
   ],
   "vuw-wellington-doctoral-scholarship": [
-   "ok",
-   "HTTP 200 → https://www.wgtn.ac.nz/scholarships/current/wellington-doctoral-scholarships"
+   "dead",
+   "HTTP 404"
   ],
   "fu-berlin-csc-phd-fsgs": [
    "ok",
@@ -6110,8 +6110,8 @@
    "HTTP 200"
   ],
   "tml-tuebingen-jobs": [
-   "ok",
-   "HTTP 200 → https://tml-tuebingen.de/jobs/index.html"
+   "warn",
+   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
   ],
   "simons-institute-research-fellowships": [
    "ok",
@@ -6578,8 +6578,8 @@
    "HTTP 200"
   ],
   "physics-utah-phd-appguide": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200 → https://www.physics.utah.edu/wp-content/uploads/sites/65/2024/08/AppGuideF25.pdf"
   ],
   "chem-stanford-phd-financial-support": [
    "ok",
@@ -6698,8 +6698,8 @@
    "HTTP 403"
   ],
   "cifar-ai-strategy-portal": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200 → https://cifar.ca/ai/"
   ],
   "amii-career-opportunities": [
    "ok",
@@ -6719,7 +6719,7 @@
   ],
   "taiwan-scholarship-2026-guidelines": [
    "ok",
-   "HTTP 200 → https://www.roc-taiwan.org/Embassy_Error/error-vpn_data_url.html"
+   "HTTP 200"
   ],
   "nthu-type-ab-scholarship-2024-doc": [
    "ok",
@@ -6814,8 +6814,8 @@
    "HTTP 200"
   ],
   "huji-doctoral-research": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200"
   ],
   "huji-funding-opportunities": [
    "ok",
@@ -6883,7 +6883,7 @@
   ],
   "cam-esrc-dtp-studentship": [
    "warn",
-   "ConnectionError（连接失败，可能限制境外访问）"
+   "HTTP 403 → https://www.cam-dtp.ac.uk/programme/the-studentship/"
   ],
   "cardiffmet-research-degree-scholarships": [
    "ok",
@@ -6970,8 +6970,8 @@
    "HTTP 200"
   ],
   "unibo-csc-joint-phd": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200 → https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/phd-programmes-funded-by-the-china-scholarship-council"
   ],
   "sfu-csc-phd": [
    "ok",
@@ -7554,8 +7554,8 @@
    "SSLError（境外服务器访问受限或证书问题，浏览器中通常可打开）"
   ],
   "doaks-fellowships": [
-   "warn",
-   "HTTP 403"
+   "ok",
+   "HTTP 200 → https://www.doaks.org/fellowships-awards/index"
   ],
   "dfk-paris-doctoral-contracts": [
    "ok",
@@ -7594,8 +7594,8 @@
    "HTTP 200"
   ],
   "bgse-funding": [
-   "dead",
-   "DNS 解析失败"
+   "ok",
+   "HTTP 200"
   ],
   "mit-econ-financial-support": [
    "ok",
@@ -7678,8 +7678,8 @@
    "HTTP 200 → https://www.uni-potsdam.de/en/arbeiten-an-der-up/application/job-advertisements"
   ],
   "bayreuth-win-financing-doctorate": [
-   "warn",
-   "ReadTimeout（超时）"
+   "ok",
+   "HTTP 200"
   ],
   "bielefeld-grace-graduate-centre": [
    "ok",
@@ -7758,8 +7758,8 @@
    "HTTP 200"
   ],
   "sussex-ids-development-phd": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200"
   ],
   "heidelberg-high-doctorate": [
    "ok",
@@ -7778,16 +7778,16 @@
    "HTTP 200"
   ],
   "ed3c-doctoral-contract-terms": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
   ],
   "naed-spencer-dissertation-fellowship": [
    "ok",
    "HTTP 200"
   ],
   "jacobs-cifar-research-fellowship": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200"
   ],
   "fwo-junior-postdoc": [
    "warn",
@@ -7875,7 +7875,7 @@
   ],
   "astrobetter-rumor-mill": [
    "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ConnectionError（连接失败，可能限制境外访问）"
   ],
   "theory-cern-jobs": [
    "ok",
@@ -7890,12 +7890,12 @@
    "HTTP 200"
   ],
   "esa-ecology-job-sites": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200"
   ],
   "pob-wisc-postdoc-board": [
    "ok",
-   "HTTP 202"
+   "HTTP 200"
   ],
   "forschung-und-lehre-stellenmarkt": [
    "ok",
@@ -8206,8 +8206,8 @@
    "HTTP 200 → https://mlg.math.unipd.it/open-positions/"
   ],
   "mcgill-cim-arbel-positions": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "HTTP 403"
   ],
   "sussex-phd-funding-browse": [
    "ok",
@@ -8535,7 +8535,7 @@
   ],
   "nyu-wagner-shanghai-residence": [
    "ok",
-   "HTTP 202"
+   "HTTP 200"
   ],
   "oxford-csae-economics-scholarships": [
    "ok",
@@ -8558,8 +8558,8 @@
    "HTTP 200 → https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/hkpfs"
   ],
   "tdli-sjtu-recruitment-posts": [
-   "warn",
-   "ConnectionError（连接失败，可能限制境外访问）"
+   "ok",
+   "HTTP 200"
   ],
   "usc-ilab-phd-fall-2027": [
    "ok",
@@ -8654,8 +8654,8 @@
    "HTTP 200"
   ],
   "anu-taiyang-loong-phd": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "HTTP 403"
   ],
   "rfi-franklin-phd": [
    "ok",
@@ -9014,8 +9014,8 @@
    "HTTP 200"
   ],
   "uea-phd-funding-deadlines-2027": [
-   "warn",
-   "HTTP 405"
+   "ok",
+   "HTTP 200"
   ],
   "mcgill-ding-lab-phd-2026": [
    "ok",
@@ -9134,8 +9134,8 @@
    "HTTP 200 → https://dff.dk/en/managing-your-grant/previous-calls-and-guidelines/previous-calls-and-guidelines/expired-instruments/2026/oktober/sapere-aude-dff-research-leader-e26/"
   ],
   "fju-intl-phd-scholarship": [
-   "ok",
-   "HTTP 200"
+   "dead",
+   "DNS 解析失败"
   ],
   "harno-estonian-government-doctoral-scholarship": [
    "ok",
@@ -9159,7 +9159,7 @@
   ],
   "anu-jcsmr-taiyang-loong-phd": [
    "ok",
-   "HTTP 200"
+   "HTTP 200 → https://jcsmr.anu.edu.au/study/scholarships/taiyang-and-loong-talo-phd-supplementary-scholarship"
   ],
   "bifold-graduate-school-berlin": [
    "ok",
@@ -9350,8 +9350,8 @@
    "HTTP 200"
   ],
   "imtlucca-phd-programmes-admissions": [
-   "warn",
-   "HTTP 403"
+   "ok",
+   "HTTP 200"
   ],
   "immunosensation2-bonn-phd-program": [
    "ok",
@@ -9430,8 +9430,8 @@
    "HTTP 200"
   ],
   "lanl-postdoc-eligibility-appointments": [
-   "warn",
-   "HTTP 403"
+   "dead",
+   "HTTP 404 → https://www.lanl.gov:443/engage/collaboration/postdoctoral-research/becoming-a-postdoc/eligibility-and-appointments"
   ],
   "hkbu-gs-scholarship-for-admission": [
    "ok",
@@ -9546,8 +9546,8 @@
    "HTTP 200"
   ],
   "unibo-physics-phd-2026": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200"
   ],
   "nerc-creates-dla": [
    "ok",
@@ -9954,8 +9954,8 @@
    "HTTP 200"
   ],
   "birmingham-music-doctoral-scholarships": [
-   "warn",
-   "ReadTimeout（超时）"
+   "ok",
+   "HTTP 200"
   ],
   "uottawa-intl-doctoral-scholarship": [
    "ok",
@@ -10066,8 +10066,8 @@
    "HTTP 200"
   ],
   "huji-csc-scholarship": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200"
   ],
   "turkiye-burslari-phd": [
    "ok",
@@ -10118,8 +10118,8 @@
    "HTTP 200 → https://grs.um.edu.mo/index.php/prospective-students/phd-funding/um-phd-scholarship/"
   ],
   "sustech-um-joint-phd": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "ConnectionError（连接失败，可能限制境外访问）"
   ],
   "ntu-lkypdf": [
    "ok",
@@ -10138,8 +10138,8 @@
    "HTTP 200"
   ],
   "kavli-ipmu-postdoc": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "HTTP 403"
   ],
   "riken-ithems-opportunities": [
    "ok",
@@ -10358,8 +10358,8 @@
    "HTTP 200 → https://egbsl.univ-lille.fr/en/apply-for-a-phd/selection-for-institutional-fundings"
   ],
   "amu-doctoral-contracts": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200"
   ],
   "paris-cite-ed562-contrat-2026": [
    "ok",
@@ -10446,8 +10446,8 @@
    "HTTP 200 → https://www.cs.umd.edu/node/25572"
   ],
   "us-wisconsin-cs-funding": [
-   "dead",
-   "DNS 解析失败"
+   "ok",
+   "HTTP 200"
   ],
   "us-caltech-cms-grad": [
    "ok",
@@ -10510,8 +10510,8 @@
    "HTTP 200"
   ],
   "iitb-ipdf-postdoc": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "ConnectionError（连接失败，可能限制境外访问）"
   ],
   "iiser-pune-intl-phd": [
    "ok",
@@ -10639,7 +10639,7 @@
   ],
   "a-star-gis-students": [
    "ok",
-   "HTTP 202"
+   "HTTP 200"
   ],
   "champalimaud-offers": [
    "ok",
@@ -10674,8 +10674,8 @@
    "HTTP 200"
   ],
   "lancaster-funded-phd-opportunities": [
-   "ok",
-   "HTTP 200 → https://www.lancaster.ac.uk/study/fees-and-funding/scholarships-and-bursaries/funded-phd-opportunities/"
+   "dead",
+   "DNS 解析失败"
   ],
   "sheffield-csc-scholarship": [
    "ok",
@@ -10739,7 +10739,7 @@
   ],
   "astar-singa-research-projects": [
    "ok",
-   "HTTP 202"
+   "HTTP 200"
   ],
   "hkust-science-rpg": [
    "ok",
@@ -10850,8 +10850,8 @@
    "HTTP 403"
   ],
   "dlgs-dresden-leibniz-graduate-school": [
-   "warn",
-   "ConnectionError（连接失败，可能限制境外访问）"
+   "ok",
+   "HTTP 200"
   ],
   "mpib-jobs-page": [
    "ok",
@@ -10966,8 +10966,8 @@
    "HTTP 200"
   ],
   "nl-nwo-veni-2026": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "HTTP 500"
   ],
   "nl-rubicon-rug": [
    "ok",
@@ -11034,8 +11034,8 @@
    "HTTP 200 → https://www.lih.lu/en/article/new-phd-grants/"
   ],
   "botany-society-jobs-board": [
-   "warn",
-   "ReadTimeout（超时）"
+   "ok",
+   "HTTP 200"
   ],
   "nature-earth-science-phd-direct-employer": [
    "ok",
@@ -11046,8 +11046,8 @@
    "HTTP 200"
   ],
   "agu-findajob-geology": [
-   "warn",
-   "HTTP 403"
+   "ok",
+   "HTTP 200"
   ],
   "jobs-ac-uk-geology-studentships": [
    "ok",
@@ -11142,8 +11142,8 @@
    "HTTP 200"
   ],
   "edinburgh-doctoral-other-funding": [
-   "warn",
-   "HTTP 403"
+   "ok",
+   "HTTP 200"
   ],
   "bristol-csc-joint-phd-guidance": [
    "ok",
@@ -11182,8 +11182,8 @@
    "HTTP 200"
   ],
   "purdue-joywang-phd": [
-   "warn",
-   "HTTP 503"
+   "ok",
+   "HTTP 200"
   ],
   "tsinghua-dme-supervisor-list": [
    "ok",
@@ -11206,8 +11206,8 @@
    "HTTP 200 → https://guimaraes.phy.cam.ac.uk/join-our-group/"
   ],
   "purdue-ideal-prospective-phd": [
-   "warn",
-   "HTTP 503"
+   "ok",
+   "HTTP 200"
   ],
   "ucsd-semnani-join-us": [
    "ok",
@@ -11370,8 +11370,8 @@
    "HTTP 200"
   ],
   "ift-madrid-cosmo-job-offers": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200"
   ],
   "northumbria-solar-space-phd": [
    "dead",
@@ -11386,8 +11386,8 @@
    "HTTP 200"
   ],
   "birmingham-sr-phd-admissions": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
   ],
   "qub-astrophysics-phd-studentships": [
    "ok",
@@ -11403,7 +11403,7 @@
   ],
   "mpifr-imprs-applicants": [
    "ok",
-   "HTTP 200 → https://blog.mpifr-bonn.mpg.de/imprs/"
+   "HTTP 200"
   ],
   "mpia-imprs-heidelberg": [
    "ok",
@@ -11730,8 +11730,8 @@
    "HTTP 200"
   ],
   "polito-msca-doctoral-networks-2026": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200"
   ],
   "tue-become-phd-candidate": [
    "ok",
@@ -11747,7 +11747,7 @@
   ],
   "uva-phd-vacancies-page": [
    "ok",
-   "HTTP 200 → https://werkenbij.uva.nl/en/vacancies?o=0&n=10&of=66546&hl=0&hh=38&s=0&f=74#vacancy-overview"
+   "HTTP 200 → https://www.uva.nl/en/phd"
   ],
   "vu-phd-info-page": [
    "ok",
@@ -11923,7 +11923,7 @@
   ],
   "bar-ilan-postdoc-fellowship": [
    "ok",
-   "HTTP 200 → https://validate.perfdrive.com/?ssa=9a425d3b-95bc-4055-b2d8-3acf8ea45685&ssb=95534264640&ssc=https%3A%2F%2Facad-sec.biu.ac.il%2FPostDrE&ssi=efcc5071-dzai-41f6-828f-e93c7abf25cb&ssk=botmanager_support@radware.com&ssm=62473995406054313101229131067465&ssn=b42f9db58f37ebac4b429a146aa063aa7ed90e16e2ff-7436-43ae-ac015e&sso=daad9dc4-4ee0af583fccaa40c13e330542c1c6d2b927bd296af44b9b&ssp=56401277641794401134179447664630181&ssq=73559118324544124964883245024319142963468&ssr=NC4xNTUuOTkuNDU=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/126.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDAwZTE2ZTJmZi03NDM2LTQzYWUtYWRjNC00ZWUwYWY1ODNmY2MxLTE3OTQ0ODMyNDUwNzYwLTAwMWM1Zjg2ZjVkYWM3YWVmMWExMCIsInV6bXgiOiI3ZmMwMDAyMzdmZjM3Yy1lMmNiLTQ4MjQtYmViYS05MDY2NjU4Mjk2M2MxLTE3OTQ0ODMyNDUwNzYwLTAwZDBlYWQyYWQxZjliYTBlZDExMCIsInJkIjoiYml1LmFjLmlsIn0="
+   "HTTP 200 → https://validate.perfdrive.com/?ssa=90e7b009-7df6-40a2-b8bc-1e4ebd25cf62&ssb=75215255817&ssc=https%3A%2F%2Facad-sec.biu.ac.il%2FPostDrE&ssi=2e32992f-dzai-4be4-afee-18b138f06bb3&ssk=botmanager_support@radware.com&ssm=24216905702970716100594487732673&ssn=75f9a648b920be7f16bd39bd08eedaf2d93e6c763c96-b0f9-407e-bad515&sso=bd4c58c0-13485c3c19ef8d6e2449a87529c68664e1c38713f3952cd8&ssp=83958236891794876721179482589171475&ssq=03324972953937706850229539668749583465762&ssr=My40Mi4xNTcuNDk=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/126.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDA2Yzc2M2M5Ni1iMGY5LTQwN2UtYjhjMC0xMzQ4NWMzYzE5ZWYxLTE3OTQ4Mjk1MzkxMjIwLTAwMWNhOGM5YTAwZjc5MjBiMmUxMCIsInJkIjoiYml1LmFjLmlsIiwidXpteCI6IjdmYzAwMGEwMGI4Njc3LWVkYmEtNDE2OS05YWUxLTJkNjkwNDI1MWZmODEtMTc5NDgyOTUzOTEyMjAtMDBlY2E2OWVhMzdkNTQxMTBkZjEwIn0="
   ],
   "cityu-sye-hkpfs-2026": [
    "ok",
@@ -11994,8 +11994,8 @@
    "HTTP 200"
   ],
   "mis-malaysia-guidelines-2026": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "HTTP 403"
   ],
   "ort-pec-pg-2027-doctorate": [
    "ok",
@@ -12055,7 +12055,7 @@
   ],
   "nl-nwo-phd-humanities-uva-aihr": [
    "ok",
-   "HTTP 200"
+   "HTTP 200 → https://aihr.uva.nl/phds-in-the-humanities/becoming-a-phd-candidate/phd-candidates-employed-by-the-faculty-of-humanities"
   ],
   "nl-tue-jobs-vacancies": [
    "ok",
@@ -12335,7 +12335,7 @@
   ],
   "us-stanford-sail-postdoc": [
    "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ConnectionError（连接失败，可能限制境外访问）"
   ],
   "iit-madras-phd-brochure-2026": [
    "ok",
@@ -12346,8 +12346,8 @@
    "HTTP 200"
   ],
   "koc-gsse-financial-aid": [
-   "warn",
-   "HTTP 403"
+   "ok",
+   "HTTP 200 → https://gsse.ku.edu.tr/en/application/financial-aid-packages/"
   ],
   "auc-al-alfi-phd": [
    "ok",
@@ -12358,8 +12358,8 @@
    "HTTP 200"
   ],
   "erc-stg-staple-ifj-krakow-phd": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200"
   ],
   "erc-stg-2026-cnrs-awardees": [
    "ok",
@@ -12410,8 +12410,8 @@
    "HTTP 200"
   ],
   "hk-sg-hku-science-rpg-important-dates": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "ReadTimeout（超时）"
   ],
   "hk-sg-hku-aimin-li-openings": [
    "ok",
@@ -12427,7 +12427,7 @@
   ],
   "hk-sg-astar-cfar-talent-scholarship": [
    "ok",
-   "HTTP 202"
+   "HTTP 200"
   ],
   "hk-sg-nus-soc-graduate-programmes": [
    "ok",
@@ -12482,8 +12482,8 @@
    "HTTP 200"
   ],
   "imprs-quantum-science-technology": [
-   "ok",
-   "HTTP 200"
+   "dead",
+   "HTTP 404"
   ],
   "mpi-ds-living-matter-phd-w091": [
    "ok",
@@ -12726,8 +12726,8 @@
    "HTTP 200"
   ],
   "cy-rif-postdoc-programme": [
-   "warn",
-   "ReadTimeout（超时）"
+   "ok",
+   "HTTP 200"
   ],
   "eu-era-fellowships-widening": [
    "ok",
@@ -12786,8 +12786,8 @@
    "HTTP 200"
   ],
   "koc-gsb-phd-business": [
-   "warn",
-   "HTTP 403"
+   "ok",
+   "HTTP 200"
   ],
   "queens-smith-phd-fees": [
    "ok",
@@ -12827,7 +12827,7 @@
   ],
   "nl-uva-kdvi-phd-employee": [
    "ok",
-   "HTTP 200"
+   "HTTP 200 → https://kdvi.uva.nl/research/phd-work/phd-student-as-an-employee"
   ],
   "nl-maastricht-phd-vacancies-page": [
    "ok",
@@ -12959,7 +12959,7 @@
   ],
   "ascor-uva-phd-salaried-openings": [
    "ok",
-   "HTTP 200 → https://ascor.uva.nl/phd-programme/faq/faq.html"
+   "HTTP 200"
   ],
   "purdue-daniels-phd-funding": [
    "ok",
@@ -13266,8 +13266,8 @@
    "HTTP 200"
   ],
   "sk-nsp-scholarships": [
-   "warn",
-   "HTTP 403"
+   "ok",
+   "HTTP 200 → https://www.scholarships.sk:443/"
   ],
   "sk-bilateral-scholarships-china": [
    "ok",
@@ -13294,8 +13294,8 @@
    "HTTP 200"
   ],
   "janelia-careers-lab-postdoc": [
-   "warn",
-   "HTTP 503 → https://www.hhmi.org/careers/janelia"
+   "ok",
+   "HTTP 200 → https://www.hhmi.org/careers/janelia"
   ],
   "kaist-innocore-postdoc": [
    "ok",
@@ -13322,8 +13322,8 @@
    "HTTP 200"
   ],
   "bih-phd-programme-en": [
-   "ok",
-   "HTTP 200 → https://www.bihealth.org/en/platforms-programs/bih-biomedical-innovation-academy-bia/promotion-of-young-talents/bih-phd-program"
+   "warn",
+   "HTTP 403 → https://www.bihealth.org/en/translation/innovation-enabler/academy/promotion-of-young-talents/translate-to-englisch-bih-phd-programm"
   ],
   "rockefeller-theory-neuro-thread": [
    "ok",
@@ -13334,8 +13334,8 @@
    "HTTP 200"
   ],
   "edinburgh-neuro-jobs-phds": [
-   "warn",
-   "HTTP 403"
+   "dead",
+   "HTTP 404"
   ],
   "gfz-career-doctoral-entry": [
    "ok",
@@ -13418,8 +13418,8 @@
    "HTTP 200"
   ],
   "hhmi-freeman-hrabowski-scholars": [
-   "warn",
-   "HTTP 503"
+   "ok",
+   "HTTP 200 → https://www.hhmi.org/programs/freeman-hrabowski-scholars"
   ],
   "jobsac-uk-information-science-studentships": [
    "ok",
@@ -13502,8 +13502,8 @@
    "HTTP 200"
   ],
   "gulbenkian-armenian-studies-phd": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "HTTP 403"
   ],
   "uiceland-doctoral-grants-fund": [
    "ok",
@@ -13575,7 +13575,7 @@
   ],
   "mdc-berlin-jobs-doctoral": [
    "ok",
-   "HTTP 200"
+   "HTTP 200 → https://www.mdc-berlin.de/de/job-types/wissenschaftler-doktoranden"
   ],
   "gfz-potsdam-job-offers": [
    "ok",
@@ -13870,8 +13870,8 @@
    "HTTP 200"
   ],
   "ncsu-ece-phd-funding": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200 → https://ece.ncsu.edu/grad/phd/funding/"
   ],
   "ntu-npgs-scholarship": [
    "ok",
@@ -13958,8 +13958,8 @@
    "HTTP 200"
   ],
   "gmu-schar-phd-funding": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200"
   ],
   "gmu-history-art-history-phd-funding": [
    "ok",
@@ -14198,8 +14198,8 @@
    "HTTP 200"
   ],
   "iium-ummatic-phd": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
   ],
   "psu-graduate-scholarship": [
    "ok",
@@ -14234,8 +14234,8 @@
    "HTTP 200"
   ],
   "ephe-psl-aap-contrat-doc-2026": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "HTTP 503"
   ],
   "cuhk-joint-phd-mainland-partners": [
    "ok",
@@ -14262,8 +14262,8 @@
    "HTTP 200"
   ],
   "imt-lucca-phd-admissions": [
-   "warn",
-   "HTTP 403"
+   "ok",
+   "HTTP 200"
   ],
   "cornell-vet-bbs-phd-funding": [
    "ok",
@@ -15294,8 +15294,8 @@
    "HTTP 200 → https://www.hessian.ai/research/"
   ],
   "ethz-ai-center-phd-fellowships": [
-   "ok",
-   "HTTP 200"
+   "dead",
+   "DNS 解析失败"
   ],
   "cambridge-mlg-advanced-ml-phd": [
    "ok",
@@ -15430,8 +15430,8 @@
    "HTTP 200"
   ],
   "huji-open-calls": [
-   "warn",
-   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
+   "ok",
+   "HTTP 200"
   ],
   "huji-postdoc-fellowships-2027": [
    "ok",
@@ -15650,8 +15650,8 @@
    "HTTP 200"
   ],
   "brandeis-heller-phd-funding": [
-   "warn",
-   "HTTP 403"
+   "ok",
+   "HTTP 200 → https://www.brandeis.edu/graduate-admissions/tuition-financial-aid/phd.html"
   ],
   "columbia-dbmi-funding": [
    "ok",
@@ -15782,16 +15782,16 @@
    "HTTP 200"
   ],
   "cea-dam-theses-2026-livret": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
   ],
   "cea-dam-postdocs-2026-livret": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
   ],
   "instn-cea-theses": [
-   "ok",
-   "HTTP 200"
+   "warn",
+   "ConnectTimeout（境外服务器访问受限或证书问题，浏览器中通常可打开）"
   ],
   "chalmers-ees-graduate-school": [
    "ok",
@@ -16002,8 +16002,8 @@
    "HTTP 200 → https://www.econ.cuhk.edu.hk/en/news-and-events/event/cuhk-economics-phd-recruitment-camp-2026/"
   ],
   "helsinki-doctoral-researcher-positions": [
-   "warn",
-   "ConnectionError（连接失败，可能限制境外访问）"
+   "ok",
+   "HTTP 200"
   ],
   "banca-italia-econ-research-fellowships": [
    "ok",
@@ -16030,113 +16030,113 @@
   "academictransfer": {
    "count": 5,
    "error": "",
-   "seconds": 110.9,
+   "seconds": 116.4,
    "sample": "PostDoc position on Wafer Bonding Physics for 3D Chip Integration",
    "sample_eligibility": "unknown"
   },
   "agu-careers": {
    "count": 5,
    "error": "",
-   "seconds": 2.0,
+   "seconds": 2.1,
    "sample": "Auburn University: PhD Student",
    "sample_eligibility": "unknown"
   },
   "bluesky-phd-position": {
    "count": 5,
    "error": "",
-   "seconds": 2.3,
-   "sample": "PhD position: Spectroscopic optical coherence tomography for non-invasive blood ",
+   "seconds": 2.2,
+   "sample": "PhD position Ecology of waterway management https://www.academictransfer.com/365",
    "sample_eligibility": "unknown"
   },
   "chemistry-world-jobs": {
    "count": 1,
    "error": "",
-   "seconds": 1.9,
+   "seconds": 2.0,
    "sample": "Los Alamos National Laboratory: Postdoctoral Research Associate in Chemical Desi",
    "sample_eligibility": "unknown"
   },
   "cstheory-jobs": {
    "count": 5,
    "error": "",
-   "seconds": 1.2,
-   "sample": "Ph.D. student at West Virginia University (apply by December 15, 2026)",
+   "seconds": 2.2,
+   "sample": "Postdoc Positions in Quantum Computing and AI at Université de Sherbrooke (Quebe",
    "sample_eligibility": "unknown"
   },
   "daad-phdgermany": {
-   "count": 0,
-   "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.daad.de/en/studying-in-germany/phd-studies-research/phd-germany/?phd-p=1",
-   "seconds": 2.2,
-   "sample": "",
-   "sample_eligibility": ""
+   "count": 5,
+   "error": "",
+   "seconds": 3.8,
+   "sample": "wiss. Mitarbeiterin bzw. Mitarbeiter / Doktorandin bzw. Doktorand (m/w/d) w26-25",
+   "sample_eligibility": "unknown"
   },
   "euraxess": {
    "count": 5,
    "error": "",
    "seconds": 2.4,
-   "sample": "Lecturer at the Foreign Language Centre",
+   "sample": "ASSISTANT",
    "sample_eligibility": "unknown"
   },
   "inspire-jobs": {
    "count": 5,
    "error": "",
-   "seconds": 2.9,
-   "sample": "Fully Funded 4-Year PhD Studentship in Cosmology, Particle Theory, AI, and Beyon",
+   "seconds": 3.4,
+   "sample": "Ph.D. Studentships in Experimental Particle Physics",
    "sample_eligibility": "unknown"
   },
   "jobbnorge": {
    "count": 5,
    "error": "",
-   "seconds": 2.9,
-   "sample": "PhD Candidate in Intelligent Navigation and Risk Based Route Planning",
+   "seconds": 2.8,
+   "sample": "Rådgjevar (ph.d.-koordinator) ved Det samfunnsvitenskapelige fakultet",
    "sample_eligibility": "unknown"
   },
   "jobrxiv": {
    "count": 5,
    "error": "",
-   "seconds": 3.5,
-   "sample": "Postdoctoral Research Fellow in Privacy-Preserving Cryptography",
+   "seconds": 3.7,
+   "sample": "Postdoctoral Research Associate – Infectious Diseases",
    "sample_eligibility": "unknown"
   },
   "jobs-ac-uk": {
    "count": 5,
    "error": "",
    "seconds": 3.6,
-   "sample": "FSE PhD President's Doctoral Scholarship: Development of Heated Garments for Pat",
+   "sample": "PhD Studentship: CENTA 2027-B25 Which Floodplains are the Most Important Charact",
    "sample_eligibility": "unknown"
   },
   "physics-today-jobs": {
-   "count": 5,
+   "count": 4,
    "error": "",
-   "seconds": 2.2,
-   "sample": "International Max Planck Research School for Chemistry and Physics of Quantum Ma",
+   "seconds": 2.4,
+   "sample": "Institute of Science and Technology Austria (ISTA): Fully Funded PhD Positions",
    "sample_eligibility": "unknown"
   },
   "science-careers": {
    "count": 5,
    "error": "",
-   "seconds": 1.8,
+   "seconds": 1.7,
    "sample": "Helmholtz-Zentrum München: PhD Positions in Metabolic Disease within the MEDIcul",
    "sample_eligibility": "unknown"
   },
   "sfn-neurojobs": {
    "count": 5,
    "error": "",
-   "seconds": 2.0,
+   "seconds": 1.9,
    "sample": "Institute of Science and Technology Austria: Fully Funded PhD Positions in Neuro",
    "sample_eligibility": "unknown"
   },
   "the-unijobs": {
    "count": 5,
    "error": "",
-   "seconds": 1.5,
-   "sample": "KINGS COLLEGE LONDON: Phd Studentship, Analytics, Environmental & Forensics",
+   "seconds": 1.6,
+   "sample": "KINGS COLLEGE LONDON: PHD Studentship, Analytics, Environmental & Forensics",
    "sample_eligibility": "unknown"
   },
   "varbi": {
    "count": 5,
    "error": "",
-   "seconds": 20.1,
-   "sample": "Postdoctoral position in algebraic topology",
+   "seconds": 20.5,
+   "sample": "Postdoc to the Clinical Memory Researchs unit",
    "sample_eligibility": "unknown"
   }
  }
