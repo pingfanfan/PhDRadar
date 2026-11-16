@@ -415,3 +415,42 @@ def test_mibtp_detail():
     assert row["cn"] == "check" and row["amount"] == "" and row["deadline"] == "2026-11-23" and row["place"] == "Birmingham"
     assert uk.mi_detail("y", f"{MI_SUP}/GAshdown/#other", MI_PAGE, "2026-11-14") == (None, "导师页无此课题")
     uk.MI_ROUND.clear()
+
+
+SNI_PAGE = (
+    "<h2>Apply now for the new SNI PhD School projects!</h2><p>The projects will begin in January 2027 at the earliest. "
+    "Positions will be filled as suitable candidates are found — early applications are encouraged.</p>"
+    '<table class="contenttable"><tbody><tr><td><strong>Ref. Nr.</strong></td><td><strong>Project</strong></td>'
+    "<td><strong>Principal Investigator</strong></td><td><strong>Co-PI(s)</strong></td></tr>"
+    '<tr><td>P2601</td><td>Circuit quantum electrodynamics in atomically thin devices (<a href="/fileadmin/a.pdf">pdf</a>)</td>'
+    '<td><a href="#">Andreas Baumgartner</a> (University of Basel)</td><td>Alexander Grimm (PSI)</td></tr>'
+    '<tr><td>P2603</td><td>Rationally engineered hydrogels (<a href="/fileadmin/b.pdf">pdf</a>) (Please don\'t apply anymore.)</td>'
+    "<td>Géraldine Guex (UZB)</td><td>Zarah Walsh-Korb</td></tr>"
+    "<tr><td>P2604</td><td>Mechano-control of the Nuclear Pore Complex</td><td>Roderick Lim</td><td>Benjamin Engel</td></tr>"
+    "<tr><td>P2606</td><td>Nanopore Detection (pdf) (A candidate has been selected. Please don't apply to this project anymore.)</td>"
+    "<td>Sonja Schmid</td><td>Florian Seebeck</td></tr></tbody></table>"
+    "<p>Apply now!</p><p>Timeline 2026/2027</p><p>1 January 2027 Earliest project start</p><p>1 July 2027 Latest project start</p>"
+)
+
+
+def test_sni_urls_and_detail():
+    import platforms_ch as ch
+
+    class F:
+        def get(self, url):
+            assert url == ch.SNI
+            return type("R", (), {"text": SNI_PAGE})()
+
+    urls = ch.sni_urls(F(), 1)
+    assert [j for j, _ in urls] == ["p2601", "p2603", "p2604", "p2606"]
+    row, why = ch.sni_detail("p2601", urls[0][1], SNI_PAGE, "2026-11-16")
+    assert why == "收录" and row["id"] == "sni:p2601" and row["deadline"] == "rolling"
+    assert row["title"] == "Circuit quantum electrodynamics in atomically thin devices"
+    assert row["quote"].startswith("Positions will be filled") and row["url"].endswith("#P2601")
+    assert row["country"] == "CH" and row["cn"] == "check" and row["amount"] == ""
+    assert ch.sni_detail("p2604", "u", SNI_PAGE, "2026-11-16")[1] == "收录"
+    assert ch.sni_detail("p2603", "u", SNI_PAGE, "2026-11-16") == (None, "已停止招收")
+    assert ch.sni_detail("p2606", "u", SNI_PAGE, "2026-11-16") == (None, "已停止招收")
+    assert ch.sni_detail("p2699", "u", SNI_PAGE, "2026-11-16") == (None, "课题表无此课题")
+    assert ch.sni_detail("p2601", "u", SNI_PAGE, "2027-07-02") == (None, "已截止")
+    assert ch.sni_detail("p2601", "u", SNI_PAGE.replace("Positions will be filled", "Positions were filled"), "2026-11-16")[1] == "申请未开放"
