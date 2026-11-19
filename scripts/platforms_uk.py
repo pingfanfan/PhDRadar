@@ -8,6 +8,11 @@
 - MRC Laboratory of Medical Sciences（LMS）：“LMS 4-year PhD studentships” 招生页列出当年每个资助课题（课题介绍是 .docx 附件），
   截止日期、资助与资格对全部课题适用，都写在同一页上，所以列表与详情都读这一页（每个课题读一次，同页带 #锚点区分）。
   robots.txt 只禁止 /wp-admin/。
+- Babraham Institute（剑桥）：“PhD Opportunities”页列出当年全部博士课题（<h3>Project Title: …</h3>），按资助分节：
+  BioSCaPe iDLA（课题下写 “Fully funded BioSCaPe iDLA Studentship”）、Cambridge Biosciences DTP（节首写
+  “a 4-year Targeted Research Studentship will be available”）、“PhD in Biological Science” 节是自费竞争名额（unfunded，不收）。
+  页面写统一截止 “The applications deadline for all PhD studentships: 8th December 2026”，个别课题另写 closing date 时以课题为准。
+  页面没写国籍资格与金额，cn 按正文判断（多为 check），金额留空。robots.txt 只禁止 /core/、/admin/、/search/、/user/ 等后台路径。
 """
 from __future__ import annotations
 
@@ -449,7 +454,62 @@ def mi_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, st
     }, "收录"
 
 
+# ───────────────────────── Babraham Institute ─────────────────────────
+
+BAB = "https://www.babraham.ac.uk/work-and-study/phd-opportunities"
+BAB_H3 = re.compile(r"<h3[^>]*>(.*?)</h3>", re.S)
+BAB_TITLE = re.compile(r"Project title:\s*(.+)", re.I)
+BAB_ALL_DUE = re.compile(r"applications deadline for all PhD studentships:?\s*(\d{1,2}(?:st|nd|rd|th)?\s+[A-Z][a-z]+\s+\d{4})")
+BAB_OWN_DUE = re.compile(r"closing date for this studentship is (?:the )?(\d{1,2}(?:st|nd|rd|th)?\s+[A-Z][a-z]+\s+\d{4})")
+BAB_FUNDED = re.compile(r"Fully funded [^.]{0,80}?Studentship|[^.]{0,160}\bStudentship will be available[^.]*\.")
+BAB_UNFUNDED = re.compile(r"\(unfunded\)|apply for your own funding", re.I)
+
+
+def bab_projects(raw: str) -> list[tuple[str, str, str, str]]:
+    """[(slug, 标题, 所在资助节的说明, 课题正文)]：按 <h3> 切块，非课题的 <h3> 是资助节标题。"""
+    heads = list(BAB_H3.finditer(raw))
+    out, section = [], ""
+    for i, h in enumerate(heads):
+        body = page_text(raw[h.end():heads[i + 1].start() if i + 1 < len(heads) else len(raw)])
+        m = BAB_TITLE.match(page_text(h.group(1)))
+        if not m:
+            section = body
+            continue
+        title = m.group(1).strip()
+        slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")[:60].rstrip("-")
+        out.append((slug, title, section, body))
+    return out
+
+
+def bab_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+    return [(slug, f"{BAB}#{slug}") for slug, *_ in bab_projects(f.get(BAB).text)]
+
+
+def bab_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
+    proj = next((p for p in bab_projects(raw) if p[0] == jid), None)
+    if proj is None:
+        return None, "页面无此课题"
+    _, title, section, body = proj
+    if BAB_UNFUNDED.search(section + " " + body):
+        return None, "未写资助或自费"
+    fund = BAB_FUNDED.search(body) or BAB_FUNDED.search(section)
+    if not fund:
+        return None, "未写资助"
+    due = BAB_OWN_DUE.search(body) or BAB_ALL_DUE.search(page_text(raw))
+    deadline = parse_day(due.group(1)) if due else None
+    if not deadline:
+        return None, "页面无截止日期"
+    if deadline < today:
+        return None, "已截止"
+    return {
+        "id": f"babraham:{jid}", "title": title[:200], "url": url, "org": "Babraham Institute (Cambridge)",
+        "country": "UK", "place": "Cambridge", "level": "phd", "deadline": deadline, "quote": due.group(0).strip(),
+        "funding_for": fund.group(0).strip(), "amount": "", "cn": cp.cn_of(body), "flags": cp.flags_of(body),
+        "via": "Babraham Institute",
+    }, "收录"
+
+
 ADAPTERS = {"crick": (crick_urls, crick_detail), "lms": (lms_urls, lms_detail), "soton": (soton_urls, soton_detail),
             "coventry": (cov_urls, cov_detail), "lboro": (lboro_urls, lboro_detail), "hw": (hw_urls, hw_detail),
-            "qmul": (qm_urls, qm_detail), "mibtp": (mi_urls, mi_detail)}
-VIA_RANK = {"Crick": 3, "MRC LMS": 3, "Southampton": 3, "Coventry": 3, "Loughborough": 3, "Heriot-Watt": 3, "Queen Mary": 3, "MIBTP": 3}
+            "qmul": (qm_urls, qm_detail), "mibtp": (mi_urls, mi_detail), "babraham": (bab_urls, bab_detail)}
+VIA_RANK = {"Crick": 3, "MRC LMS": 3, "Southampton": 3, "Coventry": 3, "Loughborough": 3, "Heriot-Watt": 3, "Queen Mary": 3, "MIBTP": 3, "Babraham Institute": 3}

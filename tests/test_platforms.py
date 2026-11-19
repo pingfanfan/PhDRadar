@@ -454,3 +454,44 @@ def test_sni_urls_and_detail():
     assert ch.sni_detail("p2699", "u", SNI_PAGE, "2026-11-16") == (None, "课题表无此课题")
     assert ch.sni_detail("p2601", "u", SNI_PAGE, "2027-07-02") == (None, "已截止")
     assert ch.sni_detail("p2601", "u", SNI_PAGE.replace("Positions will be filled", "Positions were filled"), "2026-11-16")[1] == "申请未开放"
+
+
+BAB_PAGE = (
+    "<h2>PhD opportunities</h2><p>The applications deadline for all PhD studentships: 8th December 2026</p>"
+    "<h3>Bioscience South Cambridge doctoral training Partnership (BioSCaPe) </h3><p>Projects in the labs below.</p>"
+    "<h3>Project Title: The dark side of DNA</h3><p>Project Outline ...</p><p>Fully funded BioSCaPe iDLA Studentship</p>"
+    "<h3>The Cambridge Biosciences Doctoral Training Partnership (DTP) </h3>"
+    "<p><strong>Starting October 2027, a 4-year Targeted Research Studentship will be available, leading to a "
+    "University of Cambridge PhD degree.</strong></p>"
+    "<h3>Project title: Poised Chromatin and the Epigenetic Control of Development</h3><p>Project outline ...</p>"
+    "<h3>PhD in Biological Science (Babraham Institute)</h3><p>These studentships are competition funded "
+    "studentships (unfunded) and so you will need to apply for your own funding.</p>"
+    "<h3>Project Title: &nbsp;Spatial Control of Wnt Signalling</h3><p>Glypicans ...</p>"
+    "<h3>Project Title: Trophectoderm specification</h3><p>Competition funded studentship (unfunded)</p>"
+    "<p>Please note the application closing date for this studentship is the 3rd November 2026</p>"
+    "<h3> Application Portal </h3>"
+)
+
+
+def test_babraham_urls_and_detail():
+    import platforms_uk as uk
+
+    class F:
+        def get(self, url):
+            assert url == uk.BAB
+            return type("R", (), {"text": BAB_PAGE})()
+
+    urls = uk.bab_urls(F(), 1)
+    assert [j for j, _ in urls] == ["the-dark-side-of-dna", "poised-chromatin-and-the-epigenetic-control-of-development",
+                                    "spatial-control-of-wnt-signalling", "trophectoderm-specification"]
+    row, why = uk.bab_detail("the-dark-side-of-dna", urls[0][1], BAB_PAGE, "2026-11-19")
+    assert why == "收录" and row["id"] == "babraham:the-dark-side-of-dna" and row["deadline"] == "2026-12-08"
+    assert row["funding_for"] == "Fully funded BioSCaPe iDLA Studentship" and row["url"].endswith("#the-dark-side-of-dna")
+    assert row["quote"].startswith("applications deadline for all PhD studentships") and row["cn"] == "check"
+    row, why = uk.bab_detail(urls[1][0], "u", BAB_PAGE, "2026-11-19")
+    assert why == "收录" and "Targeted Research Studentship will be available" in row["funding_for"]
+    assert uk.bab_detail("spatial-control-of-wnt-signalling", "u", BAB_PAGE, "2026-11-19") == (None, "未写资助或自费")
+    assert uk.bab_detail("trophectoderm-specification", "u", BAB_PAGE, "2026-11-19") == (None, "未写资助或自费")
+    assert uk.bab_detail("nope", "u", BAB_PAGE, "2026-11-19") == (None, "页面无此课题")
+    assert uk.bab_detail("the-dark-side-of-dna", "u", BAB_PAGE, "2026-12-09") == (None, "已截止")
+    assert uk.bab_detail("the-dark-side-of-dna", "u", BAB_PAGE.replace("Fully funded", "Funded"), "2026-11-19") == (None, "未写资助")
