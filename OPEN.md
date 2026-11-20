@@ -1,10 +1,10 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-11-19。共 **228** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-11-20。共 **227** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
 - [30 天内截止](#30-天内截止)（145）
-- [之后截止](#之后截止)（83）
+- [之后截止](#之后截止)（82）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（0）
 - [即将开放](#即将开放)（0）
 
@@ -12,7 +12,6 @@
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-19 | [Lundbeck Foundation 博后（LF Postdocs，神经科学）](https://www.thetransmitter.org/funding-opportunity/lf-postdocs-danish-neuroscience/) | 丹麦 | 博后 | 全奖（学费＋生活费） | ❔ 官网未写明 | 正文显示状态 OPEN（2026-10-16 更新），截止 2026-11-19；要求博士在 5 年内取得或 6 个月内完成，国际学者需在丹麦宿主机构工作。<br>官网原句：“Applications close on November 19, 2026.” |
 | 2026-11-20 | [巴塞尔历史研究生院（BGSH）Starter Scholarship（2027 年 4 月开始）](https://jobs.unibas.ch/offene-stellen/starter-scholarships-of-the-basel-graduate-school-of-history/43646da9-a53a-4dba-86dc-b823a312cefb) | 瑞士 | 博士 | 仅生活费 | ❔ 官网未写明 | 2027 年 4 月开始的一年期 starter scholarship，CHF 32,000 分两期发放；申请时须列出一名 BGSH 导师作为拟定导师。<br>官网原句：“Deadline for applications: 20 November 2026” |
 | 2026-11-20 | [纽伯里图书馆（Newberry Library）长期研究员](https://www.newberry.org/long-term-fellowships) | 美国 | 博后 | 仅生活费 | ❔ 官网未写明 | 2027-28 长期研究员项目已开放申请，截止 2026-11-20，经 SlideRoom 提交，每月津贴 5000 美元，须已获博士学位。<br>官网原句：“Deadline: November 20, 2026” |
 | 2026-11-20 | [东北大学 JF-CIJS-EAJS 日本研究博士生奖学金](https://cijs.oii.tohoku.ac.jp/en/fellowship/detail---id-178.html) | 欧盟/欧洲、日本 | 博士 | 仅生活费 | 🟡 部分可申 | 2027 年征集期至 2026-11-20（日本时间）；需在欧洲高校攻读人文社科博士，并由申请人、推荐人与日语评审在截止前提交表格<br>官网原句：“before the deadline of November 20, 2026 in Japan Standard Time.” |
@@ -157,12 +156,12 @@
 | 2026-12-16 | [布里斯托地理数据科学博士（含奖学金）](https://www.bristol.ac.uk/geography/courses/postgraduate/phd-in-geographic-data-science/) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 2027 年 9 月入学：大学第一步截止 2026-12-16，SWDTP 2027-01-12，大学奖学金 2027-01-18。<br>官网原句：“University of Bristol deadline: 12:00 noon Monday 16th December 2026.” |
 | 2026-12-16 | [犹他大学研究生研究奖学金](https://gradschool.utah.edu/funding/fellowships-scholarships-awards/grad-school-administered/graduate-research-fellowship.php) | 美国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 申请截止 2026-12-16，页面注明院系可能更早截止；每院系最多 2 份提案，需院系主席背书；页面更新于 10/13/26。<br>官网原句：“APPLICATION DEADLINE: December 16, 2026” |
 | 2026-12-18 | [悉尼大学国际生研究奖学金](https://sydney.edu.au/scholarships/australian-government-research-training-program/rtp-international.html) | 澳大利亚 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | RTP 奖学金 2027 年 Research Period 3 和 4 的提交截止为 2026-12-18；2027 年 Period 1 和 2 的截止 2026-09-11 已过。<br>官网原句：“18 December 2026” |
+| 2026-12-20 | [TSE-IAST 政治经济学博士后（2027 年 1 月入职）](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/document/2027_TSE-IAST_Political_Economy.pdf) | 法国 | 博后 | 带薪岗位 | ❔ 官网未写明 | 正文写明申请截止 2026-12-20，入职 2027-01-01（最晚 2027-09-01），为期两年；申请材料以英文发送至指定邮箱。<br>官网原句：“Application deadline: December 20th, 2026.” |
 
 ## 之后截止
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-12-20 | [TSE-IAST 政治经济学博士后（2027 年 1 月入职）](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/document/2027_TSE-IAST_Political_Economy.pdf) | 法国 | 博后 | 带薪岗位 | ❔ 官网未写明 | 正文写明申请截止 2026-12-20，入职 2027-01-01（最晚 2027-09-01），为期两年；申请材料以英文发送至指定邮箱。<br>官网原句：“Application deadline: December 20th, 2026.” |
 | 2026-12-30 | [越南科学技术大学（USTH）2026 联合培养博士（co-tutelle）岗位](https://usth.edu.vn/en/call-for-co-tutelle-partners-and-phd-subjects-2026-11462/) | VN | 博士 | 半奖 / 部分资助 | ❔ 官网未写明 | 页面写明 2026 年 12 月 30 日前滚动接受申请，名额招满即关闭；需找到法国或其他欧洲合作方导师。<br>官网原句：“Applications are accepted on a rolling basis until December 30, 2026 and will close once all positions are filled.” |
 | 2026-12-31 | [中央研究院资讯科学研究所 Research Fellow 招聘](https://web.iis.sinica.edu.tw/en/page/Recruitment/ResearchFellows.html) | 中国台湾 | 博后 | 带薪岗位 | ❔ 官网未写明 | 页面写明招聘窗口 2026-01-01 至 2026-12-31；国籍与陆生资格未确认，需向所里询问。<br>官网原句：“2026-01-01 ~ 2026-12-31” |
 | 2026-12-31 | [NTU 总统博士后研究员（PPF）](https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-(ppf)) | 新加坡 | 博后 | 带薪岗位 | ✅ 可申 | Wallenberg-NTU 总统博士后 2027 轮申请截止 2026-12-31 23:59（新加坡时间）；推荐人报告 2027-01-07 前提交。<br>官网原句：“(Application closes on 31 December 2026, Singapore Time UTC/GMT+8.” |
