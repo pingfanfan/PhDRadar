@@ -495,3 +495,52 @@ def test_babraham_urls_and_detail():
     assert uk.bab_detail("nope", "u", BAB_PAGE, "2026-11-19") == (None, "页面无此课题")
     assert uk.bab_detail("the-dark-side-of-dna", "u", BAB_PAGE, "2026-12-09") == (None, "已截止")
     assert uk.bab_detail("the-dark-side-of-dna", "u", BAB_PAGE.replace("Fully funded", "Funded"), "2026-11-19") == (None, "未写资助")
+
+
+CRAN_MAP_XML = (
+    "<urlset><url><loc>https://www.cranfield.ac.uk/research/phd/robotic-additive-manufacturing</loc></url>"
+    "<url><loc>https://www.cranfield.ac.uk/research/phd/msc-by-research-aerospace</loc></url>"
+    "<url><loc>https://www.cranfield.ac.uk/som/research-projects/other</loc></url></urlset>"
+)
+
+
+def cran_page(due="28 Apr 2027", award="PhD", who="UK, Rest of world", funding=None):
+    funding = funding or ("Sponsored by EPSRC and Cranfield University, this studentship will provide a bursary of up to "
+                          "&pound;24,500 per annum (tax free) plus fees for 3.5 years. This studentship is open to Home and "
+                          "international applicants.")
+    return (f'<h1 class="no-underline">Robotic Additive Manufacturing PhD</h1><h3>At a glance</h3><ul>'
+            f"<li>Application deadline</li><li>{due}</li><li>Award type(s)</li><li>{award}</li>"
+            f"<li>Start date</li><li>07 Jun 2027</li><li>Eligibility</li><li>{who}</li>"
+            f"<li>Reference number</li><li>CRAN-0113</li></ul><h2>Entry requirements</h2><p>A first degree.</p>"
+            f'<div id="Funding" class="tc"><h2>Funding</h2><p>{funding}</p></div>')
+
+
+def test_cranfield_urls_and_detail():
+    import platforms_uk as uk
+
+    class F:
+        def get(self, url):
+            assert url == uk.CRAN_MAP
+            return type("R", (), {"text": CRAN_MAP_XML})()
+
+    assert uk.cran_urls(F(), 1) == [("robotic-additive-manufacturing",
+                                     "https://www.cranfield.ac.uk/research/phd/robotic-additive-manufacturing")]
+    row, why = uk.cran_detail("robotic-additive-manufacturing", "u", cran_page(), "2026-11-20")
+    assert why == "收录" and row["id"] == "cranfield:robotic-additive-manufacturing" and row["deadline"] == "2027-04-28"
+    assert row["quote"] == "Application deadline 28 Apr 2027" and row["cn"] == "yes"
+    assert row["funding_for"].startswith("Sponsored by EPSRC") and row["title"] == "Robotic Additive Manufacturing PhD"
+    gap = ("This studentship will provide a bursary of up to &pound;21,805 plus fees. International applicants are therefore "
+           "responsible for covering the difference between the Home and international tuition fee rates.")
+    assert uk.cran_detail("x", "u", cran_page(funding=gap), "2026-11-20")[0]["cn"] == "no"
+    assert uk.cran_detail("x", "u", cran_page(who="UK"), "2026-11-20")[0]["cn"] == "check"  # 顶部只写 UK、正文又提国际生：不猜
+    home = ("This studentship will provide a bursary of &pound;23,805 plus fees for four years. Further advice can be found on "
+            "the UK Council for International Student Affairs (UKCISA) website. Diversity and Inclusion at Cranfield We welcome "
+            "students from over 100 countries.")
+    assert uk.cran_detail("x", "u", cran_page(who="UK", funding=home), "2026-11-20")[0]["cn"] == "no"
+    assert uk.cran_detail("x", "u", cran_page(funding="Self-funded"), "2026-11-20") == (None, "自费或竞争性资助")
+    led = "Applicants will develop a proposal for the student-led competition. Successful studentships cover a stipend."
+    assert uk.cran_detail("x", "u", cran_page(funding=led), "2026-11-20") == (None, "自费或竞争性资助")
+    assert uk.cran_detail("x", "u", cran_page(award="MSc by Research"), "2026-11-20") == (None, "非博士课题")
+    assert uk.cran_detail("x", "u", cran_page(due="Ongoing"), "2026-11-20") == (None, "页面无截止日期")
+    assert uk.cran_detail("x", "u", cran_page(), "2027-04-29") == (None, "已截止")
+    assert uk.cran_detail("x", "u", cran_page(funding="Fees are covered."), "2026-11-20") == (None, "未写资助")

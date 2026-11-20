@@ -509,7 +509,65 @@ def bab_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, s
     }, "收录"
 
 
+# ───────────────────────── Cranfield University ─────────────────────────
+# 学校站点地图（robots.txt 只禁 /CourseApiData/ 与 /CoursesApiData/）列出 /research/phd/<slug> 下全部研究机会，
+# 详情页顶部 “At a glance” 固定写 Application deadline / Award type(s) / Eligibility，正文有独立的 Funding 节。
+# 只收 Award type 为 PhD、Funding 节写明 stipend / bursary 且有具体截止日期的；自费（Self-funded）、
+# MSc by Research、“Ongoing” 滚动招生、需另行竞争的学生主导申请（student-led competition）不收。
+# 资格：Eligibility 只写 UK → 限本土；Funding 节写国际生自付学费差额 → 按本库规则算限本土；写 Rest of world 且没有限制 → 可申。
+CRAN = "https://www.cranfield.ac.uk"
+CRAN_MAP = CRAN + "/sitemap.xml"
+CRAN_LOC = re.compile(r"<loc>(https://www\.cranfield\.ac\.uk/research/phd/([a-z0-9-]+))</loc>")
+CRAN_DUE = re.compile(r"Application deadline\s+(.+?)\s+Award type\(s\)\s+(.+?)\s+(?:Start date|Duration of award|Eligibility)")
+CRAN_WHO = re.compile(r"Eligibility\s+(.+?)\s+(?:Reference number|Supervisor|Explore research|Entry requirements)")
+CRAN_FUND = re.compile(r'<div id="Funding"[^>]*>(.*?)</div>', re.S)
+CRAN_PAID = re.compile(r"[^.]*\b(?:stipend|bursary)\b[^.]*\.", re.I)
+CRAN_NOT = re.compile(r"self[- ]funded|student-led competition|successful competitive application", re.I)
+
+
+def cran_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
+    seen: dict[str, str] = {}
+    for url, slug in CRAN_LOC.findall(f.get(CRAN_MAP).text):
+        if "msc-by-research" not in slug:
+            seen.setdefault(slug, url)
+    return list(seen.items())
+
+
+def cran_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, str]:
+    text = page_text(raw)
+    due = CRAN_DUE.search(text)
+    if not due or "PhD" not in due.group(2):
+        return None, "非博士课题"
+    fund = CRAN_FUND.search(raw)
+    fund_text = re.sub(r"^Funding\s+", "", page_text(fund.group(1))) if fund else ""
+    fund_text = re.split(r"\s(?:Sharing data|Diversity and Inclusion)\b", fund_text)[0]  # 节末是 UKRI 数据与多元化的通用段落
+    if not fund_text or CRAN_NOT.search(fund_text):
+        return None, "自费或竞争性资助"
+    paid = CRAN_PAID.search(fund_text)
+    if not paid:
+        return None, "未写资助"
+    deadline = soton_day(due.group(1))
+    if not deadline:
+        return None, "页面无截止日期"
+    if deadline < today:
+        return None, "已截止"
+    h1 = re.search(r"<h1[^>]*>(.*?)</h1>", raw, re.S)
+    who = CRAN_WHO.search(text)
+    who = who.group(1) if who else ""
+    cn = cp.cn_of(fund_text)
+    if cn == "check":
+        cn = ("yes" if "Rest of world" in who else
+              "no" if who.strip() == "UK" and not re.search(r"international(?! Student Affairs)", fund_text, re.I) else "check")
+    return {
+        "id": f"cranfield:{jid}", "title": page_text(h1.group(1))[:200] if h1 else jid, "url": url,
+        "org": "Cranfield University", "country": "UK", "place": "Cranfield", "level": "phd", "deadline": deadline,
+        "quote": "Application deadline " + due.group(1), "funding_for": paid.group(0).strip(), "amount": "",
+        "cn": cn, "flags": cp.flags_of(text), "via": "Cranfield",
+    }, "收录"
+
+
 ADAPTERS = {"crick": (crick_urls, crick_detail), "lms": (lms_urls, lms_detail), "soton": (soton_urls, soton_detail),
             "coventry": (cov_urls, cov_detail), "lboro": (lboro_urls, lboro_detail), "hw": (hw_urls, hw_detail),
-            "qmul": (qm_urls, qm_detail), "mibtp": (mi_urls, mi_detail), "babraham": (bab_urls, bab_detail)}
-VIA_RANK = {"Crick": 3, "MRC LMS": 3, "Southampton": 3, "Coventry": 3, "Loughborough": 3, "Heriot-Watt": 3, "Queen Mary": 3, "MIBTP": 3, "Babraham Institute": 3}
+            "qmul": (qm_urls, qm_detail), "mibtp": (mi_urls, mi_detail), "babraham": (bab_urls, bab_detail),
+            "cranfield": (cran_urls, cran_detail)}
+VIA_RANK = {"Crick": 3, "MRC LMS": 3, "Southampton": 3, "Coventry": 3, "Loughborough": 3, "Heriot-Watt": 3, "Queen Mary": 3, "MIBTP": 3, "Babraham Institute": 3, "Cranfield": 3}
