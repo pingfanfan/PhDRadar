@@ -92,6 +92,9 @@ REACHMEE = [  # (学校, 站点, 查询参数, 国家)
 
 # 学校自建的招聘页：列表页上的岗位链接 + 岗位页（标题取 <h1>）。
 LISTS = [  # (学校, 列表页或站点地图, 岗位链接正则：(路径, 编号), 链接前缀, 国家[, 标题正则（默认取 <h1>）])
+    # 剑桥大学招聘网站的 Studentships 栏目（一页列出全部在招博士奖学金；robots.txt 只禁后台与站内搜索），编号取链接末尾的岗位参考号
+    ("University of Cambridge", "https://www.cam.ac.uk/jobs/term/studentships",
+     r'href="(/jobs/[a-z0-9-]+-([a-z]{2}\d{5}))"', "https://www.cam.ac.uk", "UK"),
     ("University of Copenhagen", "https://employment.ku.dk/all-vacancies/", r'href="(/all-vacancies/\?show=(\d+))"',
      "https://employment.ku.dk", "DK"),
     # 理大研究岗位表格：整行可点（data-href），岗位页的 <h1> 是“Post Specification”，标题在 <title>

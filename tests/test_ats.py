@@ -231,3 +231,24 @@ def test_pageup_listing_waf_is_reported_not_empty(capsys):
     f.host_delay = {}
     assert ats.pu_urls(f, 3) == []
     assert "AWS WAF" in capsys.readouterr().out and f.host_delay["jobs.hku.hk"] == 15
+
+
+def test_cambridge_studentships_list():
+    entry = next(e for e in ats.LISTS if e[0] == "University of Cambridge")
+    listing = ('<a href="/jobs/phd-studentship-comparative-innate-immune-sensing-of-zoonotic-viruses-pk51376">PhD Studentship: '
+               'Comparative innate immune sensing of zoonotic viruses</a><a href="/jobs/term/studentships">Studentships</a>'
+               '<a href="/jobs/how-to-apply">How to apply</a>')
+    saved = ats.LISTS[:]
+    ats.LISTS[:] = [entry]
+    try:
+        out = ats.ls_urls(_Fetch(listing), 1)
+    finally:
+        ats.LISTS[:] = saved
+    assert out == [("cam-pk51376", "https://www.cam.ac.uk/jobs/"
+                                   "phd-studentship-comparative-innate-immune-sensing-of-zoonotic-viruses-pk51376")]
+    page = ("<h1>PhD Studentship: Comparative innate immune sensing of zoonotic viruses</h1><p>The studentships are available "
+            "to students who qualify for UK HOME FEES ONLY.</p><p>Funding will cover the student's stipend at the current "
+            "Research Council rate and Home University Fees.</p><p>Closing date: 2nd December 2026</p>")
+    row, why = ats.ls_detail("cam-pk51376", out[0][1], page, TODAY)
+    assert why == "收录" and row["deadline"] == "2026-12-02" and row["quote"] == "Closing date: 2nd December 2026"
+    assert row["org"] == "University of Cambridge" and row["level"] == "phd" and row["cn"] == "no"
