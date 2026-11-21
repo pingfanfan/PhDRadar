@@ -1,9 +1,9 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-11-20。共 **227** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-11-21。共 **224** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
-- [30 天内截止](#30-天内截止)（145）
+- [30 天内截止](#30-天内截止)（142）
 - [之后截止](#之后截止)（82）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（0）
 - [即将开放](#即将开放)（0）
@@ -12,9 +12,6 @@
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-20 | [巴塞尔历史研究生院（BGSH）Starter Scholarship（2027 年 4 月开始）](https://jobs.unibas.ch/offene-stellen/starter-scholarships-of-the-basel-graduate-school-of-history/43646da9-a53a-4dba-86dc-b823a312cefb) | 瑞士 | 博士 | 仅生活费 | ❔ 官网未写明 | 2027 年 4 月开始的一年期 starter scholarship，CHF 32,000 分两期发放；申请时须列出一名 BGSH 导师作为拟定导师。<br>官网原句：“Deadline for applications: 20 November 2026” |
-| 2026-11-20 | [纽伯里图书馆（Newberry Library）长期研究员](https://www.newberry.org/long-term-fellowships) | 美国 | 博后 | 仅生活费 | ❔ 官网未写明 | 2027-28 长期研究员项目已开放申请，截止 2026-11-20，经 SlideRoom 提交，每月津贴 5000 美元，须已获博士学位。<br>官网原句：“Deadline: November 20, 2026” |
-| 2026-11-20 | [东北大学 JF-CIJS-EAJS 日本研究博士生奖学金](https://cijs.oii.tohoku.ac.jp/en/fellowship/detail---id-178.html) | 欧盟/欧洲、日本 | 博士 | 仅生活费 | 🟡 部分可申 | 2027 年征集期至 2026-11-20（日本时间）；需在欧洲高校攻读人文社科博士，并由申请人、推荐人与日语评审在截止前提交表格<br>官网原句：“before the deadline of November 20, 2026 in Japan Standard Time.” |
 | 2026-11-22 | [CRG 国际博士项目 2027 批次（巴塞罗那）](https://www.crg.eu/en/content/training-phd-students/crg-international-phd-fellowships-programme-2027) | 西班牙 | 博士 | 带薪岗位 | ✅ 可申 | 2027 批次申请截止 2026 年 11 月 22 日；官网写明所有国籍可申，录取者签 4 年劳动合同。11 月 12 日有线上申请工作坊。<br>官网原句：“Deadline 22nd November 2026” |
 | 2026-11-22 | [肯特大学 SEDarc ESRC 博士奖学金](https://www.kent.ac.uk/scholarships/search/FNADSEDARC01) | 英国 | 博士 | 全奖（学费＋生活费） | 🟡 部分可申 | 肯特大学 SEDarc 校内截止为 2026-11-22 23:59 GMT，需在截止前把申请表提交给研究生与研究员学院。<br>官网原句：“23:59 GMT, Sunday 22 November 2026” |
 | 2026-11-23 | [马普研究员基金（Max Planck Fellowship，AEI 引力物理所）](https://www.aei.mpg.de/26182/max-planck-fellowship) | 德国 | 博后 | 仅生活费 | ❔ 官网未写明 | 完整考虑截止 2026 年 11 月 23 日（含推荐信送达），页面称名额满前持续考虑；预计 2027 年秋季入职。<br>官网原句：“Deadline for full consideration: 23 November 2026, including receipt of reference letters.” |
