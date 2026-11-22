@@ -252,3 +252,31 @@ def test_cambridge_studentships_list():
     row, why = ats.ls_detail("cam-pk51376", out[0][1], page, TODAY)
     assert why == "收录" and row["deadline"] == "2026-12-02" and row["quote"] == "Closing date: 2nd December 2026"
     assert row["org"] == "University of Cambridge" and row["level"] == "phd" and row["cn"] == "no"
+
+
+def test_aston_rss_list():
+    entry = next(e for e in ats.LISTS if e[0] == "Aston University")
+    feed = ("<rss><channel><title>Jobs at Aston</title>"
+            "<item><title><![CDATA[Research Associate / Postdoctoral Research Associate (1847-26)]]></title>"
+            "<link>https://jobs.aston.ac.uk/rss/click.aspx?ref=1847-26</link></item>"
+            "<item><title><![CDATA[MRI Radiographer (1901-26)]]></title>"
+            "<link>https://jobs.aston.ac.uk/rss/click.aspx?ref=1901-26</link></item></channel></rss>")
+    saved = ats.LISTS[:]
+    ats.LISTS[:] = [entry]
+    try:
+        out = ats.ls_urls(_Fetch(feed), 1)
+    finally:
+        ats.LISTS[:] = saved
+    assert out == [("aston-1847-26", "https://jobs.aston.ac.uk/Vacancy.aspx?ref=1847-26")]
+    page = ("<h1>Research Associate / Postdoctoral Research Associate</h1><p>Salary: £34,630 to £41,885 per annum</p>"
+            "<p>Contract Type: Fixed Term (36 months)</p><p>Closing Date: 23.59 hours GMT on Sunday 13 December 2026</p>"
+            "<p>Interview Date: Monday 25 January 2027</p><p>You will need a PhD.</p>")
+    row, why = ats.ls_detail("aston-1847-26", out[0][1], page, TODAY)
+    assert why == "收录" and row["deadline"] == "2026-12-13"
+    assert row["quote"] == "Closing Date: 23.59 hours GMT on Sunday 13 December 2026"
+    assert row["org"] == "Aston University" and row["level"] == "postdoc"
+
+
+def test_deadline_gap_allows_clock_time():
+    assert ats.deadline("Closing date 15:00 on 5 January 2027", "", "DMY")[0] == "2027-01-05"
+    assert ats.deadline("Deadline 12.10.2026 x", "", "DMY")[0] == "2026-10-12"

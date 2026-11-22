@@ -95,6 +95,10 @@ LISTS = [  # (学校, 列表页或站点地图, 岗位链接正则：(路径, �
     # 剑桥大学招聘网站的 Studentships 栏目（一页列出全部在招博士奖学金；robots.txt 只禁后台与站内搜索），编号取链接末尾的岗位参考号
     ("University of Cambridge", "https://www.cam.ac.uk/jobs/term/studentships",
      r'href="(/jobs/[a-z0-9-]+-([a-z]{2}\d{5}))"', "https://www.cam.ac.uk", "UK"),
+    # 阿斯顿大学招聘站的 RSS（列出全部在招职位；官网 www.aston.ac.uk 被 CloudFront 拦，招聘站 robots.txt 只禁 /WebResource.axd），
+    # RSS 里的点击链接跳转到 /Vacancy.aspx?ref=…，这里直接拼成岗位页地址
+    ("Aston University", "https://jobs.aston.ac.uk/rss/rss.aspx",
+     r"<link>https://jobs\.aston\.ac\.uk/rss/click\.aspx(\?ref=(\d+-\d+))</link>", "https://jobs.aston.ac.uk/Vacancy.aspx", "UK"),
     ("University of Copenhagen", "https://employment.ku.dk/all-vacancies/", r'href="(/all-vacancies/\?show=(\d+))"',
      "https://employment.ku.dk", "DK"),
     # 理大研究岗位表格：整行可点（data-href），岗位页的 <h1> 是“Post Specification”，标题在 <title>
@@ -208,7 +212,9 @@ ROMANCE_MONTHS = {"janvier": "January", "février": "February", "fevrier": "Febr
                   "dicembre": "December", "enero": "January", "febrero": "February", "abril": "April", "mayo": "May",
                   "junio": "June", "julio": "July", "septiembre": "September", "octubre": "October", "noviembre": "November",
                   "diciembre": "December"}
-GAP = r"([^.\d]{0,60}?)"  # 关键词与日期之间的文字；含 start / begin 的是开始日期，不是截止
+# 关键词与日期之间的文字（可含一个钟点，如 Aston 的 “Closing Date: 23.59 hours GMT on Sunday 13 December 2026”）；
+# 含 start / begin 的是开始日期，不是截止
+GAP = r"((?:[^.\d]|\d{1,2}[.:]\d{2}(?![.\d])){0,60}?)"
 NOT_DEADLINE = re.compile(r"start|begin|commenc|from\b", re.I)
 def started(text: str, pos: int) -> bool:
     """关键词前面紧挨着讲的是到岗时间（如 “start as soon as possible, and no later than 1 January 2027”）；
