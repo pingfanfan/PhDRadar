@@ -110,10 +110,10 @@ RESTRICTED = _RESTRICTED + [
     r"\binternational[^.]{0,120}\b(pay|cover|fund|meet)\b[^.]{0,60}\bdifference\b",
     r"\bdifference between (the )?(home|uk) and international", r"\bextra costs associated with international",
 ]
-INTERNATIONAL = _INTERNATIONAL + [
+INTERNATIONAL = _INTERNATIONAL + [  # “does not guarantee you are eligible for visa sponsorship”（Bath 招聘站模板）是否定句，不算
     r"\bfrom any country\b", r"\bavailable to (uk|home) and international (students|applicants)\b", r"\bfrom around the (globe|world)\b",
     r"\bopen to u\.?s\.? and non-u\.?s\.? citizens\b", r"\bnon-(italian|german|french|spanish|swiss|dutch|eu) (citizens|nationals)\b",
-    r"\b(offer|offers|provide|provides|eligible for)\s+(visa\s+)?sponsorship\b", r"\bvisa sponsorship (is |will be )?(available|provided|offered)\b",
+    r"\b(offer|offers|provide|provides|(?<!guarantee you are )(?<!guarantee that you are )eligible for)\s+(visa\s+)?sponsorship\b", r"\bvisa sponsorship (is |will be )?(available|provided|offered)\b",
 ]
 # 不是已落实资助的岗位：竞争性奖学金的意向征集、资助尚未落实、按时薪的远程合同工
 NOT_FUNDED = [

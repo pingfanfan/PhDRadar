@@ -99,6 +99,10 @@ LISTS = [  # (学校, 列表页或站点地图, 岗位链接正则：(路径, �
     # RSS 里的点击链接跳转到 /Vacancy.aspx?ref=…，这里直接拼成岗位页地址
     ("Aston University", "https://jobs.aston.ac.uk/rss/rss.aspx",
      r"<link>https://jobs\.aston\.ac\.uk/rss/click\.aspx(\?ref=(\d+-\d+))</link>", "https://jobs.aston.ac.uk/Vacancy.aspx", "UK"),
+    # 巴斯大学招聘站（与 Aston 同一套系统）的 RSS；www.bath.ac.uk 的 robots.txt 不禁 /jobs/。岗位页没有 <h1>，标题取 <title>（“SS14110 … - Jobs at Bath”）
+    ("University of Bath", "https://www.bath.ac.uk/jobs/rss/rss.aspx",
+     r"<link>https://www\.bath\.ac\.uk/jobs/rss/click\.aspx(\?ref=([A-Z]{2}\d+R?))</link>", "https://www.bath.ac.uk/jobs/Vacancy.aspx", "UK",
+     r"<title>\s*[A-Z]{2}\d+R?\s+(.*?)\s+-\s+Jobs at Bath\s*</title>"),
     ("University of Copenhagen", "https://employment.ku.dk/all-vacancies/", r'href="(/all-vacancies/\?show=(\d+))"',
      "https://employment.ku.dk", "DK"),
     # 理大研究岗位表格：整行可点（data-href），岗位页的 <h1> 是“Post Specification”，标题在 <title>

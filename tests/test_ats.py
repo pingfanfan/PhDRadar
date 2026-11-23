@@ -280,3 +280,29 @@ def test_aston_rss_list():
 def test_deadline_gap_allows_clock_time():
     assert ats.deadline("Closing date 15:00 on 5 January 2027", "", "DMY")[0] == "2027-01-05"
     assert ats.deadline("Deadline 12.10.2026 x", "", "DMY")[0] == "2026-10-12"
+
+
+def test_bath_rss_list_and_negated_sponsorship():
+    entry = next(e for e in ats.LISTS if e[0] == "University of Bath")
+    feed = ("<rss><channel><item><title><![CDATA[Research Associate in Statistics (SS14110)]]></title>"
+            "<link>https://www.bath.ac.uk/jobs/rss/click.aspx?ref=SS14110</link>"
+            "<description><![CDATA[Applications are invited for a postdoctoral research associate.]]></description></item>"
+            "<item><title><![CDATA[Team Supervisor (KD14094)]]></title>"
+            "<link>https://www.bath.ac.uk/jobs/rss/click.aspx?ref=KD14094</link></item></channel></rss>")
+    saved = ats.LISTS[:]
+    ats.LISTS[:] = [entry]
+    try:
+        out = ats.ls_urls(_Fetch(feed), 1)
+    finally:
+        ats.LISTS[:] = saved
+    assert out == [("bath-SS14110", "https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=SS14110")]
+    page = ("<html><head><title>\n SS14110 Research Associate in Statistics - Jobs at Bath\n</title></head><body>"
+            "<p>Salary Starting from £39,560, rising to £46,970</p><p>Closing date Friday 04 December 2026</p>"
+            "<p>Applications are invited for a postdoctoral research associate. Applicants should have, or be close to completing, "
+            "a PhD in a strongly quantitative discipline.</p>"
+            "<p>Right to Work in the UK: We do not assess immigration or right to work status until offer stage. Being invited to "
+            "interview does not guarantee you are eligible for visa sponsorship.</p></body></html>")
+    row, why = ats.ls_detail("bath-SS14110", out[0][1], page, TODAY)
+    assert why == "收录" and row["title"] == "Research Associate in Statistics"
+    assert row["deadline"] == "2026-12-04" and row["quote"] == "Closing date Friday 04 December 2026"
+    assert row["level"] == "postdoc" and row["cn"] == "check"
