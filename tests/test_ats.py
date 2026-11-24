@@ -306,3 +306,26 @@ def test_bath_rss_list_and_negated_sponsorship():
     assert why == "收录" and row["title"] == "Research Associate in Statistics"
     assert row["deadline"] == "2026-12-04" and row["quote"] == "Closing date Friday 04 December 2026"
     assert row["level"] == "postdoc" and row["cn"] == "check"
+
+
+def test_cardiff_eploy_sitemap():
+    entry = next(e for e in ats.LISTS if e[0] == "Cardiff University")
+    sitemap = ("<urlset><url><loc>https://cardiffuniweb.eploy.net/vacancies/1097/research-associate-in-computational-catalysis.html</loc></url>"
+               "<url><loc>https://cardiffuniweb.eploy.net/vacancies/401/nursery-nurse-university-sector.html</loc></url>"
+               "<url><loc>https://cardiffuniweb.eploy.net/vacancies/1173/marie-skłodowska-curie-actions-doctoral-candidate-dc14.html</loc></url></urlset>")
+    saved = ats.LISTS[:]
+    ats.LISTS[:] = [entry]
+    try:
+        out = dict(ats.ls_urls(_Fetch(sitemap), 1))
+    finally:
+        ats.LISTS[:] = saved
+    assert out == {"cardiffuniweb-1097": "https://cardiffuniweb.eploy.net/vacancies/1097/research-associate-in-computational-catalysis.html",
+                   "cardiffuniweb-1173": "https://cardiffuniweb.eploy.net/vacancies/1173/marie-skłodowska-curie-actions-doctoral-candidate-dc14.html"}
+    page = ('<h1 id="ctl00_title" class="hero__title flush">Research Associate in Computational Catalysis</h1>'
+            "<p>Salary Details: £41,885 - £46,970 per annum (Grade 6)</p><p>Contract Type: Fixed Term</p>"
+            "<p>Applicants must hold a postgraduate degree at PhD level (or nearing completion / submission).</p>"
+            "<p>Date advert posted: Friday, 20 November 2026 Closing date: Friday, 18 December 2026</p>")
+    row, why = ats.ls_detail("cardiffuniweb-1097", out["cardiffuniweb-1097"], page, TODAY)
+    assert why == "收录" and row["deadline"] == "2026-12-18"
+    assert row["org"] == "Cardiff University" and row["level"] == "postdoc"
+    assert row["title"] == "Research Associate in Computational Catalysis"

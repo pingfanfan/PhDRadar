@@ -103,6 +103,10 @@ LISTS = [  # (学校, 列表页或站点地图, 岗位链接正则：(路径, �
     ("University of Bath", "https://www.bath.ac.uk/jobs/rss/rss.aspx",
      r"<link>https://www\.bath\.ac\.uk/jobs/rss/click\.aspx(\?ref=([A-Z]{2}\d+R?))</link>", "https://www.bath.ac.uk/jobs/Vacancy.aspx", "UK",
      r"<title>\s*[A-Z]{2}\d+R?\s+(.*?)\s+-\s+Jobs at Bath\s*</title>"),
+    # 卡迪夫大学的招聘系统 Eploy（jobs.cardiff.ac.uk 跳转到这里；官网 www.cardiff.ac.uk 有 Cloudflare 人机验证）：
+    # robots.txt 只写了站点地图，live-jobs.xml 列出全部在招职位，链接里的英文短名能看出博士 / 博后
+    ("Cardiff University", "https://cardiffuniweb.eploy.net/live-jobs.xml",
+     r"<loc>https://cardiffuniweb\.eploy\.net/vacancies(/(\d+)/[^<]+\.html)</loc>", "https://cardiffuniweb.eploy.net/vacancies", "UK"),
     ("University of Copenhagen", "https://employment.ku.dk/all-vacancies/", r'href="(/all-vacancies/\?show=(\d+))"',
      "https://employment.ku.dk", "DK"),
     # 理大研究岗位表格：整行可点（data-href），岗位页的 <h1> 是“Post Specification”，标题在 <title>
@@ -559,6 +563,9 @@ def rm_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, st
 _LS: dict[str, tuple[str, str, str]] = {}  # 岗位 id → (学校, 国家, 标题正则)
 
 
+HOSTED = {"eploy"}  # 招聘平台的域名（学校站点是 <学校>.<平台>.net）
+
+
 def ls_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
     import gzip
     out: dict[str, str] = {}
@@ -583,7 +590,9 @@ def ls_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
                         label = raw[item:end] if item >= 0 else label
                     if "(?#全部)" in link_re or SLUG.search(label):
                         host = (prefix + m.group(1)).split("//")[1].split("/")[0].split(".")
-                        jid = f"{host[1] if len(host) > 2 else host[0]}-{m.group(2).replace('/', '-')}"
+                        # 托管在招聘平台子域名上的（如 cardiffuniweb.eploy.net）取学校自己的子域名，免得同一平台的学校编号相撞
+                        name = host[0] if len(host) < 3 or host[1] in HOSTED else host[1]
+                        jid = f"{name}-{m.group(2).replace('/', '-')}"
                         out.setdefault(jid, prefix + htmllib.unescape(m.group(1)))
                         _LS[jid] = (school, country, title_re[0] if title_re else r"<h1[^>]*>(.*?)</h1>")
     return list(out.items())
