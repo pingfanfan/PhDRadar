@@ -389,8 +389,11 @@ MI_PAGE = ('<button id="delivery_systems" role="tab">Targeting bacteria</button>
            '<p><strong>University of Registration: </strong>Aston University</p></section>')
 
 
-def test_mibtp_round_and_urls():
+def test_mibtp_round_and_urls(monkeypatch):
+    import datetime
     import platforms_uk as uk
+    # mi_urls 用当天日期判断这一轮是否已截止：固定成样例截止前的一天，测试不随真实日期过期
+    monkeypatch.setattr(uk.cp, "date", type("D", (), {"today": staticmethod(lambda: datetime.date(2026, 11, 14))}))
     r = uk.mi_round(MI_APP, "2026-11-14")
     assert r["deadline"] == "2026-11-23" and r["quote"].startswith("Applications for the MIBTP programme")
     assert r["funding_for"].endswith("to support living costs.")

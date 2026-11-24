@@ -1,9 +1,9 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-11-23。共 **222** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-11-24。共 **220** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
-- [30 天内截止](#30-天内截止)（140）
+- [30 天内截止](#30-天内截止)（138）
 - [之后截止](#之后截止)（82）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（0）
 - [即将开放](#即将开放)（0）
@@ -12,8 +12,6 @@
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-23 | [马普研究员基金（Max Planck Fellowship，AEI 引力物理所）](https://www.aei.mpg.de/26182/max-planck-fellowship) | 德国 | 博后 | 仅生活费 | ❔ 官网未写明 | 完整考虑截止 2026 年 11 月 23 日（含推荐信送达），页面称名额满前持续考虑；预计 2027 年秋季入职。<br>官网原句：“Deadline for full consideration: 23 November 2026, including receipt of reference letters.” |
-| 2026-11-23 | [EPFL IPHYS：ERC Consolidator 资助研究组](https://www.epfl.ch/schools/sb/research/iphys/erc-consolidator-grants/) | 瑞士 | 博士、博后 | 视项目而定 | ❔ 官网未写明 | IPHYS 内部截止 2026 年 11 月 23 日，需先取得 IPHYS 教授支持信；EPFL 内部截止 12 月 15 日，ERC 截止 2027 年 1 月 12 日。<br>官网原句：“no later than 23/11/2026” |
 | 2026-11-24 | [爱丁堡大学法学院博士奖学金](https://www.law.ed.ac.uk/study/research-degrees/scholarships-funding) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | SGSSS Open 竞争截止 2026 年 11 月 24 日 17:00 GMT，入学申请须同时在 11 月 19 日 17:00 GMT 前提交；仅限社会科学视角研究，国际名额有限。<br>官网原句：“17:00 (GMT) 24th November 2026” |
 | 2026-11-27 | [智利 ANID 国家博士奖学金（Beca de Doctorado Nacional）](https://anid.cl/capital-humano-2/doctorado-nacional/) | 智利 | 博士 | 官网未写明 | ❔ 官网未写明 | 智利 ANID 2027 学年博士奖学金征集，截止 2026 年 11 月 27 日 13:00；页面未说明外国国籍是否可申请。<br>官网原句：“Cierre: 27 de noviembre, 2026 - 13:00” |
 | 2026-11-27 | [RobotX PhD Fellowship 2027（ETH Zurich）](https://jobs.ethz.ch/job/view/JOPG_ethz_zBtPwWHnM0fumyTFso) | 瑞士 | 博士 | 带薪岗位 | ❔ 官网未写明 | RobotX 2027 轮博士岗位，截止 2026 年 11 月 27 日，仅接受在线门户提交。<br>官网原句：“Application deadline: 27 November 2026.” |
