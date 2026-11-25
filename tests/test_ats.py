@@ -329,3 +329,18 @@ def test_cardiff_eploy_sitemap():
     assert why == "收录" and row["deadline"] == "2026-12-18"
     assert row["org"] == "Cardiff University" and row["level"] == "postdoc"
     assert row["title"] == "Research Associate in Computational Catalysis"
+
+
+def test_workday_stops_on_429():
+    import requests
+
+    class F429:
+        calls = 0
+
+        def get(self, url):
+            F429.calls += 1
+            resp = requests.Response()
+            resp.status_code = 429
+            raise requests.HTTPError("429 Client Error: Too Many Requests", response=resp)
+
+    assert ats.wd_urls(F429(), 1) == [] and F429.calls == 1

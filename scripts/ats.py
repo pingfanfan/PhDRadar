@@ -366,6 +366,10 @@ def wd_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
             xml = htmllib.unescape(f.get(sitemap).text)
         except Exception as e:  # noqa: BLE001 某校被拦或下线：跳过该校
             print(f"[workday] {school} 站点地图失败：{type(e).__name__}")
+            # 429（请求太多）：Workday 各校共用一套服务，再试别的学校也一样，今天到此为止，不硬闯
+            if getattr(getattr(e, "response", None), "status_code", None) == 429:
+                print("[workday] 收到 429，今天停止采集 Workday（已收录的岗位保留）")
+                break
             continue
         tenant = re.search(r"//(?:([\w-]+)\.wd\d+\.myworkdayjobs\.com|wd\d+\.myworkdaysite\.com/recruiting/([\w-]+))", sitemap)
         tenant = (tenant.group(1) or tenant.group(2)) if tenant else "wd"
