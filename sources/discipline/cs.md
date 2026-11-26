@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 计算机 信源（566） · 第 1/2 页
+# 计算机 信源（565） · 第 1/2 页
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 19](cs.md#aggregators) · [各国学术招聘门户与机构职位页 9](cs.md#national-portals) · [政府与国家级奖学金 9](cs.md#gov-scholarships) · [高校旗舰奖学金与资助检索 101](cs.md#university-schemes) · [结构化博士项目与研究机构 203](cs.md#doctoral-programs) · [博士后奖学金与项目 61](cs.md#postdoc-fellowships) · [企业与基金会 Fellowship 34](cs.md#fellowships) · [学科专属信源 31](cs.md#discipline) · [科研实习与“曲线入口” 7](cs.md#pathways) · [个人信源与社交渠道 59](cs.md#people-channels) · [导师招生帖（社交平台个人发布） 25](cs.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 7](cs-2.md#faculty-aggregators) · [选校与申请辅助工具 1](cs-2.md#tools)
+**按分类跳转：** [综合聚合平台 19](cs.md#aggregators) · [各国学术招聘门户与机构职位页 9](cs.md#national-portals) · [政府与国家级奖学金 9](cs.md#gov-scholarships) · [高校旗舰奖学金与资助检索 101](cs.md#university-schemes) · [结构化博士项目与研究机构 203](cs.md#doctoral-programs) · [博士后奖学金与项目 61](cs.md#postdoc-fellowships) · [企业与基金会 Fellowship 33](cs.md#fellowships) · [学科专属信源 31](cs.md#discipline) · [科研实习与“曲线入口” 7](cs.md#pathways) · [个人信源与社交渠道 59](cs.md#people-channels) · [导师招生帖（社交平台个人发布） 25](cs.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 7](cs.md#faculty-aggregators) · [选校与申请辅助工具 1](cs-2.md#tools)
 
 **分页：** [第 1 页](cs.md) · [第 2 页](cs-2.md)
 
@@ -458,7 +458,7 @@
 
 <a id="fellowships"></a>
 
-## 企业与基金会 Fellowship（34）
+## 企业与基金会 Fellowship（33）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -481,7 +481,6 @@
 | [IISc Google PhD 奖学金项目](https://odaa.iisc.ac.in/google-phd-fellowship-program/)<br><sub>印度 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费<br><sub>最多 US$50,000（页面摘要）</sub> | **2026-04-15**<br><sub>⏸ 本轮已截止</sub><br><sub>2026-04-15 截止（已过），页面显示申请已关闭；获奖者约于 2026 年 8 月底由 Google 通知。未见下一轮公告。</sub> | ❔ | **要求：** 早期博士生须于 2025 年 1 月或之后入读博士项目；研究方向限于页面所列计算机及相关领域；须全日制在读；Google 员工及其亲属不具资格；已获同类产业资助者不具资格；往届获奖者不得再申请。<br>由 Google 资助、IISc 管理的博士奖学金，最长四年；与 IISc 普通博士资助不同，需确认中国学生是否符合条件。 |
 | [INSAIT（索非亚）计算机科学与 AI 博士奖学金](https://insait.ai/phd/)<br><sub>保加利亚 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>€39,684/年（税前，官网列出）</sub> | 滚动<br><sub>🔄 随时可申</sub><br><sub>滚动招生，全年可申请</sub> | ✅ | **要求：** 入学时需具备学士或硕士学位（应届毕业生可申请）；英文授课，需提交 CV、成绩单、动机信<br>页面称博士奖学金为全额，每年 €39,684（税前），博士期限最长 5 年；采用滚动招生，全年可申请；工作语言为英语。 |
 | [Jane Street Graduate Research Fellowship](https://www.janestreet.com/join-jane-street/programs-and-events/graduate-research-fellowship/)<br><sub>美国·加拿大·英国·欧盟/欧洲·澳大利亚·新西兰 ｜ 计算机·数学/统计·物理/天文·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$50,000（生活费，需纳税）+ 全额学费</sub> | **2026-11-13**<br><sub>🟢 开放申请</sub><br><sub>2027 轮申请截止 2026 年 11 月 13 日（AoE），推荐信截止 2026 年 12 月 1 日</sub> | ✅ | **要求：** 须就读于美国、加拿大、英国、欧洲、澳大利亚、新西兰或新加坡的研究型博士项目（学科：电气工程与计算机、数学、物理、统计）；入学时需至少剩余一年学程，或已确定 2027 年秋入读博士<br>官方称国际生可申请；2027 轮申请截止 2026 年 11 月 13 日（AoE），含全额学费与 50,000 美元生活费，2026 年 10 月仍在招。 |
-| [KAUST 数值计算组博士奖学金与招聘](https://numerics.kaust.edu.sa/openings.html)<br><sub>沙特 ｜ 数学/统计·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 未公布 | ✅ | **要求：** 需数学（应用或纯）、物理、工程或相关学位，并具备优秀的英语读写与口头表达能力；申请时发邮件联系导师，并附研究样例。<br>页面写明：Ph.D. 学生可获得有竞争力的津贴，并含住房与保险；未提及学费。申请时发邮件联系导师，再通过 KAUST 招生系统提交。 |
 | [Meta Research PhD Fellowship](https://metaresearchphdfellowship.smapply.io/)<br><sub>全球 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>US$42,000/年（生活与会议差旅；聚合站数据，需以官网为准）</sub> | **2026-09-20**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮 9 月 20 日截止，已过；下一轮预计 2027 年夏季开放，以官网为准</sub> | ❔ | **要求：** 需为在读全日制博士生；研究方向每年变化，国别资格各站说法不一，以官网为准。<br>面向在读全日制博士生的 Meta 研究博士奖学金，通过 SmartApply 门户申请。2026 轮已截止；国别资格各渠道说法不一，以官网为准。 |
 | [Microsoft Research Fellowship（原 PhD Fellowship）](https://www.microsoft.com/en-us/research/academic-program/2026-microsoft-research-fellowship/)<br><sub>全球 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 视项目而定 | **2025-12-16**<br><sub>⏸ 本轮已截止</sub><br><sub>2026 轮提案 2025-12-16 截止（已关闭）；2027 轮未见公告，关注官网</sub> | ❔ | **要求：** 面向教授、在读博士与博士后，以研究课题提案申请；国际生资格依研究挑战与地区而定，需看当轮官网说明<br>微软研究院 Fellowship：金额按地区拨付学校（美加 $47,000，欧洲 $27,000，其他地区 $17,000）。资格按大学所在地区划定，有搜索结果称官方名单中未见中国大陆高校，但未取得官方原文，中国大陆高校是否在名单内需向官网核实。2026 轮提案截止 2025-12-16 已关闭。 |
 | [Munich Quantum Valley 博士奖学金（慕尼黑）](https://www.munich-quantum-valley.de/education/doctoral-fellowships)<br><sub>德国 ｜ 物理/天文·计算机·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | **2027-01-11**<br><sub>🟢 开放申请</sub><br><sub>2027 批次申请期为 2026-10-15 至 2027-01-11。</sub> | ❔ | **要求：** 硕士学位；可选择巴伐利亚任一大学的研究组<br>全额 3 年博士奖学金，每年约 5 个名额，由 MQV 与 IMPRS-QST 联合招募。2027 批次尚未公布，国际生资格以官网为准。 |
@@ -646,6 +645,20 @@
 | [普渡大学 Xiaoqian Wang 课题组 · 可信 AI/ML 博士招生](https://engineering.purdue.edu/~joywang)<br><sub>美国 ｜ 计算机·人工智能·工程</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 滚动<br><sub>🔄 随时可申</sub><br><sub>教师主页称长期招收自驱动博士生，发送 CV 与成绩单；资助以学校政策为准</sub> | ❔ | **要求：** 需先申请 Purdue ECE 博士项目并在申请中写明导师；提交 CV 与成绩单；机器学习或 AI 研究经验为优先（第三方转载的招生帖）。<br>导师主页称一直招自驱动博士生,请发送 CV 和成绩单。需先申请 Purdue ECE 博士并在申请中写明导师,资助以学校政策为准。 |
 | [根特大学 IDLab 研究组招聘页（含博士岗位）](https://knows.idlab.ugent.be/vacancies/)<br><sub>比利时 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-10-31**<br><sub>🟢 开放申请</sub><br><sub>岗位按项目陆续发布，截止以各岗位页为准；检索未找到 2026 年 IDLab 知识图谱岗位。</sub> | ❔ | **要求：** 需先联系导师；具体学历与语言要求以岗位页为准。<br>IDLab 知识图谱与语义方向招聘页，含基于 LLM 的图检索博士岗位。比利时博士多为雇员合同，先联系导师。 |
 | [香港大学 Yang Xu 课题组招生页（Join us）](https://yangxu.hku.hk/join/)<br><sub>中国香港 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>🟢 开放申请</sub><br><sub>2027 春季或秋季入学；正式申请按港大系统截止，以官网为准</sub> | ✅ | 港大 Yang Xu 课题组主页称 2027 年春/秋入学招 1–2 名博士，录取者由 HKPFS、HKU-PS 或 PGS 全额资助；可发邮件附简历与成绩单，正式申请按港大系统。需机械/电子/自动化/计算机/机器人/材料等相关专业；国籍资格页面未写，需核实。 |
+
+<a id="faculty-aggregators"></a>
+
+## 导师招生汇总（指向个人主页的集合）（7）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [CU Boulder CS 2027 秋季招生导师一览](https://www.colorado.edu/cs/admissions/graduate-admissions/see-who-recruiting)<br><sub>美国 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | 未公布<br><sub>📋 持续更新</sub><br><sub>以各导师说明和学院公告为准</sub> | ❔ | 官方导师一览页，按研究方向分组列出 Fall 2027 正在招博士的教授与实验室。资助情况与国际生资格需联系导师、查看申请要求。 |
+| [Inria AVIZ 可视化与人机交互团队招聘页](https://www.aviz.fr/Research/Jobs)<br><sub>法国 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | 未公布<br><sub>🟢 开放申请</sub><br><sub>无统一截止日，以各岗位公告为准。</sub> | ❔ | 页面当前列出 2027 年秋季入学的博士岗，包括 Visualization of the Plausibility and Bias for Data Resources used in a Geographic Digital Twin，另一岗位待公布；页面写明 INRIA 博士资助（CORDI）每年 2–5 月申请。 |
+| [ISTA Visual Computing 组招聘页](https://visualcomputing.ist.ac.at/openpositions)<br><sub>奥地利 ｜ 计算机·人工智能</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 全奖 | **2027-01-08**<br><sub>🔜 即将开放</sub><br><sub>页面写明 2026 年秋季入学的博士申请截止为 2026 年 1 月初，内容未更新至 2027 轮；博后请直接邮件联系组长。</sub> | ❔ | ISTA 视觉计算组职位页；ISTA 博士生通常通过学院统一批次招生，留意下一批次公布时间。 |
+| [KIT 信息系统研究所（DBIS）博士研究员 数据科学方向](https://dbis.ipd.kit.edu/english/2814_3353.php)<br><sub>德国 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 带薪岗位 | 未公布<br><sub>页面无日期，需向课题组确认。</sub> | ❔ | KIT 信息系统研究所（Klemens Böhm 教授）招聘 researcher/PhD student（数据科学方向）。页面称薪资（TV-L 13）足以覆盖德国生活开销，申请材料须发至指定邮箱。 |
+| [McGill CIM Arbel 组博后与 PhD 职位](https://cim.mcgill.ca/~arbel/positions)<br><sub>加拿大 ｜ 人工智能·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明 | — | ❔ | PI 页面确认列有博士与博后职位。博士岗需通过 ECE 系正式申请并指定 Arbel 为首选导师。页面未见具体资助金额，以确认为准。 |
+| [NYU Courant 形式化方法、验证与编程语言教师名录](https://cs.nyu.edu/dynamic/people/faculty/area/Formal%20Methods,%20Verification,%20and%20Programming%20Languages/)<br><sub>美国 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ✅ | NYU Courant 形式化方法、验证与程序语言方向教师名录，不含招生与资助信息；名额和资助需联系教师或查阅 Courant 博士项目页面。 |
+| [科罗拉多大学博尔德分校计算机系 · Fall 2027 在招导师与项目](https://www.colorado.edu/cs/admissions/graduate-admissions/discover-graduate-programs)<br><sub>美国 ｜ 计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | —<br><sub>📋 持续更新</sub> | ❔ | 页面列出计算机系在招博士的教授与实验室（Fall 2027）；各研究组截止日需进入页面核实。 |
 
 **分页：** [第 1 页](cs.md) · [第 2 页](cs-2.md)
 

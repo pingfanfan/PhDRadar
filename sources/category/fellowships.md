@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 企业与基金会 Fellowship（226）
+# 企业与基金会 Fellowship（225）
 
 面向博士生（多为在读）的额外资助，可叠加或作为后续资金来源。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按地区跳转：** [美国（US） 49](fellowships.md#r-us) · [德国（DE） 36](fellowships.md#r-de) · [全球（GLOBAL） 24](fellowships.md#r-global) · [英国（UK） 14](fellowships.md#r-uk) · [日本（JP） 13](fellowships.md#r-jp) · [澳大利亚（AU） 8](fellowships.md#r-au) · [西班牙（ES） 8](fellowships.md#r-es) · [加拿大（CA） 7](fellowships.md#r-ca) · [欧盟/欧洲（EU） 7](fellowships.md#r-eu) · [比利时（BE） 6](fellowships.md#r-be) · [瑞士（CH） 6](fellowships.md#r-ch) · [以色列（IL） 6](fellowships.md#r-il) · [丹麦（DK） 5](fellowships.md#r-dk) · [爱尔兰（IE） 5](fellowships.md#r-ie) · [法国（FR） 3](fellowships.md#r-fr) · [中国香港（HK） 3](fellowships.md#r-hk) · [瑞典（SE） 3](fellowships.md#r-se) · [爱沙尼亚（EE） 2](fellowships.md#r-ee) · [荷兰（NL） 2](fellowships.md#r-nl) · [沙特（SA） 2](fellowships.md#r-sa) · [新加坡（SG） 2](fellowships.md#r-sg) · [奥地利（AT） 1](fellowships.md#r-at) · [保加利亚（BG） 1](fellowships.md#r-bg) · [中国内地（CN） 1](fellowships.md#r-cn) · [捷克（CZ） 1](fellowships.md#r-cz) · [埃及（EG） 1](fellowships.md#r-eg) · [希腊（GR） 1](fellowships.md#r-gr) · [印度（IN） 1](fellowships.md#r-in) · [意大利（IT） 1](fellowships.md#r-it) · [韩国（KR） 1](fellowships.md#r-kr) · [挪威（NO） 1](fellowships.md#r-no) · [新西兰（NZ） 1](fellowships.md#r-nz) · [罗马尼亚（RO） 1](fellowships.md#r-ro) · [斯洛文尼亚（SI） 1](fellowships.md#r-si) · [土耳其（TR） 1](fellowships.md#r-tr) · [中国台湾（TW） 1](fellowships.md#r-tw)
+**按地区跳转：** [美国（US） 49](fellowships.md#r-us) · [德国（DE） 36](fellowships.md#r-de) · [全球（GLOBAL） 24](fellowships.md#r-global) · [英国（UK） 14](fellowships.md#r-uk) · [日本（JP） 13](fellowships.md#r-jp) · [澳大利亚（AU） 8](fellowships.md#r-au) · [西班牙（ES） 8](fellowships.md#r-es) · [加拿大（CA） 7](fellowships.md#r-ca) · [欧盟/欧洲（EU） 7](fellowships.md#r-eu) · [比利时（BE） 6](fellowships.md#r-be) · [瑞士（CH） 6](fellowships.md#r-ch) · [以色列（IL） 6](fellowships.md#r-il) · [丹麦（DK） 5](fellowships.md#r-dk) · [爱尔兰（IE） 5](fellowships.md#r-ie) · [法国（FR） 3](fellowships.md#r-fr) · [中国香港（HK） 3](fellowships.md#r-hk) · [瑞典（SE） 3](fellowships.md#r-se) · [爱沙尼亚（EE） 2](fellowships.md#r-ee) · [荷兰（NL） 2](fellowships.md#r-nl) · [新加坡（SG） 2](fellowships.md#r-sg) · [奥地利（AT） 1](fellowships.md#r-at) · [保加利亚（BG） 1](fellowships.md#r-bg) · [中国内地（CN） 1](fellowships.md#r-cn) · [捷克（CZ） 1](fellowships.md#r-cz) · [埃及（EG） 1](fellowships.md#r-eg) · [希腊（GR） 1](fellowships.md#r-gr) · [印度（IN） 1](fellowships.md#r-in) · [意大利（IT） 1](fellowships.md#r-it) · [韩国（KR） 1](fellowships.md#r-kr) · [挪威（NO） 1](fellowships.md#r-no) · [新西兰（NZ） 1](fellowships.md#r-nz) · [罗马尼亚（RO） 1](fellowships.md#r-ro) · [沙特（SA） 1](fellowships.md#r-sa) · [斯洛文尼亚（SI） 1](fellowships.md#r-si) · [土耳其（TR） 1](fellowships.md#r-tr) · [中国台湾（TW） 1](fellowships.md#r-tw)
 
 <a id="r-us"></a>
 
@@ -350,15 +350,6 @@
 | [UNU-MERIT 博士奖学金（学费减免 + 月补助）](https://unu.edu/merit/doctorate-degree/full-time-phd-programme)<br><sub>荷兰 ｜ 社会科学/心理·经济/金融·生态/进化</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | —<br><sub>⏸ 本轮已截止</sub><br><sub>官网列出 2026-02-15 截止（已结束）；2027 年 9 月入学轮次以官网为准，通常 11 月开放申请、次年 2 月截止</sub> | ❔ | UNU-MERIT 全职博士奖学金（约 10 名）：页面称入选者免学费并发放为期 4 年、月净额约 €1,650 的奖学金（依据 2024–25 学年页面，金额以最新官网为准）。2026 年 2 月 15 日截止已过，下一轮以官网为准。 |
 | [海牙国际法学院课程与博士奖学金](https://www.hagueacademy.nl/doctoral-scholarships/)<br><sub>荷兰 ｜ 社会科学/心理</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>€2,250 + 一半差旅费（上限 €910）</sub> | **2027-01-31**<br><sub>🟢 开放申请</sub><br><sub>2027 年夏季课程（7 月 1 日至 9 月 1 日）申请截止 2027 年 1 月 31 日。</sub> | 🟡 | **要求：** 面向非 OECD 国家在读博士生（居住于本国），需能在获奖次年 12 月 31 日前完成答辩；需英语或法语能力；已获该学院博士奖学金者不得再申请；须在海牙实际居住两个月。<br>海牙国际法学院博士奖学金面向非 OECD 国家在读博士生（中国大陆属非 OECD 国家，但仅限该范围），2027 年夏季课程 7 月 1 日至 9 月 1 日，资助 2250 欧元加一半差旅费（上限 910 欧元），须在海牙实际居住两个月，申请截止 2027 年 1 月 31 日。 |
 
-<a id="r-sa"></a>
-
-## 沙特（SA）（2）
-
-| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
-| --- | --- | --- | --- | :-: | --- |
-| [KAUST 伊斯兰开发银行（IDB）博士奖学金](https://www.kaust.edu.sa/en/study/idb-kaust-scholarship)<br><sub>沙特 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ⛔ | **要求：** 仅限伊斯兰开发银行成员国公民，35 岁以下，需在本国学术或研究机构全职工作并获机构提名，且已获 KAUST 博士录取。<br>只面向伊斯兰开发银行成员国公民且需机构提名，中国大陆学生一般无资格，仅供核对。 |
-| [KAUST 数值计算组博士奖学金与招聘](https://numerics.kaust.edu.sa/openings.html)<br><sub>沙特 ｜ 数学/统计·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 未公布 | ✅ | **要求：** 需数学（应用或纯）、物理、工程或相关学位，并具备优秀的英语读写与口头表达能力；申请时发邮件联系导师，并附研究样例。<br>页面写明：Ph.D. 学生可获得有竞争力的津贴，并含住房与保险；未提及学费。申请时发邮件联系导师，再通过 KAUST 招生系统提交。 |
-
 <a id="r-sg"></a>
 
 ## 新加坡（SG）（2）
@@ -463,6 +454,14 @@
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
 | [罗马尼亚文化学会（ICR）外国研究者资助 2026](https://www.icr.ro/pagini/call-for-applications-for-foreign-researchers-grants-to-be-held-in-2026)<br><sub>罗马尼亚 ｜ 人文/语言</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 仅生活费<br><sub>€5,000（3 个月驻留研究）</sub> | **2026-05-04**<br><sub>⏸ 本轮已截止</sub><br><sub>每年征集；2026 轮 5 月 4 日截止，2027 轮待公告</sub> | ❔ | **要求：** 需研究计划、CV、身份证明及 2 封推荐信；国籍限制以公告为准<br>赴罗马尼亚开展为期三个月研究的外国研究者资助（€5,000），偏人文社科与艺术；2026 轮已于 5 月 4 日截止，2027 轮关注 ICR 官网公告。 |
+
+<a id="r-sa"></a>
+
+## 沙特（SA）（1）
+
+| 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
+| --- | --- | --- | --- | :-: | --- |
+| [KAUST 伊斯兰开发银行（IDB）博士奖学金](https://www.kaust.edu.sa/en/study/idb-kaust-scholarship)<br><sub>沙特 ｜ 全学科</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖 | — | ⛔ | **要求：** 仅限伊斯兰开发银行成员国公民，35 岁以下，需在本国学术或研究机构全职工作并获机构提名，且已获 KAUST 博士录取。<br>只面向伊斯兰开发银行成员国公民且需机构提名，中国大陆学生一般无资格，仅供核对。 |
 
 <a id="r-si"></a>
 

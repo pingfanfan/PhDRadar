@@ -65,6 +65,8 @@ SUCCESSFACTORS = [  # (学校, 站点, 国家)
     ("UCLouvain", "https://jobs.uclouvain.be", "BE"),
     ("National University of Singapore", "https://careers.nus.edu.sg", "SG"),
     ("Singapore University of Technology and Design", "https://careers.sutd.edu.sg", "SG"),
+    # KAUST 的招聘站（robots.txt 只禁申请、订阅等路径）；11-26 站点地图只有 8 个行政技术岗，留着以便收到博后岗位
+    ("King Abdullah University of Science and Technology (KAUST)", "https://careers.kaust.edu.sa", "SA"),
     ("A*STAR", "https://careers.a-star.edu.sg", "SG"),
     ("CSIRO", "https://jobs.csiro.au", "AU"),
     ("University of Toronto", "https://jobs.utoronto.ca", "CA"),

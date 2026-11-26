@@ -2,13 +2,13 @@
 
 [← 总目录](../../SOURCES.md)
 
-# 数学/统计 信源（298）
+# 数学/统计 信源（297）
 
 “全学科”信源（综合平台、政府奖学金等）对所有方向都适用，请一并查看[全学科页](all.md)。
 
 图例：**✓ 已核对官网** = 已按官网页面正文逐条核对，可点开官网对照　**大陆生** ✅ 可申 · 🟡 部分可申/有名额限制 · ❔ 需逐条核实 · ⛔ 不可申（仅作提醒）　**状态** 🟢 开放申请 · 🔜 即将开放 · ⏸ 本轮已截止（等下一轮）· 🔄 随时可申 · 📋 持续更新的门户/列表　**资助** 全奖 = 学费 + 生活费；带薪岗位 = 雇员合同；半奖/仅免学费需自备部分费用
 
-**按分类跳转：** [综合聚合平台 8](math.md#aggregators) · [各国学术招聘门户与机构职位页 2](math.md#national-portals) · [政府与国家级奖学金 5](math.md#gov-scholarships) · [高校旗舰奖学金与资助检索 55](math.md#university-schemes) · [结构化博士项目与研究机构 105](math.md#doctoral-programs) · [博士后奖学金与项目 68](math.md#postdoc-fellowships) · [企业与基金会 Fellowship 15](math.md#fellowships) · [学科专属信源 16](math.md#discipline) · [科研实习与“曲线入口” 1](math.md#pathways) · [个人信源与社交渠道 17](math.md#people-channels) · [导师招生帖（社交平台个人发布） 3](math.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 2](math.md#faculty-aggregators) · [选校与申请辅助工具 1](math.md#tools)
+**按分类跳转：** [综合聚合平台 8](math.md#aggregators) · [各国学术招聘门户与机构职位页 2](math.md#national-portals) · [政府与国家级奖学金 5](math.md#gov-scholarships) · [高校旗舰奖学金与资助检索 55](math.md#university-schemes) · [结构化博士项目与研究机构 105](math.md#doctoral-programs) · [博士后奖学金与项目 68](math.md#postdoc-fellowships) · [企业与基金会 Fellowship 14](math.md#fellowships) · [学科专属信源 16](math.md#discipline) · [科研实习与“曲线入口” 1](math.md#pathways) · [个人信源与社交渠道 17](math.md#people-channels) · [导师招生帖（社交平台个人发布） 3](math.md#recruiting-posts) · [导师招生汇总（指向个人主页的集合） 2](math.md#faculty-aggregators) · [选校与申请辅助工具 1](math.md#tools)
 
 <a id="aggregators"></a>
 
@@ -297,7 +297,7 @@
 
 <a id="fellowships"></a>
 
-## 企业与基金会 Fellowship（15）
+## 企业与基金会 Fellowship（14）
 
 | 机会 | 层级 | 资助 | 截止 / 状态 | 大陆生 | 申请要求与说明 |
 | --- | --- | --- | --- | :-: | --- |
@@ -308,7 +308,6 @@
 | [Hector Fellow Academy 博士岗位](https://hector-fellow-academy.de/en/young-scientist-support/doctoral-positions)<br><sub>德国 ｜ 计算机·数学/统计·物理/天文·化学/材料·生物/生命科学·工程·医学/公卫·神经/认知</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-10-15**<br><sub>⏸ 本轮已截止</sub><br><sub>页面列出的下一轮申请期为 2027 年 9 月 1 日至 10 月 15 日；此前条目记载的 2026-10-15 截止已过，本轮已结束。</sub> | ❔ | **要求：** 需优秀硕士学位、良好英语能力，并愿意迁至导师所在大学；官方页未见国籍限制，但也未见明确的国际生开放声明。<br>页面仅列出下一轮（2027）申请期为 9 月 1 日至 10 月 15 日；博士岗位由 Hector Fellow 课题组发布，申请时需准备自拟研究想法或选择已发布课题。 |
 | [Hertz Foundation Fellowship（美国应用科学博士奖学金）](https://www.hertzfoundation.org/)<br><sub>美国 ｜ 工程·数学/统计·物理/天文·生物/生命科学</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>总价值最高 $250,000，最长 5 年</sub> | — | ⛔ | **要求：** 仅限美国公民或永久居民；申请时须为大学高年级、研究生一年级或入学前间隔期；拟在美国全日制攻读应用物理/生物、数学或工程博士。<br>仅限美国公民或永久居民，国际生不可申请；资助最长 5 年、总价值最高 $250,000。作为警示条目保留。 |
 | [Jane Street Graduate Research Fellowship](https://www.janestreet.com/join-jane-street/programs-and-events/graduate-research-fellowship/)<br><sub>美国·加拿大·英国·欧盟/欧洲·澳大利亚·新西兰 ｜ 计算机·数学/统计·物理/天文·经济/金融</sub><br><sub>✓ 已核对官网</sub> | 博士 | 全奖<br><sub>$50,000（生活费，需纳税）+ 全额学费</sub> | **2026-11-13**<br><sub>🟢 开放申请</sub><br><sub>2027 轮申请截止 2026 年 11 月 13 日（AoE），推荐信截止 2026 年 12 月 1 日</sub> | ✅ | **要求：** 须就读于美国、加拿大、英国、欧洲、澳大利亚、新西兰或新加坡的研究型博士项目（学科：电气工程与计算机、数学、物理、统计）；入学时需至少剩余一年学程，或已确定 2027 年秋入读博士<br>官方称国际生可申请；2027 轮申请截止 2026 年 11 月 13 日（AoE），含全额学费与 50,000 美元生活费，2026 年 10 月仍在招。 |
-| [KAUST 数值计算组博士奖学金与招聘](https://numerics.kaust.edu.sa/openings.html)<br><sub>沙特 ｜ 数学/统计·计算机</sub><br><sub>✓ 已核对官网</sub> | 博士 | 仅生活费 | 未公布 | ✅ | **要求：** 需数学（应用或纯）、物理、工程或相关学位，并具备优秀的英语读写与口头表达能力；申请时发邮件联系导师，并附研究样例。<br>页面写明：Ph.D. 学生可获得有竞争力的津贴，并含住房与保险；未提及学费。申请时发邮件联系导师，再通过 KAUST 招生系统提交。 |
 | [Martingale 基金会 2027 入学奖学金（数学科学与人工智能）](https://martingale.foundation/scholarships/)<br><sub>英国 ｜ 人工智能·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 力度未注明 | **2026-10-18**<br><sub>🟢 开放申请</sub><br><sub>2026 年 10 月 18 日 23:59（BST）截止，仅通过官网在线表格申请。</sub> | ⛔ | **要求：** 官网称仅考虑在合作大学符合英国 Home 学费身份的申请人；需一等或上二等学位（或在读预期）；2027 年 9 月入学。<br>资助 2027 年入学、在合作高校就读的数学与 AI 方向硕博生；资格多对英国本地学生开放，建议先核实资格再投入申请。 |
 | [Oberwolfach Leibniz 研究生资助（MFO 研讨会差旅）](https://www.mfo.de/scientific-program/grants/become-an-oberwolfach-leibniz-graduate-student)<br><sub>德国 ｜ 数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士 | 半奖/部分<br><sub>差旅补贴平均约 €200（非生活费）</sub> | 滚动<br><sub>🔄 随时可申</sub><br><sub>随时邮件申请所长，名额有限，依研讨会安排决定。</sub> | ❔ | **要求：** 在读博士生，或博士学位取得未满 2 年的毕业生（以研讨会日期计）；需提供研究方向、导师、学位日期与拟参加研讨会 ID；由所长在组织者建议后决定。<br>Oberwolfach 数学研究所为在读博士及学位 2 年内毕业生参加 MFO 研讨会提供差旅补贴，平均约 200 欧元，需邮件向所长申请，名额有限。不是生活费资助。 |
 | [Schlumberger Foundation Faculty for the Future（女性 STEM 博士奖学金）](https://www.facultyforthefuture.net/applications/)<br><sub>全球 ｜ 工程·生物/生命科学·化学/材料·物理/天文·计算机·数学/统计</sub><br><sub>✓ 已核对官网</sub> | 博士+博后 | 力度未注明<br><sub>博士最高 USD 50,000/年；博后最高 USD 40,000/年（续领至学位完成，视进展而定）</sub> | **2026-11-07**<br><sub>🟢 开放申请</sub><br><sub>官方申请页：2026 年 9 月 1 日至 11 月 7 日接收 2027-2028 年度新申请</sub> | ❔ | **要求：** 仅限女性；攻读 STEM 博士或博后研究；国籍需在基金会发展中/新兴经济体名单内；需已被境外院校录取或正在申请<br>已改为基金会官方申请页。PhD 最高 US$50,000/年，博后最高 US$40,000/年。仅限女性，攻读 STEM 博士或博后，需属基金会定义的发展中/新兴经济体国籍；中国大陆是否在名单内未核实。 |
