@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T10:23:54+00:00",
+ "generated_at": "2026-11-26T09:59:44+00:00",
  "platforms": [
   {
    "name": "FindAPhD",
@@ -17,10 +17,10 @@
    "url": "https://www.jobs.ac.uk/",
    "method": "搜索列表 + 岗位页",
    "connected": true,
-   "postings": 613,
-   "robots": "无 robots.txt（HTTP 500）",
+   "postings": 604,
+   "robots": "允许",
    "robots_ok": true,
-   "page": "HTTP 500",
+   "page": "HTTP 200",
    "why": ""
   },
   {
@@ -28,7 +28,7 @@
    "url": "https://www.academictransfer.com/en/",
    "method": "站点地图 + 岗位页",
    "connected": true,
-   "postings": 201,
+   "postings": 194,
    "robots": "允许，要求每 10 秒一次",
    "robots_ok": true,
    "page": "HTTP 200",
@@ -39,7 +39,7 @@
    "url": "https://www.nature.com/naturecareers/",
    "method": "站点地图 + 岗位页",
    "connected": true,
-   "postings": 275,
+   "postings": 295,
    "robots": "允许",
    "robots_ok": true,
    "page": "HTTP 200",
@@ -50,7 +50,7 @@
    "url": "https://jobs.sciencecareers.org/",
    "method": "站点地图 + 岗位页",
    "connected": true,
-   "postings": 59,
+   "postings": 60,
    "robots": "允许",
    "robots_ok": true,
    "page": "HTTP 200",
@@ -61,7 +61,7 @@
    "url": "https://jobs.physicstoday.org/",
    "method": "站点地图 + 岗位页",
    "connected": true,
-   "postings": 24,
+   "postings": 22,
    "robots": "允许",
    "robots_ok": true,
    "page": "HTTP 200",
@@ -72,7 +72,7 @@
    "url": "https://www.timeshighereducation.com/unijobs/",
    "method": "站点地图 + 岗位页",
    "connected": true,
-   "postings": 132,
+   "postings": 130,
    "robots": "允许",
    "robots_ok": true,
    "page": "HTTP 200",
@@ -83,7 +83,7 @@
    "url": "https://www.jobbnorge.no/",
    "method": "官方公开接口",
    "connected": true,
-   "postings": 128,
+   "postings": 126,
    "robots": "无 robots.txt（HTTP 404）",
    "robots_ok": true,
    "page": "HTTP 200",
@@ -94,7 +94,7 @@
    "url": "https://lu.varbi.com/en/",
    "method": "各校列表页 + 岗位页",
    "connected": true,
-   "postings": 159,
+   "postings": 149,
    "robots": "允许",
    "robots_ok": true,
    "page": "HTTP 200",
@@ -138,7 +138,7 @@
    "url": "https://inspirehep.net/jobs",
    "method": "官方公开接口",
    "connected": true,
-   "postings": 265,
+   "postings": 268,
    "robots": "允许",
    "robots_ok": true,
    "page": "HTTP 200",
@@ -149,7 +149,7 @@
    "url": "https://academicjobsonline.org/ajo/jobs",
    "method": "RSS + 岗位页（每 5 秒一次）",
    "connected": true,
-   "postings": 146,
+   "postings": 145,
    "robots": "允许，要求每 5 秒一次",
    "robots_ok": true,
    "page": "HTTP 200",
@@ -205,9 +205,9 @@
    "method": "列表页 + 岗位页（链接需带 phd-id）",
    "connected": true,
    "postings": 25,
-   "robots": "无 robots.txt（HTTP 403）",
+   "robots": "允许",
    "robots_ok": true,
-   "page": "HTTP 403",
+   "page": "HTTP 200",
    "why": ""
   },
   {
@@ -215,7 +215,7 @@
    "url": "https://jobsuche.api.bund.dev/",
    "method": "劳动局自己的搜索接口（文档公开的通用 clientId，无需申请密钥）",
    "connected": true,
-   "postings": 139,
+   "postings": 129,
    "robots": "无 robots.txt（HTTP 403）",
    "robots_ok": true,
    "page": "HTTP 200",
@@ -226,7 +226,7 @@
    "url": "https://emploi.cnrs.fr/",
    "method": "站点地图 + 岗位页（博士合同与研究员 CDD）",
    "connected": true,
-   "postings": 222,
+   "postings": 228,
    "robots": "允许",
    "robots_ok": true,
    "page": "HTTP 200",
@@ -237,7 +237,7 @@
    "url": "https://www.mathjobs.org/jobs",
    "method": "RSS + 岗位页（每 5 秒一次）",
    "connected": true,
-   "postings": 89,
+   "postings": 90,
    "robots": "允许，要求每 5 秒一次",
    "robots_ok": true,
    "page": "HTTP 200",
@@ -259,7 +259,7 @@
    "url": "https://networks.h-net.org/jobs",
    "method": "列表页 + 岗位页（每 5 秒一次）",
    "connected": true,
-   "postings": 40,
+   "postings": 39,
    "robots": "允许，要求每 5 秒一次",
    "robots_ok": true,
    "page": "HTTP 404",
@@ -270,7 +270,7 @@
    "url": "https://econjobmarket.org/",
    "method": "列表页 + 岗位页（只收博后）",
    "connected": true,
-   "postings": 60,
+   "postings": 59,
    "robots": "允许",
    "robots_ok": true,
    "page": "HTTP 200",
@@ -281,7 +281,7 @@
    "url": "https://international.au.dk/about/profile/vacant-positions/",
    "method": "列表页内嵌数据 + 岗位页",
    "connected": true,
-   "postings": 28,
+   "postings": 29,
    "robots": "无 robots.txt（HTTP 404）",
    "robots_ok": true,
    "page": "HTTP 200",
@@ -292,7 +292,7 @@
    "url": "https://www.psi.ch/en/hr/job-opportunities",
    "method": "列表页 + 岗位页",
    "connected": true,
-   "postings": 5,
+   "postings": 4,
    "robots": "允许",
    "robots_ok": true,
    "page": "HTTP 200",
@@ -314,7 +314,7 @@
    "url": "https://www.ibs.re.kr/prog/recruit/eng/sub04_01/list.do",
    "method": "列表页 + 岗位页（不下载附件，robots.txt 禁止）",
    "connected": true,
-   "postings": 0,
+   "postings": 1,
    "robots": "允许",
    "robots_ok": true,
    "page": "HTTP 200",
@@ -325,7 +325,7 @@
    "url": "https://aalto.wd3.myworkdayjobs.com/aalto",
    "method": "各校站点地图 + 公开岗位接口",
    "connected": true,
-   "postings": 57,
+   "postings": 54,
    "robots": "无 robots.txt（HTTP 429）",
    "robots_ok": true,
    "page": "HTTP 429",
@@ -336,7 +336,7 @@
    "url": "https://careers.epfl.ch/",
    "method": "各校站点地图 + 岗位页",
    "connected": true,
-   "postings": 101,
+   "postings": 105,
    "robots": "允许",
    "robots_ok": true,
    "page": "HTTP 200",
@@ -347,7 +347,7 @@
    "url": "https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/",
    "method": "外部招聘站列表页 + 岗位页",
    "connected": true,
-   "postings": 35,
+   "postings": 34,
    "robots": "无 robots.txt（HTTP 404）",
    "robots_ok": true,
    "page": "HTTP 200",
@@ -358,7 +358,7 @@
    "url": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions",
    "method": "候选人站点的公开接口",
    "connected": true,
-   "postings": 96,
+   "postings": 105,
    "robots": "无 robots.txt（HTTP 404）",
    "robots_ok": true,
    "page": "HTTP 200",
@@ -380,7 +380,7 @@
    "url": "https://employment.ku.dk/all-vacancies/",
    "method": "各校列表页 / 站点地图 + 岗位页",
    "connected": true,
-   "postings": 237,
+   "postings": 233,
    "robots": "无 robots.txt（HTTP 404）",
    "robots_ok": true,
    "page": "HTTP 200",
@@ -402,7 +402,7 @@
    "url": "https://research.pasteur.fr/en/jobs/",
    "method": "列表页 + 岗位页",
    "connected": true,
-   "postings": 7,
+   "postings": 8,
    "robots": "允许",
    "robots_ok": true,
    "page": "HTTP 200",
@@ -413,7 +413,7 @@
    "url": "https://fapesp.br/oportunidades/",
    "method": "列表页 + 公告页（博士 / 博后奖学金）",
    "connected": true,
-   "postings": 35,
+   "postings": 33,
    "robots": "允许",
    "robots_ok": true,
    "page": "HTTP 200",
@@ -468,7 +468,7 @@
    "url": "https://lfuonline.uibk.ac.at/public/karriereportal.home?rubrik_in=PSP",
    "method": "列表页 + 岗位页",
    "connected": true,
-   "postings": 18,
+   "postings": 17,
    "robots": "禁止",
    "robots_ok": false,
    "page": "HTTP 200",
@@ -567,8 +567,8 @@
   "jobs-ac-uk": {
    "name": "jobs.ac.uk（PhD 板块）",
    "url": "https://www.jobs.ac.uk/phd",
-   "status": "warn",
-   "detail": "HTTP 500"
+   "status": "dead",
+   "detail": "HTTP 404"
   },
   "nature-careers": {
    "name": "Nature Careers（PhD）",
@@ -615,14 +615,14 @@
   "daad-phdgermany": {
    "name": "DAAD PhDGermany 数据库",
    "url": "https://www.daad.de/en/studying-in-germany/phd-studies-research/phd-germany/",
-   "status": "warn",
-   "detail": "HTTP 403"
+   "status": "ok",
+   "detail": "HTTP 200"
   },
   "daad-scholarship-db": {
    "name": "DAAD 奖学金数据库",
    "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/",
-   "status": "warn",
-   "detail": "HTTP 403"
+   "status": "ok",
+   "detail": "HTTP 200"
   },
   "academics-de": {
    "name": "academics.de",
@@ -676,7 +676,7 @@
    "name": "FWO（Research Foundation – Flanders）",
    "url": "https://www.fwo.be/en/support-programmes/phd-fellowships/",
    "status": "warn",
-   "detail": "ConnectTimeout"
+   "detail": "SSLError"
   },
   "jobbnorge": {
    "name": "Jobbnorge",
@@ -1869,8 +1869,8 @@
   "jobs-ac-uk-statistics": {
    "name": "jobs.ac.uk 统计类职位",
    "url": "https://www.jobs.ac.uk/categories/statistics/1",
-   "status": "warn",
-   "detail": "HTTP 500"
+   "status": "dead",
+   "detail": "HTTP 404"
   },
   "purdue-stat-jobs": {
    "name": "普渡大学统计系职位页（含 stat-jobs 邮件列表）",
@@ -2638,7 +2638,7 @@
    "name": "UBC 关节炎与康复研究实验室招生",
    "url": "https://arthritis.rehab.med.ubc.ca/?p=122",
    "status": "ok",
-   "detail": "HTTP 200"
+   "detail": "HTTP 200 → https://arthritis.rehab.med.ubc.ca/join-us/"
   },
   "mpi-psycholinguistics-vacancies": {
    "name": "MPI 心理语言学研究所招聘页（奈梅亨）",
@@ -3261,8 +3261,8 @@
   "print-ufsc-visiting-postdoc": {
    "name": "CAPES PrInt 国际合作博后（UFSC）",
    "url": "https://ppgbqa.ufsc.br/print-capes-ufsc/?lang=en",
-   "status": "warn",
-   "detail": "ConnectTimeout"
+   "status": "ok",
+   "detail": "HTTP 200"
   },
   "iapetus2-nerc-dtp": {
    "name": "IAPETUS2 NERC 博士培训伙伴",
@@ -3489,8 +3489,8 @@
   "jsmc-jena": {
    "name": "耶拿微生物通讯研究生院（JSMC）",
    "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4005/",
-   "status": "warn",
-   "detail": "HTTP 403"
+   "status": "ok",
+   "detail": "HTTP 200"
   },
   "leibniz-hki-ilrs": {
    "name": "莱布尼茨 HKI 国际研究生项目（ILRS，耶拿）",
@@ -3502,7 +3502,7 @@
    "name": "弗赖堡 Spemann 生物与医学研究生院（SGBM）",
    "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6883/",
    "status": "warn",
-   "detail": "HTTP 403"
+   "detail": "ConnectTimeout"
   },
   "uniroma3-phd-roma-tre": {
    "name": "罗马第三大学第 42 周期博士招生（英文）",
@@ -3543,8 +3543,8 @@
   "imt-lucca-phd": {
    "name": "IMT 卢卡高等研究院博士招生",
    "url": "https://imtlucca.it/it/node/6088",
-   "status": "ok",
-   "detail": "HTTP 200"
+   "status": "warn",
+   "detail": "HTTP 403"
   },
   "ssm-phd-napoli": {
    "name": "南方高等研究院（SSM）博士招生",
@@ -4152,12 +4152,6 @@
    "status": "ok",
    "detail": "HTTP 200"
   },
-  "kaust-numerics-phd-fellowships": {
-   "name": "KAUST 数值计算组博士奖学金与招聘",
-   "url": "https://numerics.kaust.edu.sa/openings.html",
-   "status": "ok",
-   "detail": "HTTP 200"
-  },
   "nyu-courant-postdoc": {
    "name": "纽约大学 Courant 研究所博士后（Courant Instructor 等）",
    "url": "https://math.nyu.edu/postdoctoral_positions/",
@@ -4210,7 +4204,7 @@
    "name": "FWO 博士研究员奖学金（基础研究，佛兰德）",
    "url": "https://fwo.be/en/support-programmes/all-calls/phd/phd-fellowship-fundamental-research",
    "status": "warn",
-   "detail": "ConnectTimeout"
+   "detail": "SSLError"
   },
   "malaysia-mis-usm": {
    "name": "马来西亚国际奖学金 MIS（2026/27，USM 通知）",
@@ -4366,7 +4360,7 @@
    "name": "DAAD International Programmes 数据库（英文博士项目筛选）",
    "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/",
    "status": "warn",
-   "detail": "HTTP 403"
+   "detail": "ConnectTimeout"
   },
   "dfg-graduiertenkollegs": {
    "name": "DFG 研究生院 Graduiertenkollegs（招生需直接联系各校）",
@@ -5368,7 +5362,7 @@
    "name": "格拉斯哥大学 James Watt 工程学院博士机会页",
    "url": "https://gla.ac.uk/schools/engineering/phdopportunities",
    "status": "ok",
-   "detail": "HTTP 200"
+   "detail": "HTTP 200 → https://www.gla.ac.uk/schools/engineering/phdopportunities/"
   },
   "bristol-phd-with-researchers": {
    "name": "布里斯托大学工程学院 PhD 课题（与研究员合作）入口",
@@ -5553,8 +5547,8 @@
   "jobs-ac-uk-politics-studentships": {
    "name": "jobs.ac.uk 政治类博士奖学金与岗位",
    "url": "https://jobs.ac.uk/categories/politics",
-   "status": "warn",
-   "detail": "HTTP 500"
+   "status": "dead",
+   "detail": "HTTP 404"
   },
   "cck-europe-doctoral-fellowship": {
    "name": "蒋经国基金会欧洲博士论文奖学金（Doctoral Fellowships）",
@@ -5847,8 +5841,8 @@
   "fr-aid-defence-theses": {
    "name": "法国国防创新署 AID 博士课题（经典论文）",
    "url": "https://www.defense.gouv.fr/aid/theses-aid-classiques-2026",
-   "status": "ok",
-   "detail": "HTTP 200"
+   "status": "warn",
+   "detail": "HTTP 503"
   },
   "fr-ens-pginfo-doctoral-contracts": {
    "name": "ENS 计算机博士合同招生页（PSL 研究生项目）",
@@ -7150,7 +7144,7 @@
    "name": "DAAD PRIME 博士后研究项目（德国）",
    "url": "https://www.daad.de/en/studying-in-germany/scholarships/daad-funding-programmes/prime/faq/",
    "status": "warn",
-   "detail": "HTTP 403"
+   "detail": "ConnectTimeout"
   },
   "hku-education-phd-scholarships": {
    "name": "香港大学教育学院 MPhil/PhD 奖学金",
@@ -7233,8 +7227,8 @@
   "grass-fellowship-mbl": {
    "name": "Grass Fellowship（MBL 神经科学夏季研究基金）",
    "url": "https://grassfoundation.org/application-portal/",
-   "status": "warn",
-   "detail": "ConnectTimeout"
+   "status": "ok",
+   "detail": "HTTP 200"
   },
   "fau-imprs-sc": {
    "name": "IMPRS-SC 突触与神经回路国际马普研究生院（FAU）",
@@ -8607,8 +8601,8 @@
   "manchester-topological-photonics-phd": {
    "name": "曼彻斯特大学 EPSRC 拓扑光子器件博士项目",
    "url": "https://www.jobs.ac.uk/job/DSG671/phd-epsrc-topological-and-other-types-of-photonics-devices-for-sensing-modulation-and-other-applications",
-   "status": "warn",
-   "detail": "HTTP 500"
+   "status": "dead",
+   "detail": "HTTP 404"
   },
   "sydney-quantum-academy-sqa-phd": {
    "name": "悉尼量子学院（SQA）博士奖学金",
@@ -8763,8 +8757,8 @@
   "jobs-ac-uk-agri-food-vet-phd": {
    "name": "jobs.ac.uk 农业、食品与兽医 PhD 职位板",
    "url": "https://jobs.ac.uk/search/agriculture-food-and-veterinary/phd",
-   "status": "warn",
-   "detail": "HTTP 500"
+   "status": "ok",
+   "detail": "HTTP 200"
   },
   "imprs-molecular-plant-science": {
    "name": "IMPRS Molecular Plant Science（波茨坦，马普分子植物生理所）",
@@ -9039,8 +9033,8 @@
   "jobs-ac-uk-sociology-category": {
    "name": "jobs.ac.uk 社会学类别（Studentships / PhDs）",
    "url": "https://www.jobs.ac.uk/categories/sociology",
-   "status": "warn",
-   "detail": "HTTP 500"
+   "status": "dead",
+   "detail": "HTTP 404"
   },
   "asa-career-center": {
    "name": "ASA 社会学职业中心（Job Bank）",
@@ -9052,13 +9046,13 @@
    "name": "KTH 车辆、海洋与航空航天工程博士项目",
    "url": "https://kth.se/en/sci/forskning/forskarutbildning/doktorsprogrammet-i-farkost-och-flygteknik-1.1304809",
    "status": "ok",
-   "detail": "HTTP 200"
+   "detail": "HTTP 200 → https://www.kth.se/en/sci/forskning/forskarutbildning/forskaramnet-farkostteknik-1.1304809"
   },
   "technion-aerospace-phd-studies": {
    "name": "Technion 航空工程博士项目",
    "url": "https://aerospace.technion.ac.il/studies/aerospace-phd-studies/",
-   "status": "ok",
-   "detail": "HTTP 200"
+   "status": "warn",
+   "detail": "HTTP 500"
   },
   "pitt-civil-transport-gra": {
    "name": "匹兹堡大学 Pitts 实验室交通/土木研究生助研岗",
@@ -9208,7 +9202,7 @@
    "name": "Research in Germany 博士岗位招聘门户汇总",
    "url": "https://www.research-in-germany.org/your-goal/phd/job-portals.html",
    "status": "warn",
-   "detail": "HTTP 403"
+   "detail": "ConnectTimeout"
   },
   "hamburg-quantum-universe-jobs": {
    "name": "汉堡大学 Quantum Universe 集群岗位页",
@@ -10120,7 +10114,7 @@
    "name": "博洛尼亚大学第 42 周期博士项目（数据科学与计算等）",
    "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/data-science-and-computation-1",
    "status": "warn",
-   "detail": "ConnectionError"
+   "detail": "ConnectTimeout"
   },
   "unitn-international-studies-phd": {
    "name": "特伦托大学国际研究博士（第 42 周期，5 个奖学金）",
@@ -10659,8 +10653,8 @@
   "huji-funding-opportunities": {
    "name": "希伯来大学国际生资助机会汇总",
    "url": "https://international.huji.ac.il/funding-opportunities/",
-   "status": "warn",
-   "detail": "ConnectionError"
+   "status": "ok",
+   "detail": "HTTP 200"
   },
   "tau-international-postdoc-scholarships": {
    "name": "特拉维夫大学国际办公室博后奖学金",
@@ -10846,7 +10840,7 @@
    "name": "IMPRS Neurosciences（哥廷根）",
    "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3601",
    "status": "warn",
-   "detail": "HTTP 403"
+   "detail": "ConnectTimeout"
   },
   "imprs-cim-muenster": {
    "name": "IMPRS Cells in Motion（明斯特 CiM-IMPRS）",
@@ -11361,8 +11355,8 @@
   "exeter-gamebirds-lowland-ecosystems-phd": {
    "name": "埃克塞特大学释放野鸡对低地生态系统影响博士 studentship（BASC 资助）",
    "url": "https://www.jobs.ac.uk/job/DTE203/phd-studentship-the-effects-of-released-gamebirds-on-the-lowland-ecosystems-of-s-england-phd-industry-funded",
-   "status": "warn",
-   "detail": "HTTP 500"
+   "status": "dead",
+   "detail": "HTTP 404"
   },
   "senckenberg-museum-frankfurt-stellenanzeigen": {
    "name": "森肯贝格自然博物馆（法兰克福）招聘页",
@@ -11758,13 +11752,13 @@
    "name": "莱顿大学考古学院 NWO「人文学博士」名额",
    "url": "https://universiteitleiden.nl/en/archaeology/graduate-school-archaeology/prospective-phd-candidates/nwo-call-phds-in-the-humanities",
    "status": "ok",
-   "detail": "HTTP 200"
+   "detail": "HTTP 200 → https://www.universiteitleiden.nl/en/archaeology/graduate-school-archaeology/prospective-phd-candidates/nwo-call-phds-in-the-humanities"
   },
   "jobs-ac-uk-classics-studentships": {
    "name": "jobs.ac.uk 古典学 Studentships / PhDs 分类页",
    "url": "https://www.jobs.ac.uk/categories/classics",
-   "status": "warn",
-   "detail": "HTTP 500"
+   "status": "dead",
+   "detail": "HTTP 404"
   },
   "classics-l-mailing-list": {
    "name": "Classics-L 古典学邮件列表（Kentucky MCL 列表页）",
@@ -12051,8 +12045,8 @@
   "sussex-ids-development-phd": {
    "name": "萨塞克斯大学发展研究所（IDS）博士项目",
    "url": "https://www.sussex.ac.uk/study/phd/degrees/development-studies-ids-phd",
-   "status": "warn",
-   "detail": "ConnectTimeout"
+   "status": "ok",
+   "detail": "HTTP 200"
   },
   "heidelberg-high-doctorate": {
    "name": "海德堡全球健康研究所（HIGH）博士课程",
@@ -12100,13 +12094,13 @@
    "name": "FWO 比利时初级博士后奖学金（Junior Postdoctoral）",
    "url": "https://fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/junior-postdoctoral-fellowship/",
    "status": "warn",
-   "detail": "ConnectTimeout"
+   "detail": "SSLError"
   },
   "fwo-senior-postdoc": {
    "name": "FWO 比利时高级博士后奖学金（Senior Postdoctoral）",
    "url": "https://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/senior-postdoctoral-fellowship/",
    "status": "warn",
-   "detail": "ConnectTimeout"
+   "detail": "SSLError"
   },
   "eu-dfg-emmy-noether": {
    "name": "DFG 艾米·诺特计划（Emmy Noether Programme）",
@@ -12478,7 +12472,7 @@
    "name": "博洛尼亚大学 CSC 博士征集公告（2026–27）",
    "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/attachments/42_callexpressionofinterescsc-unibo_2026-27",
    "status": "warn",
-   "detail": "ConnectionError"
+   "detail": "ConnectTimeout"
   },
   "almoa-dn-positions": {
    "name": "ALMOA 博士网络（Klagenfurt 协调，13 个博士岗）",
@@ -12868,7 +12862,7 @@
    "name": "莱顿大学奖学金总览（含硕士阶段卓越奖学金）",
    "url": "https://universiteitleiden.nl/en/scholarships",
    "status": "ok",
-   "detail": "HTTP 200 → https://www.universiteitleiden.nl/en/scholarships"
+   "detail": "HTTP 200"
   },
   "psl-phd-tracks": {
    "name": "PSL PhD Tracks（五年制硕士转博士通道）",
@@ -12927,8 +12921,8 @@
   "imprs-qdc-dresden": {
    "name": "IMPRS Quantum Dynamics and Control（德累斯顿）",
    "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/5512/",
-   "status": "warn",
-   "detail": "HTTP 403"
+   "status": "ok",
+   "detail": "HTTP 200"
   },
   "imprs-bac-berlin": {
    "name": "IMPRS-BAC 柏林分子生命与计算博士项目",
@@ -14409,8 +14403,8 @@
   "imtlucca-phd-programmes-admissions": {
    "name": "IMT 卢卡高等研究院 · 博士项目招生总页（Systems Science / Cultural Systems）",
    "url": "https://www.imtlucca.it/en/phd-programmes-admissions",
-   "status": "ok",
-   "detail": "HTTP 200"
+   "status": "warn",
+   "detail": "HTTP 403"
   },
   "immunosensation2-bonn-phd-program": {
    "name": "ImmunoSensation2 卓越集群博士项目 · 波恩大学 · 免疫学/生物医学",
@@ -14703,8 +14697,8 @@
   "unibo-physics-phd-2026": {
    "name": "博洛尼亚大学物理博士（2026–2027，INFN 合作）",
    "url": "https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/dottorati/2026-2027/fisica",
-   "status": "ok",
-   "detail": "HTTP 200"
+   "status": "warn",
+   "detail": "ConnectTimeout"
   },
   "nerc-creates-dla": {
    "name": "NERC CREATES 博士培训奖学金（剑桥 + BAS 等）",
@@ -14841,8 +14835,8 @@
   "imprs-ml": {
    "name": "IMPRS-ML 分子生命科学国际研究生院（慕尼黑）",
    "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/5336",
-   "status": "warn",
-   "detail": "HTTP 403"
+   "status": "ok",
+   "detail": "HTTP 200"
   },
   "imprs-mfo-tuebingen": {
    "name": "IMPRS「From Molecules to Organisms」（图宾根）",
@@ -14883,14 +14877,14 @@
   "cuhk-sph-research-postgrad": {
    "name": "香港中文大学公共卫生及基层医疗学院研究生（MPhil/PhD）",
    "url": "https://sphpc.cuhk.edu.hk/rpg",
-   "status": "warn",
-   "detail": "ReadTimeout"
+   "status": "ok",
+   "detail": "HTTP 200"
   },
   "cuhk-phd-public-health-hkpfs": {
    "name": "CUHK 公共卫生 PhD（HKPFS 资助名额）",
    "url": "https://sphpc.cuhk.edu.hk/post/phd-in-public-health-2025-26-hong-kong-phd-fellowship-scheme-hkpfs-open-for-application?lang=zh",
-   "status": "warn",
-   "detail": "ReadTimeout"
+   "status": "ok",
+   "detail": "HTTP 200 → https://sphpc.cuhk.edu.hk/phd-in-public-health-2025-26-hong-kong-phd-fellowship-scheme-hkpfs-open-for-application-2/?lang=zh"
   },
   "edinburgh-global-health-phd": {
    "name": "爱丁堡大学全球卫生 PhD（Usher 研究所）",
@@ -15165,8 +15159,8 @@
   "jobsacuk-business-mgmt": {
    "name": "jobs.ac.uk 商管类博士岗位搜索页",
    "url": "https://www.jobs.ac.uk/search/business-and-management-studies/phd",
-   "status": "warn",
-   "detail": "HTTP 500"
+   "status": "ok",
+   "detail": "HTTP 200"
   },
   "booth-phd-aid": {
    "name": "芝加哥布斯商学院 PhD 财务资助",
@@ -15478,7 +15472,7 @@
    "name": "希伯来大学 CSC–HUJI 联合奖学金（中国籍博士/博后）",
    "url": "https://thewall.huji.ac.il/cfa-china-scholarship-council-csc-%E2%80%93-hebrew-university-jerusalem-scholarship-program",
    "status": "warn",
-   "detail": "ConnectionError"
+   "detail": "ConnectTimeout"
   },
   "turkiye-burslari-phd": {
    "name": "土耳其政府奖学金 Türkiye Scholarships（PhD）",
@@ -16126,7 +16120,7 @@
    "name": "Research in Germany：ERC Starting Grants 说明",
    "url": "https://research-in-germany.org/en/research-funding/funding-programmes/erc-starting-grants.html",
    "status": "warn",
-   "detail": "HTTP 403"
+   "detail": "ConnectTimeout"
   },
   "iisc-ipdf-postdoc": {
    "name": "IISc 博士后研究员（IPDF）",
@@ -16191,8 +16185,8 @@
   "study-in-india-portal": {
    "name": "Study in India 外国学生统一门户（含奖学金入口）",
    "url": "https://studyinindia.gov.in/scholarships&fellowships",
-   "status": "ok",
-   "detail": "HTTP 200"
+   "status": "warn",
+   "detail": "SSLError"
   },
   "ksu-initiative-phd": {
    "name": "KSU 沙特国王大学全球博士奖学金计划",
@@ -16605,8 +16599,8 @@
   "daad-dlr-research-fellowships": {
    "name": "DAAD-DLR 研究奖学金（航空航天/能源/交通）",
    "url": "https://www.research-in-germany.org/en/research-funding/funding-programmes/daad-dlr-research-fellowships-in-space--aeronautics--energy-and-transportation-research.html",
-   "status": "warn",
-   "detail": "HTTP 403"
+   "status": "ok",
+   "detail": "HTTP 200"
   },
   "gsi-hgs-hire-graduate-school": {
    "name": "GSI 亥姆霍兹重离子研究中心 HGS-HIRe for FAIR 研究生院",
@@ -16629,8 +16623,8 @@
   "fraunhofer-individual-doctoral-projects": {
    "name": "Fraunhofer 个人博士项目（Individual Doctoral Projects）",
    "url": "https://research-in-germany.org/en/research-funding/funding-programmes/fraunhofer-individual-doctoral-projects-at-fraunhofer-institutes.html",
-   "status": "warn",
-   "detail": "HTTP 403"
+   "status": "ok",
+   "detail": "HTTP 200"
   },
   "leibniz-phds-career-page": {
    "name": "Leibniz 联合会博士（PhDs）招聘入口",
@@ -16641,14 +16635,14 @@
   "leibniz-graduate-schools-rig": {
    "name": "莱布尼茨研究生院（Leibniz Graduate Schools）奖学金",
    "url": "https://www.research-in-germany.org/en/research-funding/funding-programmes/leibniz-graduate-schools-and-leibniz-sciencecampi.html",
-   "status": "warn",
-   "detail": "HTTP 403"
+   "status": "ok",
+   "detail": "HTTP 200"
   },
   "leibniz-individual-doctoral-projects": {
    "name": "Leibniz 个人博士项目（Individual Doctoral Projects）",
    "url": "https://www.research-in-germany.org/en/research-funding/funding-programmes/leibniz-individual-doctoral-projects-at-leibniz-institutes.html",
-   "status": "warn",
-   "detail": "HTTP 403"
+   "status": "ok",
+   "detail": "HTTP 200"
   },
   "dlgs-dresden-leibniz-graduate-school": {
    "name": "Dresden Leibniz Graduate School（DLGS）奖学金",
@@ -16953,14 +16947,14 @@
   "jobs-ac-uk-geology-studentships": {
    "name": "jobs.ac.uk 地质学类目（含 Studentships / PhD）",
    "url": "https://www.jobs.ac.uk/categories/geology",
-   "status": "warn",
-   "detail": "HTTP 500"
+   "status": "dead",
+   "detail": "HTTP 404"
   },
   "jobs-ac-uk-microbiology-studentships": {
    "name": "jobs.ac.uk 微生物学类目（含 Studentships / PhD）",
    "url": "https://jobs.ac.uk/categories/microbiology",
-   "status": "warn",
-   "detail": "HTTP 500"
+   "status": "dead",
+   "detail": "HTTP 404"
   },
   "isme-microbes-careers": {
    "name": "ISME 国际微生物生态学会职业页",
@@ -17049,8 +17043,8 @@
   "bgc-jena-jobs": {
    "name": "马普生物地球化学研究所（耶拿）招聘页",
    "url": "https://www.bgc-jena.mpg.de/en/jobs",
-   "status": "ok",
-   "detail": "HTTP 200"
+   "status": "warn",
+   "detail": "ReadTimeout"
   },
   "molgen-mpimg-careers": {
    "name": "马普分子遗传学研究所（MPIMG）工作与学习页",
@@ -17650,7 +17644,7 @@
    "name": "IIT Mandi iHub 与 HCI 基金会 · 博士后征集",
    "url": "https://www.ihubiitmandi.in/call-for-post-doctoral-fellowships",
    "status": "ok",
-   "detail": "HTTP 200"
+   "detail": "HTTP 200 → https://www.ihubiitmandi.in/wp-content/uploads/2025/01/Advertisement-new.pdf"
   },
   "nationalarchives-cdp-guidance": {
    "name": "英国国家档案馆 · 合作博士（Collaborative Doctoral Partnerships）指南",
@@ -17973,8 +17967,8 @@
   "polito-msca-doctoral-networks-2026": {
    "name": "都灵理工大学 MSCA 博士网络 2026 招生入口",
    "url": "https://www.polito.it/en/research/research-funding/horizon-europe/marie-sklodowska-curie-actions-msca/doctoral-networks",
-   "status": "ok",
-   "detail": "HTTP 200"
+   "status": "warn",
+   "detail": "ConnectTimeout"
   },
   "tue-become-phd-candidate": {
    "name": "TU/e 如何成为博士候选人",
@@ -18561,8 +18555,8 @@
   "jhu-xdbio-phd-2026": {
    "name": "约翰霍普金斯大学 XDBio 跨学科生物博士项目（2026 年 9 月入学要求）",
    "url": "https://xdbio.jhmi.edu/admissions/",
-   "status": "warn",
-   "detail": "ConnectTimeout"
+   "status": "ok",
+   "detail": "HTTP 200"
   },
   "nad-neuroscience-academy-denmark": {
    "name": "丹麦神经科学学院博士项目 NAD",
@@ -18687,14 +18681,14 @@
   "lingnan-sociology-postdoc-26-236": {
    "name": "岭南大学社会学与社会政策系博士后（2 个岗位，26/236/JAC）",
    "url": "https://www.jobs.ac.uk/job/DSY616/postdoctoral-fellow",
-   "status": "warn",
-   "detail": "HTTP 500"
+   "status": "dead",
+   "detail": "HTTP 404"
   },
   "lingnan-msoda-postdoc-26-241": {
    "name": "岭南大学 MSoDA 博士后（26/241/JAC）",
    "url": "https://www.jobs.ac.uk/job/DSZ284/postdoctoral-fellow-msoda",
-   "status": "warn",
-   "detail": "HTTP 500"
+   "status": "dead",
+   "detail": "HTTP 404"
   },
   "cuhk-gcni-career-news": {
    "name": "港中大神经科学研究所（GCNI）招聘动态页",
@@ -19209,8 +19203,8 @@
   "upb-phd-admission-methodology-2026": {
    "name": "布加勒斯特理工大学 2026–27 博士录取方法论",
    "url": "https://international.upb.ro/assets/docs/2026/doctoral/eu/methodology.pdf",
-   "status": "warn",
-   "detail": "ConnectTimeout"
+   "status": "ok",
+   "detail": "HTTP 200"
   },
   "unibuc-physics-phd-admission-en": {
    "name": "布加勒斯特大学物理博士学院英文招生页",
@@ -19299,8 +19293,8 @@
   "daad-phdgermany-programme-page": {
    "name": "DAAD PhDGermany 项目说明页",
    "url": "https://www.daad.de/de/in-deutschland-studieren/promovieren-forschen/phd-germany/?phd-p=4",
-   "status": "warn",
-   "detail": "ConnectTimeout"
+   "status": "ok",
+   "detail": "HTTP 200"
   },
   "ull-convocatorias-investigacion": {
    "name": "拉古纳大学研究类公告（含 INITIUM 预博士合同）",
@@ -19617,8 +19611,8 @@
   "be-vub-csc-phd": {
    "name": "布鲁塞尔自由大学 VUB CSC 博士项目",
    "url": "https://www.vub.be/en/international/csc",
-   "status": "ok",
-   "detail": "HTTP 200"
+   "status": "warn",
+   "detail": "ReadTimeout"
   },
   "fr-ens-csc-phd-cooperation": {
    "name": "巴黎高师（ENS-PSL）与国家留学基金委合作博士名额",
@@ -20493,8 +20487,8 @@
   "jobsac-uk-information-science-studentships": {
    "name": "jobs.ac.uk · Information Science 分类博士/奖学金岗位列表",
    "url": "https://www.jobs.ac.uk/categories/information-science/23",
-   "status": "warn",
-   "detail": "HTTP 500"
+   "status": "dead",
+   "detail": "HTTP 404"
   },
   "cuhk-sph-phd-public-health": {
    "name": "香港中文大学公共卫生 Research PhD（可申请 HKPFS）",
@@ -20907,8 +20901,8 @@
   "imprs-gbgc-jena-apply": {
    "name": "IMPRS-gBGC（全球生物地球化学循环国际马普研究生院，耶拿）· 申请页",
    "url": "https://www.bgc-jena.mpg.de/en/imprs/apply",
-   "status": "ok",
-   "detail": "HTTP 200"
+   "status": "warn",
+   "detail": "ReadTimeout"
   },
   "bilkent-history-phd-scholarship": {
    "name": "Bilkent University 历史系 MA/PhD 奖学金（学费全免加月津贴）",
@@ -21154,7 +21148,7 @@
    "name": "NC State 电气与计算机工程博士四年资助保障",
    "url": "https://ece.ncsu.edu/ece.ncsu.edu/funding",
    "status": "ok",
-   "detail": "HTTP 200 → https://ece.ncsu.edu/grad/phd/funding/"
+   "detail": "HTTP 200"
   },
   "ntu-npgs-scholarship": {
    "name": "南洋理工大学（NTU）校长研究生奖学金 NPGS",
@@ -21423,8 +21417,8 @@
   "bluesky-mastodon-slice-jobsacuk-postdoc": {
    "name": "jobs.ac.uk 博士后职位分类页",
    "url": "https://www.jobs.ac.uk/categories/postdoctoral-researcher-jobs/1",
-   "status": "warn",
-   "detail": "HTTP 500"
+   "status": "dead",
+   "detail": "HTTP 404"
   },
   "sheffield-agmp-phd-opportunities": {
    "name": "Sheffield 应用数学与理论物理组博士机会页",
@@ -21741,8 +21735,8 @@
   "imt-lucca-phd-admissions": {
    "name": "IMT 高等研究院（Lucca）博士招生页（Systems Science / MBHT / Cultural Systems / CySec 等）",
    "url": "https://www.imtlucca.it/en/phd/information-for-students",
-   "status": "ok",
-   "detail": "HTTP 200"
+   "status": "warn",
+   "detail": "HTTP 403"
   },
   "cornell-vet-bbs-phd-funding": {
    "name": "Cornell 兽医学院 BBS 博士项目 · 资助说明",
@@ -21778,7 +21772,7 @@
    "name": "希伯来大学 Leonard Davis 国际关系研究所博士后（安全、国际政治经济、外交）",
    "url": "https://en.davis.huji.ac.il/node/3185924",
    "status": "ok",
-   "detail": "HTTP 200"
+   "detail": "HTTP 200 → https://en.davis.huji.ac.il/leonard-davis-institute-post-doctoral-fellowship"
   },
   "stanford-gap-12-month-phd-funding": {
    "name": "Stanford GAP 7.1.1 · 博士生 12 个月资助政策（最多前 5 年）",
@@ -22053,8 +22047,8 @@
   "manchester-mae-pgrta-dse516": {
    "name": "曼彻斯特大学机械与航空航天工程 PGRTA 增强型博士岗",
    "url": "https://www.jobs.ac.uk/job/DSE516/mechanical-and-aerospace-engineering-pgrtas-enhanced-phd-studentship",
-   "status": "warn",
-   "detail": "HTTP 500"
+   "status": "dead",
+   "detail": "HTTP 404"
   },
   "polimi-aerospace-phd-cycle42": {
    "name": "米兰理工大学航空航天博士（第 42 周期）",
@@ -22209,8 +22203,8 @@
   "daad-ainet-postdoc-network": {
    "name": "DAAD AInet 国际 AI 早期职业研究者项目（Postdoc-NeT-AI）",
    "url": "https://www.daad.de/en/the-daad/postdocnet/details-and-application/",
-   "status": "warn",
-   "detail": "ConnectTimeout"
+   "status": "ok",
+   "detail": "HTTP 200"
   },
   "beatriz-galindo-2026": {
    "name": "Beatriz Galindo 高层次人才合同（西班牙，2026）",
@@ -22431,8 +22425,8 @@
   "polito-dottorato-42-second-session": {
    "name": "都灵理工大学第 42 周期博士招生第二批次",
    "url": "https://www.polito.it/didattica/dottorato-di-ricerca-e-scuola-di-specializzazione/ammissione-al-dottorato/ammissione/bando-di-concorso",
-   "status": "ok",
-   "detail": "HTTP 200"
+   "status": "warn",
+   "detail": "ConnectTimeout"
   },
   "konstanz-evolutionsbiologie-jobs": {
    "name": "康斯坦茨大学进化生物学课题组岗位页",
@@ -23205,8 +23199,8 @@
   "polito-phd-42nd-cycle-funded-positions": {
    "name": "都灵理工大学（Politecnico di Torino）第42周期博士岗位逐项更新表",
    "url": "https://www.polito.it/en/node/18987",
-   "status": "warn",
-   "detail": "ConnectionError"
+   "status": "ok",
+   "detail": "HTTP 200"
   },
   "fu-berlin-csc-phd-program-2026": {
    "name": "柏林自由大学（FU Berlin）CSC 博士合作项目 2026 岗位说明",
@@ -23361,8 +23355,8 @@
   "jobs-ac-uk-education-phd-search": {
    "name": "jobs.ac.uk 教育学与教育研究（含 TEFL）博士搜索",
    "url": "https://www.jobs.ac.uk/search/education-studies-inc-tefl/phd",
-   "status": "warn",
-   "detail": "HTTP 500"
+   "status": "ok",
+   "detail": "HTTP 200"
   },
   "gambling-harm-promovendus-nl": {
    "name": "蒂尔蒙大学 Tranzo 博士岗位：预防赌博伤害（promovendus）",
@@ -23481,14 +23475,14 @@
   "huji-open-calls": {
    "name": "希伯来大学国际办公室学者奖学金与博士后征集总页",
    "url": "https://international.huji.ac.il/news/open-calls",
-   "status": "warn",
-   "detail": "ConnectionError"
+   "status": "ok",
+   "detail": "HTTP 200"
   },
   "huji-postdoc-fellowships-2027": {
    "name": "希伯来大学博士后奖学金（2027–28 学年，Scholarship Portal 申请）",
    "url": "https://international.huji.ac.il/news/cta-postdoctoral-fellowships-huji",
-   "status": "ok",
-   "detail": "HTTP 200"
+   "status": "warn",
+   "detail": "ConnectTimeout"
   },
   "ntu-ccds-ipf": {
    "name": "南洋理工大学计算机学院 国际博士后奖学金（CCDS IPF）",
@@ -24279,8 +24273,8 @@
   "sarchi-cosmopolitan-karoo-postgrad": {
    "name": "SARChI 研究主席项目研究生与博后机会（Cosmopolitan Karoo）",
    "url": "https://cosmopolitankaroo.co.za/post-graduate-opportunities/",
-   "status": "ok",
-   "detail": "HTTP 200"
+   "status": "warn",
+   "detail": "ReadTimeout"
   },
   "icipe-doctorate-capacity-building": {
    "name": "icipe 国际昆虫生理与生态中心博士/博后项目总页",
@@ -24333,8 +24327,8 @@
   "helsinki-doctoral-researcher-positions": {
    "name": "赫尔辛基大学博士生院统一资助的博士研究员职位",
    "url": "https://www.helsinki.fi/en/research/doctoral-school/university-funded-doctoral-researcher-positions",
-   "status": "ok",
-   "detail": "HTTP 200"
+   "status": "warn",
+   "detail": "ConnectionError"
   },
   "banca-italia-econ-research-fellowships": {
    "name": "意大利央行经济学研究员（Borse di ricerca）",
