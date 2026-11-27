@@ -173,24 +173,20 @@ def refine_deadline(deadline: str, quote: str, body: str, today: str) -> tuple[s
 # ───────────────────────── jobs.ac.uk ─────────────────────────
 
 JAC = "https://www.jobs.ac.uk"
-JAC_LISTS = [JAC + "/search/?jobTypeFacet%5B%5D=phds&pageSize=25&startIndex={start}",
-             JAC + "/search/?keywords=postdoctoral&pageSize=25&startIndex={start}",
-             JAC + "/search/?keywords=postdoc&pageSize=25&startIndex={start}"]
-JAC_HREF = re.compile(r'href="(/job/([A-Z0-9]+)/[^"?#]+)')
+# 11-27 起 jobs.ac.uk 改版：搜索页的筛选参数失效（返回全部职位、翻页改为 ?page=N），
+# 改读站点地图（robots.txt “Allow: /”，并写明 Sitemap）：sitemap.xml 列出全部在招职位，
+# 链接里的英文短名能看出博士 / 博后，只抓这些岗位的详情页
+JAC_SITEMAP = JAC + "/sitemap.xml"
+JAC_LOC = re.compile(r"<loc>https://www\.jobs\.ac\.uk(/job/([A-Z0-9]+)/[^<]+)</loc>")
+JAC_FUNDED = re.compile(r"fully[\s-]funded|stipend|tax[\s-]free|maintenance (?:grant|allowance)|studentship (?:covers|includes|provides)", re.I)
+JAC_SLUG = re.compile(r"ph-?d|doctoral|doctorate|studentship|post-?doc|postdoctoral|research-(?:fellow|associate)", re.I)
 
 
 def jac_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
     seen: dict[str, str] = {}
-    for tpl in JAC_LISTS:
-        for page in range(max_pages):
-            raw = f.get(tpl.format(start=1 + 25 * page)).text
-            new = 0
-            for href, jid in JAC_HREF.findall(raw):
-                if jid not in seen:
-                    seen[jid] = JAC + href
-                    new += 1
-            if not new:
-                break
+    for path, jid in JAC_LOC.findall(f.get(JAC_SITEMAP).text):
+        if JAC_SLUG.search(path):
+            seen.setdefault(jid, JAC + path)
     return list(seen.items())
 
 
@@ -236,7 +232,7 @@ def place_country(place: str) -> str:
 
 
 def jac_field(text: str, name: str, nxt: str) -> str:
-    m = re.search(rf"{name}:\s*(.*?)\s+(?:{nxt}):", text)
+    m = re.search(rf"{name}\s*:\s*(.*?)\s+(?:{nxt})\s*:", text)  # 改版后冒号前有空格（“Closes : …”）
     return m.group(1).strip() if m else ""
 
 
@@ -247,7 +243,7 @@ def jac_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, s
     level = level_of(title)
     if not level:
         return None, "非博士/博后岗位"
-    closes = re.search(r"Closes:\s*(\d{1,2}(?:st|nd|rd|th)?\s+[A-Za-z]+\s+\d{4})", text)
+    closes = re.search(r"Closes\s*:\s*(\d{1,2}(?:st|nd|rd|th)?\s+[A-Za-z]+\s+\d{4})", text)
     if not closes:
         return None, "页面无截止日期"
     deadline = parse_day(closes.group(1))
@@ -261,12 +257,17 @@ def jac_detail(jid: str, url: str, raw: str, today: str) -> tuple[dict | None, s
             or _any(NOT_FUNDED, body[:6000]):
         return None, "自费或竞争性资助"
     if level == "phd" and not (funding_for or amount):
-        return None, "未写资助"
+        # 11-27 改版后的页面不再有 “Funding for / Funding amount” 两栏：博士岗位写了 Salary（津贴）就用它，
+        # 否则正文要明说有津贴或全额资助才收
+        if salary and not re.match(r"not specified", salary, re.I):
+            amount = salary
+        elif not JAC_FUNDED.search(body[:6000]):
+            return None, "未写资助"
     if level == "postdoc" and not salary:
         return None, "未写薪资"
     head = body[:6000]
     if level == "phd":
-        cn = "yes" if re.search(r"International Students", funding_for) else "no" if funding_for else "check"
+        cn = "yes" if re.search(r"International Students", funding_for) else "no" if funding_for else cn_of(head)
         # 页头标签只写 UK Students，但正文写明国际生也可（按国际学费资助 / 不论居住身份）：标签不可靠，改为待确认
         if cn == "no" and re.search(r"international (rates?|fees?)|regardless of (their )?(residential status|nationality)", head, re.I):
             cn = "check"

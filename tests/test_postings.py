@@ -574,3 +574,30 @@ def test_import_findaphd_refresh_cleans_rows():
     assert n == 0 and rows2[0]["title"] == "newer local"
     rows3, n = imp.merge([dict(k, checked="2026-10-25")], [k])
     assert n == 1 and rows3[0]["checked"] == "2026-11-03"
+
+
+JAC_2026 = """<html><script type="application/ld+json">{"@type":"JobPosting","title":"PhD Studentship: Fuel cell modelling",
+"hiringOrganization":{"name":"Birmingham City University"}}</script><body>
+Location : Midlands of England Salary : £21,805 Hours : Full Time Contract Type : Fixed-Term/Contract
+Placed On : 23rd November 2026 Closes : 10th December 2026 Workplace : On Site Job description
+This funding model includes a 36 month fully funded PhD Studentship.</body></html>"""
+
+
+class _Sitemap:
+    def get(self, url):
+        class R:
+            text = ("<urlset><url><loc>https://www.jobs.ac.uk</loc></url>"
+                    "<url><loc>https://www.jobs.ac.uk/job/DTS675/phd-studentship-fuel-cell</loc></url>"
+                    "<url><loc>https://www.jobs.ac.uk/job/DTS722/lecturer-in-pharmacy</loc></url>"
+                    "<url><loc>https://www.jobs.ac.uk/job/DTS999/research-fellow-in-mapping</loc></url></urlset>")
+        return R()
+
+
+def test_jac_sitemap_and_2026_layout():
+    # 改版后从站点地图取链接，只留博士 / 博后
+    assert [j for j, _ in cp.jac_urls(_Sitemap(), 1)] == ["DTS675", "DTS999"]
+    row, why = cp.jac_detail("DTS675", "u", JAC_2026.replace("2025", "2026"), "2026-11-27")
+    assert why == "收录" and row["deadline"] == "2026-12-10" and row["amount"] == "£21,805"
+    # 没写津贴、正文也没说有资助：不收
+    bare = JAC_2026.replace("£21,805", "Not specified").replace("fully funded ", "")
+    assert cp.jac_detail("X", "u", bare, "2026-11-27")[1] == "未写资助"
