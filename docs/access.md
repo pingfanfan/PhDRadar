@@ -1,6 +1,6 @@
 # 信源可访问性报告
 
-更新于 2026-11-27 07:09 UTC，由 `scripts/access_report.py` 实际访问生成：从两个网络位置各访问一次（我们的服务器，以及 GitHub Actions，2026-11-26 09:59 UTC），任一处能打开即算能打开。
+更新于 2026-11-28 06:24 UTC，由 `scripts/access_report.py` 实际访问生成：从两个网络位置各访问一次（我们的服务器，以及 GitHub Actions，2026-11-27 10:05 UTC），任一处能打开即算能打开。
 
 ## 招聘平台：能否被程序接入
 
@@ -8,38 +8,38 @@
 
 | 平台 | 状态 | 接入方式 | 当前收录岗位 | robots.txt | 访问（本服务器 / Actions） | 说明 |
 |---|---|---|---:|---|---|---|
-| [jobs.ac.uk](https://www.jobs.ac.uk/) | ✅ 已接入 | 搜索列表 + 岗位页 | 763 | 允许 | HTTP 200 / HTTP 200 | — |
-| [Nature Careers](https://www.nature.com/naturecareers/) | ✅ 已接入 | 站点地图 + 岗位页 | 293 | 允许 | HTTP 200 / HTTP 200 | — |
-| [INSPIRE-HEP Jobs](https://inspirehep.net/jobs) | ✅ 已接入 | 官方公开接口 | 266 | 允许 | HTTP 200 / HTTP 200 | — |
-| [学校自建招聘页（理大、剑桥、ANU、哥本哈根、RWTH、TUM、苏黎世大学等）](https://employment.ku.dk/all-vacancies/) | ✅ 已接入 | 各校列表页 / 站点地图 + 岗位页 | 234 | 无 robots.txt（HTTP 404） | HTTP 200 / HTTP 200 | — |
-| [CNRS Emploi（法国国家科研中心）](https://emploi.cnrs.fr/) | ✅ 已接入 | 站点地图 + 岗位页（博士合同与研究员 CDD） | 227 | 允许 | HTTP 200 / HTTP 200 | — |
-| [AcademicTransfer（荷兰）](https://www.academictransfer.com/en/) | ✅ 已接入 | 站点地图 + 岗位页 | 205 | 允许，要求每 10 秒一次 | HTTP 200 / HTTP 200 | — |
+| [jobs.ac.uk](https://www.jobs.ac.uk/) | ✅ 已接入 | 搜索列表 + 岗位页 | 740 | 允许 | HTTP 200 / HTTP 200 | — |
+| [Nature Careers](https://www.nature.com/naturecareers/) | ✅ 已接入 | 站点地图 + 岗位页 | 280 | 允许 | HTTP 200 / HTTP 200 | — |
+| [INSPIRE-HEP Jobs](https://inspirehep.net/jobs) | ✅ 已接入 | 官方公开接口 | 259 | 允许 | HTTP 200 / HTTP 200 | — |
+| [学校自建招聘页（理大、剑桥、ANU、哥本哈根、RWTH、TUM、苏黎世大学等）](https://employment.ku.dk/all-vacancies/) | ✅ 已接入 | 各校列表页 / 站点地图 + 岗位页 | 250 | 无 robots.txt（HTTP 404） | HTTP 200 / HTTP 200 | — |
+| [CNRS Emploi（法国国家科研中心）](https://emploi.cnrs.fr/) | ✅ 已接入 | 站点地图 + 岗位页（博士合同与研究员 CDD） | 234 | 允许 | HTTP 200 / HTTP 200 | — |
+| [AcademicTransfer（荷兰）](https://www.academictransfer.com/en/) | ✅ 已接入 | 站点地图 + 岗位页 | 200 | 允许，要求每 10 秒一次 | HTTP 200 / HTTP 200 | — |
 | [FindAPhD](https://www.findaphd.com/) | ✅ 已接入 | 站点地图 + 岗位页（在 GitHub Actions 上采集） | 185 | 无 robots.txt（HTTP 403） | HTTP 403 / HTTP 403 | 本报告所在服务器被拦截（403），采集改在 GitHub Actions 上运行 |
-| [Varbi（瑞典高校）](https://lu.varbi.com/en/) | ✅ 已接入 | 各校列表页 + 岗位页 | 159 | 允许 | HTTP 200 / HTTP 200 | — |
-| [Academic Jobs Online](https://academicjobsonline.org/ajo/jobs) | ✅ 已接入 | RSS + 岗位页（每 5 秒一次） | 148 | 允许，要求每 5 秒一次 | HTTP 200 / HTTP 200 | — |
-| [德国联邦劳动局职位搜索（Jobsuche）](https://jobsuche.api.bund.dev/) | ✅ 已接入 | 劳动局自己的搜索接口（文档公开的通用 clientId，无需申请密钥） | 135 | 无 robots.txt（HTTP 403） | HTTP 200 / HTTP 200 | 旧版 /pc/v4/jobs 已返回 403，改用文档里的 /pc/v6/jobs；截止日期从岗位描述原文取，取不到不收 |
+| [Varbi（瑞典高校）](https://lu.varbi.com/en/) | ✅ 已接入 | 各校列表页 + 岗位页 | 158 | 允许 | HTTP 200 / HTTP 200 | — |
+| [Academic Jobs Online](https://academicjobsonline.org/ajo/jobs) | ✅ 已接入 | RSS + 岗位页（每 5 秒一次） | 147 | 允许，要求每 5 秒一次 | HTTP 200 / HTTP 200 | — |
+| [德国联邦劳动局职位搜索（Jobsuche）](https://jobsuche.api.bund.dev/) | ✅ 已接入 | 劳动局自己的搜索接口（文档公开的通用 clientId，无需申请密钥） | 142 | 无 robots.txt（HTTP 403） | HTTP 200 / HTTP 200 | 旧版 /pc/v4/jobs 已返回 403，改用文档里的 /pc/v6/jobs；截止日期从岗位描述原文取，取不到不收 |
 | [THE Unijobs](https://www.timeshighereducation.com/unijobs/) | ✅ 已接入 | 站点地图 + 岗位页 | 128 | 允许 | HTTP 200 / HTTP 200 | — |
-| [Jobbnorge（挪威）](https://www.jobbnorge.no/) | ✅ 已接入 | 官方公开接口 | 128 | 无 robots.txt（HTTP 404） | HTTP 200 / HTTP 200 | — |
-| [Oracle Recruiting（大学招聘系统：DTU、南丹麦大学）](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions) | ✅ 已接入 | 候选人站点的公开接口 | 117 | 无 robots.txt（HTTP 404） | HTTP 200 / HTTP 200 | — |
+| [Jobbnorge（挪威）](https://www.jobbnorge.no/) | ✅ 已接入 | 官方公开接口 | 127 | 无 robots.txt（HTTP 404） | HTTP 200 / HTTP 200 | — |
+| [Oracle Recruiting（大学招聘系统：DTU、南丹麦大学）](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions) | ✅ 已接入 | 候选人站点的公开接口 | 118 | 无 robots.txt（HTTP 404） | HTTP 200 / HTTP 200 | — |
 | [SAP SuccessFactors（大学招聘系统：EPFL、TU Delft、维也纳、赫尔辛基、根特等）](https://careers.epfl.ch/) | ✅ 已接入 | 各校站点地图 + 岗位页 | 103 | 允许 | HTTP 200 / HTTP 200 | — |
-| [MathJobs（美国数学会）](https://www.mathjobs.org/jobs) | ✅ 已接入 | RSS + 岗位页（每 5 秒一次） | 92 | 允许，要求每 5 秒一次 | HTTP 200 / HTTP 200 | — |
-| [TAMU 自然资源招聘板（生态/林学）](https://jobs.rwfm.tamu.edu/) | ✅ 已接入 | 列表页 + 岗位页 | 72 | 无 robots.txt（HTTP 404） | HTTP 200 / HTTP 200 | — |
-| [Science Careers](https://jobs.sciencecareers.org/) | ✅ 已接入 | 站点地图 + 岗位页 | 60 | 允许 | HTTP 200 / HTTP 200 | — |
+| [MathJobs（美国数学会）](https://www.mathjobs.org/jobs) | ✅ 已接入 | RSS + 岗位页（每 5 秒一次） | 94 | 允许，要求每 5 秒一次 | HTTP 200 / HTTP 200 | — |
+| [TAMU 自然资源招聘板（生态/林学）](https://jobs.rwfm.tamu.edu/) | ✅ 已接入 | 列表页 + 岗位页 | 69 | 无 robots.txt（HTTP 404） | HTTP 200 / HTTP 200 | — |
+| [Science Careers](https://jobs.sciencecareers.org/) | ✅ 已接入 | 站点地图 + 岗位页 | 63 | 允许 | HTTP 200 / HTTP 200 | — |
 | [EconJobMarket（经济学）](https://econjobmarket.org/) | ✅ 已接入 | 列表页 + 岗位页（只收博后） | 59 | 允许 | HTTP 200 / HTTP 200 | — |
-| [Inria Jobs](https://jobs.inria.fr/public/classic/en/offres) | ✅ 已接入 | 列表页 + 岗位页 | 55 | 允许 | HTTP 200 / HTTP 200 | — |
-| [Workday（大学招聘系统：Aalto、NTU、悉尼、墨尔本、UQ、UBC 等）](https://aalto.wd3.myworkdayjobs.com/aalto) | ✅ 已接入 | 各校站点地图 + 公开岗位接口 | 52 | 无 robots.txt（HTTP 429） | HTTP 200 / HTTP 429 | — |
-| [H-Net Job Guide（人文社科）](https://networks.h-net.org/jobs) | ✅ 已接入 | 列表页 + 岗位页（每 5 秒一次） | 39 | 允许，要求每 5 秒一次 | HTTP 404 / HTTP 404 | — |
-| [ReachMee（大学招聘系统：Chalmers）](https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/) | ✅ 已接入 | 外部招聘站列表页 + 岗位页 | 37 | 无 robots.txt（HTTP 404） | HTTP 200 / HTTP 200 | — |
-| [FENS Job Market（神经科学）](https://www.fens.org/careers/job-market) | ✅ 已接入 | 列表页 + 岗位页 | 33 | 允许 | HTTP 200 / HTTP 200 | — |
-| [FAPESP Oportunidades（巴西圣保罗州研究基金会）](https://fapesp.br/oportunidades/) | ✅ 已接入 | 列表页 + 公告页（博士 / 博后奖学金） | 32 | 允许 | HTTP 200 / HTTP 200 | — |
-| [EGU Jobs（欧洲地球科学联合会）](https://www.egu.eu/jobs/) | ✅ 已接入 | 列表页 + 岗位页（结构化截止字段） | 32 | 允许 | HTTP 200 / HTTP 200 | — |
-| [DAAD PhDGermany](https://www.daad.de/en/studying-in-germany/phd-studies-research/phd-germany/) | ✅ 已接入 | 列表页 + 岗位页（链接需带 phd-id） | 30 | 允许 | HTTP 200 / HTTP 200 | — |
-| [Aarhus University（丹麦）](https://international.au.dk/about/profile/vacant-positions/) | ✅ 已接入 | 列表页内嵌数据 + 岗位页 | 29 | 无 robots.txt（HTTP 404） | HTTP 200 / HTTP 200 | — |
+| [Inria Jobs](https://jobs.inria.fr/public/classic/en/offres) | ✅ 已接入 | 列表页 + 岗位页 | 52 | 允许 | HTTP 200 / HTTP 200 | — |
+| [Workday（大学招聘系统：Aalto、NTU、悉尼、墨尔本、UQ、UBC 等）](https://aalto.wd3.myworkdayjobs.com/aalto) | ✅ 已接入 | 各校站点地图 + 公开岗位接口 | 51 | 无 robots.txt（HTTP 429） | HTTP 429 / HTTP 429 | — |
+| [H-Net Job Guide（人文社科）](https://networks.h-net.org/jobs) | ✅ 已接入 | 列表页 + 岗位页（每 5 秒一次） | 39 | 允许，要求每 5 秒一次 | HTTP 404 / HTTP 429 | — |
+| [ReachMee（大学招聘系统：Chalmers）](https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/) | ✅ 已接入 | 外部招聘站列表页 + 岗位页 | 39 | 无 robots.txt（HTTP 404） | HTTP 200 / HTTP 200 | — |
+| [FENS Job Market（神经科学）](https://www.fens.org/careers/job-market) | ✅ 已接入 | 列表页 + 岗位页 | 36 | 允许 | HTTP 200 / HTTP 200 | — |
+| [EGU Jobs（欧洲地球科学联合会）](https://www.egu.eu/jobs/) | ✅ 已接入 | 列表页 + 岗位页（结构化截止字段） | 33 | 允许 | HTTP 200 / HTTP 200 | — |
+| [DAAD PhDGermany](https://www.daad.de/en/studying-in-germany/phd-studies-research/phd-germany/) | ✅ 已接入 | 列表页 + 岗位页（链接需带 phd-id） | 31 | 允许 | HTTP 200 / HTTP 200 | — |
+| [FAPESP Oportunidades（巴西圣保罗州研究基金会）](https://fapesp.br/oportunidades/) | ✅ 已接入 | 列表页 + 公告页（博士 / 博后奖学金） | 30 | 允许 | HTTP 200 / HTTP 200 | — |
+| [Aarhus University（丹麦）](https://international.au.dk/about/profile/vacant-positions/) | ✅ 已接入 | 列表页内嵌数据 + 岗位页 | 28 | 无 robots.txt（HTTP 404） | ReadTimeout / HTTP 200 | — |
 | [Physics Today Jobs](https://jobs.physicstoday.org/) | ✅ 已接入 | 站点地图 + 岗位页 | 21 | 允许 | HTTP 200 / HTTP 200 | — |
 | [LINGUIST List（语言学）](https://linguistlist.org/) | ✅ 已接入 | RSS + 公告页 | 19 | 允许 | HTTP 200 / HTTP 200 | — |
-| [Universität Innsbruck 招聘门户](https://lfuonline.uibk.ac.at/public/karriereportal.home?rubrik_in=PSP) | ✅ 已接入 | 列表页 + 岗位页 | 16 | 允许 | HTTP 200 / HTTP 200 | — |
-| [Institut Pasteur](https://research.pasteur.fr/en/jobs/) | ✅ 已接入 | 列表页 + 岗位页 | 10 | 允许 | HTTP 200 / HTTP 200 | — |
-| [PageUp（大学招聘系统：港大、La Trobe）](https://jobs.hku.hk/en/listing/) | ✅ 已接入 | 列表页 + 岗位页（每 4 秒一次） | 8 | 允许，要求每 5 秒一次 | HTTP 202 / HTTP 200 | 列表页能读，但岗位页对程序访问一律弹 AWS WAF 人机验证（HTTP 202）；不绕过，遇到就停 |
+| [Institut Pasteur](https://research.pasteur.fr/en/jobs/) | ✅ 已接入 | 列表页 + 岗位页 | 11 | 允许 | HTTP 200 / HTTP 429 | — |
+| [Universität Innsbruck 招聘门户](https://lfuonline.uibk.ac.at/public/karriereportal.home?rubrik_in=PSP) | ✅ 已接入 | 列表页 + 岗位页 | 11 | 允许 | HTTP 200 / HTTP 200 | — |
+| [PageUp（大学招聘系统：港大、La Trobe）](https://jobs.hku.hk/en/listing/) | ✅ 已接入 | 列表页 + 岗位页（每 4 秒一次） | 8 | 允许，要求每 5 秒一次 | HTTP 200 / HTTP 200 | 列表页能读，但岗位页对程序访问一律弹 AWS WAF 人机验证（HTTP 202）；不绕过，遇到就停 |
 | [PSI（瑞士保罗谢勒研究所）](https://www.psi.ch/en/hr/job-opportunities) | ✅ 已接入 | 列表页 + 岗位页 | 7 | 允许 | HTTP 200 / HTTP 200 | — |
 | [ELLIS Jobs（欧洲 AI 研究网络）](https://ellis.eu/research/jobs) | ✅ 已接入 | 列表页 + 岗位页 | 7 | 允许 | HTTP 200 / HTTP 200 | — |
 | [INFN（意大利国家核物理研究院）](https://jobs.dsi.infn.it/) | ✅ 已接入 | 列表页 + 公告页（博后合同） | 6 | 无 robots.txt（HTTP 404） | HTTP 200 / HTTP 200 | — |
@@ -56,13 +56,13 @@
 | [PhilJobs（哲学）](https://philjobs.org/) | ⏸ 未接入 | — | — | 允许 | HTTP 200 / HTTP 200 | 使用条款禁止把内容录入数据库（个人使用除外） |
 | [AEA JOE（经济学）](https://www.aeaweb.org/joe/) | ⏸ 未接入 | — | — | 允许 | HTTP 200 / HTTP 200 | 页面写明未经美国经济学会书面许可不得抓取 |
 | [APS Careers（物理）](https://jobs.aps.org/) | ⛔ 不允许 | — | — | 禁止 | HTTP 200 / HTTP 200 | robots.txt 对所有程序 Disallow: / |
-| [HiBrain（韩国）](https://www.hibrain.net/) | ⛔ 不允许 | — | — | 禁止 | HTTP 200 / HTTP 403 | robots.txt 对所有程序 Disallow: / |
+| [HiBrain（韩国）](https://www.hibrain.net/) | ⛔ 不允许 | — | — | 禁止 | HTTP 200 / HTTP 200 | robots.txt 对所有程序 Disallow: / |
 | [Chronicle Jobs（美国）](https://jobs.chronicle.com/) | ⏸ 未接入 | — | — | 允许 | HTTP 200 / HTTP 200 | 允许访问，但抽查 40 个岗位页都不写截止日期 |
 | [Inside Higher Ed Careers](https://careers.insidehighered.com/) | ⏸ 未接入 | — | — | 允许 | HTTP 200 / HTTP 200 | 允许访问，但岗位页只有广告下架日期，没有申请截止日期 |
 
 ## 核对过的高质量信源：能否打开
 
-对 3966 条逐页核对过官网的信源实际访问一次：✅ 能打开 3822（96%）· ⚠️ 服务器拦截脚本或需登录 64 · ❌ 失效 80。
+对 3966 条逐页核对过官网的信源实际访问一次：✅ 能打开 3816（96%）· ⚠️ 服务器拦截脚本或需登录 70 · ❌ 失效 80。
 
 “拦截”多数是网站拒绝脚本访问（403、Cloudflare 验证、限制境外访问），用浏览器通常能正常打开；“失效”是 404/410 或域名解析失败，已排进核实队列优先处理。
 
@@ -89,6 +89,7 @@
 | [KAIST Sangsik Kim 课题组招生（博后/博士/硕士）](https://kimgroup.kaist.ac.kr/?p=26) | HTTP 404 |
 | [KAIST 机器学习与视觉实验室（MLV）招聘页](https://mlv.kaist.ac.kr/openings) | HTTP 404 |
 | [KCL EPSRC 成像博士培训中心（Imaging CDT）博士](https://www.kcl.ac.uk/study/postgraduate-research/areas/imaging-cdt) | HTTP 404 |
+| [Los Alamos National Laboratory 博士后项目 · 资格与聘任说明](https://lanl.gov/engage/collaboration/postdoctoral-research/becoming-a-postdoc/eligibility-and-appointments) | HTTP 404 |
 | [Manjana Milkoreit · OsloMet · CAMELOT（ERC CoG）长期气候治理博士岗](https://www.oslomet.no/en/work/job-openings/phd-position-in-long-term-climate-governance) | HTTP 404 |
 | [Novo Nordisk Foundation 海外研究博后（Bioscience and Basic Biomedicine）](https://novonordiskfonden.dk/app/uploads/Postdoc-Fellowships-for-Research-Abroad-2026-Guidelines-Bioscience-and-Basic-Biomedicine.pdf) | HTTP 404 |
 | [ONERA 法国航空航天研究院博士合同](https://w3.onera.fr/formationparlarecherche/node/4) | HTTP 404 |
@@ -128,12 +129,11 @@
 | [岭南大学 MSoDA 博士后（26/241/JAC）](https://www.jobs.ac.uk/job/DSZ284/postdoctoral-fellow-msoda) | HTTP 404 |
 | [岭南大学社会学与社会政策系博士后（2 个岗位，26/236/JAC）](https://www.jobs.ac.uk/job/DSY616/postdoctoral-fellow) | HTTP 404 |
 | [巴塞尔历史研究生院（BGSH）Starter Scholarship（2027 年 4 月开始）](https://jobs.unibas.ch/offene-stellen/starter-scholarships-of-the-basel-graduate-school-of-history/43646da9-a53a-4dba-86dc-b823a312cefb) | HTTP 404 |
-| [拉瓦尔大学 Goodman 药物研发博士奖学金](https://pha.ulaval.ca/en/research/translate-to-english-bourses-detudes-doctorales-goodman) | HTTP 404 |
+| [布里斯托大学 CSC 联合奖学金（化学学院）](https://www.bristol.ac.uk/chemistry/postgraduate/pg-vacancies/phd-scholarships-and-overseas-applicants/china-scholarship-council-phd-scholarships/) | HTTP 404 |
 | [斯威本科技大学研究生研究奖（SUPRA）](https://www.swinburne.edu.au/study/options/scholarships/221/swinburne-university-postgraduate-research-award/) | HTTP 404 |
 | [普渡大学 Daniels 商学院博士资助](https://www.business.purdue.edu/phd/funding.php) | HTTP 404 |
 | [曼彻斯特大学 EPSRC 拓扑光子器件博士项目](https://www.jobs.ac.uk/job/DSG671/phd-epsrc-topological-and-other-types-of-photonics-devices-for-sensing-modulation-and-other-applications) | HTTP 404 |
 | [曼彻斯特大学机械与航空航天工程 PGRTA 增强型博士岗](https://www.jobs.ac.uk/job/DSE516/mechanical-and-aerospace-engineering-pgrtas-enhanced-phd-studentship) | HTTP 404 |
-| [曼海姆商学院运营管理全奖博士项目](https://www.bwl.uni-mannheim.de/news/fully-funded-phd-program-in-operations-management/) | HTTP 404 |
 | [柏林自由大学（FU Berlin）CSC 博士合作项目 2026 岗位说明](https://www.fu-berlin.de/en/sites/china/foerdermoeglichkeiten/fuer_chinesen/csc-phd-program/PhD-positions-2026/diverse_own-research-proposal.pdf) | HTTP 404 |
 | [格勒诺布尔阿尔卑斯大学 EDSTEP 博士经费类型说明（合同博士 / CIFRE）](https://edstep.univ-grenoble-alpes.fr/apply/financing-your-phd/) | HTTP 404 |
 | [波鸿鲁尔大学 发展心理学博士研究助理（早期儿童情景记忆项目）](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003809215-S) | HTTP 410 |
@@ -155,7 +155,7 @@
 
 </details>
 
-### ⚠️ 拦截脚本 / 需登录（64）
+### ⚠️ 拦截脚本 / 需登录（70）
 
 <details><summary>展开清单</summary>
 
@@ -164,6 +164,7 @@
 | [AIST 博士后研究员英文招聘页（innhr）](https://unit.aist.go.jp/innhr/inn-s/en/index.html) | ConnectionError |
 | [AIST 英文招聘页（博士后与研究岗）](https://unit.aist.go.jp/ncm/en/recruit/index.html) | ConnectionError |
 | [ANU Taiyang and Loong 计算生物博士奖学金（JCSMR）](https://jcsmr.anu.edu.au/study/talo-program/taiyang-and-loong-phd-scholarships) | HTTP 403 |
+| [ANU 中国与世界研究中心（CIW）博士奖学金](https://ciw.anu.edu.au/fellowships-grants) | ConnectionError |
 | [Aalto 大学 MSCA 博士网络岗：电推进太阳风帆任务设计](https://www.aalto.fi/en/open-positions/doctoral-researcher-msca-doctoral-network-position-electric-solar-wind-sail-mission-design) | HTTP 403 |
 | [Berlin Mathematical School（MATH+）](https://math-berlin.de/application) | SSLError |
 | [Census Fellowship in the Reception of Antiquity（洪堡大学 / 沃伯格 / Hertziana）](https://www.biblhertz.it/3807501/Census-of-the-Reception-of-Antique-Art-and-Architecture) | SSLError |
@@ -175,7 +176,7 @@
 | [FWO（Research Foundation – Flanders）](https://www.fwo.be/en/support-programmes/phd-fellowships/) | SSLError |
 | [Federation University 研究生（HDR）奖学金总页](https://federation.edu.au/research/graduate-research-school/hdr-scholarships) | HTTP 403 |
 | [Ford Foundation Predoctoral Fellowship（经高校页面介绍）](https://fellowships.sfsu.edu/ford-foundation-predoctoral-fellowships) | HTTP 403 |
-| [Fred Hutch 与华盛顿大学联合分子与细胞生物学博士项目](https://fredhutch.org/en/education-training/graduate-program.html) | SSLError |
+| [Fred Hutch 与华盛顿大学联合分子与细胞生物学博士项目](https://fredhutch.org/en/education-training/graduate-program.html) | ConnectionError |
 | [Fred Hutch 博士后项目总览](https://fredhutch.org/en/education-training/postdoctoral-fellows-programs.html) | SSLError |
 | [GSI 亥姆霍兹重离子研究中心 HGS-HIRe for FAIR 研究生院](https://gsi.de/work/wissenschaftliche_netzwerke/hgs_hire.htm) | HTTP 503 |
 | [HKU 计算与数据科学学院 PhD/MPhil 招生页](https://cs.hku.hk/programmes/research-based/mphil-phd-admission) | ConnectionError |
@@ -191,18 +192,20 @@
 | [KAUST FASTER 课题组（Aamir Farooq）招生页](https://faster.kaust.edu.sa/Join-us) | HTTP 401 |
 | [KSU 沙特国王大学全职博士后](https://dsrs.ksu.edu.sa/en/Postdoc) | HTTP 403 |
 | [Kavli IPMU 博士后研究员（PD 计划）](https://www.ipmu.jp/en/node/9303) | HTTP 403 |
-| [Los Alamos National Laboratory 博士后项目 · 资格与聘任说明](https://lanl.gov/engage/collaboration/postdoctoral-research/becoming-a-postdoc/eligibility-and-appointments) | HTTP 403（GitHub Actions 上可访问；本服务器：HTTP 404） |
 | [Ohio State ECE 博士资助](https://ece.osu.edu/funding-your-graduate-education) | HTTP 403 |
 | [Penn State 哲学系博士资助与支持](https://philosophy.la.psu.edu/graduate/prospectivegrads/funding-and-support/) | HTTP 403 |
 | [SOAS 教学奖学金（博士）](https://www.soas.ac.uk/study/student-life/finance/scholarships/soas-teaching-scholarships) | HTTP 403 |
 | [Schlumberger Foundation Faculty for the Future（女性 STEM 博士奖学金）](https://www.facultyforthefuture.net/applications/) | ConnectionError |
 | [Scripps Research 研究生院博士资助](https://education.scripps.edu/graduate/financial-support/) | SSLError |
+| [UCLouvain ELI 研究所开放岗位](https://uclouvain.be/en/research-institutes/eli/open-positions) | ConnectionError |
+| [UCLouvain FSR 国际博士后接收资助](https://www.uclouvain.be/en/news/appel-fsr-bourses-accueil-de-post-doctorants-en-mobilite-internationale) | ConnectionError |
+| [UCLouvain IRIS · 博士经费说明（Financer son doctorat）](https://www.uclouvain.be/fr/instituts-recherche/iris/financer-son-doctorat) | ConnectionError |
 | [俄亥俄州立大学 CSE 博士研究/教学助理资助](https://cse.osu.edu/graduate) | HTTP 403 |
 | [加拿大国家研究理事会（NRC）Luise and Gerhard Herzberg 博士后奖学金](https://cnrc.canada.ca/en/corporate/careers/postdoctoral-fellowship-program) | HTTP 403 |
 | [哈佛 GSAS 文理学院人文社科博士资助（含东亚语言文明 EALC）](https://gsas.harvard.edu/financial-support/funding-and-aid/financial-support-phd-students/fas-humanities-and-social-sciences) | HTTP 403 |
 | [哈佛 GSAS 生物与生物医学科学博士项目（BBS）](https://gsas.harvard.edu/program/biological-and-biomedical-sciences) | HTTP 403 |
 | [哈佛 GSAS 自然科学与工程博士资助保障](https://gsas.harvard.edu/natural-sciences-engineering-and-applied-sciences-and-medical-sciences-support) | HTTP 403 |
-| [图宾根大学机器学习卓越集群岗位页](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/open-positions/) | ConnectionError |
+| [图宾根大学机器学习卓越集群岗位页](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/open-positions/) | ConnectionError（GitHub Actions 上可访问；本服务器：HTTP 404） |
 | [图宾根大学机器学习理论组（TML）职位页](https://www.tml.cs.uni-tuebingen.de/jobs/index.php) | ConnectionError |
 | [埃塞克斯大学 AHRC 博士培训伙伴（DTP）奖学金](https://www.essex.ac.uk/postgraduate/research/doctoral-training-partnerships/ahrc) | SSLError |
 | [埃塞克斯大学 Leverhulme 可持续转型博士中心奖学金](https://www.essex.ac.uk/-/media/documents/directories/fees-and-funding/pgr-terms/sustainable-transitions---leverhulme-doctoral-centre-phd-scholarship-26-27.pdf) | SSLError |
@@ -215,16 +218,19 @@
 | [宾州州立大学政治学系资助](https://polisci.la.psu.edu/?p=373) | HTTP 403 |
 | [密歇根大学总统博士后项目](https://presidentspostdoc.umich.edu/appointment.php) | HTTP 403 |
 | [居里研究所国际博士项目 IC-PhD（巴黎）](https://enseignement.curie.fr/article/ic-phd) | ConnectionError |
+| [布鲁诺·凯斯勒基金会（FBK）国际博士项目](https://phd.fbk.eu/calls/) | HTTP 403 |
 | [希伯来大学 Mandel 学院奖学金与资助页](https://en.mandelschool.huji.ac.il/book/export/html/9411) | HTTP 403 |
 | [康奈尔 Kavli 研究所（KIC）纳米科学实验博士后奖学金](https://www.applykite.com/positions/kic-experimental-postdoctoral-fellowships-in-nanoscale-science-at-cornell-university-8hvcc4df0z) | HTTP 403 |
 | [惠灵顿维多利亚大学 · 国家留学基金委（CSC）联合奖学金](https://www.wgtn.ac.nz/scholarships/current/china-scholarships-council-csc-victoria-university-scholarship-scheme) | HTTP 403 |
 | [惠灵顿维多利亚大学博士奖学金](https://www.wgtn.ac.nz/scholarships/current/wellington-doctoral-scholarship) | HTTP 403 |
 | [成均馆大学研究生国际生奖学金](https://admission-global.skku.edu/eng/grad/scholarship_grad.html) | ConnectionError |
+| [拉瓦尔大学 Goodman 药物研发博士奖学金](https://pha.ulaval.ca/en/research/translate-to-english-bourses-detudes-doctorales-goodman) | ConnectionError（连接失败，可能限制境外访问） |
+| [曼海姆商学院运营管理全奖博士项目](https://www.bwl.uni-mannheim.de/news/fully-funded-phd-program-in-operations-management/) | ConnectionError |
 | [曼海姆大学 商业分析与运筹学 博士助研岗位](https://www.bwl.uni-mannheim.de/en/details/job-offer-research-and-teaching-assistant-phd-position-f-m-d-business-analytics-and-operations-research-2/) | ConnectionError |
 | [柏林卫生研究院 BIH 英文博士项目（Translate to English PhD Programme）](https://bihealth.org/en/translation/innovation-enabler/academy/promotion-of-young-talents/translate-to-englisch-bih-phd-programm) | HTTP 403 |
 | [波恩大学数学系 · 博士后岗位](https://www.mathematics.uni-bonn.de/hcm/opportunities/jobs/postdoc-positions) | HTTP 403 |
-| [马尔凯理工大学（UNIVPM）XLII 周期博士公告](https://www.univpm.it/Entra/Universita_Politecnica_delle_Marche_Home/Bando_Corsi_di_Dottorato_Di_Ricerca_XLII) | ConnectionError |
 | [马普可持续材料研究所（MPI-SusMat）博士招生页](https://www.mpie.de/2928204/admission) | SSLError |
+| [高校人才网 · 博士与博士后招聘栏目](https://www.gaoxiaojob.com/column/3.html) | HTTP 403 |
 
 </details>
 
