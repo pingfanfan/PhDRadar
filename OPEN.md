@@ -1,9 +1,9 @@
 # 现在可以申请的带奖博士 / 博后
 
-> 生成日期：2026-11-27。共 **219** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
+> 生成日期：2026-11-28。共 **215** 条，每一条都由核实员打开官网正文、确认“今天仍可申请”（或即将开放），并摘录了官网原句作证据。截止日已过的会自动移出；滚动招生条目每 14 天复核一次。
 > 截止时间以官网为准（注意时区），投递前请再打开官网确认。“中国学生”一列只反映官网是否写明国际生可申请。
 
-- [30 天内截止](#30-天内截止)（137）
+- [30 天内截止](#30-天内截止)（133）
 - [之后截止](#之后截止)（82）
 - [滚动招生 / 招满为止](#滚动招生--招满为止)（0）
 - [即将开放](#即将开放)（0）
@@ -12,10 +12,6 @@
 
 | 截止 | 机会 | 地区 | 层次 | 资助 | 中国学生 | 说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-27 | [智利 ANID 国家博士奖学金（Beca de Doctorado Nacional）](https://anid.cl/capital-humano-2/doctorado-nacional/) | 智利 | 博士 | 官网未写明 | ❔ 官网未写明 | 智利 ANID 2027 学年博士奖学金征集，截止 2026 年 11 月 27 日 13:00；页面未说明外国国籍是否可申请。<br>官网原句：“Cierre: 27 de noviembre, 2026 - 13:00” |
-| 2026-11-27 | [RobotX PhD Fellowship 2027（ETH Zurich）](https://jobs.ethz.ch/job/view/JOPG_ethz_zBtPwWHnM0fumyTFso) | 瑞士 | 博士 | 带薪岗位 | ❔ 官网未写明 | RobotX 2027 轮博士岗位，截止 2026 年 11 月 27 日，仅接受在线门户提交。<br>官网原句：“Application deadline: 27 November 2026.” |
-| 2026-11-27 | [RobotX Postdoctoral Fellowship（ETH Zurich）](https://jobs.ethz.ch/job/view/JOPG_ethz_58u057ys6BxuEciK5P) | 瑞士 | 博后 | 带薪岗位 | ❔ 官网未写明 | RobotX 博后岗位，截止 2026 年 11 月 27 日，仅接受在线门户提交。<br>官网原句：“Application deadline: 27 November 2026.” |
-| 2026-11-27 | [大英图书馆合作型 Doctoral Landscape Award（AHRC CDLA）](https://www.bl.uk/services/research-collaboration/collaborative-doctoral-landscape-awards) | 英国 | 博士 | 官网未写明 | ❔ 官网未写明 | 页面称现在接受申请，申请者须为英国高校在职学者（导师方），截止 2026-11-27 17:00；学生的国际生资格未在页面说明。<br>官网原句：“The deadline is 17.00 on Friday 27 November 2026. Late applications cannot be accepted.” |
 | 2026-11-29 | [巴斯大学面向中国新博士生的资助汇总](https://bath.ac.uk/campaigns/funding-opportunities-for-new-doctoral-students-from-china) | 英国 | 博士 | 全奖（学费＋生活费） | ✅ 可申 | 2027/28 学年入学的申请窗口为 2026-10-12 至 2026-11-29，需在申请中选择 CSC 与巴斯大学联合奖学金。<br>官网原句：“Applications for entry in the 2027/28 academic year will open on 12 October 2026 until 29 November 2026” |
 | 2026-11-30 | [奥胡斯大学经济系 ACE 岗位页](https://econ.au.dk/ace/vacancies) | 丹麦 | 博士、博后 | 带薪岗位 | ❔ 官网未写明 | 博后岗位 Econometrics 目标截止 2026-11-30，开始时间为 2027 夏季或秋季；页面未列博士岗位。<br>官网原句：“Target deadline: 30 November 2026.” |
 | 2026-11-30 | [奥胡斯大学 计算质谱成像与空间代谢组学博士 · 招生](https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/phd-position-in-computational-mass-spectrometry-imaging-and-spatial-metabolomics) | 丹麦 | 博士 | 带薪岗位 | ❔ 官网未写明 | 页面写截止 2026-11-30 23:59 CET，计划 2027-02-01 入学；需相关专业硕士学位。<br>官网原句：“Application deadline is 30 November 2026 at 23:59 CET.” |
