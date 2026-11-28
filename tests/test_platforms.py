@@ -134,6 +134,28 @@ def test_lms_urls_and_detail():
     assert uk.lms_detail("nobody", "u", LMS_PAGE, TODAY)[0] is None
 
 
+def test_lms_round_closed():
+    import platforms_uk as uk
+
+    class R:
+        def __init__(self, text): self.text = text
+
+    class F:
+        def __init__(self, hub): self.hub = hub
+        def get(self, url):
+            if url == uk.LMS_PAGE:
+                raise RuntimeError("404 Client Error: Not Found")
+            return R(self.hub)
+
+    closed = "<p>How to apply</p><p>Recruitment for our 2027 PhD programmes is now closed. For information about our 2028 PhD programme, please contact us.</p>"
+    assert uk.lms_urls(F(closed), 1) == []
+    try:
+        uk.lms_urls(F("<p>How to apply</p>"), 1)
+        raise AssertionError("改版时应报错")
+    except RuntimeError:
+        pass
+
+
 SOTON_LIST_PAGE = """<header><span>238 Results</span></header>
 <li><a href="/study/postgraduate-research/projects/realising-upconversion" class="card-link"><h3 class="card__title"> Realising upconversion </h3>
 <span class="label field-label-above">Closing date:</span> <span>2027-01-31</span>

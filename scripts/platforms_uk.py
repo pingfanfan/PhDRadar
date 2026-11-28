@@ -87,8 +87,22 @@ LMS_PAGE = "https://lms.mrc.ac.uk/work-and-study/studentships/lms-4-year-phd-stu
 LMS_PROJECT = re.compile(r'href="https://lms\.mrc\.ac\.uk/wp-content/uploads/([A-Za-z0-9-]+)-Project[^"]*\.docx"[^>]*>([^<]{5,200})<')
 
 
+LMS_HUB = "https://lms.mrc.ac.uk/work-and-study/studentships/"
+LMS_CLOSED = re.compile(r"Recruitment for our \d{4} PhD programmes? is now closed", re.I)
+
+
 def lms_urls(f: Fetcher, max_pages: int) -> list[tuple[str, str]]:
-    raw = f.get(LMS_PAGE).text
+    # 一年一轮：本轮截止后招生页会撤下（404），招生总页改写“Recruitment for our 2027 PhD programmes is now closed”。
+    # 总页写明已关闭时当作“本轮无在招”返回空，不报错；总页没写关闭则照常报错，以免漏看改版。
+    try:
+        raw = f.get(LMS_PAGE).text
+    except Exception:
+        hub = page_text(f.get(LMS_HUB).text)
+        m = LMS_CLOSED.search(hub)
+        if not m:
+            raise
+        print(f"[lms] 招生页已撤下，总页写“{m.group(0)}”，本轮无在招")
+        return []
     return [(slug.lower(), f"{LMS_PAGE}#{slug.lower()}") for slug, _ in dict(LMS_PROJECT.findall(raw)).items()]
 
 
